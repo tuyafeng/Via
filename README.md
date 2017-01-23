@@ -1,2 +1,2 @@
 # Via
-Via is a simple browser
+We encourage everyone to help with localization.
