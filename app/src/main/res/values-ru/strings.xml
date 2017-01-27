@@ -115,7 +115,7 @@
     <string name="title_file_chooser">Выбор файла</string>
     <string name="export_bookmarks">Резервное копирование закладок</string>
     <string name="import_backup">Восстановление закладок из резервной копии</string>
-    <string name="bookmark_export_path">Резервная копия сохранена в</string>
+    <string name="bookmark_export_path">Резервная копия сохранена в\n</string>
     <string name="import_bookmark_error">Не удалось импортировать закладки из файла</string>
     <string name="action_exit">Выход</string>
     <string name="about">О приложении</string>
@@ -158,7 +158,7 @@
     <string name="operation_reload">Перезагрузка</string>
     <string name="operation_top">Перейти в начало</string>
     <string name="operation_bottom">Перейти в конец</string>
-    <string name="operation_input">Ввести ссылку</string>
+    <string name="operation_input">Ввести адрес</string>
     <string name="operation_newtab">Новая вкладка</string>
     <string name="operation_addbookmark">Добавить в закладки</string>
     <string name="operation_openbookmark">Открыть закладки</string>
@@ -200,7 +200,7 @@
     <string name="get_more_rules">Получить правила</string>
     <string name="add_rule">Добавить правило</string>
     <string name="hint_tags">Метка</string>
-    <string name="clear_ad_rules">Стереть все правила</string>
+    <string name="clear_ad_rules">Удалить все правила</string>
     <string name="color_mode">Использовать цветовой режим</string>
     <string name="dialog_sure">Вы уверены, что хотите это сделать?</string>
     <string name="action_send_to_launcher">Ярлык на экран</string>
@@ -210,7 +210,7 @@
     <string name="user_update">Обновление в облаке</string>
     <string name="log_in_success">Успешный вход</string>
     <string name="wrong_psw">Некорректный пароль</string>
-    <string name="sign_up_success">Успешная регистрация</string>
+    <string name="sign_up_success">Регистрация прошла успешно</string>
     <string name="code_500">Сервис недоступен</string>
     <string name="syns_success">Синхронизация выполнена успешно</string>
     <string name="upload_success">Загрузка завершена</string>
@@ -228,7 +228,7 @@
     <string name="open_or_search">Открыть/Поиск</string>
     <string name="settings_addons">Дополнения</string>
     <string name="addon_download">Менеджер загрузки</string>
-    <string name="addon_qr_code_scan">Сканирование QR-кодов</string>
+    <string name="addon_qr_code_scan">Сканер QR-кода</string>
     <string name="install_addon">Скачать и установить эти дополнения? Они будут работать после установки.</string>
     <string name="quick_back">Возврат без перезагрузки</string>
     <string name="open_with">Открыть в&#8230;</string>
@@ -241,7 +241,7 @@
     <string name="data_cache">Кэш</string>
     <string name="data_form_data">Данные форм</string>
     <string name="data_history">История</string>
-    <string name="data_storage">Веб-хранилище</string>
+    <string name="data_storage">Web-хранилище</string>
     <string name="data_cookies">Cookies</string>
     <string name="data_cleared">Данные очищены</string>
 
@@ -278,7 +278,7 @@
     <string name="saved_page_successfully">Страница успешно сохранена в архив</string>
     <string name="deleted_failed">Ошибка при удалении. Попробуйте удалить файл вручную. Путь нахождения файла:</string>
 
-    <string name="empty_hint">В архиве нет сохранённых страниц&#8230;</string>
+    <string name="empty_hint">Пусто&#8230;</string>
 
     <string name="network_log">Сетевой журнал</string>
     <string name="catalog">Каталог</string>
@@ -316,7 +316,7 @@
     <string name="online_addons">Ещё дополнения</string>
     <string name="search_prompt">Быстрый поисковый запрос</string>
     <string name="wideViewPort">Режим обзора</string>
-    <string name="overViewMode">Загружать страницы в режиме обзора</string>
+    <string name="overViewMode">Страницы в режиме обзора</string>
     <string name="log_page_hint">Можно скопировать данную ссылку или домен и вставить в %1$s для блокирования их загрузки при помощи внешнего чёрного списка.</string>
     <string name="fullscreen_0">Отключено</string>
     <string name="fullscreen_1">Прокрутка скрывает/показывает</string>
@@ -333,5 +333,17 @@
     <string name="open_in_new">Открывать в новой вкладке</string>
     <string name="open_in_new_background">В фоне</string>
     <string name="open_in_new_foreground">На переднем плане</string>
-    <string name="help_us_translate">Помочь с переводом</string>
+    <string name="help_us_translate">Помогите нам с переводом</string>
+    <string name="confirm_to_leave">Подтверждение выхода</string>
+    <string name="leave">Выйти</string>
+    <string name="stay">Остаться</string>
+    <string name="ui_tablet_bottom">Планшет (внизу)</string>
+    <string name="drag_and_drop">Попробуйте перетащить</string>
+    <string name="skin_logo">Логотип</string>
+    <string name="skin_bg">Фон</string>
+    <string name="skin_style">Стиль</string>
+    <string name="skin_settings">Настройки</string>
+    <string name="share_desc">отправить через Via, скачать его: </string>
+    <string name="set_it_as_homepage">Установить в качестве домашней страницы?</string>
+
 </resources>
