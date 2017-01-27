@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources tools:ignore="MissingTranslation" xmlns:tools="http://schemas.android.com/tools">
+
+    <string name="app_name">Via</string>
+    <string name="action_new_tab">Nouveau onglet</string>
+    <string name="action_open_in_new">Ouvrir dans un nouvel onglet</string>
+    <string name="action_save_img">Enregistrer l'image</string>
+    <string name="action_share">Partager</string>
+    <string name="action_history">Historique</string>
+    <string name="action_bookmarks">Favoris</string>
+    <string name="action_screenshot">"Capture d'écran"</string>
+    <string name="bookmarks_file">Exporter Favoris</string>
+    <string name="action_add_bookmark">Ajouter aux favoris</string>
+    <string name="action_night">Mode nuit</string>
+    <string name="action_copy">Copier le Lien</string>
+    <string name="action_copy_domain">Copier le site</string>
+    <string name="action_image_off">Sans images</string>
+    <string name="settings">Configurations</string>
+    <string name="location">Accès aux données localisées</string>
+    <string name="password">Enregistrer le mot de passe</string>
+    <string name="save_formdata">Enregistrer les données</string>
+    <string name="donate">Faire un don</string>
+    <string name="donate_details">Si vous aimez Via navigateur, vous pouvez faire un don pour nous soutenir.\nAlipay: 2376688759@qq.com\nPayPal: wiar1824@gmail.com</string>
+    <string name="orientation">Orientation</string>
+    <string name="orientation_system">Système</string>
+    <string name="orientation_auto">Auto</string>
+    <string name="orientation_portrait">Portrait</string>
+    <string name="orientation_landscape">Paysage</string>
+    <string name="agent">Agent utilisateur</string>
+    <string name="flash">Activer Adobe Flash</string>
+    <string name="home">Accueil</string>
+    <string name="fullscreen">Masquer la barre d'opération</string>
+    <string name="java">Activer le language JavaScript</string>
+    <string name="download">Dossier de téléchargement</string>
+    <string name="reflow">Agrandir le texte</string>
+    <string name="cookies">Activer les cookies</string>
+    <string name="size">Taille du texte</string>
+    <string name="search">Moteur de recherche</string>
+    <string name="search_hint">Rechercher</string>
+    <string name="animation">Animation</string>
+    <string name="wakelock">"Garder l'écran allumé"</string>
+    <string name="hideUnderlineOption">Masquer le soulignement dans les pages</string>
+    <string name="action_delete">Supprimer</string>
+    <string name="action_delete_all">Tous supprimer</string>
+    <string name="action_blank">Page vierge</string>
+    <string name="agent_default">Défaut</string>
+    <string name="agent_chrome">Chrome (PC)</string>
+    <string name="agent_ie">IE 11 (PC)</string>
+    <string name="agent_iphone">iPhone</string>
+    <string name="agent_symbian">Symbian</string>
+    <string name="agent_custom">Personnalisé</string>
+    <string name="title_search_engine">Moteur de recherche</string>
+    <string name="action_ok">OK</string>
+    <string name="dialog_download">Voulez-vous télécharger ce fichier?</string>
+    <string name="action_cancel">Annuler</string>
+    <string name="title_warning">Avertissement</string>
+    <string name="dialog_adobe_not_installed">"Adobe Flash Player n'a pas été détecté. Veuillez installer Flash Player."</string>
+    <string name="dialog_adobe_unsupported">Adobe Flash ne prend pas en charge Android 4.2 et versions ultérieures et peut bloquer le navigateur. Ne signalez pas les pannes qui se produisent si vous activez Flash.</string>
+    <string name="title_user_agent">Agent utilisateur</string>
+    <string name="title_custom_homepage">Accueil</string>
+    <string name="action_webpage">Page web</string>
+    <string name="action_yes">OK</string>
+    <string name="action_no">Annuler</string>
+    <string name="title_text_size">Taille du texte</string>
+    <string name="size_largest">Très grand</string>
+    <string name="size_large">Grand</string>
+    <string name="size_normal">Normal</string>
+    <string name="size_small">Petit</string>
+    <string name="size_smallest">Très petit</string>
+    <string name="hint_title">Titre</string>
+    <string name="hint_url">URL</string>
+    <string name="hint_folder">Dossier</string>
+    <string name="title_edit_bookmark">Modifier le signet</string>
+    <string name="action_edit">Modifier</string>
+    <string name="action_incognito">Mode Incognito</string>
+    <string name="action_homepage">Défaut</string>
+    <string name="action_find">Rechercher dans la page</string>
+    <string name="download_pending">Démarrage du téléchargement\u2026</string>
+    <string name="cannot_download">Vous ne pouvez télécharger la page \"http\" ou \"https\".</string>
+    <string name="download_no_sdcard_dlg_title">Aucune carte SD</string>
+    <string name="download_no_sdcard_dlg_msg">Un stockage USB est nécessaire pour télécharger un fichier.</string>
+    <string name="download_sdcard_busy_dlg_title">Stockage USB indisponible</string>
+    <string name="download_sdcard_busy_dlg_msg">Le stockage est déjà activé. Pour autoriser les téléchargements, touchez Désactiver le stockage USB dans la notification..</string>
+    <string name="incognito_cookies">Activer les cookies en mode Incognito</string>
+    <string name="title_flash">Adobe Flash</string>
+    <string name="action_manual">Manuel</string>
+    <string name="action_auto">Auto</string>
+    <string name="message_import">Les signets ont été importés</string>
+    <string name="custom_url">URL personnalisée</string>
+    <string name="baidu_url">Baidu</string>
+    <string name="shenma_url">ShenMa</string>
+    <string name="bing_url">Bing</string>
+    <string name="haosou_url">Haosou</string>
+    <string name="google_url">Google</string>
+    <string name="sougou_url">Sougou</string>
+    <string name="block_ads">Bloquer les annonces(ads)</string>
+    <string name="message_untrusted_certificate">"Le certificat du site n'est pas approuvé. Continuer?"</string>
+    <string name="title_form_resubmission">Formulaire de pages</string>
+    <string name="message_form_resubmission">Voulez-vous renvoyer les données?</string>
+    <string name="message_location">\nUtiliser votre emplacement?</string>
+    <string name="action_allow">Autoriser</string>
+    <string name="action_dont_allow">Refuser</string>
+    <string name="title_sign_in">Se connecter</string>
+    <string name="hint_username">Nom</string>
+    <string name="hint_password">Mot de passe</string>
+    <string name="untitled">Sans titre</string>
+    <string name="image_auto">Afficher les images via le wifi</string>
+    <string name="image_on">Bloquer les images</string>
+    <string name="image_off">Voir les images</string>
+    <string name="rendering_mode">Mode de rendu</string>
+    <string name="name_inverted">Inversé</string>
+    <string name="name_grayscale">Teinte de gris</string>
+    <string name="name_inverted_grayscale">Teinte de gris inversé</string>
+    <string name="name_normal">Normal</string>
+    <string name="title_file_chooser">Sélecteur de fichier</string>
+    <string name="export_bookmarks">Exporter les signets</string>
+    <string name="import_backup">Importer des signets</string>
+    <string name="bookmark_export_path">Signets exportés vers\n</string>
+    <string name="import_bookmark_error">Impossible d'importer les signets à partir du fichier</string>
+    <string name="action_exit">Quitter</string>
+    <string name="about">A propos Via</string>
+    <string name="update">Mettre à jour</string>
+    <string name="feedback">Commentaire</string>
+    <string name="message_add_bookmark">Favori ajouté avec succès</string>
+    <string name="message_exit">Appuyez une nouvelle fois pour quitter</string>
+    <string name="bookmarks_style">Style des signets</string>
+    <string name="list">Liste</string>
+    <string name="grid">Grille</string>
+    <string name="web_screenshot">"Capture d'écran Web"</string>
+    <string name="screenshot_all">Tout</string>
+    <string name="screenshot_now">Enregistrer</string>
+    <string name="dialog_message">Message</string>
+    <string name="toast_wait_a_minute">Attendez&#8230;</string>
+    <string name="toast_save_to">Enregistrer le fichier dans: </string>
+    <string name="toast_operation_failed">"L'opération a échoué."</string>
+    <string name="toast_operation_done">Opération effectuée.</string>
+    <string name="volume">Appuyez sur la touche Volume pour faire défiler</string>
+    <string name="intent">Autoriser la demande du site Web</string>
+    <string name="msg_intent">"Souhaitez-vous ouvrir l'application?"</string>
+    <string name="dialog_adblock">Filtre ads par défaut:Fichier système hosts.txt\n\nFichier personnalisé:Répertoire de téléchargement hosts.txt, Sera téléchargé, si inexistant.</string>
+    <string name="dialog_adblock_default">Filtre par défaut</string>
+    <string name="dialog_adblock_custom">Filtre personnalisé</string>
+    <string name="dialog_adblock_download">Sera sélectionné automatiquement après le téléchargement.\n\npath:</string>
+    <string name="dialog_adblock_custom_hint">\nNe pas modifier le répertoire ou le nom. Vous pouvez modifier ce fichier pour personnaliser votre propre liste de filtrage.</string>
+    <string name="setting_default">Définir comme navigateur par défaut</string>
+    <string name="toast_clear_defaults">Valeurs par défaut</string>
+    <string name="toast_copy_successful">Copie réussie</string>
+    <string name="toast_copy_url_successful">Copie url réussie</string>
+    <string name="toast_copy_text_successful">Copie texte réussie</string>
+    <string name="incognito_on">Vous êtes en mode Incognito</string>
+    <string name="incognito_off">Mode Incognito arrêtez</string>
+    <string name="key_forward">Appui long sur la touche Suivant</string>
+    <string name="key_back">Appui long sur la touche Précédant</string>
+    <string name="key_home">Appui long sur la touche d'Accueil</string>
+    <string name="key_tab">Appui long sur la touche Tabulation</string>
+    <string name="key_menu">Appui long sur la touche Menu</string>
+    <string name="operation_none">Aucun</string>
+    <string name="operation_reload">Actualiser</string>
+    <string name="operation_top">Haut de la page</string>
+    <string name="operation_bottom">Bas de la page</string>
+    <string name="operation_input">Entrer un lien</string>
+    <string name="operation_newtab">Nouveau onglet</string>
+    <string name="operation_addbookmark">Ajouter un signet</string>
+    <string name="operation_openbookmark">Ouvrir les favoris</string>
+    <string name="operation_openhistory">"Ouvrir l'historique"</string>
+    <string name="operation_closetab">"Fermer l'onglet"</string>
+    <string name="operation_lasttab">Dernier onglet</string>
+    <string name="operation_nexttab">Onglet suivant</string>
+    <string name="operation_goback">Précédant</string>
+    <string name="operation_goforward">Suivant</string>
+    <string name="operation_find">Rechercher dans la page</string>
+    <string name="gesture_toolbar_left">"Barre d'outils à gauche"</string>
+    <string name="gesture_toolbar_right">"Barre d'outils à droite"</string>
+    <string name="settings_other">Autre</string>
+    <string name="settings_ad_rules">Annonce marquée</string>
+    <string name="settings_operation">Opération</string>
+    <string name="settings_bookmark">Favoris</string>
+    <string name="settings_display">Affichage</string>
+    <string name="settings_privacy">Sécuriter</string>
+    <string name="settings_advanced">Paramètres</string>
+    <string name="settings_about">A propos</string>
+    <string name="url_box">Contenu du lien</string>
+    <string name="url_box_domain">Domaine</string>
+    <string name="url_box_url">Url</string>
+    <string name="url_box_title">Titre</string>
+    <string name="text_encoding">Encodage Texte</string>
+    <string name="action_pcview">Site Desktop</string>
+    <string name="action_source">Voir la source</string>
+    <string name="action_translate">Traduction</string>
+    <string name="title_edit_folder">Modifier le dossier</string>
+    <string name="msg_delete_folder">Supprimer ce dossier?</string>
+    <string name="encode_utf_8" translatable="false">UTF-8</string>
+    <string name="encode_gbk" translatable="false">GBK</string>
+    <string name="encode_big_5" translatable="false">Big5</string>
+    <string name="encode_iso_8859_1" translatable="false">ISO–8859–1</string>
+    <string name="encode_iso_2022_jp" translatable="false">ISO–2022–JP</string>
+    <string name="desc_suggestion">suggestion</string>
+    <string name="desc_search">chercher dans la page</string>
+    <string name="desc_reload">actualiser</string>
+    <string name="desc_back">précédant</string>
+    <string name="desc_forward">suivant</string>
+    <string name="desc_home">accueil</string>
+    <string name="desc_tab">tab</string>
+    <string name="desc_menu">menu</string>
+    <string name="desc_addbookmark">ajouter un favori</string>
+    <string name="desc_share">partager</string>
+    <string name="desc_filedic">fichier</string>
+    <string name="desc_other">autre</string>
+    <string name="dir_back" translatable="false">&#8230;</string>
+    <string name="translate_zh_chs" translatable="false">中文(简体)</string>
+    <string name="translate_zh_tw" translatable="false">中文(繁體)</string>
+    <string name="translate_en_us" translatable="false">English(United States)</string>
+    <string name="translate_en_gb" translatable="false">English(United Kingdom)</string>
+    <string name="translate_fr" translatable="false">Français</string>
+    <string name="translate_ru" translatable="false">русский</string>
+    <string name="translate_it" translatable="false">lingua italiana</string>
+    <string name="translate_ja" translatable="false">日本語</string>
+    <string name="translate_de" translatable="false">Deutschland</string>
+    <string name="translate_es" translatable="false">español</string>
+    <string name="translate_pt_br" translatable="false">português</string>
+    <string name="grid_colorful">Grille colorée</string>
+    <string name="msg_setgoogle">Définir le moteur de recherche Google maintenant?</string>
+    <string name="action_mark">Marquer comme ADS</string>
+    <string name="settings_block">Adblock</string>
+    <string name="dialog_confirm_block">Voulez-vous le marquer comme une annonce?</string>
+    <string name="block_3rd_party_cookies">Bloquer les cookies tiers</string>
+    <string name="do_not_track">Ne pas suivre</string>
+    <string name="remove_identifying_headers">"Supprimer les en-têtes d'identification"</string>
+    <string name="get_more_rules">Obtenir plus de filtres ADS</string>
+    <string name="add_rule">Ajouter un filtre ADS</string>
+    <string name="hint_tags">Mots clés</string>
+    <string name="clear_ad_rules">Effacer toutes les règles ADS</string>
+    <string name="color_mode">Affichage en couleur</string>
+    <string name="dialog_sure">Vraiment poursuivre cette opération?</string>
+    <string name="action_send_to_launcher">Envoyer à la page d'accueil</string>
+    <string name="settings_cloud">Compte</string>
+    <string name="user">"Se connecter/S'inscrire"</string>
+    <string name="user_syns">Sync</string>
+    <string name="user_update">"S'inscrire"</string>
+    <string name="log_in_success">Accès autorisé.</string>
+    <string name="wrong_psw">Mot de passe erroné.</string>
+    <string name="sign_up_success">Inscription réussie.</string>
+    <string name="code_500">Service indisponible.</string>
+    <string name="syns_success">Sync réussie</string>
+    <string name="upload_success">Téléchargement réussie</string>
+    <string name="account_null">"S'il vous plait Connectez-vous d'abord."</string>
+    <string name="log_out">Se déconnectert?</string>
+    <string name="crash_info">Quelque chose ne va pas :( </string>
+    <string name="crash_restart">"Redémarrer l'application"</string>
+    <string name="crash_close">"Fermer l'application"</string>
+    <string name="crash_upload">"Télécharger le journal d'erreurs"</string>
+    <string name="upload_completed">Téléchargement réussie :)</string>
+    <string name="ui_mode">Mode d'affichage</string>
+    <string name="ui_auto">Auto</string>
+    <string name="ui_phone">Mobile</string>
+    <string name="ui_tablet">Tablette</string>
+    <string name="download_location" translatable="erreur">%1$s/%2$s/</string>
+    <string name="open_or_search">Ouvrir/Rechercher</string>
+    <string name="settings_addons">Modules complémentaires</string>
+    <string name="addon_download">Gestionnaire de téléchargement</string>
+    <string name="addon_qr_code_scan">Lecteur de code 2D</string>
+    <string name="install_addon">"Télécharger et installer des modules complémentaires? Ces modules fonctionneront après l'installation."</string>
+    <string name="quick_back">Retour sans rechargement</string>
+    <string name="open_with">Ouvrir avec&#8230;</string>
+    <string name="download_completed">Téléchargement terminé</string>
+    <string name="toast_fullscreen_on">Mode plein écran activé</string>
+    <string name="toast_fullscreen_off">Mode plein écran désactivé</string>
+
+    <string name="clear_data">Effacer les données&#8230;</string>
+    <string name="clear_data_on_exit">Effacer les données en quittant&#8230;</string>
+    <string name="data_cache">Cache</string>
+    <string name="data_form_data">Formulaires</string>
+    <string name="data_history">Historique</string>
+    <string name="data_storage">Pages enregistrées</string>
+    <string name="data_cookies">Cookies</string>
+    <string name="data_cleared">Données effacées</string>
+
+    <string name="cannot_undo">Ne peut pas être annulé.</string>
+
+    <string name="sync_desc">Le compte sera créé si inexistant</string>
+
+    <string name="settings_skin">Personnaliser</string>
+    <string name="default_set">Défaut</string>
+    <string name="set_done">Terminé</string>
+    <string name="css">"Style de la page d'accueil"</string>
+    <string name="custom_css">CSS personnalisé</string>
+    <string name="tag">"Logo (L'icône terre de la page d'accueil)"</string>
+    <string name="num_of_bookmarks_in_home">"Nombre de signets dans la page d'accueil"</string>
+    <string name="picture">Image</string>
+    <string name="text">Texte</string>
+    <string name="html_code">Code Html</string>
+    <string name="delete_all_bookmarks">Supprimer tous les favoris</string>
+
+    <string name="open_link_in">Ouvrir le lien</string>
+    <string name="link_decide_by_website">Décider par site Web</string>
+    <string name="link_current_page">Page actuelle</string>
+    <string name="link_new_tab">Nouvel onglet</string>
+
+    <string name="action_view_image">"Voir l'mage"</string>
+
+    <string name="skin_colorful">Coloré</string>
+
+    <string name="block_popup">Bloquer les popups</string>
+    <string name="open_window_hint">"Le site Web tente d'ouvrir une nouvelle fenêtre"</string>
+
+    <string name="save_web_page">Enregistrer la page Web</string>
+    <string name="saved_pages">Pages sauvegardées</string>
+    <string name="saved_page_successfully">"Page enregistrée avec succès, voir le menu de la page d'accueil: Pages enregistrées"</string>
+    <string name="deleted_failed">"Échec de la suppression. Le fichier est situé dans le dossier de téléchargement: "</string>
+
+    <string name="empty_hint">Rien à afficher&#8230;</string>
+
+    <string name="network_log">Journal du réseau</string>
+    <string name="catalog">Liste</string>
+
+    <string name="screenshot_hint">"Il peut y avoir des problèmes de compatibilité dans android 5.0+ pour prendre une capture d'écran complète du site Web. Nous cherchons toujours des solutions."</string>
+
+    <string name="conn_timeout">Connexion interrompue</string>
+
+    <string name="already_default">Déjà réglé sur défaut</string>
+
+    <string name="set_to_default">"Sera paramétré par défaut après avoir utilisé le lien ouvert (1year.cc), s'il vous plaît choisir via pour ouvrir le lien."</string>
+
+    <string name="quick_back_desc">Il peut y avoir des problèmes de compatibilité lorsque vous activez cette option. Vous devriez le fermer, si vous avez des erreurs.</string>
+    <string name="cannot_translate">Impossible de traduire \"http\" ou \"https\" URLs.</string>
+    <string name="cannot_view_source">Impossible d'afficher la source \"http\" or \"https\" URLs.</string>
+    <string name="sync_prompt">Remplacer vos favoris et vos paramètres locaux actuels. Continuer?</string>
+    <string name="upload_prompt">Télécharger vos favoris et paramètres locaux actuels. Continuer?</string>
+    <string name="local_page_bg">Affichage de la page d'accueil</string>
+    <string name="none">Aucun</string>
+    <string name="action_order">Ordre alphabétique</string>
+    <string name="order_hint">Les plus visitées.</string>
+    <string name="action_addons">Plus</string>
+    <string name="action_back">Retour au Menu</string>
+    <string name="action_log">Journal des liens</string>
+    <string name="check_permission">Permission refusée. Réglez-les dans les paramètres maintenant?</string>
+    <string name="need_permission_hint">Via a besoin des autorisations suivantes.\n\n</string>
+    <string name="storage_permission">Stockage: pour télécharger des fichiers depuis le navigateur et importer/exporter des signets etc.\n\n</string>
+    <string name="location_permission">"Emplacement: pour les sites comme Google Maps, il est désactivé par défaut dans les paramètres et affiche un pop-up demandant si un site peut utiliser votre emplacement lorsqu'il est activé."\n\n</string>
+    <string name="phone_permission">"Téléphone: Obtenir l'information de l'appareil Android, des statistiques et recueillir le rapport d'erreur lors d'un FC."\n\n</string>
+    <string name="force_cancel">Annuler</string>
+    <string name="restore_tabs_hint">Restaurer les onglets non fermés de la dernière session?</string>
+    <string name="restore_tabs">Restauration les onglets au démarrage</string>
+    <string name="install_success">Installation réussie!!!</string>
+    <string name="uninstall_success">Désinstallation réussie!!!</string>
+    <string name="online_addons">Modules en ligne</string>
+    <string name="search_prompt">Requête de recherche</string>
+    <string name="wideViewPort">Utiliser Wide Viewport</string>
+    <string name="overViewMode">Charger les pages en mode Aperçu</string>
+    <string name="log_page_hint">Vous pouvez copier le lien ou le domaine suivant et le coller dans le fichier %1$s des filtres personnalisées.</string>
+    <string name="fullscreen_0">Désactiver</string>
+    <string name="fullscreen_1">Défiler masquer/afficher</string>
+    <string name="fullscreen_2">Cliquer masquer/afficher</string>
+    <string name="settings_script">Script</string>
+    <string name="get_more_script">Plus de Script</string>
+    <string name="add_script">Ajouter un Script</string>
+    <string name="script_url">domaine ou * (*=tout)</string>
+    <string name="script_code">code (javascript)</string>
+    <string name="clear_all_script">Supprimer tous les Scripts</string>
+    <string name="toast_copy_domain_successful">Copier le domaine réussi</string>
+    <string name="dark_stauts_bar">"Barre d'état sombre si disponible"</string>
+    <string name="dark_stauts_bar_hint">"Vérifiez maintenant votre barre d'état, désactivez si la barre d'état est anormale."</string>
+    <string name="open_in_new">Ouverture de l'onglet</string>
+    <string name="open_in_new_background">Arrière plan</string>
+    <string name="open_in_new_foreground">Avant plan</string>
+    <string name="help_us_translate">Aidez-nous à traduire</string>
+    <string name="confirm_to_leave">Confirmer pour quitter</string>
+    <string name="leave">Quitter</string>
+    <string name="stay">Poursuivre</string>
+    <string name="ui_tablet_bottom">Tablette (Touche au bas)</string>
+    <string name="drag_and_drop">Glisser et déposer~</string>
+    <string name="skin_logo">Logo</string>
+    <string name="skin_bg">Fond</string>
+    <string name="skin_style">Style</string>
+    <string name="skin_settings">Paramètres</string>
+    <string name="share_desc">Partage via Via, obtenez-le maintenant: </string>
+    <string name="set_it_as_homepage">"Définir comme page d'accueil?"</string>
+
+</resources>
