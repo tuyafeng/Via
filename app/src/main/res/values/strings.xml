@@ -91,6 +91,11 @@
     <string name="shenma_url">ShenMa</string>
     <string name="bing_url">Bing</string>
     <string name="haosou_url">Haosou</string>
+    <string name="duckduckgo_url">DuckDuckGo</string>
+    <string name="startpage_url">StartPage</string>
+    <string name="ask_url">Ask</string>
+    <string name="yahoo_url">Yahoo</string>
+    <string name="yandex_url">Yandex</string>
     <string name="google_url">Google</string>
     <string name="sougou_url">Sougou</string>
     <string name="block_ads">Block Ads</string>
@@ -374,5 +379,13 @@
     <string name="skin_settings">Settings</string>
     <string name="share_desc">share via Via, get it now: </string>
     <string name="set_it_as_homepage">Set it as homepage?</string>
+    <string name="missing_webview">Google webview is not installed correctly. Do you want to install it now?</string>
+    <string name="install">Install</string>
+    <string name="crash_hint">Very very sorry for crashing.</string>
+    <string name="upload_hint">Very very sorry for crashing. But you can upload crash log to help us do better. Upload now?</string>
+    <string name="reset">Reset settings to default</string>
+    <string name="glean">Glean</string>
+    <string name="contact_us">Contact us</string>
+    <string name="official_website">Official website</string>
 
 </resources>

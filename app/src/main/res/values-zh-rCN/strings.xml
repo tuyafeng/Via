@@ -19,8 +19,8 @@
     <string name="location">允许站点访问地理位置</string>
     <string name="password">保存密码</string>
     <string name="save_formdata">记录表单</string>
-    <string name="donate">捐助 Via</string>
-    <string name="donate_details">我们利用有限的业余时间设计了Via，虽然它并不那么美好，但正努力前行。\n目前Via没有任何广告推广，因此也没有收入。如果你喜欢我们的作品，可以捐赠来支持我们。\n\n所有的捐赠都将用来：提升我们的环境配置以及积极性。\n\n支付宝: 2376688759@qq.com\nPayPal: wiar1824@gmail.com</string>
+    <string name="donate">捐赠我们</string>
+    <string name="donate_details">我们利用有限的业余时间设计了Via，虽然它并不那么美好，但正努力前行。\n如果你喜欢我们的作品，可以捐赠来支持我们。\n\n所有的捐赠都将用来：提升我们的环境配置以及积极性。\n\n支付宝: 2376688759@qq.com\nPayPal: wiar1824@gmail.com</string>
     <string name="orientation">屏幕方向</string>
     <string name="orientation_system">跟随系统</string>
     <string name="orientation_auto">自动</string>
@@ -357,4 +357,12 @@
     <string name="skin_settings">设置</string>
     <string name="share_desc">我们互相拥抱, 便已熟悉彼此: </string>
     <string name="set_it_as_homepage">设置其为首页?</string>
+    <string name="missing_webview">webview 未正确安装. 现在去安装?</string>
+    <string name="install">安装</string>
+    <string name="crash_hint">真的非常非常抱歉, 应用发生了闪退.</string>
+    <string name="upload_hint">十分抱歉, 应用发生了闪退. 但你可以上传日志来帮助我们做得更好, 现在上传?</string>
+    <string name="reset">恢复至默认设置</string>
+    <string name="glean">拾穗</string>
+    <string name="contact_us">关于我们</string>
+    <string name="official_website">官方站点</string>
 </resources>

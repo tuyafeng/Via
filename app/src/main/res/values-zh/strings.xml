@@ -355,4 +355,13 @@
     <string name="skin_settings">設定</string>
     <string name="share_desc">我們互相擁抱, 便已熟悉彼此: </string>
     <string name="set_it_as_homepage">設定其為首頁?</string>
+    <string name="missing_webview">webview 未正確安裝. 現在去安裝?</string>
+    <string name="install">安裝</string>
+    <string name="crash_hint">真的非常非常抱歉, 應用發生了閃退.</string>
+    <string name="upload_hint">十分抱歉, 應用發生了閃退. 但你可以上載日誌來幫助我們做得更好, 現在上載?</string>
+    <string name="reset">恢複至預設設定</string>
+    <string name="glean">拾穗</string>
+    <string name="contact_us">關於我們</string>
+    <string name="official_website">官方站點</string>
+
 </resources>
