@@ -348,7 +348,6 @@
     <string name="leave">離開此頁</string>
     <string name="stay">留在此頁</string>
     <string name="ui_tablet_bottom">平闆 (底部)</string>
-    <string name="drag_and_drop">按住然後拖拽來調整位置~</string>
     <string name="skin_logo">Logo</string>
     <string name="skin_bg">背景</string>
     <string name="skin_style">風格</string>
@@ -363,5 +362,7 @@
     <string name="glean">拾穗</string>
     <string name="contact_us">關於我們</string>
     <string name="official_website">官方站點</string>
+    <string name="current_language">當前語言</string>
+    <string name="download_manager">下載管理</string>
 
 </resources>

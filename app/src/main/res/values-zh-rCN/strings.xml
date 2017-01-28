@@ -350,7 +350,6 @@
     <string name="leave">离开此页</string>
     <string name="stay">留在此页</string>
     <string name="ui_tablet_bottom">平板 (底部)</string>
-    <string name="drag_and_drop">按住然后拖拽来调整位置~</string>
     <string name="skin_logo">Logo</string>
     <string name="skin_bg">背景</string>
     <string name="skin_style">风格</string>
@@ -364,5 +363,7 @@
     <string name="reset">恢复至默认设置</string>
     <string name="glean">拾穗</string>
     <string name="contact_us">关于我们</string>
-    <string name="official_website">官方站点</string>
+    <string name="official_website">官方网站</string>
+    <string name="current_language">当前语言</string>
+    <string name="download_manager">下载管理</string>
 </resources>

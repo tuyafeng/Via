@@ -194,11 +194,6 @@
     <string name="action_translate">Translate</string>
     <string name="title_edit_folder">Edit Folder</string>
     <string name="msg_delete_folder">Delete this folder?</string>
-    <string name="encode_utf_8" translatable="false">UTF-8</string>
-    <string name="encode_gbk" translatable="false">GBK</string>
-    <string name="encode_big_5" translatable="false">Big5</string>
-    <string name="encode_iso_8859_1" translatable="false">ISO–8859–1</string>
-    <string name="encode_iso_2022_jp" translatable="false">ISO–2022–JP</string>
     <string name="desc_suggestion">suggestion</string>
     <string name="desc_search">find in page</string>
     <string name="desc_reload">reload</string>
@@ -211,17 +206,6 @@
     <string name="desc_share">share</string>
     <string name="desc_filedic">file</string>
     <string name="desc_other">other</string>
-    <string name="dir_back" translatable="false">&#8230;</string>
-    <string name="translate_zh_chs" translatable="false">中文(简体)</string>
-    <string name="translate_zh_tw" translatable="false">中文(繁體)</string>
-    <string name="translate_en_us" translatable="false">English(United States)</string>
-    <string name="translate_en_gb" translatable="false">English(United Kingdom)</string>
-    <string name="translate_ru" translatable="false">русский</string>
-    <string name="translate_it" translatable="false">lingua italiana</string>
-    <string name="translate_ja" translatable="false">日本語</string>
-    <string name="translate_de" translatable="false">Deutschland</string>
-    <string name="translate_es" translatable="false">español</string>
-    <string name="translate_pt_br" translatable="false">português</string>
     <string name="grid_colorful">Colorful Grid</string>
     <string name="msg_setgoogle">Set google search engine now?</string>
     <string name="action_mark">Mark as AD</string>
@@ -258,7 +242,6 @@
     <string name="ui_auto">Auto</string>
     <string name="ui_phone">Phone</string>
     <string name="ui_tablet">Tablet</string>
-    <string name="download_location" translatable="false">%1$s/%2$s/</string>
     <string name="open_or_search">Open/Search</string>
     <string name="settings_addons">Add-ons</string>
     <string name="addon_download">Download Manager</string>
@@ -372,7 +355,6 @@
     <string name="leave">Leave</string>
     <string name="stay">Stay</string>
     <string name="ui_tablet_bottom">Tablet (Bottom)</string>
-    <string name="drag_and_drop">Try to drag and drop it~</string>
     <string name="skin_logo">Logo</string>
     <string name="skin_bg">Background</string>
     <string name="skin_style">Style</string>
@@ -387,5 +369,7 @@
     <string name="glean">Glean</string>
     <string name="contact_us">Contact us</string>
     <string name="official_website">Official website</string>
+    <string name="current_language">Current language</string>
+    <string name="download_manager">Download manager</string>
 
 </resources>

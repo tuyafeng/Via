@@ -4,11 +4,11 @@
     <string name="app_name">Via</string>
     <string name="action_new_tab">Nouveau onglet</string>
     <string name="action_open_in_new">Ouvrir dans un nouvel onglet</string>
-    <string name="action_save_img">Enregistrer l'image</string>
+    <string name="action_save_img">Enregistrer l\'image</string>
     <string name="action_share">Partager</string>
     <string name="action_history">Historique</string>
     <string name="action_bookmarks">Favoris</string>
-    <string name="action_screenshot">"Capture d'écran"</string>
+    <string name="action_screenshot">"Capture d\'écran"</string>
     <string name="bookmarks_file">Exporter Favoris</string>
     <string name="action_add_bookmark">Ajouter aux favoris</string>
     <string name="action_night">Mode nuit</string>
@@ -29,7 +29,7 @@
     <string name="agent">Agent utilisateur</string>
     <string name="flash">Activer Adobe Flash</string>
     <string name="home">Accueil</string>
-    <string name="fullscreen">Masquer la barre d'opération</string>
+    <string name="fullscreen">Masquer la barre d\'opération</string>
     <string name="java">Activer le language JavaScript</string>
     <string name="download">Dossier de téléchargement</string>
     <string name="reflow">Agrandir le texte</string>
@@ -38,7 +38,7 @@
     <string name="search">Moteur de recherche</string>
     <string name="search_hint">Rechercher</string>
     <string name="animation">Animation</string>
-    <string name="wakelock">"Garder l'écran allumé"</string>
+    <string name="wakelock">Garder l\'écran allumé</string>
     <string name="hideUnderlineOption">Masquer le soulignement dans les pages</string>
     <string name="action_delete">Supprimer</string>
     <string name="action_delete_all">Tous supprimer</string>
@@ -54,7 +54,7 @@
     <string name="dialog_download">Voulez-vous télécharger ce fichier?</string>
     <string name="action_cancel">Annuler</string>
     <string name="title_warning">Avertissement</string>
-    <string name="dialog_adobe_not_installed">"Adobe Flash Player n'a pas été détecté. Veuillez installer Flash Player."</string>
+    <string name="dialog_adobe_not_installed">"Adobe Flash Player n\'a pas été détecté. Veuillez installer Flash Player."</string>
     <string name="dialog_adobe_unsupported">Adobe Flash ne prend pas en charge Android 4.2 et versions ultérieures et peut bloquer le navigateur. Ne signalez pas les pannes qui se produisent si vous activez Flash.</string>
     <string name="title_user_agent">Agent utilisateur</string>
     <string name="title_custom_homepage">Accueil</string>
@@ -94,7 +94,7 @@
     <string name="google_url">Google</string>
     <string name="sougou_url">Sougou</string>
     <string name="block_ads">Bloquer les annonces(ads)</string>
-    <string name="message_untrusted_certificate">"Le certificat du site n'est pas approuvé. Continuer?"</string>
+    <string name="message_untrusted_certificate">"Le certificat du site n\'est pas approuvé. Continuer?"</string>
     <string name="title_form_resubmission">Formulaire de pages</string>
     <string name="message_form_resubmission">Voulez-vous renvoyer les données?</string>
     <string name="message_location">\nUtiliser votre emplacement?</string>
@@ -116,7 +116,7 @@
     <string name="export_bookmarks">Exporter les signets</string>
     <string name="import_backup">Importer des signets</string>
     <string name="bookmark_export_path">Signets exportés vers\n</string>
-    <string name="import_bookmark_error">Impossible d'importer les signets à partir du fichier</string>
+    <string name="import_bookmark_error">Impossible d\'importer les signets à partir du fichier</string>
     <string name="action_exit">Quitter</string>
     <string name="about">A propos Via</string>
     <string name="update">Mettre à jour</string>
@@ -126,17 +126,17 @@
     <string name="bookmarks_style">Style des signets</string>
     <string name="list">Liste</string>
     <string name="grid">Grille</string>
-    <string name="web_screenshot">"Capture d'écran Web"</string>
+    <string name="web_screenshot">"Capture d\'écran Web"</string>
     <string name="screenshot_all">Tout</string>
     <string name="screenshot_now">Enregistrer</string>
     <string name="dialog_message">Message</string>
     <string name="toast_wait_a_minute">Attendez&#8230;</string>
     <string name="toast_save_to">Enregistrer le fichier dans: </string>
-    <string name="toast_operation_failed">"L'opération a échoué."</string>
+    <string name="toast_operation_failed">"L\'opération a échoué."</string>
     <string name="toast_operation_done">Opération effectuée.</string>
     <string name="volume">Appuyez sur la touche Volume pour faire défiler</string>
     <string name="intent">Autoriser la demande du site Web</string>
-    <string name="msg_intent">"Souhaitez-vous ouvrir l'application?"</string>
+    <string name="msg_intent">"Souhaitez-vous ouvrir l\'application?"</string>
     <string name="dialog_adblock">Filtre ads par défaut:Fichier système hosts.txt\n\nFichier personnalisé:Répertoire de téléchargement hosts.txt, Sera téléchargé, si inexistant.</string>
     <string name="dialog_adblock_default">Filtre par défaut</string>
     <string name="dialog_adblock_custom">Filtre personnalisé</string>
@@ -151,7 +151,7 @@
     <string name="incognito_off">Mode Incognito arrêtez</string>
     <string name="key_forward">Appui long sur la touche Suivant</string>
     <string name="key_back">Appui long sur la touche Précédant</string>
-    <string name="key_home">Appui long sur la touche d'Accueil</string>
+    <string name="key_home">Appui long sur la touche d\'Accueil</string>
     <string name="key_tab">Appui long sur la touche Tabulation</string>
     <string name="key_menu">Appui long sur la touche Menu</string>
     <string name="operation_none">Aucun</string>
@@ -162,15 +162,15 @@
     <string name="operation_newtab">Nouveau onglet</string>
     <string name="operation_addbookmark">Ajouter un signet</string>
     <string name="operation_openbookmark">Ouvrir les favoris</string>
-    <string name="operation_openhistory">"Ouvrir l'historique"</string>
-    <string name="operation_closetab">"Fermer l'onglet"</string>
+    <string name="operation_openhistory">"Ouvrir l\'historique"</string>
+    <string name="operation_closetab">"Fermer l\'onglet"</string>
     <string name="operation_lasttab">Dernier onglet</string>
     <string name="operation_nexttab">Onglet suivant</string>
     <string name="operation_goback">Précédant</string>
     <string name="operation_goforward">Suivant</string>
     <string name="operation_find">Rechercher dans la page</string>
-    <string name="gesture_toolbar_left">"Barre d'outils à gauche"</string>
-    <string name="gesture_toolbar_right">"Barre d'outils à droite"</string>
+    <string name="gesture_toolbar_left">"Barre d\'outils à gauche"</string>
+    <string name="gesture_toolbar_right">"Barre d\'outils à droite"</string>
     <string name="settings_other">Autre</string>
     <string name="settings_ad_rules">Annonce marquée</string>
     <string name="settings_operation">Opération</string>
@@ -189,11 +189,6 @@
     <string name="action_translate">Traduction</string>
     <string name="title_edit_folder">Modifier le dossier</string>
     <string name="msg_delete_folder">Supprimer ce dossier?</string>
-    <string name="encode_utf_8" translatable="false">UTF-8</string>
-    <string name="encode_gbk" translatable="false">GBK</string>
-    <string name="encode_big_5" translatable="false">Big5</string>
-    <string name="encode_iso_8859_1" translatable="false">ISO–8859–1</string>
-    <string name="encode_iso_2022_jp" translatable="false">ISO–2022–JP</string>
     <string name="desc_suggestion">suggestion</string>
     <string name="desc_search">chercher dans la page</string>
     <string name="desc_reload">actualiser</string>
@@ -206,18 +201,6 @@
     <string name="desc_share">partager</string>
     <string name="desc_filedic">fichier</string>
     <string name="desc_other">autre</string>
-    <string name="dir_back" translatable="false">&#8230;</string>
-    <string name="translate_zh_chs" translatable="false">中文(简体)</string>
-    <string name="translate_zh_tw" translatable="false">中文(繁體)</string>
-    <string name="translate_en_us" translatable="false">English(United States)</string>
-    <string name="translate_en_gb" translatable="false">English(United Kingdom)</string>
-    <string name="translate_fr" translatable="false">Français</string>
-    <string name="translate_ru" translatable="false">русский</string>
-    <string name="translate_it" translatable="false">lingua italiana</string>
-    <string name="translate_ja" translatable="false">日本語</string>
-    <string name="translate_de" translatable="false">Deutschland</string>
-    <string name="translate_es" translatable="false">español</string>
-    <string name="translate_pt_br" translatable="false">português</string>
     <string name="grid_colorful">Grille colorée</string>
     <string name="msg_setgoogle">Définir le moteur de recherche Google maintenant?</string>
     <string name="action_mark">Marquer comme ADS</string>
@@ -225,41 +208,40 @@
     <string name="dialog_confirm_block">Voulez-vous le marquer comme une annonce?</string>
     <string name="block_3rd_party_cookies">Bloquer les cookies tiers</string>
     <string name="do_not_track">Ne pas suivre</string>
-    <string name="remove_identifying_headers">"Supprimer les en-têtes d'identification"</string>
+    <string name="remove_identifying_headers">"Supprimer les en-têtes d\'identification"</string>
     <string name="get_more_rules">Obtenir plus de filtres ADS</string>
     <string name="add_rule">Ajouter un filtre ADS</string>
     <string name="hint_tags">Mots clés</string>
     <string name="clear_ad_rules">Effacer toutes les règles ADS</string>
     <string name="color_mode">Affichage en couleur</string>
     <string name="dialog_sure">Vraiment poursuivre cette opération?</string>
-    <string name="action_send_to_launcher">Envoyer à la page d'accueil</string>
+    <string name="action_send_to_launcher">Envoyer à la page d\'accueil</string>
     <string name="settings_cloud">Compte</string>
-    <string name="user">"Se connecter/S'inscrire"</string>
+    <string name="user">"Se connecter/S\'inscrire"</string>
     <string name="user_syns">Sync</string>
-    <string name="user_update">"S'inscrire"</string>
+    <string name="user_update">"S\'inscrire"</string>
     <string name="log_in_success">Accès autorisé.</string>
     <string name="wrong_psw">Mot de passe erroné.</string>
     <string name="sign_up_success">Inscription réussie.</string>
     <string name="code_500">Service indisponible.</string>
     <string name="syns_success">Sync réussie</string>
     <string name="upload_success">Téléchargement réussie</string>
-    <string name="account_null">"S'il vous plait Connectez-vous d'abord."</string>
+    <string name="account_null">"S\'il vous plait Connectez-vous d\'abord."</string>
     <string name="log_out">Se déconnectert?</string>
     <string name="crash_info">Quelque chose ne va pas :( </string>
-    <string name="crash_restart">"Redémarrer l'application"</string>
-    <string name="crash_close">"Fermer l'application"</string>
-    <string name="crash_upload">"Télécharger le journal d'erreurs"</string>
+    <string name="crash_restart">"Redémarrer l\'application"</string>
+    <string name="crash_close">"Fermer l\'application"</string>
+    <string name="crash_upload">"Télécharger le journal d\'erreurs"</string>
     <string name="upload_completed">Téléchargement réussie :)</string>
-    <string name="ui_mode">Mode d'affichage</string>
+    <string name="ui_mode">Mode d\'affichage</string>
     <string name="ui_auto">Auto</string>
     <string name="ui_phone">Mobile</string>
     <string name="ui_tablet">Tablette</string>
-    <string name="download_location" translatable="erreur">%1$s/%2$s/</string>
     <string name="open_or_search">Ouvrir/Rechercher</string>
     <string name="settings_addons">Modules complémentaires</string>
     <string name="addon_download">Gestionnaire de téléchargement</string>
     <string name="addon_qr_code_scan">Lecteur de code 2D</string>
-    <string name="install_addon">"Télécharger et installer des modules complémentaires? Ces modules fonctionneront après l'installation."</string>
+    <string name="install_addon">"Télécharger et installer des modules complémentaires? Ces modules fonctionneront après l\'installation."</string>
     <string name="quick_back">Retour sans rechargement</string>
     <string name="open_with">Ouvrir avec&#8230;</string>
     <string name="download_completed">Téléchargement terminé</string>
@@ -282,10 +264,10 @@
     <string name="settings_skin">Personnaliser</string>
     <string name="default_set">Défaut</string>
     <string name="set_done">Terminé</string>
-    <string name="css">"Style de la page d'accueil"</string>
+    <string name="css">Style de la page d\'accueil</string>
     <string name="custom_css">CSS personnalisé</string>
-    <string name="tag">"Logo (L'icône terre de la page d'accueil)"</string>
-    <string name="num_of_bookmarks_in_home">"Nombre de signets dans la page d'accueil"</string>
+    <string name="tag">Logo (L\'icône terre de la page d\'accueil)</string>
+    <string name="num_of_bookmarks_in_home">"Nombre de signets dans la page d\'accueil"</string>
     <string name="picture">Image</string>
     <string name="text">Texte</string>
     <string name="html_code">Code Html</string>
@@ -296,37 +278,37 @@
     <string name="link_current_page">Page actuelle</string>
     <string name="link_new_tab">Nouvel onglet</string>
 
-    <string name="action_view_image">"Voir l'mage"</string>
+    <string name="action_view_image">Voir l\'mage</string>
 
     <string name="skin_colorful">Coloré</string>
 
     <string name="block_popup">Bloquer les popups</string>
-    <string name="open_window_hint">"Le site Web tente d'ouvrir une nouvelle fenêtre"</string>
+    <string name="open_window_hint">Le site Web tente d\'ouvrir une nouvelle fenêtre</string>
 
     <string name="save_web_page">Enregistrer la page Web</string>
     <string name="saved_pages">Pages sauvegardées</string>
-    <string name="saved_page_successfully">"Page enregistrée avec succès, voir le menu de la page d'accueil: Pages enregistrées"</string>
-    <string name="deleted_failed">"Échec de la suppression. Le fichier est situé dans le dossier de téléchargement: "</string>
+    <string name="saved_page_successfully">Page enregistrée avec succès, voir le menu de la page d\'accueil: Pages enregistrées</string>
+    <string name="deleted_failed">Échec de la suppression. Le fichier est situé dans le dossier de téléchargement: </string>
 
     <string name="empty_hint">Rien à afficher&#8230;</string>
 
     <string name="network_log">Journal du réseau</string>
     <string name="catalog">Liste</string>
 
-    <string name="screenshot_hint">"Il peut y avoir des problèmes de compatibilité dans android 5.0+ pour prendre une capture d'écran complète du site Web. Nous cherchons toujours des solutions."</string>
+    <string name="screenshot_hint">Il peut y avoir des problèmes de compatibilité dans android 5.0+ pour prendre une capture d\'écran complète du site Web. Nous cherchons toujours des solutions.</string>
 
     <string name="conn_timeout">Connexion interrompue</string>
 
     <string name="already_default">Déjà réglé sur défaut</string>
 
-    <string name="set_to_default">"Sera paramétré par défaut après avoir utilisé le lien ouvert (1year.cc), s'il vous plaît choisir via pour ouvrir le lien."</string>
+    <string name="set_to_default">Sera paramétré par défaut après avoir utilisé le lien ouvert (1year.cc), s\'il vous plaît choisir via pour ouvrir le lien.</string>
 
     <string name="quick_back_desc">Il peut y avoir des problèmes de compatibilité lorsque vous activez cette option. Vous devriez le fermer, si vous avez des erreurs.</string>
     <string name="cannot_translate">Impossible de traduire \"http\" ou \"https\" URLs.</string>
-    <string name="cannot_view_source">Impossible d'afficher la source \"http\" or \"https\" URLs.</string>
+    <string name="cannot_view_source">Impossible d\'afficher la source \"http\" or \"https\" URLs.</string>
     <string name="sync_prompt">Remplacer vos favoris et vos paramètres locaux actuels. Continuer?</string>
     <string name="upload_prompt">Télécharger vos favoris et paramètres locaux actuels. Continuer?</string>
-    <string name="local_page_bg">Affichage de la page d'accueil</string>
+    <string name="local_page_bg">Affichage de la page d\'accueil</string>
     <string name="none">Aucun</string>
     <string name="action_order">Ordre alphabétique</string>
     <string name="order_hint">Les plus visitées.</string>
@@ -336,8 +318,8 @@
     <string name="check_permission">Permission refusée. Réglez-les dans les paramètres maintenant?</string>
     <string name="need_permission_hint">Via a besoin des autorisations suivantes.\n\n</string>
     <string name="storage_permission">Stockage: pour télécharger des fichiers depuis le navigateur et importer/exporter des signets etc.\n\n</string>
-    <string name="location_permission">"Emplacement: pour les sites comme Google Maps, il est désactivé par défaut dans les paramètres et affiche un pop-up demandant si un site peut utiliser votre emplacement lorsqu'il est activé."\n\n</string>
-    <string name="phone_permission">"Téléphone: Obtenir l'information de l'appareil Android, des statistiques et recueillir le rapport d'erreur lors d'un FC."\n\n</string>
+    <string name="location_permission">Emplacement: pour les sites comme Google Maps, il est désactivé par défaut dans les paramètres et affiche un pop-up demandant si un site peut utiliser votre emplacement lorsqu\'il est activé.\n\n</string>
+    <string name="phone_permission">Téléphone: Obtenir l\'information de l\'appareil Android, des statistiques et recueillir le rapport d\'erreur lors d\'un FC.\n\n</string>
     <string name="force_cancel">Annuler</string>
     <string name="restore_tabs_hint">Restaurer les onglets non fermés de la dernière session?</string>
     <string name="restore_tabs">Restauration les onglets au démarrage</string>
@@ -358,9 +340,9 @@
     <string name="script_code">code (javascript)</string>
     <string name="clear_all_script">Supprimer tous les Scripts</string>
     <string name="toast_copy_domain_successful">Copier le domaine réussi</string>
-    <string name="dark_stauts_bar">"Barre d'état sombre si disponible"</string>
-    <string name="dark_stauts_bar_hint">"Vérifiez maintenant votre barre d'état, désactivez si la barre d'état est anormale."</string>
-    <string name="open_in_new">Ouverture de l'onglet</string>
+    <string name="dark_stauts_bar">Barre d\'état sombre si disponible</string>
+    <string name="dark_stauts_bar_hint">Vérifiez maintenant votre barre d\'état, désactivez si la barre d\'état est anormale.</string>
+    <string name="open_in_new">Ouverture de l\'onglet</string>
     <string name="open_in_new_background">Arrière plan</string>
     <string name="open_in_new_foreground">Avant plan</string>
     <string name="help_us_translate">Aidez-nous à traduire</string>
@@ -368,12 +350,11 @@
     <string name="leave">Quitter</string>
     <string name="stay">Poursuivre</string>
     <string name="ui_tablet_bottom">Tablette (Touche au bas)</string>
-    <string name="drag_and_drop">Glisser et déposer~</string>
     <string name="skin_logo">Logo</string>
     <string name="skin_bg">Fond</string>
     <string name="skin_style">Style</string>
     <string name="skin_settings">Paramètres</string>
     <string name="share_desc">Partage via Via, obtenez-le maintenant: </string>
-    <string name="set_it_as_homepage">"Définir comme page d'accueil?"</string>
+    <string name="set_it_as_homepage">Définir comme page d\'accueil?</string>
 
 </resources>
