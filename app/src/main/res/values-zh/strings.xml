@@ -280,6 +280,7 @@
     <string name="action_view_image">檢視圖片</string>
 
     <string name="skin_colorful">多彩</string>
+    <string name="skin_fruity">果味</string>
 
     <string name="block_popup">攔截彈出式視窗</string>
     <string name="open_window_hint">本網站嘗試開啟快顯視窗</string>

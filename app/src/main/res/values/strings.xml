@@ -286,6 +286,7 @@
     <string name="action_view_image">View Image</string>
 
     <string name="skin_colorful">Colorful</string>
+    <string name="skin_fruity">Fruity</string>
 
     <string name="block_popup">Block Popup</string>
     <string name="open_window_hint">Website try to open a new window</string>

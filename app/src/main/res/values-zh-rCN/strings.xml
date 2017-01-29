@@ -280,6 +280,7 @@
     <string name="action_view_image">查看图片</string>
 
     <string name="skin_colorful">多彩</string>
+    <string name="skin_fruity">果味</string>
 
     <string name="block_popup">拦截弹出窗口</string>
     <string name="open_window_hint">网站尝试打开一个窗口</string>
