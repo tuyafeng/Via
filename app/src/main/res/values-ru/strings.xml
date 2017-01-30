@@ -269,8 +269,8 @@
     <string name="action_view_image">Просмотр изображения</string>
 
     <string name="skin_colorful">Разноцветный</string>
-
-    <string name="block_popup">Блокировка всплывающих окон</string>
++   <string name="skin_fruity">Фруктовый</string>
+    <string name="block_popup">Блокировать окно</string>
     <string name="open_window_hint">Сайт пытается открыть новое окно</string>
 
     <string name="save_web_page">Сохранить страницу</string>
