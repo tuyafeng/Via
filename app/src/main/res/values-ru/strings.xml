@@ -91,6 +91,11 @@
     <string name="shenma_url">ShenMa</string>
     <string name="bing_url">Bing</string>
     <string name="haosou_url">Haosou</string>
+    <string name="duckduckgo_url">DuckDuckGo</string>
+    <string name="startpage_url">StartPage</string>
+    <string name="ask_url">Ask</string>
+    <string name="yahoo_url">Yahoo</string>
+    <string name="yandex_url">Yandex</string>
     <string name="google_url">Google</string>
     <string name="sougou_url">Sougou</string>
     <string name="block_ads">Блокировщик рекламы</string>
@@ -269,6 +274,7 @@
     <string name="action_view_image">Просмотр изображения</string>
 
     <string name="skin_colorful">Разноцветный</string>
+    <string name="skin_fruity">Насыщенный</string>
 
     <string name="block_popup">Блокировка всплывающих окон</string>
     <string name="open_window_hint">Сайт пытается открыть новое окно</string>
@@ -338,12 +344,21 @@
     <string name="leave">Выйти</string>
     <string name="stay">Остаться</string>
     <string name="ui_tablet_bottom">Планшет (внизу)</string>
-    <string name="drag_and_drop">Попробуйте перетащить</string>
     <string name="skin_logo">Логотип</string>
     <string name="skin_bg">Фон</string>
     <string name="skin_style">Стиль</string>
     <string name="skin_settings">Настройки</string>
     <string name="share_desc">отправить через Via, скачать его: </string>
     <string name="set_it_as_homepage">Установить в качестве домашней страницы?</string>
+    <string name="missing_webview">Google webview корректно не установлен. Установить его сейчас?</string>
+    <string name="install">Установить</string>
+    <string name="crash_hint">Простите за сбой.</string>
+    <string name="upload_hint">Очень жаль, что произошёл сбой. Но вы можете отправить отчёт об ошибке, чтобы помочь нам её устранить. Отправить отчёт?</string>
+    <string name="reset">Сброс настроек по умолчанию</string>
+    <string name="glean">Подобрать</string>
+    <string name="contact_us">Связаться с нами</string>
+    <string name="official_website">Официальный сайт</string>
+    <string name="current_language">Текущий язык</string>
+    <string name="download_manager">Менеджер загрузки</string>
 
 </resources>
