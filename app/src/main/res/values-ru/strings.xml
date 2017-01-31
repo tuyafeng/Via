@@ -87,17 +87,6 @@
     <string name="action_auto">Авто</string>
     <string name="message_import">Закладки импортированы</string>
     <string name="custom_url">Свой поисковик</string>
-    <string name="baidu_url">Baidu</string>
-    <string name="shenma_url">ShenMa</string>
-    <string name="bing_url">Bing</string>
-    <string name="haosou_url">Haosou</string>
-    <string name="duckduckgo_url">DuckDuckGo</string>
-    <string name="startpage_url">StartPage</string>
-    <string name="ask_url">Ask</string>
-    <string name="yahoo_url">Yahoo</string>
-    <string name="yandex_url">Yandex</string>
-    <string name="google_url">Google</string>
-    <string name="sougou_url">Sougou</string>
     <string name="block_ads">Блокировщик рекламы</string>
     <string name="message_untrusted_certificate">Сертификат сайта не является доверенным. Всё равно продолжить?</string>
     <string name="title_form_resubmission">Переотправка формы</string>
@@ -321,7 +310,7 @@
     <string name="uninstall_success">Успешно удалено!</string>
     <string name="online_addons">Ещё дополнения</string>
     <string name="search_prompt">Быстрый поисковый запрос</string>
-    <string name="wideViewPort">Режим обзора</string>
+    <string name="wideViewPort">Широкий экран</string>
     <string name="overViewMode">Страницы в режиме обзора</string>
     <string name="log_page_hint">Можно скопировать данную ссылку или домен и вставить в %1$s для блокирования их загрузки при помощи внешнего чёрного списка.</string>
     <string name="fullscreen_0">Отключено</string>
