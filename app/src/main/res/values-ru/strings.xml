@@ -87,12 +87,6 @@
     <string name="action_auto">Авто</string>
     <string name="message_import">Закладки импортированы</string>
     <string name="custom_url">Свой поисковик</string>
-    <string name="baidu_url">Baidu</string>
-    <string name="shenma_url">ShenMa</string>
-    <string name="bing_url">Bing</string>
-    <string name="haosou_url">Haosou</string>
-    <string name="google_url">Google</string>
-    <string name="sougou_url">Sougou</string>
     <string name="block_ads">Блокировщик рекламы</string>
     <string name="message_untrusted_certificate">Сертификат сайта не является доверенным. Всё равно продолжить?</string>
     <string name="title_form_resubmission">Переотправка формы</string>
@@ -269,7 +263,7 @@
     <string name="action_view_image">Просмотр изображения</string>
 
     <string name="skin_colorful">Разноцветный</string>
-+   <string name="skin_fruity">Фруктовый</string>
+    <string name="skin_fruity">Фруктовый</string>
     <string name="block_popup">Блокировать окно</string>
     <string name="open_window_hint">Сайт пытается открыть новое окно</string>
 
@@ -315,7 +309,7 @@
     <string name="uninstall_success">Успешно удалено!</string>
     <string name="online_addons">Ещё дополнения</string>
     <string name="search_prompt">Быстрый поисковый запрос</string>
-    <string name="wideViewPort">Режим обзора</string>
+    <string name="wideViewPort">Широкий экран</string>
     <string name="overViewMode">Страницы в режиме обзора</string>
     <string name="log_page_hint">Можно скопировать данную ссылку или домен и вставить в %1$s для блокирования их загрузки при помощи внешнего чёрного списка.</string>
     <string name="fullscreen_0">Отключено</string>
@@ -338,12 +332,21 @@
     <string name="leave">Выйти</string>
     <string name="stay">Остаться</string>
     <string name="ui_tablet_bottom">Планшет (внизу)</string>
-    <string name="drag_and_drop">Попробуйте перетащить</string>
     <string name="skin_logo">Логотип</string>
     <string name="skin_bg">Фон</string>
     <string name="skin_style">Стиль</string>
     <string name="skin_settings">Настройки</string>
     <string name="share_desc">отправить через Via, скачать его: </string>
     <string name="set_it_as_homepage">Установить в качестве домашней страницы?</string>
+    <string name="missing_webview">Google webview корректно не установлен. Установить его сейчас?</string>
+    <string name="install">Установить</string>
+    <string name="crash_hint">Простите за сбой.</string>
+    <string name="upload_hint">Очень жаль, что произошёл сбой. Но вы можете отправить отчёт об ошибке, чтобы помочь нам её устранить. Отправить отчёт?</string>
+    <string name="reset">Сброс настроек по умолчанию</string>
+    <string name="glean">Подобрать</string>
+    <string name="contact_us">Связаться с нами</string>
+    <string name="official_website">Официальный сайт</string>
+    <string name="current_language">Текущий язык</string>
+    <string name="download_manager">Менеджер загрузки</string>
 
 </resources>
