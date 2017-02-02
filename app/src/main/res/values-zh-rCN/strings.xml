@@ -367,4 +367,6 @@
     <string name="official_website">官方网站</string>
     <string name="current_language">当前语言</string>
     <string name="download_manager">下载管理</string>
+    <string name="background_opacity">背景的不透明度</string>
+    <string name="action_pic_mode">看图模式</string>
 </resources>

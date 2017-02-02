@@ -372,5 +372,7 @@
     <string name="official_website">Official website</string>
     <string name="current_language">Current language</string>
     <string name="download_manager">Download manager</string>
+    <string name="background_opacity">The opacity of background</string>
+    <string name="action_pic_mode">Picture Mode</string>
 
 </resources>
