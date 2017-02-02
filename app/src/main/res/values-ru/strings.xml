@@ -108,7 +108,7 @@
     <string name="name_normal">Нормальный</string>
     <string name="title_file_chooser">Выбор файла</string>
     <string name="export_bookmarks">Резервное копирование закладок</string>
-    <string name="import_backup">Восстановление закладок из резервной копии</string>
+    <string name="import_backup">Восстановление закладок из копии</string>
     <string name="bookmark_export_path">Резервная копия сохранена в\n</string>
     <string name="import_bookmark_error">Не удалось импортировать закладки из файла</string>
     <string name="action_exit">Выход</string>
@@ -263,8 +263,8 @@
     <string name="action_view_image">Просмотр изображения</string>
 
     <string name="skin_colorful">Разноцветный</string>
-    <string name="skin_fruity">Фруктовый</string>
-    <string name="block_popup">Блокировать окно</string>
+    <string name="skin_fruity">Насыщенный</string>
+    <string name="block_popup">Блокировать всплывающие окна</string>
     <string name="open_window_hint">Сайт пытается открыть новое окно</string>
 
     <string name="save_web_page">Сохранить страницу</string>
@@ -343,7 +343,7 @@
     <string name="crash_hint">Простите за сбой.</string>
     <string name="upload_hint">Очень жаль, что произошёл сбой. Но вы можете отправить отчёт об ошибке, чтобы помочь нам её устранить. Отправить отчёт?</string>
     <string name="reset">Сброс настроек по умолчанию</string>
-    <string name="glean">Подобрать</string>
+    <string name="glean">Цитата</string>
     <string name="contact_us">Связаться с нами</string>
     <string name="official_website">Официальный сайт</string>
     <string name="current_language">Текущий язык</string>
