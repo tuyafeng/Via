@@ -265,7 +265,7 @@
     <string name="settings_skin">カスタマイズ</string>
     <string name="default_set">デフォルト</string>
     <string name="set_done">完了</string>
-    <string name="css">ホームページのデザイン</string>
+    <string name="css">ホームページスタイルシート</string>
     <string name="custom_css">カスタム CSS</string>
     <string name="tag">Logo (地球アイコン)</string>
     <string name="num_of_bookmarks_in_home">ブックマーク数</string>
@@ -355,9 +355,9 @@
     <string name="skin_colorful">カラフル</string>
     <string name="skin_fruity">フルーティー</string>
     <string name="stay">とどまる</string>
-    <string name="startpage_url">起動ページ</string>
+    <string name="startpage_url">Startpage</string>
     <string name="skin_bg">背景</string>
-    <string name="ui_tablet_bottom">ボトム操作バー</string>
+    <string name="ui_tablet_bottom">ボトムバー</string>
     <string name="leave">離れる</string>
     <string name="install">インストール</string>
     <string name="duckduckgo_url">DuckDuckGo</string>
@@ -372,4 +372,6 @@
     <string name="missing_webview">WebViewが正常にインストールしていません。今インストールしますか？</string>
     <string name="ask_url">Ask</string>
     <string name="share_desc">軽量なサイズ、パワフルな機能、効率的なブラウジング。Via ブラウザをチェックしよう：</string>
+    <string name="action_pic_mode">画像モード</string>
+    <string name="background_opacity">背景の不透明度</string>
 </resources>
