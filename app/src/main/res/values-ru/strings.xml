@@ -348,5 +348,7 @@
     <string name="official_website">Официальный сайт</string>
     <string name="current_language">Текущий язык</string>
     <string name="download_manager">Менеджер загрузки</string>
+    <string name="background_opacity">Непрозрачность фона</string>
+    <string name="action_pic_mode">Режим изображения</string>
 
 </resources>
