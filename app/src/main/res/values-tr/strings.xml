@@ -264,9 +264,7 @@
     <string name="settings_skin">Kişiselleştirme</string>
     <string name="default_set">Varsayılan</string>
     <string name="set_done">Bitti</string>
-    <string name="css">Ana Sayfa Stili</string>
     <string name="custom_css">Özel CSS</string>
-    <string name="tag">Logo (ana sayfada ki toprak simgesi)</string>
     <string name="num_of_bookmarks_in_home">Ana sayfada ki yer imlerinin sayısı</string>
     <string name="picture">Resim</string>
     <string name="text">Metin</string>
@@ -308,7 +306,6 @@
     <string name="cannot_view_source">Sadece kaynağını görebilirsiniz of \"http\" or \"https\" URLs.</string>
     <string name="sync_prompt">Ayarları ve geçerli konum üzerine yazılır. Devam edilsin mi?</string>
     <string name="upload_prompt">Ayarları ve geçerli konum yüklenir. Devam edilsin mi?</string>
-    <string name="local_page_bg">Ana Sayfanın Arka planı</string>
     <string name="none">Yok</string>
     <string name="action_order">Siparişi Belirle</string>
     <string name="order_hint">Daha açık.</string>

@@ -264,9 +264,7 @@
     <string name="settings_skin">Personnaliser</string>
     <string name="default_set">Défaut</string>
     <string name="set_done">Terminé</string>
-    <string name="css">Style de la page d\'accueil</string>
     <string name="custom_css">CSS personnalisé</string>
-    <string name="tag">Logo (L\'icône terre de la page d\'accueil)</string>
     <string name="num_of_bookmarks_in_home">"Nombre de signets dans la page d\'accueil"</string>
     <string name="picture">Image</string>
     <string name="text">Texte</string>
@@ -308,7 +306,6 @@
     <string name="cannot_view_source">Impossible d\'afficher la source \"http\" or \"https\" URLs.</string>
     <string name="sync_prompt">Remplacer vos favoris et vos paramètres locaux actuels. Continuer?</string>
     <string name="upload_prompt">Télécharger vos favoris et paramètres locaux actuels. Continuer?</string>
-    <string name="local_page_bg">Affichage de la page d\'accueil</string>
     <string name="none">Aucun</string>
     <string name="action_order">Ordre alphabétique</string>
     <string name="order_hint">Les plus visitées.</string>

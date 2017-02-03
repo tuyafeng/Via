@@ -265,9 +265,7 @@
     <string name="settings_skin">カスタマイズ</string>
     <string name="default_set">デフォルト</string>
     <string name="set_done">完了</string>
-    <string name="css">ホームページスタイルシート</string>
     <string name="custom_css">カスタム CSS</string>
-    <string name="tag">Logo (地球アイコン)</string>
     <string name="num_of_bookmarks_in_home">ブックマーク数</string>
     <string name="picture">画像</string>
     <string name="text">テキスト</string>
@@ -316,7 +314,6 @@
     <string name="action_back">戻る</string>
     <string name="restore_tabs">前回開いていたページを開く</string>
     <string name="none">なし</string>
-    <string name="local_page_bg">ホーム画像</string>
     <string name="online_addons">アドオン</string>
     <string name="force_cancel">強制終了</string>
     <string name="check_permission">アクセス許可が必要ですが・・・</string>

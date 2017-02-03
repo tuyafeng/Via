@@ -246,9 +246,7 @@
     <string name="settings_skin">Внешний вид</string>
     <string name="default_set">По умолчанию</string>
     <string name="set_done">Готово</string>
-    <string name="css">Стиль домашней страницы</string>
     <string name="custom_css">Свой CSS</string>
-    <string name="tag">Логотип</string>
     <string name="num_of_bookmarks_in_home">Количество закладок на домашней странице</string>
     <string name="picture">Изображение</string>
     <string name="text">Текст</string>
@@ -290,7 +288,6 @@
     <string name="cannot_view_source">Можно просматривать исходники только \"http\"- или \"https\"-ссылок.</string>
     <string name="sync_prompt">Будут перезаписаны текущие локальные закладки и настройки. Продолжить?</string>
     <string name="upload_prompt">Будут отправлены текущие локальные закладки и настройки. Продолжить?</string>
-    <string name="local_page_bg">Фон домашней страницы</string>
     <string name="none">Нет</string>
     <string name="action_order">Порядок</string>
     <string name="order_hint">Большее впереди</string>
