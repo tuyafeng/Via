@@ -348,7 +348,7 @@
     <string name="confirm_to_leave">確認離開</string>
     <string name="leave">離開此頁</string>
     <string name="stay">留在此頁</string>
-    <string name="ui_tablet_bottom">平闆 (底部)</string>
+    <string name="ui_tablet_bottom">平板 (底部)</string>
     <string name="skin_logo">Logo</string>
     <string name="skin_bg">背景</string>
     <string name="skin_style">風格</string>
@@ -365,5 +365,7 @@
     <string name="official_website">官方站點</string>
     <string name="current_language">當前語言</string>
     <string name="download_manager">下載管理</string>
+    <string name="background_opacity">背景的不透明度</string>
+    <string name="action_pic_mode">看圖模式</string>
 
 </resources>
