@@ -97,12 +97,12 @@
     <string name="title_form_resubmission">フォームの再送</string>
     <string name="message_form_resubmission">再送信しますか？</string>
     <string name="message_location">\n位置情報へのアクセスを許可しますか？</string>
-    <string name="action_allow">許可</string>
-    <string name="action_dont_allow">拒否</string>
+    <string name="action_allow">はい</string>
+    <string name="action_dont_allow">いいえ</string>
     <string name="title_sign_in">サインイン</string>
     <string name="hint_username">ユーザー名</string>
     <string name="hint_password">パスワード</string>
-    <string name="untitled">無題</string>
+    <string name="untitled">空白のページ</string>
     <string name="image_auto">Wi-Fi接続時のみ</string>
     <string name="image_on">画像を非表示</string>
     <string name="image_off">画像を表示</string>
@@ -220,7 +220,7 @@
     <string name="user_syns">サーバーから同期</string>
     <string name="user_update">サーバーにアップロード</string>
     <string name="log_in_success">ログインしました</string>
-    <string name="wrong_psw">パスワードに誤りがあります</string>
+    <string name="wrong_psw">パスワードが間違っています</string>
     <string name="sign_up_success">登録しました</string>
     <string name="code_500">サーバーエラー</string>
     <string name="syns_success">同期成功</string>
@@ -247,8 +247,8 @@
     <string name="toast_fullscreen_on">全画面表示</string>
     <string name="toast_fullscreen_off">全画面解除</string>
 
-    <string name="clear_data">データを消去&#8230;</string>
-    <string name="clear_data_on_exit">終了時にデータを消去する&#8230;</string>
+    <string name="clear_data">プライベートデータの消去</string>
+    <string name="clear_data_on_exit">終了時にプライベートを消去する</string>
     <string name="data_cache">キャッシュ</string>
     <string name="data_form_data">フォーム</string>
     <string name="data_history">閲覧履歴</string>
@@ -256,7 +256,7 @@
     <string name="data_cookies">Cookie</string>
     <string name="data_cleared">消去しました</string>
 
-    <string name="cannot_undo">削除後に復元は出来ません</string>
+    <string name="cannot_undo">注意！消去後に復元は出来ません</string>
 
     <string name="need_permission_hint">権限が必要です\n\n</string>
 
@@ -283,11 +283,11 @@
     <string name="open_window_hint">新しいタブを開いています</string>
 
     <string name="save_web_page">ページを保存</string>
-    <string name="saved_pages">オフラインページ</string>
+    <string name="saved_pages">保存されたページ</string>
     <string name="saved_page_successfully">保存しました</string>
     <string name="deleted_failed">削除できませんでした。ダウンロードディレクトリに削除してください: </string>
 
-    <string name="empty_hint">ここには何もありません&#8230;</string>
+    <string name="empty_hint">表示できる項目はありません</string>
 
     <string name="network_log">ネットワーク ログ</string>
     <string name="catalog">カタログ</string>
@@ -366,7 +366,7 @@
     <string name="glean">落穂拾い</string>
     <string name="reset">デフォルトに戻す</string>
     <string name="current_language">現在の言語</string>
-    <string name="missing_webview">WebViewが正常にインストールしていません。今インストールしますか？</string>
+    <string name="missing_webview">WebViewが正常にインストールしていません。インストールしますか？</string>
     <string name="ask_url">Ask</string>
     <string name="share_desc">軽量なサイズ、パワフルな機能、効率的なブラウジング。Via ブラウザをチェックしよう：</string>
     <string name="action_pic_mode">画像モード</string>
