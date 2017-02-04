@@ -264,9 +264,7 @@
     <string name="settings_skin">Anpassen</string>
     <string name="default_set">Standard</string>
     <string name="set_done">Erlegigt</string>
-    <string name="css">Stil der Startseite</string>
     <string name="custom_css">Angepasstes CSS</string>
-    <string name="tag">Logo (das Icon der Erde auf der Startseite)</string>
     <string name="num_of_bookmarks_in_home">Anzahl der Lesezeichen auf der Startseite</string>
     <string name="picture">Bild</string>
     <string name="text">Text</string>
@@ -308,7 +306,6 @@
     <string name="cannot_view_source">Es kann nur der Quellcode von \"http\" or \"https\" URLs angezeigt werden.</string>
     <string name="sync_prompt">Bestehende lokale Lesezeichen und Einstellungen werden überschrieben. Fortfahren?</string>
     <string name="upload_prompt">Bestehende lokale Lesezeichen und Einstelleungen werden hochgeladen. Fortfahren?</string>
-    <string name="local_page_bg">Hintergrund der Startseite</string>
     <string name="none">Nichts</string>
     <string name="action_order">Reihenfolge festlegen</string>
     <string name="order_hint">The greater the front.</string>

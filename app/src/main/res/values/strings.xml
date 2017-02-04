@@ -269,9 +269,7 @@
     <string name="settings_skin">Customize</string>
     <string name="default_set">Default</string>
     <string name="set_done">Done</string>
-    <string name="css">Style of Homepage</string>
     <string name="custom_css">Custom CSS</string>
-    <string name="tag">Logo (the earth icon of homepage)</string>
     <string name="num_of_bookmarks_in_home">The number of bookmarks in homepage</string>
     <string name="picture">Picture</string>
     <string name="text">Text</string>
@@ -314,7 +312,6 @@
     <string name="cannot_view_source">Can only view source of \"http\" or \"https\" URLs.</string>
     <string name="sync_prompt">It will overwrite your current local bookmark and settings. Continue?</string>
     <string name="upload_prompt">It will upload your current local bookmark and settings. Continue?</string>
-    <string name="local_page_bg">Background of the Homepage</string>
     <string name="none">None</string>
     <string name="action_order">Set Order</string>
     <string name="order_hint">The greater the front.</string>

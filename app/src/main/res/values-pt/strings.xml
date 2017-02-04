@@ -260,9 +260,7 @@
     <string name="settings_skin">Personalizar</string>
     <string name="default_set">Padrão</string>
     <string name="set_done">Pronto</string>
-    <string name="css">Estilo da Página Inicial</string>
     <string name="custom_css">CSS Personalizado</string>
-    <string name="tag">Logo (o ícone da página inicial)</string>
     <string name="num_of_bookmarks_in_home">Número de favoritos na página inicial</string>
     <string name="picture">Imagem</string>
     <string name="text">Texto</string>
@@ -292,7 +290,6 @@
     <string name="cannot_view_source">Só é poss ível mostrar código em URLs \"http\" ou \"https\".</string>
     <string name="sync_prompt">Isso irá substituir o seu local atual favorito e configurações. Continuar?</string>
     <string name="upload_prompt">Isso carregará o seu favorito e as configurações locais atuais. Continuar?</string>
-    <string name="local_page_bg">Fundo da Página Inicial</string>
     <string name="none">Nenhum</string>
     <string name="action_order">Definir ordem</string>
     <string name="order_hint">Maior a frente.</string>
