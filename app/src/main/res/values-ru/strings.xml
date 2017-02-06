@@ -21,7 +21,7 @@
     <string name="save_formdata">Сохранять данные форм</string>
     <string name="donate">Пожертвовать на Via</string>
     <string name="donate_details">Если вам нравится наша работа, то вы можете сделать пожертвование.\nAlipay: 2376688759@qq.com\nPayPal: wiar1824@gmail.com</string>
-    <string name="orientation">Ориентация</string>
+    <string name="orientation">Ориентация экрана</string>
     <string name="orientation_system">Системная</string>
     <string name="orientation_auto">Автоповорот</string>
     <string name="orientation_portrait">Портретная</string>
@@ -72,7 +72,7 @@
     <string name="hint_folder">Папка</string>
     <string name="title_edit_bookmark">Изменить закладку</string>
     <string name="action_edit">Редактировать</string>
-    <string name="action_incognito">Режим инкогнито</string>
+    <string name="action_incognito">Режим \"инкогнито\"</string>
     <string name="action_homepage">По умолчанию</string>
     <string name="action_find">Найти на странице</string>
     <string name="download_pending">Начинается загрузка…</string>
@@ -81,7 +81,7 @@
     <string name="download_no_sdcard_dlg_msg">Необходим USB-накопитель для скачивания этого файла</string>
     <string name="download_sdcard_busy_dlg_title">USB-накопитель недоступен</string>
     <string name="download_sdcard_busy_dlg_msg">Накопитель занят. Чтобы разрешить загрузки, отключите USB-накопитель в уведомлениях.</string>
-    <string name="incognito_cookies">Cookies в режиме инкогнито</string>
+    <string name="incognito_cookies">Cookies в режиме \"инкогнито\"</string>
     <string name="title_flash">Adobe Flash</string>
     <string name="action_manual">Вручную</string>
     <string name="action_auto">Авто</string>
@@ -98,7 +98,7 @@
     <string name="hint_username">Имя</string>
     <string name="hint_password">Пароль</string>
     <string name="untitled">Без названия</string>
-    <string name="image_auto">Изображения: WiFi</string>
+    <string name="image_auto">Изображения: Wi-Fi</string>
     <string name="image_on">Изображения: нет</string>
     <string name="image_off">Изображения: да</string>
     <string name="rendering_mode">Режим визуализации</string>
@@ -125,7 +125,7 @@
     <string name="screenshot_now">Видимая часть</string>
     <string name="dialog_message">Сообщение</string>
     <string name="toast_wait_a_minute">Подождите минутку…</string>
-    <string name="toast_save_to">Сохранение файла в:</string>
+    <string name="toast_save_to">Сохранено в:</string>
     <string name="toast_operation_failed">Ошибка при выполнении операции.</string>
     <string name="toast_operation_done">Операция выполнена.</string>
     <string name="volume">Прокрутка кнопками громкости</string>
@@ -141,15 +141,15 @@
     <string name="toast_copy_successful">Успешно скопировано</string>
     <string name="toast_copy_url_successful">Ссылка успешно скопирована</string>
     <string name="toast_copy_text_successful">Текст успешно скопирован</string>
-    <string name="incognito_on">Режим инкогнито: да</string>
-    <string name="incognito_off">Режим инкогнито: нет</string>
+    <string name="incognito_on">Режим \"инкогнито\": да</string>
+    <string name="incognito_off">Режим \"инкогнито\": нет</string>
     <string name="key_forward">Удержание [Вперёд]</string>
     <string name="key_back">Удержание [Назад]</string>
     <string name="key_home">Удержание [Домой]</string>
     <string name="key_tab">Удержание [Вкладки]</string>
     <string name="key_menu">Удержание [Меню]</string>
     <string name="operation_none">Нет</string>
-    <string name="operation_reload">Перезагрузка</string>
+    <string name="operation_reload">Перезагрузка страницы</string>
     <string name="operation_top">Перейти в начало</string>
     <string name="operation_bottom">Перейти в конец</string>
     <string name="operation_input">Ввести адрес</string>
@@ -189,13 +189,13 @@
     <string name="settings_block">Блокировка рекламы</string>
     <string name="dialog_confirm_block">Вы уверены, что хотите пометить это как рекламу?</string>
     <string name="block_3rd_party_cookies">Блокировать сторонние cookies</string>
-    <string name="do_not_track">\"Не отслеживать\"</string>
+    <string name="do_not_track">Не разрешать отслеживать</string>
     <string name="remove_identifying_headers">Удалять идентификаторы заголовков</string>
     <string name="get_more_rules">Получить правила</string>
     <string name="add_rule">Добавить правило</string>
     <string name="hint_tags">Метка</string>
     <string name="clear_ad_rules">Удалить все правила</string>
-    <string name="color_mode">Использовать цветовой режим</string>
+    <string name="color_mode">Цветовой режим</string>
     <string name="dialog_sure">Вы уверены, что хотите это сделать?</string>
     <string name="action_send_to_launcher">Ярлык на экран</string>
     <string name="settings_cloud">Облако</string>
@@ -215,16 +215,16 @@
     <string name="crash_close">Закрыть приложение</string>
     <string name="crash_upload">Отправить журнал сбоев</string>
     <string name="upload_completed">Отправка завершена</string>
-    <string name="ui_mode">Режим интерфейса</string>
+    <string name="ui_mode">Вид интерфейса</string>
     <string name="ui_auto">Авто</string>
     <string name="ui_phone">Телефон</string>
     <string name="ui_tablet">Планшет</string>
     <string name="open_or_search">Открыть/Поиск</string>
     <string name="settings_addons">Дополнения</string>
-    <string name="addon_download">Менеджер загрузки</string>
+    <string name="addon_download">Менеджер загрузок</string>
     <string name="addon_qr_code_scan">Сканер QR-кода</string>
     <string name="install_addon">Скачать и установить эти дополнения? Они будут работать после установки.</string>
-    <string name="quick_back">Возврат без перезагрузки</string>
+    <string name="quick_back">Возврат без перезагрузки страницы</string>
     <string name="open_with">Открыть в&#8230;</string>
     <string name="download_completed">Загрузка завершена</string>
     <string name="toast_fullscreen_on">Полноэкранный режим</string>
@@ -260,8 +260,8 @@
 
     <string name="action_view_image">Просмотр изображения</string>
 
-    <string name="skin_colorful">Разноцветный</string>
-    <string name="skin_fruity">Насыщенный</string>
+    <string name="skin_colorful">Цветной</string>
+    <string name="skin_fruity">Разноцветный</string>
     <string name="block_popup">Блокировать всплывающие окна</string>
     <string name="open_window_hint">Сайт пытается открыть новое окно</string>
 
@@ -289,8 +289,8 @@
     <string name="sync_prompt">Будут перезаписаны текущие локальные закладки и настройки. Продолжить?</string>
     <string name="upload_prompt">Будут отправлены текущие локальные закладки и настройки. Продолжить?</string>
     <string name="none">Нет</string>
-    <string name="action_order">Порядок</string>
-    <string name="order_hint">Большее впереди</string>
+    <string name="action_order">Порядок расположения</string>
+    <string name="order_hint">Больше — выше</string>
     <string name="action_addons">Ещё</string>
     <string name="action_back">Назад</string>
     <string name="action_log">Сетевой журнал</string>
@@ -307,7 +307,7 @@
     <string name="online_addons">Ещё дополнения</string>
     <string name="search_prompt">Быстрый поисковый запрос</string>
     <string name="wideViewPort">Широкий экран</string>
-    <string name="overViewMode">Страницы в режиме обзора</string>
+    <string name="overViewMode">Режим полного обзора страниц</string>
     <string name="log_page_hint">Можно скопировать данную ссылку или домен и вставить в %1$s для блокирования их загрузки при помощи внешнего чёрного списка.</string>
     <string name="fullscreen_0">Отключено</string>
     <string name="fullscreen_1">Прокрутка скрывает/показывает</string>
@@ -333,13 +333,13 @@
     <string name="skin_bg">Фон</string>
     <string name="skin_style">Стиль</string>
     <string name="skin_settings">Настройки</string>
-    <string name="share_desc">отправить через Via, скачать его: </string>
+    <string name="share_desc">Отправлено через браузер Via. Ссылка для скачивания приложения:</string>
     <string name="set_it_as_homepage">Установить в качестве домашней страницы?</string>
     <string name="missing_webview">Google webview корректно не установлен. Установить его сейчас?</string>
     <string name="install">Установить</string>
     <string name="crash_hint">Простите за сбой.</string>
     <string name="upload_hint">Очень жаль, что произошёл сбой. Но вы можете отправить отчёт об ошибке, чтобы помочь нам её устранить. Отправить отчёт?</string>
-    <string name="reset">Сброс настроек по умолчанию</string>
+    <string name="reset">Вернуть настройки по умолчанию</string>
     <string name="glean">Цитата</string>
     <string name="contact_us">Связаться с нами</string>
     <string name="official_website">Официальный сайт</string>
