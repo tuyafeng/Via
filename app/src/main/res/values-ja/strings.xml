@@ -87,7 +87,7 @@
     <string name="title_sign_in">サインイン</string>
     <string name="hint_username">ユーザー名</string>
     <string name="hint_password">パスワード</string>
-    <string name="untitled">空白のページ</string>
+    <string name="untitled">無題</string>
     <string name="image_auto">Wi-Fi接続時のみ</string>
     <string name="image_on">画像を非表示</string>
     <string name="image_off">画像を表示</string>
