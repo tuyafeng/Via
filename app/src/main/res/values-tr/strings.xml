@@ -18,7 +18,6 @@
     <string name="settings">Ayarlar</string>
     <string name="location">Konum Erişimi</string>
     <string name="password">Şifreleri Kaydet</string>
-    <string name="save_formdata">Form Verileri</string>
     <string name="donate">Bağışta Bulun</string>
     <string name="donate_details">Via tarayıcısını sevdiyseniz, bize destek olmak için bağışta bulunabilirsiniz.\nAlipay: 2376688759@qq.com\nPayPal: wiar1824@gmail.com</string>
     <string name="orientation">Yönlendirme</string>
@@ -27,23 +26,16 @@
     <string name="orientation_portrait">Portre</string>
     <string name="orientation_landscape">Manzara</string>
     <string name="agent">Kullanıcı Aracı</string>
-    <string name="flash">Adobe Flash Etkinleştirme</string>
     <string name="home">Ana Sayfa</string>
     <string name="fullscreen">Url Çubuğunu Otomatik Gizleme</string>
     <string name="java">JavaScript Etkinleştirme</string>
     <string name="download">İndirme Konumu</string>
-    <string name="reflow">Enable Text Reflow</string>
-    <string name="cookies">Çerezleri Etkinleştirme</string>
     <string name="size">Metin Boyutu</string>
     <string name="search">Arama Motoru</string>
     <string name="search_hint">Arama</string>
-    <string name="animation">Animasyon</string>
-    <string name="wakelock">Tarama Yaparken Ekranı Açık Tutun</string>
-    <string name="hideUnderlineOption">Hide Underline in Pages</string>
     <string name="action_delete">Sil</string>
     <string name="action_delete_all">Hepsini Sil</string>
     <string name="action_blank">Boş Sayfa</string>
-    <string name="agent_default">Varsayılan</string>
     <string name="agent_chrome">Chrome (PC)</string>
     <string name="agent_ie">IE 11 (PC)</string>
     <string name="agent_iphone">iPhone</string>
@@ -54,8 +46,6 @@
     <string name="dialog_download">Bu dosyayı indirmek istiyormusun?</string>
     <string name="action_cancel">İptal</string>
     <string name="title_warning">Uyarı</string>
-    <string name="dialog_adobe_not_installed">Adobe Flash Player tespit edilmedi.\nLütfen Flash Player yükleyin.</string>
-    <string name="dialog_adobe_unsupported">Adobe Flash, Android 4.2 ve üstünü desteklemez ve tarayıcıyı çökebilir. Lütfen Flash\'ı etkinleştirirseniz meydana gelen herhangi bir çökme rapor etmeyin.</string>
     <string name="title_user_agent">Kullanıcı Aracı</string>
     <string name="title_custom_homepage">Özel Ana Sayfa</string>
     <string name="action_webpage">Web Sayfası</string>
@@ -73,7 +63,6 @@
     <string name="title_edit_bookmark">Yer İmlerini Düzenle</string>
     <string name="action_edit">Bunu Düzenle</string>
     <string name="action_incognito">Gizli Mod</string>
-    <string name="action_homepage">Varsayılan</string>
     <string name="action_find">Sayfada Bul</string>
     <string name="download_pending">İndirmeyi Başlat\u2026</string>
     <string name="cannot_download">Yalnızca İndirilebilenler \"http\" or \"https\" URLs.</string>
@@ -81,10 +70,6 @@
     <string name="download_no_sdcard_dlg_msg">USB storage is required to download the file.</string>
     <string name="download_sdcard_busy_dlg_title">USB depolama kullanılamaz.</string>
     <string name="download_sdcard_busy_dlg_msg">Depolama meşgul.İndirmeye izin vermek için, ayarlardan USB Depolamayı kapatın.</string>
-    <string name="incognito_cookies">Gizli Modda Çerezleri Etkinleştir</string>
-    <string name="title_flash">Adobe Flash</string>
-    <string name="action_manual">Manual</string>
-    <string name="action_auto">Otomatik</string>
     <string name="message_import">Yer İmleri Alındı</string>
     <string name="custom_url">Özel Url</string>
     <string name="baidu_url">Baidu</string>
@@ -107,25 +92,13 @@
     <string name="image_auto">Wifi üzerinden resimleri göster</string>
     <string name="image_on">Resmi Engelle</string>
     <string name="image_off">Resmi Göster</string>
-    <string name="rendering_mode">İşleme Modu</string>
-    <string name="name_inverted">Ters</string>
-    <string name="name_grayscale">Gri Tonlama</string>
-    <string name="name_inverted_grayscale">Ters Gri Tonlama</string>
-    <string name="name_normal">Normal</string>
     <string name="title_file_chooser">Dosya Seç</string>
-    <string name="export_bookmarks">Yer imlerini yedekle ve dışarı aktar</string>
     <string name="import_backup">Yer imlerini yedekten içe aktar</string>
     <string name="bookmark_export_path">Yer imleri dışa aktarılanlar</string>
     <string name="import_bookmark_error">Dosyadan yer imleri alınamadı</string>
-    <string name="action_exit">Çıkış</string>
-    <string name="about">Via Hakkında</string>
-    <string name="update">Güncelleme</string>
     <string name="feedback">Geri Bildirim</string>
     <string name="message_add_bookmark">Yer imlerine başarıyla eklendi</string>
     <string name="message_exit">Çıkmak için bir kez daha basın</string>
-    <string name="bookmarks_style">Yer imleri stili</string>
-    <string name="list">Liste</string>
-    <string name="grid">Izgara</string>
     <string name="web_screenshot">Web Ekran Görüntüsü</string>
     <string name="screenshot_all">Hepsi</string>
     <string name="screenshot_now">Görünür</string>
@@ -144,16 +117,10 @@
     <string name="dialog_adblock_custom_hint">\nLütfen dosyanın yolunu değiştirmeyiniz. Engelleme listesini özelleştirmek için bu dosyayı düzenleyebilirsiniz</string>
     <string name="setting_default">Varsayılan Tarayıcı Olarak Ayarla</string>
     <string name="toast_clear_defaults">Lütfen varsayılanları temizle</string>
-    <string name="toast_copy_successful">Kopyalama başarılı</string>
     <string name="toast_copy_url_successful">Url kopyalama başarılı</string>
     <string name="toast_copy_text_successful">Metin kopyalama başarılı</string>
     <string name="incognito_on">Gizli Modu Aç</string>
     <string name="incognito_off">Gizli Modu Kapat</string>
-    <string name="key_forward">İleri Tuşuna Uzun Basın</string>
-    <string name="key_back">Geri Tuşuna Uzun Basın</string>
-    <string name="key_home">Ev Tuşuna Uzun Basın</string>
-    <string name="key_tab">Boşluk Tuşuna Uzun Basın</string>
-    <string name="key_menu">Menü Tuşuna Uzun Basın</string>
     <string name="operation_none">Yok</string>
     <string name="operation_reload">Yeniden Yükle</string>
     <string name="operation_top">Başa Git</string>
@@ -169,13 +136,8 @@
     <string name="operation_goback">Geri Git</string>
     <string name="operation_goforward">İleri Git</string>
     <string name="operation_find">Sayfada Bul</string>
-    <string name="gesture_toolbar_left">Araç Çubuğunu Sola Kaydır</string>
-    <string name="gesture_toolbar_right">Araç Çubuğunu Sağa Kaydır</string>
-    <string name="settings_other">Diğer</string>
     <string name="settings_ad_rules">Ads Marked</string>
     <string name="settings_operation">İşlem</string>
-    <string name="settings_bookmark">Yer İmleri</string>
-    <string name="settings_display">Ekran</string>
     <string name="settings_privacy">Gizlilik</string>
     <string name="settings_advanced">Gelişmiş</string>
     <string name="settings_about">Hakkında</string>
@@ -183,7 +145,6 @@
     <string name="url_box_domain">Alan</string>
     <string name="url_box_url">Url</string>
     <string name="url_box_title">Başlık</string>
-    <string name="text_encoding">Metin Kodlama</string>
     <string name="action_pcview">Masaüstü Sitesi</string>
     <string name="action_source">Kaynağı Görüntüleyin</string>
     <string name="action_translate">Çeviri</string>
@@ -197,18 +158,13 @@
     <string name="desc_home">Ev</string>
     <string name="desc_tab">Sekme</string>
     <string name="desc_menu">Menü</string>
-    <string name="desc_addbookmark">Yer imlerine ekle</string>
-    <string name="desc_share">Paylaş</string>
     <string name="desc_filedic">Dosya</string>
     <string name="desc_other">Diğer</string>
-    <string name="grid_colorful">Renkli Izgara</string>
     <string name="msg_setgoogle">Google arama motorunu şimdi ayarla?</string>
     <string name="action_mark">Reklam olarak işaretle</string>
     <string name="settings_block">Adblock</string>
     <string name="dialog_confirm_block">Bunu reklam olarak işaretlemek ister msiniz ?</string>
-    <string name="block_3rd_party_cookies">3.Parti Çerezleri Engelle</string>
     <string name="do_not_track">İzlenme</string>
-    <string name="remove_identifying_headers">Başlıkları Belirle Kaldır</string>
     <string name="get_more_rules">Daha Fazla Kural</string>
     <string name="add_rule">Kural Ekle</string>
     <string name="hint_tags">Etiketler</string>
@@ -226,7 +182,6 @@
     <string name="code_500">Hizmet kullanılamıyor.</string>
     <string name="syns_success">Senkronizasyon Tamamlandı</string>
     <string name="upload_success">Yükleme tamamlandı</string>
-    <string name="account_null">Lütfen önce giriş yapın.</string>
     <string name="log_out">Çıkış Yap</string>
     <string name="crash_info">Ters giden bir şey mi var ? :( </string>
     <string name="crash_restart">Uygulamayı Yeniden Başlat</string>
@@ -235,8 +190,6 @@
     <string name="upload_completed">Yükleme tamamlandı :)</string>
     <string name="ui_mode">Arayüz Modu</string>
     <string name="ui_auto">Otomatik</string>
-    <string name="ui_phone">Telefon</string>
-    <string name="ui_tablet">Tablet</string>
     <string name="open_or_search">Aç/Arama</string>
     <string name="settings_addons">Eklentiler</string>
     <string name="addon_download">İndirme Yöneticisi</string>
@@ -245,11 +198,9 @@
     <string name="quick_back">Yeniden yüklemeden geri dönün</string>
     <string name="open_with">Bununla aç&#8230;</string>
     <string name="download_completed">İndirme tamamlandı</string>
-    <string name="toast_fullscreen_on">Tam Ekran Moduna Gir</string>
     <string name="toast_fullscreen_off">Tam Ekran Modundan Çık</string>
 
-    <string name="clear_data">Veriyi Temizle&#8230;</string>
-    <string name="clear_data_on_exit">Veriyi temizle ve kapat&#8230;</string>
+    <string name="clear_data">Veriyi Temizle</string>
     <string name="data_cache">Önbellek</string>
     <string name="data_form_data">Form verileri</string>
     <string name="data_history">Geçmiş</string>
@@ -263,18 +214,11 @@
 
     <string name="settings_skin">Kişiselleştirme</string>
     <string name="default_set">Varsayılan</string>
-    <string name="set_done">Bitti</string>
     <string name="custom_css">Özel CSS</string>
     <string name="num_of_bookmarks_in_home">Ana sayfada ki yer imlerinin sayısı</string>
     <string name="picture">Resim</string>
     <string name="text">Metin</string>
     <string name="html_code">Html Kod</string>
-    <string name="delete_all_bookmarks">Yer İmlerinin tümünü sil</string>
-
-    <string name="open_link_in">Bağlantıyı Aç</string>
-    <string name="link_decide_by_website">Web Sitesine Göre Karar Verme</string>
-    <string name="link_current_page">Mevcut Sayfa</string>
-    <string name="link_new_tab">Yeni Sekme</string>
 
     <string name="action_view_image">Resmi Görüntüle</string>
 
@@ -283,8 +227,8 @@
     <string name="block_popup">Popup Engelleme</string>
     <string name="open_window_hint">Web sitesi yeni bir pencere açmayı deniyor</string>
 
-    <string name="save_web_page">Web Sayfasını Kaydet</string>
-    <string name="saved_pages">Sayfayı Kaydet</string>
+    <string name="action_save_web_page">Web Sayfasını Kaydet</string>
+    <string name="action_saved_pages">Sayfayı Kaydet</string>
     <string name="saved_page_successfully">Sayfayı Kaydetme Başarılı</string>
     <string name="deleted_failed">"Silinme işlemi başarısız oldu.Dosya indirme yolunda bulunan: "</string>
 
@@ -302,15 +246,9 @@
     <string name="set_to_default">Açık bağlantıyı (1year.cc) kullandıktan sonra varsayılan olarak ayarlanacaktır, lütfen bağlantıyı açmak için via seçeneğini seçiniz.</string>
 
     <string name="quick_back_desc">Bu ayarı açtığınızda uyumluluk sorunu olabilir.Eğer sorun varsa bu ayarı kapatınız.</string>
-    <string name="cannot_translate">Sadece çeviri \"http\" or \"https\" URLs.</string>
-    <string name="cannot_view_source">Sadece kaynağını görebilirsiniz of \"http\" or \"https\" URLs.</string>
     <string name="sync_prompt">Ayarları ve geçerli konum üzerine yazılır. Devam edilsin mi?</string>
     <string name="upload_prompt">Ayarları ve geçerli konum yüklenir. Devam edilsin mi?</string>
     <string name="none">Yok</string>
-    <string name="action_order">Siparişi Belirle</string>
-    <string name="order_hint">Daha açık.</string>
-    <string name="action_addons">Daha</string>
-    <string name="action_back">Menüye geri dön</string>
     <string name="action_log">Ağ Günlüğü</string>
     <string name="check_permission">İzin verilmedi. Şimdi ayarlamak istermisiniz ?</string>
     <string name="need_permission_hint">Çalışmalarını sağlamak için aşağıdaki izinlere ihtiyacınız vardır.\n\n</string>
@@ -323,9 +261,6 @@
     <string name="install_success">Yükleme Başarılı!!!</string>
     <string name="uninstall_success">Kaldırma Başarılı!!!</string>
     <string name="online_addons">Online Eklentiler</string>
-    <string name="search_prompt">Arama Sorgu İstemi</string>
-    <string name="wideViewPort">Geniş Görüntüleme Çerçevesi Kullanın</string>
-    <string name="overViewMode">Sayfaları Genel Bakış Moduna Yükle</string>
     <string name="log_page_hint">Aşağıdaki bağlantı ya da etki alanı kopyalayıp, %1$s ile özel blok yükleme bloğu için yapıştırın.</string>
     <string name="fullscreen_0">Devre dışı bırak</string>
     <string name="fullscreen_1">Kaydırmak için gizle/göster</string>
@@ -337,10 +272,5 @@
     <string name="script_code">kod (javascript)</string>
     <string name="clear_all_script">Tüm Scriptleri Temizle</string>
     <string name="toast_copy_domain_successful">Alan kopyalama başarılı</string>
-    <string name="dark_stauts_bar">Varsa Koyu Durum Çubuğu</string>
-    <string name="dark_stauts_bar_hint">Lütfen durum çubuğunuzu anormal durumdaysa şimdi durum çubuğunu kontrol edin, kapatın.</string>
-    <string name="open_in_new">Yeni Açılış Şekli</string>
-    <string name="open_in_new_background">Arkaplan</string>
-    <string name="open_in_new_foreground">Önplan</string>
     <string name="help_us_translate">Çevirmede bize yardımcı olun</string>
 </resources>
