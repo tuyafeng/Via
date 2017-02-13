@@ -317,17 +317,19 @@
     <string name="toolbar_settings_hint">Click (slide) the following button to set its long press (slide) event, and long press it to see what it had been set.</string>
     <string name="action_modify">Modify</string>
     <string name="operation_hint">Gesture, Operating habits, etc</string>
-    <string name="empty_ads_mark_hint">No ads marks. \nYou can long press ads in web page then select \"Mark as AD\" to block it. \nOr just click the following button.</string>
+    <string name="empty_ads_mark_hint">No ads marked. \nYou can long press ads in web page then select \"Mark as AD\" to block it. \nOr just click the following button.</string>
     <string name="empty_script_hint">No scripts. \nYou can click the plus button to add scripts. \nOr just click the following button.</string>
     <string name="adblock_info">%1$d ads have been blocked, %2$s saved</string>
     <string name="disable">Disable</string>
     <string name="ui_traditional">Traditional</string>
     <string name="ui_simple">Simple</string>
-    <string name="color_mode_hint">Color operation bars when browseing</string>
-    <string name="sort_bookmarks_hint">Long press and drag to sort bookmarks</string>
+    <string name="color_mode_hint">Color operation bars when browsing</string>
+    <string name="sort_hint">Long press and drag to sort</string>
     <string name="action_sort_bookmarks">Sort bookmarks</string>
     <string name="desc_close">Close</string>
     <string name="clear_cache_on_exit">Clear Cache on Exit</string>
     <string name="action_close_all_tabs">Close all tabs</string>
+    <string name="skin_hide_search_part">Hide Search Part</string>
+    <string name="action_more">More</string>
 
 </resources>

@@ -319,7 +319,6 @@
     <string name="ui_simple">シンプル</string>
     <string name="ui_traditional">通常</string>
     <string name="import_or_export_bookmarks">ブックマークをインポート/エクスポート</string>
-    <string name="sort_bookmarks_hint">長押し＆ドラッグで並び替えできる</string>
     <string name="go_together">同行</string>
     <string name="skin_transparent">透明</string>
     <string name="operation_hint">ジェスチャー、操作習慣など</string>

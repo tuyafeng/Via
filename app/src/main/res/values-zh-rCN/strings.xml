@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources tools:ignore="MissingTranslation" xmlns:tools="http://schemas.android.com/tools">
-
     <string name="app_name">Via</string>
     <string name="action_new_tab">新建标签</string>
     <string name="action_open_in_new">新窗口打开</string>
@@ -198,7 +197,6 @@
     <string name="open_with">打开通过&#8230;</string>
     <string name="download_completed">下载完成</string>
     <string name="toast_fullscreen_off">退出全屏模式</string>
-
     <string name="clear_data">清除数据</string>
     <string name="data_cache">缓存</string>
     <string name="data_form_data">表单数据</string>
@@ -206,11 +204,8 @@
     <string name="data_storage">网页存储</string>
     <string name="data_cookies">Cookies</string>
     <string name="data_cleared">数据已清除</string>
-
     <string name="cannot_undo">这将不可撤销！！！</string>
-
     <string name="sync_desc">账号不存在将自动创建</string>
-
     <string name="settings_skin">定制</string>
     <string name="default_set">默认</string>
     <string name="custom_css">自定义 CSS</string>
@@ -218,34 +213,23 @@
     <string name="picture">图片</string>
     <string name="text">文字</string>
     <string name="html_code">Html 代码</string>
-
     <string name="action_view_image">查看图片</string>
-
     <string name="skin_colorful">多彩</string>
     <string name="skin_fruity">果味</string>
     <string name="skin_transparent">透明</string>
-
     <string name="block_popup">拦截弹出窗口</string>
     <string name="open_window_hint">网站尝试打开一个窗口</string>
-
     <string name="action_save_web_page">保存网页</string>
     <string name="action_saved_pages">离线页面</string>
     <string name="saved_page_successfully">保存网页完成, 在首页菜单的"离线页面"中可见</string>
     <string name="deleted_failed">删除失败, 文件位于下载目录: </string>
-
     <string name="empty_hint">空空如也&#8230;</string>
-
     <string name="network_log">网络日志</string>
     <string name="catalog">目录</string>
-
     <string name="screenshot_hint">全网页截图在 android 5.0+ 的设备上存在兼容性问题, 我们仍在找寻解决方法.</string>
-
     <string name="conn_timeout">连接超时</string>
-
     <string name="already_default">已是默认浏览器</string>
-
     <string name="set_to_default">为了顺利完成设置将打开一个链接(1year.cc), 请选择 via 打开它.</string>
-
     <string name="quick_back_desc">这可能导致一些兼容性问题. 如果你发现回退异常请关闭它.</string>
     <string name="sync_prompt">这将覆盖掉你当前的书签和设置. 是否继续?</string>
     <string name="upload_prompt">将你当前的书签和设置上传到云端. 是否继续?</string>
@@ -320,10 +304,11 @@
     <string name="ui_simple">简单</string>
     <string name="color_mode_hint">浏览网页时操作栏自适应色彩</string>
     <string name="action_dont_allow">拒绝</string>
-    <string name="sort_bookmarks_hint">长按拖放来排序</string>
+    <string name="sort_hint">长按拖放来排序</string>
     <string name="action_sort_bookmarks">排序书签</string>
     <string name="desc_close">关闭</string>
     <string name="clear_cache_on_exit">退出时清除缓存</string>
     <string name="action_close_all_tabs">关闭所有标签</string>
-
+    <string name="skin_hide_search_part">隐藏搜索部分</string>
+    <string name="action_more">更多</string>
 </resources>
