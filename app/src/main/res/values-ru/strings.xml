@@ -27,7 +27,7 @@
     <string name="orientation_landscape">Пейзажная</string>
     <string name="agent">Агент пользователя</string>
     <string name="home">Домашняя страница</string>
-    <string name="fullscreen">Полноэкранный режим</string>
+    <string name="fullscreen">Автоскрытие панелей</string>
     <string name="java">Использовать JavaScript</string>
     <string name="download">Загружать в</string>
     <string name="size">Размер текста</string>
@@ -135,7 +135,7 @@
     <string name="settings_privacy">Конфиденциальность</string>
     <string name="settings_advanced">Дополнительные</string>
     <string name="settings_about">О приложении</string>
-    <string name="url_box">Содержимое поля ссылки</string>
+    <string name="url_box">Содержимое адресной строки</string>
     <string name="url_box_domain">Домен</string>
     <string name="url_box_url">Ссылка</string>
     <string name="url_box_title">Заголовок</string>
@@ -151,7 +151,7 @@
     <string name="do_not_track">\"Не отслеживать\"</string>
     <string name="get_more_rules">Получить правила</string>
     <string name="add_rule">Добавить правило</string>
-    <string name="hint_tags">Метка</string>
+    <string name="hint_tags">Правила (через запятую)</string>
     <string name="clear_ad_rules">Удалить все правила</string>
     <string name="color_mode">Использовать цветовой режим</string>
     <string name="dialog_sure">Вы уверены, что хотите это сделать?</string>
@@ -161,7 +161,7 @@
     <string name="user_syns">Обновление из облака</string>
     <string name="user_update">Обновление в облаке</string>
     <string name="log_in_success">Успешный вход</string>
-    <string name="wrong_psw">Некорректный пароль</string>
+    <string name="wrong_psw">Неправильный пароль</string>
     <string name="sign_up_success">Регистрация прошла успешно</string>
     <string name="code_500">Сервис недоступен</string>
     <string name="syns_success">Синхронизация выполнена успешно</string>
@@ -208,6 +208,7 @@
 
     <string name="skin_colorful">Разноцветный</string>
     <string name="skin_fruity">Насыщенный</string>
+    <string name="skin_transparent">Прозрачный</string>
     <string name="block_popup">Блокировать всплывающие окна</string>
     <string name="open_window_hint">Сайт пытается открыть новое окно</string>
 
@@ -256,6 +257,7 @@
     <string name="script_code">код (javascript)</string>
     <string name="clear_all_script">Очистить сценарий</string>
     <string name="toast_copy_domain_successful">Домен успешно скопирован</string>
+    <string name="go_together">Быть вместе</string>
     <string name="help_us_translate">Помогите нам с переводом</string>
     <string name="confirm_to_leave">Подтверждение выхода</string>
     <string name="leave">Выйти</string>
@@ -273,8 +275,37 @@
     <string name="contact_us">Связаться с нами</string>
     <string name="official_website">Официальный сайт</string>
     <string name="current_language">Текущий язык</string>
-    <string name="download_manager">Менеджер загрузки</string>
+    <string name="download_manager">Загрузки</string>
     <string name="background_opacity">Непрозрачность фона</string>
     <string name="action_pic_mode">Режим изображения</string>
+    <string name="block_it_temporarily">Временно заблокировать</string>
+    <string name="find_next">Следующее</string>
+    <string name="find_pre">Предыдущее</string>
+    <string name="action_open_in_background">Открыть в фоне</string>
+    <string name="cannot_work">Работает только с \"http\"- или \"https\"-ссылками.</string>
+    <string name="action_fullscreen">Полный экран</string>
+    <string name="settings_general">Основные</string>
+    <string name="no_bookmark">Нет закладок</string>
+    <string name="import_or_export_bookmarks">Импорт/экспорт закладок</string>
+    <string name="what_is_next">Что дальше?</string>
+    <string name="import_">Импорт</string>
+    <string name="export_">Экспорт</string>
+    <string name="pull_to_refresh_gesture">Потяните, чтобы обновить жест</string>
+    <string name="back_forward_gesture">Жест назад-вперёд</string>
+    <string name="toolbar_settings_hint">Нажмите (потяните) кнопку для установки своего действия при утержании (сдвиге), удерживайте для просмотра установленного действия.</string>
+    <string name="action_modify">Изменить</string>
+    <string name="operation_hint">Жесты, операции и т.д.</string>
+    <string name="empty_ads_mark_hint">Нет меток рекламы.\nВы можете удерживать рекламное объявление на сайте и выбрать \"Пометить как рекламу\" для его блокировки.\nИли можете просто нажать эту кнопку.</string>
+    <string name="empty_script_hint">Нет сценариев.\nВы можете нажать кнопку [+] для добавления.\nИли можете просто нажать эту кнопку.</string>
+    <string name="adblock_info">%1$d рекламных объявлений заблокировано, %2$s сохранено</string>
+    <string name="disable">Отключить</string>
+    <string name="ui_traditional">Традиционный</string>
+    <string name="ui_simple">Простой</string>
+    <string name="color_mode_hint">Панели в цвет сайта</string>
+    <string name="sort_bookmarks_hint">Зажмите и перетащите для сортировки закладок</string>
+    <string name="action_sort_bookmarks">Сортировка закладкок</string>
+    <string name="desc_close">Закрыть</string>
+    <string name="clear_cache_on_exit">Очистить кэш и выйти</string>
+    <string name="action_close_all_tabs">Закрыть все вкладки</string>
 
 </resources>
