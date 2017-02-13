@@ -4,8 +4,6 @@
     <string name="action_screenshot">擷取畫面</string>
     <string name="agent">瀏覽器標識</string>
     <string name="dialog_download">你是否需要下載此檔案？</string>
-    <string name="dialog_adobe_not_installed">未在你的裝置中偵測到 Adobe Flash Player，請先安裝 Adobe  Flash Player 後再啟用此選項。</string>
-    <string name="dialog_adobe_unsupported">Adobe Flash 無法正常支援 Android 4.2 以及更高版本並且可能導致瀏覽器崩潰，若你啟用後出現瀏覽器崩潰的問題請勿對此問題進行意見反應。</string>
     <string name="title_user_agent">瀏覽器標識</string>
     <string name="message_form_resubmission">你確定傳送資料嗎？</string>
     <string name="message_location">\n想使用你的位置資訊</string>
