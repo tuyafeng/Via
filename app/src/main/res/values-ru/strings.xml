@@ -62,7 +62,7 @@
     <string name="hint_folder">Папка</string>
     <string name="title_edit_bookmark">Изменить закладку</string>
     <string name="action_edit">Редактировать</string>
-    <string name="action_incognito">Режим инкогнито</string>
+    <string name="action_incognito">Режим \"инкогнито\"</string>
     <string name="action_find">Найти на странице</string>
     <string name="download_pending">Начинается загрузка…</string>
     <string name="cannot_download">Скачивать можно только по \"http\"- или \"https\"-ссылкам.</string>
@@ -83,7 +83,7 @@
     <string name="hint_username">Имя</string>
     <string name="hint_password">Пароль</string>
     <string name="untitled">Без названия</string>
-    <string name="image_auto">Изображения: WiFi</string>
+    <string name="image_auto">Изображения: Wi-Fi</string>
     <string name="image_on">Изображения: нет</string>
     <string name="image_off">Изображения: да</string>
     <string name="title_file_chooser">Выбор файла</string>
@@ -98,7 +98,7 @@
     <string name="screenshot_now">Видимая часть</string>
     <string name="dialog_message">Сообщение</string>
     <string name="toast_wait_a_minute">Подождите минутку…</string>
-    <string name="toast_save_to">Сохранение файла в:</string>
+    <string name="toast_save_to">Сохранено в:</string>
     <string name="toast_operation_failed">Ошибка при выполнении операции.</string>
     <string name="toast_operation_done">Операция выполнена.</string>
     <string name="volume">Прокрутка кнопками громкости</string>
@@ -113,8 +113,8 @@
     <string name="toast_clear_defaults">Стереть умолчания</string>
     <string name="toast_copy_url_successful">Ссылка успешно скопирована</string>
     <string name="toast_copy_text_successful">Текст успешно скопирован</string>
-    <string name="incognito_on">Режим инкогнито: да</string>
-    <string name="incognito_off">Режим инкогнито: нет</string>
+    <string name="incognito_on">Режим \"инкогнито\": да</string>
+    <string name="incognito_off">Режим \"инкогнито\": нет</string>
     <string name="operation_none">Нет</string>
     <string name="operation_reload">Перезагрузка</string>
     <string name="operation_top">Перейти в начало</string>
@@ -135,7 +135,7 @@
     <string name="settings_privacy">Конфиденциальность</string>
     <string name="settings_advanced">Дополнительные</string>
     <string name="settings_about">О приложении</string>
-    <string name="url_box">Содержимое поля ссылки</string>
+    <string name="url_box">Содержимое адресной строки</string>
     <string name="url_box_domain">Домен</string>
     <string name="url_box_url">Ссылка</string>
     <string name="url_box_title">Заголовок</string>
@@ -151,9 +151,9 @@
     <string name="do_not_track">\"Не отслеживать\"</string>
     <string name="get_more_rules">Получить правила</string>
     <string name="add_rule">Добавить правило</string>
-    <string name="hint_tags">Метка</string>
+    <string name="hint_tags">Правила (через запятую)</string>
     <string name="clear_ad_rules">Удалить все правила</string>
-    <string name="color_mode">Использовать цветовой режим</string>
+    <string name="color_mode">Цветовой режим</string>
     <string name="dialog_sure">Вы уверены, что хотите это сделать?</string>
     <string name="action_send_to_launcher">Ярлык на экран</string>
     <string name="settings_cloud">Облако</string>
@@ -161,7 +161,7 @@
     <string name="user_syns">Обновление из облака</string>
     <string name="user_update">Обновление в облаке</string>
     <string name="log_in_success">Успешный вход</string>
-    <string name="wrong_psw">Некорректный пароль</string>
+    <string name="wrong_psw">Неправильный пароль</string>
     <string name="sign_up_success">Регистрация прошла успешно</string>
     <string name="code_500">Сервис недоступен</string>
     <string name="syns_success">Синхронизация выполнена успешно</string>
@@ -172,14 +172,14 @@
     <string name="crash_close">Закрыть приложение</string>
     <string name="crash_upload">Отправить журнал сбоев</string>
     <string name="upload_completed">Отправка завершена</string>
-    <string name="ui_mode">Режим интерфейса</string>
+    <string name="ui_mode">Вид интерфейса</string>
     <string name="ui_auto">Авто</string>
-    <string name="open_or_search">Открыть/Поиск</string>
+    <string name="open_or_search">Открыть/искать</string>
     <string name="settings_addons">Дополнения</string>
-    <string name="addon_download">Менеджер загрузки</string>
+    <string name="addon_download">Менеджер загрузкок</string>
     <string name="addon_qr_code_scan">Сканер QR-кода</string>
     <string name="install_addon">Скачать и установить эти дополнения? Они будут работать после установки.</string>
-    <string name="quick_back">Возврат без перезагрузки</string>
+    <string name="quick_back">Возврат без перезагрузки страницы</string>
     <string name="open_with">Открыть в&#8230;</string>
     <string name="download_completed">Загрузка завершена</string>
     <string name="toast_fullscreen_off">Обычный режим</string>
@@ -276,7 +276,7 @@
     <string name="contact_us">Связаться с нами</string>
     <string name="official_website">Официальный сайт</string>
     <string name="current_language">Текущий язык</string>
-    <string name="download_manager">Менеджер загрузки</string>
+    <string name="download_manager">Загрузки</string>
     <string name="background_opacity">Непрозрачность фона</string>
     <string name="action_pic_mode">Режим изображения</string>
     <string name="block_it_temporarily">Временно заблокировать</string>
@@ -286,7 +286,7 @@
     <string name="cannot_work">Работает только с \"http\"- или \"https\"-ссылками.</string>
     <string name="action_fullscreen">Полный экран</string>
     <string name="settings_general">Основные</string>
-    <string name="no_bookmark">Нет закладки</string>
+    <string name="no_bookmark">Нет закладок</string>
     <string name="import_or_export_bookmarks">Импорт/экспорт закладок</string>
     <string name="what_is_next">Что дальше?</string>
     <string name="import_">Импорт</string>
