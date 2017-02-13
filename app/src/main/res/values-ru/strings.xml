@@ -116,7 +116,7 @@
     <string name="incognito_on">Режим \"инкогнито\": да</string>
     <string name="incognito_off">Режим \"инкогнито\": нет</string>
     <string name="operation_none">Нет</string>
-    <string name="operation_reload">Перезагрузка</string>
+    <string name="operation_reload">Перезагрузка страницы</string>
     <string name="operation_top">Перейти в начало</string>
     <string name="operation_bottom">Перейти в конец</string>
     <string name="operation_input">Ввести адрес</string>
