@@ -287,7 +287,7 @@
     <string name="leave">離れる</string>
     <string name="install">インストール</string>
     <string name="duckduckgo_url">DuckDuckGo</string>
-    <string name="download_manager">ダウローダー</string>
+    <string name="download_manager">ダウンロード</string>
     <string name="upload_hint">申し訳ございません、Viaがクラッシュしました。不具合を修正させていただくため、ログを送信くださいませんか？</string>
     <string name="crash_hint">申し訳ございません、Viaがクラッシュしました。</string>
     <string name="contact_us">開発者に連絡</string>
