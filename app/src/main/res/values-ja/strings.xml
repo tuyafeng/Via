@@ -87,7 +87,7 @@
     <string name="title_sign_in">サインイン</string>
     <string name="hint_username">ユーザー名</string>
     <string name="hint_password">パスワード</string>
-    <string name="untitled">無題</string>
+    <string name="untitled">空白のページ</string>
     <string name="image_auto">Wi-Fi接続時のみ</string>
     <string name="image_on">画像を非表示</string>
     <string name="image_off">画像を表示</string>
@@ -233,7 +233,7 @@
 
     <string name="empty_hint">表示できる項目はありません</string>
 
-    <string name="network_log">ネットワーク ログ</string>
+    <string name="network_log">ネットワークログ</string>
     <string name="catalog">カタログ</string>
 
     <string name="screenshot_hint">Android 5.0 以降の OS を搭載した機種で不具合があります、現在の部分だけを保存してください。</string>
@@ -249,17 +249,17 @@
     <string name="upload_prompt">ブックマークと設定をアップロードしますか？</string>
     <string name="sougou_url">sougou</string>
     <string name="uninstall_success">アンインストールが完了しました！</string>
-    <string name="action_log">ログ</string>
+    <string name="action_log">ネットワークログ</string>
     <string name="install_success">インストールしました！</string>
     <string name="restore_tabs_hint">前回閉じたタブを開きますか？</string>
     <string name="restore_tabs">前回開いていたページを開く</string>
     <string name="none">なし</string>
     <string name="online_addons">アドオン</string>
     <string name="force_cancel">強制終了</string>
-    <string name="check_permission">アクセス許可が必要ですが・・・</string>
+    <string name="check_permission">権限へのアクセス許可が必要です。</string>
     <string name="phone_permission">電話：非個人情報に関する単純な統計、及びより詳しいエラーログの収集。</string>
-    <string name="storage_permission">ストレージ：ダウンロード、ブックマークの保存。</string>
-    <string name="location_permission">位置情報：天気予報などサイト内にアクセスできるようにする。</string>
+    <string name="storage_permission">ストレージ：ファイルのダウンロード、ブックマークの保存のために使用</string>
+    <string name="location_permission">位置情報：Webサイトが位置情報を取得することを許可するため（地図、天気予報など）に使用</string>
     <string name="log_page_hint">アドレスもしくはドメインをコピーし %1$s に貼り付けて広告ブロックリストを作成できます。</string>
     <string name="fullscreen_0">無効</string>
     <string name="fullscreen_1">スクロールで非表示/表示</string>
@@ -282,7 +282,7 @@
     <string name="skin_colorful">カラフル</string>
     <string name="skin_fruity">フルーティー</string>
     <string name="stay">とどまる</string>
-    <string name="startpage_url">Startpage</string>
+    <string name="startpage_url">スタートページ</string>
     <string name="skin_bg">背景</string>
     <string name="leave">離れる</string>
     <string name="install">インストール</string>
@@ -308,7 +308,7 @@
     <string name="find_next">次へ</string>
     <string name="action_modify">編集</string>
     <string name="action_open_in_background">バックグラウンドで開く</string>
-    <string name="action_sort_bookmarks">ブックマークを整頓</string>
+    <string name="action_sort_bookmarks">ブックマークを整理する</string>
     <string name="block_it_temporarily">一時的にブロック</string>
     <string name="pull_to_refresh_gesture">引っ張って更新する</string>
     <string name="back_forward_gesture">ページ間をスワイプ</string>
@@ -316,19 +316,20 @@
     <string name="what_is_next">次はどうしますか？</string>
     <string name="no_bookmark">ブックマークはありません</string>
     <string name="settings_general">一般</string>
-    <string name="ui_simple">シンプル</string>
+    <string name="ui_simple">操作バーを下部に配置</string>
     <string name="ui_traditional">通常</string>
     <string name="import_or_export_bookmarks">ブックマークをインポート/エクスポート</string>
-    <string name="go_together">同行</string>
+    <string name="go_together">開発に協力する</string>
     <string name="skin_transparent">透明</string>
     <string name="operation_hint">ジェスチャー、操作習慣など</string>
     <string name="adblock_info">%1$d件の広告がブロックされ、%2$s節約しました</string>
-    <string name="color_mode_hint">自動的に操作バーの色を決定する</string>
-    <string name="cannot_work">「http(s)」で始まるURLのみで動作できる</string>
+    <string name="color_mode_hint">自動的に操作バーの色を変更する</string>
+    <string name="cannot_work">「http(s)」で始まるURLのみで動作します。</string>
     <string name="empty_script_hint">スクリプトはありません。「⊕」ボタンをクリックしてスクリプトを追加できます。または、下のボタンをクリックしてください。</string>
     <string name="toolbar_settings_hint">下のボタンをクリック（スライド）して長押し（スライド）ジェスチャーを設定し、長く押すと設定されたジェスチャーが表示されます。</string>
     <string name="empty_ads_mark_hint">ブロックされた広告はありません。ページ上の要素を長押しして、「広告をマーク」を選択してください。または、下のボタンをクリックしてください。</string>
-    <string name="action_more">その他</string>
+    <string name="action_more">並び替え</string>
+    <string name="sort_hint">対象を長押し＋ドラッグで順番の変更が可能です、</string>
     <string name="sort_hint">ドラッグ＆ドロップで並び替え</string>
     <string name="skin_hide_search_part">検索ボックスを非表示にする</string>
 </resources>
