@@ -40,7 +40,7 @@
     <string name="agent_ie">IE 11 (PC)</string>
     <string name="agent_iphone">iPhone</string>
     <string name="agent_symbian">Symbian</string>
-    <string name="agent_custom">Personnalisé</string>
+    <string name="agent_custom">Personnaliser</string>
     <string name="title_search_engine">Moteur de recherche</string>
     <string name="action_ok">OK</string>
     <string name="dialog_download">Voulez-vous télécharger ce fichier?</string>
@@ -65,17 +65,22 @@
     <string name="action_incognito">Mode Incognito</string>
     <string name="action_find">Rechercher dans la page</string>
     <string name="download_pending">Démarrage du téléchargement\u2026</string>
-    <string name="cannot_download">Vous ne pouvez télécharger la page \"http\" ou \"https\".</string>
+    <string name="cannot_download">Vous ne pouvez pas télécharger la page.</string>
     <string name="download_no_sdcard_dlg_title">Aucune carte SD</string>
     <string name="download_no_sdcard_dlg_msg">Un stockage USB est nécessaire pour télécharger un fichier.</string>
     <string name="download_sdcard_busy_dlg_title">Stockage USB indisponible</string>
-    <string name="download_sdcard_busy_dlg_msg">Le stockage est déjà activé. Pour autoriser les téléchargements, touchez Désactiver le stockage USB dans la notification..</string>
+    <string name="download_sdcard_busy_dlg_msg">Le stockage est déjà activé. Pour autoriser les téléchargements, touchez Désactiver le stockage USB dans la notification.</string>
     <string name="message_import">Les signets ont été importés</string>
     <string name="custom_url">URL personnalisée</string>
     <string name="baidu_url">Baidu</string>
     <string name="shenma_url">ShenMa</string>
     <string name="bing_url">Bing</string>
     <string name="haosou_url">Haosou</string>
+    <string name="duckduckgo_url">DuckDuckGo</string>
+    <string name="startpage_url">StartPage</string>
+    <string name="ask_url">Ask</string>
+    <string name="yahoo_url">Yahoo</string>
+    <string name="yandex_url">Yandex</string>
     <string name="google_url">Google</string>
     <string name="sougou_url">Sougou</string>
     <string name="block_ads">Bloquer les annonces(ads)</string>
@@ -97,7 +102,7 @@
     <string name="bookmark_export_path">Signets exportés vers\n</string>
     <string name="import_bookmark_error">Impossible d\'importer les signets à partir du fichier</string>
     <string name="feedback">Commentaire</string>
-    <string name="message_add_bookmark">Favori ajouté avec succès</string>
+    <string name="message_add_bookmark">Signets ajoutés avec succès</string>
     <string name="message_exit">Appuyez une nouvelle fois pour quitter</string>
     <string name="web_screenshot">"Capture d\'écran Web"</string>
     <string name="screenshot_all">Tout</string>
@@ -107,17 +112,17 @@
     <string name="toast_save_to">Enregistrer le fichier dans: </string>
     <string name="toast_operation_failed">"L\'opération a échoué."</string>
     <string name="toast_operation_done">Opération effectuée.</string>
-    <string name="volume">Appuyez sur la touche Volume pour faire défiler</string>
+    <string name="volume">Touche Volume pour faire défiler</string>
     <string name="intent">Autoriser la demande du site Web</string>
     <string name="msg_intent">"Souhaitez-vous ouvrir l\'application?"</string>
-    <string name="dialog_adblock">Filtre ads par défaut:Fichier système hosts.txt\n\nFichier personnalisé:Répertoire de téléchargement hosts.txt, Sera téléchargé, si inexistant.</string>
+    <string name="dialog_adblock">Filtre ads par défaut: Fichier système hosts.txt\n\nFichier personnalisé: Répertoire de téléchargement hosts.txt. Sera téléchargé, si inexistant.</string>
     <string name="dialog_adblock_default">Filtre par défaut</string>
     <string name="dialog_adblock_custom">Filtre personnalisé</string>
     <string name="dialog_adblock_download">Sera sélectionné automatiquement après le téléchargement.\n\npath:</string>
-    <string name="dialog_adblock_custom_hint">\nNe pas modifier le répertoire ou le nom. Vous pouvez modifier ce fichier pour personnaliser votre propre liste de filtrage.</string>
+    <string name="dialog_adblock_custom_hint">\nNe pas modifier le répertoire ou le nom. Vous pouvez modifier ce fichier pour personnaliser votre propre liste de filtres.</string>
     <string name="setting_default">Définir comme navigateur par défaut</string>
     <string name="toast_clear_defaults">Valeurs par défaut</string>
-    <string name="toast_copy_url_successful">Copie url réussie</string>
+    <string name="toast_copy_url_successful">Copie lien réussie</string>
     <string name="toast_copy_text_successful">Copie texte réussie</string>
     <string name="incognito_on">Vous êtes en mode Incognito</string>
     <string name="incognito_off">Mode Incognito arrêtez</string>
@@ -182,7 +187,7 @@
     <string name="code_500">Service indisponible.</string>
     <string name="syns_success">Sync réussie</string>
     <string name="upload_success">Téléchargement réussie</string>
-    <string name="log_out">Se déconnectert?</string>
+    <string name="log_out">Se déconnecter?</string>
     <string name="crash_info">Quelque chose ne va pas :( </string>
     <string name="crash_restart">"Redémarrer l\'application"</string>
     <string name="crash_close">"Fermer l\'application"</string>
@@ -223,18 +228,18 @@
     <string name="action_view_image">Voir l\'mage</string>
 
     <string name="skin_colorful">Coloré</string>
-
+    <string name="skin_fruity">Fruité</string>
     <string name="block_popup">Bloquer les popups</string>
     <string name="open_window_hint">Le site Web tente d\'ouvrir une nouvelle fenêtre</string>
 
     <string name="action_save_web_page">Enregistrer la page Web</string>
     <string name="action_saved_pages">Pages sauvegardées</string>
     <string name="saved_page_successfully">Page enregistrée avec succès, voir le menu de la page d\'accueil: Pages enregistrées</string>
-    <string name="deleted_failed">Échec de la suppression. Le fichier est situé dans le dossier de téléchargement: </string>
+    <string name="deleted_failed">Échec de la suppression. Le fichier est situé dans le dossier de Téléchargement: </string>
 
     <string name="empty_hint">Rien à afficher&#8230;</string>
 
-    <string name="network_log">Journal du réseau</string>
+    <string name="network_log">Journal réseau</string>
     <string name="catalog">Liste</string>
 
     <string name="screenshot_hint">Il peut y avoir des problèmes de compatibilité dans android 5.0+ pour prendre une capture d\'écran complète du site Web. Nous cherchons toujours des solutions.</string>
@@ -243,21 +248,21 @@
 
     <string name="already_default">Déjà réglé sur défaut</string>
 
-    <string name="set_to_default">Sera paramétré par défaut après avoir utilisé le lien ouvert (1year.cc), s\'il vous plaît choisir via pour ouvrir le lien.</string>
+    <string name="set_to_default">Sera paramètré par défaut après avoir utilisé le lien ouvert (1year.cc), choisir Via pour ouvrir le lien.</string>
 
     <string name="quick_back_desc">Il peut y avoir des problèmes de compatibilité lorsque vous activez cette option. Vous devriez le fermer, si vous avez des erreurs.</string>
     <string name="sync_prompt">Remplacer vos favoris et vos paramètres locaux actuels. Continuer?</string>
     <string name="upload_prompt">Télécharger vos favoris et paramètres locaux actuels. Continuer?</string>
     <string name="none">Aucun</string>
     <string name="action_log">Journal des liens</string>
-    <string name="check_permission">Permission refusée. Réglez-les dans les paramètres maintenant?</string>
+    <string name="check_permission">Permission refusée. Configurer les permissions maintenant?</string>
     <string name="need_permission_hint">Via a besoin des autorisations suivantes.\n\n</string>
     <string name="storage_permission">Stockage: pour télécharger des fichiers depuis le navigateur et importer/exporter des signets etc.\n\n</string>
-    <string name="location_permission">Emplacement: pour les sites comme Google Maps, il est désactivé par défaut dans les paramètres et affiche un pop-up demandant si un site peut utiliser votre emplacement lorsqu\'il est activé.\n\n</string>
+    <string name="location_permission">Emplacement: pour les sites comme Google Maps, la localisation est désactivé par défaut dans les paramètres et affichera un pop-up demandant si un site peut utiliser votre emplacement lorsqu\'il est activé.\n\n</string>
     <string name="phone_permission">Téléphone: Obtenir l\'information de l\'appareil Android, des statistiques et recueillir le rapport d\'erreur lors d\'un FC.\n\n</string>
     <string name="force_cancel">Annuler</string>
     <string name="restore_tabs_hint">Restaurer les onglets non fermés de la dernière session?</string>
-    <string name="restore_tabs">Restauration les onglets au démarrage</string>
+    <string name="restore_tabs">Restaurater les onglets au démarrage</string>
     <string name="install_success">Installation réussie!!!</string>
     <string name="uninstall_success">Désinstallation réussie!!!</string>
     <string name="online_addons">Modules en ligne</string>
@@ -265,6 +270,7 @@
     <string name="fullscreen_0">Désactiver</string>
     <string name="fullscreen_1">Défiler masquer/afficher</string>
     <string name="fullscreen_2">Cliquer masquer/afficher</string>
+
     <string name="settings_script">Script</string>
     <string name="get_more_script">Plus de Script</string>
     <string name="add_script">Ajouter un Script</string>
@@ -276,10 +282,53 @@
     <string name="confirm_to_leave">Confirmer pour quitter</string>
     <string name="leave">Quitter</string>
     <string name="stay">Poursuivre</string>
+
     <string name="skin_logo">Logo</string>
     <string name="skin_bg">Fond</string>
     <string name="skin_style">Style</string>
     <string name="skin_settings">Paramètres</string>
     <string name="set_it_as_homepage">Définir comme page d\'accueil?</string>
+    <string name="missing_webview">Google webview n\'est pas installé correctement. Voulez-vous l\'installer maintenant?</string>
+    <string name="install">Installer</string>
+    <string name="crash_hint">Très très désolé pour l\'erreur.</string>
+    <string name="upload_hint">Désolé pour l\'erreur. Mais vous pouvez télécharger le journal d\'erreur pour nous aider à faire mieux. Télécharger maintenant?</string>
+    <string name="glean">Glean</string>
+    <string name="contact_us">Contactez-nous</string>
+    <string name="official_website">Site officiel</string>
+    <string name="current_language">Language</string>
+    <string name="download_manager">Download manager</string>
+    <string name="background_opacity">Opacité de l\'arrière-plan</string>
+    <string name="action_pic_mode">Mode image</string>
+    <string name="block_it_temporarily">Bloquez temporairement</string>
+    <string name="find_next">Recherche suivante</string>
+    <string name="find_pre">Recherche précédante</string>
+    <string name="action_open_in_background">Ouvrir en arrière-plan</string>
+    <string name="cannot_work">Liens invalide".</string>
+    <string name="action_fullscreen">Plein écran</string>
+    <string name="settings_general">Paramètres généraux</string>
+    <string name="no_bookmark">Aucun signet~</string>
+    <string name="import_or_export_bookmarks">Importer/Exporter les signets</string>
+    <string name="what_is_next">Opération suivante?</string>
+    <string name="import_">Importer</string>
+    <string name="export_">Exporter</string>
+    <string name="pull_to_refresh_gesture">Activer: glisser tirer/rafraichir</string>
+    <string name="back_forward_gesture">Activer: glisser retour/précédant</string>
+    <string name="toolbar_settings_hint">Glisser pour configurer la tâche (glisser long). Appui long sur l\'icône pour modifier la tâche (appui long).</string>
+    <string name="action_modify">Modifier</string>
+    <string name="operation_hint">Option geste glisser et appui long des touches, etc.</string>
+    <string name="empty_ads_mark_hint">Annonce non filtrée. \nAppui long sur l\'annonce (ads) sur la page et choisir \"Marquer comme ADS\" pour bloquer. \nSur la touche + pour ajouter. \nOu cliquez simplement ici.</string>
+    <string name="empty_script_hint">Pas de scripts. \nVous pouvez cliquer sur la touche + pour ajouter des scripts. \nOu cliquez simplement ici.</string>
+    <string name="adblock_info">%1$d ads ont été bloqués et %2$s sauvé</string>
+    <string name="disable">Désactiver</string>
+    <string name="ui_traditional">Normal</string>
+    <string name="ui_simple">Simple</string>
+    <string name="color_mode_hint">Barre d\'opération en couleurs lors de la navigation</string>
+    <string name="sort_hint">Appui long et déplacer</string>
+    <string name="action_sort_bookmarks">Trier les signets</string>
+    <string name="desc_close">Fermer</string>
+    <string name="clear_cache_on_exit">Effacer le cache à la fermeture</string>
+    <string name="action_close_all_tabs">Fermer tous les onglets</string>
+    <string name="skin_hide_search_part">Masquer la barre de recherche</string>
+    <string name="action_more">Plus</string>
 
 </resources>
