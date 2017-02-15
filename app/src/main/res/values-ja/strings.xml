@@ -287,7 +287,7 @@
     <string name="leave">離れる</string>
     <string name="install">インストール</string>
     <string name="duckduckgo_url">DuckDuckGo</string>
-    <string name="download_manager">ダウローダー</string>
+    <string name="download_manager">ダウンロード</string>
     <string name="upload_hint">申し訳ございません、Viaがクラッシュしました。不具合を修正させていただくため、ログを送信くださいませんか？</string>
     <string name="crash_hint">申し訳ございません、Viaがクラッシュしました。</string>
     <string name="contact_us">開発者に連絡</string>
@@ -299,7 +299,7 @@
     <string name="action_pic_mode">画像モード</string>
     <string name="background_opacity">背景の不透明度</string>
     <string name="action_close_all_tabs">すべてのタブを閉じる</string>
-    <string name="action_fullscreen">フルスクリーンにする</string>
+    <string name="action_fullscreen">フルスクリーン</string>
     <string name="import_">インポート</string>
     <string name="export_">エクスポート</string>
     <string name="disable">無効</string>
@@ -328,4 +328,7 @@
     <string name="empty_script_hint">スクリプトはありません。「⊕」ボタンをクリックしてスクリプトを追加できます。または、下のボタンをクリックしてください。</string>
     <string name="toolbar_settings_hint">下のボタンをクリック（スライド）して長押し（スライド）ジェスチャーを設定し、長く押すと設定されたジェスチャーが表示されます。</string>
     <string name="empty_ads_mark_hint">ブロックされた広告はありません。ページ上の要素を長押しして、「広告をマーク」を選択してください。または、下のボタンをクリックしてください。</string>
+    <string name="action_more">その他</string>
+    <string name="sort_hint">ドラッグ＆ドロップで並び替え</string>
+    <string name="skin_hide_search_part">検索ボックスを非表示にする</string>
 </resources>
