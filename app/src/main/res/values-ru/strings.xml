@@ -20,7 +20,7 @@
     <string name="password">Сохранять пароли</string>
     <string name="donate">Пожертвовать на Via</string>
     <string name="donate_details">Если вам нравится наша работа, то вы можете сделать пожертвование.\nAlipay: 2376688759@qq.com\nPayPal: wiar1824@gmail.com</string>
-    <string name="orientation">Ориентация</string>
+    <string name="orientation">Ориентация экрана</string>
     <string name="orientation_system">Системная</string>
     <string name="orientation_auto">Автоповорот</string>
     <string name="orientation_portrait">Портретная</string>
@@ -62,7 +62,7 @@
     <string name="hint_folder">Папка</string>
     <string name="title_edit_bookmark">Изменить закладку</string>
     <string name="action_edit">Редактировать</string>
-    <string name="action_incognito">Режим инкогнито</string>
+    <string name="action_incognito">Режим \"инкогнито\"</string>
     <string name="action_find">Найти на странице</string>
     <string name="download_pending">Начинается загрузка…</string>
     <string name="cannot_download">Скачивать можно только по \"http\"- или \"https\"-ссылкам.</string>
@@ -70,7 +70,7 @@
     <string name="download_no_sdcard_dlg_msg">Необходим USB-накопитель для скачивания этого файла</string>
     <string name="download_sdcard_busy_dlg_title">USB-накопитель недоступен</string>
     <string name="download_sdcard_busy_dlg_msg">Накопитель занят. Чтобы разрешить загрузки, отключите USB-накопитель в уведомлениях.</string>
-    <string name="message_import">Закладки импортированы</string>
+    <string name="message_import">закладок импортировано</string>
     <string name="custom_url">Свой поисковик</string>
     <string name="block_ads">Блокировщик рекламы</string>
     <string name="message_untrusted_certificate">Сертификат сайта не является доверенным. Всё равно продолжить?</string>
@@ -83,7 +83,7 @@
     <string name="hint_username">Имя</string>
     <string name="hint_password">Пароль</string>
     <string name="untitled">Без названия</string>
-    <string name="image_auto">Изображения: WiFi</string>
+    <string name="image_auto">Изображения: Wi-Fi</string>
     <string name="image_on">Изображения: нет</string>
     <string name="image_off">Изображения: да</string>
     <string name="title_file_chooser">Выбор файла</string>
@@ -98,7 +98,7 @@
     <string name="screenshot_now">Видимая часть</string>
     <string name="dialog_message">Сообщение</string>
     <string name="toast_wait_a_minute">Подождите минутку…</string>
-    <string name="toast_save_to">Сохранение файла в:</string>
+    <string name="toast_save_to">Сохранено в:</string>
     <string name="toast_operation_failed">Ошибка при выполнении операции.</string>
     <string name="toast_operation_done">Операция выполнена.</string>
     <string name="volume">Прокрутка кнопками громкости</string>
@@ -113,10 +113,10 @@
     <string name="toast_clear_defaults">Стереть умолчания</string>
     <string name="toast_copy_url_successful">Ссылка успешно скопирована</string>
     <string name="toast_copy_text_successful">Текст успешно скопирован</string>
-    <string name="incognito_on">Режим инкогнито: да</string>
-    <string name="incognito_off">Режим инкогнито: нет</string>
+    <string name="incognito_on">Режим \"инкогнито\": да</string>
+    <string name="incognito_off">Режим \"инкогнито\": нет</string>
     <string name="operation_none">Нет</string>
-    <string name="operation_reload">Перезагрузка</string>
+    <string name="operation_reload">Перезагрузка страницы</string>
     <string name="operation_top">Перейти в начало</string>
     <string name="operation_bottom">Перейти в конец</string>
     <string name="operation_input">Ввести адрес</string>
@@ -148,12 +148,12 @@
     <string name="action_mark">Пометить как рекламу</string>
     <string name="settings_block">Блокировка рекламы</string>
     <string name="dialog_confirm_block">Вы уверены, что хотите пометить это как рекламу?</string>
-    <string name="do_not_track">\"Не отслеживать\"</string>
+    <string name="do_not_track">Запретить отслеживание</string>
     <string name="get_more_rules">Получить правила</string>
     <string name="add_rule">Добавить правило</string>
     <string name="hint_tags">Правила (через запятую)</string>
     <string name="clear_ad_rules">Удалить все правила</string>
-    <string name="color_mode">Использовать цветовой режим</string>
+    <string name="color_mode">Цветовой режим</string>
     <string name="dialog_sure">Вы уверены, что хотите это сделать?</string>
     <string name="action_send_to_launcher">Ярлык на экран</string>
     <string name="settings_cloud">Облако</string>
@@ -172,14 +172,14 @@
     <string name="crash_close">Закрыть приложение</string>
     <string name="crash_upload">Отправить журнал сбоев</string>
     <string name="upload_completed">Отправка завершена</string>
-    <string name="ui_mode">Режим интерфейса</string>
+    <string name="ui_mode">Вид интерфейса</string>
     <string name="ui_auto">Авто</string>
-    <string name="open_or_search">Открыть/Поиск</string>
+    <string name="open_or_search">Открыть/искать</string>
     <string name="settings_addons">Дополнения</string>
-    <string name="addon_download">Менеджер загрузки</string>
+    <string name="addon_download">Менеджер загрузок</string>
     <string name="addon_qr_code_scan">Сканер QR-кода</string>
     <string name="install_addon">Скачать и установить эти дополнения? Они будут работать после установки.</string>
-    <string name="quick_back">Возврат без перезагрузки</string>
+    <string name="quick_back">Возврат без перезагрузки страницы</string>
     <string name="open_with">Открыть в&#8230;</string>
     <string name="download_completed">Загрузка завершена</string>
     <string name="toast_fullscreen_off">Обычный режим</string>
@@ -307,5 +307,7 @@
     <string name="desc_close">Закрыть</string>
     <string name="clear_cache_on_exit">Очистить кэш и выйти</string>
     <string name="action_close_all_tabs">Закрыть все вкладки</string>
+    <string name="skin_hide_search_part">Скрыть панель поиска</string>
+    <string name="action_more">Ещё</string>
 
 </resources>
