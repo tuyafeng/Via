@@ -3,9 +3,9 @@
 ####Pure, Custlmize, Fast, Small
 
 ####Download
-* [Download Free from Google Play](https://play.google.com/store/apps/details?id=mark.via.gp)
+* [Download from Google Play](https://play.google.com/store/apps/details?id=mark.via.gp)
 
-* [Download Paid from CoolApk](http://coolapk.com/apk/mark.via)
+* [Download from CoolApk](http://coolapk.com/apk/mark.via)
 
 ###Help with localization
 
