@@ -299,7 +299,7 @@
     <string name="action_pic_mode">画像モード</string>
     <string name="background_opacity">背景の不透明度</string>
     <string name="action_close_all_tabs">すべてのタブを閉じる</string>
-    <string name="action_fullscreen">フルスクリーンにする</string>
+    <string name="action_fullscreen">フルスクリーン</string>
     <string name="import_">インポート</string>
     <string name="export_">エクスポート</string>
     <string name="disable">無効</string>
@@ -330,4 +330,6 @@
     <string name="empty_ads_mark_hint">ブロックされた広告はありません。ページ上の要素を長押しして、「広告をマーク」を選択してください。または、下のボタンをクリックしてください。</string>
     <string name="action_more">並び替え</string>
     <string name="sort_hint">対象を長押し＋ドラッグで順番の変更が可能です、</string>
+    <string name="sort_hint">ドラッグ＆ドロップで並び替え</string>
+    <string name="skin_hide_search_part">検索ボックスを非表示にする</string>
 </resources>
