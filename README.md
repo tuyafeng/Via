@@ -1,6 +1,6 @@
 # Via
 
-####Pure, Custlmize, Fast, Small
+####Pure, Customize, Fast, Small
 
 ####Download
 * [Download from Google Play](https://play.google.com/store/apps/details?id=mark.via.gp)
