@@ -271,7 +271,7 @@
     <string name="skin_style">樣式</string>
     <string name="skin_settings">設定</string>
     <string name="set_it_as_homepage">設定其為首頁?</string>
-    <string name="missing_webview">Google webview 未正確安裝。立即去安裝？</string>
+    <string name="missing_webview">Android System WebView 未正確安裝。立即去安裝？</string>
     <string name="install">安裝</string>
     <string name="crash_hint">十分抱歉, 發生了損毀。</string>
     <string name="upload_hint">十分抱歉，發生了損毀。 但你可以上傳記錄檔來協助我們做得更好，立即上傳?</string>
