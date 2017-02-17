@@ -18,7 +18,7 @@
     <string name="location">允许站点访问地理位置</string>
     <string name="password">保存密码</string>
     <string name="donate">捐助我们</string>
-    <string name="donate_details">我们利用有限的业余时间设计了Via，虽然它并不那么美好，但正努力前行。\n如果你喜欢我们的作品，可以捐赠来支持我们。\n\n所有的捐赠都将用来：提升我们的环境配置以及积极性。\n\n支付宝: 2376688759@qq.com\nPayPal: wiar1824@gmail.com</string>
+    <string name="donate_details">我们利用有限的业余时间设计了 Via，虽然它并不那么美好，但正努力前行。\n如果你喜欢我们的作品，可以捐赠来支持我们。\n\n所有的捐赠都将用来：提升我们的环境配置以及积极性。\n\n支付宝: 2376688759@qq.com\nPayPal: wiar1824@gmail.com</string>
     <string name="orientation">屏幕方向</string>
     <string name="orientation_system">跟随系统</string>
     <string name="orientation_auto">自动</string>
@@ -38,7 +38,7 @@
     <string name="agent_chrome">Chrome (PC)</string>
     <string name="agent_ie">IE 11 (PC)</string>
     <string name="agent_iphone">iPhone</string>
-    <string name="agent_symbian">Symbian</string>
+    <string name="agent_symbian">塞班 (Symbian)</string>
     <string name="agent_custom">自定义</string>
     <string name="title_search_engine">搜索引擎</string>
     <string name="action_ok">确认</string>
@@ -66,7 +66,7 @@
     <string name="action_find">页内查找</string>
     <string name="download_pending">正在开始下载…</string>
     <string name="cannot_download">仅可下载以 \"http\" 或 \"https\" 开头的网址</string>
-    <string name="download_no_sdcard_dlg_title">未发现 SDCard</string>
+    <string name="download_no_sdcard_dlg_title">未发现 SD 卡</string>
     <string name="download_no_sdcard_dlg_msg">为正常下载此文件需要 USB 存储设备。</string>
     <string name="download_sdcard_busy_dlg_title">USB 存储不可用</string>
     <string name="download_sdcard_busy_dlg_msg">USB 存储设备目前正忙，为确保正常下载此文件请在通知栏中确认关闭 USB 大容量存储。</string>
@@ -226,7 +226,7 @@
     <string name="empty_hint">空空如也&#8230;</string>
     <string name="network_log">网络日志</string>
     <string name="catalog">目录</string>
-    <string name="screenshot_hint">全网页截图在 android 5.0+ 的设备上存在兼容性问题, 我们仍在找寻解决方法.</string>
+    <string name="screenshot_hint">全网页截图在 Android 5.0+ 的设备上存在兼容性问题, 我们仍在找寻解决方法.</string>
     <string name="conn_timeout">连接超时</string>
     <string name="already_default">已是默认浏览器</string>
     <string name="set_to_default">为了顺利完成设置将打开一个链接(1year.cc), 请选择 via 打开它.</string>
@@ -255,7 +255,7 @@
     <string name="get_more_script">获取更多脚本</string>
     <string name="add_script">添加脚本</string>
     <string name="script_url">域名 或 * (* 代表全局)</string>
-    <string name="script_code">代码 (javascript)</string>
+    <string name="script_code">代码 (Javascript)</string>
     <string name="clear_all_script">清除全部脚本</string>
     <string name="toast_copy_domain_successful">已复制域名</string>
     <string name="help_us_translate">协助翻译</string>
@@ -267,7 +267,7 @@
     <string name="skin_style">风格</string>
     <string name="skin_settings">设置</string>
     <string name="set_it_as_homepage">设置其为首页?</string>
-    <string name="missing_webview">webview 未正确安装. 现在去安装?</string>
+    <string name="missing_webview">Android System WebView 未正确安装. 现在去安装?</string>
     <string name="install">安装</string>
     <string name="crash_hint">真的非常非常抱歉, 应用发生了闪退.</string>
     <string name="upload_hint">十分抱歉, 应用发生了闪退. 但你可以上传日志来帮助我们做得更好, 现在上传?</string>
