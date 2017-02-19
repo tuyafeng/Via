@@ -94,7 +94,7 @@
     <string name="hint_username">Username</string>
     <string name="hint_password">Password</string>
     <string name="untitled">Untitled</string>
-    <string name="image_auto">Show images via wifi</string>
+    <string name="image_auto">Show images via Wi-Fi</string>
     <string name="image_on">Block image</string>
     <string name="image_off">Show image</string>
     <string name="title_file_chooser">File chooser</string>
@@ -165,9 +165,9 @@
     <string name="desc_menu">menu</string>
     <string name="desc_filedic">file</string>
     <string name="desc_other">other</string>
-    <string name="msg_setgoogle">Set google search engine now?</string>
+    <string name="msg_setgoogle">Set Google search engine now?</string>
     <string name="action_mark">Mark as AD</string>
-    <string name="settings_block">Adblock</string>
+    <string name="settings_block">AdBlock</string>
     <string name="dialog_confirm_block">Would you like to mark this as ad?</string>
     <string name="do_not_track">Do Not Track</string>
     <string name="get_more_rules">Get More Rules</string>
@@ -276,7 +276,7 @@
     <string name="get_more_script">Get More Script</string>
     <string name="add_script">Add Script</string>
     <string name="script_url">domain or * (* means all)</string>
-    <string name="script_code">code (javascript)</string>
+    <string name="script_code">code (Javascript)</string>
     <string name="clear_all_script">Clear All Script</string>
     <string name="toast_copy_domain_successful">Copy domain successful</string>
     <string name="go_together">Go together</string>
@@ -289,7 +289,7 @@
     <string name="skin_style">Style</string>
     <string name="skin_settings">Settings</string>
     <string name="set_it_as_homepage">Set it as homepage?</string>
-    <string name="missing_webview">Google webview is not installed correctly. Do you want to install it now?</string>
+    <string name="missing_webview">Android System WebView is not installed correctly. Do you want to install it now?</string>
     <string name="install">Install</string>
     <string name="crash_hint">Very very sorry for crashing.</string>
     <string name="upload_hint">Very very sorry for crashing. But you can upload crash log to help us do better. Upload now?</string>
