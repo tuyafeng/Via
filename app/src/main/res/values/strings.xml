@@ -331,5 +331,6 @@
     <string name="action_close_all_tabs">Close all tabs</string>
     <string name="skin_hide_search_part">Hide Search Part</string>
     <string name="action_more">More</string>
+    <string name="action_exit">Exit</string>
 
 </resources>

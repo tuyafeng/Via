@@ -113,8 +113,8 @@
     <string name="toast_operation_failed">Operazione fallita.</string>
     <string name="toast_operation_done">Operazione completata.</string>
     <string name="volume">Premi Volume per scorrere</string>
-    <string name="intent">Premetti al sito di Reindirizzare l'App</string>
-    <string name="msg_intent">Vuoi aprire l'app?</string>
+    <string name="intent">Premetti al sito di Reindirizzare l\'App</string>
+    <string name="msg_intent">Vuoi aprire l\'app?</string>
     <string name="dialog_adblock">Blocco standard:Usa un file hosts.txt locale per bloccare gli annunci\n\nBlocco personalizzato:Usa un file hosts.txt nella cartella download (verrà scaricato se non presente).</string>
     <string name="dialog_adblock_default">Blocco Standard</string>
     <string name="dialog_adblock_custom">Blocco Personalizzato</string>
@@ -128,7 +128,7 @@
     <string name="incognito_off">Non sei più Incognito</string>
     <string name="operation_none">Nessuna</string>
     <string name="operation_reload">Ricarica</string>
-    <string name="operation_top">Scorri all'inizio</string>
+    <string name="operation_top">Scorri all\'inizio</string>
     <string name="operation_bottom">Scorri alla fine</string>
     <string name="operation_input">Inserisci url</string>
     <string name="operation_newtab">Nuova scheda</string>
@@ -199,7 +199,7 @@
     <string name="settings_addons">Estensioni</string>
     <string name="addon_download">Download Manager</string>
     <string name="addon_qr_code_scan">Qr Code Scan</string>
-    <string name="install_addon">Scarica e installa l'estensione? Questa estensione verrà attivata in seguito all'installazione.</string>
+    <string name="install_addon">Scarica e installa l\'estensione? Questa estensione verrà attivata in seguito all\'installazione.</string>
     <string name="quick_back">Indietro senza Ricaricare</string>
     <string name="open_with">Apri con&#8230;</string>
     <string name="download_completed">Download completato</string>
@@ -215,7 +215,7 @@
 
     <string name="cannot_undo">Questa operazione non può essere annullata.</string>
 
-    <string name="sync_desc">L'account verrà creato se non esiste</string>
+    <string name="sync_desc">L\'account verrà creato se non esiste</string>
 
     <string name="settings_skin">Personalizza</string>
     <string name="default_set">Default</string>
@@ -248,7 +248,7 @@
 
     <string name="conn_timeout">Connessione fallita</string>
 
-    <string name="already_default">E' già impostato come default</string>
+    <string name="already_default">E\' già impostato come default</string>
 
     <string name="set_to_default">Sarà impostato per default dopo aver aperto il link(1year.cc), seleziona Via per aprire il link.</string>
 
@@ -261,10 +261,10 @@
     <string name="need_permission_hint">Via richiede i seguenti permessi per funzionare correttamente.\n\n</string>
     <string name="storage_permission">Memorizzazione: per scaricare i file, importare/esportare i segnalibri, etc.\n\n</string>
     <string name="location_permission">Posizione: per siti come Google Maps, è normalmente disabilitato nelle impostazioni e mostra un pop-up quando un sito richiede di sapere la tua posizione.\n\n</string>
-    <string name="phone_permission">Telefono: per ottenere informazioni anonime sul tuo dispositivo, effettuare statistiche non invasive, ottenere informazioni sugli errori durante l'utilizzo dell'applicazione.\n\n</string>
+    <string name="phone_permission">Telefono: per ottenere informazioni anonime sul tuo dispositivo, effettuare statistiche non invasive, ottenere informazioni sugli errori durante l\'utilizzo dell\'applicazione.\n\n</string>
     <string name="force_cancel">Annulla forzatamente</string>
     <string name="restore_tabs_hint">Riapri le ultime schede aperte?</string>
-    <string name="restore_tabs">Riapri Schede all'avvio</string>
+    <string name="restore_tabs">Riapri Schede all\'avvio</string>
     <string name="install_success">Installazione riuscita!!!</string>
     <string name="uninstall_success">Disinstallazione riuscita!!!</string>
     <string name="online_addons">Estensioni Online</string>
@@ -291,8 +291,8 @@
     <string name="set_it_as_homepage">Imposta come homepage?</string>
     <string name="missing_webview">Google webview non installato correttamente. Vuoi installarlo ora?</string>
     <string name="install">Installa</string>
-    <string name="crash_hint">Ci scusiamo per l'inconveniente.</string>
-    <string name="upload_hint">Ci scusiamo per l'inconveniente. Ma puoi inviare un rapporto sul crash affinche possiamo migliorare. Invio ora?</string>
+    <string name="crash_hint">Ci scusiamo per l\'inconveniente.</string>
+    <string name="upload_hint">Ci scusiamo per l\'inconveniente. Ma puoi inviare un rapporto sul crash affinche possiamo migliorare. Invio ora?</string>
     <string name="glean">Glean</string>
     <string name="contact_us">Contattaci</string>
     <string name="official_website">Sito Web Ufficiale</string>
@@ -314,7 +314,7 @@
     <string name="export_">Esporta</string>
     <string name="pull_to_refresh_gesture">Tira per Aggiornare</string>
     <string name="back_forward_gesture">Gesti Avanti e Indietro</string>
-    <string name="toolbar_settings_hint">Clicca (o scorri) il bottone per impostare l'evento Premi a lungo (o scorri), e premi a lungo per vedere ciò che è stato impostato.</string>
+    <string name="toolbar_settings_hint">Clicca (o scorri) il bottone per impostare l\'evento Premi a lungo (o scorri), e premi a lungo per vedere ciò che è stato impostato.</string>
     <string name="action_modify">Modifica</string>
     <string name="operation_hint">Gesti, abitudini operative, etc</string>
     <string name="empty_ads_mark_hint">Nessun annuncio segnato.\nPuoi premere a lungo su un annuncio e selezionare \"Segna come Annuncio\" per bloccarlo.\nO clicca sul bottone seguente.</string>
@@ -327,7 +327,7 @@
     <string name="sort_hint">Tieni premuto e trascina per ordinare</string>
     <string name="action_sort_bookmarks">Ordina segnalibri</string>
     <string name="desc_close">Chiudi</string>
-    <string name="clear_cache_on_exit">Cancella Cache all'uscita</string>
+    <string name="clear_cache_on_exit">Cancella Cache all\'uscita</string>
     <string name="action_close_all_tabs">Chiudi tutte le schede</string>
     <string name="skin_hide_search_part">Nascondi la Ricerca</string>
     <string name="action_more">Di più</string>

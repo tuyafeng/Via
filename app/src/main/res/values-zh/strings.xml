@@ -313,4 +313,5 @@
     <string name="action_close_all_tabs">關閉所有分頁</string>
     <string name="skin_hide_search_part">隱藏搜尋部分</string>
     <string name="action_more">更多</string>
+    <string name="action_exit">退出</string>
 </resources>
