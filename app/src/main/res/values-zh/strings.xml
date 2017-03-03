@@ -93,7 +93,7 @@
     <string name="hint_username">使用者名稱</string>
     <string name="hint_password">密碼</string>
     <string name="untitled">無標題</string>
-    <string name="image_auto">透過 Wi-Fi 顯示圖片</string>
+    <string name="image_auto">透過 Wi-Fi 顯圖</string>
     <string name="image_on">封鎖圖片</string>
     <string name="image_off">顯示圖片</string>
     <string name="title_file_chooser">檔案選擇器</string>
@@ -226,7 +226,7 @@
     <string name="open_window_hint">網站嘗試開啟一個新視窗</string>
     <string name="action_save_web_page">儲存網頁</string>
     <string name="action_saved_pages">已儲存頁面</string>
-    <string name="saved_page_successfully">已成功儲存頁面，位於首頁選單裡：儲存的頁面</string>
+    <string name="saved_page_successfully">已成功儲存頁面，位於首頁選單裡：已儲存頁面</string>
     <string name="deleted_failed">"刪除失敗，此檔案位於下載路徑: "</string>
     <string name="empty_hint">空空如也&#8230;</string>
     <string name="network_log">網路記錄檔</string>
@@ -251,7 +251,7 @@
     <string name="install_success">安裝成功！！！</string>
     <string name="uninstall_success">解除安裝成功！！！</string>
     <string name="online_addons">線上附件元件</string>
-    <string name="log_page_hint">為了用自訂封鎖封鎖載入它，你可以複製下列網域或連結並貼上至 %1$s。</string>
+    <string name="log_page_hint">為了使用自訂黑名單封鎖載入，你可以複製下列網域或連結並貼上至 %1$s。</string>
     <string name="fullscreen_0">停用</string>
     <string name="fullscreen_1">捲動以顯示/隱藏</string>
     <string name="fullscreen_2">點選以顯示/隱藏</string>
@@ -271,7 +271,7 @@
     <string name="skin_style">樣式</string>
     <string name="skin_settings">設定</string>
     <string name="set_it_as_homepage">設定其為首頁?</string>
-    <string name="missing_webview">Google webview 未正確安裝. 立即去安裝?</string>
+    <string name="missing_webview">Android System WebView 未正確安裝。立即去安裝？</string>
     <string name="install">安裝</string>
     <string name="crash_hint">十分抱歉, 發生了損毀。</string>
     <string name="upload_hint">十分抱歉，發生了損毀。 但你可以上傳記錄檔來協助我們做得更好，立即上傳?</string>
@@ -311,6 +311,7 @@
     <string name="desc_close">關閉</string>
     <string name="clear_cache_on_exit">結束時清除快取</string>
     <string name="action_close_all_tabs">關閉所有分頁</string>
-    <string name="skin_hide_search_part">隱藏搜索部分</string>
+    <string name="skin_hide_search_part">隱藏搜尋部分</string>
     <string name="action_more">更多</string>
+    <string name="action_exit">退出</string>
 </resources>
