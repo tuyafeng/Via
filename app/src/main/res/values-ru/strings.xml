@@ -184,7 +184,7 @@
     <string name="download_completed">Загрузка завершена</string>
     <string name="toast_fullscreen_off">Обычный режим</string>
 
-    <string name="clear_data">Очистить</string>
+    <string name="clear_data">Очистить данные</string>
     <string name="data_cache">Кэш</string>
     <string name="data_form_data">Данные форм</string>
     <string name="data_history">История</string>
@@ -228,7 +228,7 @@
 
     <string name="already_default">Via уже установлен по умолчанию</string>
 
-    <string name="set_to_default">Via будет установлен браузером по умолчанию после использования его для открытия ссылки (1year.cc). Пожалуйста, выберите Via для её открытия.</string>
+    <string name="set_to_default">Via будет установлен браузером по умолчанию после использования его для открытия ссылки (%s). Пожалуйста, выберите Via для её открытия.</string>
 
     <string name="quick_back_desc">Могут возникнуть проблемы совместимости при включении этого переключателя. Вам следует выключить его, если функция работает нестабильно.</string>
     <string name="sync_prompt">Будут перезаписаны текущие локальные закладки и настройки. Продолжить?</string>
@@ -238,8 +238,8 @@
     <string name="check_permission">Доступ запрещён. Разрешить его в настройках сейчас?</string>
     <string name="need_permission_hint">Via необходимы следующие разрешения для работы.\n\n</string>
     <string name="storage_permission">Хранилище: для скачивания файлов из браузера, импорт/экспорт закладок и т.п.\n\n</string>
-    <string name="location_permission">Местоположение: для таких сайтов, как Google Maps. Оно отключено по умолчанию в настройках и отображается во всплывающем окне с просьбой использовать ваше местоположение, если включено.\n\n</string>
-    <string name="phone_permission">Телефон: для сбора неконфиденциальной информации о вашем Android-устройстве для сбора простой статистики и получения данные о сбоях в работе.\n\n</string>
+    <string name="location_permission">Местоположение: для таких сайтов, как Карты Google. Оно отключено по умолчанию в настройках и отображается во всплывающем окне с просьбой использовать ваше местоположение, если включено.\n\n</string>
+    <string name="phone_permission">Телефон: для сбора неконфиденциальной информации о вашем Android-устройстве, для сбора простой статистики и получения данные о сбоях в работе.\n\n</string>
     <string name="force_cancel">Принудительная отмена</string>
     <string name="restore_tabs_hint">Восстановить незакрытые в прошлый раз вкладки?</string>
     <string name="restore_tabs">Восстанавливать вкладки при запуске</string>
@@ -270,7 +270,7 @@
     <string name="missing_webview">Google webview корректно не установлен. Установить его сейчас?</string>
     <string name="install">Установить</string>
     <string name="crash_hint">Простите за сбой.</string>
-    <string name="upload_hint">Очень жаль, что произошёл сбой. Но вы можете отправить отчёт об ошибке, чтобы помочь нам её устранить. Отправить отчёт?</string>
+    <string name="upload_hint">Очень жаль, что произошёл сбой, но вы можете отправить отчёт об ошибке, чтобы помочь нам её устранить. Отправить отчёт?</string>
     <string name="glean">Цитата</string>
     <string name="contact_us">Связаться с нами</string>
     <string name="official_website">Официальный сайт</string>
@@ -310,5 +310,8 @@
     <string name="skin_hide_search_part">Скрыть панель поиска</string>
     <string name="action_more">Ещё</string>
     <string name="action_exit">Выход</string>
+    <string name="set_as_default">Усановить браузером по умолчанию?</string>
+    <string name="exit_incognito_title">Выйти из режима \"инкогнито\"?</string>
+    <string name="exit_incognito_dialog">Закрыть все вкладки перед отключением \"инкогнито\"?</string>
 
 </resources>
