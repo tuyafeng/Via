@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources tools:ignore="MissingTranslation" xmlns:tools="http://schemas.android.com/tools">
 
-    <string name="app_name">Via</string>
+    <string name="app_name">Via Браузер</string>
     <string name="action_new_tab">Новая вкладка</string>
-    <string name="action_open_in_new">Открыть в новой вкладке</string>
+    <string name="action_open_in_new">Открыть в Новой вкладке</string>
     <string name="action_save_img">Сохранить изображение</string>
     <string name="action_share">Поделиться</string>
     <string name="action_history">История</string>
@@ -18,8 +18,8 @@
     <string name="settings">Настройки</string>
     <string name="location">Сообщать местоположение</string>
     <string name="password">Сохранять пароли</string>
-    <string name="donate">Пожертвовать на Via</string>
-    <string name="donate_details">Если вам нравится наша работа, то вы можете сделать пожертвование.\nAlipay: 2376688759@qq.com\nPayPal: wiar1824@gmail.com</string>
+    <string name="donate">Пожертвовать на Via Браузер</string>
+    <string name="donate_details">Если вам нравится наша работа, то Вы можете сделать пожертвование.\nAlipay: 2376688759@qq.com\nPayPal: wiar1824@gmail.com</string>
     <string name="orientation">Ориентация экрана</string>
     <string name="orientation_system">Системная</string>
     <string name="orientation_auto">Автоповорот</string>
@@ -30,6 +30,7 @@
     <string name="fullscreen">Автоскрытие панелей</string>
     <string name="java">Использовать JavaScript</string>
     <string name="download">Загружать в</string>
+
     <string name="size">Размер текста</string>
     <string name="search">Поисковая система</string>
     <string name="search_hint">Поиск</string>
@@ -62,7 +63,7 @@
     <string name="hint_folder">Папка</string>
     <string name="title_edit_bookmark">Изменить закладку</string>
     <string name="action_edit">Редактировать</string>
-    <string name="action_incognito">Режим \"инкогнито\"</string>
+    <string name="action_incognito">Режим \"Инкогнито\"</string>
     <string name="action_find">Найти на странице</string>
     <string name="download_pending">Начинается загрузка…</string>
     <string name="cannot_download">Скачивать можно только по \"http\"- или \"https\"-ссылкам.</string>
@@ -72,15 +73,28 @@
     <string name="download_sdcard_busy_dlg_msg">Накопитель занят. Чтобы разрешить загрузки, отключите USB-накопитель в уведомлениях.</string>
     <string name="message_import">закладок импортировано</string>
     <string name="custom_url">Свой поисковик</string>
-    <string name="block_ads">Блокировщик рекламы</string>
+
+    <string name="baidu_url">Baidu</string>
+    <string name="shenma_url">ShenMa</string>
+    <string name="bing_url">Bing</string>
+    <string name="haosou_url">Haosou</string>
+    <string name="duckduckgo_url">DuckDuckGo</string>
+    <string name="startpage_url">StartPage</string>
+    <string name="ask_url">Ask</string>
+    <string name="yahoo_url">Yahoo</string>
+    <string name="yandex_url">Яндекс</string>
+    <string name="google_url">Google</string>
+    <string name="sougou_url">Sougou</string>
+    <string name="block_ads">Блокировка рекламы</string>
     <string name="message_untrusted_certificate">Сертификат сайта не является доверенным. Всё равно продолжить?</string>
     <string name="title_form_resubmission">Переотправка формы</string>
     <string name="message_form_resubmission">Повторно отправить данные?</string>
-    <string name="message_location">\nСообщить ваше местоположение?</string>
+    <string name="message_location">\nСообщить Ваше местоположение?</string>
     <string name="action_allow">Да</string>
     <string name="action_dont_allow">Отмена</string>
     <string name="title_sign_in">Вход</string>
     <string name="hint_username">Имя</string>
+
     <string name="hint_password">Пароль</string>
     <string name="untitled">Без названия</string>
     <string name="image_auto">Изображения: Wi-Fi</string>
@@ -92,17 +106,17 @@
     <string name="import_bookmark_error">Не удалось импортировать закладки из файла</string>
     <string name="feedback">Отправить отзыв</string>
     <string name="message_add_bookmark">Успешно добавлено в закладки</string>
-    <string name="message_exit">Нажмите ещё раз, чтобы выйти</string>
+    <string name="message_exit">Нажмите ещё раз, чтобы выйти.</string>
     <string name="web_screenshot">Снимок страницы</string>
     <string name="screenshot_all">Страница целиком</string>
     <string name="screenshot_now">Видимая часть</string>
     <string name="dialog_message">Сообщение</string>
-    <string name="toast_wait_a_minute">Подождите минутку…</string>
+    <string name="toast_wait_a_minute">Подождите минуту…</string>
     <string name="toast_save_to">Сохранено в:</string>
     <string name="toast_operation_failed">Ошибка при выполнении операции.</string>
     <string name="toast_operation_done">Операция выполнена.</string>
     <string name="volume">Прокрутка кнопками громкости</string>
-    <string name="intent">Разрешать намерения сайтов</string>
+    <string name="intent">Разрешить переадресацию Веб-сайта на приложение</string>
     <string name="msg_intent">Открыть приложение?</string>
     <string name="dialog_adblock">Встроенный: используется встроенный чёрный список hosts.txt\n\nВнешний: используется внешний чёрный список hosts.txt, а при его отсутствии последний скачивается из сети</string>
     <string name="dialog_adblock_default">Встроенный</string>
@@ -113,8 +127,8 @@
     <string name="toast_clear_defaults">Стереть умолчания</string>
     <string name="toast_copy_url_successful">Ссылка успешно скопирована</string>
     <string name="toast_copy_text_successful">Текст успешно скопирован</string>
-    <string name="incognito_on">Режим \"инкогнито\": да</string>
-    <string name="incognito_off">Режим \"инкогнито\": нет</string>
+    <string name="incognito_on">Режим \"Инкогнито\": да</string>
+    <string name="incognito_off">Режим \"Инкогнито\": нет</string>
     <string name="operation_none">Нет</string>
     <string name="operation_reload">Перезагрузка страницы</string>
     <string name="operation_top">Перейти в начало</string>
@@ -144,6 +158,16 @@
     <string name="action_translate">Перевод</string>
     <string name="title_edit_folder">Изменение папки</string>
     <string name="msg_delete_folder">Удалить эту папку?</string>
+    <string name="desc_suggestion">предложение</string>
+    <string name="desc_search">найти на странице</string>
+    <string name="desc_reload">обновить</string>
+    <string name="desc_back">назад</string>
+    <string name="desc_forward">вперед</string>
+    <string name="desc_home">домой</string>
+    <string name="desc_tab">вкладка</string>
+    <string name="desc_menu">меню</string>
+    <string name="desc_filedic">файл</string>
+    <string name="desc_other">другое</string>
     <string name="msg_setgoogle">Установить поисковую систему Google?</string>
     <string name="action_mark">Пометить как рекламу</string>
     <string name="settings_block">Блокировка рекламы</string>
@@ -155,10 +179,10 @@
     <string name="clear_ad_rules">Удалить все правила</string>
     <string name="color_mode">Цветовой режим</string>
     <string name="dialog_sure">Вы уверены, что хотите это сделать?</string>
-    <string name="action_send_to_launcher">Ярлык на экран</string>
+    <string name="action_send_to_launcher">Ярлык на рабочий стол</string>
     <string name="settings_cloud">Облако</string>
-    <string name="user">Вход/регистрация</string>
-    <string name="user_syns">Обновление из облака</string>
+    <string name="user">Вход/Регистрация</string>
+    <string name="user_syns">Синхронизация из облака</string>
     <string name="user_update">Обновление в облаке</string>
     <string name="log_in_success">Успешный вход</string>
     <string name="wrong_psw">Неправильный пароль</string>
@@ -174,7 +198,7 @@
     <string name="upload_completed">Отправка завершена</string>
     <string name="ui_mode">Вид интерфейса</string>
     <string name="ui_auto">Авто</string>
-    <string name="open_or_search">Открыть/искать</string>
+    <string name="open_or_search">Открыть/Искать</string>
     <string name="settings_addons">Дополнения</string>
     <string name="addon_download">Менеджер загрузок</string>
     <string name="addon_qr_code_scan">Сканер QR-кода</string>
@@ -184,11 +208,11 @@
     <string name="download_completed">Загрузка завершена</string>
     <string name="toast_fullscreen_off">Обычный режим</string>
 
-    <string name="clear_data">Очистить</string>
+    <string name="clear_data">Очистить данные</string>
     <string name="data_cache">Кэш</string>
     <string name="data_form_data">Данные форм</string>
     <string name="data_history">История</string>
-    <string name="data_storage">Web-хранилище</string>
+    <string name="data_storage">Веб-хранилище</string>
     <string name="data_cookies">Cookies</string>
     <string name="data_cleared">Данные очищены</string>
 
@@ -226,9 +250,13 @@
 
     <string name="conn_timeout">Истекло время ожидания подключения</string>
 
-    <string name="already_default">Via уже установлен по умолчанию</string>
+    <string name="already_default">Via Браузер уже установлен по умолчанию</string>
 
+<<<<<<< HEAD
     <string name="set_to_default">Via будет установлен браузером по умолчанию после использования его для открытия ссылки (%s). Пожалуйста, выберите Via для её открытия.</string>
+=======
+    <string name="set_to_default">Via Браузер будет установлен браузером по умолчанию после использования его для открытия ссылки (1year.cc). Пожалуйста, выберите Via Браузер для её открытия.</string>
+>>>>>>> origin/master
 
     <string name="quick_back_desc">Могут возникнуть проблемы совместимости при включении этого переключателя. Вам следует выключить его, если функция работает нестабильно.</string>
     <string name="sync_prompt">Будут перезаписаны текущие локальные закладки и настройки. Продолжить?</string>
@@ -236,12 +264,12 @@
     <string name="none">Нет</string>
     <string name="action_log">Сетевой журнал</string>
     <string name="check_permission">Доступ запрещён. Разрешить его в настройках сейчас?</string>
-    <string name="need_permission_hint">Via необходимы следующие разрешения для работы.\n\n</string>
-    <string name="storage_permission">Хранилище: для скачивания файлов из браузера, импорт/экспорт закладок и т.п.\n\n</string>
-    <string name="location_permission">Местоположение: для таких сайтов, как Google Maps. Оно отключено по умолчанию в настройках и отображается во всплывающем окне с просьбой использовать ваше местоположение, если включено.\n\n</string>
-    <string name="phone_permission">Телефон: для сбора неконфиденциальной информации о вашем Android-устройстве для сбора простой статистики и получения данные о сбоях в работе.\n\n</string>
+    <string name="need_permission_hint">Via Браузеру необходимы следующие разрешения для работы.\n\n</string>
+    <string name="storage_permission">Хранилище: для скачивания файлов из браузера, Импорт/Экспорт закладок и т.п.\n\n</string>
+    <string name="location_permission">Местоположение: для таких сайтов, как Google Карты. Оно отключено по умолчанию в настройках и отображается во всплывающем окне с просьбой использовать Ваше местоположение, если включено.\n\n</string>
+    <string name="phone_permission">Телефон: для сбора неконфиденциальной информации о вашем Android-устройстве, для сбора простой статистики и получения данные о сбоях в работе.\n\n</string>
     <string name="force_cancel">Принудительная отмена</string>
-    <string name="restore_tabs_hint">Восстановить незакрытые в прошлый раз вкладки?</string>
+    <string name="restore_tabs_hint">Восстановить, незакрытые в прошлый раз, вкладки?</string>
     <string name="restore_tabs">Восстанавливать вкладки при запуске</string>
     <string name="install_success">Успешно установлено!</string>
     <string name="uninstall_success">Успешно удалено!</string>
@@ -267,10 +295,10 @@
     <string name="skin_style">Стиль</string>
     <string name="skin_settings">Настройки</string>
     <string name="set_it_as_homepage">Установить в качестве домашней страницы?</string>
-    <string name="missing_webview">Google webview корректно не установлен. Установить его сейчас?</string>
+    <string name="missing_webview">Google WebView корректно не установлен. Установить его сейчас?</string>
     <string name="install">Установить</string>
     <string name="crash_hint">Простите за сбой.</string>
-    <string name="upload_hint">Очень жаль, что произошёл сбой. Но вы можете отправить отчёт об ошибке, чтобы помочь нам её устранить. Отправить отчёт?</string>
+    <string name="upload_hint">Очень жаль, что произошёл сбой, но Вы можете отправить отчёт об ошибке, чтобы помочь нам её устранить. Отправить отчёт?</string>
     <string name="glean">Цитата</string>
     <string name="contact_us">Связаться с нами</string>
     <string name="official_website">Официальный сайт</string>
@@ -286,7 +314,7 @@
     <string name="action_fullscreen">Полный экран</string>
     <string name="settings_general">Основные</string>
     <string name="no_bookmark">Нет закладок</string>
-    <string name="import_or_export_bookmarks">Импорт/экспорт закладок</string>
+    <string name="import_or_export_bookmarks">Импорт/Экспорт закладок</string>
     <string name="what_is_next">Что дальше?</string>
     <string name="import_">Импорт</string>
     <string name="export_">Экспорт</string>
@@ -308,5 +336,6 @@
     <string name="action_close_all_tabs">Закрыть все вкладки</string>
     <string name="skin_hide_search_part">Скрыть панель поиска</string>
     <string name="action_more">Ещё</string>
+    <string name="action_exit">Выход</string>
 
 </resources>
