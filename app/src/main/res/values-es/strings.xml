@@ -244,7 +244,7 @@
 
     <string name="already_default">Ya se ha configurado por defecto</string>
 
-    <string name="set_to_default">Se establecerá por defecto tras abrir enlace (1year.cc), por favor seleccione Via para abrir el enlace.</string>
+    <string name="set_to_default">Se establecerá por defecto tras abrir enlace (%s), por favor seleccione Via para abrir el enlace.</string>
 
     <string name="quick_back_desc">Puede haber problemas de compatibilidad al abrir este interruptor. Debe cerrarlo cuando encuentre que el trabajo de regreso no está bien.</string>
     <string name="sync_prompt">Esto sobrescribirá sus marcadores locales actuales y los ajustes. ¿Continuar?</string>

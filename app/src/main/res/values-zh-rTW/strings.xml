@@ -234,7 +234,7 @@
     <string name="screenshot_hint">完整網頁擷取在 Android 5.0 以上的裝置上存在相容性問題, 我們仍在找尋解決方案。</string>
     <string name="conn_timeout">連線逾時</string>
     <string name="already_default">已設為預設瀏覽器</string>
-    <string name="set_to_default">使用 Via 開啟連結(1year.cc)後將被設為預設瀏覽器，請選擇以 Via 開啟此連結。</string>
+    <string name="set_to_default">使用 Via 開啟連結(%s)後將被設為預設瀏覽器，請選擇以 Via 開啟此連結。</string>
     <string name="quick_back_desc">在你開啟此切換時，可能有相容性問題。在你發現返回異常時，應關閉它。</string>
     <string name="sync_prompt">這將覆寫你目前的本機書籤與設定。繼續嗎？</string>
     <string name="upload_prompt">這將上傳你目前的本機書籤與設定。繼續嗎？</string>
@@ -314,4 +314,6 @@
     <string name="skin_hide_search_part">隱藏搜尋部分</string>
     <string name="action_more">更多</string>
     <string name="action_exit">退出</string>
+    <string name="exit_incognito_title">退出隱身模式</string>
+    <string name="exit_incognito_dialog">退出隱身模式前關閉所有分頁?</string>
 </resources>

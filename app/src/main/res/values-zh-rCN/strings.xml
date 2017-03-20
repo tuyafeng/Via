@@ -62,7 +62,7 @@
     <string name="hint_folder">文件夹</string>
     <string name="title_edit_bookmark">编辑书签</string>
     <string name="action_edit">编辑</string>
-    <string name="action_incognito">无痕</string>
+    <string name="action_incognito">隐身</string>
     <string name="action_find">页内查找</string>
     <string name="download_pending">正在开始下载…</string>
     <string name="cannot_download">仅可下载以 \"http\" 或 \"https\" 开头的网址</string>
@@ -115,8 +115,8 @@
     <string name="toast_clear_defaults">请清除原先默认设置</string>
     <string name="toast_copy_url_successful">已复制链接</string>
     <string name="toast_copy_text_successful">已复制文本</string>
-    <string name="incognito_on">已进入无痕浏览</string>
-    <string name="incognito_off">退出无痕浏览</string>
+    <string name="incognito_on">已进入隐身浏览</string>
+    <string name="incognito_off">退出隐身浏览</string>
     <string name="settings_ad_rules">广告标记</string>
     <string name="settings_privacy">隐私</string>
     <string name="settings_advanced">高级</string>
@@ -229,7 +229,7 @@
     <string name="screenshot_hint">全网页截图在 Android 5.0+ 的设备上存在兼容性问题, 我们仍在找寻解决方法.</string>
     <string name="conn_timeout">连接超时</string>
     <string name="already_default">已是默认浏览器</string>
-    <string name="set_to_default">为了顺利完成设置将打开一个链接(1year.cc), 请选择 via 打开它.</string>
+    <string name="set_to_default">为了顺利完成设置将打开一个链接(%s), 请选择 via 打开它.</string>
     <string name="quick_back_desc">这可能导致一些兼容性问题. 如果你发现回退异常请关闭它.</string>
     <string name="sync_prompt">这将覆盖掉你当前的书签和设置. 是否继续?</string>
     <string name="upload_prompt">将你当前的书签和设置上传到云端. 是否继续?</string>
@@ -312,4 +312,7 @@
     <string name="skin_hide_search_part">隐藏搜索部分</string>
     <string name="action_more">更多</string>
     <string name="action_exit">退出</string>
+    <string name="set_as_default">设置为默认浏览器?</string>
+    <string name="exit_incognito_title">退出隐身模式</string>
+    <string name="exit_incognito_dialog">退出隐身模式前关闭所有标签页?</string>
 </resources>

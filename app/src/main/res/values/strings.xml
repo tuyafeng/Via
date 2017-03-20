@@ -250,7 +250,7 @@
 
     <string name="already_default">It already be set to default</string>
 
-    <string name="set_to_default">It will be set to default after using it open link(1year.cc), please choose via to open the link.</string>
+    <string name="set_to_default">It will be set to default after using it open link(%s), please choose via to open the link.</string>
 
     <string name="quick_back_desc">There may be compatibility issues when you open this switch. You should close it when you found going back work not well.</string>
     <string name="sync_prompt">It will overwrite your current local bookmark and settings. Continue?</string>
@@ -332,5 +332,8 @@
     <string name="skin_hide_search_part">Hide Search Part</string>
     <string name="action_more">More</string>
     <string name="action_exit">Exit</string>
+    <string name="set_as_default">Set it as your default browser?</string>
+    <string name="exit_incognito_title">Exit Incognito Browsing</string>
+    <string name="exit_incognito_dialog">Do you want to close all tabs before disabling \"Incognito\"?</string>
 
 </resources>

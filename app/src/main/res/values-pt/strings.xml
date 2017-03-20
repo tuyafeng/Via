@@ -229,7 +229,7 @@
     <string name="screenshot_hint">Pode haver problemas de compatibilidade no Android 5.0+ para ter uma captura de tela completa do site. Estamos ainda à procura de soluções.</string>
     <string name="conn_timeout">A conexão expirou</string>
     <string name="already_default">Já está definido como padrão</string>
-    <string name="set_to_default">Ele será definido como padrão após usá-lo para abrir um link (1year.cc). Por favor, escolha o Via para abrir o link.</string>
+    <string name="set_to_default">Ele será definido como padrão após usá-lo para abrir um link (%s). Por favor, escolha o Via para abrir o link.</string>
     <string name="quick_back_desc">Poderá haver problemas de compatibilidade quando abrir esta opção. Você deve fechá-lo se acontecer isso.</string>
     <string name="sync_prompt">Isso irá substituir o seu local atual favorito e configurações. Continuar?</string>
     <string name="upload_prompt">Isso carregará o seu favorito e as configurações locais atuais. Continuar?</string>

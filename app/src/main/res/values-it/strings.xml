@@ -250,7 +250,7 @@
 
     <string name="already_default">E\' già impostato come default</string>
 
-    <string name="set_to_default">Sarà impostato per default dopo aver aperto il link(1year.cc), seleziona Via per aprire il link.</string>
+    <string name="set_to_default">Sarà impostato per default dopo aver aperto il link(%s), seleziona Via per aprire il link.</string>
 
     <string name="quick_back_desc">Ci possono essere problemi di compatibilità quando selezioni questa impostazione. Dovresti disabilitarla se non funziona come dovrebbe.</string>
     <string name="sync_prompt">I tuoi segnalibri e impostazioni verranno sovrascritti. Confermi?</string>

@@ -228,7 +228,7 @@
 
     <string name="already_default">Via уже установлен по умолчанию</string>
 
-    <string name="set_to_default">Via будет установлен браузером по умолчанию после использования его для открытия ссылки (1year.cc). Пожалуйста, выберите Via для её открытия.</string>
+    <string name="set_to_default">Via будет установлен браузером по умолчанию после использования его для открытия ссылки (%s). Пожалуйста, выберите Via для её открытия.</string>
 
     <string name="quick_back_desc">Могут возникнуть проблемы совместимости при включении этого переключателя. Вам следует выключить его, если функция работает нестабильно.</string>
     <string name="sync_prompt">Будут перезаписаны текущие локальные закладки и настройки. Продолжить?</string>
@@ -302,7 +302,6 @@
     <string name="ui_traditional">Традиционный</string>
     <string name="ui_simple">Простой</string>
     <string name="color_mode_hint">Панели в цвет сайта</string>
-    <string name="sort_bookmarks_hint">Зажмите и перетащите для сортировки закладок</string>
     <string name="action_sort_bookmarks">Сортировка закладкок</string>
     <string name="desc_close">Закрыть</string>
     <string name="clear_cache_on_exit">Очистить кэш и выйти</string>
