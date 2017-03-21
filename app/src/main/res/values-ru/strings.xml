@@ -294,7 +294,7 @@
     <string name="missing_webview">Google WebView корректно не установлен. Установить его сейчас?</string>
     <string name="install">Установить</string>
     <string name="crash_hint">Простите за сбой.</string>
-    <string name="upload_hint">Очень жаль, что произошёл сбой, но Вы можете отправить отчёт об ошибке, чтобы помочь нам её устранить. Отправить отчёт?</string>
+    <string name="upload_hint">Очень жаль, что произошёл сбой, но вы можете отправить отчёт об ошибке, чтобы помочь нам её устранить. Отправить отчёт?</string>
     <string name="glean">Цитата</string>
     <string name="contact_us">Связаться с нами</string>
     <string name="official_website">Официальный сайт</string>
@@ -333,5 +333,8 @@
     <string name="skin_hide_search_part">Скрыть панель поиска</string>
     <string name="action_more">Ещё</string>
     <string name="action_exit">Выход</string>
+    <string name="set_as_default">Усановить браузером по умолчанию?</string>
+    <string name="exit_incognito_title">Выход из режима \"инкогнито\"</string>
+    <string name="exit_incognito_dialog">Закрыть все вкладки перед отключением \"инкогнито\"?</string>
 
 </resources>
