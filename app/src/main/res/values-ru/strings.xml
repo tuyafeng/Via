@@ -3,7 +3,7 @@
 
     <string name="app_name">Via Браузер</string>
     <string name="action_new_tab">Новая Вкладка</string>
-    <string name="action_open_in_new">Открыть в \"Новой вкладке\"</string>
+    <string name="action_open_in_new">Открыть в \"Новой Вкладке\"</string>
     <string name="action_save_img">Сохранить изображение</string>
     <string name="action_share">Отправить</string>
     <string name="action_history">История</string>
@@ -19,7 +19,7 @@
     <string name="location">Сообщать местоположение</string>
     <string name="password">Сохранять пароли</string>
     <string name="donate">Пожертвовать на Via Браузер</string>
-    <string name="donate_details">Если Вам нравится наша работа, то Вы можете сделать пожертвование.\nAlipay: 2376688759@qq.com\nPayPal: wiar1824@gmail.com</string>
+    <string name="donate_details">Если Вам нравится наше приложение, то Вы можете сделать пожертвование.\nAlipay: 2376688759@qq.com\nPayPal: wiar1824@gmail.com</string>
     <string name="orientation">Ориентация экрана</string>
     <string name="orientation_system">Системная</string>
     <string name="orientation_auto">Автоповорот</string>
@@ -45,10 +45,10 @@
     <string name="title_search_engine">Поисковая система</string>
     <string name="action_ok">OK</string>
     <string name="dialog_download">Загрузить этот файл?</string>
-    <string name="action_cancel">Отменить</string>
+    <string name="action_cancel">ОТМЕНИТЬ</string>
     <string name="title_warning">Внимание!</string>
     <string name="title_user_agent">Агент пользователя</string>
-    <string name="title_custom_homepage">Выберите страницу</string>
+    <string name="title_custom_homepage">Выберите страницу:</string>
     <string name="action_webpage">Своя страница</string>
     <string name="action_yes">ДА</string>
     <string name="action_no">ОТМЕНА</string>
@@ -71,7 +71,7 @@
     <string name="download_no_sdcard_dlg_msg">Необходим USB-накопитель, для скачивания этого файла.</string>
     <string name="download_sdcard_busy_dlg_title">USB-накопитель недоступен!</string>
     <string name="download_sdcard_busy_dlg_msg">Накопитель занят. Чтобы разрешить загрузки, отключите USB-накопитель в уведомлениях.</string>
-    <string name="message_import">закладок импортировано</string>
+    <string name="message_import">Закладок импортировано</string>
     <string name="custom_url">Свой</string>
 
     <string name="baidu_url">Baidu</string>
@@ -79,7 +79,7 @@
     <string name="bing_url">Bing</string>
     <string name="haosou_url">Haosou</string>
     <string name="duckduckgo_url">DuckDuckGo</string>
-    <string name="startpage_url">StartPage</string>
+    <string name="startpage_url">Нач. страница</string>
     <string name="ask_url">Ask</string>
     <string name="yahoo_url">Yahoo!</string>
     <string name="yandex_url">Яндекс</string>
@@ -261,7 +261,7 @@
     <string name="action_log">Сетевой журнал</string>
     <string name="check_permission">Доступ запрещён. Разрешить его в \"Настройках\" сейчас?</string>
     <string name="need_permission_hint">Via Браузеру необходимы следующие \"Разрешения\" для работы\n\n</string>
-    <string name="storage_permission">Хранилище: Для скачивания файлов из Via Браузера, Импорт / Экспорт Закладок и т.п.\n\n</string>
+    <string name="storage_permission">Хранилище: Для скачивания файлов из браузера, Импорт / Экспорт Закладок и т.п.\n\n</string>
     <string name="location_permission">Местоположение: Для таких сайтов, как \"Google Карты\". Оно отключено по умолчанию в \"Настройках\" и отображается во \"Всплывающем окне\", с просьбой, использовать Ваше местоположение, если включено.\n\n</string>
     <string name="phone_permission">Телефон: Для сбора неконфиденциальной информации о Вашем Android-устройстве, для сбора простой статистики и получения данных о сбоях в работе.\n\n</string>
     <string name="force_cancel">Принудительная отмена</string>
@@ -290,7 +290,7 @@
     <string name="skin_bg">Фон</string>
     <string name="skin_style">Стиль</string>
     <string name="skin_settings">Настройки</string>
-    <string name="set_it_as_homepage">Установить в качестве \"Домашней страницы?\"</string>
+    <string name="set_it_as_homepage">Установить в качестве \"Домашней страницы\"?</string>
     <string name="missing_webview">Приложение \"Google WebView\" не установлено, либо установлено не правильно. Попробовать установить его сейчас?</string>
     <string name="install">Установить</string>
     <string name="crash_hint">Извините, пожалуйста.</string>
