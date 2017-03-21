@@ -333,5 +333,8 @@
     <string name="skin_hide_search_part">Скрыть панель \"Поиска\"</string>
     <string name="action_more">Ещё</string>
     <string name="action_exit">Выход</string>
+    <string name="set_as_default">Усановить браузером по умолчанию?</string>
+    <string name="exit_incognito_title">Выход из режима \"инкогнито\"</string>
+    <string name="exit_incognito_dialog">Закрыть все вкладки перед отключением \"инкогнито\"?</string>
 
 </resources>
