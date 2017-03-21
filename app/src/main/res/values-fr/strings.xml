@@ -248,7 +248,7 @@
 
     <string name="already_default">Déjà réglé sur défaut</string>
 
-    <string name="set_to_default">Sera paramètré par défaut après avoir utilisé le lien ouvert (1year.cc), choisir Via pour ouvrir le lien.</string>
+    <string name="set_to_default">Sera paramètré par défaut après avoir utilisé le lien ouvert (%s), choisir Via pour ouvrir le lien.</string>
 
     <string name="quick_back_desc">Il peut y avoir des problèmes de compatibilité lorsque vous activez cette option. Vous devriez le fermer, si vous avez des erreurs.</string>
     <string name="sync_prompt">Remplacer vos favoris et vos paramètres locaux actuels. Continuer?</string>

@@ -242,7 +242,7 @@
 
     <string name="already_default">既定のブラウザに設定されています</string>
 
-    <string name="set_to_default">設定を適用には Via で 1year.cc を開いてください</string>
+    <string name="set_to_default">設定を適用には Via で %s を開いてください</string>
 
     <string name="quick_back_desc">不具合が発生したら無効にしてください</string>
     <string name="sync_prompt">ブックマークと設定を上書きますか？</string>
@@ -329,6 +329,6 @@
     <string name="toolbar_settings_hint">下のボタンをクリック（スライド）して長押し（スライド）ジェスチャーを設定し、長く押すと設定されたジェスチャーが表示されます。</string>
     <string name="empty_ads_mark_hint">ブロックされた広告はありません。ページ上の要素を長押しして、「広告をマーク」を選択してください。または、下のボタンをクリックしてください。</string>
     <string name="action_more">並び替え</string>
-    <string name="sort_hint">対象を長押し＋ドラッグで順番の変更が可能です、</string>
+    <string name="sort_hint">ドラッグ＆ドロップで並び替え</string>
     <string name="skin_hide_search_part">検索ボックスを非表示にする</string>
 </resources>
