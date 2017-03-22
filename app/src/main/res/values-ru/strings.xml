@@ -3,7 +3,7 @@
 
     <string name="app_name">Via Браузер</string>
     <string name="action_new_tab">Новая Вкладка</string>
-    <string name="action_open_in_new">Открыть в \"Новой вкладке\"</string>
+    <string name="action_open_in_new">Открыть в \"Новой Вкладке\"</string>
     <string name="action_save_img">Сохранить изображение</string>
     <string name="action_share">Отправить</string>
     <string name="action_history">История</string>
@@ -19,7 +19,7 @@
     <string name="location">Сообщать местоположение</string>
     <string name="password">Сохранять пароли</string>
     <string name="donate">Пожертвовать на Via Браузер</string>
-    <string name="donate_details">Если Вам нравится наша работа, то Вы можете сделать пожертвование.\nAlipay: 2376688759@qq.com\nPayPal: wiar1824@gmail.com</string>
+    <string name="donate_details">Если Вам нравится наше приложение, то Вы можете сделать пожертвование.\nAlipay: 2376688759@qq.com\nPayPal: wiar1824@gmail.com</string>
     <string name="orientation">Ориентация экрана</string>
     <string name="orientation_system">Системная</string>
     <string name="orientation_auto">Автоповорот</string>
@@ -45,10 +45,10 @@
     <string name="title_search_engine">Поисковая система</string>
     <string name="action_ok">OK</string>
     <string name="dialog_download">Загрузить этот файл?</string>
-    <string name="action_cancel">Отменить</string>
+    <string name="action_cancel">ОТМЕНИТЬ</string>
     <string name="title_warning">Внимание!</string>
     <string name="title_user_agent">Агент пользователя</string>
-    <string name="title_custom_homepage">Выберите страницу</string>
+    <string name="title_custom_homepage">Выберите страницу:</string>
     <string name="action_webpage">Своя страница</string>
     <string name="action_yes">ДА</string>
     <string name="action_no">ОТМЕНА</string>
@@ -71,7 +71,7 @@
     <string name="download_no_sdcard_dlg_msg">Необходим USB-накопитель, для скачивания этого файла.</string>
     <string name="download_sdcard_busy_dlg_title">USB-накопитель недоступен!</string>
     <string name="download_sdcard_busy_dlg_msg">Накопитель занят. Чтобы разрешить загрузки, отключите USB-накопитель в уведомлениях.</string>
-    <string name="message_import">закладок импортировано</string>
+    <string name="message_import">Закладок импортировано</string>
     <string name="custom_url">Свой</string>
 
     <string name="baidu_url">Baidu</string>
@@ -79,7 +79,7 @@
     <string name="bing_url">Bing</string>
     <string name="haosou_url">Haosou</string>
     <string name="duckduckgo_url">DuckDuckGo</string>
-    <string name="startpage_url">StartPage</string>
+    <string name="startpage_url">Нач. страница</string>
     <string name="ask_url">Ask</string>
     <string name="yahoo_url">Yahoo!</string>
     <string name="yandex_url">Яндекс</string>
@@ -149,7 +149,7 @@
     <string name="settings_privacy">Конфиденциальность</string>
     <string name="settings_advanced">Дополнительно</string>
     <string name="settings_about">Об приложении</string>
-    <string name="url_box">Содержимое адресной строки</string>
+    <string name="url_box">Содержимое \"Адресной строки\"</string>
     <string name="url_box_domain">Домен</string>
     <string name="url_box_url">Ссылка</string>
     <string name="url_box_title">Заголовок</string>
@@ -173,7 +173,7 @@
     <string name="settings_block">Блокировка рекламы</string>
     <string name="dialog_confirm_block">Вы уверены, что хотите пометить это, как рекламу?</string>
     <string name="do_not_track">Не отслеживать</string>
-    <string name="get_more_rules">Больше правил блокировки</string>
+    <string name="get_more_rules">Больше правил</string>
     <string name="add_rule">ДОБАВИТЬ</string>
     <string name="hint_tags">Правила (через запятую)</string>
     <string name="clear_ad_rules">Удалить все правила</string>
@@ -203,7 +203,7 @@
     <string name="addon_download">Загрузки</string>
     <string name="addon_qr_code_scan">Сканер QR-Кода</string>
     <string name="install_addon">Скачать и установить этот плагин? Он будет работать только после установки.</string>
-    <string name="quick_back">Возврат без перезагрузки страниц</string>
+    <string name="quick_back">Возврат, без перезагрузки страниц</string>
     <string name="open_with">Открыть в&#8230;</string>
     <string name="download_completed">Загрузка завершена!</string>
     <string name="toast_fullscreen_off">Обычный режим</string>
@@ -222,7 +222,7 @@
 
     <string name="settings_skin">Внешний вид</string>
     <string name="default_set">По умолчанию</string>
-    <string name="custom_css">Свой CSS</string>
+    <string name="custom_css">Пользовательский CSS</string>
     <string name="num_of_bookmarks_in_home">Колич. Закладок на \"Дом. странице\"</string>
     <string name="picture">Изображение</string>
     <string name="text">Текст</string>
@@ -252,7 +252,7 @@
 
     <string name="already_default">Via Браузер уже установлен по умолчанию.</string>
 
-    <string name="set_to_default">Via Браузер будет установлен браузером по умолчанию, после использования его, для открытия ссылки (%s). Пожалуйста, выберите Via Браузер, для открытия этой ссылки.</string>
+    <string name="set_to_default">Via Браузер будет установлен браузером по умолчанию, после использования его, для открытия ссылки (%s). Пожалуйста, выберите приложение Via Браузер, для открытия этой ссылки.</string>
 
     <string name="quick_back_desc">Могут возникнуть проблемы совместимости при включении этого переключателя. Вам следует выключить его, если функция будет работать нестабильно.</string>
     <string name="sync_prompt">Будут перезаписаны текущие локальные Закладки и настройки. Продолжить?</string>
@@ -260,9 +260,9 @@
     <string name="none">Нет</string>
     <string name="action_log">Сетевой журнал</string>
     <string name="check_permission">Доступ запрещён. Разрешить его в \"Настройках\" сейчас?</string>
-    <string name="need_permission_hint">Via Браузеру необходимы следующие \"Разрешения\" для работы.\n\n</string>
-    <string name="storage_permission">Хранилище: Для скачивания файлов из Браузера, Импорт / Экспорт Закладок и т.п.\n\n</string>
-    <string name="location_permission">Местоположение: Для таких сайтов, как \"Google Карты\". Оно отключено по умолчанию в \"Настройках\" и отображается во всплывающем окне, с просьбой, использовать Ваше местоположение, если включено.\n\n</string>
+    <string name="need_permission_hint">Via Браузеру необходимы следующие \"Разрешения\" для работы\n\n</string>
+    <string name="storage_permission">Хранилище: Для скачивания файлов из браузера, Импорт / Экспорт Закладок и т.п.\n\n</string>
+    <string name="location_permission">Местоположение: Для таких сайтов, как \"Google Карты\". Оно отключено по умолчанию в \"Настройках\" и отображается во \"Всплывающем окне\", с просьбой, использовать Ваше местоположение, если включено.\n\n</string>
     <string name="phone_permission">Телефон: Для сбора неконфиденциальной информации о Вашем Android-устройстве, для сбора простой статистики и получения данных о сбоях в работе.\n\n</string>
     <string name="force_cancel">Принудительная отмена</string>
     <string name="restore_tabs_hint">Восстановить, незакрытые в прошлый раз, Вкладки?</string>
@@ -274,9 +274,9 @@
     <string name="fullscreen_0">Отключено</string>
     <string name="fullscreen_1">Прокрутка Скрывает / Показывает</string>
     <string name="fullscreen_2">Нажатие Скрывает / Показывает</string>
-    <string name="settings_script">Сценарии</string>
-    <string name="get_more_script">Получить сценарии</string>
-    <string name="add_script">Добавить сценарий</string>
+    <string name="settings_script">Скрипты</string>
+    <string name="get_more_script">Больше скриптов</string>
+    <string name="add_script">ДОБАВИТЬ</string>
     <string name="script_url">домен или * (* — любой)</string>
     <string name="script_code">код (javascript)</string>
     <string name="clear_all_script">ОЧИСТИТЬ</string>
@@ -290,7 +290,7 @@
     <string name="skin_bg">Фон</string>
     <string name="skin_style">Стиль</string>
     <string name="skin_settings">Настройки</string>
-    <string name="set_it_as_homepage">Установить в качестве \"Домашней страницы?\"</string>
+    <string name="set_it_as_homepage">Установить в качестве \"Домашней страницы\"?</string>
     <string name="missing_webview">Приложение \"Google WebView\" не установлено, либо установлено не правильно. Попробовать установить его сейчас?</string>
     <string name="install">Установить</string>
     <string name="crash_hint">Извините, пожалуйста.</string>
@@ -312,13 +312,13 @@
     <string name="no_bookmark">Нет Закладок</string>
     <string name="import_or_export_bookmarks">Импорт / Экспорт Закладок</string>
     <string name="what_is_next">Выберите:</string>
-    <string name="import_">Импорт</string>
-    <string name="export_">Экспорт</string>
+    <string name="import_">ИМПОРТ</string>
+    <string name="export_">ЭКСПОРТ</string>
     <string name="pull_to_refresh_gesture">Потяните \"Вниз\" для обновления</string>
     <string name="back_forward_gesture">Жест \"Назад-Вперед\"</string>
     <string name="toolbar_settings_hint">Управление кнопками. При долгом удержании на \"Кнопке\", можно посмотреть команду и сменить ее.</string>
     <string name="action_modify">Изменить</string>
-    <string name="operation_hint">Жесты, операции и т.д.</string>
+    <string name="operation_hint">Жесты, управление кнопками и т.д.</string>
     <string name="empty_ads_mark_hint">Правила отсутствуют.\nЧтобы заблокировать рекламу на странице, Вы, можете, длительным нажатием на рекламу, на Веб-странице, выбрать пункт \"Пометить как рекламу\".\nИли просто нажмите кнопку ниже.</string>
     <string name="empty_script_hint">Скрипты отсутствуют.\nВы можете нажать на кнопку \"+\", чтобы добавить скрипт.\nИли просто нажмите кнопку ниже.</string>
     <string name="adblock_info">Заблокировано рекламы: %1$d, сохранено трафика: %2$s </string>
@@ -334,7 +334,7 @@
     <string name="action_more">Ещё</string>
     <string name="action_exit">Выход</string>
     <string name="set_as_default">Усановить браузером по умолчанию?</string>
-    <string name="exit_incognito_title">Выход из режима \"инкогнито\"</string>
-    <string name="exit_incognito_dialog">Закрыть все вкладки перед отключением \"инкогнито\"?</string>
+    <string name="exit_incognito_title">Выход из режима \"Инкогнито\"</string>
+    <string name="exit_incognito_dialog">Закрыть все вкладки перед отключением режима \"Инкогнито\"?</string>
 
 </resources>
