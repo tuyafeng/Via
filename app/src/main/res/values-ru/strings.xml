@@ -19,7 +19,7 @@
     <string name="location">Сообщать местоположение</string>
     <string name="password">Сохранять пароли</string>
     <string name="donate">Пожертвовать на Via</string>
-    <string name="donate_details">Если вам нравится наша работа, то вы можете сделать пожертвование.\nAlipay: 2376688759@qq.com\nPayPal: wiar1824@gmail.com</string>
+    <string name="donate_details">Если вам нравится наша работа, можете сделать пожертвование.\nAlipay: 2376688759@qq.com\nPayPal: wiar1824@gmail.com</string>
     <string name="orientation">Ориентация экрана</string>
     <string name="orientation_system">Системная</string>
     <string name="orientation_auto">Автоповорот</string>
@@ -87,7 +87,7 @@
     <string name="message_untrusted_certificate">Сертификат сайта не является доверенным. Всё равно продолжить?</string>
     <string name="title_form_resubmission">Переотправка формы</string>
     <string name="message_form_resubmission">Повторно отправить данные?</string>
-    <string name="message_location">\nСообщить Ваше местоположение?</string>
+    <string name="message_location">\nСообщить ваше местоположение?</string>
     <string name="action_allow">Да</string>
     <string name="action_dont_allow">Отмена</string>
     <string name="title_sign_in">Вход</string>
@@ -178,7 +178,7 @@
     <string name="dialog_sure">Вы уверены, что хотите это сделать?</string>
     <string name="action_send_to_launcher">Ярлык на рабочий стол</string>
     <string name="settings_cloud">Облако</string>
-    <string name="user">Вход/Регистрация</string>
+    <string name="user">Вход/регистрация</string>
     <string name="user_syns">Синхронизация из облака</string>
     <string name="user_update">Обновление в облаке</string>
     <string name="log_in_success">Успешный вход</string>
@@ -308,7 +308,7 @@
     <string name="action_fullscreen">Полный экран</string>
     <string name="settings_general">Основные</string>
     <string name="no_bookmark">Нет закладок</string>
-    <string name="import_or_export_bookmarks">Импорт/Экспорт закладок</string>
+    <string name="import_or_export_bookmarks">Импорт/экспорт закладок</string>
     <string name="what_is_next">Что дальше?</string>
     <string name="import_">Импорт</string>
     <string name="export_">Экспорт</string>
