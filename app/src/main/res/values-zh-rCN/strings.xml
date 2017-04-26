@@ -315,4 +315,24 @@
     <string name="set_as_default">设置为默认浏览器?</string>
     <string name="exit_incognito_title">退出隐身模式</string>
     <string name="exit_incognito_dialog">退出隐身模式前关闭所有标签页?</string>
+    <string name="file_size">文件大小</string>
+    <string name="update">更新提示</string>
+    <string name="update_msg">有新版本, 是否前往升级?</string>
+    <string name="ignore">忽略</string>
+    <string name="share_script">适用于 %1$s 上的脚本，复制这条消息后打开 via 可导入。viascript{%2$s}</string>
+    <string name="share_online_script">适用于 %1$s 上的脚本，用 via 打开链接 %2$s 可安装。</string>
+    <string name="import_script">从剪贴板导入适用于 %1$s 的脚本? \n警告：脚本可能不安全，请确认脚本安全。\n脚本代码：\n</string>
+    <string name="share_rule">适用于 %1$s 上的广告拦截规则，复制这条消息后打开 via 可导入。viarule{%2$s}</string>
+    <string name="import_rule">从剪贴板导入适用于 %1$s 的广告拦截规则?</string>
+    <string name="share_url">这是个秘密网址，复制这条消息后打开 via 可查看。 viaurl{%1$s}</string>
+    <string name="import_url">打开剪贴板上的链接?\n网址: %1$s</string>
+    <string name="import_successful">导入成功</string>
+    <string name="all_sites">全部站点</string>
+    <string name="easter_egg">彩蛋(AD)</string>
+    <string name="action_click_to_view">点击查看</string>
+    <string name="join_us">加入我们</string>
+    <string name="share_explanation">加密分享: 仅可通过 via 查看. \n分享: 分享当前网站链接.</string>
+    <string name="action_secret_share">加密分享</string>
+    <string name="action_normal_share">分享</string>
+
 </resources>
