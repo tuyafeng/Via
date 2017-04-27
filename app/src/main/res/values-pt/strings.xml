@@ -5,7 +5,7 @@
     <string name="action_new_tab">Nova guia</string>
     <string name="action_open_in_new">Abrir em nova guia</string>
     <string name="action_save_img">Salvar imagem</string>
-    <string name="action_share">Compartilhar</string>
+    <string name="action_share">COMPART</string>
     <string name="action_history">Histórico</string>
     <string name="action_bookmarks">Favoritos</string>
     <string name="action_screenshot">Capturar Tela</string>
@@ -63,7 +63,7 @@
     <string name="title_edit_bookmark">Editar Favorito</string>
     <string name="action_edit">Editar</string>
     <string name="action_incognito">Modo Privado</string>
-    <string name="action_find">Encontrar na Pãgina</string>
+    <string name="action_find">Encontrar na Página</string>
     <string name="download_pending">Iniciando download\u2026</string>
     <string name="cannot_download">Só é possível baixar de URLs \"http\" ou \"https\".</string>
     <string name="download_no_sdcard_dlg_title">Nenhum Cartão SD</string>
@@ -216,7 +216,7 @@
     <string name="text">Texto</string>
     <string name="html_code">Código HTML</string>
     <string name="action_view_image">Mostrar Imagem</string>
-    <string name="skin_colorful">Colorida</string>
+    <string name="skin_colorful">Colorido</string>
     <string name="block_popup">Bloquear Pop-up</string>
     <string name="open_window_hint">A página tentará abrir em nova janela</string>
     <string name="action_save_web_page">Salvar Páginas Web</string>
@@ -229,7 +229,7 @@
     <string name="screenshot_hint">Pode haver problemas de compatibilidade no Android 5.0+ para ter uma captura de tela completa do site. Estamos ainda à procura de soluções.</string>
     <string name="conn_timeout">A conexão expirou</string>
     <string name="already_default">Já está definido como padrão</string>
-    <string name="set_to_default">Ele será definido como padrão após usá-lo para abrir um link (1year.cc). Por favor, escolha o Via para abrir o link.</string>
+    <string name="set_to_default">Ele será definido como padrão após usá-lo para abrir um link (%s). Por favor, escolha o Via para abrir o link.</string>
     <string name="quick_back_desc">Poderá haver problemas de compatibilidade quando abrir esta opção. Você deve fechá-lo se acontecer isso.</string>
     <string name="sync_prompt">Isso irá substituir o seu local atual favorito e configurações. Continuar?</string>
     <string name="upload_prompt">Isso carregará o seu favorito e as configurações locais atuais. Continuar?</string>
@@ -258,4 +258,23 @@
     <string name="clear_all_script">Remover todos os scripts</string>
     <string name="toast_copy_domain_successful">Domínio copiado com sucesso</string>
     <string name="help_us_translate">Ajude-nos a traduzir</string>
+    <string name="action_more">Mais</string>
+    <string name="download_manager">Gerenciar de download</string>
+    <string name="action_fullscreen">Tela cheia</string>
+    <string name="settings_general">Geral</string>
+    <string name="adblock_info">%1$d anúncios foram bloqueados, %2$s salvos</string>
+    <string name="ui_simple">Simples</string>
+    <string name="clear_cache_on_exit">Apagar o cache ao sair</string>
+    <string name="operation_hint">Gesto, Hábitos operacionais, etc</string>
+    <string name="pull_to_refresh_gesture">Puxe para atualizar</string>
+    <string name="toolbar_settings_hint">Clique em um evento abaixo e segure para mudar as predefinições.</string>
+    <string name="import_or_export_bookmarks">Importar/Exportar marcadores</string>
+    <string name="skin_bg">Fundo</string>
+    <string name="skin_style">Estilo</string>
+    <string name="skin_fruity">Frutas</string>
+    <string name="skin_transparent">Transparente</string>
+    <string name="skin_settings">Configuração</string>
+    <string name="skin_hide_search_part">Ocultar barra de pesquisa</string>
+    <string name="background_opacity">Opacidade de fundo</string>
+    <string name="empty_script_hint">Sem scripts. \nVocê pode clicar no botão mais para adicionar scripts ou clique abaixo.</string>
 </resources>

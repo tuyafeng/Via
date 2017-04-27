@@ -250,7 +250,7 @@
 
     <string name="already_default">It already be set to default</string>
 
-    <string name="set_to_default">It will be set to default after using it open link(1year.cc), please choose via to open the link.</string>
+    <string name="set_to_default">It will be set to default after using it open link(%s), please choose via to open the link.</string>
 
     <string name="quick_back_desc">There may be compatibility issues when you open this switch. You should close it when you found going back work not well.</string>
     <string name="sync_prompt">It will overwrite your current local bookmark and settings. Continue?</string>
@@ -331,5 +331,28 @@
     <string name="action_close_all_tabs">Close all tabs</string>
     <string name="skin_hide_search_part">Hide Search Part</string>
     <string name="action_more">More</string>
+    <string name="action_exit">Exit</string>
+    <string name="set_as_default">Set it as your default browser?</string>
+    <string name="exit_incognito_title">Exit Incognito Browsing</string>
+    <string name="exit_incognito_dialog">Do you want to close all tabs before disabling \"Incognito\"?</string>
+    <string name="file_size">File size</string>
+    <string name="update">Update</string>
+    <string name="update_msg">There is a new version available. Would you like to update now?</string>
+    <string name="ignore">Ignore</string>
+    <string name="share_script">Script for %1$s, copy this message and open via to import it. viascript{%2$s}</string>
+    <string name="share_online_script">Script for %1$s, copy this message and open link %2$s with via to install it.</string>
+    <string name="import_script">Import the script for %1$s from clipboard?\nWarning: Script maybe not safe. Please make sure it is safe.\nScript:\n</string>
+    <string name="share_rule">The rule that block ads of %1$s, copy this message and open via to import it. viarule{%2$s}</string>
+    <string name="import_rule">Import the rule that block ads of %1$s from clipboard?</string>
+    <string name="share_url">This is a secret url, copy this message and open via to view it. viaurl{%1$s}</string>
+    <string name="import_url">Open the link from clipboard?\nlink: %1$s</string>
+    <string name="import_successful">Import successful</string>
+    <string name="all_sites">all sites</string>
+    <string name="easter_egg">Easter Egg(AD)</string>
+    <string name="action_click_to_view">Click to View</string>
+    <string name="join_us">Join us</string>
+    <string name="share_explanation">Encrypted sharing: only view it with via. \nShare: share the link of current page.</string>
+    <string name="action_secret_share">Encrypted sharing</string>
+    <string name="action_normal_share">Share</string>
 
 </resources>

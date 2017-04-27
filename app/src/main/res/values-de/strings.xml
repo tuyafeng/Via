@@ -243,7 +243,7 @@
 
     <string name="already_default">Bereits als Standard festgelegt</string>
 
-    <string name="set_to_default">Es wird als Standard festgelegt, nachdem der Link geöffnet wird (1year.cc), bitte Via wählen, um den Link zu öffnen.</string>
+    <string name="set_to_default">Es wird als Standard festgelegt, nachdem der Link geöffnet wird (%s), bitte Via wählen, um den Link zu öffnen.</string>
 
     <string name="quick_back_desc">Es können Kompatibilitätsprobleme auftreten, wenn Du diesen Punkt auswählst. Du sollstest es ändern, wenn zurück nicht richtig funktioniert.</string>
     <string name="sync_prompt">Bestehende lokale Lesezeichen und Einstellungen werden überschrieben. Fortfahren?</string>

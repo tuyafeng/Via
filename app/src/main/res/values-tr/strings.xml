@@ -243,7 +243,7 @@
 
     <string name="already_default">Zaten varsayılan ayarlanmış</string>
 
-    <string name="set_to_default">Açık bağlantıyı (1year.cc) kullandıktan sonra varsayılan olarak ayarlanacaktır, lütfen bağlantıyı açmak için via seçeneğini seçiniz.</string>
+    <string name="set_to_default">Açık bağlantıyı (%s) kullandıktan sonra varsayılan olarak ayarlanacaktır, lütfen bağlantıyı açmak için via seçeneğini seçiniz.</string>
 
     <string name="quick_back_desc">Bu ayarı açtığınızda uyumluluk sorunu olabilir.Eğer sorun varsa bu ayarı kapatınız.</string>
     <string name="sync_prompt">Ayarları ve geçerli konum üzerine yazılır. Devam edilsin mi?</string>
