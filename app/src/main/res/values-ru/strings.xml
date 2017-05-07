@@ -335,5 +335,24 @@
     <string name="set_as_default">Установить браузером по умолчанию?</string>
     <string name="exit_incognito_title">Выход из режима \"инкогнито\"</string>
     <string name="exit_incognito_dialog">Закрыть все вкладки перед отключением \"инкогнито\"?</string>
+    <string name="file_size">Размер файла</string>
+    <string name="update">Обновить</string>
+    <string name="update_msg">Доступна новая версия. Обновить сейчас?</string>
+    <string name="ignore">Игнорировать</string>
+    <string name="share_script">Сценарий для %1$s, скопируйте это сообщение и откройте Via для его импортирования. viascript{%2$s}</string>
+    <string name="share_online_script">Сценарий для %1$s, скопируйте это сообщение и откройте ссылку %2$s в Via для его установки.</string>
+    <string name="import_script">Импортировать сценарий для %1$s из буфера обмена?\nВнимание: сценарий может быть опасным. Убедитесь в его безопасности.\nСценарий:\n</string>
+    <string name="share_rule">Правило для блокировки рекламы %1$s, скопируйте это сообщение и откройте Via для его импортирования. viarule{%2$s}</string>
+    <string name="import_rule">Импортировать правило для блокировки рекламы %1$s из буфера обмена?</string>
+    <string name="share_url">Это приватная ссылка, скопируйте данное сообщение и откройте ссылку в Via для её просмотра. viaurl{%1$s}</string>
+    <string name="import_url">Открыть ссылку из буфера обмена?\nСсылка: %1$s</string>
+    <string name="import_successful">Успешное импортирование</string>
+    <string name="all_sites">все сайты</string>
+    <string name="easter_egg">Пасхальное яйцо (реклама)</string>
+    <string name="action_click_to_view">Нажмите для просмотра</string>
+    <string name="join_us">Присоединиться к нам</string>
+    <string name="share_explanation">Приватный обмен: только просмотр через Via.\nПростой обмен: поделиться ссылкой на текущую страницу.</string>
+    <string name="action_secret_share">Приватный обмен</string>
+    <string name="action_normal_share">Простой обмен</string>
 
 </resources>
