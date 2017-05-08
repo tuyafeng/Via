@@ -335,5 +335,24 @@
     <string name="set_as_default">Set it as your default browser?</string>
     <string name="exit_incognito_title">Exit Incognito Browsing</string>
     <string name="exit_incognito_dialog">Do you want to close all tabs before disabling \"Incognito\"?</string>
+    <string name="file_size">File size</string>
+    <string name="update">Update</string>
+    <string name="update_msg">There is a new version available. Would you like to update now?</string>
+    <string name="ignore">Ignore</string>
+    <string name="share_script">Script for %1$s, copy this message and open via to import it. viascript{%2$s}</string>
+    <string name="share_online_script">Script for %1$s, copy this message and open link %2$s with via to install it.</string>
+    <string name="import_script">Import the script for %1$s from clipboard?\nWarning: Script maybe not safe. Please make sure it is safe.\nScript:\n</string>
+    <string name="share_rule">The rule that block ads of %1$s, copy this message and open via to import it. viarule{%2$s}</string>
+    <string name="import_rule">Import the rule that block ads of %1$s from clipboard?</string>
+    <string name="share_url">This is a secret url, copy this message and open via to view it. viaurl{%1$s}</string>
+    <string name="import_url">Open the link from clipboard?\nlink: %1$s</string>
+    <string name="import_successful">Import successful</string>
+    <string name="all_sites">all sites</string>
+    <string name="easter_egg">Easter Egg(AD)</string>
+    <string name="action_click_to_view">Click to View</string>
+    <string name="join_us">Join us</string>
+    <string name="share_explanation">Encrypted sharing: only view it with via. \nShare: share the link of current page.</string>
+    <string name="action_secret_share">Encrypted sharing</string>
+    <string name="action_normal_share">Share</string>
 
 </resources>
