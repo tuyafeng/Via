@@ -30,7 +30,6 @@
     <string name="fullscreen">На весь экран</string>
     <string name="java">Использовать \"JavaScript\"</string>
     <string name="download">Загружать в</string>
-
     <string name="size">Размер текста</string>
     <string name="search">Поисковая система</string>
     <string name="search_hint">Поиск</string>
@@ -63,7 +62,7 @@
     <string name="hint_folder">Папка</string>
     <string name="title_edit_bookmark">Изменить Закладку</string>
     <string name="action_edit">Редактировать</string>
-    <string name="action_incognito">Режим \"Инкогнито\"</string>
+    <string name="action_incognito">Режим \"инкогнито\"</string>
     <string name="action_find">Найти на странице</string>
     <string name="download_pending">Начинается загрузка...</string>
     <string name="cannot_download">Скачивать можно только по \"http\" или \"https\" ссылкам.</string>
@@ -73,7 +72,6 @@
     <string name="download_sdcard_busy_dlg_msg">Накопитель занят. Чтобы разрешить загрузки, отключите USB-накопитель в уведомлениях.</string>
     <string name="message_import">Закладок импортировано</string>
     <string name="custom_url">Свой</string>
-
     <string name="baidu_url">Baidu</string>
     <string name="shenma_url">ShenMa</string>
     <string name="bing_url">Bing</string>
@@ -94,7 +92,6 @@
     <string name="action_dont_allow">ОТМЕНА</string>
     <string name="title_sign_in">ВХОД</string>
     <string name="hint_username">Логин</string>
-
     <string name="hint_password">Пароль</string>
     <string name="untitled">Без названия</string>
     <string name="image_auto">Картинки: Wi-Fi</string>
@@ -116,7 +113,7 @@
     <string name="toast_operation_failed">Ошибка, при выполнении операции.</string>
     <string name="toast_operation_done">Операция выполнена!</string>
     <string name="volume">Прокрутка кнопками громкости</string>
-    <string name="intent">Разрешить переадресацию Веб-сайта на приложение</string>
+    <string name="intent">Разрешить переадресацию сайта на приложение</string>
     <string name="msg_intent">Открыть приложение?</string>
     <string name="dialog_adblock">Встроенный: Используется встроенный файл hosts.\n\nВнешний: Используется внешний файл hosts, а при его отсутствии, последний, скачивается из сети.</string>
     <string name="dialog_adblock_default">ВСТРОЕННЫЙ</string>
@@ -212,7 +209,7 @@
     <string name="data_cache">Кэш</string>
     <string name="data_form_data">Данные форм</string>
     <string name="data_history">История</string>
-    <string name="data_storage">Веб-хранилище</string>
+    <string name="data_storage">Web-хранилище</string>
     <string name="data_cookies">Cookies</string>
     <string name="data_cleared">Данные очищены!</string>
 
@@ -333,8 +330,26 @@
     <string name="skin_hide_search_part">Скрыть панель \"Поиска\"</string>
     <string name="action_more">Ещё</string>
     <string name="action_exit">Выход</string>
-    <string name="set_as_default">Усановить браузером по умолчанию?</string>
-    <string name="exit_incognito_title">Выход из режима \"Инкогнито\"</string>
-    <string name="exit_incognito_dialog">Закрыть все Вкладки перед отключением режима \"Инкогнито\"?</string>
+    <string name="exit_incognito_title">Выход из режима \"инкогнито\"</string>
+    <string name="exit_incognito_dialog">Закрыть все вкладки перед отключением \"инкогнито\"?</string>
+    <string name="file_size">Размер файла</string>
+    <string name="update">Обновить</string>
+    <string name="update_msg">Доступна новая версия. Обновить сейчас?</string>
+    <string name="ignore">Игнорировать</string>
+    <string name="share_script">Сценарий для %1$s, скопируйте это сообщение и откройте Via для его импортирования. viascript{%2$s}</string>
+    <string name="share_online_script">Сценарий для %1$s, скопируйте это сообщение и откройте ссылку %2$s в Via для его установки.</string>
+    <string name="import_script">Импортировать сценарий для %1$s из буфера обмена?\nВнимание: сценарий может быть опасным. Убедитесь в его безопасности.\nСценарий:\n</string>
+    <string name="share_rule">Правило для блокировки рекламы %1$s, скопируйте это сообщение и откройте Via для его импортирования. viarule{%2$s}</string>
+    <string name="import_rule">Импортировать правило для блокировки рекламы %1$s из буфера обмена?</string>
+    <string name="share_url">Это приватная ссылка, скопируйте данное сообщение и откройте ссылку в Via для её просмотра. viaurl{%1$s}</string>
+    <string name="import_url">Открыть ссылку из буфера обмена?\nСсылка: %1$s</string>
+    <string name="import_successful">Успешное импортирование</string>
+    <string name="all_sites">все сайты</string>
+    <string name="easter_egg">Пасхальное яйцо (реклама)</string>
+    <string name="action_click_to_view">Нажмите для просмотра</string>
+    <string name="join_us">Присоединиться к нам</string>
+    <string name="share_explanation">Приватный обмен: только просмотр через Via.\nПростой обмен: поделиться ссылкой на текущую страницу.</string>
+    <string name="action_secret_share">Приватный обмен</string>
+    <string name="action_normal_share">Простой обмен</string>
 
 </resources>
