@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources tools:ignore="MissingTranslation" xmlns:tools="http://schemas.android.com/tools">
-
     <string name="app_name">Via</string>
     <string name="action_new_tab">Nueva pestaña</string>
     <string name="action_open_in_new">Abrir en nueva pestaña</string>
@@ -11,10 +10,9 @@
     <string name="action_screenshot">Captura de pantalla</string>
     <string name="bookmarks_file">Exportar marcadores</string>
     <string name="action_add_bookmark">Añadir marcador</string>
-    <string name="action_night">Modo nocturno</string>
+    <string name="action_night">Modo noche</string>
     <string name="action_copy">Copiar enlace</string>
     <string name="action_copy_domain">Copiar dominio</string>
-
     <string name="action_image_off">Bloquear imagen</string>
     <string name="settings">Ajustes</string>
     <string name="location">Acceso de ubicación</string>
@@ -27,20 +25,16 @@
     <string name="orientation_portrait">Vertical</string>
     <string name="orientation_landscape">Horizontal</string>
     <string name="agent">User Agent</string>
-	
     <string name="home">Página principal</string>
     <string name="fullscreen">Auto ocultar barra de navegación</string>
     <string name="java">Activar JavaScript</string>
-    <string name="download">Ubicación de descargas</string>
-
+    <string name="download">Ruta de descargas</string>
     <string name="size">Tamaño del texto</string>
     <string name="search">Motor de búsqueda</string>
     <string name="search_hint">Buscar</string>
-
     <string name="action_delete">Borrar</string>
     <string name="action_delete_all">Borrar todo</string>
     <string name="action_blank">Página en blanco</string>
-
     <string name="agent_chrome">Chrome (PC)</string>
     <string name="agent_ie">IE 11 (PC)</string>
     <string name="agent_iphone">iPhone</string>
@@ -48,15 +42,12 @@
     <string name="agent_custom">Personalizado</string>
     <string name="title_search_engine">Motor de búsqueda</string>
     <string name="action_ok">Aceptar</string>
-    <string name="dialog_download">¿Desea descargar este archivo?</string>
+    <string name="dialog_download">¿Quiere descargar este archivo?</string>
     <string name="action_cancel">Cancelar</string>
     <string name="title_warning">Advertencia</string>
-
-	
     <string name="title_user_agent">User Agent</string>
     <string name="title_custom_homepage">Página principal personalizada</string>
     <string name="action_webpage">Página web</string>
-
     <string name="action_yes">Aceptar</string>
     <string name="action_no">Cancelar</string>
     <string name="title_text_size">Tamaño del texto</string>
@@ -71,15 +62,13 @@
     <string name="title_edit_bookmark">Editar marcador</string>
     <string name="action_edit">Editar esto</string>
     <string name="action_incognito">Modo incognito</string>
-
     <string name="action_find">Buscar en página</string>
     <string name="download_pending">Iniciando descarga\u2026</string>
     <string name="cannot_download">Sólo puede descargar desde URLs \"http\" o \"https\".</string>
     <string name="download_no_sdcard_dlg_title">No hay tarjeta SD</string>
     <string name="download_no_sdcard_dlg_msg">Un almacenamiento USB es necesario para descargar el archivo.</string>
     <string name="download_sdcard_busy_dlg_title">Almacenamiento USB no disponible</string>
-    <string name="download_sdcard_busy_dlg_msg">El almacenamiento está ocupado. Toque Desactivar Almacenamiento USB en la notificación.</string>
-
+    <string name="download_sdcard_busy_dlg_msg">El almacenamiento está ocupado. Para permitir descargas, toque Desactivar Almacenamiento USB en la notificación.</string>
     <string name="message_import">Los marcadores fueron importados</string>
     <string name="custom_url">URL personalizada</string>
     <string name="baidu_url">Baidu</string>
@@ -96,7 +85,7 @@
     <string name="block_ads">Bloquear anuncios</string>
     <string name="message_untrusted_certificate">El certificado del sitio no es de confianza. ¿Continuar de todos modos?</string>
     <string name="title_form_resubmission">Reenvio de formulario</string>
-    <string name="message_form_resubmission">¿Desea volver a enviar los datos?</string>
+    <string name="message_form_resubmission">¿Quiere volver a enviar los datos?</string>
     <string name="message_location">\nQuiero usar mi ubicación</string>
     <string name="action_allow">Permitir</string>
     <string name="action_dont_allow">No permitir</string>
@@ -107,27 +96,24 @@
     <string name="image_auto">Ver imágenes vía WIFI</string>
     <string name="image_on">Bloquear imágenes</string>
     <string name="image_off">Ver imágenes</string>
-
     <string name="title_file_chooser">Selector de archivos</string>
-    <string name="import_backup">Importar marcadores desde backup</string>
+    <string name="import_backup">Importar marcadores</string>
     <string name="bookmark_export_path">Marcadores exportados a\n</string>
     <string name="import_bookmark_error">No se pudo importar marcadores desde el archivo</string>
-
-    <string name="feedback">Feedback</string>
+    <string name="feedback">Comentarios</string>
     <string name="message_add_bookmark">Marcador añadido exitosamente</string>
     <string name="message_exit">Presione una vez más para salir</string>
-
     <string name="web_screenshot">Captura de pantalla del sitio</string>
     <string name="screenshot_all">Todo</string>
     <string name="screenshot_now">Visible</string>
     <string name="dialog_message">Mensaje</string>
     <string name="toast_wait_a_minute">Espere un momento&#8230;</string>
-    <string name="toast_save_to">Guardar a archivo: </string>
+    <string name="toast_save_to">Guardar archivo a: </string>
     <string name="toast_operation_failed">Operación fallida.</string>
     <string name="toast_operation_done">Operación realizada.</string>
     <string name="volume">Usar tecla de volumen para desplazarse</string>
-    <string name="intent">Permitir al sitio web redireccionar a la app</string>
-    <string name="msg_intent">¿Desea abrir su aplicación?</string>
+    <string name="intent">Permitir al sitio redireccionar a la app</string>
+    <string name="msg_intent">¿Quiere abrir su aplicación?</string>
     <string name="dialog_adblock">Bloqueo por defecto: Usar hosts.txt local para bloquear anuncios\n\nBloqueo personalizado: Usar hosts.txt almacenado, descargará un archivo si no existe.</string>
     <string name="dialog_adblock_default">Bloqueo por defecto</string>
     <string name="dialog_adblock_custom">Bloqueo personalizado</string>
@@ -135,12 +121,10 @@
     <string name="dialog_adblock_custom_hint">\nPor favor no cambie la ruta o nombre del archivo. Puede editar este archivo para personalizar su propia lista de bloqueo.</string>
     <string name="setting_default">Establecer como navegador predeterminado</string>
     <string name="toast_clear_defaults">Por favor borre los valores por defecto</string>
-
     <string name="toast_copy_url_successful">URL copiada exitosamente</string>
     <string name="toast_copy_text_successful">Texto copiado exitosamente</string>
     <string name="incognito_on">Modo incognito activado</string>
     <string name="incognito_off">Modo incognito desactivado</string>
-
     <string name="operation_none">Ninguno</string>
     <string name="operation_reload">Recargar</string>
     <string name="operation_top">Ir hasta arriba</string>
@@ -152,14 +136,12 @@
     <string name="operation_openhistory">Abrir historial</string>
     <string name="operation_closetab">Cerrar pestaña</string>
     <string name="operation_lasttab">Última pestaña</string>
-    <string name="operation_nexttab">Pestaña siguiente</string>
+    <string name="operation_nexttab">Siguiente pestaña</string>
     <string name="operation_goback">Volver</string>
     <string name="operation_goforward">Avanzar</string>
     <string name="operation_find">Buscar en página</string>
-
     <string name="settings_ad_rules">Anuncios marcados</string>
     <string name="settings_operation">Operaciones</string>
-
     <string name="settings_privacy">Privacidad</string>
     <string name="settings_advanced">Avanzado</string>
     <string name="settings_about">Acerca de</string>
@@ -167,13 +149,11 @@
     <string name="url_box_domain">Dominio</string>
     <string name="url_box_url">URL</string>
     <string name="url_box_title">Título</string>
-
     <string name="action_pcview">Sitio de escritorio</string>
     <string name="action_source">Ver código fuente</string>
     <string name="action_translate">Traducir</string>
     <string name="title_edit_folder">Editar carpeta</string>
     <string name="msg_delete_folder">¿Borrar esta carpeta?</string>
-
     <string name="desc_suggestion">sugerencia</string>
     <string name="desc_search">buscar en página</string>
     <string name="desc_reload">recargar</string>
@@ -183,21 +163,18 @@
     <string name="desc_tab">pestaña</string>
     <string name="desc_menu">menú</string>
     <string name="desc_filedic">archivo</string>
-
     <string name="desc_other">otro</string>
-
     <string name="msg_setgoogle">¿Establecer motor de búsqueda de Google ahora?</string>
     <string name="action_mark">Marcar como anuncio</string>
     <string name="settings_block">Adblock</string>
-    <string name="dialog_confirm_block">¿Desea marcar esto como anuncio?</string>
-
-    <string name="do_not_track">Do Not Track</string>
+    <string name="dialog_confirm_block">¿Quiere marcar esto como anuncio?</string>
+    <string name="do_not_track">No rastrearme</string>
     <string name="get_more_rules">Obtener más reglas</string>
     <string name="add_rule">Añadir regla</string>
     <string name="hint_tags">Etiquetas</string>
     <string name="clear_ad_rules">Limpiar todas las reglas</string>
     <string name="color_mode">Modo de color</string>
-    <string name="dialog_sure">¿Está seguro que desea hacer esto?</string>
+    <string name="dialog_sure">¿Está seguro que quiere hacer esto?</string>
     <string name="action_send_to_launcher">Enviar al launcher</string>
     <string name="settings_cloud">Cuenta</string>
     <string name="user">Ingresar/Registrarse</string>
@@ -214,7 +191,7 @@
     <string name="crash_restart">Reiniciar app</string>
     <string name="crash_close">Cerrar app</string>
     <string name="crash_upload">Subir registro de incidente</string>
-    <string name="upload_completed">Subida completada :)</string>
+    <string name="upload_completed">Subida completa :)</string>
     <string name="ui_mode">Modo de interfaz</string>
     <string name="ui_auto">Automático</string>	
     <string name="open_or_search">Abrir/Buscar</string>
@@ -225,21 +202,16 @@
     <string name="quick_back">Volver atrás sin actualizar</string>
     <string name="open_with">Abrir con&#8230;</string>
     <string name="download_completed">Descarga completada</string>
-    <string name="toast_fullscreen_on">Modo pantalla completa activado</string>
-
+    <string name="toast_fullscreen_off">Modo pantalla completa desactivado</string>
     <string name="clear_data">Limpiar datos&#8230;</string>
-
     <string name="data_cache">Memoria caché</string>
     <string name="data_form_data">Datos de formulario</string>
     <string name="data_history">Historial</string>
     <string name="data_storage">Almacenamiento web</string>
     <string name="data_cookies">Cookies</string>
     <string name="data_cleared">Datos limpiados</string>
-
     <string name="cannot_undo">Esto no se puede deshacer.</string>
-
     <string name="sync_desc">La cuenta será creada si no existe</string>
-
     <string name="settings_skin">Personalización</string>
     <string name="default_set">Por defecto</string>
     <string name="custom_set">Personalizado</string>
@@ -247,34 +219,23 @@
     <string name="picture">Imagen</string>
     <string name="text">Texto</string>
     <string name="html_code">Código HTML</string>
-
     <string name="action_view_image">Ver imagen</string>
-	   
     <string name="skin_colorful">Colorido</string>
-	<string name="skin_fruity">Afrutado</string>
+    <string name="skin_fruity">Afrutado</string>
     <string name="skin_transparent">Transparente</string>
-
     <string name="block_popup">Bloquear popups</string>
-	
     <string name="open_window_hint">El sitio web intenta abrir una nueva ventana</string>
     <string name="action_save_web_page">Guardar página web</string>
     <string name="action_saved_pages">Páginas guardadas</string>
     <string name="saved_page_successfully">Página guardada exitosamente, está en el menú de la página principal: Páginas guardadas</string>
     <string name="deleted_failed">"Borrado fallido. Archivo localizado en la ruta de descarga: "</string>
-
     <string name="empty_hint">No hay nada&#8230;</string>
-		
     <string name="network_log">Registro de conexión</string>
     <string name="catalog">Catálogo</string>
-
     <string name="screenshot_hint">Podrían haber problemas de compatibilidad en android 5.0+ para tomar una captura de pantalla completa del sitio web. Todavía estamos buscando soluciones.</string>
-
     <string name="conn_timeout">Tiempo de conexión agotado</string>
-
     <string name="already_default">Ya se ha configurado por defecto</string>
- 
     <string name="set_to_default">Se establecerá por defecto tras abrir el enlace(%s), por favor seleccione Via para abrir el enlace.</string>
-
     <string name="quick_back_desc">Podrían haber problemas de compatibilidad al abrir este interruptor. Debe cerrarlo cuando encuentre que el retorno no funciona bien.</string>
     <string name="sync_prompt">Se sobrescribiran sus marcadores y la configuración. ¿Continuar?</string>
     <string name="upload_prompt">Se subiran sus marcadores y la configuración. ¿Continuar?</string>
@@ -286,7 +247,7 @@
     <string name="location_permission">Ubicación: para sitios como Google Maps, está desactivado por defecto en los ajustes y muestra un pop-up preguntando si el sitio puede usar su ubicación cuando está activado.\n\n</string>
     <string name="phone_permission">Teléfono: para obtener información no confidencial del dispositivo para hacer simples estadísticas y recolectar errores de excepción cuando se fuerza el cierre de la app.\n\n</string>
     <string name="force_cancel">Forzar cancelación</string>
-    <string name="restore_tabs_hint">¿Restaurar las pestañas no cerradas la última vez?</string>
+    <string name="restore_tabs_hint">¿Restaurar pestañas no cerradas la última vez?</string>
     <string name="restore_tabs">Restaurar pestañas al iniciar</string>
     <string name="install_success">¡Instalación exitosa!</string>
     <string name="uninstall_success">¡Desinstalación exitosa!</string>
@@ -319,7 +280,7 @@
     <string name="glean">Recoger</string>
     <string name="contact_us">Contactarnos</string>
     <string name="official_website">Sitio web oficial</string>
-    <string name="current_language">Lenguaje actual</string>
+    <string name="current_language">Idioma actual</string>
     <string name="download_manager">Administrador de descargas</string>
     <string name="background_opacity">Opacidad del fondo</string>
     <string name="action_pic_mode">Modo de imagen</string>
@@ -346,8 +307,8 @@
     <string name="disable">Desactivar</string>
     <string name="ui_traditional">Tradicional</string>
     <string name="ui_simple">Simple</string>
-    <string name="color_mode_hint">Color operation bars when browsing</string>
-    <string name="sort_hint">Long press and drag to sort</string>
+    <string name="color_mode_hint">Color de las barras al navegar</string>
+    <string name="sort_hint">Mantenga presionado y arrastre para ordenar</string>
     <string name="action_sort_bookmarks">Sort bookmarks</string>
     <string name="desc_close">Cerrar</string>
     <string name="clear_cache_on_exit">Limpiar caché al salir</string>
@@ -357,5 +318,24 @@
     <string name="action_exit">Salir</string>
     <string name="set_as_default">¿Establecer como navegador predeterminado?</string>
     <string name="exit_incognito_title">Salir de modo incognito</string>
-    <string name="exit_incognito_dialog">¿Desea cerrar todas las pestañas antes de desactivar \"Incognito\"?</string>														   
+    <string name="exit_incognito_dialog">¿Quiere cerrar todas las pestañas antes de desactivar \"Incognito\"?</string>	
+    <string name="file_size">Tamaño del archivo</string>
+    <string name="update">Actualizar</string>
+    <string name="update_msg">Hay una nueva versión disponible. ¿Quiere actualizar ahora?</string>
+    <string name="ignore">Ignorar</string>
+    <string name="share_script">Script para %1$s, copie este mensaje y abra Via para importarlo. viascript{%2$s}</string>
+    <string name="share_online_script">Script para %1$s, copie este mensaje y abra el enlace %2$s con Via para instalarlo.</string>
+    <string name="import_script">¿Importar el script para %1$s desde el portapapeles?\nAdvertencia: El script puede ser no seguro. Por favor asegurese de que es seguro.\nScript:\n</string>
+    <string name="share_rule">Regla que bloquea anuncios de %1$s, copie este mensaje y abra Via para importarla. viarule{%2$s}</string>
+    <string name="import_rule">¿Importar regla que bloquea anuncios de %1$s desde el portapapeles?</string>
+    <string name="share_url">Esta es una URL secreta, copie este mensaje y abra Via para verla. viaurl{%1$s}</string>
+    <string name="import_url">¿Abrir enlace desde el portapapeles?\nenlace: %1$s</string>
+    <string name="import_successful">Importado exitosamente</string>
+    <string name="all_sites">todos los sitios</string>
+    <string name="easter_egg">Easter Egg(AD)</string>
+    <string name="action_click_to_view">Tocar para ver</string>
+    <string name="join_us">Unasenos</string>
+    <string name="share_explanation">Compartido encriptado: Sólo puede verse con Via. \nCompartir: compartir el enlace de la página actual.</string>
+    <string name="action_secret_share">Compartido encriptado</string>
+    <string name="action_normal_share">Compartir</string>	
 </resources>
