@@ -19,7 +19,7 @@
     <string name="location">Dostęp do lokalizacji</string>
     <string name="password">Zapisz hasła</string>
     <string name="donate">Wspomóż</string>
-    <string name="donate_details">Jeśli lubisz przeglądarkę Via browser, możesz nas wspomóc datkiem pieniężnym.\nAlipay: 2376688759@qq.com\nPayPal: wiar1824@gmail.com</string>
+    <string name="donate_details">Jeśli lubisz przeglądarkę Via, możesz nas wspomóc datkiem pieniężnym.\nAlipay: 2376688759@qq.com\nPayPal: wiar1824@gmail.com</string>
     <string name="orientation">Orientacja ekranu</string>
     <string name="orientation_system">Systemowa</string>
     <string name="orientation_auto">Automatyczna</string>
@@ -62,7 +62,7 @@
     <string name="hint_folder">Folder</string>
     <string name="title_edit_bookmark">Edytuj zakładkę</string>
     <string name="action_edit">Edytuj</string>
-    <string name="action_incognito">Tryb incognito</string>
+    <string name="action_incognito">Tryb prywatny</string>
     <string name="action_find">Znajdź na stronie/string>
     <string name="download_pending">Rozpoczynanie pobierania\u2026</string>
     <string name="cannot_download">Mogę pobierać pliki tylko przez \"http\" i \"https\".</string>
@@ -103,7 +103,7 @@
     <string name="import_bookmark_error">Nie mogę zaimportować zakładek z tego pliku</string>
     <string name="feedback">Opinia</string>
     <string name="message_add_bookmark">Zakładka została dodana</string>
-    <string name="message_exit">Naciśnij jeszcze raz aby wyjść</string>
+    <string name="message_exit">Naciśnij jeszcze raz, aby wyjść</string>
     <string name="web_screenshot">Zrzut ekranu</string>
     <string name="screenshot_all">Cała strona</string>
     <string name="screenshot_now">Widoczna część</string>
@@ -122,22 +122,22 @@
     <string name="dialog_adblock_custom_hint">\nNie możesz zmieniać nazwy ani lokalizacji pliku. Możesz natomiast zmieniać jego zawartość, aby stworzyć własną listę.</string>
     <string name="setting_default">Ustaw jako domyślną przeglądarkę</string>
     <string name="toast_clear_defaults">Wyczyść ustawienia domyślne</string>
-    <string name="toast_copy_url_successful">Adres URL został skopiowany</string>
+    <string name="toast_copy_url_successful">Adres został skopiowany</string>
     <string name="toast_copy_text_successful">Tekst został skopiowany</string>
     <string name="incognito_on">Tryb prywatny włączony</string>
     <string name="incognito_off">Tryb prywatny wyłączony</</string>
     <string name="operation_none">None</string>
-    <string name="operation_reload">Reload</string>
-    <string name="operation_top">Scroll to top</string>
-    <string name="operation_bottom">Scroll to bottom</string>
-    <string name="operation_input">Input url</string>
+    <string name="operation_reload">Odśwież</string>
+    <string name="operation_top">Przewiń do góry</string>
+    <string name="operation_bottom">Przewiń na dół</string>
+    <string name="operation_input">Wprowadź adres</string>
     <string name="operation_newtab">Nowa karta</string>
     <string name="operation_addbookmark">Dodaj zakładkę</string>
     <string name="operation_openbookmark">Otwórz zakładkę</string>
     <string name="operation_openhistory">Otwórz historię</string>
     <string name="operation_closetab">Zamknij kartę</string>
     <string name="operation_lasttab">Ostatnia karta</string>
-    <string name="operation_nexttab">Nstępna karta</string>
+    <string name="operation_nexttab">Następna karta</string>
     <string name="operation_goback">Wróć</string>
     <string name="operation_goforward">Dalej</string>
     <string name="operation_find">Znajdź na stronie</string>
@@ -155,7 +155,7 @@
     <string name="action_translate">Przełumacz stronę</string>
     <string name="title_edit_folder">Edyuj folder</string>
     <string name="msg_delete_folder">Usunąć folder?</string>
-    <string name="desc_suggestion">suggestion</string>
+    <string name="desc_suggestion">sugestie</string>
     <string name="desc_search">znajdź na stronie</string>
     <string name="desc_reload">odśwież</string>
     <string name="desc_back">wróć</string>
@@ -195,7 +195,7 @@
     <string name="upload_completed">Wysyłanie zakończone</string>
     <string name="ui_mode">Tryb interfejsu</string>
     <string name="ui_auto">Automatyczny</string>
-    <string name="open_or_search">Otwórz/szukaj</string>
+    <string name="open_or_search">Otwórz / szukaj</string>
     <string name="settings_addons">Dodatki</string>
     <string name="addon_download">Menedżer pobierania</string>
     <string name="addon_qr_code_scan">Skanowanie kodów QR</string>
@@ -203,7 +203,7 @@
     <string name="quick_back">Cofanie bez odświeżania strony</string>
     <string name="open_with">Otwórz z pomocą&#8230;</string>
     <string name="download_completed">Pobieranie zakończone</string>
-    <string name="toast_fullscreen_off">Opuść tryb  pełnoekranowy</string>
+    <string name="toast_fullscreen_off">Opuść tryb pełnoekranowy</string>
 
     <string name="clear_data">Usuń dane</string>
     <string name="data_cache">Pamięć podręczna</string>
@@ -237,7 +237,7 @@
     <string name="action_save_web_page">Zapisz stronę</string>
     <string name="action_saved_pages">Zapisane strony</string>
     <string name="saved_page_successfully">Strona została zapisana.</string>
-    <string name="deleted_failed">"Deleted Failed. The file located in download path: "</string>
+    <string name="deleted_failed">"Usunięcie nie powiodło się. Lokalizacja pliku: "</string>
 
     <string name="empty_hint">Nic tu nie ma.</string>
 
@@ -276,10 +276,10 @@
     <string name="get_more_script">Więcej skryptów</string>
     <string name="add_script">Dodaj skrypt</string>
     <string name="script_url">domena albo * (* - wszystko)</string>
-    <string name="script_code">kod (Javascript)</string>
+    <string name="script_code">kod (JavaScript)</string>
     <string name="clear_all_script">Usuń wszystkie skrypty</string>
     <string name="toast_copy_domain_successful">Kopiowanie domeny zakończone</string>
-    <string name="go_together">Go together</string>
+    <string name="go_together">Podążajmy razem</string>
     <string name="help_us_translate">Pomóż nam w tłumaczeniu aplikacji</string>
     <string name="confirm_to_leave">Potwierdź wyjście</string>
     <string name="leave">Opuść</string>
@@ -319,7 +319,7 @@
     <string name="operation_hint">Gesty, operacje, itp.</string>
     <string name="empty_ads_mark_hint">Brak oznaczonych reklam. \nMożesz przytrzymać element na stronie i wybrać \"Oznacz jako reklamę\", aby go zablokować. \nMożesz też nacisnąć poniższy przycisk.</string>
     <string name="empty_script_hint">Brak skryptów. \nNaciśnij przycisk \"+\", aby dodać skrypty. \nMożesz też nacisnąć poniższy przycisk.</string>
-    <string name="adblock_info">Reklamy zablokowane: %1$d, zachowane: %2$s.</string>
+    <string name="adblock_info">Reklamy zablokowane: %1$d, zaoszczędzony transfer: %2$s.</string>
     <string name="disable">Wyłączone</string>
     <string name="ui_traditional">Tradycyjny</string>
     <string name="ui_simple">Prosty</string>
@@ -339,20 +339,20 @@
     <string name="update">Aktualizuj</string>
     <string name="update_msg">Dostępna jest nowa wersja aplikacji. Zaktualizować teraz?</string>
     <string name="ignore">Ignoruj</string>
-    <string name="share_script">Skrpyt dla %1$s. Skopiuj tą wiadomość i otwórz aplikację Via, aby go zaimportować. viascript{%2$s}</string>
+    <string name="share_script">Skrpyt dla %1$s. Skopiuj tą wiadomość i otwórz aplikację Via, aby go zaimportować.\n viascript{%2$s}</string>
     <string name="share_online_script">Skrypt dla %1$s. Skopiuj tą wiadomość i otwórz link %2$s za pomocą aplikacji Via, aby go zainstalować.</string>
     <string name="import_script">Zaimportować skrypt dla %1$s ze schowka?\nOstrzeżenie: skrypt może być niebezpieczny.\n</string>
-    <string name="share_rule">The rule that block ads of %1$s, copy this message and open via to import it. viarule{%2$s}</string>
-    <string name="import_rule">Import the rule that block ads of %1$s from clipboard?</string>
-    <string name="share_url">This is a secret url, copy this message and open via to view it. viaurl{%1$s}</string>
-    <string name="import_url">Otworzyć link ze schowka?\nLink: %1$s</string>
+    <string name="share_rule">Reguła blokująca reklamy %1$s. Skopiuj tą wiadomość i otwórz aplikację Via, aby ją zaimportować.\n viarule{%2$s}</string>
+    <string name="import_rule">Zaimportować regułę blokującą reklamy z %1$s ze schowka?</string>
+    <string name="share_url">To jest poufny adres. Skopiuj tą wiadomość i otwórz aplikację Via aby go wyświetlić.\n viaurl{%1$s}</string>
+    <string name="import_url">Otworzyć link ze schowka?\n %1$s</string>
     <string name="import_successful">Importowanie zakończone</string>
     <string name="all_sites">wszystkie strony</string>
     <string name="easter_egg">Easter Egg(AD)</string>
-    <string name="action_click_to_view">Kliknij aby wyświetić</string>
+    <string name="action_click_to_view">Kliknij, aby wyświetić</string>
     <string name="join_us">Dołącz do nas</string>
-    <string name="share_explanation">Encrypted sharing: only view it with via. \nShare: share the link of current page.</string>
-    <string name="action_secret_share">Udostępnianie szyfrowanie</string>
-    <string name="action_normal_share">Udostępnij</string>
+    <string name="share_explanation">Udostępnienie szyfrowane: link możliwy będzie do otwarcia tylko w aplikacji Via. \nUdostępnienie normalne: link możliwy będzie do otwarcia wszędzie.</string>
+    <string name="action_secret_share">Szyfrowane</string>
+    <string name="action_normal_share">Normalne</string>
 
 </resources>
