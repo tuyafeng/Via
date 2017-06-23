@@ -3,7 +3,7 @@
 
     <string name="app_name">Via</string>
     <string name="action_new_tab">Nowa karta</string>
-    <string name="action_open_in_new">Otwórz w nowej karcie</string>
+    <string name="action_open_in_new">Otwórz i przejdź</string>
     <string name="action_save_img">Zapisz obraz</string>
     <string name="action_share">Udostępnij</string>
     <string name="action_history">Historia</string>
@@ -63,7 +63,7 @@
     <string name="title_edit_bookmark">Edytuj zakładkę</string>
     <string name="action_edit">Edytuj</string>
     <string name="action_incognito">Tryb prywatny</string>
-    <string name="action_find">Znajdź na stronie/string>
+    <string name="action_find">Znajdź na stronie</string>
     <string name="download_pending">Rozpoczynanie pobierania\u2026</string>
     <string name="cannot_download">Mogę pobierać pliki tylko przez \"http\" i \"https\".</string>
     <string name="download_no_sdcard_dlg_title">Brak nośnika zewnętrznego</string>
@@ -289,7 +289,7 @@
     <string name="skin_style">Styl paska</string>
     <string name="skin_settings">Ustawienia</string>
     <string name="set_it_as_homepage">Ustawić jako stronę domową?</string>
-    <string name="missing_webview">Systemowy moduł WebView nie jest poprawnie (lub w ogóle) zainstalowany. Czy chcesz go teraz zainstalować?</string>
+    <string name="missing_webview">Systemowy moduł WebView nie jest (poprawnie) zainstalowany. Czy chcesz go teraz zainstalować (ponownie)?</string>
     <string name="install">Instaluj</string>
     <string name="crash_hint">Bardzo przepraszamy za incydent.</string>
     <string name="upload_hint">Bardzo przepraszamy za niniejszy incydent. Możesz przesłać do nas logi, abyśmy mogli to naprawić. Wysłać je teraz?</string>
@@ -348,7 +348,7 @@
     <string name="import_url">Otworzyć link ze schowka?\n %1$s</string>
     <string name="import_successful">Importowanie zakończone</string>
     <string name="all_sites">wszystkie strony</string>
-    <string name="easter_egg">Easter Egg(AD)</string>
+    <string name="easter_egg">Easter Egg (rekalma)</string>
     <string name="action_click_to_view">Kliknij, aby wyświetić</string>
     <string name="join_us">Dołącz do nas</string>
     <string name="share_explanation">Udostępnienie szyfrowane: link możliwy będzie do otwarcia tylko w aplikacji Via. \nUdostępnienie normalne: link możliwy będzie do otwarcia wszędzie.</string>
