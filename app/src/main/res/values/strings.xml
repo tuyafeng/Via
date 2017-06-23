@@ -83,7 +83,7 @@
     <string name="yandex_url">Yandex</string>
     <string name="google_url">Google</string>
     <string name="sougou_url">Sougou</string>
-    <string name="block_ads">Blokuj reklamy</string>
+    <string name="block_ads">Blokowanie reklam</string>
     <string name="message_untrusted_certificate">Certyfikat strony nie jest zaufany. Kontynuować mimo to?</string>
     <string name="title_form_resubmission">Ponowne wysłanie danych</string>
     <string name="message_form_resubmission">Czy chcesz ponownie wysłać dane?</string>
@@ -289,7 +289,7 @@
     <string name="skin_style">Styl paska</string>
     <string name="skin_settings">Ustawienia</string>
     <string name="set_it_as_homepage">Ustawić jako stronę domową?</string>
-    <string name="missing_webview">Systemowy moduł WebView nie jest poprawnie zainstalowany. Czy chcesz go teraz zainstalować?</string>
+    <string name="missing_webview">Systemowy moduł WebView nie jest poprawnie (lub w ogóle) zainstalowany. Czy chcesz go teraz zainstalować?</string>
     <string name="install">Instaluj</string>
     <string name="crash_hint">Bardzo przepraszamy za incydent.</string>
     <string name="upload_hint">Bardzo przepraszamy za niniejszy incydent. Możesz przesłać do nas logi, abyśmy mogli to naprawić. Wysłać je teraz?</string>
@@ -320,7 +320,7 @@
     <string name="empty_ads_mark_hint">Brak oznaczonych reklam. \nMożesz przytrzymać element na stronie i wybrać \"Oznacz jako reklamę\", aby go zablokować. \nMożesz też nacisnąć poniższy przycisk.</string>
     <string name="empty_script_hint">Brak skryptów. \nNaciśnij przycisk \"+\", aby dodać skrypty. \nMożesz też nacisnąć poniższy przycisk.</string>
     <string name="adblock_info">Reklamy zablokowane: %1$d, zachowane: %2$s.</string>
-    <string name="disable">Wyłącz</string>
+    <string name="disable">Wyłączone</string>
     <string name="ui_traditional">Tradycyjny</string>
     <string name="ui_simple">Prosty</string>
     <string name="color_mode_hint">Koloruj interfejs podczas przeglądania</string>
@@ -339,9 +339,9 @@
     <string name="update">Aktualizuj</string>
     <string name="update_msg">Dostępna jest nowa wersja aplikacji. Zaktualizować teraz?</string>
     <string name="ignore">Ignoruj</string>
-    <string name="share_script">Script for %1$s, copy this message and open via to import it. viascript{%2$s}</string>
-    <string name="share_online_script">Script for %1$s, copy this message and open link %2$s with via to install it.</string>
-    <string name="import_script">Import the script for %1$s from clipboard?\nWarning: Script maybe not safe. Please make sure it is safe.\nScript:\n</string>
+    <string name="share_script">Skrpyt dla %1$s. Skopiuj tą wiadomość i otwórz aplikację Via, aby go zaimportować. viascript{%2$s}</string>
+    <string name="share_online_script">Skrypt dla %1$s. Skopiuj tą wiadomość i otwórz link %2$s za pomocą aplikacji Via, aby go zainstalować.</string>
+    <string name="import_script">Zaimportować skrypt dla %1$s ze schowka?\nOstrzeżenie: skrypt może być niebezpieczny.\n</string>
     <string name="share_rule">The rule that block ads of %1$s, copy this message and open via to import it. viarule{%2$s}</string>
     <string name="import_rule">Import the rule that block ads of %1$s from clipboard?</string>
     <string name="share_url">This is a secret url, copy this message and open via to view it. viaurl{%1$s}</string>
