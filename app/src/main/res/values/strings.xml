@@ -94,7 +94,7 @@
   <string name="hint_username">Username</string>
   <string name="hint_password">Password</string>
   <string name="untitled">Untitled</string>
-  <string name="image_auto">Tampilakan gambar via Wi-Fi</string>
+  <string name="image_auto">Tampilkan gambar via Wi-Fi</string>
   <string name="image_on">Blokir gambar</string>
   <string name="image_off">Tampilkan gambar</string>
   <string name="title_file_chooser">Pemilih File</string>
