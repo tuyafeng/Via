@@ -214,8 +214,7 @@
     <string name="sync_desc">La cuenta será creada si no existe</string>
     <string name="settings_skin">Personalización</string>
     <string name="default_set">Por defecto</string>
-    <string name="custom_set">Personalizado</string>
-    <string name="num_of_bookmarks_in_home">Número de marcadores en la página principal</string>	
+    <string name="num_of_bookmarks_in_home">Número de marcadores en la página principal</string>
     <string name="picture">Imagen</string>
     <string name="text">Texto</string>
     <string name="html_code">Código HTML</string>

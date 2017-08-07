@@ -125,7 +125,7 @@
     <string name="toast_copy_url_successful">Adres został skopiowany</string>
     <string name="toast_copy_text_successful">Tekst został skopiowany</string>
     <string name="incognito_on">Tryb prywatny włączony</string>
-    <string name="incognito_off">Tryb prywatny wyłączony</</string>
+    <string name="incognito_off">Tryb prywatny wyłączony</string>
     <string name="operation_none">None</string>
     <string name="operation_reload">Odśwież</string>
     <string name="operation_top">Przewiń do góry</string>
