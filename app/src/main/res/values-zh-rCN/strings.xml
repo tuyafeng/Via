@@ -347,5 +347,8 @@
     <string name="action_play_with_mxplayer">使用 MXPlayer 播放</string>
     <string name="empty_username_info">请填写你的用户名.</string>
     <string name="empty_password_info">请填写你的密码.</string>
+    <string name="offline_page_hint">下列为保存的网页. 无论手机是否联网你都可以阅览它们.</string>
+    <string name="history_page_hint_when_incognito">你当前处于隐身模式. 新的浏览记录将不会被记录.</string>
+    <string name="action_preview">预览</string>
 
 </resources>

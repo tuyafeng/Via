@@ -367,4 +367,7 @@
     <string name="action_play_with_mxplayer">Play with MXPlayer</string>
     <string name="empty_username_info">Please input your username.</string>
     <string name="empty_password_info">Please input your password.</string>
+    <string name="offline_page_hint">The following are Saved Pages. You can read it no matter whether there is a network connect.</string>
+    <string name="history_page_hint_when_incognito">You\'ve gone incognito. New history will not be recorded.</string>
+    <string name="action_preview">Preview</string>
 </resources>
