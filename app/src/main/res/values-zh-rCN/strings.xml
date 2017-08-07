@@ -350,5 +350,9 @@
     <string name="offline_page_hint">下列为保存的网页. 无论手机是否联网你都可以阅览它们.</string>
     <string name="history_page_hint_when_incognito">你当前处于隐身模式. 新的浏览记录将不会被记录.</string>
     <string name="action_preview">预览</string>
+    <string name="action_page_info">页面信息</string>
+    <string name="page_info_title">标题:</string>
+    <string name="page_info_url">页面链接:</string>
+    <string name="page_info_link">选中链接:</string>
 
 </resources>

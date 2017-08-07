@@ -123,7 +123,7 @@
     <string name="dialog_adblock_custom_hint">\nPlease do not change the file\'s path or name. You can edit this file to customize your own block list.</string>
     <string name="setting_default">Set as Default Browser</string>
     <string name="toast_clear_defaults">Please clear defaults</string>
-    <string name="toast_copy_url_successful">Copy httpUrl successful</string>
+    <string name="toast_copy_url_successful">Copy link successful</string>
     <string name="toast_copy_text_successful">Copy text successful</string>
     <string name="incognito_on">You\'ve gone incognito</string>
     <string name="incognito_off">Incognito off</string>
@@ -370,4 +370,8 @@
     <string name="offline_page_hint">The following are Saved Pages. You can read it no matter whether there is a network connect.</string>
     <string name="history_page_hint_when_incognito">You\'ve gone incognito. New history will not be recorded.</string>
     <string name="action_preview">Preview</string>
+    <string name="action_page_info">Page Info</string>
+    <string name="page_info_title">Title:</string>
+    <string name="page_info_url">Page URL:</string>
+    <string name="page_info_link">Link URL:</string>
 </resources>
