@@ -45,6 +45,7 @@
     <string name="dialog_download">您是否需要下載此檔案？</string>
     <string name="action_cancel">取消</string>
     <string name="title_warning">警告</string>
+    <!--<string name="dialog_adobe_unsupported">Adobe Flash 無法正常支援 Android 4.2 以及更高版本並且可能導致瀏覽器崩潰，若您啟用後出現瀏覽器崩潰的問題請勿對此問題進行反饋。</string>-->
     <string name="title_user_agent">使用者代理(User Agent)</string>
     <string name="title_custom_homepage">自訂首頁</string>
     <string name="action_webpage">網頁</string>
@@ -78,7 +79,7 @@
     <string name="duckduckgo_url">DuckDuckGo</string>
     <string name="startpage_url">StartPage</string>
     <string name="ask_url">Ask</string>
-    <string name="yahoo_url">雅虎</string>
+    <string name="yahoo_url">Yahoo</string>
     <string name="yandex_url">Yandex</string>
     <string name="google_url">Google</string>
     <string name="sougou_url">搜狗</string>
@@ -149,7 +150,6 @@
     <string name="url_box_title">標題</string>
     <string name="action_pcview">桌面網站</string>
     <string name="action_source">檢視原始碼</string>
-    <string name="action_translate">翻譯</string>
     <string name="desc_suggestion">建議</string>
     <string name="desc_search">在網頁內尋找</string>
     <string name="desc_reload">重新載入</string>
@@ -162,6 +162,7 @@
     <string name="desc_other">其他操作</string>
     <string name="title_edit_folder">編輯資料夾</string>
     <string name="msg_delete_folder">刪除此資料夾？</string>
+    <string name="action_translate">翻譯網頁</string>
     <string name="msg_intent">想開啟你的應用程式嗎？</string>
     <string name="msg_setgoogle">立即設定 Google 搜尋引擎嗎？</string>
     <string name="action_mark">標記為廣告</string>
@@ -222,6 +223,7 @@
     <string name="action_view_image">檢視圖片</string>
     <string name="skin_colorful">繽紛</string>
     <string name="skin_fruity">果味</string>
+    <string name="skin_transparent">透明</string>
     <string name="block_popup">封鎖快顯</string>
     <string name="open_window_hint">網站嘗試開啟一個新視窗</string>
     <string name="action_save_web_page">儲存網頁</string>
@@ -247,7 +249,7 @@
     <string name="phone_permission">電話：為了取得 Android 裝置非隱私的資訊做簡單的統計資料以及在 FC 時收集錯誤例外狀況。\n\n</string>
     <string name="force_cancel">強制取消</string>
     <string name="restore_tabs_hint">啟動時是否還原上次未關閉的分頁？</string>
-    <string name="restore_tabs">啟動時還原</string>
+    <string name="restore_tabs">啟動時還原上次關閉的分頁</string>
     <string name="install_success">安裝成功！！！</string>
     <string name="uninstall_success">解除安裝成功！！！</string>
     <string name="online_addons">線上附件元件</string>
@@ -274,7 +276,7 @@
     <string name="missing_webview">Android System WebView 未正確安裝。立即去安裝？</string>
     <string name="install">安裝</string>
     <string name="crash_hint">十分抱歉，程式出現了損毀。</string>
-    <string name="upload_hint">十分抱歉，程式出現了損毀。但你可以上傳記錄檔來協助我們做得更好，立即上傳？</string>
+    <string name="upload_hint">十分抱歉，程式出現了損毀。\n但你可以上傳記錄檔來協助我們做得更好，立即上傳？</string>
     <string name="glean">拾穗</string>
     <string name="contact_us">聯絡我們</string>
     <string name="official_website">官方網站</string>
@@ -287,25 +289,26 @@
     <string name="find_pre">尋找上一個</string>
     <string name="go_together">結伴而行</string>
     <string name="action_open_in_background">背景開啟</string>
+    <string name="cannot_work">僅支援 \"http\" 或 \"https\" 開頭的網址</string>
     <string name="action_fullscreen">全螢幕</string>
     <string name="settings_general">一般</string>
     <string name="no_bookmark">無書籤~</string>
     <string name="import_or_export_bookmarks">匯入/匯出書籤</string>
     <string name="what_is_next">接下來是什麼？</string>
-    <string name="import_">匯入</string>
-    <string name="export_">匯出</string>
+    <string name="import_">匯入書籤</string>
+    <string name="export_">匯出書籤</string>
     <string name="pull_to_refresh_gesture">下拉重新整理手勢</string>
     <string name="back_forward_gesture">前進後退手勢</string>
     <string name="toolbar_settings_hint">點選(滑動)下列按鈕來設定它的按住（滑動）事件，按住查閱已經設定了什麼。</string>
     <string name="action_modify">修改</string>
-    <string name="operation_hint">手勢、操作習慣，等等</string>
+    <string name="operation_hint">手勢、操作習慣</string>
     <string name="empty_ads_mark_hint">無被標記的廣告， \n你可以按住網頁中的廣告然後選擇\"標記為廣告\"封鎖它。 \n或者僅需點選下列按鈕。</string>
     <string name="empty_script_hint">無指令碼。 \n你可以點選右上角加號按鈕來新增指令碼。 \n或者僅需點選下列按鈕。</string>
     <string name="adblock_info">已封鎖 %1$d 個廣告，%2$s 已儲存</string>
     <string name="disable">未啟用</string>
     <string name="ui_traditional">傳統</string>
     <string name="ui_simple">簡單</string>
-    <string name="color_mode_hint">瀏覽網頁時操作列自適應色彩</string>
+    <string name="color_mode_hint">瀏覽網頁時操作列自動對應色彩</string>
     <string name="sort_hint">按住並拖曳來排序</string>
     <string name="action_sort_bookmarks">排序書簽</string>
     <string name="desc_close">關閉</string>
@@ -314,6 +317,7 @@
     <string name="skin_hide_search_part">隱藏搜尋部分</string>
     <string name="action_more">更多</string>
     <string name="action_exit">結束</string>
+    <string name="set_as_default">設定為預設瀏覽器？</string>
     <string name="exit_incognito_title">結束無痕模式</string>
     <string name="exit_incognito_dialog">結束無痕模式前關閉所有分頁？</string>
     <string name="file_size">檔案大小</string>
@@ -335,5 +339,25 @@
     <string name="share_explanation">加密分享：僅可透過 Via 檢視。 \n分享：分享目前頁面的連結。</string>
     <string name="action_secret_share">加密分享</string>
     <string name="action_normal_share">分享</string>
+    <string name="res_sniffer">資源嗅探</string>
+    <string name="search_by_pic">以圖搜圖</string>
+    <string name="resource_sniffer">資源嗅探</string>
+    <string name="res_log_hint">點擊項目來預覽， 長按項目來下載或進行其它操作。</string>
+    <string name="resource_sniffer_hint">\n備註：音樂或影片在播放時更容易被擷取</string>
+    <string name="no_resource">這個頁面沒有資源。</string>
+    <string name="no_network_log">這個頁面沒有網路日誌。</string>
+    <string name="action_download">下載</string>
+    <string name="action_tools">工具箱</string>
+    <string name="action_ua">瀏覽器的使用者代理</string>
+    <string name="action_play_with_mxplayer">使用 MX Player 播放</string>
+    <string name="empty_username_info">請填寫你的使用者名稱</string>
+    <string name="empty_password_info">請填寫你的密碼</string>
+    <string name="offline_page_hint">下列為儲存的網頁 無論手機是否聯網你都可以閱覽它們</string>
+    <string name="history_page_hint_when_incognito">你目前處於隱身模式。新的瀏覽記錄將不會被記錄。</string>
+    <string name="action_preview">預覽</string>
+    <string name="action_page_info">頁面訊息</string>
+    <string name="page_info_title">標題：</string>
+    <string name="page_info_url">頁面連結：</string>
+    <string name="page_info_link">選取連結：</string>
 
 </resources>
