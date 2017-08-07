@@ -289,8 +289,8 @@
     <string name="no_bookmark">没有书签~</string>
     <string name="import_or_export_bookmarks">导入/备份书签</string>
     <string name="what_is_next">接下来做什么?</string>
-    <string name="import_">导入</string>
-    <string name="export_">备份</string>
+    <string name="import_">导入书签</string>
+    <string name="export_">备份书签</string>
     <string name="pull_to_refresh_gesture">下拉刷新</string>
     <string name="back_forward_gesture">滑动屏幕边缘前进后退</string>
     <string name="toolbar_settings_hint">点击(滑动)下列按钮来设置它的长按事件, 长按查看它的事件.</string>
@@ -334,5 +334,18 @@
     <string name="share_explanation">加密分享: 仅可通过 via 查看. \n分享: 分享当前网站链接.</string>
     <string name="action_secret_share">加密分享</string>
     <string name="action_normal_share">分享</string>
+    <string name="res_sniffer">资源嗅探</string>
+    <string name="search_by_pic">以图搜图</string>
+    <string name="resource_sniffer">资源嗅探</string>
+    <string name="res_log_hint">点击项目来预览, 长按项目来下载或进行其它操作.</string>
+    <string name="resource_sniffer_hint">\n注: 音乐或视频在播放时更容易被获取.</string>
+    <string name="no_resource">这个页面没有资源.</string>
+    <string name="no_network_log">这个页面没有网络日志.</string>
+    <string name="action_download">下载</string>
+    <string name="action_tools">工具箱</string>
+    <string name="action_ua">浏览器标识</string>
+    <string name="action_play_with_mxplayer">使用 MXPlayer 播放</string>
+    <string name="empty_username_info">请填写你的用户名.</string>
+    <string name="empty_password_info">请填写你的密码.</string>
 
 </resources>
