@@ -354,5 +354,6 @@
     <string name="page_info_title">标题:</string>
     <string name="page_info_url">页面链接:</string>
     <string name="page_info_link">选中链接:</string>
+    <string name="action_copy_text">复制文本</string>
 
 </resources>

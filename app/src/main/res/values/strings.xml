@@ -14,6 +14,7 @@
     <string name="action_night">Night Mode</string>
     <string name="action_copy">Copy Link</string>
     <string name="action_copy_domain">Copy Domain</string>
+    <string name="action_copy_text">Copy Text</string>
     <string name="action_image_off">Block image</string>
     <string name="action_tools">Tools</string>
     <string name="settings">Settings</string>
