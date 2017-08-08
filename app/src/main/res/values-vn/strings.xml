@@ -91,8 +91,7 @@
     <string name="message_location">\nBạn có muốn sử dụng vị trí của bạn</string>
     <string name="action_allow">Đồng ý</string>
     <string name="action_dont_allow">Từ chối</string>
-    <string name="title_sign_in">Đăng ký
-        </string>
+    <string name="title_sign_in">Đăng ký</string>
     <string name="hint_username">Tên người dùng</string>
     <string name="hint_password">Mật khẩu</string>
     <string name="untitled">Không có tiêu đề</string>
