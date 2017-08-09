@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
-    <string name="app_name">Via браузер</string>
+    <string name="app_name">Via Браузер</string>
     <string name="action_new_tab">Нова вкладка</string>
     <string name="action_open_in_new">Відкрити в новій вкладці</string>
     <string name="action_save_img">Зберегти зображення</string>
@@ -13,7 +13,9 @@
     <string name="action_night">Нічний режим</string>
     <string name="action_copy">Копіювати посилання</string>
     <string name="action_copy_domain">Копіювати домен</string>
+    <string name="action_copy_text">Копіювати текст</string>
     <string name="action_image_off">Без зображень</string>
+    <string name="action_tools">Інструменти</string>
     <string name="settings">Налаштування</string>
     <string name="location">Повідомляти розташування</string>
     <string name="password">Зберігати паролі</string>
@@ -239,7 +241,7 @@
     <string name="quick_back_desc">Можуть виникнути проблеми сумісності при включенні цього перемикача. Вам слід вимкнути його, якщо функція буде працювати нестабільно.</string>
     <string name="sync_prompt">Будуть синхронізовані поточні локальні закладки і налаштування. Продовжити?</string>
     <string name="upload_prompt">Будуть відправлені поточні локальні закладки і налаштування. Продовжити?</string>
-    <string name="none">Ні</string>
+    <string name="none">Ніщо</string>
     <string name="action_log">Мережевий журнал</string>
     <string name="check_permission">Доступ заборонено. Дозволити його в налаштуваннях зараз?</string>
     <string name="need_permission_hint">Via браузеру необхідні наступні дозволи для роботи.</string>
@@ -290,6 +292,7 @@
     <string name="action_open_in_background">Відкрити в фоні</string>
     <string name="cannot_work">Працює тільки з \"http\" або \"https\" посиланнями.</string>
     <string name="action_fullscreen">На весь екран</string>
+    <string name="action_ua">Агент користувача</string>
     <string name="settings_general">Основні</string>
     <string name="no_bookmark">Немає закладок</string>
     <string name="import_or_export_bookmarks">Імпорт/Експорт закладок</string>
@@ -301,7 +304,7 @@
     <string name="toolbar_settings_hint">Управління кнопками. При довгому натисненні на кнопку, можна подивитися команду і змінити її.</string>
     <string name="action_modify">Змінити</string>
     <string name="operation_hint">Жести і управління кнопками</string>
-    <string name="empty_ads_mark_hint">Правила відсутні.\nЩоб заблокувати рекламу на сторінці, Ви, можете, тривалим натисненням на рекламу, на Веб-сторінці, вибрати пункт \"Позначити як рекламу\".\nАбо просто натисніть на кнопку, яка знаходиться нижче.</string>
+    <string name="empty_ads_mark_hint">Правила відсутні.\nЩоб заблокувати рекламу на сторінці, Ви, можете, тривалим натисненням на рекламу,  вибрати пункт \"Позначити як рекламу\".\nАбо просто натисніть на кнопку, яка знаходиться нижче.</string>
     <string name="empty_script_hint">Скрипти відсутні.\nВи можете натиснути на кнопку \"+\", щоб додати скрипт.\nАбо просто натисніть на кнопку, яка знаходиться нижче.</string>
     <string name="adblock_info">Заблоковано реклами: %1$d, збережено трафіку: %2$s</string>
     <string name="disable">Відключити</string>
@@ -338,4 +341,23 @@
     <string name="share_explanation">Приватний обмін: тільки перегляд через Via.\nПростий обмін: поділитися посиланням на поточну сторінку.</string>
     <string name="action_secret_share">Приватний обмін</string>
     <string name="action_normal_share">Простий обмін</string>
+    <string name="res_sniffer">Ресурси сніфера</string>
+    <string name="search_by_pic">Пошук за зображенням</string>
+    <string name="resource_sniffer">Ресурси сніфера</string>
+    <string name="res_log_hint">Натисніть на елемент, щоб переглянути. Довге натискання на елемент, щоб завантажити або зробити щось інше.</string>
+    <string name="no_resource">Сторінка не має ресурсів.</string>
+    <string name="no_network_log">Сторінка не має журналу мережі.</string>
+    <string name="resource_sniffer_hint">\nPS: це легше отримати, коли грає музика або відео.</string>
+    <string name="action_download">Завантажити</string>
+    <string name="action_play_with_mxplayer">Відтворити за допомогою MXPlayer</string>
+    <string name="empty_username_info">Будь ласка, введіть ім\'я користувача.</string>
+    <string name="empty_password_info">Будь ласка, введіть пароль.</string>
+    <string name="offline_page_hint">Нижче наведені Збережені сторінки. Ви можете прочитати їх незалежно від того, чи є підключення до мережі.</string>
+    <string name="history_page_hint_when_incognito">Ви перейшли в режим інкогніто. Нова історія не буде записана.</string>
+    <string name="action_preview">Попередній перегляд</string>
+    <string name="action_page_info">Інформація про сторінку</string>
+    <string name="page_info_title">Назва:</string>
+    <string name="page_info_url">URL-адреса сторінки:</string>
+    <string name="page_info_link">URL посилання:</string>
+    <string name="no_network">Немає доступних мережевих з\'єднань</string>
 </resources>
