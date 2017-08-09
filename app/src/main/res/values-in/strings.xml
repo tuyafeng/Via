@@ -375,5 +375,5 @@
     <string name="page_info_title">Judul:</string>
     <string name="page_info_url">URL Halaman:</string>
     <string name="page_info_link">URL Link:</string>
-    <string name="no_network"Tidak ada koneksi jaringan yang tersedia</string>
+    <string name="no_network">Tidak ada koneksi jaringan yang tersedia</string>
 </resources>
