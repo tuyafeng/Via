@@ -375,4 +375,5 @@
     <string name="page_info_title">Tiêu đề:</string>
     <string name="page_info_url">URL trang:</string>
     <string name="page_info_link">Địa chỉ liên kết:</string>
+    <string name="no_network">Kết nối mạng không khả dụng</string>
 </resources>
