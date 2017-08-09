@@ -355,5 +355,5 @@
     <string name="page_info_url">页面链接:</string>
     <string name="page_info_link">选中链接:</string>
     <string name="action_copy_text">复制文本</string>
-
+    <string name="no_network">无网络连接</string>
 </resources>

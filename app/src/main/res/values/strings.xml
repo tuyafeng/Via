@@ -375,4 +375,5 @@
     <string name="page_info_title">Title:</string>
     <string name="page_info_url">Page URL:</string>
     <string name="page_info_link">Link URL:</string>
+    <string name="no_network">No network connections are available</string>
 </resources>
