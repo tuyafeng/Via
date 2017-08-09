@@ -14,6 +14,7 @@
     <string name="action_night">Chế độ ban đêm</string>
     <string name="action_copy">Sao chép liên kết</string>
     <string name="action_copy_domain">Sao chép tên miền</string>
+    <string name="action_copy_text">Sao chép văn bản</string>
     <string name="action_image_off">Chặn ảnh </string>
     <string name="action_tools">Công cụ</string>
     <string name="settings">Cài Đặt</string>
