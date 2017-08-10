@@ -354,9 +354,9 @@
     <string name="easter_egg">Telur Paskah(Iklan)</string>
     <string name="action_click_to_view">Klik untuk Melihat</string>
     <string name="join_us">Bergabung dengan kami</string>
-    <string name="share_explanation">Berbagi Encrypted: Hanya melihatnya dengan via via. \nBerbagi: bagikan link dari halaman saat ini.</string>
-    <string name="action_secret_share">Berbagi Encrypted</string>
-    <string name="action_normal_share">Berbagi</string>
+    <string name="share_explanation">Berbagi Dienkripsi: hanya melihatnya dengan via. \nBerbagi: bagikan link dari halaman saat ini.</string>
+    <string name="action_secret_share">Berbagi Dienkripsi</string>
+    <string name="action_normal_share">Bagikan</string>
     <string name="res_sniffer">Sumber daya Sniffer</string>
     <string name="search_by_pic">Cari dengan gambar</string>
     <string name="resource_sniffer">Sumber daya sniffer</string>
@@ -375,4 +375,5 @@
     <string name="page_info_title">Judul:</string>
     <string name="page_info_url">URL Halaman:</string>
     <string name="page_info_link">URL Link:</string>
+    <string name="no_network">Tidak ada koneksi jaringan yang tersedia</string>
 </resources>
