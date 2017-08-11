@@ -19,7 +19,7 @@
     <string name="action_tools">Narzędzia</string>
     <string name="settings">Ustawienia</string>
     <string name="location">Dostęp do lokalizacji</string>
-    <string name="password">Zapisz hasła</string>
+    <string name="password">Zapisz hasło</string>
     <string name="donate">Wspomóż</string>
     <string name="donate_details">Jeśli miło Ci się korzysta z przeglądarki Via, możesz nas wspomóc datkiem pieniężnym.\nAlipay: 2376688759@qq.com\nPayPal: wiar1824@gmail.com</string>
     <string name="orientation">Orientacja ekranu</string>
@@ -49,7 +49,7 @@
     <string name="action_cancel">Anuluj</string>
     <string name="title_warning">Ostrżeżenie</string>
     <string name="title_user_agent">User Agent</string>
-    <string name="title_custom_homepage">Własna strona domowa</string>
+    <string name="title_custom_homepage">Własna strona</string>
     <string name="action_webpage">Strona internetowa</string>
     <string name="action_yes">OK</string>
     <string name="action_no">Anuluj</string>
@@ -201,7 +201,7 @@
     <string name="settings_addons">Rozszerzenia</string>
     <string name="addon_download">Menedżer pobierania</string>
     <string name="addon_qr_code_scan">Skanowanie kodów QR</string>
-    <string name="install_addon">Przejść do strony z dodatkami?</string>
+    <string name="install_addon">Przejść do strony z rozszerzeniami?</string>
     <string name="quick_back">Cofanie bez odświeżania strony</string>
     <string name="open_with">Otwórz z pomocą&#8230;</string>
     <string name="download_completed">Pobieranie zakończone</string>
@@ -259,11 +259,11 @@
     <string name="upload_prompt">Obecne zakładki i ustawienia zostaną wysłane. Kontynuować?</string>
     <string name="none">Nic</string>
     <string name="action_log">Dziennik sieci</string>
-    <string name="check_permission">Brak uprawnień. Ustawić je teraz?</string>
+    <string name="check_permission">Nie udzielono (niektórych) uprawnień. Ustawić je w ustawieniach systemowych?</string>
     <string name="need_permission_hint">Przeglądarka Via potrzebuje następujących uprawnień do prawidłowej pracy:\n\n</string>
     <string name="storage_permission">Pamięć: aby móc pobierać pliki oraz eksportować zakładki.\n\n</string>
     <string name="location_permission">Lokalizacja: dla stron typu Mapy Google. Domyślnie jest ono wyłączone. Jeśli jest włączone, w razie potrzeby zostanie wyświetlone powiadomienie, czy strona może użyć Twojej lokalizacji.\n\n</string>
-    <string name="phone_permission">Telefon: aby móc pozyskać niezbędne informacje o urządzeniu w celu prowadzenia prostych statystyk i - w razie wystąpienia błędów - móc sporządzić raport.\n\n</string>
+    <string name="phone_permission">Telefon: aby móc pozyskać niezbędne informacje o urządzeniu w celu prowadzenia prostych statystyk, a w razie wystąpienia błędów - móc sporządzić raport.\n\n</string>
     <string name="force_cancel">Anuluj</string>
     <string name="restore_tabs_hint">Przywrócić niezamknięte ostatnim razem karty?</string>
     <string name="restore_tabs">Przywróć karty na starcie</string>
@@ -272,7 +272,7 @@
     <string name="online_addons">Strona z rozszerzeniami</string>
     <string name="log_page_hint">Możesz skopiować następujący link lub domenę i wkleić do %1$s, aby zablokować ich ładowanie.</string>
     <string name="fullscreen_0">Wyłączone</string>
-    <string name="fullscreen_1">Przewiń aby schować / pokazać</string>
+    <string name="fullscreen_1">Przewiń, aby schować / pokazać</string>
     <string name="fullscreen_2">Kliknij, aby schować / pokazać</string>
     <string name="settings_script">Skrypty</string>
     <string name="get_more_script">Więcej skryptów</string>
@@ -307,7 +307,7 @@
     <string name="find_pre">Poprzedni</string>
     <string name="action_open_in_background">Otwórz w tle</string>
     <string name="cannot_work">Funkcja działa tylko dla adresów \"http\" i \"https\".</string>
-    <string name="action_fullscreen">Tryb pełnoekranowy</string>
+    <string name="action_fullscreen">Tryb pełno-\nekranowy</string>
     <string name="action_ua">User Agent</string>
     <string name="settings_general">Ogólne</string>
     <string name="no_bookmark">Brak zakładek</string>
@@ -317,7 +317,7 @@
     <string name="export_">Eksportuj</string>
     <string name="pull_to_refresh_gesture">Gest pociągnięcia, aby odświeżyć stronę</string>
     <string name="back_forward_gesture">Gest przechodzenia wstecz / dalej</string>
-    <string name="toolbar_settings_hint">Kliknij (przeciągnij) poniższy przycisk, aby ustawić jego działanie długiego wściśnięcia (przeciągnięcia). Przytrzymaj, aby zobaczyć, co zostało ustawione.</string>
+    <string name="toolbar_settings_hint">Kliknij (przeciągnij) poniższe przyciski, aby ustawić działanie po ich przytrzymaniu (przeciągnięciu). Przytrzymaj, aby zobaczyć ich obecne ustawienie.</string>
     <string name="action_modify">Modyfikuj</string>
     <string name="operation_hint">Operacje, gesty, itp.</string>
     <string name="empty_ads_mark_hint">Brak elementów oznaczonych jako reklamy. \nNaciśnij element na stronie i wybierz opcję \"Oznacz jako reklamę\", aby go zablokować. \nMożesz też nacisnąć przycisk \"+\" na górze, aby dodać go ręcznie, lub poniższy przycisk, aby pobrać gotowe reguły z sieci.</string>
@@ -332,7 +332,7 @@
     <string name="desc_close">Zamknij</string>
     <string name="clear_cache_on_exit">Czyść pamięć podręczną przy wyjściu</string>
     <string name="action_close_all_tabs">Zamknij wszystkie karty</string>
-    <string name="skin_hide_search_part">Ukryj pasek wyszukwarki</string>
+    <string name="skin_hide_search_part">Ukryj pasek wyszukiwarki</string>
     <string name="action_more">Więcej</string>
     <string name="action_exit">Wyjdź</string>
     <string name="set_as_default">Ustawić aplikację jako domyślną przeglądarkę?</string>
