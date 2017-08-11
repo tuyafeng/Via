@@ -50,7 +50,7 @@
     <string name="title_warning">Ostrżeżenie</string>
     <string name="title_user_agent">User Agent</string>
     <string name="title_custom_homepage">Własna strona</string>
-    <string name="action_webpage">Strona internetowa</string>
+    <string name="action_webpage">Własna strona</string>
     <string name="action_yes">OK</string>
     <string name="action_no">Anuluj</string>
     <string name="title_text_size">Rozmiar tekstu</string>
