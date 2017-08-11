@@ -105,7 +105,7 @@
     <string name="import_bookmark_error">Nie mogę zaimportować zakładek z tego pliku</string>
     <string name="feedback">Opinia</string>
     <string name="message_add_bookmark">Zakładka została dodana</string>
-    <string name="message_exit">Naciśnij jeszcze raz, aby wyjść</string>
+    <string name="message_exit">Naciśnij jeszcze raz, aby wyjść.</string>
     <string name="web_screenshot">Zrzut ekranu</string>
     <string name="screenshot_all">Cała strona</string>
     <string name="screenshot_now">Widoczna część</string>
@@ -266,7 +266,7 @@
     <string name="phone_permission">Telefon: aby móc pozyskać niezbędne informacje o urządzeniu w celu prowadzenia prostych statystyk, a w razie wystąpienia błędów - móc sporządzić raport.\n\n</string>
     <string name="force_cancel">Anuluj</string>
     <string name="restore_tabs_hint">Przywrócić niezamknięte ostatnim razem karty?</string>
-    <string name="restore_tabs">Przywróć karty na starcie</string>
+    <string name="restore_tabs">Przywracaj karty po uruchomieniu</string>
     <string name="install_success">Instalacja zakończona</string>
     <string name="uninstall_success">Deinstalacja zakończona</string>
     <string name="online_addons">Strona z rozszerzeniami</string>
