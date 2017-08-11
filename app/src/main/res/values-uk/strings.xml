@@ -255,7 +255,7 @@
     <string name="uninstall_success">Успішно видалено!</string>
     <string name="online_addons">Більше розширень</string>
     <string name="log_page_hint">Ви маєте можливість копіювати дане посилання або домен і вставити в %1$s для блокування їх завантаження за допомогою зовнішнього списку блокування.</string>
-    <string name="fullscreen_0">Відключено</string>
+    <string name="fullscreen_0">Вимкнено</string>
     <string name="fullscreen_1">Прокрутка приховує/показує</string>
     <string name="fullscreen_2">Натискання приховує/показує</string>
     <string name="settings_script">Скрипти</string>
