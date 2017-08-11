@@ -342,6 +342,9 @@
     <string name="resource_sniffer">リソース検知</string>
     <string name="res_log_hint">アイテムを表示するにはタップ、ダウンロードするには長押ししてください。</string>
     <string name="no_resource">このページにはリソースがありません。</string>
+    <string name="resource_sniffer_hint">\nPS: 見つからない場合は、動画や音声を再生してみてください。</string>
+    <string name="action_download">ダウンロード</string>
+    <string name="action_play_with_mxplayer">MXPlayerで再生</string>
     <string name="set_as_default">デフォルトのブラウザに設定しますか？</string>
     <string name="exit_incognito_title">シークレットブラウズを終了</string>
     <string name="exit_incognito_dialog">すべてのタブを閉じ、シークレットブラウズを終了しますか？</string>
