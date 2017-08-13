@@ -30,7 +30,7 @@
     <string name="agent">User Agent</string>
     <string name="home">Strona domowa</string>
     <string name="fullscreen">Ukrywanie paska narzędziowego</string>
-    <string name="java">Osługa skryptów JavaScript</string>
+    <string name="java">Obsługa skryptów JavaScript</string>
     <string name="download">Miejsce pobierania plików</string>
     <string name="size">Rozmiar tekstu</string>
     <string name="search">Wyszukiwarka</string>
