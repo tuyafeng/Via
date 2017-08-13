@@ -154,7 +154,7 @@
     <string name="url_box_title">Tytuł strony</string>
     <string name="action_pcview">Pełna wersja str.</string>
     <string name="action_source">Kod żr. strony</string>
-    <string name="action_translate">Przełumacz stronę</string>
+    <string name="action_translate">Przetłumacz stronę</string>
     <string name="title_edit_folder">Edytuj folder</string>
     <string name="msg_delete_folder">Usunąć folder?</string>
     <string name="desc_suggestion">sugestie</string>
