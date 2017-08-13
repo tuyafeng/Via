@@ -96,9 +96,9 @@
     <string name="hint_username">Nazwa użytkownika</string>
     <string name="hint_password">Hasło</string>
     <string name="untitled">Bez tytułu</string>
-    <string name="image_auto">Pokazuj obrazy tylko przez WiFi</string>
+    <string name="image_auto">Pokazuj obr. tylko w WiFi</string>
     <string name="image_on">Blokuj obrazy</string>
-    <string name="image_off">Pokazuj obrazy zawsze</string>
+    <string name="image_off">Pokazuj obr. zawsze</string>
     <string name="title_file_chooser">Wybór pliku</string>
     <string name="import_backup">Importuj zakładki</string>
     <string name="bookmark_export_path">Zakładki zostały wyeksportowane do\n</string>
@@ -154,7 +154,7 @@
     <string name="url_box_title">Tytuł strony</string>
     <string name="action_pcview">Pełna wersja str.</string>
     <string name="action_source">Kod żr. strony</string>
-    <string name="action_translate">Przetłumacz stronę</string>
+    <string name="action_translate">Przetł. stronę</string>
     <string name="title_edit_folder">Edytuj folder</string>
     <string name="msg_delete_folder">Usunąć folder?</string>
     <string name="desc_suggestion">sugestie</string>
