@@ -88,7 +88,7 @@
     <string name="message_untrusted_certificate">Сертифікат сайта ненадійний. Все одно продовжити?</string>
     <string name="title_form_resubmission">Перевідправка форми</string>
     <string name="message_form_resubmission">Відправити повторно дані?</string>
-    <string name="message_location">Повідомляти Ваше місце розташування?</string>
+    <string name="message_location">\nПовідомляти Ваше місце розташування?</string>
     <string name="action_allow">ДОЗВОЛИТИ</string>
     <string name="action_dont_allow">ВІДМОВИТИ</string>
     <string name="title_sign_in">ВХІД</string>
@@ -100,7 +100,7 @@
     <string name="image_off">Показати зображення</string>
     <string name="title_file_chooser">Вибір файлу</string>
     <string name="import_backup">Імпортувати закладки</string>
-    <string name="bookmark_export_path">Закладки, експортовані до</string>
+    <string name="bookmark_export_path">Закладки, експортовані до\n</string>
     <string name="import_bookmark_error">Не вдалося імпортувати закладки з файлу!</string>
     <string name="feedback">Надіслати відгук</string>
     <string name="message_add_bookmark">Успішно додано в закладки!</string>
@@ -120,7 +120,7 @@
     <string name="dialog_adblock_default">ВБУДОВАНИЙ</string>
     <string name="dialog_adblock_custom">ЗОВНІШНІЙ</string>
     <string name="dialog_adblock_download">Список буде обраний автоматично після завантаження.\n\nшлях:</string>
-    <string name="dialog_adblock_custom_hint">Будь ласка, не міняйте ім\'я і шлях до файлу. Ви можете редагувати цей файл, для додавання своїх правил.</string>
+    <string name="dialog_adblock_custom_hint">\nБудь ласка, не міняйте ім\'я і шлях до файлу. Ви можете редагувати цей файл, для додавання своїх правил.</string>
     <string name="setting_default">Установити веб-переглядач за умовчанням</string>
     <string name="toast_clear_defaults">Будь ласка, очистіть значення за замовчуванням</string>
     <string name="toast_copy_url_successful">Посилання успішно скопійовано!</string>
@@ -201,7 +201,7 @@
     <string name="addon_download">Завантаження</string>
     <string name="addon_qr_code_scan">Сканер QR-коду</string>
     <string name="install_addon">Завантажити та встановити це розширення? Воно буде працювати тільки після установки.</string>
-    <string name="quick_back">\"Назад\" без перезавантаження сторінок</string>
+    <string name="quick_back">Повернення назад\nбез перезавантаження сторінки</string>
     <string name="open_with">Відкрити за допомогою&#8230;</string>
     <string name="download_completed">Завантаження завершено!</string>
     <string name="toast_fullscreen_off">Звичайний режим</string>
@@ -220,7 +220,7 @@
     <string name="num_of_bookmarks_in_home">Кільк. закладок на дом. сторінці</string>
     <string name="picture">Зображення</string>
     <string name="text">Текст</string>
-    <string name="html_code">HTML-Код</string>
+    <string name="html_code">HTML-код</string>
     <string name="action_view_image">Перегляд зображення</string>
     <string name="skin_colorful">Квадратний</string>
     <string name="skin_fruity">Круглий</string>
@@ -241,13 +241,13 @@
     <string name="quick_back_desc">Можуть виникнути проблеми сумісності при включенні цього перемикача. Вам слід вимкнути його, якщо функція буде працювати нестабільно.</string>
     <string name="sync_prompt">Будуть синхронізовані поточні локальні закладки і налаштування. Продовжити?</string>
     <string name="upload_prompt">Будуть відправлені поточні локальні закладки і налаштування. Продовжити?</string>
-    <string name="none">Ніщо</string>
+    <string name="none">Без логотипа</string>
     <string name="action_log">Мережевий журнал</string>
     <string name="check_permission">Доступ заборонено. Дозволити його в налаштуваннях зараз?</string>
-    <string name="need_permission_hint">Веб-переглядачу Via необхідні наступні дозволи для роботи.</string>
-    <string name="storage_permission">Сховище: для завантаження файлів з браузера, імпорт/експорт закладок.</string>
-    <string name="location_permission">Місцезнаходження: для таких сайтів, як \"Google Карти\". Воно вимкнено за замовчуванням в налаштуваннях і відображається у спливаючому вікні з проханням використовувати Ваше місце розташування, якщо воно вимкнено в налаштуваннях.</string>
-    <string name="phone_permission">Телефон: для збору неконфіденційної інформації про Ваш Android-пристрій, а також збору статистики і отримання даних про збої в роботі.</string>
+    <string name="need_permission_hint">Веб-переглядачу Via необхідні наступні дозволи для роботи.\n\n</string>
+    <string name="storage_permission">Сховище: для завантаження файлів з веб-переглядача, імпорт/експорт закладок.\n\n</string>
+    <string name="location_permission">Місцезнаходження: для таких сайтів, як \"Google Карти\". Воно вимкнено за замовчуванням в налаштуваннях і відображається у спливаючому вікні з проханням використовувати Ваше місце розташування, якщо воно вимкнено в налаштуваннях.\n\n</string>
+    <string name="phone_permission">Телефон: для збору неконфіденційної інформації про Ваш Android-пристрій, а також збору статистики і отримання даних про збої в роботі.\n\n</string>
     <string name="force_cancel">Примусове скасування</string>
     <string name="restore_tabs_hint">Відновити не закриті вкладки минулого разу?</string>
     <string name="restore_tabs">Відновлювати вкладки при запуску</string>
@@ -255,7 +255,7 @@
     <string name="uninstall_success">Успішно видалено!</string>
     <string name="online_addons">Більше розширень</string>
     <string name="log_page_hint">Ви маєте можливість копіювати дане посилання або домен і вставити в %1$s для блокування їх завантаження за допомогою зовнішнього списку блокування.</string>
-    <string name="fullscreen_0">Відключено</string>
+    <string name="fullscreen_0">Вимкнено</string>
     <string name="fullscreen_1">Прокрутка приховує/показує</string>
     <string name="fullscreen_2">Натискання приховує/показує</string>
     <string name="settings_script">Скрипти</string>
@@ -306,7 +306,7 @@
     <string name="operation_hint">Жести і управління кнопками</string>
     <string name="empty_ads_mark_hint">Правила відсутні.\nЩоб заблокувати рекламу на сторінці, Ви, можете тривалим натисканням на рекламу,  вибрати пункт \"Позначити як рекламу\".\nАбо просто натисніть на кнопку, яка знаходиться нижче.</string>
     <string name="empty_script_hint">Скрипти відсутні.\nВи можете натиснути на кнопку \"+\", щоб додати скрипт.\nАбо просто натисніть на кнопку, яка знаходиться нижче.</string>
-    <string name="adblock_info">Заблоковано реклами: %1$d, збережено трафіку: %2$s</string>
+    <string name="adblock_info">заблоковано реклами: %1$d\nзбережено трафіку: %2$s</string>
     <string name="disable">Відключити</string>
     <string name="ui_traditional">Традиційний</string>
     <string name="ui_simple">Простий</string>
@@ -328,7 +328,7 @@
     <string name="ignore">Нехтувати</string>
     <string name="share_script">Сценарій для %1$s, скопіюйте це повідомлення і відкрийте Via для його імпортування. viascript{%2$s}</string>
     <string name="share_online_script">Сценарій для %1$s, скопіюйте це повідомлення і відкрийте посилання %2$s в Via для його встановлення.</string>
-    <string name="import_script">Імпортувати сценарій для  %1$s з буфера обміну?\nУвага: сценарій може бути небезпечним. Переконайтеся в його безпеці.\nСценарій:</string>
+    <string name="import_script">Імпортувати сценарій для  %1$s з буфера обміну?\nУвага: сценарій може бути небезпечним. Переконайтеся в його безпеці.\nСценарій:\n</string>
     <string name="share_rule">Правило для блокування реклами %1$s, скопіюйте це повідомлення і відкрийте Via для його імпортування. viarule{%2$s}</string>
     <string name="import_rule">Імпортувати правило для блокування реклами %1$s з буфера обміну?</string>
     <string name="share_url">Це приватне посилання, скопіюйте дане повідомлення і відкрийте посилання в Via для його перегляду. viaurl{%1$s}</string>
@@ -339,8 +339,8 @@
     <string name="action_click_to_view">Натисніть для перегляду</string>
     <string name="join_us">Приєднатися до нас</string>
     <string name="share_explanation">Приватний обмін: тільки перегляд через Via.\nПростий обмін: поділитися посиланням на поточну сторінку.</string>
-    <string name="action_secret_share">Приватний обмін</string>
-    <string name="action_normal_share">Простий обмін</string>
+    <string name="action_secret_share">Приватний\nобмін</string>
+    <string name="action_normal_share">Простий\nобмін</string>
     <string name="res_sniffer">Ресурси сніфера</string>
     <string name="search_by_pic">Пошук за зображенням</string>
     <string name="resource_sniffer">Ресурси сніфера</string>
