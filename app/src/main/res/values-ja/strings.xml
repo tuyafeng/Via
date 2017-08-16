@@ -14,7 +14,9 @@
     <string name="action_night">夜間モード</string>
     <string name="action_copy">アドレスをコピー</string>
     <string name="action_copy_domain">ドメインをコピー</string>
+    <string name="action_copy_text">テキストをコピー</string>
     <string name="action_image_off">画像を閉じる</string>
+    <string name="action_tools">ツール</string>
     <string name="settings">設定</string>
     <string name="location">位置情報へのアクセスを許可する</string>
     <string name="password">パスワードを保存</string>
@@ -25,7 +27,7 @@
     <string name="orientation_auto">自動回転</string>
     <string name="orientation_portrait">縦向き</string>
     <string name="orientation_landscape">横向き</string>
-    <string name="agent">ブラウザ UA</string>
+    <string name="agent">User Agent</string>
     <string name="home">ホームページ</string>
     <string name="fullscreen">操作バーを自動的に非表示にする</string>
     <string name="java">JavaScript を有効</string>
@@ -46,7 +48,7 @@
     <string name="dialog_download">ダウンロードしますか？</string>
     <string name="action_cancel">キャンセル</string>
     <string name="title_warning">警告</string>
-    <string name="title_user_agent">ブラウザ UA</string>
+    <string name="title_user_agent">User Agent</string>
     <string name="title_custom_homepage">ページを設定</string>
     <string name="action_webpage">特定のページ</string>
     <string name="action_yes">OK</string>
@@ -211,7 +213,7 @@
 
     <string name="need_permission_hint">権限が必要です\n\n</string>
 
-    <string name="sync_desc">登録中…</string>
+    <string name="sync_desc">アカウントが存在しない場合、新規作成されます。</string>
 
     <string name="settings_skin">カスタマイズ</string>
     <string name="default_set">デフォルト</string>
@@ -296,10 +298,11 @@
     <string name="current_language">現在の言語</string>
     <string name="missing_webview">WebViewが正常にインストールしていません。インストールしますか？</string>
     <string name="ask_url">Ask</string>
-    <string name="action_pic_mode">画像モード</string>
+    <string name="action_pic_mode">画像のみ表示</string>
     <string name="background_opacity">背景の不透明度</string>
     <string name="action_close_all_tabs">すべてのタブを閉じる</string>
     <string name="action_fullscreen">フルスクリーン</string>
+    <string name="action_ua">User Agent</string>
     <string name="import_">インポート</string>
     <string name="export_">エクスポート</string>
     <string name="disable">無効</string>
@@ -328,7 +331,26 @@
     <string name="empty_script_hint">スクリプトはありません。「⊕」ボタンをクリックしてスクリプトを追加できます。または、下のボタンをクリックしてください。</string>
     <string name="toolbar_settings_hint">下のボタンをクリック（スライド）して長押し（スライド）ジェスチャーを設定し、長く押すと設定されたジェスチャーが表示されます。</string>
     <string name="empty_ads_mark_hint">ブロックされた広告はありません。ページ上の要素を長押しして、「広告をマーク」を選択してください。または、下のボタンをクリックしてください。</string>
-    <string name="action_more">並び替え</string>
     <string name="sort_hint">ドラッグ＆ドロップで並び替え</string>
     <string name="skin_hide_search_part">検索ボックスを非表示にする</string>
+    <string name="action_more">並び替え</string>
+    <string name="res_sniffer">リソース検知</string>
+    <string name="search_by_pic">画像で検索</string>
+    <string name="share_explanation">暗号化して共有: Viaでのみ表示可能な形式で共有する。 \nShare: 他のアプリでも表示可能な形式で共有する。</string>
+    <string name="action_secret_share">暗号化して共有</string>
+    <string name="action_normal_share">共有</string>
+    <string name="resource_sniffer">リソース検知</string>
+    <string name="res_log_hint">アイテムを表示するにはタップ、ダウンロードするには長押ししてください。</string>
+    <string name="no_resource">このページにはリソースがありません。</string>
+    <string name="resource_sniffer_hint">\nPS: 見つからない場合は、動画や音声を再生してみてください。</string>
+    <string name="action_download">ダウンロード</string>
+    <string name="action_play_with_mxplayer">MXPlayerで再生</string>
+    <string name="set_as_default">デフォルトのブラウザに設定しますか？</string>
+    <string name="exit_incognito_title">シークレットブラウズを終了</string>
+    <string name="exit_incognito_dialog">すべてのタブを閉じ、シークレットブラウズを終了しますか？</string>
+    <string name="action_page_info">ページ情報</string>
+    <string name="page_info_title">タイトル:</string>
+    <string name="page_info_url">現在のページのURL:</string>
+    <string name="page_info_link">リンク先のURL:</string>
+    <string name="no_network">ネットワーク接続がありません</string>
 </resources>
