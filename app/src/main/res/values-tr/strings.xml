@@ -1,16 +1,15 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources tools:ignore="MissingTranslation" xmlns:tools="http://schemas.android.com/tools">
-
     <string name="app_name">Via</string>
     <string name="action_new_tab">Yeni Sekme</string>
     <string name="action_open_in_new">Yeni Sekmede Aç</string>
     <string name="action_save_img">Resmi Kaydet</string>
     <string name="action_share">Paylaş</string>
     <string name="action_history">Geçmiş</string>
-    <string name="action_bookmarks">Yer imleri</string>
+    <string name="action_bookmarks">Yer işaretleri</string>
     <string name="action_screenshot">Ekran Görüntüsü Al</string>
-    <string name="bookmarks_file">Yer imlerini Dışa Aktar</string>
-    <string name="action_add_bookmark">Yer imi Ekle</string>
+    <string name="bookmarks_file">Yer İşaretlerini Dışa Aktar</string>
+    <string name="action_add_bookmark">Yer İşareti Ekle</string>
     <string name="action_night">Gece Modu</string>
     <string name="action_copy">Bağlantıyı Kopyala</string>
     <string name="action_copy_domain">Etki Alanı Kopyala</string>
@@ -72,7 +71,7 @@
     <string name="download_no_sdcard_dlg_msg">Dosyayı indirmek için USB depolama gerekli.</string>
     <string name="download_sdcard_busy_dlg_title">USB depolama erişilebilir değil</string>
     <string name="download_sdcard_busy_dlg_msg">Depolama birimi meşgul. İndirme yapmak için USB depolamayı kapat bildirimine dokunun.</string>
-    <string name="message_import">Yer imleri içe aktarıldı.</string>
+    <string name="message_import">Yer işaretleri içe aktarıldı.</string>
     <string name="custom_url">Özel URL</string>
     <string name="baidu_url">Baidu</string>
     <string name="shenma_url">ShenMa</string>
@@ -100,11 +99,11 @@
     <string name="image_on">Resimleri Gizle</string>
     <string name="image_off">Resimleri Göster</string>
     <string name="title_file_chooser">Dosya Seç</string>
-    <string name="import_backup">Yer imlerini içe aktar</string>
-    <string name="bookmark_export_path">Yer imleri dışa aktarıldı \n</string>
-    <string name="import_bookmark_error">Yer imleri içe aktarılamıyor</string>
+    <string name="import_backup">Yer işaretlerini içe aktar</string>
+    <string name="bookmark_export_path">Yer işaretleri dışa aktarıldı \n</string>
+    <string name="import_bookmark_error">Yer işaretleri içe aktarılamıyor</string>
     <string name="feedback">Geri Bildirim</string>
-    <string name="message_add_bookmark">Yer imi eklendi</string>
+    <string name="message_add_bookmark">Yer işareti eklendi</string>
     <string name="message_exit">Çıkış için tekrar basın</string>
     <string name="web_screenshot">Web Ekran Görüntüsü</string>
     <string name="screenshot_all">Tümü</string>
@@ -134,8 +133,8 @@
     <string name="operation_bottom">Sona Kaydır</string>
     <string name="operation_input">httpUrl Girin</string>
     <string name="operation_newtab">Yeni Sekme</string>
-    <string name="operation_addbookmark">Yer imi ekle</string>
-    <string name="operation_openbookmark">Yer imini Aç</string>
+    <string name="operation_addbookmark">Yer işareti ekle</string>
+    <string name="operation_openbookmark">Yer işaretini Aç</string>
     <string name="operation_openhistory">Geçmişi Aç</string>
     <string name="operation_closetab">Sekmeyi Kapat</string>
     <string name="operation_lasttab">Son Sekme</string>
@@ -222,7 +221,7 @@
     <string name="settings_skin">Özelleştir</string>
     <string name="default_set">Varsayılan</string>
     <string name="custom_css">Özel CSS</string>
-    <string name="num_of_bookmarks_in_home">Anasayfadaki yer imi sayısı</string>
+    <string name="num_of_bookmarks_in_home">Anasayfadaki yer işareti sayısı</string>
     <string name="picture">Resim</string>
     <string name="text">Metin</string>
     <string name="html_code">Html Kodu</string>
@@ -255,13 +254,13 @@
     <string name="set_to_default">Bağlantıyı (%s) açtıktan sonra varsayılan olarak ayarlanacaktır, lütfen bağlantıyı açmak için Via yı seçin.</string>
 
     <string name="quick_back_desc">Bu ayarı açtığınızda uyumluluk sorunları olabilir. Düzgün çalışmadığını görürseniz kapatın.</string>
-    <string name="sync_prompt">Yerel ayarlarınız ve yer imleriniz kaybolacak. Devam etmek istiyor musunuz?</string>
-    <string name="upload_prompt">Yerel ayarlarınız ve yer imleriniz yedeklenecek. Devam etmek istiyor musunuz?</string>
+    <string name="sync_prompt">Yerel ayarlarınız ve yer işaretleriniz kaybolacak. Devam etmek istiyor musunuz?</string>
+    <string name="upload_prompt">Yerel ayarlarınız ve yer işaretleriniz yedeklenecek. Devam etmek istiyor musunuz?</string>
     <string name="none">Hiçbiri</string>
     <string name="action_log">Ağ Günlüğü</string>
     <string name="check_permission">Erişim engellendi. Şimdi ayarlamak ister misiniz?</string>
     <string name="need_permission_hint">Via şu izinlere ihtiyaç duyuyor.\n\n</string>
-    <string name="storage_permission">Depolama: Dosya indirme ve yer imleri içe/dışa aktarma.\n\n</string>
+    <string name="storage_permission">Depolama: Dosya indirme ve yer işaretleri içe/dışa aktarma.\n\n</string>
     <string name="location_permission">Konum: Google Haritalar gibi konum bilginizi kullanmak isteyen siteler için açılır pencere ile konum bilginizi kullanma bilgisi gösterilir. Varsayılan olarak devre dışıdır.\n\n</string>
     <string name="phone_permission">Telefon: Basit istatistikler ve hata raporlarının toplanması için kişisel olmayan android cihaz bilgilerinin okunması.\n\n</string>
     <string name="force_cancel">İptal etmeye zorla</string>
@@ -310,11 +309,11 @@
     <string name="action_fullscreen">Tam ekran</string>
     <string name="action_ua">Kullanıcı Aracısı</string>
     <string name="settings_general">Genel</string>
-    <string name="no_bookmark">Yer imi yok~</string>
-    <string name="import_or_export_bookmarks">Yer imleri İçe/Dışa aktar</string>
+    <string name="no_bookmark">Yer işareti yok~</string>
+    <string name="import_or_export_bookmarks">Yer işareti İçe/Dışa aktar</string>
     <string name="what_is_next">Sonraki ne?</string>
-    <string name="import_">Yer imleri içe aktar</string>
-    <string name="export_">Yer imleri dışa aktar</string>
+    <string name="import_">Yer işareti içe aktar</string>
+    <string name="export_">Yer işareti dışa aktar</string>
     <string name="pull_to_refresh_gesture">Yenilemek için aşağı çekin</string>
     <string name="back_forward_gesture">İleri Geri Parmak Hareketleri</string>
     <string name="toolbar_settings_hint">Basılı tutma (kaydırma) görevleri için aşağıdaki butonlara dokunun (kaydırın). Ayarlanan değeri görmek için basılı tutun.</string>
@@ -328,7 +327,7 @@
     <string name="ui_simple">Basit</string>
     <string name="color_mode_hint">Renkli başlık çubuğu</string>
     <string name="sort_hint">Sıralamak için basılı tutup sürükleyin</string>
-    <string name="action_sort_bookmarks">Yer imlerini sırala</string>
+    <string name="action_sort_bookmarks">Yer işareti sırala</string>
     <string name="desc_close">Kapat</string>
     <string name="clear_cache_on_exit">Çıkışta önbelleği temizle</string>
     <string name="action_close_all_tabs">Tüm sekmeleri kapat</string>
