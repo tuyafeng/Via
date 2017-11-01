@@ -344,7 +344,7 @@
     <string name="resource_sniffer">資源嗅探</string>
     <string name="res_log_hint">點選項目來預覽， 長按項目來下載或進行其它操作。</string>
     <string name="resource_sniffer_hint">\n備註：音樂或影片在播放時更容易被擷取</string>
-    <string name="no_resource">此頁面沒有資源。</string>
+    <string name="no_resource">此頁面無資源。</string>
     <string name="no_network_log">此頁面無網路記錄檔。</string>
     <string name="action_download">下載</string>
     <string name="action_tools">工具箱</string>
