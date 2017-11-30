@@ -116,7 +116,7 @@
     <string name="toast_operation_done">Operacja powiodła się.</string>
     <string name="volume">Przewijaj strony przyciskami głośności</string>
     <string name="intent">Zezwalaj na przekierowywanie do aplikacji</string>
-    <string name="msg_intent">Czy chcesz otworzyć swoją aplikację?</string>
+    <string name="msg_intent">Czy chcesz otworzyć związaną z tym działaniem aplikację?</string>
     <string name="dialog_adblock">Metoda domyślna: w celu blokady reklam używany będzie systemowy plik hosts.txt.\n\nMetoda własna: używany będzie lokalny plik hosts.txt. Jeśli nie instnieje, zostanie on utworzony.</string>
     <string name="dialog_adblock_default">Metoda domyślna</string>
     <string name="dialog_adblock_custom">Metoda własna</string>
@@ -229,8 +229,8 @@
 
     <string name="action_view_image">Pokaż obraz</string>
 
-    <string name="skin_colorful">Zaokrąglony</string>
-    <string name="skin_fruity">Kanciasty</string>
+    <string name="skin_colorful">Kanciasty</string>
+    <string name="skin_fruity">Zaokrąglony</string>
     <string name="skin_transparent">Przezroczysty</string>
 
     <string name="block_popup">Blokuj wyskakujące okna</string>

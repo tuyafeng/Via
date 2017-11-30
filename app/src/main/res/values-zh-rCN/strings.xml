@@ -356,4 +356,6 @@
     <string name="page_info_link">选中链接:</string>
     <string name="action_copy_text">复制文本</string>
     <string name="no_network">无网络连接</string>
+    <string name="action_open_with">使用相关应用打开</string>
+    <string name="title_app_chooser">选择app打开</string>
 </resources>

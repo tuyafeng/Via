@@ -213,7 +213,7 @@
 
     <string name="need_permission_hint">権限が必要です\n\n</string>
 
-    <string name="sync_desc">アカウントが存在しない場合、新規作成されます。</string>
+    <string name="sync_desc">アカウントが存在しない場合は新規にアカウントが作成されます。</string>
 
     <string name="settings_skin">カスタマイズ</string>
     <string name="default_set">デフォルト</string>
@@ -231,7 +231,7 @@
     <string name="action_save_web_page">ページを保存</string>
     <string name="action_saved_pages">保存されたページ</string>
     <string name="saved_page_successfully">保存しました</string>
-    <string name="deleted_failed">削除できませんでした。ダウンロードディレクトリに削除してください: </string>
+    <string name="deleted_failed">削除できませんでした。ダウンロードファイルのパス: </string>
 
     <string name="empty_hint">表示できる項目はありません</string>
 
@@ -259,9 +259,9 @@
     <string name="online_addons">アドオン</string>
     <string name="force_cancel">強制終了</string>
     <string name="check_permission">権限へのアクセス許可が必要です。</string>
-    <string name="phone_permission">電話：非個人情報に関する単純な統計、及びより詳しいエラーログの収集。</string>
-    <string name="storage_permission">ストレージ：ファイルのダウンロード、ブックマークの保存のために使用</string>
-    <string name="location_permission">位置情報：Webサイトが位置情報を取得することを許可するため（地図、天気予報など）に使用</string>
+    <string name="phone_permission">電話：非個人情報に関する単純な統計、及びより詳しいエラーログの収集のために使用しています。</string>
+    <string name="storage_permission">ストレージ：ファイルのダウンロード、ブックマークの保存のために使用しています。</string>
+    <string name="location_permission">位置情報：Webサイトが位置情報を取得することを許可するため（地図、天気予報など）に使用しています。</string>
     <string name="log_page_hint">アドレスもしくはドメインをコピーし %1$s に貼り付けて広告ブロックリストを作成できます。</string>
     <string name="fullscreen_0">無効</string>
     <string name="fullscreen_1">スクロールで非表示/表示</string>
@@ -345,9 +345,14 @@
     <string name="resource_sniffer_hint">\nPS: 見つからない場合は、動画や音声を再生してみてください。</string>
     <string name="action_download">ダウンロード</string>
     <string name="action_play_with_mxplayer">MXPlayerで再生</string>
+    <string name="empty_username_info">ユーザー名を入力してください。</string>
+    <string name="empty_password_info">パスワードを入力してください。</string>
+    <string name="offline_page_hint">以下は保存されたページです。インターネット接続が無くても閲覧可能です。</string>
+    <string name="history_page_hint_when_incognito">シークレットモード中です。シークレットモードでは履歴は保存されません。</string>
     <string name="set_as_default">デフォルトのブラウザに設定しますか？</string>
     <string name="exit_incognito_title">シークレットブラウズを終了</string>
     <string name="exit_incognito_dialog">すべてのタブを閉じ、シークレットブラウズを終了しますか？</string>
+    <string name="action_preview">プレビュー</string>
     <string name="action_page_info">ページ情報</string>
     <string name="page_info_title">タイトル:</string>
     <string name="page_info_url">現在のページのURL:</string>

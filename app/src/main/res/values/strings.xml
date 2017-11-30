@@ -376,4 +376,6 @@
     <string name="page_info_url">Page URL:</string>
     <string name="page_info_link">Link URL:</string>
     <string name="no_network">No network connections are available</string>
+    <string name="action_open_with">Open with related app</string>
+    <string name="title_app_chooser">App chooser</string>
 </resources>
