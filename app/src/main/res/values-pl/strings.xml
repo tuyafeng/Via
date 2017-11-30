@@ -229,8 +229,8 @@
 
     <string name="action_view_image">Pokaż obraz</string>
 
-    <string name="skin_colorful">Zaokrąglony</string>
-    <string name="skin_fruity">Kanciasty</string>
+    <string name="skin_colorful">Kanciasty</string>
+    <string name="skin_fruity">Zaokrąglony</string>
     <string name="skin_transparent">Przezroczysty</string>
 
     <string name="block_popup">Blokuj wyskakujące okna</string>
