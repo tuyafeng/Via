@@ -378,4 +378,6 @@
     <string name="no_network">No network connections are available</string>
     <string name="action_open_with">Open with related app</string>
     <string name="title_app_chooser">App chooser</string>
+    <string name="sort_bookmarks_hint">Please drag and drop the icon of bookmark to sort list</string>
+    <string name="clear_data_on_exit">Clear Data on Exit</string>
 </resources>
