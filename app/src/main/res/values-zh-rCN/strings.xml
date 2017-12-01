@@ -358,4 +358,7 @@
     <string name="no_network">无网络连接</string>
     <string name="action_open_with">使用相关应用打开</string>
     <string name="title_app_chooser">选择app打开</string>
+    <string name="sort_bookmarks_hint">请拖拽书签的图标来排序它们</string>
+    <string name="clear_data_on_exit">退出时清除数据</string>
+
 </resources>
