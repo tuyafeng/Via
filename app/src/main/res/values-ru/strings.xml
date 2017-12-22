@@ -376,4 +376,8 @@
     <string name="page_info_url">URL страницы:</string>
     <string name="page_info_link">URL ссылки:</string>
     <string name="no_network">Нет сетевого подключения!</string>
+    <string name="action_open_with">Открыть с помощью соответствующего приложения</string>
+    <string name="title_app_chooser">Выбор приложения</string>
+    <string name="sort_bookmarks_hint">Перетащите значок закладки для сортировки списка</string>
+    <string name="clear_data_on_exit">Очищать данные о выходе</string>
 </resources>
