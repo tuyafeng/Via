@@ -201,7 +201,7 @@
     <string name="addon_download">Správce stahování</string>
     <string name="addon_qr_code_scan">Qr Code Scan</string>
     <string name="install_addon">Chcete stáhnout a nainstalovat doplňky? Tyto doplňky budou fungovat až po instalaci.</string>
-    <string name="quick_back">Jít zpět bez obnovování/string>
+    <string name="quick_back">Jít zpět bez obnovování</string>
     <string name="open_with">Otevřít v&#8230;</string>
     <string name="download_completed">Stahování dokončeno</string>
     <string name="toast_fullscreen_off">Opustit režim celé obrazovky</string>
@@ -218,7 +218,7 @@
 
     <string name="sync_desc">Účet bude vytvořen, pokud neexistuje</string>
 
-    <string name="settings_skin">Přizpůsobit
+    <string name="settings_skin">Přizpůsobit</string>
     <string name="default_set">Výchozí</string>
     <string name="custom_css">Vlastní CSS</string>
     <string name="num_of_bookmarks_in_home">Počet záložek na domovské stránce</string>
@@ -251,7 +251,7 @@
 
     <string name="already_default">Je již nastavena na výchozí</string>
 
-    <string name="set_to_default">Bude nastaven na výchozí po použití otevřeného odkazu (% s). Zvolte prosím otevření odkazu.</string>
+    <string name="set_to_default">Bude nastaven na výchozí po použití otevřeného odkazu (%s). Zvolte prosím otevření odkazu.</string>
 
     <string name="quick_back_desc">Při otevření tohoto přepínače může dojít k problémům s kompatibilitou. Měli byste ji vypnout, než se vrátíte zpět do práce.</string>
     <string name="sync_prompt">Přepíše aktuální místní záložku a nastavení. Pokračovat?</string>
@@ -269,7 +269,7 @@
     <string name="install_success">Instalace byla úspěšná!!!</string>
     <string name="uninstall_success">Odinstalace byla úspěšná!!!</string>
     <string name="online_addons">Online Doplňky</string>
-    <string name="log_page_hint">Můžete zkopírovat následující odkaz nebo doménu a vložit jej na% 1 $ s pro blokování jeho načtení pomocí vlastního blokování.</string>
+    <string name="log_page_hint">Můžete zkopírovat následující odkaz nebo doménu a vložit jej na %1$s pro blokování jeho načtení pomocí vlastního blokování.</string>
     <string name="fullscreen_0">Zakázat</string>
     <string name="fullscreen_1">Přejít na skrytí/zobrazení</string>
     <string name="fullscreen_2">Kliknout na skrytí/zobrazení</string>
@@ -344,8 +344,8 @@
     <string name="share_script">Skript pro %1$s, zkopírujte tuto zprávu a otevřete ji, abyste ji importovali. Viascript{%2$s}</string>
     <string name="share_online_script">Script for %1$s, copy this message and open link %2$s with via to install it.</string>
     <string name="import_script">Import skriptu pro %1$s ze schránky? \ NVíce: Script možná není bezpečný. Ujistěte se, že je to bezpečné.\nScript:\n</string>
-    <string name="share_rule">Pravidlo blokující reklamy% 1 $ s, kopírování této zprávy a otevření prostřednictvím importu.viarule{%2$s}</string>
-    <string name="import_rule">Importovat pravidlo blokující reklamy% 1 $ s ze schránky?</string>
+    <string name="share_rule">Pravidlo blokující reklamy %1$s, kopírování této zprávy a otevření prostřednictvím importu.viarule{%2$s}</string>
+    <string name="import_rule">Importovat pravidlo blokující reklamy %1$s ze schránky?</string>
     <string name="share_url">Toto je tajná httpUrl, zkopírujte tuto zprávu a otevřete ji, abyste ji mohli zobrazit. viaurl{%1$s}</string>
     <string name="import_url">Otevřete odkaz ze schránky?\nlink: %1$s</string>
     <string name="import_successful">Import úspěšný</string>
