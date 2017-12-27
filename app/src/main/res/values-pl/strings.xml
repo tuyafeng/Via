@@ -376,5 +376,11 @@
     <string name="page_info_url">Adres strony:</string>
     <string name="page_info_link">Adres linku:</string>
     <string name="no_network">Brak dostępnych połączeń sieciowych</string>
-
+    <string name="action_open_with">Otwórz w aplikacji</string>
+    <string name="title_app_chooser">Wybór aplikacji</string>
+    <string name="sort_bookmarks_hint">Przeciągnij i upuść ikonę zakładki aby posortować listę</string>
+    <string name="clear_data_on_exit">Czyść dane przy wyjściu</string>
+    <string name="action_add_to_homepage">Dodaj do szybkiego wybierania</string>
+    <string name="added_favorite_hint">Dodano do szybkiego wybierania</string>
+    <string name="title_edit_favorite">Edytuj ulubione</string>
 </resources>
