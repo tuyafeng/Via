@@ -261,7 +261,7 @@
     <string name="action_log">Nhật ký mạng</string>
     <string name="check_permission">Chưa được cấp quyền. Thiết lập chúng trong Cài đặt bây giờ?</string>
     <string name="need_permission_hint">Cần thông qua các quyền sau đây để dùng ứng dụng.\n\n</string>
-    <string name="storage_permission">Bộ nhớ: để tải về tập tin từ trình duyệt và nhập/xuất dấu trang...\n\n</string>
+    <string name="storage_permission">Bộ nhớ: để tải về tập tin từ trình duyệt và nhập/xuất dấu trang&#8230;\n\n</string>
     <string name="location_permission">Vị trí: cho các trang web như Google Maps, nó bị tắt theo mặc định và sẽ hỏi bạn nếu trang web yêu cầu truy cập vị trí.\n\n</string>
     <string name="phone_permission">Điện thoại: để nhận được thông tin (không phải thông tin riêng tư) về thiết bị Android của bạn để làm thống kê đơn giản và thu thập lỗi, ngoại lệ khi FC.\n\n</string>
     <string name="force_cancel">Huỷ bỏ</string>
@@ -319,7 +319,7 @@
     <string name="back_forward_gesture">Cử chỉ Quay lại</string>
     <string name="toolbar_settings_hint">Nhấp (trượt) nút dưới đây để thiết lập hành động khi bạn nhấn giữ(trượt), nhấn giữ để xem giá trị đã được thiết lập.</string>
     <string name="action_modify">Chỉnh sửa</string>
-    <string name="operation_hint">Cử chỉ, hành động...</string>
+    <string name="operation_hint">Cử chỉ, hành động&#8230;</string>
     <string name="empty_ads_mark_hint">Không có quảng cáo nào được đánh dấu. \nBạn có thể nhấn giữ vào quảng cáo trong trang web rồi chọn \"Đánh dấu là Quảng cáo\" để chặn nó. \nHoặc bạn chỉ cần nhấp vào nút sau đây.</string>
     <string name="empty_script_hint">Không có tập lệnh nào. \nBạn có thể nhấp vào nút dấu cộng để thêm các tập lệnh. \nHoặc bạn chỉ cần nhấp vào nút sau đây.</string>
     <string name="adblock_info">%1$d quảng cáo đã bị chặn, %2$s đã lưu.</string>

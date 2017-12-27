@@ -360,5 +360,8 @@
     <string name="title_app_chooser">选择app打开</string>
     <string name="sort_bookmarks_hint">请拖拽书签的图标来排序它们</string>
     <string name="clear_data_on_exit">退出时清除数据</string>
+    <string name="action_add_to_homepage">添加到浏览器主页</string>
+    <string name="added_favorite_hint">已添加到浏览器主页</string>
+    <string name="title_edit_favorite">编辑收藏</string>
 
 </resources>

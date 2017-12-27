@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources tools:ignore="MissingTranslation" xmlns:tools="http://schemas.android.com/tools">
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
 
     <string name="app_name">Via</string>
     <string name="action_new_tab">Naujas skirtukas</string>
@@ -15,7 +15,7 @@
     <string name="action_copy">Kopijuoti</string>
     <string name="action_copy_domain">Kopijuoti domeną</string>
     <string name="action_copy_text">Kopijuoti tekstą</string>
-    <string name="action_image_off">Blokuoti paveikslėlį/string>
+    <string name="action_image_off">Blokuoti paveikslėlį</string>
     <string name="action_tools">Įrankiai</string>
     <string name="settings">Nustatymai</string>
     <string name="location">Vietos prieiga</string>
@@ -118,7 +118,7 @@
     <string name="intent">Leiti puslapiui atsidaryti per jam instaliuotą programėlę (jeigu jūs ją esat įsirašę)</string>
     <string name="msg_intent">Ar norėtumėte atidaryti programėlę?</string>
     <string name="dialog_adblock">Pagrindinis blokavimas:naudoti lokaliai esantį hosts.txt Reklamų blokavimui \n\nCustom Block: naudoti saugyklai hosts.txt, failas bus atsiųstas jeigu jis neegzistuoja.</string>
-    <string name="dialog_adblock_default">Pagrindinis blokavimas</string>                                 
+    <string name="dialog_adblock_default">Pagrindinis blokavimas</string>
     <string name="dialog_adblock_custom">Parinktinis blokavimas</string>
     <string name="dialog_adblock_download">Jis bus parinktas po atsisiuntimo.\n\npath:</string>
     <string name="dialog_adblock_custom_hint">\nPrašome nepakeisti failo vietos ar pavadinimo.Jūs galie redaguoti šį failą sukurti savo blokavimo sąrašą.</string>
@@ -136,7 +136,7 @@
     <string name="operation_newtab">Naujas skirtukas</string>
     <string name="operation_addbookmark">Pridėti žymę</string>
     <string name="operation_openbookmark">Atidaryti žymę</string>
-    <string name="operation_openhistory">Atidaryti istoriją/string>
+    <string name="operation_openhistory">Atidaryti istoriją</string>
     <string name="operation_closetab">Uždaryti skirtukaą</string>
     <string name="operation_lasttab">Paskutinis skirtukas</string>
     <string name="operation_nexttab">Sekantis skirtukas</string>
@@ -252,7 +252,7 @@
 
     <string name="already_default">Tai jau yra pagrindinis</string>
 
-    <string name="set_to_default">Tai bus parinkta pagrindiniu po to kai atidarysimi šį adresą, prašome pasirinkti via adreso atidarymui.</string>
+    <string name="set_to_default">Tai bus parinkta pagrindiniu po to kai atidarysimi šį adresą(%s), prašome pasirinkti via adreso atidarymui.</string>
 
     <string name="quick_back_desc">Paspaudus šį mygtuką gali atsirasti klaidų.</string>
     <string name="sync_prompt">Tai perrašys dabartines žymes ir nustatymus. Tęsti?</string>
@@ -260,7 +260,7 @@
     <string name="none">Tuščia</string>
     <string name="action_log">Interneto ryšio veikimo sąrašas</string>
     <string name="check_permission">Leidimas atmestas. Leisti atidarant nustatymus?</string>
-    <string name="need_permission_hint">Via'i reikia šių leidimų,kad galėtų veikti.\n\n</string>
+    <string name="need_permission_hint">Via\'i reikia šių leidimų,kad galėtų veikti.\n\n</string>
     <string name="storage_permission">Saugykla: failų atsisiųntimui ir žymių importavimui/eksportavimui bei t.t.\n\n</string>
     <string name="location_permission">Vieta: pulapiams gaip Google Maps, pagal numatytuosius nustatymus ji yra išjungta, tažiau jeigu jos prireiks iššoks lentelė prašanti įjungti vietą.\n\n</string>
     <string name="phone_permission">Skambučiai: gauti jūsų neprivačią bei telefono informaciją, kad galėtumėme sukurti paprastus klaidų sąrašus be statistikas.\n\n</string>
@@ -350,7 +350,7 @@
     <string name="share_url">Tai yra slaptas httpUrl, kopijuok šią žinutę ir atidaryk via, kad peržiūrėtumėte ją. viaurl{%1$s}</string>
     <string name="import_url">Atidaryti adresą iš iškarpinės?\nadresas: %1$s</string>
     <string name="import_successful">Importavimas sėkmingas</string>
-    <string name="all_sites">visos internetinės svertainės/užrašai>
+    <string name="all_sites">visos internetinės svertainės/užrašai</string>
     <string name="easter_egg">Vėlykinis kiaušinis (Easter egg) (AD)</string>
     <string name="action_click_to_view">Paspauskite, kad žiūrėtumėte</string>
     <string name="join_us">Prisijunk prie mūsų</string>
@@ -375,5 +375,5 @@
     <string name="page_info_title">Pavadinimas:</string>
     <string name="page_info_url">Puslapio URL:</string>
     <string name="page_info_link">Adreso URL:</string>
-    <string name="no_network">Nėra interneto prieigos</string>
+        <string name="no_network">Nėra interneto prieigos</string>
 </resources>

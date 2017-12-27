@@ -380,4 +380,7 @@
     <string name="title_app_chooser">App chooser</string>
     <string name="sort_bookmarks_hint">Please drag and drop the icon of bookmark to sort list</string>
     <string name="clear_data_on_exit">Clear Data on Exit</string>
+    <string name="action_add_to_homepage">Add to Speed Dial</string>
+    <string name="added_favorite_hint">Added to speed dial successfully</string>
+    <string name="title_edit_favorite">Edit Favorite</string>
 </resources>
