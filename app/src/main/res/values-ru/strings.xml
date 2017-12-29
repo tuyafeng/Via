@@ -380,4 +380,7 @@
     <string name="title_app_chooser">Выбор приложения</string>
     <string name="sort_bookmarks_hint">Перетащите значок закладки для сортировки списка</string>
     <string name="clear_data_on_exit">Очищать данные о выходе</string>
+    <string name="action_add_to_homepage">Добавить в быстрый набор</string>
+    <string name="added_favorite_hint">Успешно добавлено в быстрый набор</string>
+    <string name="title_edit_favorite">Изменение избранного</string>
 </resources>
