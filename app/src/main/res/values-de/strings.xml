@@ -16,12 +16,12 @@
     <string name="action_copy_domain">Domain kopieren</string>
     <string name="action_copy_text">Text kopieren</string>
     <string name="action_image_off">Bild blockieren</string>
-    <string name="action_tools">Tools</string>
+    <string name="action_tools">Werkzeuge</string>
     <string name="settings">Einstellungen</string>
     <string name="location">Standortzugriff</string>
     <string name="password">Paswörter speichern</string>
     <string name="donate">Spenden</string>
-    <string name="donate_details">Wenn Dir Via browser gefällt, kannst Du etwas spenden, um uns zu unterstützen.\nAlipay: 2376688759@qq.com\nPayPal: wiar1824@gmail.com</string>
+    <string name="donate_details">Wenn Dir Via Browser gefällt, kannst Du etwas spenden, um uns zu unterstützen.\nAlipay: 2376688759@qq.com\nPayPal: wiar1824@gmail.com</string>
     <string name="orientation">Ausrichtung</string>
     <string name="orientation_system">System</string>
     <string name="orientation_auto">Auto</string>
@@ -67,7 +67,7 @@
     <string name="action_incognito">Inkognito Modus</string>
     <string name="action_find">Auf Seite suchen</string>
     <string name="download_pending">Download startet\u2026</string>
-    <string name="cannot_download">Nur von\"http\" or \"https\" URLs können heruntergeladen werden.</string>
+    <string name="cannot_download">Nur von\"http\" oder \"https\" URLs kann heruntergeladen werden.</string>
     <string name="download_no_sdcard_dlg_title">Keine SD-Karte!</string>
     <string name="download_no_sdcard_dlg_msg">USB Speicher wird benötigt, um die Datei herunterzuladen.</string>
     <string name="download_sdcard_busy_dlg_title">USB Speicher nicht verfügbar!</string>
@@ -206,7 +206,6 @@
     <string name="open_with">Öffnen mit&#8230;</string>
     <string name="download_completed">Download abgeschlossen</string>
     <string name="toast_fullscreen_off">Full-Screen Modus beendet</string>
-
     <string name="clear_data">Daten löschen</string>
     <string name="data_cache">Cache</string>
     <string name="data_form_data">Fomulardaten</string>
@@ -214,11 +213,8 @@
     <string name="data_storage">Gespeicherte Seiten</string>
     <string name="data_cookies">Cookies</string>
     <string name="data_cleared">Daten gelöscht</string>
-
     <string name="cannot_undo">Das kann nicht rückgängig gemacht werden!</string>
-
     <string name="sync_desc">Das Konto wird angelegt, wenn es nicht existiert.</string>
-
     <string name="settings_skin">Anpassen</string>
     <string name="default_set">Standard</string>
     <string name="custom_css">Angepasstes CSS</string>
@@ -226,34 +222,23 @@
     <string name="picture">Bild</string>
     <string name="text">Text</string>
     <string name="html_code">Html Code</string>
-
     <string name="action_view_image">Bild anzeigen</string>
-
     <string name="skin_colorful">Bunt</string>
     <string name="skin_fruity">Fruity</string>
     <string name="skin_transparent">Transparent</string>
-
     <string name="block_popup">Blockiere Popup</string>
     <string name="open_window_hint">Die Webseite versucht ein neues Fester zu öffnen!</string>
-
     <string name="action_save_web_page">Speichere Webseite</string>
     <string name="action_saved_pages">Gespeicherte Seiten</string>
     <string name="saved_page_successfully">Seite erfolgreich gespeichert</string>
     <string name="deleted_failed">"Löschen fehlgeschlagen. Die Datei befindet sich im Download-Pfad: "</string>
-
     <string name="empty_hint">Nichts anzuzeigen&#8230;</string>
-
     <string name="network_log">Netzwerk Log</string>
     <string name="catalog">Katalog</string>
-
     <string name="screenshot_hint">Es können Kompatibilitätsprobleme in Android 5.0 und höher auftreten, um einen vollständigen Screenshot der Website zu machen. Wir suchen noch nach einer Lösung.</string>
-
     <string name="conn_timeout">Zeitüberschreitung der Verbindung</string>
-
     <string name="already_default">Bereits als Standard festgelegt</string>
-
     <string name="set_to_default">Es wird als Standard festgelegt, nachdem der Link geöffnet wird (%s), bitte Via wählen, um den Link zu öffnen.</string>
-
     <string name="quick_back_desc">Es können Kompatibilitätsprobleme auftreten, wenn Du diesen Punkt auswählst. Du sollstest es ändern, wenn zurück nicht richtig funktioniert.</string>
     <string name="sync_prompt">Bestehende lokale Lesezeichen und Einstellungen werden überschrieben. Fortfahren?</string>
     <string name="upload_prompt">Bestehende lokale Lesezeichen und Einstelleungen werden hochgeladen. Fortfahren?</string>
@@ -306,18 +291,18 @@
     <string name="find_next">Nächsten finden</string>
     <string name="find_pre">Vorherigen finden</string>
     <string name="action_open_in_background">Im Hintergrund öffnen</string>
-    <string name="cannot_work">Funktioniert nur mit \"http\" or \"https\" URLs.</string>
+    <string name="cannot_work">Funktioniert nur mit \"http\" oder \"https\" URLs.</string>
     <string name="action_fullscreen">Vollbildmodus</string>
     <string name="action_ua">User Agent</string>
     <string name="settings_general">Allgemein</string>
     <string name="no_bookmark">keine Lesezeichen~</string>
     <string name="import_or_export_bookmarks">Lesezeichen importieren/exportieren </string>
-    <string name="what_is_next">Was als nächstes?</string>
+    <string name="what_is_next">Was willst Du als nächstes tun?</string>
     <string name="import_">Importiere Lesezeichen</string>
     <string name="export_">Exportiere Lesezeuchen</string>
     <string name="pull_to_refresh_gesture">Ziehen um Gesten zu aktualisieren</string>
-    <string name="back_forward_gesture">Back Forward Gesture</string>
-    <string name="toolbar_settings_hint">Click (slide) the following button to set its long press (slide) event, and long press it to see what it had been set.</string>
+    <string name="back_forward_gesture">Zurück Vorwärts Geste</string>
+    <string name="toolbar_settings_hint">Klicke (schiebe) den folgenden Schalter um sein gedrücktes (geschobenes) Verhalten festzulegen. Gedrückt halten um aktuelles Verhalten zu sehen.</string>
     <string name="action_modify">Abändern</string>
     <string name="operation_hint">Gesten, Betriebsverhalten, usw</string>
     <string name="empty_ads_mark_hint">Keine Werbung markiert. \nDu kannst die Werbung auf der Webseite lange drücken und \"Werbung markieren\" auswählen um sie zublockieren. \nOder einfach auf den folgenden Knopf drücken.</string>
@@ -326,7 +311,7 @@
     <string name="disable">Deaktivieren</string>
     <string name="ui_traditional">Traditionell</string>
     <string name="ui_simple">Einfach</string>
-    <string name="color_mode_hint">Color operation bars when browsing</string>
+    <string name="color_mode_hint">Operation Bars beim browsen einfärben</string>
     <string name="sort_hint">Lange auswählen und verschieben zum sortieren</string>
     <string name="action_sort_bookmarks">Lesezeichen sortieren</string>
     <string name="desc_close">Schließen</string>
@@ -342,28 +327,28 @@
     <string name="update">Update</string>
     <string name="update_msg">Es ist eine neue Version verfügbar. Jetzt aktualisieren?</string>
     <string name="ignore">Ignorieren</string>
-    <string name="share_script">Script for %1$s, copy this message and open via to import it. viascript{%2$s}</string>
-    <string name="share_online_script">Script for %1$s, copy this message and open link %2$s with via to install it.</string>
-    <string name="import_script">Import the script for %1$s from clipboard?\nWarning: Script maybe not safe. Please make sure it is safe.\nScript:\n</string>
-    <string name="share_rule">The rule that block ads of %1$s, copy this message and open via to import it. viarule{%2$s}</string>
-    <string name="import_rule">Import the rule that block ads of %1$s from clipboard?</string>
-    <string name="share_url">This is a secret httpUrl, copy this message and open via to view it. viaurl{%1$s}</string>
+    <string name="share_script">Skript für %1$s, kopiere diese Nachricht und öffne Via zum importieren. viascript{%2$s}</string>
+    <string name="share_online_script">Skript für %1$s, kopiere diese Nachricht und öffne Link %2$s zum installieren mit Via.</string>
+    <string name="import_script">Das Skript für %1$s aus der Zwischenablage importieren?\nWarnung: Skript ist möglicherweise gefährlich. Bitte sicherstellen das es sicher ist.\nSkript:\n</string>
+    <string name="share_rule">Die Regel Werbung von %1$s zu blockieren, kopiere diese Nachricht und öffne Via zum importieren. viarule{%2$s}</string>
+    <string name="import_rule">Die Regel Werbung von %1$s zu blockieren aus der Zwischenablage laden?</string>
+    <string name="share_url">Das ist eine geheime httpUrl, kopiere diese Nachricht und öffne Via zum ansehen. viaurl{%1$s}</string>
     <string name="import_url">Aus Zwischenablage öffnen?\nlink: %1$s</string>
     <string name="import_successful">Import erfolgreich</string>
     <string name="all_sites">Alle Seiten</string>
     <string name="easter_egg">Easter Egg(AD)</string>
     <string name="action_click_to_view">Anzeigen</string>
     <string name="join_us">Beitreten</string>
-    <string name="share_explanation">Encrypted sharing: only view it with via. \nShare: share the link of current page.</string>
+    <string name="share_explanation">Verschlüsselt teilen: kann nur mit Via angezeigt werden. \nTeilen: Link der aktuellen Seite teilen.</string>
     <string name="action_secret_share">Verschlüsselt teilen</string>
     <string name="action_normal_share">Teilen</string>
     <string name="res_sniffer">Resource Sniffer</string>
     <string name="search_by_pic">Nach Bild suchen</string>
     <string name="resource_sniffer">Resource sniffer</string>
     <string name="res_log_hint">Zur Vorschau klicken, gedrückt halten zum Herunterladen.</string>
-    <string name="no_resource">The page has no resource.</string>
-    <string name="no_network_log">The page has no network log.</string>
-    <string name="resource_sniffer_hint">\nPS: it is easier to get when music or video is playing.</string>
+    <string name="no_resource">Die Seite hat keine Quelle.</string>
+    <string name="no_network_log">Die Seite hat kein Netzwek Log.</string>
+    <string name="resource_sniffer_hint">\nPS: Es ist leicher zu bekommen wenn Musik oder Video abgespielt werden.</string>
     <string name="action_download">Download</string>
     <string name="action_play_with_mxplayer">Mit MXPlayer abspielen</string>
     <string name="empty_username_info">Bitte Benutzername eingeben</string>
