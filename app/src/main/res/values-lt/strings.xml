@@ -300,8 +300,7 @@
     <string name="official_website">Oficialus internetinis puslapis</string>
     <string name="current_language">Dabartinė kalba</string>
     <string name="download_manager">Atsisiuntimų valdytojas</string>
-    <string name="background_opacity">Fono permatomumas</string>
-    <string name="action_pic_mode">Paveikslėlio režimas</string>
+    <string name="background_opacity">Fono permatomumas</string    <string name="action_pic_mode">Paveikslėlio režimas</string>
     <string name="block_it_temporarily">Laikinai blokuoti</string>
     <string name="find_next">Surasti sekantį</string>
     <string name="find_pre">Surasti buvusį</string>
@@ -375,5 +374,12 @@
     <string name="page_info_title">Pavadinimas:</string>
     <string name="page_info_url">Puslapio URL:</string>
     <string name="page_info_link">Adreso URL:</string>
-        <string name="no_network">Nėra interneto prieigos</string>
+    <string name="no_network">Nėra interneto prieigos</string>
+    <string name="action_open_with">Atidaryti su susijusia programėle</string>
+    <string name="title_app_chooser">Programėlių parinktuvas</string>
+    <string name="sort_bookmarks_hint">Prašome patempti ir paleisti žymės ikoną sąrašo rūšiavimui</string>
+    <string name="clear_data_on_exit">Prieš išeinant išvalyti duomenis</string>
+    <string name="action_add_to_homepage">Pridėti greitai surankamu telefono numeriu</string>
+    <string name="added_favorite_hint">Greitai surankamo telefono numerio pridėjimas sėkmingas</string>
+    <string name="title_edit_favorite">Redaguoti mėgstamiausius</string>
 </resources>
