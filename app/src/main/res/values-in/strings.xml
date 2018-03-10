@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources tools:ignore="MissingTranslation" xmlns:tools="http://schemas.android.com/tools">
 
-    <string name="action_add_bookmark">Tambah</string>
-	<string name="action_add_to_homepage">Add to Speed Dial</string>
+   	<string name="action_add_bookmark">Tambah</string>
+	<string name="action_add_to_homepage">Tambah ke Beranda</string>
 	<string name="action_allow">Izinkan</string>
 	<string name="action_blank">Halaman Kosong</string>
 	<string name="action_bookmarks">Bookmark</string>
@@ -15,7 +15,7 @@
 	<string name="action_delete">Hapus</string>
 	<string name="action_delete_all">Hapus Semua</string>
 	<string name="action_dont_allow">Tolak</string>
-	<string name="action_download">Unduh</string>
+	<string name="action_download">Unduhan</string>
 	<string name="action_edit">Sunting Ini</string>
 	<string name="action_exit">Keluar</string>
 	<string name="action_find">Temukan di Halaman</string>
@@ -43,8 +43,8 @@
 	<string name="action_save_img">Simpan Gambar</string>
 	<string name="action_save_web_page">Simpan Halaman Web</string>
 	<string name="action_saved_pages">Halaman Tersimpan</string>
-	<string name="action_screenshot">Screenshot</string>
-	<string name="action_secret_share">Berbagi Dienkripsi</string>
+	<string name="action_screenshot">Tangkap layar</string>
+	<string name="action_secret_share">Berbagi dienkripsi</string>
 	<string name="action_send_to_launcher">Kirim ke Launcher</string>
 	<string name="action_share">Bagikan</string>
 	<string name="action_sort_bookmarks">Urut bookmark</string>
@@ -58,7 +58,7 @@
 	<string name="adblock_info">%1$d iklan telah diblokir, %2$s dihemat</string>
 	<string name="add_rule">Tambah Aturan</string>
 	<string name="add_script">Tambah Script</string>
-	<string name="added_favorite_hint">Added to speed dial successfully</string>
+	<string name="added_favorite_hint">Sukses menambahkan ke beranda</string>
 	<string name="addon_download">Pengelola Unduhan</string>
 	<string name="addon_qr_code_scan">Pemindai Kode QR</string>
 	<string name="agent">Agen Pengguna</string>
@@ -116,17 +116,17 @@
 	<string name="desc_close">Tutup</string>
 	<string name="desc_filedic">berkas</string>
 	<string name="desc_forward">maju</string>
-	<string name="desc_home">rumah</string>
+	<string name="desc_home">beranda</string>
 	<string name="desc_menu">menu</string>
 	<string name="desc_other">lainnya</string>
 	<string name="desc_reload">muat ulang</string>
 	<string name="desc_search">temukan di halaman</string>
-	<string name="desc_suggestion">Saran</string>
+	<string name="desc_suggestion">saran</string>
 	<string name="desc_tab">tab</string>
-	<string name="dialog_adblock">Default Blok:Gunakan hosts.txt Lokal untuk memblokir Iklan\n\nKustom Blok:Gunakan hosts.txt tersimpan, ini akan mengunduh berkas jika tidak ada.</string>
-	<string name="dialog_adblock_custom">Kustom Blok</string>
+	<string name="dialog_adblock">Pemblokir Bawaan:Gunakan hosts.txt Lokal untuk memblokir Iklan\n\nPemblokir Bawaan:Gunakan hosts.txt tersimpan, ini akan mengunduh berkas jika tidak ada.</string>
+	<string name="dialog_adblock_custom">Pemblokir Bawaan</string>
 	<string name="dialog_adblock_custom_hint">\nJangan mengubah jalur berkas atau nama. Anda dapat menyunting berkas ini untuk menyesuaikan daftar blok anda sendiri.</string>
-	<string name="dialog_adblock_default">Default Blok</string>
+	<string name="dialog_adblock_default">Pemblokir Bawaan</string>
 	<string name="dialog_adblock_download">Ini akan dipilih otomatis setelah terunduh\n\npath:</string>
 	<string name="dialog_confirm_block">Anda ingin menandai ini sebagai Iklan?</string>
 	<string name="dialog_download">Unduh berkas ini?</string>
@@ -146,7 +146,7 @@
 	<string name="download_sdcard_busy_dlg_title">Penyimpanan USB tidak tersedia</string>
 	<string name="duckduckgo_url">DuckDuckGo</string>
 	<string name="easter_egg">Easter Egg(Iklan)</string>
-	<string name="empty_ads_mark_hint">Tidak ada iklan ditandai. \nAnda dapat menekan lama iklan di halaman web kemudian pilih \"Tandai sebagai Iklan\" untuk memblok. \nAtau cukup klik tombol berikut.</string>
+	<string name="empty_ads_mark_hint">Tidak ada iklan ditandai. \nAnda dapat menekan lama iklan di halaman web kemudian pilih \"Tandai sebagai Iklan\" untuk memblokir. \nAtau cukup klik tombol berikut.</string>
 	<string name="empty_hint">Tidak ada yang bisa ditunjukkan&#8230;</string>
 	<string name="empty_password_info">Silahkan masukan kata sandi anda.</string>
 	<string name="empty_script_hint">Tidak ada script. \nAnda dapat mengklik tombol plus untuk menambahkan script. \nAtau cukup klik tombol berikut.</string>
@@ -165,7 +165,7 @@
 	<string name="fullscreen_2">Klik untuk sembunyi/tampilkan</string>
 	<string name="get_more_rules">Dapatkan lebih banyak Aturan</string>
 	<string name="get_more_script">Dapatkan Lebih banyak Script</string>
-	<string name="glean">Pungut</string>
+	<string name="glean">Kutipan</string>
 	<string name="go_together">Pergi bersama</string>
 	<string name="google_url">Google</string>
 	<string name="haosou_url">Haosou</string>
@@ -201,7 +201,7 @@
 	<string name="join_us">Bergabung dengan kami</string>
 	<string name="leave">Tinggalkan</string>
 	<string name="location">Akses Lokasi</string>
-	<string name="location_permission">Lokasi: untuk situs seperti Google Maps, ini dinonaktifkan secara standar dalam setelan dan menampilkan permintaan pop-up jika situs ingin menggunakan lokasi anda jika ini diaktifkan.\n\n</string>
+	<string name="location_permission">Lokasi: untuk situs seperti Google Maps, ini dimatikan secara bawaan dalam setelan dan menampilkan permintaan pop-up jika situs ingin menggunakan lokasi anda jika ini dihidupkan.</string>
 	<string name="log_in_success">Masuk sukses.</string>
 	<string name="log_out">Keluar?</string>
 	<string name="log_page_hint">Anda dapat menyalin link atau domain berikut dan tempel ke %1$s untuk blok loading ini dengan Kustom Blok.</string>
@@ -224,8 +224,8 @@
 	<string name="none">Tidak ada</string>
 	<string name="num_of_bookmarks_in_home">Jumlah bookmark di beranda</string>
 	<string name="official_website">Situs web resmi</string>
-	<string name="offline_page_hint">Dibawah ini halaman tersimpan. Anda bisa membacanya tidak masalah walau tidak terhubung jaringan.</string>
-	<string name="online_addons">Online Addons</string>
+	<string name="offline_page_hint">Dibawah ini halaman tersimpan. Anda bisa membacanya tidak masalah walau tidak terhubung ke jaringan.</string>
+	<string name="online_addons">Addons Online</string>
 	<string name="open_or_search">Buka/Cari</string>
 	<string name="open_window_hint">Situsweb mencoba membuka jendela baru</string>
 	<string name="open_with">Buka dengan&#8230;</string>
@@ -258,8 +258,8 @@
 	<string name="picture">Gambar</string>
 	<string name="pull_to_refresh_gesture">Gerak Tarik untuk Menyegarkan</string>
 	<string name="quick_back">Kembali tanpa Muat ulang</string>
-	<string name="quick_back_desc">Mungkin ada masalah kompatibilitas saat anda membuka peralihan ini. Anda harus menutupnya saat anda merasa akan kembali bekerja dengan baik.</string>
-	<string name="res_log_hint">Klik item untuk pratinjau, klik lama item untuk unduh atau lakukan sesuatu yang lain.</string>
+	<string name="quick_back_desc">Mungkin ada masalah kompatibilitas saat anda membuka peralihan ini. Anda harus menutupnya saat anda kembali ini akan bekerja dengan baik.</string>
+	<string name="res_log_hint">Klik item di pratinjau, tekan lama item untuk unduh atau lakukan sesuatu yang lain.</string>
 	<string name="res_sniffer">Sumber daya Sniffer</string>
 	<string name="resource_sniffer">Sumber daya sniffer</string>
 	<string name="resource_sniffer_hint">\nPS: lebih mudah mendapatkannya ketika musik atau video dimainkan.</string>
@@ -267,7 +267,7 @@
 	<string name="restore_tabs_hint">Pulihkan tab yang tidak-tertutup terakhir kali?</string>
 	<string name="saved_page_successfully">Halaman berhasil disimpan, untuk melihat ada di menu Beranda: Halaman Tersimpan</string>
 	<string name="screenshot_all">Semua</string>
-	<string name="screenshot_hint">Mungkin ada masalah kompatibilitas pada android 5.0+ untuk mengambil screenshot penuh dari situsweb. Kami masih mencari solusi.</string>
+	<string name="screenshot_hint">Mungkin ada masalah kompatibilitas pada android 5.0+ untuk mengambil tangkapan layar penuh dari situsweb. Kami masih mencari solusi.</string>
 	<string name="screenshot_now">Terlihat</string>
 	<string name="script_code">kode (Javascript)</string>
 	<string name="script_url">domain atau * (* berarti semua)</string>
@@ -316,7 +316,7 @@
 	<string name="sougou_url">Sougou</string>
 	<string name="startpage_url">Halaman Awal</string>
 	<string name="stay">Tetap</string>
-	<string name="storage_permission">Penyamaran: untuk mengunduh berkas dari browser dan mengimpor/mengekspor bookmark dll.\n\n</string>
+	<string name="storage_permission">Penyimpanan: untuk mengunduh berkas dari browser dan mengimpor/mengekspor bookmark dll.</string>
 	<string name="sync_desc">Akun akan dibuat jika tidak ada</string>
 	<string name="sync_prompt">Ini akan menimpa bookmark dan setelan lokal anda saat ini. Lanjutkan?</string>
 	<string name="syns_success">Sinkronkan Selesai</string>
@@ -324,7 +324,7 @@
 	<string name="title_app_chooser">Pemilih app</string>
 	<string name="title_custom_homepage">Kustom Beranda</string>
 	<string name="title_edit_bookmark">Sunting Bookmark</string>
-	<string name="title_edit_favorite">Edit Favorite</string>
+	<string name="title_edit_favorite">Sunting Favorit</string>
 	<string name="title_edit_folder">Sunting Folder</string>
 	<string name="title_file_chooser">Pemilih berkas</string>
 	<string name="title_form_resubmission">Formulir Resubmission</string>
