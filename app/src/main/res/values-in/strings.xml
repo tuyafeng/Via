@@ -2,6 +2,7 @@
 <resources tools:ignore="MissingTranslation" xmlns:tools="http://schemas.android.com/tools">
 
     <string name="action_add_bookmark">Tambah</string>
+	<string name="action_add_to_homepage">Add to Speed Dial</string>
 	<string name="action_allow">Izinkan</string>
 	<string name="action_blank">Halaman Kosong</string>
 	<string name="action_bookmarks">Bookmark</string>
@@ -33,7 +34,7 @@
 	<string name="action_ok">OK</string>
 	<string name="action_open_in_background">Buka di latar belakang</string>
 	<string name="action_open_in_new">Buka di Tab Baru</string>
-	<string name="action_open_with">Open with related app</string>
+	<string name="action_open_with">Buka dengan aplikasi terkait</string>
 	<string name="action_page_info">Info Halaman</string>
 	<string name="action_pcview">Situs desktop</string>
 	<string name="action_pic_mode">Mode Gambar</string>
@@ -57,6 +58,7 @@
 	<string name="adblock_info">%1$d iklan telah diblokir, %2$s dihemat</string>
 	<string name="add_rule">Tambah Aturan</string>
 	<string name="add_script">Tambah Script</string>
+	<string name="added_favorite_hint">Added to speed dial successfully</string>
 	<string name="addon_download">Pengelola Unduhan</string>
 	<string name="addon_qr_code_scan">Pemindai Kode QR</string>
 	<string name="agent">Agen Pengguna</string>
@@ -87,7 +89,7 @@
 	<string name="clear_all_script">Bersihkan Semua Script</string>
 	<string name="clear_cache_on_exit">Bersihkan Cache saat Keluar</string>
 	<string name="clear_data">Bersihkan Data</string>
-	<string name="clear_data_on_exit">Clear Data on Exit</string>
+	<string name="clear_data_on_exit">Hapus data saat keluar</string>
 	<string name="code_500">Layanan tidak tersedia.</string>
 	<string name="color_mode">Mode warna</string>
 	<string name="color_mode_hint">Bilah operasi warna saat browsing</string>
@@ -309,7 +311,7 @@
 	<string name="skin_settings">Setelan</string>
 	<string name="skin_style">Gaya</string>
 	<string name="skin_transparent">Transparan</string>
-	<string name="sort_bookmarks_hint">Please drag and drop the icon of bookmark to sort list</string>
+	<string name="sort_bookmarks_hint">Seret dan lepaskan ikon penanda untuk mengurutkan daftar</string>
 	<string name="sort_hint">Tekan lama dan seret untuk mengurutkan</string>
 	<string name="sougou_url">Sougou</string>
 	<string name="startpage_url">Halaman Awal</string>
@@ -319,9 +321,10 @@
 	<string name="sync_prompt">Ini akan menimpa bookmark dan setelan lokal anda saat ini. Lanjutkan?</string>
 	<string name="syns_success">Sinkronkan Selesai</string>
 	<string name="text">Teks</string>
-	<string name="title_app_chooser">App chooser</string>
+	<string name="title_app_chooser">Pemilih app</string>
 	<string name="title_custom_homepage">Kustom Beranda</string>
 	<string name="title_edit_bookmark">Sunting Bookmark</string>
+	<string name="title_edit_favorite">Edit Favorite</string>
 	<string name="title_edit_folder">Sunting Folder</string>
 	<string name="title_file_chooser">Pemilih berkas</string>
 	<string name="title_form_resubmission">Formulir Resubmission</string>
