@@ -363,5 +363,7 @@
     <string name="action_add_to_homepage">添加到浏览器主页</string>
     <string name="added_favorite_hint">已添加到浏览器主页</string>
     <string name="title_edit_favorite">编辑收藏</string>
-
+    <string name="custom_css_special">添加自定义 CSS</string>
+    <string name="force_enable_zoom">强制缩放</string>
+    <string name="set_ua_as">已设置当前浏览器标识为%s</string>
 </resources>
