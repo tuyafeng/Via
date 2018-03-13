@@ -383,4 +383,7 @@
     <string name="action_add_to_homepage">Add to Speed Dial</string>
     <string name="added_favorite_hint">Added to speed dial successfully</string>
     <string name="title_edit_favorite">Edit Favorite</string>
+    <string name="custom_css_special">Add Custom CSS</string>
+    <string name="force_enable_zoom">Force Enable Zoom</string>
+    <string name="set_ua_as">Set current user agent as %s</string>
 </resources>
