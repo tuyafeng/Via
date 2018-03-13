@@ -26,7 +26,7 @@
     <string name="orientation_system">Системная</string>
     <string name="orientation_auto">Автоповорот</string>
     <string name="orientation_portrait">Портретная</string>
-    <string name="orientation_landscape">Ландшафтная</string>
+    <string name="orientation_landscape">Альбомная</string>
     <string name="agent">Агент пользователя</string>
     <string name="home">Домашняя страница</string>
     <string name="fullscreen">Автоскрытие панелей</string>
@@ -152,7 +152,7 @@
     <string name="url_box_domain">Домен</string>
     <string name="url_box_url">Ссылка</string>
     <string name="url_box_title">Заголовок</string>
-    <string name="action_pcview">Версия для ПК</string>
+    <string name="action_pcview">Вид для ПК</string>
     <string name="action_source">Исходный код</string>
     <string name="action_translate">Перевод</string>
     <string name="title_edit_folder">Изменение папки</string>
@@ -178,7 +178,7 @@
     <string name="clear_ad_rules">Удалить все правила</string>
     <string name="color_mode">Смена цвета панелей</string>
     <string name="dialog_sure">Вы уверены, что хотите это сделать?</string>
-    <string name="action_send_to_launcher">Ярлык на рабочий стол</string>
+    <string name="action_send_to_launcher">Ярлык на экран</string>
     <string name="settings_cloud">Облако</string>
     <string name="user">Вход/регистрация</string>
     <string name="user_syns">Синхронизация из облака</string>
@@ -203,7 +203,7 @@
     <string name="addon_qr_code_scan">Сканер QR-кода</string>
     <string name="install_addon">Скачать и установить эти дополнения? Они будут работать после установки.</string>
     <string name="quick_back">\"Назад\" без перезагрузки страницы</string>
-    <string name="open_with">Открыть в&#8230;</string>
+    <string name="open_with">Открыть в…</string>
     <string name="download_completed">Загрузка завершена</string>
     <string name="toast_fullscreen_off">Обычный режим</string>
 
@@ -241,7 +241,7 @@
     <string name="saved_page_successfully">Страница успешно сохранена в архив.</string>
     <string name="deleted_failed">Ошибка при удалении. Попробуйте удалить файл вручную. Путь нахождения файла:</string>
 
-    <string name="empty_hint">Пусто&#8230;</string>
+    <string name="empty_hint">Пусто…</string>
 
     <string name="network_log">Сетевой журнал</string>
     <string name="catalog">Каталог</string>
@@ -382,5 +382,8 @@
     <string name="clear_data_on_exit">Очищать данные о выходе</string>
     <string name="action_add_to_homepage">Добавить в быстрый набор</string>
     <string name="added_favorite_hint">Успешно добавлено в быстрый набор</string>
-    <string name="title_edit_favorite">Изменение избранного</string>
+    <string name="title_edit_favorite">Редактирование ячейки</string>
+    <string name="custom_css_special">Добавить пользовательский CSS</string>
+    <string name="force_enable_zoom">Принудительное масштабирование</string>
+    <string name="set_ua_as">Установить текущий агент пользователя как %s</string>
 </resources>
