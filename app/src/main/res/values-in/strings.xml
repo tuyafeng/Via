@@ -103,6 +103,7 @@
 	<string name="crash_upload">Unggah crash log</string>
 	<string name="current_language">Bahasa saat ini</string>
 	<string name="custom_css">Custom CSS</string>
+	<string name="custom_css_special">Add Custom CSS</string>
 	<string name="custom_url">Kustom URL</string>
 	<string name="data_cache">Cache</string>
 	<string name="data_cleared">Data dibersihkan</string>
@@ -159,6 +160,7 @@
 	<string name="find_next">Temukan berikutnya</string>
 	<string name="find_pre">Temukan sebelumnya</string>
 	<string name="force_cancel">Paksa batal</string>
+	<string name="force_enable_zoom">Force Enable Zoom</string>
 	<string name="fullscreen">Otomatis Sembunyikan Bilah Operasi</string>
 	<string name="fullscreen_0">Matikan</string>
 	<string name="fullscreen_1">Gulir untuk sembunyi/tampilkan</string>
@@ -277,6 +279,7 @@
 	<string name="set_as_default">Atur sebagai browser bawaan anda?</string>
 	<string name="set_it_as_homepage">Atur ini sebagai beranda?</string>
 	<string name="set_to_default">Ini akan disetel sebagi bawaan setelah menggunakannya membuka link(%s), silahkan pilih Via untuk membuka link.</string>
+	<string name="set_ua_as">Set current user agent as %s</string>
 	<string name="setting_default">Atur sebagai Browser Bawaan</string>
 	<string name="settings">Setelan</string>
 	<string name="settings_about">Tentang</string>
