@@ -300,7 +300,8 @@
     <string name="official_website">Oficialus internetinis puslapis</string>
     <string name="current_language">Dabartinė kalba</string>
     <string name="download_manager">Atsisiuntimų valdytojas</string>
-    <string name="background_opacity">Fono permatomumas</string    <string name="action_pic_mode">Paveikslėlio režimas</string>
+    <string name="background_opacity">Fono permatomumas</string>
+    <string name="action_pic_mode">Paveikslėlio režimas</string>
     <string name="block_it_temporarily">Laikinai blokuoti</string>
     <string name="find_next">Surasti sekantį</string>
     <string name="find_pre">Surasti buvusį</string>
