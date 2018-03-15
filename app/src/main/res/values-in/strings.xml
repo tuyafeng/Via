@@ -213,7 +213,7 @@
 	<string name="message_import">Bookmark di Impor</string>
 	<string name="message_location">\nIngin menggunakan lokasi anda</string>
 	<string name="message_untrusted_certificate">Sertifikat dari situs ini tidak terpercaya. Tetap lanjutkan?</string>
-	<string name="missing_webview">Android System WebView tidak terisntal dengan benar. Anda ingin menginstalnya sekarang?</string>
+	<string name="missing_webview">Android System WebView tidak terinstal dengan benar. Anda ingin menginstalnya sekarang?</string>
 	<string name="msg_delete_folder">Hapus folder ini?</string>
 	<string name="msg_intent">Ingin membuka aplikasi anda?</string>
 	<string name="msg_setgoogle">Atur Google sebagai mesin pencari sekarang?</string>
