@@ -206,7 +206,7 @@
 	<string name="location_permission">Lokasi: untuk situs seperti Google Maps, ini dimatikan secara bawaan dalam setelan dan menampilkan permintaan pop-up jika situs ingin menggunakan lokasi anda jika ini dihidupkan.</string>
 	<string name="log_in_success">Masuk sukses.</string>
 	<string name="log_out">Keluar?</string>
-	<string name="log_page_hint">Anda dapat menyalin link atau domain berikut dan tempel ke %1$s untuk blok loading ini dengan Blok Kustom.</string>
+	<string name="log_page_hint">Anda dapat menyalin link atau domain berikut dan menempelkannya ke %1$s untuk blok yang memuatnya dengan Kostum Blok.</string>
 	<string name="message_add_bookmark">Sukses menambah bookmark</string>
 	<string name="message_exit">Tekan sekali lagi untuk keluar</string>
 	<string name="message_form_resubmission">Apakah anda ingin kirim ulang data?</string>
