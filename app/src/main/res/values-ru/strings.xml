@@ -46,7 +46,7 @@
     <string name="title_search_engine">Поисковая система</string>
     <string name="action_ok">OK</string>
     <string name="dialog_download">Загрузить этот файл?</string>
-    <string name="action_cancel">ОТМЕНИТЬ</string>
+    <string name="action_cancel">ОТМЕНА</string>
     <string name="title_warning">Внимание!</string>
     <string name="title_user_agent">Агент пользователя</string>
     <string name="title_custom_homepage">Выберите страницу:</string>
@@ -269,7 +269,7 @@
     <string name="restore_tabs">Восстанавливать вкладки при запуске</string>
     <string name="install_success">Успешно установлено!</string>
     <string name="uninstall_success">Успешно удалено!</string>
-    <string name="online_addons">Ещё дополнения</string>
+    <string name="online_addons">Другие дополнения</string>
     <string name="log_page_hint">Можно скопировать данную ссылку или домен и вставить в %1$s для блокирования их загрузки при помощи внешнего чёрного списка.</string>
     <string name="fullscreen_0">Отключено</string>
     <string name="fullscreen_1">Прокрутка скрывает/показывает</string>
@@ -386,4 +386,6 @@
     <string name="custom_css_special">Добавить пользовательский CSS</string>
     <string name="force_enable_zoom">Принудительное масштабирование</string>
     <string name="set_ua_as">Установить текущий агент пользователя как %s</string>
+    <string name="need_permission_to_install_pkg">Вы загружаете apk-файл. Для возможности установки загруженных файлов, пожалуйста, предоставьте Via соответствующее разрешение.</string>
+    <string name="check_install_permission">В разрешении на установку было отказано. Разрешить её в настройках сейчас?</string>
 </resources>
