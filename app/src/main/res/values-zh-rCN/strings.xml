@@ -366,4 +366,6 @@
     <string name="custom_css_special">添加自定义 CSS</string>
     <string name="force_enable_zoom">强制缩放</string>
     <string name="set_ua_as">已设置当前浏览器标识为%s</string>
+    <string name="need_permission_to_install_pkg">您正在下载安装包文件, 请授予 via 安装应用的权限以确保您能安装所下载的文件.</string>
+    <string name="check_install_permission">没有安装权限. 现在去设置吗?</string>
 </resources>
