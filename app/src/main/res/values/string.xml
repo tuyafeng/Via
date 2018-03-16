@@ -8,7 +8,7 @@
     <string name="action_share">Megosztás</string>
     <string name="action_history">Előzmények</string>
     <string name="action_bookmarks">Könyvjelzők</string>
-    <string name="action_screenshot"Képernyőkép</string>
+    <string name="action_screenshot">Képernyőkép</string>
     <string name="bookmarks_file">Könyvjelző Export</string>
     <string name="action_add_bookmark">Hozzáadás Könyvjelzőnek</string>
     <string name="action_night">Éjszakai Mód</string>
@@ -42,7 +42,7 @@
     <string name="agent_ie">IE 11 (PC)</string>
     <string name="agent_iphone">iPhone</string>
     <string name="agent_symbian">Symbian</string>
-    <string name="agent_custom"Egyéni</string>
+    <string name="agent_custom">Egyéni</string>
     <string name="title_search_engine">Keresőmotor</string>
     <string name="action_ok">OK</string>
     <string name="dialog_download">Szeretnéd letölteni ezt a fájlt?</string>
@@ -62,7 +62,7 @@
     <string name="hint_title">Cím</string>
     <string name="hint_url">URL</string>
     <string name="hint_folder">Mappa</string>
-    <string name="title_edit_bookmark"Könyvjelző Szerkesztése</string>
+    <string name="title_edit_bookmark">Könyvjelző Szerkesztése</string>
     <string name="action_edit">Módosítás</string>
     <string name="action_incognito">Inkognitó Mód</string>
     <string name="action_find">Keresés az Oldalon</string>
@@ -115,7 +115,7 @@
     <string name="toast_operation_failed">A művelet sikertelen volt.</string>
     <string name="toast_operation_done">A művelet befejeződött.</string>
     <string name="volume">Görgetés a Hangerőgombokkal.</string>
-    <string name="intent">Allow Website Redirect to App</string>
+    <string name="intent"></string>
     <string name="msg_intent">Would like to open your app?</string>
     <string name="dialog_adblock">Default Block:Use Local hosts.txt to Block Ads\n\nCustom Block:Use storage hosts.txt, it will download a file if unexisted.</string>
     <string name="dialog_adblock_default">Default Block</string>
