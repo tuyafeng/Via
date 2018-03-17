@@ -4,7 +4,7 @@
     <string name="app_name">Via</string>
     <string name="action_new_tab">Új Lap</string>
     <string name="action_open_in_new">Megnyitás Új Lapon</string>
-    <string name="action_save_img">Kép Mentése</sring>
+    <string name="action_save_img">Kép Mentése</string>
     <string name="action_share">Megosztás</string>
     <string name="action_history">Előzmények</string>
     <string name="action_bookmarks">Könyvjelzők</string>
