@@ -33,7 +33,7 @@
     <string name="java">JavaScript Engedélyezése</string>
     <string name="download">Letöltés Helye</string>
     <string name="size">Szöveg Mérete</string>
-    <string name="search">Search Engine</string>
+    <string name="search">Keresőmotor</string>
     <string name="search_hint">Keresés</string>
     <string name="action_delete">Törlés</string>
     <string name="action_delete_all">Összes Törlése</string>
@@ -65,13 +65,13 @@
     <string name="title_edit_bookmark">Könyvjelző szerkesztése</string>
     <string name="action_edit">Módosítás</string>
     <string name="action_incognito">Inkognitó Mód</string>
-    <string name="action_find">Keresés az Oldalon</string>
+    <string name="action_find">Keresés a Lapon</string>
     <string name="download_pending">Letöltés Megkezdése\u2026</string>
     <string name="cannot_download">Csak \"http\" vagy \"https\" URL-ek letölthetők.</string>
     <string name="download_no_sdcard_dlg_title">Nincs SD kártya</string>
     <string name="download_no_sdcard_dlg_msg">USB tárhely szükséges ennek a fájlnak a letöltéséhez.</string>
     <string name="download_sdcard_busy_dlg_title">USB tárhely nem elérhető.</string>
-    <string name="download_sdcard_busy_dlg_msg">Thea tárhely nem hozzáférhető jelenleg. A letöltések engedélyezéséhez kattints az USB Tárhely Kikapcsolására értesítéseknél.</string>
+    <string name="download_sdcard_busy_dlg_msg">A tárhely nem hozzáférhető jelenleg. A letöltések engedélyezéséhez kattints az USB Tárhely Kikapcsolására értesítéseknél.</string>
     <string name="message_import">Könyvjelzők importálva.</string>
     <string name="custom_url">Egyéni URL</string>
     <string name="baidu_url">Baidu</string>
@@ -126,7 +126,7 @@
     <string name="toast_clear_defaults">Kérlek töröld az alapértelmezéseket</string>
     <string name="toast_copy_url_successful">Link sikeresen másolva</string>
     <string name="toast_copy_text_successful">Szöveg sikeresen másolva</string>
-    <string name="incognito_on">Inkognutó módra váltottál</string>
+    <string name="incognito_on">Inkognitó módra váltottál</string>
     <string name="incognito_off">Inkognitó kikapcsolva</string>
     <string name="operation_none">Semmi</string>
     <string name="operation_reload">Újratöltés</string>
