@@ -42,11 +42,11 @@
     <string name="agent_ie">IE 11 (ПК)</string>
     <string name="agent_iphone">iPhone</string>
     <string name="agent_symbian">Symbian</string>
-    <string name="agent_custom">Свой</string>
+    <string name="agent_custom">Своё</string>
     <string name="title_search_engine">Поисковая система</string>
     <string name="action_ok">OK</string>
     <string name="dialog_download">Загрузить этот файл?</string>
-    <string name="action_cancel">ОТМЕНИТЬ</string>
+    <string name="action_cancel">ОТМЕНА</string>
     <string name="title_warning">Внимание!</string>
     <string name="title_user_agent">Агент пользователя</string>
     <string name="title_custom_homepage">Выберите страницу:</string>
@@ -64,8 +64,8 @@
     <string name="hint_folder">Папка</string>
     <string name="title_edit_bookmark">Изменить закладку</string>
     <string name="action_edit">Редактировать</string>
-    <string name="action_incognito">Режим \"инкогнито\"</string>
-    <string name="action_find">Найти на странице</string>
+    <string name="action_incognito">Инкогнито</string>
+    <string name="action_find">Поиск</string>
     <string name="download_pending">Начинается загрузка…</string>
     <string name="cannot_download">Скачивать можно только по \"http\"- или \"https\"-ссылкам.</string>
     <string name="download_no_sdcard_dlg_title">Нет SD-карты</string>
@@ -79,7 +79,7 @@
     <string name="bing_url">Bing</string>
     <string name="haosou_url">Haosou</string>
     <string name="duckduckgo_url">DuckDuckGo</string>
-    <string name="startpage_url">Дом. страница</string>
+    <string name="startpage_url">StartPage</string>
     <string name="ask_url">Ask</string>
     <string name="yahoo_url">Yahoo</string>
     <string name="yandex_url">Яндекс</string>
@@ -96,9 +96,9 @@
     <string name="hint_username">Имя</string>
     <string name="hint_password">Пароль</string>
     <string name="untitled">Без названия</string>
-    <string name="image_auto">Изображения: Wi-Fi</string>
-    <string name="image_on">Изображения: нет</string>
-    <string name="image_off">Изображения: да</string>
+    <string name="image_auto">Изображения только по Wi-Fi</string>
+    <string name="image_on">Блокировать изображения</string>
+    <string name="image_off">Показывать изображения</string>
     <string name="title_file_chooser">Выбор файла</string>
     <string name="import_backup">Восстановление закладок из копии</string>
     <string name="bookmark_export_path">Резервная копия сохранена в\n</string>
@@ -222,7 +222,7 @@
     <string name="settings_skin">Внешний вид</string>
     <string name="default_set">По умолчанию</string>
     <string name="custom_css">Свой CSS</string>
-    <string name="num_of_bookmarks_in_home">Кол-во закладок на дом. странице</string>
+    <string name="num_of_bookmarks_in_home">Количество закладок на домашней странице</string>
     <string name="picture">Изображение</string>
     <string name="text">Текст</string>
     <string name="html_code">HTML-код</string>
@@ -260,7 +260,7 @@
     <string name="none">Нет</string>
     <string name="action_log">Сетевой журнал</string>
     <string name="check_permission">Доступ запрещён. Разрешить его в настройках сейчас?</string>
-    <string name="need_permission_hint">Via необходимы следующие разрешения для работы.\n\n</string>
+    <string name="need_permission_hint">Via необходимы следующие разрешения для работы:\n\n</string>
     <string name="storage_permission">Хранилище: для скачивания файлов из браузера, импорта/экспорта закладок и т.п.\n\n</string>
     <string name="location_permission">Местоположение: для таких сайтов, как Карты Google. Оно отключено по умолчанию в настройках и отображается во всплывающем окне с просьбой использовать ваше местоположение, если разрешено.\n\n</string>
     <string name="phone_permission">Телефон: для сбора неконфиденциальной информации о вашем Android-устройстве, для сбора простой статистики и получения данные о сбоях в работе.\n\n</string>
@@ -269,7 +269,7 @@
     <string name="restore_tabs">Восстанавливать вкладки при запуске</string>
     <string name="install_success">Успешно установлено!</string>
     <string name="uninstall_success">Успешно удалено!</string>
-    <string name="online_addons">Ещё дополнения</string>
+    <string name="online_addons">Другие дополнения</string>
     <string name="log_page_hint">Можно скопировать данную ссылку или домен и вставить в %1$s для блокирования их загрузки при помощи внешнего чёрного списка.</string>
     <string name="fullscreen_0">Отключено</string>
     <string name="fullscreen_1">Прокрутка скрывает/показывает</string>
@@ -315,7 +315,7 @@
     <string name="what_is_next">Что дальше?</string>
     <string name="import_">Импорт</string>
     <string name="export_">Экспорт</string>
-    <string name="pull_to_refresh_gesture">Потяните, чтобы обновить жест</string>
+    <string name="pull_to_refresh_gesture">Жест \"потянуть для обновления\"</string>
     <string name="back_forward_gesture">Жест назад-вперёд</string>
     <string name="toolbar_settings_hint">Нажмите (потяните) кнопку для установки своего действия при удержании (сдвиге), удерживайте для просмотра установленного действия.</string>
     <string name="action_modify">Изменить</string>
@@ -382,8 +382,10 @@
     <string name="clear_data_on_exit">Очищать данные о выходе</string>
     <string name="action_add_to_homepage">Добавить в быстрый набор</string>
     <string name="added_favorite_hint">Успешно добавлено в быстрый набор</string>
-    <string name="title_edit_favorite">Редактирование ячейки</string>
+    <string name="title_edit_favorite">Редактирование</string>
     <string name="custom_css_special">Добавить пользовательский CSS</string>
     <string name="force_enable_zoom">Принудительное масштабирование</string>
     <string name="set_ua_as">Установить текущий агент пользователя как %s</string>
+    <string name="need_permission_to_install_pkg">Вы загружаете apk-файл. Для возможности установки загруженных файлов, пожалуйста, предоставьте Via соответствующее разрешение.</string>
+    <string name="check_install_permission">В разрешении на установку было отказано. Разрешить её в настройках сейчас?</string>
 </resources>
