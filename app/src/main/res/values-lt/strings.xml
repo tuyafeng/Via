@@ -248,7 +248,7 @@
 
     <string name="screenshot_hint">Jeigu jūs naudojate Android 5.0+ pilno ekrano internetinio puslapio kopijavimas gali neveikti. Mes vis dar ieškome sprendimų.</string>
 
-    <string name="conn_timeout">Bandymas prisijungti prie internetinio puslapio per ilgai užtruko</string>
+    <string name="conn_timeout">Bandymas prisijungti prie internetinio puslapio u=truko per ilgai</string>
 
     <string name="already_default">Tai jau yra pagrindinis</string>
 
@@ -363,7 +363,7 @@
     <string name="res_log_hint">Paspauskite daiktą, kad jį peržiūrėtumėte, ilgai paspauskite daiktą, kad jį atsisiųstumėte ar dar ką padarytumėte</string>
     <string name="no_resource">Šiame puslapyje nesuradome media failų.</string>
     <string name="no_network_log">Puslapis neturi ryšio sąrašų</string>
-    <string name="resource_sniffer_hint">\nKai yra paleista muzika ar video yra daug lengviau tai padaryti. Ps: Kaikurie puslapiai nepalaiko media failų atsisiuntimo, net jeigu media failas egzistuoja.</string>
+    <string name="resource_sniffer_hint">\nKai yra paleista muzika ar video yra daug lengviau tai padaryti. Ps: Kai kurie puslapiai nepalaiko media failų atsisiuntimo, net jeigu media failas egzistuoja.</string>
     <string name="action_download">Atsisiuntimai</string>
     <string name="action_play_with_mxplayer">Paleisti su MXplayer</string>
     <string name="empty_username_info">Prašome įrašyti savo vartotojo vardą</string>
@@ -383,4 +383,9 @@
     <string name="action_add_to_homepage">Pridėti prie pagrindinio ekrano</string>
     <string name="added_favorite_hint">Pridėjimas prie pagrindinio ekrano sėkmingas</string>
     <string name="title_edit_favorite">Redaguoti mėgstamiausius</string>
+    <string name="custom_css_special">Add Custom CSS</string>
+    <string name="force_enable_zoom">Įgalinti priverstinį puslapio priartinimą</string>
+    <string name="set_ua_as">%s nustatytas vartotojo agentu</string>
+    <string name="need_permission_to_install_pkg">Jūs atsisiuntėte apk failą, prašome Via`i suteikti apk failų instaliavimo leidimą.</string>
+    <string name="check_install_permission">Instaliavimo leidimas negautas. Suteikti leidimą sistemos nustatymuose?</string>
 </resources>
