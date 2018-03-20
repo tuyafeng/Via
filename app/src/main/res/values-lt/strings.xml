@@ -63,7 +63,7 @@
     <string name="hint_url">URL</string>
     <string name="hint_folder">Aplankalas</string>
     <string name="title_edit_bookmark">Redaguoti žymes</string>
-    <string name="action_edit">Redaguoti?</string>
+    <string name="action_edit">Redaguoti</string>
     <string name="action_incognito">Inkognito režimas</string>
     <string name="action_find">Rasti puslapyje</string>
     <string name="download_pending">Atsisiuntimas pradedamas\u2026</string>
@@ -293,7 +293,7 @@
     <string name="set_it_as_homepage">Nustatyti kaip pagrindiniu puslapiu</string>
     <string name="missing_webview">Android Sistemos WebView yra neinstaliuotas. Ar norite jį įrašyti?</string>
     <string name="install">Įrašyti</string>
-    <string name="crash_hint">Labai labai atsiprašome už šią klaidą.Tai mūsų (arba jūsų įrenginio)kaltė.</string>
+    <string name="crash_hint">Labai labai atsiprašome už šią klaidą. Tai mūsų (arba jūsų įrenginio)kaltė.</string>
     <string name="upload_hint">Labai labai atsiprašome už šią klaidą. Jei norite mums pranešti apie šią klaidą, jūs galite mums nusiųsti klaidų sąrašą. Ar norite jį išsiųsti dabar?</string>
     <string name="glean">Mūsų šūkis</string>
     <string name="contact_us">Susisiekite su mumis</string>
@@ -320,7 +320,7 @@
     <string name="toolbar_settings_hint">Paspausk tą mygtuką, kad nustatytum jo ilgą paspaudimą ir ilgai paspauskite mygtuką, kad pamatytumėte kas atsitiko</string>
     <string name="action_modify">Keisti</string>
     <string name="operation_hint">Gestai, naudojimo įpročiai t.t.</string>
-    <string name="empty_ads_mark_hint">Nėra pažymėtų reklamų. \nJūs puslapyje galite ilgai paspausti reklamą ir pasirinkti \"Pažymėti kaip raklamą\" kad blokuoti. \nArba tiesiog paspauskite nurodytą mygtuką.</string>
+    <string name="empty_ads_mark_hint">Nėra pažymėtų reklamų. \nJūs puslapyje galite ilgai paspausti reklamą ir pasirinkti \"Pažymėti kaip reklamą\" kad blokuoti. \nArba tiesiog paspauskite nurodytą mygtuką.</string>
     <string name="empty_script_hint">Papildinių nėra. \nPapildinių pridėjimui paspauskite "+" . \nArba tiesiog paspauskite šį mygtuką.↓</string>
     <string name="adblock_info">%1$d reklamų buvo užblokuota, %2$s išsaugoti</string>
     <string name="disable">Išjungti</string>
@@ -351,19 +351,19 @@
     <string name="import_url">Atidaryti adresą iš iškarpinės?\nadresas: %1$s</string>
     <string name="import_successful">Importavimas sėkmingas</string>
     <string name="all_sites">Visos internetinės svetainės/užrašai</string>
-    <string name="easter_egg">Velykinis kiaušinis (Easter egg) (AD)</string>
+    <string name="easter_egg">Easter egg (AD)</string>
     <string name="action_click_to_view">Paspauskite, kad žiūrėtumėte</string>
     <string name="join_us">Prisijunk prie mūsų</string>
     <string name="share_explanation">Užšifruotas pasidalinimas: galima peržiūrėti tik su via. \nDalintis: Dalintis šios svetainės adresu.</string>
     <string name="action_secret_share">Užšifruotas pasidalinimas</string>
     <string name="action_normal_share">Pasidalinti</string>
-    <string name="res_sniffer">Resursų snifferis</string>
+    <string name="res_sniffer">Media atsisiuntimas</string>
     <string name="search_by_pic">Ieškoti paveikslėliu</string>
-    <string name="resource_sniffer">Resursų snifferis</string>
+    <string name="resource_sniffer">Media atsisiuntimas</string>
     <string name="res_log_hint">Paspauskite daiktą, kad jį peržiūrėtumėte, ilgai paspauskite daiktą, kad jį atsisiųstumėte ar dar ką padarytumėte</string>
-    <string name="no_resource">Negalėjome nuskaityti šio puslapio resursų</string>
+    <string name="no_resource">Šiame puslapyje nesuradome media failų.</string>
     <string name="no_network_log">Puslapis neturi ryšio sąrašų</string>
-    <string name="resource_sniffer_hint">\nPS: Kai yra paleista muzika ar video yra daug lengviau tai padaryti</string>
+    <string name="resource_sniffer_hint">\nKai yra paleista muzika ar video yra daug lengviau tai padaryti. Ps: Kaikurie puslapiai nepalaiko media failų atsisiuntimo, net jeigu media failas egzistuoja.</string>
     <string name="action_download">Atsisiuntimai</string>
     <string name="action_play_with_mxplayer">Paleisti su MXplayer</string>
     <string name="empty_username_info">Prašome įrašyti savo vartotojo vardą</string>
@@ -380,7 +380,7 @@
     <string name="title_app_chooser">Programėlių parinktuvas</string>
     <string name="sort_bookmarks_hint">Prašome patempti ir paleisti žymės ikoną sąrašo rūšiavimui</string>
     <string name="clear_data_on_exit">Prieš išeinant išvalyti duomenis</string>
-    <string name="action_add_to_homepage">Pridėti greitai surankamu telefono numeriu</string>
-    <string name="added_favorite_hint">Greitai surankamo telefono numerio pridėjimas sėkmingas</string>
+    <string name="action_add_to_homepage">Pridėti prie pagrindinio ekrano</string>
+    <string name="added_favorite_hint">Pridėjimas prie pagrindinio ekrano sėkmingas</string>
     <string name="title_edit_favorite">Redaguoti mėgstamiausius</string>
 </resources>
