@@ -27,8 +27,8 @@
     <string name="orientation_auto">Automatinis</string>
     <string name="orientation_portrait">Stačias</string>
     <string name="orientation_landscape">Gulsčias</string>
-    <string name="agent">Vartotojas</string>
-    <string name="home">Namų puslapis</string>
+    <string name="agent">Vartotojo agentas</string>
+    <string name="home">Pagrindinis puslapis</string>
     <string name="fullscreen">Automatiškai slėpti apatinę funkcijų eilutę</string>
     <string name="java">Įjungti JavaScript</string>
     <string name="download">Atsisiuntimo vieta</string>
@@ -49,7 +49,7 @@
     <string name="action_cancel">Atšaukti</string>
     <string name="title_warning">Įspėjimas</string>
     <string name="title_user_agent">Vartotojas</string>
-    <string name="title_custom_homepage">Pasirinktinis namų puslapis</string>
+    <string name="title_custom_homepage">Pasirinktinis pagrindinis puslapis</string>
     <string name="action_webpage">Puslapis</string>
     <string name="action_yes">Taip</string>
     <string name="action_no">Atšaukti</string>
@@ -126,7 +126,7 @@
     <string name="toast_clear_defaults">Prašome išvalyti pagrindines programėles</string>
     <string name="toast_copy_url_successful">Adreso kopijavimas sėkmingas</string>
     <string name="toast_copy_text_successful">Teksto kopijavimas sėkmingas</string>
-    <string name="incognito_on">Jūs esate inkognito režime</string>
+    <string name="incognito_on">Jūs tapote inkognito</string>
     <string name="incognito_off">Inkognito režimo išjungimas</string>
     <string name="operation_none">Tuščia</string>
     <string name="operation_reload">Perkrauti</string>
@@ -178,7 +178,7 @@
     <string name="clear_ad_rules">Išvalyti visas reklamų atpažinimo taisykles</string>
     <string name="color_mode">Spalvingas režimas</string>
     <string name="dialog_sure">Ar jūs tikrai norite tai padaryti?</string>
-    <string name="action_send_to_launcher">Nusiųsti į namų ekraną</string>
+    <string name="action_send_to_launcher">Nusiųsti į paleidimo priemonę</string>
     <string name="settings_cloud">Paskyra</string>
     <string name="user">Prisijungti/sukurti paskyrą</string>
     <string name="user_syns">Sinchronizuoti</string>
@@ -198,7 +198,7 @@
     <string name="ui_mode">UI Režimas</string>
     <string name="ui_auto">Automatinis</string>
     <string name="open_or_search">Atidarytas/paieška</string>
-    <string name="settings_addons">Papildiniai</string>
+    <string name="settings_addons">Priedai</string>
     <string name="addon_download">Atsisiuntimų valdytojas</string>
     <string name="addon_qr_code_scan">Qr Kodo skanuoklis</string>
     <string name="install_addon">Grįžti į atsisiuntimus ir instaliuoti papildinį? Šis papildinys veiks tik po instaliavimo.</string>
@@ -233,7 +233,7 @@
     <string name="skin_fruity">Vaisinis</string>
     <string name="skin_transparent">Permatomas</string>
 
-    <string name="block_popup">Blokuoti iššokantį langą</string>
+    <string name="block_popup">Blokuoti iššokančius langus</string>
     <string name="open_window_hint">Puslapį atidaryti kitame lange</string>
 
     <string name="action_save_web_page">Išsaugoti šį puslapį</string>
@@ -266,14 +266,14 @@
     <string name="phone_permission">Skambučiai: gauti jūsų neprivačią bei telefono informaciją, kad galėtumėme sukurti paprastus klaidų sąrašus be statistikas.\n\n</string>
     <string name="force_cancel">Priverstinai atšaukti</string>
     <string name="restore_tabs_hint">Gražinti neuždarytus skirtukus iš praėjusios naršymo sesijos?</string>
-    <string name="restore_tabs">Automatiškai gražinti neuždarytus skirtukus iš praėjusios naršymo sesijos</string>
+    <string name="restore_tabs">Automatiškai grąžinti neuždarytus skirtukus iš praėjusios naršymo sesijos</string>
     <string name="install_success">Instaliavimas sėkmingas!!!</string>
     <string name="uninstall_success">Ištrynimas sėkmingas!!!</string>
     <string name="online_addons">Papildiniai iš interneto</string>
     <string name="log_page_hint">Jūs galite kopijuoti šį adresą ar domeną ir įklijuoti į %1$s blokavimui iš pasirinktinio blokavimo.</string>
     <string name="fullscreen_0">Išjungti</string>
-    <string name="fullscreen_1">Keliaukite aukštyn/žemyn, kad rodytute/slėptute</string>
-    <string name="fullscreen_2">Paspauskite, kad rodytute/slėptute</string>
+    <string name="fullscreen_1">Keliaujant aukštyn/žemyn, bus rodoma/slėpiama</string>
+    <string name="fullscreen_2">Paspausti rodymui/slėpimui</string>
     <string name="settings_script">Papildiniai</string>
     <string name="get_more_script">Pridėti daugiau papildinių</string>
     <string name="add_script">Pridėti papildinį</string>
@@ -296,7 +296,7 @@
     <string name="crash_hint">Labai labai atsiprašome už šią klaidą. Tai mūsų (arba jūsų įrenginio)kaltė.</string>
     <string name="upload_hint">Labai labai atsiprašome už šią klaidą. Jei norite mums pranešti apie šią klaidą, jūs galite mums nusiųsti klaidų sąrašą. Ar norite jį išsiųsti dabar?</string>
     <string name="glean">Mūsų šūkis</string>
-    <string name="contact_us">Susisiekite su mumis</string>
+    <string name="contact_us">Susisiekti su mumis</string>
     <string name="official_website">Oficialus internetinis puslapis</string>
     <string name="current_language">Dabartinė kalba</string>
     <string name="download_manager">Atsisiuntimų valdytojas</string>
@@ -315,14 +315,14 @@
     <string name="what_is_next">Kas toliau?</string>
     <string name="import_">Importuoti žymes</string>
     <string name="export_">Eksportuoti žymes</string>
-    <string name="pull_to_refresh_gesture">Patraukti iš viršaus žemyn, kad perkrauti puslapį</string>
+    <string name="pull_to_refresh_gesture">Patraukti iš viršaus žemyn puslapio perkrovimui</string>
     <string name="back_forward_gesture">Pirmyn/atgal gestai</string>
-    <string name="toolbar_settings_hint">Paspausk tą mygtuką, kad nustatytum jo ilgą paspaudimą ir ilgai paspauskite mygtuką, kad pamatytumėte kas atsitiko</string>
+    <string name="toolbar_settings_hint">Paspaudus mygtuką galima nustatyti jo ilgo paspaudimo reikšmę.</string>
     <string name="action_modify">Keisti</string>
     <string name="operation_hint">Gestai, naudojimo įpročiai t.t.</string>
-    <string name="empty_ads_mark_hint">Nėra pažymėtų reklamų. \nJūs puslapyje galite ilgai paspausti reklamą ir pasirinkti \"Pažymėti kaip reklamą\" kad blokuoti. \nArba tiesiog paspauskite nurodytą mygtuką.</string>
-    <string name="empty_script_hint">Papildinių nėra. \nPapildinių pridėjimui paspauskite "+" . \nArba tiesiog paspauskite šį mygtuką.↓</string>
-    <string name="adblock_info">%1$d reklamų buvo užblokuota, %2$s išsaugoti</string>
+    <string name="empty_ads_mark_hint">Nėra pažymėtų reklamų. \nIlgai paspaudus reklamą ir pasirinkus \"Pažymėti kaip reklamą\" reklama bus blokuojama.</string>
+    <string name="empty_script_hint">Papildinių nėra. \nPapildinių pridėjimui paspauskite "+" .</string>
+    <string name="adblock_info">Užblokuota %1$d reklamų, sutaupyta %2$s</string>
     <string name="disable">Išjungti</string>
     <string name="ui_traditional">Tradicinis</string>
     <string name="ui_simple">Paprastas</string>
@@ -340,7 +340,7 @@
     <string name="exit_incognito_dialog">Ar jūs norite uždaryti visus skirtukus prieš išjungiant \"Inkognito\" režimą?</string>
     <string name="file_size">Failo dydis</string>
     <string name="update">Atnaujinti</string>
-    <string name="update_msg">Atsirado naujas atnaujinimas. Ar norite atsinaujinti dabar?</string>
+    <string name="update_msg">Atsirado naujas atnaujinimas. Ar norite atnaujinti dabar?</string>
     <string name="ignore">Ignoruoti</string>
     <string name="share_script">Papildiniai %1$s, kopijuok šią žinutę ir atidaryk Via, kad importuotumėte. viaužrašas{%2$s}</string>
     <string name="share_online_script">Papildinys %1$s, kopijuok šią žinutę ir atidaryk %2$s su via, kad instaliuotumėte.</string>
