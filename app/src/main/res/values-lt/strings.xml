@@ -127,7 +127,7 @@
     <string name="toast_copy_url_successful">Adreso kopijavimas sėkmingas</string>
     <string name="toast_copy_text_successful">Teksto kopijavimas sėkmingas</string>
     <string name="incognito_on">Jūs tapote inkognito</string>
-    <string name="incognito_off">Inkognito režimo išjungimas</string>
+    <string name="incognito_off">Jūs išėjote iš inkognito režimo</string>
     <string name="operation_none">Tuščia</string>
     <string name="operation_reload">Perkrauti</string>
     <string name="operation_top">Keliauti aukštyn</string>
@@ -248,7 +248,7 @@
 
     <string name="screenshot_hint">Jeigu jūs naudojate Android 5.0+ pilno ekrano internetinio puslapio kopijavimas gali neveikti. Mes vis dar ieškome sprendimų.</string>
 
-    <string name="conn_timeout">Bandymas prisijungti prie internetinio puslapio u=truko per ilgai</string>
+    <string name="conn_timeout">Bandymas prisijungti prie internetinio puslapio užtruko per ilgai</string>
 
     <string name="already_default">Tai jau yra pagrindinis</string>
 
@@ -269,7 +269,7 @@
     <string name="restore_tabs">Automatiškai grąžinti neuždarytus skirtukus iš praėjusios naršymo sesijos</string>
     <string name="install_success">Instaliavimas sėkmingas!!!</string>
     <string name="uninstall_success">Ištrynimas sėkmingas!!!</string>
-    <string name="online_addons">Papildiniai iš interneto</string>
+    <string name="online_addons">Oficialūs priedai</string>
     <string name="log_page_hint">Jūs galite kopijuoti šį adresą ar domeną ir įklijuoti į %1$s blokavimui iš pasirinktinio blokavimo.</string>
     <string name="fullscreen_0">Išjungti</string>
     <string name="fullscreen_1">Keliaujant aukštyn/žemyn, bus rodoma/slėpiama</string>
@@ -337,7 +337,7 @@
     <string name="action_exit">Išeiti</string>
     <string name="set_as_default">Nustatyti pagrindine naršykle?</string>
     <string name="exit_incognito_title">Išeiti iš Inkognito režimo</string>
-    <string name="exit_incognito_dialog">Ar jūs norite uždaryti visus skirtukus prieš išjungiant \"Inkognito\" režimą?</string>
+    <string name="exit_incognito_dialog">Ar jūs norite uždaryti visus skirtukus prieš išjungiant inkognito režimą?</string>
     <string name="file_size">Failo dydis</string>
     <string name="update">Atnaujinti</string>
     <string name="update_msg">Atsirado naujas atnaujinimas. Ar norite atnaujinti dabar?</string>
