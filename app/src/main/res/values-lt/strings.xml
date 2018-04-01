@@ -243,7 +243,7 @@
 
     <string name="empty_hint">Nėra ką rodyti&#8230;</string>
 
-    <string name="network_log">Interneto ryšio veikimo sąrašas</string>
+    <string name="network_log">Resursų sąrašas</string>
     <string name="catalog">Katalogas</string>
 
     <string name="screenshot_hint">Jeigu jūs naudojate Android 5.0+ pilno ekrano internetinio puslapio kopijavimas gali neveikti. Mes vis dar ieškome sprendimų.</string>
@@ -258,19 +258,19 @@
     <string name="sync_prompt">Tai perrašys dabartines žymes ir nustatymus. Tęsti?</string>
     <string name="upload_prompt">Tai išsiųs dabartines žymes ir nustatymus. Tęsti?</string>
     <string name="none">Tuščia</string>
-    <string name="action_log">Interneto ryšio veikimo sąrašas</string>
-    <string name="check_permission">Leidimas atmestas. Leisti atidarant nustatymus?</string>
-    <string name="need_permission_hint">Via\'i reikia šių leidimų, kad galėtų veikti.\n\n</string>
-    <string name="storage_permission">Saugykla: failų atsisiuntimui ir žymių importavimui/eksportavimui bei t.t.\n\n</string>
-    <string name="location_permission">Vieta: puslapiams kaip Google Maps, pagal numatytuosius nustatymus ji yra išjungta, tačiau jeigu jos prireiks iššoks lentelė prašanti įjungti vietą.\n\n</string>
+    <string name="action_log">Surašyti</string>
+    <string name="check_permission">Leidimas atmestas. Leisti atidarant sistemos nustatymus?</string>
+    <string name="need_permission_hint">Prašytumėme suteikti šiuos leidimus:\n(Šie leidimai yra nebūtini ir jūs galite jų nesuteikti, jų prireikus iššoks lentelė prašanti juos įjungti.)\n\n</string>
+    <string name="storage_permission">Vidinė atmintis: failų atsisiuntimui, žymių importavimui/eksportavimui ir t.t.\n\n</string>
+    <string name="location_permission">Vietos prieiga: puslapiams kaip Google Maps.\n\n</string>
     <string name="phone_permission">Skambučiai: gauti jūsų neprivačią bei telefono informaciją, kad galėtumėme sukurti paprastus klaidų sąrašus be statistikas.\n\n</string>
     <string name="force_cancel">Priverstinai atšaukti</string>
-    <string name="restore_tabs_hint">Gražinti neuždarytus skirtukus iš praėjusios naršymo sesijos?</string>
+    <string name="restore_tabs_hint">Grąžinti neuždarytus skirtukus iš praėjusios naršymo sesijos?</string>
     <string name="restore_tabs">Automatiškai grąžinti neuždarytus skirtukus iš praėjusios naršymo sesijos</string>
     <string name="install_success">Instaliavimas sėkmingas!!!</string>
     <string name="uninstall_success">Ištrynimas sėkmingas!!!</string>
     <string name="online_addons">Oficialūs priedai</string>
-    <string name="log_page_hint">Jūs galite kopijuoti šį adresą ar domeną ir įklijuoti į %1$s blokavimui iš pasirinktinio blokavimo.</string>
+    <string name="log_page_hint">Jūs galite kopijuoti šį adresą ar domeną ir įklijuoti į %1$s užkrovimo blokavimui iš pasirinktinio blokavimo.</string>
     <string name="fullscreen_0">Išjungti</string>
     <string name="fullscreen_1">Keliaujant aukštyn/žemyn, bus rodoma/slėpiama</string>
     <string name="fullscreen_2">Paspausti rodymui/slėpimui</string>
@@ -291,7 +291,7 @@
     <string name="skin_style">Stilius</string>
     <string name="skin_settings">Nustatymai</string>
     <string name="set_it_as_homepage">Nustatyti kaip pagrindiniu puslapiu</string>
-    <string name="missing_webview">Android Sistemos WebView yra neinstaliuotas. Ar norite jį įrašyti?</string>
+    <string name="missing_webview">Android Sistemos WebView yra neįdiegtas. Ar norite jį įdiegti?</string>
     <string name="install">Įrašyti</string>
     <string name="crash_hint">Labai labai atsiprašome už šią klaidą. Tai mūsų (arba jūsų įrenginio)kaltė.</string>
     <string name="upload_hint">Labai labai atsiprašome už šią klaidą. Jei norite mums pranešti apie šią klaidą, jūs galite mums nusiųsti klaidų sąrašą. Ar norite jį išsiųsti dabar?</string>
@@ -328,7 +328,7 @@
     <string name="ui_simple">Paprastas</string>
     <string name="color_mode_hint">Prie spalvų prisitaikanti funkcijų eilutė</string>
     <string name="sort_hint">Ilgai paspauskite ir braukite, kad išrikiuotumėte</string>
-    <string name="action_sort_bookmarks">Rikiuoti žymes</string>
+    <string name="action_sort_bookmarks">Išikiuoti žymes</string>
     <string name="desc_close">Uždaryti</string>
     <string name="clear_cache_on_exit">Išvalyti talpyklą prieš išeinant</string>
     <string name="action_close_all_tabs">Uždaryti visus skirtukus?</string>
@@ -340,7 +340,7 @@
     <string name="exit_incognito_dialog">Ar jūs norite uždaryti visus skirtukus prieš išjungiant inkognito režimą?</string>
     <string name="file_size">Failo dydis</string>
     <string name="update">Atnaujinti</string>
-    <string name="update_msg">Atsirado naujas atnaujinimas. Ar norite atnaujinti dabar?</string>
+    <string name="update_msg">Atsirado naujas atnaujinimas. Ar norite jį įdiegti dabar?</string>
     <string name="ignore">Ignoruoti</string>
     <string name="share_script">Papildiniai %1$s, kopijuok šią žinutę ir atidaryk Via, kad importuotumėte. viaužrašas{%2$s}</string>
     <string name="share_online_script">Papildinys %1$s, kopijuok šią žinutę ir atidaryk %2$s su via, kad instaliuotumėte.</string>
