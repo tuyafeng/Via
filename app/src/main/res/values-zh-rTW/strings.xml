@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources tools:ignore="MissingTranslation" xmlns:tools="http://schemas.android.com/tools">
+    
     <string name="app_name">Via</string>
     <string name="action_new_tab">新分頁</string>
     <string name="action_open_in_new">新視窗開啟</string>
