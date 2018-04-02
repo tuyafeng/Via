@@ -45,7 +45,8 @@
     <string name="dialog_download">您是否需要下載此檔案？</string>
     <string name="action_cancel">取消</string>
     <string name="title_warning">警告</string>
-    <!--<string name="dialog_adobe_unsupported">Adobe Flash 無法正常支援 Android 4.2 以及更高版本並且可能導致瀏覽器損毀，若您啟用後出現瀏覽器損毀的問題請勿對此問題進行回饋。</string>-->
+    <!--<string name="dialog_adobe_unsupported">Adobe Flash 無法正常支援 Android 4.2 以及更高版本並且可能導致瀏覽器損毀，若您啟用後出現瀏覽器損毀的問題請勿對此問題進行回報。</string>-->
+
     <string name="title_user_agent">使用者代理(User Agent)</string>
     <string name="title_custom_homepage">自訂首頁</string>
     <string name="action_webpage">網頁</string>
@@ -101,7 +102,7 @@
     <string name="import_backup">匯入書籤</string>
     <string name="bookmark_export_path">書籤已匯出至\n</string>
     <string name="import_bookmark_error">無法自檔案匯入書籤</string>
-    <string name="feedback">意見回饋</string>
+    <string name="feedback">意見回報</string>
     <string name="message_add_bookmark">已成功新增書籤</string>
     <string name="message_exit">再按一次結束</string>
     <string name="web_screenshot">網頁擷取</string>
@@ -122,8 +123,8 @@
     <string name="toast_clear_defaults">請清除預設</string>
     <string name="toast_copy_url_successful">成功複製連結</string>
     <string name="toast_copy_text_successful">成功複製文字</string>
-    <string name="incognito_on">你已進入無痕</string>
-    <string name="incognito_off">無痕關閉</string>
+    <string name="incognito_on">無痕瀏覽</string>
+    <string name="incognito_off">正常瀏覽</string>
     <string name="settings_ad_rules">已標記廣告</string>
     <string name="settings_privacy">隱私</string>
     <string name="settings_advanced">進階</string>
@@ -132,7 +133,7 @@
     <string name="operation_none">無操作</string>
     <string name="operation_reload">重新載入</string>
     <string name="operation_top">捲動至頂端</string>
-    <string name="operation_bottom">捲動至低端</string>
+    <string name="operation_bottom">捲動至底端</string>
     <string name="operation_input">輸入網址</string>
     <string name="operation_newtab">新分頁</string>
     <string name="operation_addbookmark">新增書籤</string>
@@ -309,6 +310,7 @@
     <string name="ui_traditional">傳統</string>
     <string name="ui_simple">簡單</string>
     <string name="color_mode_hint">瀏覽網頁時操作列自動對應色彩</string>
+    <string name="action_dont_allow">拒絕</string>
     <string name="sort_hint">按住並拖曳來排序</string>
     <string name="action_sort_bookmarks">排序書簽</string>
     <string name="desc_close">關閉</string>
@@ -359,5 +361,18 @@
     <string name="page_info_title">標題：</string>
     <string name="page_info_url">頁面連結：</string>
     <string name="page_info_link">選取連結：</string>
-
+    <string name="action_copy_text">複製文字</string>
+    <string name="no_network">無網路連線</string>
+    <string name="action_open_with">以相關應用程式開啟</string>
+    <string name="title_app_chooser">選擇 APP 開啟</string>
+    <string name="sort_bookmarks_hint">請拖曳書籤的圖示來排序它們</string>
+    <string name="clear_data_on_exit">離開時清除資料</string>
+    <string name="action_add_to_homepage">新增到瀏覽器首頁</string>
+    <string name="added_favorite_hint">已新增到瀏覽器首頁</string>
+    <string name="title_edit_favorite">編輯收藏</string>
+    <string name="custom_css_special">新增自訂 CSS</string>
+    <string name="force_enable_zoom">強制縮放</string>
+    <string name="set_ua_as">已設定目前瀏覽器標識為：%s</string>
+    <string name="need_permission_to_install_pkg">您正在下載安裝包檔案，請允許 Via 安裝應用程式的權限以確保您能安裝所下載的檔案。</string>
+    <string name="check_install_permission">您現在沒有安裝的權限，現在設定？</string>
 </resources>
