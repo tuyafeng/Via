@@ -14,7 +14,7 @@
     <string name="action_night">夜晚模式</string>
     <string name="action_copy">複製連結</string>
     <string name="action_copy_domain">複製網域</string>
-    <string name="action_copy_text">Copy Text</string>
+    <string name="action_copy_text">複製文字</string>
     <string name="action_image_off">封鎖圖片</string>
     <string name="action_tools">工具箱</string>
     <string name="settings">設定</string>
@@ -290,7 +290,7 @@
     <string name="skin_bg">背景</string>
     <string name="skin_style">樣式</string>
     <string name="skin_settings">設定</string>
-    <string name="set_it_as_homepage">設定其為首頁？</string>
+    <string name="set_it_as_homepage">將其設為首頁？</string>
     <string name="missing_webview">Android System WebView 未正確安裝。立即去安裝？</string>
     <string name="install">安裝</string>
     <string name="crash_hint">十分抱歉，程式出現了損毀。</string>
@@ -375,19 +375,19 @@
     <string name="page_info_title">標題：</string>
     <string name="page_info_url">頁面連結：</string>
     <string name="page_info_link">複製連結：</string>
-    <string name="no_network">No network connections are available</string>
-    <string name="action_open_with">Open with related app</string>
-    <string name="title_app_chooser">App chooser</string>
-    <string name="sort_bookmarks_hint">Please drag and drop the icon of bookmark to sort list</string>
-    <string name="clear_data_on_exit">Clear Data on Exit</string>
-    <string name="action_add_to_homepage">Add to Speed Dial</string>
-    <string name="added_favorite_hint">Added to speed dial successfully</string>
-    <string name="title_edit_favorite">Edit Favorite</string>
-    <string name="custom_css_special">Add Custom CSS</string>
-    <string name="force_enable_zoom">Force Enable Zoom</string>
-    <string name="set_ua_as">Set current user agent as %s</string>
-    <string name="need_permission_to_install_pkg">You are downloading apk file, please give via install packages permission to ensure you can install the download files.</string>
-    <string name="check_install_permission">Install permission denied. Set it in settings now?</string>
+    <string name="no_network">無網路連線</string>
+    <string name="action_open_with">開啟相關的應用程式</string>
+    <string name="title_app_chooser">應用程式選擇器</string>
+    <string name="sort_bookmarks_hint">請將書籤圖示拖放至排序清單中</string>
+    <string name="clear_data_on_exit">結束時清除資料</string>
+    <string name="action_add_to_homepage">新增至快速撥號</string>
+    <string name="added_favorite_hint">成功新增</string>
+    <string name="title_edit_favorite">編輯最愛</string>
+    <string name="custom_css_special">新增自訂 CSS</string>
+    <string name="force_enable_zoom">強制啟用縮放</string>
+    <string name="set_ua_as">設定目前使用者代理為 %s</string>
+    <string name="need_permission_to_install_pkg">您正在下載 APK 檔，請授予安裝套件的權限，以確保您可以安裝所下載的檔案。</string>
+    <string name="check_install_permission">安裝權限已被拒絕，立即設定它？</string>
     <!--<string name="dialog_adobe_unsupported">Adobe Flash 無法正常支援 Android 4.2 以及更高版本並且可能導致瀏覽器損毀，若您啟用後出現瀏覽器損毀的問題請勿對此問題進行回饋。</string>-->
 
 </resources>
