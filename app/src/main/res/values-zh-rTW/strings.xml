@@ -14,7 +14,9 @@
     <string name="action_night">夜晚模式</string>
     <string name="action_copy">複製連結</string>
     <string name="action_copy_domain">複製網域</string>
+    <string name="action_copy_text">Copy Text</string>
     <string name="action_image_off">封鎖圖片</string>
+    <string name="action_tools">工具箱</string>
     <string name="settings">設定</string>
     <string name="location">允許網站存取位置</string>
     <string name="password">儲存密碼</string>
@@ -46,7 +48,6 @@
     <string name="dialog_download">您是否需要下載此檔案？</string>
     <string name="action_cancel">取消</string>
     <string name="title_warning">警告</string>
-    <!--<string name="dialog_adobe_unsupported">Adobe Flash 無法正常支援 Android 4.2 以及更高版本並且可能導致瀏覽器損毀，若您啟用後出現瀏覽器損毀的問題請勿對此問題進行回饋。</string>-->
     <string name="title_user_agent">使用者代理(User Agent)</string>
     <string name="title_custom_homepage">自訂首頁</string>
     <string name="action_webpage">網頁</string>
@@ -112,24 +113,21 @@
     <string name="toast_wait_a_minute">請稍候…</string>
     <string name="toast_save_to">檔案儲存至： </string>
     <string name="toast_operation_failed">操作失敗</string>
+    <string name="toast_operation_done">此操作已完成</string>
     <string name="volume">按音量鍵捲動</string>
     <string name="intent">允許網站重新導向至應用程式</string>
+    <string name="msg_intent">想開啟你的應用程式嗎？</string>
     <string name="dialog_adblock">預設封鎖：使用本機 hosts.txt 封鎖廣告\n\n自訂封鎖：使用儲存空間裡的 hosts.txt，若不存在將下載一個此檔案。</string>
     <string name="dialog_adblock_default">預設封鎖</string>
     <string name="dialog_adblock_custom">強力封鎖</string>
     <string name="dialog_adblock_download">下載完成後將自動選擇\n\n檔案路徑：</string>
     <string name="dialog_adblock_custom_hint">\n請勿變更此檔案的路徑或名稱，這將導致封鎖廣告失效，但你可以編輯此檔案以自訂封鎖清單。</string>
-    <string name="setting_default">設定為預設瀏覽器</string>
+    <string name="setting_default">設為預設瀏覽器</string>
     <string name="toast_clear_defaults">請清除預設</string>
     <string name="toast_copy_url_successful">成功複製連結</string>
     <string name="toast_copy_text_successful">成功複製文字</string>
     <string name="incognito_on">你已進入無痕</string>
     <string name="incognito_off">無痕關閉</string>
-    <string name="settings_ad_rules">已標記廣告</string>
-    <string name="settings_privacy">隱私</string>
-    <string name="settings_advanced">進階</string>
-    <string name="settings_about">關於</string>
-    <string name="settings_operation">操作</string>
     <string name="operation_none">無操作</string>
     <string name="operation_reload">重新載入</string>
     <string name="operation_top">捲動至頂端</string>
@@ -145,6 +143,11 @@
     <string name="operation_goback">返回</string>
     <string name="operation_goforward">向前</string>
     <string name="operation_find">在網頁內尋找</string>
+    <string name="settings_ad_rules">已標記廣告</string>
+    <string name="settings_operation">操作</string>
+    <string name="settings_privacy">隱私</string>
+    <string name="settings_advanced">進階</string>
+    <string name="settings_about">關於</string>
     <string name="url_box">網址方塊內容</string>
     <string name="url_box_domain">網域</string>
     <string name="url_box_url">網址</string>
@@ -164,7 +167,6 @@
     <string name="title_edit_folder">編輯資料夾</string>
     <string name="msg_delete_folder">刪除此資料夾？</string>
     <string name="action_translate">翻譯網頁</string>
-    <string name="msg_intent">想開啟你的應用程式嗎？</string>
     <string name="msg_setgoogle">立即設定 Google 搜尋引擎嗎？</string>
     <string name="action_mark">標記為廣告</string>
     <string name="settings_block">AdBlock</string>
@@ -176,7 +178,6 @@
     <string name="clear_ad_rules">清空廣告規則</string>
     <string name="color_mode">色彩模式</string>
     <string name="dialog_sure">你確定想這麼做嗎？</string>
-    <string name="toast_operation_done">此操作已完成</string>
     <string name="action_send_to_launcher">傳送至啟動器</string>
     <string name="settings_cloud">帳號</string>
     <string name="user">登入/註冊</string>
@@ -205,6 +206,7 @@
     <string name="open_with">透過&#8230;開啟</string>
     <string name="download_completed">下載已完成</string>
     <string name="toast_fullscreen_off">結束全螢幕模式</string>
+    
     <string name="clear_data">清除資料</string>
     <string name="data_cache">快取</string>
     <string name="data_form_data">表單資料</string>
@@ -212,8 +214,11 @@
     <string name="data_storage">網頁儲存區</string>
     <string name="data_cookies">Cookies</string>
     <string name="data_cleared">資料已清除</string>
+    
     <string name="cannot_undo">此動作無法復原。</string>
+    
     <string name="sync_desc">若此帳號不存在將被建立</string>
+    
     <string name="settings_skin">自訂外觀</string>
     <string name="default_set">預設值</string>
     <string name="custom_css">自訂 CSS</string>
@@ -221,23 +226,34 @@
     <string name="picture">圖片</string>
     <string name="text">文字</string>
     <string name="html_code">HTML 代碼</string>
+    
     <string name="action_view_image">檢視圖片</string>
+    
     <string name="skin_colorful">繽紛</string>
     <string name="skin_fruity">果味</string>
     <string name="skin_transparent">透明</string>
+    
     <string name="block_popup">封鎖快顯</string>
     <string name="open_window_hint">網站嘗試開啟一個新視窗</string>
+    
     <string name="action_save_web_page">儲存網頁</string>
     <string name="action_saved_pages">已儲存頁面</string>
     <string name="saved_page_successfully">已成功儲存頁面，位於首頁選單裡：已儲存頁面</string>
     <string name="deleted_failed">"刪除失敗，此檔案位於下載路徑: "</string>
+    
     <string name="empty_hint">空空如也&#8230;</string>
+    
     <string name="network_log">網路記錄檔</string>
     <string name="catalog">目錄</string>
+    
     <string name="screenshot_hint">完整網頁擷取在 Android 5.0 以上的裝置上存在相容性問題, 我們仍在找尋解決方案。</string>
+    
     <string name="conn_timeout">連線逾時</string>
+    
     <string name="already_default">已設為預設瀏覽器</string>
+    
     <string name="set_to_default">使用 Via 開啟連結(%s)後將被設為預設瀏覽器，請選擇以 Via 開啟此連結。</string>
+    
     <string name="quick_back_desc">在你開啟此切換時，可能有相容性問題。在你發現返回異常時，應關閉它。</string>
     <string name="sync_prompt">這將覆寫你目前的本機書籤與設定。繼續嗎？</string>
     <string name="upload_prompt">這將上傳你目前的本機書籤與設定。繼續嗎？</string>
@@ -265,6 +281,7 @@
     <string name="script_code">代碼 (javascript)</string>
     <string name="clear_all_script">清除所有指令碼</string>
     <string name="toast_copy_domain_successful">成功複製網域</string>
+    <string name="go_together">結伴而行</string>
     <string name="help_us_translate">協助翻譯</string>
     <string name="confirm_to_leave">確定離開</string>
     <string name="leave">離開此頁面</string>
@@ -288,10 +305,10 @@
     <string name="block_it_temporarily">暫時封鎖</string>
     <string name="find_next">尋找下一個</string>
     <string name="find_pre">尋找上一個</string>
-    <string name="go_together">結伴而行</string>
     <string name="action_open_in_background">背景開啟</string>
     <string name="cannot_work">僅支援 \"http\" 或 \"https\" 開頭的網址</string>
     <string name="action_fullscreen">全螢幕</string>
+    <string name="action_ua">使用者代理</string>
     <string name="settings_general">一般</string>
     <string name="no_bookmark">無書籤~</string>
     <string name="import_or_export_bookmarks">匯入/匯出書籤</string>
@@ -348,8 +365,6 @@
     <string name="no_resource">此頁面無資源。</string>
     <string name="no_network_log">此頁面無網路記錄檔。</string>
     <string name="action_download">下載</string>
-    <string name="action_tools">工具箱</string>
-    <string name="action_ua">瀏覽器的使用者代理</string>
     <string name="action_play_with_mxplayer">使用 MX Player 播放</string>
     <string name="empty_username_info">請填寫你的使用者名稱</string>
     <string name="empty_password_info">請填寫你的密碼</string>
@@ -359,7 +374,8 @@
     <string name="action_page_info">頁面資訊</string>
     <string name="page_info_title">標題：</string>
     <string name="page_info_url">頁面連結：</string>
-    <string name="page_info_link">選取連結：</string>
+    <string name="page_info_link">複製連結：</string>
+    <string name="no_network">No network connections are available</string>
     <string name="action_open_with">Open with related app</string>
     <string name="title_app_chooser">App chooser</string>
     <string name="sort_bookmarks_hint">Please drag and drop the icon of bookmark to sort list</string>
@@ -372,5 +388,6 @@
     <string name="set_ua_as">Set current user agent as %s</string>
     <string name="need_permission_to_install_pkg">You are downloading apk file, please give via install packages permission to ensure you can install the download files.</string>
     <string name="check_install_permission">Install permission denied. Set it in settings now?</string>
+    <!--<string name="dialog_adobe_unsupported">Adobe Flash 無法正常支援 Android 4.2 以及更高版本並且可能導致瀏覽器損毀，若您啟用後出現瀏覽器損毀的問題請勿對此問題進行回饋。</string>-->
 
 </resources>
