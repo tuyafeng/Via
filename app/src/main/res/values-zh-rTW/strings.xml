@@ -359,5 +359,17 @@
     <string name="page_info_title">標題：</string>
     <string name="page_info_url">頁面連結：</string>
     <string name="page_info_link">選取連結：</string>
+    <string name="action_open_with">Open with related app</string>
+    <string name="title_app_chooser">App chooser</string>
+    <string name="sort_bookmarks_hint">Please drag and drop the icon of bookmark to sort list</string>
+    <string name="clear_data_on_exit">Clear Data on Exit</string>
+    <string name="action_add_to_homepage">Add to Speed Dial</string>
+    <string name="added_favorite_hint">Added to speed dial successfully</string>
+    <string name="title_edit_favorite">Edit Favorite</string>
+    <string name="custom_css_special">Add Custom CSS</string>
+    <string name="force_enable_zoom">Force Enable Zoom</string>
+    <string name="set_ua_as">Set current user agent as %s</string>
+    <string name="need_permission_to_install_pkg">You are downloading apk file, please give via install packages permission to ensure you can install the download files.</string>
+    <string name="check_install_permission">Install permission denied. Set it in settings now?</string>
 
 </resources>
