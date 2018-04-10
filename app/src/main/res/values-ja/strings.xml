@@ -319,7 +319,7 @@
     <string name="what_is_next">次はどうしますか？</string>
     <string name="no_bookmark">ブックマークはありません</string>
     <string name="settings_general">一般</string>
-    <string name="ui_simple">操作バーを上下に配置（</string>
+    <string name="ui_simple">操作バーを上下に配置</string>
     <string name="ui_traditional">通常</string>
     <string name="import_or_export_bookmarks">ブックマークをインポート/エクスポート</string>
     <string name="go_together">開発に協力する</string>
