@@ -364,7 +364,7 @@
     <string name="no_resource">The page has no resource.</string>
     <string name="no_network_log">The page has no network log.</string>
     <string name="resource_sniffer_hint">\nPS: it is easier to get when music or video is playing.</string>
-    <string name="action_download">Download</string>
+    <string name="action_download">Downloads</string>
     <string name="action_play_with_mxplayer">Play with MXPlayer</string>
     <string name="empty_username_info">Please input your username.</string>
     <string name="empty_password_info">Please input your password.</string>
