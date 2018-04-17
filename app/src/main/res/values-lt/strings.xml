@@ -144,7 +144,7 @@
     <string name="operation_goforward">Eiti pirmyn</string>
     <string name="operation_find">Žodžių paieška (puslapyje)</string>
     <string name="settings_ad_rules">Pažymėtos reklamos</string>
-    <string name="settings_operation">Patogumo nustatymai</string>
+    <string name="settings_operation">Trumpiniai</string>
     <string name="settings_privacy">Privatumas</string>
     <string name="settings_advanced">Išplėstiniai</string>
     <string name="settings_about">Apie</string>
@@ -269,7 +269,7 @@
     <string name="restore_tabs">Automatiškai grąžinti neuždarytus skirtukus iš praėjusios naršymo sesijos</string>
     <string name="install_success">Instaliavimas sėkmingas!!!</string>
     <string name="uninstall_success">Ištrynimas sėkmingas!!!</string>
-    <string name="online_addons">Oficialūs priedai</string>
+    <string name="online_addons">Atsisiunčiami priedai</string>
     <string name="log_page_hint">Jūs galite kopijuoti šį adresą ar domeną ir įklijuoti į %1$s užkrovimo blokavimui iš pasirinktinio blokavimo.</string>
     <string name="fullscreen_0">Išjungti</string>
     <string name="fullscreen_1">Keliaujant aukštyn/žemyn, bus rodoma/slėpiama</string>
@@ -332,7 +332,7 @@
     <string name="desc_close">Uždaryti</string>
     <string name="clear_cache_on_exit">Išvalyti talpyklą prieš išeinant</string>
     <string name="action_close_all_tabs">Uždaryti visus skirtukus?</string>
-    <string name="skin_hide_search_part">Slėpti paieškos dalį</string>
+    <string name="skin_hide_search_part">Slėpti paieškos eilutę</string>
     <string name="action_more">Daugiau</string>
     <string name="action_exit">Išeiti</string>
     <string name="set_as_default">Nustatyti pagrindine naršykle?</string>
