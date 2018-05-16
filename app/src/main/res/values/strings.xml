@@ -386,6 +386,6 @@
     <string name="custom_css_special">Add Custom CSS</string>
     <string name="force_enable_zoom">Force Enable Zoom</string>
     <string name="set_ua_as">Set current user agent as %s</string>
-    <string name="need_permission_to_install_pkg">You are downloading apk file, please give via install packages permission to ensure you can install the download files.</string>
+    <string name="need_permission_to_install_pkg">You are downloading an .apk file, please give Via install packages permission to ensure you can install the download files.</string>
     <string name="check_install_permission">Install permission denied. Set it in settings now?</string>
 </resources>
