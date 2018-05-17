@@ -293,8 +293,8 @@
     <string name="set_it_as_homepage">Set it as homepage?</string>
     <string name="missing_webview">Android System WebView is not installed correctly. Do you want to install it now?</string>
     <string name="install">Install</string>
-    <string name="crash_hint">Very very sorry for crashing.</string>
-    <string name="upload_hint">Very very sorry for crashing. But you can upload crash log to help us do better. Upload now?</string>
+    <string name="crash_hint">We're ery very sorry for crashing.</string>
+    <string name="upload_hint">We're very very sorry for crashing. But you can upload crash log to help us do better. Upload now?</string>
     <string name="glean">Glean</string>
     <string name="contact_us">Contact us</string>
     <string name="official_website">Official website</string>
@@ -363,7 +363,7 @@
     <string name="res_log_hint">Click item to preview, long click item to download or do something else.</string>
     <string name="no_resource">The page has no resource.</string>
     <string name="no_network_log">The page has no network log.</string>
-    <string name="resource_sniffer_hint">\nPS: it is easier to get when music or video is playing.</string>
+    <string name="resource_sniffer_hint">\nIt is easier to get when music or video is playing. PS: some websites don't support this feature.</string>
     <string name="action_download">Downloads</string>
     <string name="action_play_with_mxplayer">Play with MXPlayer</string>
     <string name="empty_username_info">Please input your username.</string>
