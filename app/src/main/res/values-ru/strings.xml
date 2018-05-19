@@ -123,7 +123,7 @@
   <string name="dialog_adblock_download">Список будет выбран автоматически после загрузки.\n\nПуть:</string>
   <string name="dialog_adblock_custom_hint">\nПожалуйста, не меняйте имя и путь файла. Вы можете редактировать этот файл для создания своего списка блокировки.</string>
   <string name="setting_default">Установить как браузер по умолчанию</string>
-  <string name="toast_clear_defaults">Стереть умолчания</string>
+  <string name="toast_clear_defaults">Очистите настройки по умолчанию</string>
   <string name="toast_copy_url_successful">Ссылка скопирована</string>
   <string name="toast_copy_text_successful">Текст скопирован</string>
   <string name="incognito_on">Вы перешли в режим инкогнито</string>
@@ -152,7 +152,7 @@
   <string name="url_box_domain">Домен</string>
   <string name="url_box_url">Ссылка</string>
   <string name="url_box_title">Заголовок</string>
-  <string name="action_pcview">Полная версия</string>
+  <string name="action_pcview">Вид для ПК</string>
   <string name="action_source">Исходный код</string>
   <string name="action_translate">Перевод</string>
   <string name="title_edit_folder">Изменение папки</string>
@@ -334,7 +334,7 @@
   <string name="import_rule">Импортировать правило для блокировки рекламы %1$s из буфера обмена?</string>
   <string name="share_url">Это приватная ссылка, скопируйте данное сообщение и откройте ссылку в Via для её просмотра. viaurl{%1$s}</string>
   <string name="import_url">Открыть ссылку из буфера обмена?\nСсылка: %1$s</string>
-  <string name="import_successful">Импорт завершен</string>
+  <string name="import_successful">Импорт завершён</string>
   <string name="all_sites">Все сайты</string>
   <string name="easter_egg">Пасхальное яйцо (реклама)</string>
   <string name="action_click_to_view">Нажмите для просмотра</string>
@@ -345,10 +345,10 @@
   <string name="res_sniffer">Захват ресурсов</string>
   <string name="search_by_pic">Поиск по изображению</string>
   <string name="resource_sniffer">Захват ресурсов</string>
-  <string name="res_log_hint">Нажмите на элемент для предпросмотра. Удерживайте, чтобы загрузить или сделать что-то другое.</string>
+  <string name="res_log_hint">Нажмите на элемент для предпросмотра. Удерживайте, чтобы загрузить или сделать что-нибудь ещё.</string>
   <string name="no_resource">На странице нет ресурсов.</string>
   <string name="no_network_log">На странице нет сетевого журнала.</string>
-  <string name="resource_sniffer_hint">\nP.S.: это легче сделать, когда музыка или видео воспроизводится.</string>
+  <string name="resource_sniffer_hint">\nПримечание: это легче получить, когда играет музыка или видео.</string>
   <string name="action_download">Скачать</string>
   <string name="action_play_with_mxplayer">Воспроизвести в MXPlayer</string>
   <string name="empty_username_info">Введите своё имя пользователя.</string>
@@ -358,7 +358,7 @@
   <string name="action_preview">Предпросмотр</string>
   <string name="action_page_info">О странице</string>
   <string name="page_info_title">Заголовок:</string>
-  <string name="page_info_url">URL-ссылка страницы:</string>
+  <string name="page_info_url">URL страницы:</string>
   <string name="page_info_link">URL ссылки:</string>
   <string name="no_network">Нет доступных подключений к сети</string>
   <string name="action_open_with">Открыть с помощью соответствующего приложения</string>

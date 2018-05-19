@@ -74,8 +74,17 @@
   <string name="download_sdcard_busy_dlg_msg">التخزين مشغول. للسماح بالتنزيلات ، المس إيقاف تخزين USB في الإشعار.</string>
   <string name="message_import">الإشارات المرجعية تم استيرادها</string>
   <string name="custom_url">تخصيص عنوان الرابط</string>
+  <string name="baidu_url">Baidu</string>
+  <string name="shenma_url">ShenMa</string>
+  <string name="bing_url">Bing</string>
+  <string name="haosou_url">Haosou</string>
+  <string name="duckduckgo_url">DuckDuckGo</string>
   <string name="startpage_url">بدأ الصفحة</string>
   <string name="ask_url">اسأل</string>
+  <string name="yahoo_url">Yahoo</string>
+  <string name="yandex_url">Yandex</string>
+  <string name="google_url">Google</string>
+  <string name="sougou_url">Sougou</string>
   <string name="block_ads">حظر الإعلانات</string>
   <string name="message_untrusted_certificate">شهادة الموقع غير موثوق بها. المتابعة على أية حال؟</string>
   <string name="title_form_resubmission">إعادة التقديم</string>
@@ -359,4 +368,10 @@
   <string name="clear_data_on_exit">تنظيف البيانات عند الخروج</string>
   <string name="action_add_to_homepage">أضف إلى الطلب السريع</string>
   <string name="added_favorite_hint">تم الإضافة إلى الإتصال السريع بنجاح</string>
+  <string name="title_edit_favorite">تحرير المفضلة</string>
+  <string name="custom_css_special">مخصص CSS</string>
+  <string name="force_enable_zoom">تمكين التكبير بالقوة</string>
+  <string name="set_ua_as">تعيين عامل المستخدم الحالي ك %s</string>
+  <string name="need_permission_to_install_pkg">أنك تقوم بتحميل ملف apk، يرجى إعطاء الأذن لمثبت الحزم للتأكد من تثبيت ملفات التحميل.</string>
+  <string name="check_install_permission">تم رفض الإذن. تعيينها في الإعدادات الآن؟</string>
 </resources>

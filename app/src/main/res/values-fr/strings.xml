@@ -13,7 +13,9 @@
   <string name="action_night">Mode nuit</string>
   <string name="action_copy">Copier le Lien</string>
   <string name="action_copy_domain">Copier le site</string>
+  <string name="action_copy_text">Copier le texte</string>
   <string name="action_image_off">Sans images</string>
+  <string name="action_tools">Outils</string>
   <string name="settings">Configurations</string>
   <string name="location">Accès aux données localisées</string>
   <string name="password">Enregistrer le mot de passe</string>
@@ -35,6 +37,8 @@
   <string name="action_delete">Supprimer</string>
   <string name="action_delete_all">Tous supprimer</string>
   <string name="action_blank">Page vierge</string>
+  <string name="agent_chrome">Chrome (PC)</string>
+  <string name="agent_iphone">iPhone</string>
   <string name="agent_custom">Personnaliser</string>
   <string name="title_search_engine">Moteur de recherche</string>
   <string name="action_ok">OK</string>
@@ -67,7 +71,11 @@
   <string name="download_sdcard_busy_dlg_msg">Le stockage est déjà activé. Pour autoriser les téléchargements, touchez Désactiver le stockage USB dans la notification.</string>
   <string name="message_import">Les signets ont été importés</string>
   <string name="custom_url">URL personnalisée</string>
+  <string name="bing_url">Bing</string>
+  <string name="duckduckgo_url">Duckduckgo</string>
   <string name="ask_url">Demander</string>
+  <string name="yahoo_url">Yahoo</string>
+  <string name="google_url">Google</string>
   <string name="block_ads">Bloquer les annonces(ads)</string>
   <string name="message_untrusted_certificate">Le certificat du site n\'est pas approuvé. Continuer?</string>
   <string name="title_form_resubmission">Formulaire de pages</string>
@@ -92,6 +100,7 @@
   <string name="web_screenshot">Capture d\'écran Web</string>
   <string name="screenshot_all">Tout</string>
   <string name="screenshot_now">Enregistrer</string>
+  <string name="dialog_message">Message</string>
   <string name="toast_wait_a_minute">Attendez&#8230;</string>
   <string name="toast_save_to">Enregistrer le fichier dans: </string>
   <string name="toast_operation_failed">L\'opération a échoué.</string>
@@ -132,17 +141,21 @@
   <string name="settings_about">A propos</string>
   <string name="url_box">Contenu du lien</string>
   <string name="url_box_domain">Domaine</string>
+  <string name="url_box_url">URL</string>
   <string name="url_box_title">Titre</string>
   <string name="action_pcview">Site Desktop</string>
   <string name="action_source">Voir la source</string>
   <string name="action_translate">Traduction</string>
   <string name="title_edit_folder">Modifier le dossier</string>
   <string name="msg_delete_folder">Supprimer ce dossier?</string>
+  <string name="desc_suggestion">suggestion</string>
   <string name="desc_search">chercher dans la page</string>
   <string name="desc_reload">actualiser</string>
   <string name="desc_back">précédant</string>
   <string name="desc_forward">suivant</string>
   <string name="desc_home">accueil</string>
+  <string name="desc_tab">onglet</string>
+  <string name="desc_menu">menu</string>
   <string name="desc_filedic">fichier</string>
   <string name="desc_other">autre</string>
   <string name="msg_setgoogle">Définir le moteur de recherche Google maintenant?</string>
@@ -185,6 +198,7 @@
   <string name="download_completed">Téléchargement terminé</string>
   <string name="toast_fullscreen_off">Mode plein écran désactivé</string>
   <string name="clear_data">Effacer les données</string>
+  <string name="data_cache">Cache</string>
   <string name="data_form_data">Formulaires</string>
   <string name="data_history">Historique</string>
   <string name="data_storage">Pages enregistrées</string>
@@ -202,6 +216,7 @@
   <string name="action_view_image">Voir l\'mage</string>
   <string name="skin_colorful">Coloré</string>
   <string name="skin_fruity">Fruité</string>
+  <string name="skin_transparent">Transparent</string>
   <string name="block_popup">Bloquer les popups</string>
   <string name="open_window_hint">Le site Web tente d\'ouvrir une nouvelle fenêtre</string>
   <string name="action_save_web_page">Enregistrer la page Web</string>
@@ -235,6 +250,7 @@
   <string name="fullscreen_0">Désactiver</string>
   <string name="fullscreen_1">Défiler masquer/afficher</string>
   <string name="fullscreen_2">Cliquer masquer/afficher</string>
+  <string name="settings_script">Script</string>
   <string name="get_more_script">Plus de Script</string>
   <string name="add_script">Ajouter un Script</string>
   <string name="script_url">domaine ou * (*=tout)</string>
@@ -245,6 +261,7 @@
   <string name="confirm_to_leave">Confirmer pour quitter</string>
   <string name="leave">Quitter</string>
   <string name="stay">Poursuivre</string>
+  <string name="skin_logo">Logo</string>
   <string name="skin_bg">Fond</string>
   <string name="skin_style">Style</string>
   <string name="skin_settings">Paramètres</string>
@@ -256,6 +273,7 @@
   <string name="contact_us">Contactez-nous</string>
   <string name="official_website">Site officiel</string>
   <string name="current_language">Language</string>
+  <string name="download_manager">Gestionnaire de téléchargement</string>
   <string name="background_opacity">Opacité de l\'arrière-plan</string>
   <string name="action_pic_mode">Mode image</string>
   <string name="block_it_temporarily">Bloquez temporairement</string>
@@ -281,6 +299,7 @@
   <string name="adblock_info">%1$d ads ont été bloqués et %2$s sauvé</string>
   <string name="disable">Désactiver</string>
   <string name="ui_traditional">Normal</string>
+  <string name="ui_simple">Simple</string>
   <string name="color_mode_hint">Barre d\'opération en couleurs lors de la navigation</string>
   <string name="sort_hint">Appui long et déplacer</string>
   <string name="action_sort_bookmarks">Trier les signets</string>
@@ -292,6 +311,13 @@
   <string name="action_exit">Quitter</string>
   <string name="file_size">Taille fichier</string>
   <string name="update">Mettre à jour</string>
+  <string name="ignore">Ignorer</string>
+  <string name="import_successful">Importation réussie</string>
+  <string name="all_sites">tous les sites</string>
+  <string name="action_click_to_view">Voir les détails</string>
+  <string name="join_us">Rejoignez-nous</string>
   <string name="action_normal_share">Partager</string>
   <string name="action_download">Télécharger</string>
+  <string name="action_preview">Aperçu</string>
+  <string name="check_install_permission">Permission refusée. Configurer les permissions maintenant?</string>
 </resources>

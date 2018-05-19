@@ -38,6 +38,10 @@
   <string name="action_delete">Выдаліць</string>
   <string name="action_delete_all">Выдаліць усё</string>
   <string name="action_blank">Пустая старонка</string>
+  <string name="agent_chrome">Chrome (ПК)</string>
+  <string name="agent_ie">IE 11 (ПК)</string>
+  <string name="agent_iphone">iPhone</string>
+  <string name="agent_symbian">Symbian</string>
   <string name="agent_custom">Карыстальніцкія</string>
   <string name="title_search_engine">Пошукавая сістэма</string>
   <string name="action_ok">ОК</string>
