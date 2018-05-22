@@ -71,11 +71,17 @@
   <string name="download_sdcard_busy_dlg_msg">Le stockage est déjà activé. Pour autoriser les téléchargements, touchez Désactiver le stockage USB dans la notification.</string>
   <string name="message_import">Les signets ont été importés</string>
   <string name="custom_url">URL personnalisée</string>
+  <string name="baidu_url">Baidu</string>
+  <string name="shenma_url">ShenMa</string>
   <string name="bing_url">Bing</string>
+  <string name="haosou_url">Haosou</string>
   <string name="duckduckgo_url">Duckduckgo</string>
+  <string name="startpage_url">Page d’accueil</string>
   <string name="ask_url">Demander</string>
   <string name="yahoo_url">Yahoo</string>
+  <string name="yandex_url">Yandex</string>
   <string name="google_url">Google</string>
+  <string name="sougou_url">Sougou</string>
   <string name="block_ads">Bloquer les annonces(ads)</string>
   <string name="message_untrusted_certificate">Le certificat du site n\'est pas approuvé. Continuer?</string>
   <string name="title_form_resubmission">Formulaire de pages</string>
@@ -311,6 +317,7 @@
   <string name="action_exit">Quitter</string>
   <string name="file_size">Taille fichier</string>
   <string name="update">Mise à jour</string>
+  <string name="update_msg">Nouvelle version disponible. Voulez vous installer la mise à jour maintenant ?</string>
   <string name="ignore">Ignorer</string>
   <string name="import_successful">Importation réussie</string>
   <string name="all_sites">tous les sites</string>
