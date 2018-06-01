@@ -115,7 +115,6 @@
     <string name="toast_operation_failed">A művelet sikertelen volt.</string>
     <string name="toast_operation_done">A művelet befejeződött.</string>
     <string name="volume">Görgetés a Hangerőgombokkal.</string>
-    <string name="intent"></string>
     <string name="msg_intent">Szeretnéd megnyitni az alkalmazásod?</string>
     <string name="dialog_adblock">Alapértelmezett Blokkolás:Helyi hosts.txt fájl hasznata reklám blokkoláshoz\n\nEgyéni Blokkolás:A tárhelyen lévő hosts.txt fájl használata, automatikusan letöltésre kerül, ha még nem létezik.</string>
     <string name="dialog_adblock_default">Alapértelmezett Blokkolás</string>

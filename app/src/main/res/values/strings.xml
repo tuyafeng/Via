@@ -388,4 +388,13 @@
     <string name="set_ua_as">Set current user agent as %s</string>
     <string name="need_permission_to_install_pkg">You are downloading apk file, please give via install packages permission to ensure you can install the download files.</string>
     <string name="check_install_permission">Install permission denied. Set it in settings now?</string>
+    <string name="import_data">Import Data</string>
+    <string name="import_data_failed">Import data failed!</string>
+    <string name="import_data_succeed">Import data succeed!</string>
+    <string name="export_data">Export Data</string>
+    <string name="export_data_to">Export Data to: %s</string>
+    <string name="always_restore">Always restore</string>
+    <string name="ask_first">Ask first</string>
+    <string name="disable_restore">Disable restore</string>
+    <string name="data_file">DataExport</string>
 </resources>
