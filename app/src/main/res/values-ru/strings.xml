@@ -377,7 +377,7 @@
     <string name="import_data_failed">Не удалось импортировать данные!</string>
     <string name="import_data_succeed">Импорт данных выполнен успешно!</string>
     <string name="export_data">Экспорт данных</string>
-    <string name="export_data_to">Экспорт данные в: %s</string>
+    <string name="export_data_to">Экспорт данных в: %s</string>
     <string name="always_restore">Всегда восстанавливать</string>
     <string name="ask_first">Сначала спросить</string>
     <string name="disable_restore">Не восстанавливать</string>
