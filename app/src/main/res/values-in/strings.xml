@@ -84,6 +84,7 @@
 	<string name="cannot_undo">Ini tidak dapat dibatalkan.</string>
 	<string name="cannot_work">Hanya dapat bekerja pada URL \"http\" atau \"https\".</string>
 	<string name="catalog">Katalog</string>
+	<string name="check_install_permission">Izin pemasangan ditolak. Tetapkan setelan sekarang?</string>
 	<string name="check_permission">Izin ditolak. Atur mereka di setelan sekarang?</string>
 	<string name="clear_ad_rules">Bersihkan semua Aturan Iklan</string>
 	<string name="clear_all_script">Bersihkan Semua Script</string>
@@ -218,6 +219,7 @@
 	<string name="msg_intent">Ingin membuka aplikasi anda?</string>
 	<string name="msg_setgoogle">Atur Google sebagai mesin pencari sekarang?</string>
 	<string name="need_permission_hint">Via membutuhkan izin berikut untuk memastikan bekerja.\n\n</string>
+	<string name="need_permission_to_install_pkg">Anda mengunduh file apk, tolong berikan izin di paket pemasangan untuk memastikan anda dapat menginstal file unduhan.</string>
 	<string name="network_log">Log Jaringan</string>
 	<string name="no_bookmark">Tidak ada bookmark~</string>
 	<string name="no_network">Tidak ada koneksi jaringan yang tersedia</string>
