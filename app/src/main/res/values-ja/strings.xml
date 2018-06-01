@@ -65,7 +65,7 @@
     <string name="title_edit_bookmark">編集</string>
     <string name="action_edit">編集</string>
     <string name="action_incognito">新しいシークレットタブ</string>
-    <string name="action_find">ページ内検索</string>
+    <string name="action_find">ページ検索</string>
     <string name="download_pending">ダウンロード中…</string>
     <string name="cannot_download">\"http\"または\"https\"を使用したサイトからのみファイルをダウンロードできます。</string>
     <string name="download_no_sdcard_dlg_title">SDカードが見つかりません</string>
@@ -145,7 +145,7 @@
     <string name="url_box_url">URL</string>
     <string name="url_box_title">タイトル</string>
     <string name="action_pcview">PC版サイト</string>
-    <string name="action_source">ソースを表示</string>
+    <string name="action_source">ソース表示</string>
     <string name="desc_suggestion">提案</string>
     <string name="desc_search">ページ内検索</string>
     <string name="desc_reload">再読み込み</string>
@@ -158,7 +158,7 @@
     <string name="desc_other">他の操作</string>
     <string name="title_edit_folder">フォルダーを編集</string>
     <string name="msg_delete_folder">削除しますか？</string>
-    <string name="action_translate">このページを翻訳</string>
+    <string name="action_translate">翻訳</string>
     <string name="msg_intent">外部アプリの起動しますか？</string>
     <string name="msg_setgoogle">Google をデフォルトの検索エンジンに設定しますか？</string>
     <string name="action_mark">広告をマーク</string>
@@ -228,14 +228,14 @@
     <string name="block_popup">ポップアップ表示をブロック</string>
     <string name="open_window_hint">新しいタブを開いています</string>
 
-    <string name="action_save_web_page">ページを保存</string>
+    <string name="action_save_web_page">ページ保存</string>
     <string name="action_saved_pages">保存されたページ</string>
     <string name="saved_page_successfully">保存しました</string>
     <string name="deleted_failed">削除できませんでした。ダウンロードファイルのパス: </string>
 
     <string name="empty_hint">表示できる項目はありません</string>
 
-    <string name="network_log">ネットワークログ</string>
+    <string name="network_log">接続ログ</string>
     <string name="catalog">カタログ</string>
 
     <string name="screenshot_hint">Android 5.0 以降の OS を搭載した機種で不具合があります、現在の部分だけを保存してください。</string>
@@ -274,8 +274,10 @@
     <string name="clear_all_script">スクリプトをすべて削除</string>
     <string name="toast_copy_domain_successful">ドメインのコピー成功</string>
     <string name="help_us_translate">翻訳に協力する</string>
-    <string name="yahoo_url">Yahoo!</string>
+    <string name="yahoo_url">Yahoo!（英語）</string>
     <string name="yandex_url">Yandex</string>
+    <string name="duckduckgo_url">DuckDuckGo</string>
+    <string name="startpage_url">StartPage (Ixquick)</string>
     <string name="skin_style">スタイル</string>
     <string name="official_website">公式サイト</string>
     <string name="set_it_as_homepage">ホームページに設定しますか?</string>
@@ -284,11 +286,9 @@
     <string name="skin_colorful">カラフル</string>
     <string name="skin_fruity">フルーティー</string>
     <string name="stay">とどまる</string>
-    <string name="startpage_url">スタートページ</string>
     <string name="skin_bg">背景</string>
     <string name="leave">離れる</string>
     <string name="install">インストール</string>
-    <string name="duckduckgo_url">DuckDuckGo</string>
     <string name="download_manager">ダウンロード</string>
     <string name="upload_hint">申し訳ございません、Viaがクラッシュしました。不具合を修正させていただくため、ログを送信くださいませんか？</string>
     <string name="crash_hint">申し訳ございません、Viaがクラッシュしました。</string>
@@ -319,7 +319,7 @@
     <string name="what_is_next">次はどうしますか？</string>
     <string name="no_bookmark">ブックマークはありません</string>
     <string name="settings_general">一般</string>
-    <string name="ui_simple">操作バーを下部に配置</string>
+    <string name="ui_simple">操作バーを上下に配置</string>
     <string name="ui_traditional">通常</string>
     <string name="import_or_export_bookmarks">ブックマークをインポート/エクスポート</string>
     <string name="go_together">開発に協力する</string>
@@ -364,5 +364,6 @@
     <string name="clear_data_on_exit">終了時にプライベートデータを削除</string>
     <string name="action_add_to_homepage">スピードダイヤルに追加</string>
     <string name="added_favorite_hint">スピードダイヤルに追加しました。</string>
-    <string name="title_edit_favorite">Edit Favorite</string>
+    <string name="title_edit_favorite">ブックマークを編集</string>
+    <string name="force_enable_zoom">強制的にズームを有効にする</string>
 </resources>
