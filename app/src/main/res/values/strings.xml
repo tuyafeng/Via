@@ -144,7 +144,7 @@
     <string name="operation_goforward">Go forward</string>
     <string name="operation_find">Find in Page</string>
     <string name="settings_ad_rules">Ads Marked</string>
-    <string name="settings_operation">Operation</string>
+    <string name="settings_operation">Gestures</string>
     <string name="settings_privacy">Privacy</string>
     <string name="settings_advanced">Advanced</string>
     <string name="settings_about">About</string>
@@ -190,7 +190,7 @@
     <string name="syns_success">Sync Complete</string>
     <string name="upload_success">Upload Complete</string>
     <string name="log_out">Log out?</string>
-    <string name="crash_info">Something wrong :( </string>
+    <string name="crash_info">Something wrong :(</string>
     <string name="crash_restart">Restart app</string>
     <string name="crash_close">Close app</string>
     <string name="crash_upload">Upload crash log</string>
@@ -274,8 +274,8 @@
     <string name="fullscreen_0">Disable</string>
     <string name="fullscreen_1">Scroll to hide/show</string>
     <string name="fullscreen_2">Click to hide/show</string>
-    <string name="settings_script">Script</string>
-    <string name="get_more_script">Get More Script</string>
+    <string name="settings_script">Scripts</string>
+    <string name="get_more_script">Get More Scripts</string>
     <string name="add_script">Add Script</string>
     <string name="script_url">domain or * (* means all)</string>
     <string name="script_code">code (Javascript)</string>
@@ -293,8 +293,8 @@
     <string name="set_it_as_homepage">Set it as homepage?</string>
     <string name="missing_webview">Android System WebView is not installed correctly. Do you want to install it now?</string>
     <string name="install">Install</string>
-    <string name="crash_hint">Very very sorry for crashing.</string>
-    <string name="upload_hint">Very very sorry for crashing. But you can upload crash log to help us do better. Upload now?</string>
+    <string name="crash_hint">We're ery very sorry for crashing.</string>
+    <string name="upload_hint">We're very very sorry for crashing. But you can upload crash log to help us do better. Upload now?</string>
     <string name="glean">Glean</string>
     <string name="contact_us">Contact us</string>
     <string name="official_website">Official website</string>
@@ -363,8 +363,8 @@
     <string name="res_log_hint">Click item to preview, long click item to download or do something else.</string>
     <string name="no_resource">The page has no resource.</string>
     <string name="no_network_log">The page has no network log.</string>
-    <string name="resource_sniffer_hint">\nPS: it is easier to get when music or video is playing.</string>
-    <string name="action_download">Download</string>
+    <string name="resource_sniffer_hint">\nIt is easier to get when music or video is playing. PS: some websites don't support this feature.</string>
+    <string name="action_download">Downloads</string>
     <string name="action_play_with_mxplayer">Play with MXPlayer</string>
     <string name="empty_username_info">Please input your username.</string>
     <string name="empty_password_info">Please input your password.</string>
@@ -386,7 +386,7 @@
     <string name="custom_css_special">Add Custom CSS</string>
     <string name="force_enable_zoom">Force Enable Zoom</string>
     <string name="set_ua_as">Set current user agent as %s</string>
-    <string name="need_permission_to_install_pkg">You are downloading apk file, please give via install packages permission to ensure you can install the download files.</string>
+    <string name="need_permission_to_install_pkg">You are downloading an .apk file, please give Via install packages permission to ensure you can install the download files.</string>
     <string name="check_install_permission">Install permission denied. Set it in settings now?</string>
     <string name="import_data">Import Data</string>
     <string name="import_data_failed">Import data failed!</string>
