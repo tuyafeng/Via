@@ -179,7 +179,7 @@
     <string name="color_mode">Смена цвета панелей</string>
     <string name="dialog_sure">Вы уверены, что хотите это сделать?</string>
     <string name="action_send_to_launcher">Ярлык на экран</string>
-    <string name="settings_cloud">Облако</string>
+    <string name="settings_cloud">Учётная запись</string>
     <string name="user">Вход/регистрация</string>
     <string name="user_syns">Синхронизация из облака</string>
     <string name="user_update">Обновление в облаке</string>
@@ -388,4 +388,13 @@
     <string name="set_ua_as">Установить текущий агент пользователя как %s</string>
     <string name="need_permission_to_install_pkg">Вы загружаете apk-файл. Для возможности установки загруженных файлов, пожалуйста, предоставьте Via соответствующее разрешение.</string>
     <string name="check_install_permission">В разрешении на установку было отказано. Разрешить её в настройках сейчас?</string>
+    <string name="import_data">Импорт данных</string>
+    <string name="import_data_failed">Не удалось импортировать данные!</string>
+    <string name="import_data_succeed">Импорт данных выполнен успешно!</string>
+    <string name="export_data">Экспорт данных</string>
+    <string name="export_data_to">Экспорт данных в: %s</string>
+    <string name="always_restore">Всегда восстанавливать</string>
+    <string name="ask_first">Сначала спросить</string>
+    <string name="disable_restore">Не восстанавливать</string>
+    <string name="data_file">ViaDataExport</string>
 </resources>
