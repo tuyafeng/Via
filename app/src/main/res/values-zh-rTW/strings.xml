@@ -388,6 +388,15 @@
     <string name="set_ua_as">設定目前使用者代理為 %s</string>
     <string name="need_permission_to_install_pkg">您正在下載 APK 檔，請授予安裝套件的權限，以確保您可以安裝所下載的檔案。</string>
     <string name="check_install_permission">安裝權限已被拒絕，立即設定它？</string>
+    <string name="import_data">匯入資料</string>
+    <string name="import_data_failed">匯入資料失敗！</string>
+    <string name="import_data_succeed">匯入資料成功！</string>
+    <string name="export_data">匯出資料</string>
+    <string name="export_data_to">匯出資料至： %s</string>
+    <string name="always_restore">一律還原</string>
+    <string name="ask_first">先詢問</string>
+    <string name="disable_restore">停用還原</string>
+    <string name="data_file">資料匯出</string>
     <!--<string name="dialog_adobe_unsupported">Adobe Flash 無法正常支援 Android 4.2 以及更高版本並且可能導致瀏覽器損毀，若您啟用後出現瀏覽器損毀的問題請勿對此問題進行回饋。</string>-->
 
 </resources>
