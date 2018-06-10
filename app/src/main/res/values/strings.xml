@@ -254,7 +254,7 @@
 
     <string name="set_to_default">It will be set to default after opening link(%s), please choose via to open the link.</string>
 
-    <string name="quick_back_desc">There may be compatibility issues when you enable this option. You should disable it when you find going back not work well.</string>
+    <string name="quick_back_desc">There may be compatibility issues when you enable this option. You should disable it if you find going back not work properly.</string>
     <string name="sync_prompt">It will overwrite your current local bookmark and settings. Continue?</string>
     <string name="upload_prompt">It will upload your current local bookmark and settings. Continue?</string>
     <string name="none">None</string>
