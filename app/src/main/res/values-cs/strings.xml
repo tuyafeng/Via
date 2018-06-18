@@ -144,7 +144,7 @@
   <string name="operation_goforward">Jít vpřed</string>
   <string name="operation_find">Najít na stránce</string>
   <string name="settings_ad_rules">Označené reklamy</string>
-  <string name="settings_operation">Operace</string>
+  <string name="settings_operation">Gesta</string>
   <string name="settings_privacy">Soukromí</string>
   <string name="settings_advanced">Rozšířené</string>
   <string name="settings_about">O aplikaci</string>
@@ -259,7 +259,7 @@
   <string name="fullscreen_0">Zakázat</string>
   <string name="fullscreen_1">Přejít na skrytí/zobrazení</string>
   <string name="fullscreen_2">Kliknout na skrytí/zobrazení</string>
-  <string name="settings_script">Skript</string>
+  <string name="settings_script">Skripty</string>
   <string name="get_more_script">Získejte více skriptů</string>
   <string name="add_script">Přidat skript</string>
   <string name="script_url">doména nebo * (* znamená všechno)</string>
@@ -278,8 +278,8 @@
   <string name="set_it_as_homepage">Nastavit jako domovskou stránku?</string>
   <string name="missing_webview">Android System WebView není správně nainstalován. Chcete jej nyní nainstalovat?</string>
   <string name="install">Nainstalovat</string>
-  <string name="crash_hint">Velmi velmi se omlouváme za pád aplikace.</string>
-  <string name="upload_hint">Velmi velmi se omlouváme za pád aplikace. Můžete však nahrát protokol o pádu, který nám pomůže lépe objevit chybu. Nahrát teď?</string>
+  <string name="crash_hint">Velmi, velmi se omlouváme za pád aplikace.</string>
+  <string name="upload_hint">Velmi, velmi se omlouváme za pád aplikace. Můžete však nahrát protokol o pádu, který nám pomůže lépe objevit chybu. Nahrát teď?</string>
   <string name="glean">Sbírat</string>
   <string name="contact_us">Kontaktujte nás</string>
   <string name="official_website">Oficiální web</string>
@@ -348,8 +348,8 @@
   <string name="res_log_hint">Klepnutím na položku zobrazíte náhled, dlouhým klepnutím na položku stáhnete nebo uděláte něco jiného.</string>
   <string name="no_resource">Stránka nemá žádný zdroj.</string>
   <string name="no_network_log">Stránka nemá žádný síťový protokol.</string>
-  <string name="resource_sniffer_hint">\nPS: Je snadnější se dostat, když se hraje hudba nebo video.</string>
-  <string name="action_download">Stažení</string>
+  <string name="resource_sniffer_hint">\nJe snazší se dostat při přehrávání hudby nebo videa. PS: některé weby nepodporují tuto funkci.</string>
+  <string name="action_download">Stahování</string>
   <string name="action_play_with_mxplayer">Přehrát s MXPlayer</string>
   <string name="empty_username_info">Prosím zadejte uživatelské jméno.</string>
   <string name="empty_password_info">Prosím zadejte heslo.</string>
@@ -371,5 +371,15 @@
   <string name="custom_css_special">Přidat vlastní CSS</string>
   <string name="force_enable_zoom">Vynutit povolení zvětšení</string>
   <string name="set_ua_as">Nastavit aktuálního uživatelského agenta jako %s</string>
+  <string name="need_permission_to_install_pkg">Stahujete soubor .apk, udělte prosím oprávnění k instalaci, abyste mohli nainstalovat stažené soubory.</string>
   <string name="check_install_permission">Oprávnění k instalaci odepřeno. Nastavit nyní v nastavení?</string>
+  <string name="import_data">Importovat data</string>
+  <string name="import_data_failed">Import dat se nezdařil!</string>
+  <string name="import_data_succeed">Import dat úspěšný!</string>
+  <string name="export_data">Exportovat data</string>
+  <string name="export_data_to">Exportovat data do: %s</string>
+  <string name="always_restore">Vždy obnovit</string>
+  <string name="ask_first">Nejprve se zeptat</string>
+  <string name="disable_restore">Zakázat obnovení</string>
+  <string name="data_file">Export dat</string>
 </resources>

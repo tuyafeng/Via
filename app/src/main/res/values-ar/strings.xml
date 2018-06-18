@@ -372,5 +372,15 @@
   <string name="custom_css_special">مخصص CSS</string>
   <string name="force_enable_zoom">تمكين التكبير بالقوة</string>
   <string name="set_ua_as">تعيين عامل المستخدم الحالي ك %s</string>
+  <string name="need_permission_to_install_pkg">أنت تقوم بتنزيل ملف apk ، يرجى إعطاء إذن تثبيت للحزم للتأكد من إمكانية تثبيت الملفات المنزلة.</string>
   <string name="check_install_permission">تم رفض الإذن. تعيينها في الإعدادات الآن؟</string>
+  <string name="import_data">استيراد البيانات</string>
+  <string name="import_data_failed">فشل استيراد البيانات!</string>
+  <string name="import_data_succeed">نجح استيراد البيانات!</string>
+  <string name="export_data">تصدير البيانات</string>
+  <string name="export_data_to">تصدير البيانات إلى: %s</string>
+  <string name="always_restore">استعادة دائماً</string>
+  <string name="ask_first">اسأل أولاً</string>
+  <string name="disable_restore">تعطيل الاستعادة</string>
+  <string name="data_file">تصدير البيانات</string>
 </resources>
