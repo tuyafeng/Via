@@ -388,4 +388,13 @@
     <string name="set_ua_as">Ustaw obecnego user agenta jako %s</string>
     <string name="need_permission_to_install_pkg">Pobierasz plik APK. Przyznaj aplikacji odpowiednie uprawnienie, aby mogła je instalować.</string>
     <string name="check_install_permission">Uprawnienie nie zostało przyznane. Przejść do ustawień, aby moć je przyznać?</string>
+    <string name="import_data">Importuj dane</string>
+    <string name="import_data_failed">Importowanie danych nie powiodło się</string>
+    <string name="import_data_succeed">Importowanie danych zakończone</string>
+    <string name="export_data">Eksportuj dane</string>
+    <string name="export_data_to">Eksportuj dane do %s</string>
+    <string name="always_restore">Zawsze przywracaj</string>
+    <string name="ask_first">Najpierw pytaj</string>
+    <string name="disable_restore">Wyłącz przywracanie</string>
+    <string name="data_file">WyeksportowaneDane</string>
 </resources>
