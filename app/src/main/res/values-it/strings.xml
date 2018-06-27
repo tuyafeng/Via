@@ -348,6 +348,8 @@
   <string name="res_log_hint">Fai click per l\'anteprima, tieni premuto a lungo sull\'oggetto per scaricarlo o fai qualcos\'altro.</string>
   <string name="no_resource">La pagina non ha alcuna risorsa.</string>
   <string name="no_network_log">La pagina non ha alcun registro di rete.</string>
+  <string name="resource_sniffer_hint">\nIt è più facile da ottenere durante la riproduzione musicale o video. PS: alcuni siti Web non supportano questa funzione.</string>
+  <string name="action_download">Downloads</string>
   <string name="action_play_with_mxplayer">Avvia con MXPlayer</string>
   <string name="empty_username_info">Per favore, inserisci il tuo nome utente.</string>
   <string name="empty_password_info">Per favore, inserisci la tua password.</string>
@@ -369,5 +371,15 @@
   <string name="custom_css_special">Aggiungi CSS personalizzato</string>
   <string name="force_enable_zoom">Forza Attivazione Zoom</string>
   <string name="set_ua_as">Imposta l\'utente agente corrente come %s</string>
+  <string name="need_permission_to_install_pkg">Stai scaricando un file .apk, per favore concedi a Via di installare pacchetti di autorizzazione per assicurarti di poter installare i file di download.</string>
   <string name="check_install_permission">Permesso di installazione negato. Vuoi impostare i permessi ora?</string>
+  <string name="import_data">Importa dati</string>
+  <string name="import_data_failed">Importazione dati fallito!</string>
+  <string name="import_data_succeed">Importazione dati con successo!</string>
+  <string name="export_data">Esporta dati</string>
+  <string name="export_data_to">Esporta dati: %s</string>
+  <string name="always_restore">Ripristina sempre</string>
+  <string name="ask_first">Chiedi sempre</string>
+  <string name="disable_restore">Disabilita il ripristino</string>
+  <string name="data_file">Esportazione dati</string>
 </resources>

@@ -144,6 +144,7 @@
   <string name="operation_goforward">Pokračovať</string>
   <string name="operation_find">Nájsť na stránke</string>
   <string name="settings_ad_rules">Označené reklamy</string>
+  <string name="settings_operation">Gestá</string>
   <string name="settings_privacy">Súkromie</string>
   <string name="settings_advanced">Rozšírené</string>
   <string name="settings_about">O aplikácii</string>
@@ -189,6 +190,7 @@
   <string name="syns_success">Synchronizácia je dokončená</string>
   <string name="upload_success">Nahrávanie je dokončené</string>
   <string name="log_out">Odhlásiť sa?</string>
+  <string name="crash_info">Niečo je chybne :(</string>
   <string name="crash_restart">Reštartovať aplikáciu</string>
   <string name="crash_close">Zavrieť aplikáciu</string>
   <string name="crash_upload">Nahrať protokol o zlyhaní</string>
@@ -257,6 +259,8 @@
   <string name="fullscreen_0">Vypnúť</string>
   <string name="fullscreen_1">Prejsť na skrytie/zobrazenie</string>
   <string name="fullscreen_2">Kliknúť na skrytie/zobrazenie</string>
+  <string name="settings_script">Skripty</string>
+  <string name="get_more_script">Získať viac skriptov</string>
   <string name="add_script">Pridať skript</string>
   <string name="script_url">doména alebo * (* znamená všetko)</string>
   <string name="script_code">kód (Javascript)</string>
@@ -274,6 +278,8 @@
   <string name="set_it_as_homepage">Nastaviť ako domovskú stránku?</string>
   <string name="missing_webview">Android System WebView nie je správne nainštalovaný. Chcete ho teraz nainštalovať?</string>
   <string name="install">Nainštalovať</string>
+  <string name="crash_hint">Veľmi veľmi sa ospravedlňujeme za pád aplikácie.</string>
+  <string name="upload_hint">Veľmi, veľmi sa ospravedlňujeme za pád aplikácie. Môžete však nahrať protokol o páde, ktorý nám pomôže lepšie objaviť chybu. Nahrať teraz?</string>
   <string name="glean">Zbierať</string>
   <string name="contact_us">Kontaktujte nás</string>
   <string name="official_website">Oficiálna webstránka</string>
@@ -342,6 +348,8 @@
   <string name="res_log_hint">Kliknutím na položku zobrazíte náhľad, dlhým kliknutím na položku stiahnete alebo urobíte niečo iné.</string>
   <string name="no_resource">Stránka nemá žiadny zdroj.</string>
   <string name="no_network_log">Stránka nemá žiadny sieťový protokol.</string>
+  <string name="resource_sniffer_hint">\nJe to jednoduchšie pri prehrávaní hudby alebo videa. Niektoré webové stránky túto funkciu nepodporujú.</string>
+  <string name="action_download">Sťahovanie</string>
   <string name="action_play_with_mxplayer">Prehrať s MXPlayerom</string>
   <string name="empty_username_info">Prosím, zadajte vaše používateľské meno.</string>
   <string name="empty_password_info">Prosím zadajte vaše heslo.</string>
@@ -363,5 +371,15 @@
   <string name="custom_css_special">Pridať vlastný CSS</string>
   <string name="force_enable_zoom">Vynútiť povolenie zväčšenia</string>
   <string name="set_ua_as">Nastaviť aktuálneho používateľského agenta ako %s</string>
+  <string name="need_permission_to_install_pkg">Sťahujete súbor apk, udeľte prosím oprávnenie pre inštaláciu, aby ste mohli nainštalovať stiahnuté súbory.</string>
   <string name="check_install_permission">Oprávnenie pre inštaláciu je odopreté. Nastaviť teraz v nastavení?</string>
+  <string name="import_data">Import dát</string>
+  <string name="import_data_failed">Import bol neúspešný!</string>
+  <string name="import_data_succeed">Import bol úspešný!</string>
+  <string name="export_data">Exportovať dáta</string>
+  <string name="export_data_to">Exportovať dáta do: %s</string>
+  <string name="always_restore">Vždy obnoviť</string>
+  <string name="ask_first">Najprv sa opýtať</string>
+  <string name="disable_restore">Zakázať obnovenie</string>
+  <string name="data_file">Export dát</string>
 </resources>
