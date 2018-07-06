@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <resources>
-  <string name="app_name">متصفح الذكي Via</string>
+  <string name="app_name">Via متصفح</string>
   <string name="action_new_tab">صفحة جديدة</string>
   <string name="action_open_in_new">فتح في صفحة الجديدة</string>
   <string name="action_save_img">حفظ الصورة</string>
@@ -10,7 +10,7 @@
   <string name="action_screenshot">لقطة شاشة</string>
   <string name="bookmarks_file">إستخراج المفضلة</string>
   <string name="action_add_bookmark">اضافة للمفضلة</string>
-  <string name="action_night">وضع ليل</string>
+  <string name="action_night">وضع الليل</string>
   <string name="action_copy">نسخ الرابط</string>
   <string name="action_copy_domain">نسخ النطاق</string>
   <string name="action_copy_text">نسخ النص</string>

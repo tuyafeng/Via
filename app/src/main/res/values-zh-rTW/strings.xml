@@ -320,7 +320,7 @@
     <string name="toolbar_settings_hint">點選(滑動)下列按鈕來設定它的按住（滑動）事件，按住查閱已經設定了什麼。</string>
     <string name="action_modify">修改</string>
     <string name="operation_hint">手勢、操作習慣</string>
-    <string name="empty_ads_mark_hint">無被標記的廣告， \n你可以按住網頁中的廣告然後選擇\"標記為廣告\"封鎖它。 \n或者僅需點選下列按鈕。</string>
+    <string name="empty_ads_mark_hint">無被標記的廣告， \n你可以按住網頁中的廣告然後選擇\"標記為廣告\"封鎖它。</string>
     <string name="empty_script_hint">無指令碼。 \n你可以點選右上角加號按鈕來新增指令碼。 \n或者僅需點選下列按鈕。</string>
     <string name="adblock_info">已封鎖 %1$d 個廣告，%2$s 已儲存</string>
     <string name="disable">未啟用</string>
