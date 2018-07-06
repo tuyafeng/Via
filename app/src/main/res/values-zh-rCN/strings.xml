@@ -296,7 +296,7 @@
     <string name="toolbar_settings_hint">点击(滑动)下列按钮来设置它的长按事件, 长按查看它的事件.</string>
     <string name="action_modify">修改</string>
     <string name="operation_hint">手势, 操作习惯</string>
-    <string name="empty_ads_mark_hint">没有被标记的广告. \n你可以长按网页中的广告然后点击\"标记广告\". \n或者点击下面的按钮来获取规则.</string>
+    <string name="empty_ads_mark_hint">没有被标记的广告. \n你可以长按网页中的广告然后点击\"标记广告\".</string>
     <string name="empty_script_hint">没有脚本. \n你可以点击右上角加号按钮来添加脚本. \n或者点击下面的按钮来获取脚本.</string>
     <string name="adblock_info">已拦截 %1$d 个广告, 共节省 %2$s</string>
     <string name="disable">未启用</string>

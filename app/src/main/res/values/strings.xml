@@ -320,7 +320,7 @@
     <string name="toolbar_settings_hint">Click (slide) the following button to set its long press (slide) event, and long press it to see what it had been set.</string>
     <string name="action_modify">Modify</string>
     <string name="operation_hint">Gesture, Operating habits, etc</string>
-    <string name="empty_ads_mark_hint">No ads marked. \nYou can long press ads in web page then select \"Mark as AD\" to block it. \nOr just click the following button.</string>
+    <string name="empty_ads_mark_hint">No ads marked. \nYou can long press ads in web page then select \"Mark as AD\" to block it.</string>
     <string name="empty_script_hint">No scripts. \nYou can click the plus button to add scripts. \nOr just click the following button.</string>
     <string name="adblock_info">%1$d ads have been blocked, %2$s saved</string>
     <string name="disable">Disable</string>
