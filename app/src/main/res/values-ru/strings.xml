@@ -330,7 +330,7 @@
     <string name="sort_hint">Удерживание и перетаскивание для сортировки</string>
     <string name="action_sort_bookmarks">Сортировка закладок</string>
     <string name="desc_close">Закрыть</string>
-    <string name="clear_cache_on_exit">Очистить кэш и выйти</string>
+    <string name="clear_cache_on_exit">Очистить кеш и выйти</string>
     <string name="action_close_all_tabs">Закрыть все вкладки</string>
     <string name="skin_hide_search_part">Скрыть панель поиска</string>
     <string name="action_more">Ещё</string>
