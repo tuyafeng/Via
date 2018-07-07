@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources tools:ignore="MissingTranslation" xmlns:tools="http://schemas.android.com/tools">
 
-    <string name="app_name">Браузер Via</string>
+    <string name="app_name">Via</string>
     <string name="action_new_tab">Новая вкладка</string>
     <string name="action_open_in_new">Открыть в новой вкладке</string>
     <string name="action_save_img">Сохранить изображение</string>
@@ -9,7 +9,7 @@
     <string name="action_history">История</string>
     <string name="action_bookmarks">Закладки</string>
     <string name="action_screenshot">Снимок экрана</string>
-    <string name="bookmarks_file">Экспорт закладок</string>
+    <string name="bookmarks_file">BookmarksExport</string>
     <string name="action_add_bookmark">Добавить закладку</string>
     <string name="action_night">Ночной режим</string>
     <string name="action_copy">Копировать ссылку</string>
@@ -20,7 +20,7 @@
     <string name="settings">Настройки</string>
     <string name="location">Сообщать местоположение</string>
     <string name="password">Сохранять пароли</string>
-    <string name="donate">Пожертвовать на Via</string>
+    <string name="donate">Пожертвовать</string>
     <string name="donate_details">Если вам нравится наше приложение, можете сделать пожертвование.\nAlipay: 2376688759@qq.com\nPayPal: wiar1824@gmail.com</string>
     <string name="orientation">Ориентация экрана</string>
     <string name="orientation_system">Системная</string>
@@ -126,8 +126,8 @@
     <string name="toast_clear_defaults">Стереть умолчания</string>
     <string name="toast_copy_url_successful">Ссылка успешно скопирована</string>
     <string name="toast_copy_text_successful">Текст успешно скопирован</string>
-    <string name="incognito_on">Режим \"инкогнито\": да</string>
-    <string name="incognito_off">Режим \"инкогнито\": нет</string>
+    <string name="incognito_on">Режим \"инкогнито\" включён</string>
+    <string name="incognito_off">Режим \"инкогнито\" выключен</string>
     <string name="operation_none">Нет</string>
     <string name="operation_reload">Перезагрузка страницы</string>
     <string name="operation_top">Перейти в начало</string>
@@ -208,7 +208,7 @@
     <string name="toast_fullscreen_off">Обычный режим</string>
 
     <string name="clear_data">Очистить данные</string>
-    <string name="data_cache">Кэш</string>
+    <string name="data_cache">Кеш</string>
     <string name="data_form_data">Данные форм</string>
     <string name="data_history">История</string>
     <string name="data_storage">Web-хранилище</string>
@@ -357,15 +357,15 @@
     <string name="share_explanation">Приватный обмен: только просмотр через Via.\nПростой обмен: поделиться ссылкой на текущую страницу.</string>
     <string name="action_secret_share">Приватный обмен</string>
     <string name="action_normal_share">Простой обмен</string>
-    <string name="res_sniffer">Захват ресурсов</string>
+    <string name="res_sniffer">Анализ ресурсов</string>
     <string name="search_by_pic">Поиск по изображению</string>
-    <string name="resource_sniffer">Захват ресурсов</string>
-    <string name="res_log_hint">Нажмите для просмотра, удерживайте, чтобы загрузить или сделаеть что-нибудь ещё.</string>
+    <string name="resource_sniffer">Анализ ресурсов</string>
+    <string name="res_log_hint">Нажмите для просмотра, удерживайте, чтобы загрузить или сделать ещё что-нибудь.</string>
     <string name="no_resource">На странице нет ресурсов.</string>
     <string name="no_network_log">На странице нет сетевого журнала.</string>
-    <string name="resource_sniffer_hint">\nP.S.: это легче сделать, когда музыка или видео воспроизводится.</string>
+    <string name="resource_sniffer_hint">\nЭто легче сделать, когда музыка или видео воспроизводится. P.S.: некоторые сайты не поддерживают данную функцию.</string>
     <string name="action_download">Скачать</string>
-    <string name="action_play_with_mxplayer">Воспроизвести в MXPlayer</string>
+    <string name="action_play_with_mxplayer">Воспроизвести в MX Player</string>
     <string name="empty_username_info">Введите своё имя пользователя.</string>
     <string name="empty_password_info">Введите свой пароль.</string>
     <string name="offline_page_hint">Ниже приведены сохранённые страницы. Вы можете читать их независимо от наличия подключение к сети.</string>
@@ -378,7 +378,7 @@
     <string name="no_network">Нет сетевого подключения!</string>
     <string name="action_open_with">Открыть с помощью соответствующего приложения</string>
     <string name="title_app_chooser">Выбор приложения</string>
-    <string name="sort_bookmarks_hint">Перетащите значок закладки для сортировки списка</string>
+    <string name="sort_bookmarks_hint">Перетаскивайте закладки за значок для сортировки списка</string>
     <string name="clear_data_on_exit">Очищать данные о выходе</string>
     <string name="action_add_to_homepage">Добавить в быстрый набор</string>
     <string name="added_favorite_hint">Успешно добавлено в быстрый набор</string>
@@ -396,5 +396,5 @@
     <string name="always_restore">Всегда восстанавливать</string>
     <string name="ask_first">Сначала спросить</string>
     <string name="disable_restore">Не восстанавливать</string>
-    <string name="data_file">ViaDataExport</string>
+    <string name="data_file">DataExport</string>
 </resources>
