@@ -317,7 +317,7 @@
     <string name="export_">匯出書籤</string>
     <string name="pull_to_refresh_gesture">下拉重新整理手勢</string>
     <string name="back_forward_gesture">前進後退手勢</string>
-    <string name="toolbar_settings_hint">點選(滑動)下列按鈕來設定它的按住（滑動）事件，按住查閱已經設定了什麼。</string>
+    <string name="toolbar_settings_hint">點選下列按鈕來設定它的按住（滑動）事件，按住查閱已經設定了什麼。</string>
     <string name="action_modify">修改</string>
     <string name="operation_hint">手勢、操作習慣</string>
     <string name="empty_ads_mark_hint">無被標記的廣告， \n你可以按住網頁中的廣告然後選擇\"標記為廣告\"封鎖它。</string>

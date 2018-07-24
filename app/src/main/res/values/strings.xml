@@ -293,8 +293,8 @@
     <string name="set_it_as_homepage">Set it as homepage?</string>
     <string name="missing_webview">Android System WebView is not installed correctly. Do you want to install it now?</string>
     <string name="install">Install</string>
-    <string name="crash_hint">We're very sorry the app crashed.</string>
-    <string name="upload_hint">We're very sorry the app crashed, but you can upload crash log to help us do better. Upload now?</string>
+    <string name="crash_hint">We\'re very sorry the app crashed.</string>
+    <string name="upload_hint">We\'re very sorry the app crashed, but you can upload crash log to help us do better. Upload now?</string>
     <string name="glean">Glean</string>
     <string name="contact_us">Contact us</string>
     <string name="official_website">Official website</string>
@@ -317,7 +317,7 @@
     <string name="export_">Export bookmarks</string>
     <string name="pull_to_refresh_gesture">Pull to Refresh Gesture</string>
     <string name="back_forward_gesture">Back Forward Gesture</string>
-    <string name="toolbar_settings_hint">Click (slide) the following button to set its long press (slide) event, and long press it to see what has been set.</string>
+    <string name="toolbar_settings_hint">Click the following button to set its long press (slide) event, and long press it to see what has been set.</string>
     <string name="action_modify">Modify</string>
     <string name="operation_hint">Gesture, Operating habits, etc</string>
     <string name="empty_ads_mark_hint">No ads marked. \nYou can long press ads in web page then select \"Mark as AD\" to block it.</string>
@@ -363,7 +363,7 @@
     <string name="res_log_hint">Click item to preview, long click item to download or do something else.</string>
     <string name="no_resource">The page has no resource.</string>
     <string name="no_network_log">The page has no network log.</string>
-    <string name="resource_sniffer_hint">\nIt is easier to be captured when music or video is being played. PS: some websites don't support this feature.</string>
+    <string name="resource_sniffer_hint">\nIt is easier to be captured when music or video is being played. PS: some websites don\'t support this feature.</string>
     <string name="action_download">Downloads</string>
     <string name="action_play_with_mxplayer">Play with MXPlayer</string>
     <string name="empty_username_info">Please input your username.</string>

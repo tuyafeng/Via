@@ -293,7 +293,7 @@
     <string name="export_">备份书签</string>
     <string name="pull_to_refresh_gesture">下拉刷新</string>
     <string name="back_forward_gesture">滑动屏幕边缘前进后退</string>
-    <string name="toolbar_settings_hint">点击(滑动)下列按钮来设置它的长按事件, 长按查看它的事件.</string>
+    <string name="toolbar_settings_hint">点击下列按钮来设置它的长按事件, 长按查看它的事件.</string>
     <string name="action_modify">修改</string>
     <string name="operation_hint">手势, 操作习惯</string>
     <string name="empty_ads_mark_hint">没有被标记的广告. \n你可以长按网页中的广告然后点击\"标记广告\".</string>

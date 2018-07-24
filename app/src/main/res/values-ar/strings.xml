@@ -232,7 +232,7 @@
   <string name="action_saved_pages">الصفحات المحفوظة</string>
   <string name="saved_page_successfully">الصفحة المحفوظة بنجاح ، هي في قائمة الصفحة الرئيسية: الصفحات المحفوظة</string>
   <string name="deleted_failed">"فشل الحذف. الملف الموجود في مسار التحميل:"</string>
-  <string name="empty_hint">لا شيء للعرض ...</string>
+  <string name="empty_hint">لا شيء للعرض …</string>
   <string name="network_log">سجل الشبكة</string>
   <string name="catalog">فهرس</string>
   <string name="screenshot_hint">قد تكون هناك مشكلات في التوافق في الإصدار 5.0 من نظام التشغيل أنظرويد للحصول على لقطة شاشة كاملة لموقع الويب. ما زلنا نبحث عن حلول.</string>
