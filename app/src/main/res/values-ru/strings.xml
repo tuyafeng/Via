@@ -317,7 +317,7 @@
     <string name="export_">Экспорт</string>
     <string name="pull_to_refresh_gesture">Жест \"потянуть для обновления\"</string>
     <string name="back_forward_gesture">Жест назад-вперёд</string>
-    <string name="toolbar_settings_hint">Нажмите (потяните) кнопку для установки своего действия при удержании (сдвиге), удерживайте для просмотра установленного действия.</string>
+    <string name="toolbar_settings_hint">Нажмите кнопку для установки своего действия при удержании (сдвиге), удерживайте для просмотра установленного действия.</string>
     <string name="action_modify">Изменить</string>
     <string name="operation_hint">Жесты, операции и т.д.</string>
     <string name="empty_ads_mark_hint">Нет меток рекламы.\nВы можете удерживать рекламное объявление на сайте и выбрать \"Пометить как рекламу\" для его блокировки.\nИли можете просто нажать эту кнопку.</string>
@@ -373,8 +373,8 @@
     <string name="action_preview">Предпросмотр</string>
     <string name="action_page_info">О странице</string>
     <string name="page_info_title">Заголовок:</string>
-    <string name="page_info_url">URL страницы:</string>
-    <string name="page_info_link">URL ссылки:</string>
+    <string name="page_info_url">Адрес страницы:</string>
+    <string name="page_info_link">Адрес ссылки:</string>
     <string name="no_network">Нет сетевого подключения!</string>
     <string name="action_open_with">Открыть с помощью соответствующего приложения</string>
     <string name="title_app_chooser">Выбор приложения</string>
