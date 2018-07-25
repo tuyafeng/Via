@@ -388,7 +388,7 @@
     <string name="set_ua_as">%s nustatytas vartotojo agentu</string>
     <string name="need_permission_to_install_pkg">Jūs atsisiuntėte .apk failą, prašome Via`i suteikti .apk failų instaliavimo leidimą.</string>
     <string name="check_install_permission">Instaliavimo leidimas negautas. Ar norėtumėte suteikti leidimą sistemos nustatymuose?</string>
-    <string name="import_data">Importuoti duomenis</string
+    <string name="import_data">Importuoti duomenis</string>
     <string name="import_data_failed">Importuojant duomenis įvyko klaida!</string>
     <string name="import_data_succeed">Duomenys importuoti sėkmingai!</string>
     <string name="export_data">Eksportuoti duomenis</string>
