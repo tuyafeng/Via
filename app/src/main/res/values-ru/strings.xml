@@ -10,7 +10,7 @@
     <string name="action_bookmarks">Закладки</string>
     <string name="action_screenshot">Снимок экрана</string>
     <string name="bookmarks_file">BookmarksExport</string>
-    <string name="action_add_bookmark">Добавить закладку</string>
+    <string name="action_add_bookmark">В закладки</string>
     <string name="action_night">Ночной режим</string>
     <string name="action_copy">Копировать ссылку</string>
     <string name="action_copy_domain">Копировать домен</string>
@@ -73,7 +73,7 @@
     <string name="download_sdcard_busy_dlg_title">USB-накопитель недоступен!</string>
     <string name="download_sdcard_busy_dlg_msg">Накопитель занят. Чтобы разрешить загрузки, отключите USB-накопитель в уведомлениях.</string>
     <string name="message_import">закладок импортировано</string>
-    <string name="custom_url">Свой</string>
+    <string name="custom_url">Своё</string>
     <string name="baidu_url">Baidu</string>
     <string name="shenma_url">ShenMa</string>
     <string name="bing_url">Bing</string>
@@ -96,9 +96,9 @@
     <string name="hint_username">Имя</string>
     <string name="hint_password">Пароль</string>
     <string name="untitled">Без названия</string>
-    <string name="image_auto">Изображения только по Wi-Fi</string>
-    <string name="image_on">Блокировать изображения</string>
-    <string name="image_off">Показывать изображения</string>
+    <string name="image_auto">Графика по Wi-Fi</string>
+    <string name="image_on">Без графики</string>
+    <string name="image_off">С графикой</string>
     <string name="title_file_chooser">Выбор файла</string>
     <string name="import_backup">Восстановление закладок из копии</string>
     <string name="bookmark_export_path">Резервная копия сохранена в\n</string>
@@ -263,7 +263,7 @@
     <string name="need_permission_hint">Via необходимы следующие разрешения для работы:\n\n</string>
     <string name="storage_permission">Хранилище: для скачивания файлов из браузера, импорта/экспорта закладок и т.п.\n\n</string>
     <string name="location_permission">Местоположение: для таких сайтов, как Карты Google. Оно отключено по умолчанию в настройках и отображается во всплывающем окне с просьбой использовать ваше местоположение, если разрешено.\n\n</string>
-    <string name="phone_permission">Телефон: для сбора неконфиденциальной информации о вашем Android-устройстве, для сбора простой статистики и получения данные о сбоях в работе.\n\n</string>
+    <string name="phone_permission">Телефон: для сбора неконфиденциальной информации о вашем Android-устройстве, простой статистики и получения данные о сбоях в работе.\n\n</string>
     <string name="force_cancel">Принудительная отмена</string>
     <string name="restore_tabs_hint">Восстановить незакрытые в прошлый раз вкладки?</string>
     <string name="restore_tabs">Восстанавливать вкладки при запуске</string>
@@ -320,8 +320,8 @@
     <string name="toolbar_settings_hint">Нажмите кнопку для установки своего действия при удержании (сдвиге), удерживайте для просмотра установленного действия.</string>
     <string name="action_modify">Изменить</string>
     <string name="operation_hint">Жесты, операции и т.д.</string>
-    <string name="empty_ads_mark_hint">Нет меток рекламы.\nВы можете удерживать рекламное объявление на сайте и выбрать \"Пометить как рекламу\" для его блокировки.\nИли можете просто нажать эту кнопку.</string>
-    <string name="empty_script_hint">Скрипты отсутствуют.\nВы можете нажать кнопку [+] для добавления.\nИли можете просто нажать эту кнопку.</string>
+    <string name="empty_ads_mark_hint"Правила блокировки рекламы отсутствуют.\nВы можете удерживать рекламное объявление на сайте и выбрать \"Пометить как рекламу\" для его блокировки.\nИли можете просто нажать кнопку [+].</string>
+    <string name="empty_script_hint">Скрипты отсутствуют.\nВы можете нажать кнопку [+] для добавления.\nИли можете просто нажать кнопку ниже.</string>
     <string name="adblock_info">%1$d рекламных объявлений заблокировано, %2$s сохранено</string>
     <string name="disable">Отключить</string>
     <string name="ui_traditional">Традиционный</string>
@@ -394,7 +394,7 @@
     <string name="export_data">Экспорт данных</string>
     <string name="export_data_to">Экспорт данных в: %s</string>
     <string name="always_restore">Всегда восстанавливать</string>
-    <string name="ask_first">Сначала спросить</string>
+    <string name="ask_first">Спрашивать</string>
     <string name="disable_restore">Не восстанавливать</string>
     <string name="data_file">DataExport</string>
 </resources>
