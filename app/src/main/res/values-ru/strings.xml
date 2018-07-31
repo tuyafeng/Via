@@ -96,9 +96,9 @@
     <string name="hint_username">Имя</string>
     <string name="hint_password">Пароль</string>
     <string name="untitled">Без названия</string>
-    <string name="image_auto">Графика по Wi-Fi</string>
-    <string name="image_on">Без графики</string>
-    <string name="image_off">С графикой</string>
+    <string name="image_auto">Графика: по Wi-Fi</string>
+    <string name="image_on">Графика: нет</string>
+    <string name="image_off">Графика: да</string>
     <string name="title_file_chooser">Выбор файла</string>
     <string name="import_backup">Восстановление закладок из копии</string>
     <string name="bookmark_export_path">Резервная копия сохранена в\n</string>
