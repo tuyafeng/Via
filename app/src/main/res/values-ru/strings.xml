@@ -10,7 +10,7 @@
     <string name="action_bookmarks">Закладки</string>
     <string name="action_screenshot">Снимок экрана</string>
     <string name="bookmarks_file">BookmarksExport</string>
-    <string name="action_add_bookmark">В закладки</string>
+    <string name="action_add_bookmark">Добавить закладку</string>
     <string name="action_night">Ночной режим</string>
     <string name="action_copy">Копировать ссылку</string>
     <string name="action_copy_domain">Копировать домен</string>
@@ -385,7 +385,7 @@
     <string name="title_edit_favorite">Редактирование</string>
     <string name="custom_css_special">Добавить пользовательский CSS</string>
     <string name="force_enable_zoom">Принудительное масштабирование</string>
-    <string name="set_ua_as">Установить текущий агент пользователя как %s</string>
+    <string name="set_ua_as">Установлен агент пользователя %s</string>
     <string name="need_permission_to_install_pkg">Вы загружаете apk-файл. Для возможности установки загруженных файлов, пожалуйста, предоставьте Via соответствующее разрешение.</string>
     <string name="check_install_permission">В разрешении на установку было отказано. Разрешить её в настройках сейчас?</string>
     <string name="import_data">Импорт данных</string>
