@@ -15,7 +15,7 @@
     <string name="action_copy">Копировать ссылку</string>
     <string name="action_copy_domain">Копировать домен</string>
     <string name="action_copy_text">Копировать текст</string>
-    <string name="action_image_off">Без изображений</string>
+    <string name="action_image_off">Без графики</string>
     <string name="action_tools">Инструменты</string>
     <string name="settings">Настройки</string>
     <string name="location">Сообщать местоположение</string>
@@ -117,7 +117,7 @@
     <string name="volume">Прокрутка кнопками громкости</string>
     <string name="intent">Разрешить переадресацию сайта на приложение</string>
     <string name="msg_intent">Открыть приложение?</string>
-    <string name="dialog_adblock">Встроенный: используется встроенный чёрный список hosts.txt\n\nВнешний: используется внешний чёрный список hosts.txt, а при его отсутствии последний скачивается из сети</string>
+    <string name="dialog_adblock">Встроенный: используется встроенный список блокировки hosts.txt\n\nВнешний: используется внешний список блокировки hosts.txt, а при его отсутствии последний скачивается из сети</string>
     <string name="dialog_adblock_default">Встроенный</string>
     <string name="dialog_adblock_custom">Внешний</string>
     <string name="dialog_adblock_download">Список будет выбран автоматически после загрузки.\n\nПуть:</string>
@@ -270,7 +270,7 @@
     <string name="install_success">Успешно установлено!</string>
     <string name="uninstall_success">Успешно удалено!</string>
     <string name="online_addons">Другие дополнения</string>
-    <string name="log_page_hint">Можно скопировать данную ссылку или домен и вставить в %1$s для блокирования их загрузки при помощи внешнего чёрного списка.</string>
+    <string name="log_page_hint">Можно скопировать данную ссылку или домен и вставить в %1$s для блокирования их загрузки при помощи внешнего списка блокировки.</string>
     <string name="fullscreen_0">Отключено</string>
     <string name="fullscreen_1">Прокрутка скрывает/показывает</string>
     <string name="fullscreen_2">Нажатие скрывает/показывает</string>
