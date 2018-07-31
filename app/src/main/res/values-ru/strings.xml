@@ -15,7 +15,7 @@
     <string name="action_copy">Копировать ссылку</string>
     <string name="action_copy_domain">Копировать домен</string>
     <string name="action_copy_text">Копировать текст</string>
-    <string name="action_image_off">Без графики</string>
+    <string name="action_image_off">Без изображений</string>
     <string name="action_tools">Инструменты</string>
     <string name="settings">Настройки</string>
     <string name="location">Сообщать местоположение</string>
@@ -376,7 +376,7 @@
     <string name="page_info_url">Адрес страницы:</string>
     <string name="page_info_link">Адрес ссылки:</string>
     <string name="no_network">Нет сетевого подключения!</string>
-    <string name="action_open_with">Открыть с помощью соответствующего приложения</string>
+    <string name="action_open_with">Открыть в…</string>
     <string name="title_app_chooser">Выбор приложения</string>
     <string name="sort_bookmarks_hint">Перетаскивайте закладки за значок для сортировки списка</string>
     <string name="clear_data_on_exit">Очищать данные о выходе</string>
