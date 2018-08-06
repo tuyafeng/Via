@@ -96,7 +96,7 @@
     <string name="hint_username">Username</string>
     <string name="hint_password">Password</string>
     <string name="untitled">Untitled</string>
-    <string name="image_auto">Show images via Wi-Fi</string>
+    <string name="image_auto">Show images only via Wi-Fi</string>
     <string name="image_on">Block images</string>
     <string name="image_off">Show images</string>
     <string name="title_file_chooser">File chooser</string>
@@ -112,8 +112,8 @@
     <string name="dialog_message">Message</string>
     <string name="toast_wait_a_minute">Wait a moment&#8230;</string>
     <string name="toast_save_to">Save file to: </string>
-    <string name="toast_operation_failed">The operation failed.</string>
-    <string name="toast_operation_done">The operation done.</string>
+    <string name="toast_operation_failed">The operation failed</string>
+    <string name="toast_operation_done">The operation done</string>
     <string name="volume">Press Volume Keys to Scroll</string>
     <string name="intent">Allow Website to Run Apps</string>
     <string name="msg_intent">Allow Website to open your app?</string>
@@ -167,11 +167,11 @@
     <string name="desc_menu">menu</string>
     <string name="desc_filedic">file</string>
     <string name="desc_other">other</string>
-    <string name="msg_setgoogle">Set Google search engine now?</string>
+    <string name="msg_setgoogle">Set Google as a default search engine?</string>
     <string name="action_mark">Mark as Ad</string>
     <string name="settings_block">AdBlock</string>
     <string name="dialog_confirm_block">Would you like to mark this as ad?</string>
-    <string name="do_not_track">Do Not Track</string>
+    <string name="do_not_track">Don't Track</string>
     <string name="get_more_rules">Get More Rules</string>
     <string name="add_rule">Add Rule</string>
     <string name="hint_tags">Tags</string>
@@ -185,17 +185,17 @@
     <string name="user_update">Upload</string>
     <string name="log_in_success">Log in successful.</string>
     <string name="wrong_psw">Wrong password.</string>
-    <string name="sign_up_success">Sign up successful.</string>
-    <string name="code_500">Service unavailable.</string>
+    <string name="sign_up_success">Sign up successful</string>
+    <string name="code_500">Service unavailable</string>
     <string name="syns_success">Sync Complete</string>
     <string name="upload_success">Upload Complete</string>
     <string name="log_out">Log out?</string>
-    <string name="crash_info">Something wrong :(</string>
+    <string name="crash_info">Something went wrong :(</string>
     <string name="crash_restart">Restart app</string>
     <string name="crash_close">Close app</string>
     <string name="crash_upload">Upload crash log</string>
     <string name="upload_completed">Upload completed :)</string>
-    <string name="ui_mode">UI Mode</string>
+    <string name="ui_mode">Operation bar UI</string>
     <string name="ui_auto">Auto</string>
     <string name="open_or_search">Open/Search</string>
     <string name="settings_addons">Add-ons</string>
@@ -217,7 +217,7 @@
 
     <string name="cannot_undo">This cannot be undone.</string>
 
-    <string name="sync_desc">The account will be created if not exists</string>
+    <string name="sync_desc">An account will be created if it doesn't exist</string>
 
     <string name="settings_skin">Customize</string>
     <string name="default_set">Default</string>
@@ -293,9 +293,9 @@
     <string name="set_it_as_homepage">Set it as homepage?</string>
     <string name="missing_webview">Android System WebView is not installed correctly. Do you want to install it now?</string>
     <string name="install">Install</string>
-    <string name="crash_hint">We\'re very sorry the app crashed.</string>
-    <string name="upload_hint">We\'re very sorry the app crashed, but you can upload crash log to help us do better. Upload now?</string>
-    <string name="glean">Glean</string>
+    <string name="crash_hint">We\'re very sorry that the app crashed.</string>
+    <string name="upload_hint">We\'re very sorry that the app crashed, but you can upload crash log to help us do better. Upload now?</string>
+    <string name="glean">Fast & Light</string>
     <string name="contact_us">Contact us</string>
     <string name="official_website">Official website</string>
     <string name="current_language">Current language</string>
