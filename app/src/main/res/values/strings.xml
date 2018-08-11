@@ -15,7 +15,7 @@
     <string name="action_copy">Copy Link</string>
     <string name="action_copy_domain">Copy Domain</string>
     <string name="action_copy_text">Copy Text</string>
-    <string name="action_image_off">Block Image</string>
+    <string name="action_image_off">Blocking all images</string>
     <string name="action_tools">Tools</string>
     <string name="settings">Settings</string>
     <string name="location">Location Access</string>
@@ -27,7 +27,7 @@
     <string name="orientation_auto">Auto</string>
     <string name="orientation_portrait">Portrait</string>
     <string name="orientation_landscape">Landscape</string>
-    <string name="agent">User Agent</string>
+    <string name="agent">User-Agent</string>
     <string name="home">Homepage</string>
     <string name="fullscreen">Auto Hide Operation Bars</string>
     <string name="java">Enable JavaScript</string>
@@ -40,15 +40,15 @@
     <string name="action_blank">Blank Page</string>
     <string name="agent_chrome">Chrome (PC)</string>
     <string name="agent_ie">IE 11 (PC)</string>
-    <string name="agent_iphone">iPhone</string>
-    <string name="agent_symbian">Symbian</string>
+    <string name="agent_iphone">Safari (iPhone)</string>
+    <string name="agent_symbian">Nokia Browser for Symbian</string>
     <string name="agent_custom">Custom</string>
     <string name="title_search_engine">Search Engine</string>
     <string name="action_ok">OK</string>
     <string name="dialog_download">Do you want to download this file?</string>
     <string name="action_cancel">Cancel</string>
     <string name="title_warning">Warning</string>
-    <string name="title_user_agent">User Agent</string>
+    <string name="title_user_agent">User-Agent</string>
     <string name="title_custom_homepage">Custom Homepage</string>
     <string name="action_webpage">Webpage</string>
     <string name="action_yes">OK</string>
@@ -97,8 +97,8 @@
     <string name="hint_password">Password</string>
     <string name="untitled">Untitled</string>
     <string name="image_auto">Show images only via Wi-Fi</string>
-    <string name="image_on">Block images</string>
-    <string name="image_off">Show images</string>
+    <string name="image_on">Showing images</string>
+    <string name="image_off">Blocking images</string>
     <string name="title_file_chooser">File chooser</string>
     <string name="import_backup">Import bookmarks</string>
     <string name="bookmark_export_path">Bookmarks exported to\n</string>
@@ -106,19 +106,19 @@
     <string name="feedback">Feedback</string>
     <string name="message_add_bookmark">Bookmark added successfully</string>
     <string name="message_exit">Press one more time to exit</string>
-    <string name="web_screenshot">Web Screenshot</string>
+    <string name="web_screenshot">Webpaage Screenshot</string>
     <string name="screenshot_all">All</string>
     <string name="screenshot_now">Visible</string>
-    <string name="dialog_message">Message</string>
+    <string name="dialog_message">Hey!</string>
     <string name="toast_wait_a_minute">Wait a moment&#8230;</string>
     <string name="toast_save_to">Save file to: </string>
     <string name="toast_operation_failed">The operation failed</string>
     <string name="toast_operation_done">The operation done</string>
     <string name="volume">Press Volume Keys to Scroll</string>
     <string name="intent">Allow Website to Run Apps</string>
-    <string name="msg_intent">Allow Website to open your app?</string>
+    <string name="msg_intent">Allow Website to open its app?</string>
     <string name="dialog_adblock">Default Block: Use internal hosts.txt to Block Ads\n\nCustom Block: Use external hosts.txt, which will be downloaded if not exists.</string>
-    <string name="dialog_adblock_default">Default Block</string>
+    <string name="dialog_adblock_default">Default Blocking</string>
     <string name="dialog_adblock_custom">Custom Block</string>
     <string name="dialog_adblock_download">It will be automatically selected after download.\n\npath:</string>
     <string name="dialog_adblock_custom_hint">\nPlease do not change the file\'s path or name. You can edit this file to customize your own block list.</string>
@@ -178,14 +178,14 @@
     <string name="clear_ad_rules">Clear All Ad Rules</string>
     <string name="color_mode">Color Mode</string>
     <string name="dialog_sure">Are you sure you want to do this?</string>
-    <string name="action_send_to_launcher">Send to Launcher</string>
+    <string name="action_send_to_launcher">Send to the Launcher</string>
     <string name="settings_cloud">Account</string>
     <string name="user">Log in/Sign up</string>
     <string name="user_syns">Sync</string>
     <string name="user_update">Upload</string>
-    <string name="log_in_success">Log in successful.</string>
-    <string name="wrong_psw">Wrong password.</string>
-    <string name="sign_up_success">Sign up successful</string>
+    <string name="log_in_success">Log in was successful</string>
+    <string name="wrong_psw">Wrong password</string>
+    <string name="sign_up_success">Sign up was successful</string>
     <string name="code_500">Service unavailable</string>
     <string name="syns_success">Sync Complete</string>
     <string name="upload_success">Upload Complete</string>
@@ -193,7 +193,7 @@
     <string name="crash_info">Something went wrong :(</string>
     <string name="crash_restart">Restart app</string>
     <string name="crash_close">Close app</string>
-    <string name="crash_upload">Upload crash log</string>
+    <string name="crash_upload">Upload the crash log</string>
     <string name="upload_completed">Upload completed :)</string>
     <string name="ui_mode">Operation bar UI</string>
     <string name="ui_auto">Auto</string>
@@ -215,11 +215,11 @@
     <string name="data_cookies">Cookies</string>
     <string name="data_cleared">Data cleared</string>
 
-    <string name="cannot_undo">This cannot be undone.</string>
+    <string name="cannot_undo">This cannot be undone</string>
 
     <string name="sync_desc">An account will be created if it doesn't exist</string>
 
-    <string name="settings_skin">Customize</string>
+    <string name="settings_skin">Customization</string>
     <string name="default_set">Default</string>
     <string name="custom_css">Custom CSS</string>
     <string name="num_of_bookmarks_in_home">The number of bookmarks in homepage</string>
@@ -264,7 +264,7 @@
     <string name="storage_permission">Storage: for downloading files from the browser and importing/exporting bookmarks etc.\n\n</string>
     <string name="location_permission">Location: for sites like Google Maps, it is disabled by default in settings and displays a pop-up asking if a site may use your location when it is enabled.\n\n</string>
     <string name="phone_permission">Phone: for getting your non-privacy Android device info to do simple statistics and collect error exception when FC.\n\n</string>
-    <string name="force_cancel">Force cancel</string>
+    <string name="force_cancel">Force close</string>
     <string name="restore_tabs_hint">Restore the unclosed tabs last time?</string>
     <string name="restore_tabs">Restore Tabs on Startup</string>
     <string name="install_success">Installation Successful!!!</string>
@@ -279,7 +279,7 @@
     <string name="add_script">Add Script</string>
     <string name="script_url">domain or * (* means all)</string>
     <string name="script_code">code (Javascript)</string>
-    <string name="clear_all_script">Clear All Script</string>
+    <string name="clear_all_script">Clear All Scripts</string>
     <string name="toast_copy_domain_successful">Domain copied successfully</string>
     <string name="go_together">Go together</string>
     <string name="help_us_translate">Help us translate</string>
@@ -324,9 +324,9 @@
     <string name="empty_script_hint">No scripts. \nYou can click the plus button to add scripts. \nOr just click the following button.</string>
     <string name="adblock_info">%1$d ads have been blocked, %2$s saved</string>
     <string name="disable">Disable</string>
-    <string name="ui_traditional">Traditional</string>
+    <string name="ui_traditional">Sandwich</string>
     <string name="ui_simple">Simple</string>
-    <string name="color_mode_hint">Color operation bars when browsing</string>
+    <string name="color_mode_hint">Adapting and Color changing operation bars</string>
     <string name="sort_hint">Long press and drag to sort</string>
     <string name="action_sort_bookmarks">Sort bookmarks</string>
     <string name="desc_close">Close</string>
