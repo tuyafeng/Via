@@ -29,7 +29,7 @@
     <string name="orientation_landscape">Landscape</string>
     <string name="agent">User-Agent</string>
     <string name="home">Homepage</string>
-    <string name="fullscreen">Auto Hide Operation Bars</string>
+    <string name="fullscreen">Automaticaly Hide Operation Bars</string>
     <string name="java">Enable JavaScript</string>
     <string name="download">Download Location</string>
     <string name="size">Text Size</string>
@@ -41,7 +41,7 @@
     <string name="agent_chrome">Chrome (PC)</string>
     <string name="agent_ie">IE 11 (PC)</string>
     <string name="agent_iphone">Safari (iPhone)</string>
-    <string name="agent_symbian">Nokia Browser for Symbian</string>
+    <string name="agent_symbian">Nokia Browser</string>
     <string name="agent_custom">Custom</string>
     <string name="title_search_engine">Search Engine</string>
     <string name="action_ok">OK</string>
@@ -106,7 +106,7 @@
     <string name="feedback">Feedback</string>
     <string name="message_add_bookmark">Bookmark added successfully</string>
     <string name="message_exit">Press one more time to exit</string>
-    <string name="web_screenshot">Webpaage Screenshot</string>
+    <string name="web_screenshot">Webpage Screenshot</string>
     <string name="screenshot_all">All</string>
     <string name="screenshot_now">Visible</string>
     <string name="dialog_message">Hey!</string>
@@ -114,8 +114,8 @@
     <string name="toast_save_to">Save file to: </string>
     <string name="toast_operation_failed">The operation failed</string>
     <string name="toast_operation_done">The operation done</string>
-    <string name="volume">Press Volume Keys to Scroll</string>
-    <string name="intent">Allow Website to Run Apps</string>
+    <string name="volume">Volume Keys for Scroll</string>
+    <string name="intent">Allow Websites to Open their App</string>
     <string name="msg_intent">Allow Website to open its app?</string>
     <string name="dialog_adblock">Default Block: Use internal hosts.txt to Block Ads\n\nCustom Block: Use external hosts.txt, which will be downloaded if not exists.</string>
     <string name="dialog_adblock_default">Default Blocking</string>
@@ -143,7 +143,7 @@
     <string name="operation_goback">Go back</string>
     <string name="operation_goforward">Go forward</string>
     <string name="operation_find">Find in Page</string>
-    <string name="settings_ad_rules">Ads Marked</string>
+    <string name="settings_ad_rules">Marked Ads</string>
     <string name="settings_operation">Gestures</string>
     <string name="settings_privacy">Privacy</string>
     <string name="settings_advanced">Advanced</string>
@@ -191,16 +191,16 @@
     <string name="upload_success">Upload Complete</string>
     <string name="log_out">Log out?</string>
     <string name="crash_info">Something went wrong :(</string>
-    <string name="crash_restart">Restart app</string>
-    <string name="crash_close">Close app</string>
+    <string name="crash_restart">Restart</string>
+    <string name="crash_close">Close</string>
     <string name="crash_upload">Upload the crash log</string>
     <string name="upload_completed">Upload completed :)</string>
-    <string name="ui_mode">Operation bar UI</string>
+    <string name="ui_mode">Operation bar UI mode</string>
     <string name="ui_auto">Auto</string>
     <string name="open_or_search">Open/Search</string>
     <string name="settings_addons">Add-ons</string>
     <string name="addon_download">Download Manager</string>
-    <string name="addon_qr_code_scan">QR Code Scan</string>
+    <string name="addon_qr_code_scan">QR Code Scanner</string>
     <string name="install_addon">Go to download and install add-ons? The add-ons will work after being installed.</string>
     <string name="quick_back">Go Back without Reloading</string>
     <string name="open_with">Open with&#8230;</string>
@@ -236,9 +236,9 @@
     <string name="block_popup">Block Pop-up</string>
     <string name="open_window_hint">Website is trying to open a new window</string>
 
-    <string name="action_save_web_page">Save Web Page</string>
-    <string name="action_saved_pages">Saved Pages</string>
-    <string name="saved_page_successfully">Page Saved Successfully. It is in the menu of homepage: Saved Pages</string>
+    <string name="action_save_web_page">Save Website</string>
+    <string name="action_saved_pages">Saved Websites</string>
+    <string name="saved_page_successfully">Website Saved Successfully. It is in the menu of homepage: Saved Websites</string>
     <string name="deleted_failed">"Failed to Delete. The file located in download path: "</string>
 
     <string name="empty_hint">Nothing to show&#8230;</string>
@@ -265,7 +265,7 @@
     <string name="location_permission">Location: for sites like Google Maps, it is disabled by default in settings and displays a pop-up asking if a site may use your location when it is enabled.\n\n</string>
     <string name="phone_permission">Phone: for getting your non-privacy Android device info to do simple statistics and collect error exception when FC.\n\n</string>
     <string name="force_cancel">Force close</string>
-    <string name="restore_tabs_hint">Restore the unclosed tabs last time?</string>
+    <string name="restore_tabs_hint">Restore the unclosed tabs from the last time?</string>
     <string name="restore_tabs">Restore Tabs on Startup</string>
     <string name="install_success">Installation Successful!!!</string>
     <string name="uninstall_success">Uninstallation Successful!!!</string>
@@ -319,7 +319,7 @@
     <string name="back_forward_gesture">Back Forward Gesture</string>
     <string name="toolbar_settings_hint">Click the following button to set its long press (slide) event, and long press it to see what has been set.</string>
     <string name="action_modify">Modify</string>
-    <string name="operation_hint">Gesture, Operating habits, etc</string>
+    <string name="operation_hint">Gestures, shortcuts, etc.</string>
     <string name="empty_ads_mark_hint">No ads marked. \nYou can long press ads in web page then select \"Mark as AD\" to block it.</string>
     <string name="empty_script_hint">No scripts. \nYou can click the plus button to add scripts. \nOr just click the following button.</string>
     <string name="adblock_info">%1$d ads have been blocked, %2$s saved</string>
@@ -335,7 +335,7 @@
     <string name="skin_hide_search_part">Hide Search Part</string>
     <string name="action_more">More</string>
     <string name="action_exit">Exit</string>
-    <string name="set_as_default">Set it as your default browser?</string>
+    <string name="set_as_default">Set it as a default browser?</string>
     <string name="exit_incognito_title">Exit Incognito Browsing</string>
     <string name="exit_incognito_dialog">Do you want to close all tabs before disabling \"Incognito\"?</string>
     <string name="file_size">File size</string>
@@ -380,13 +380,13 @@
     <string name="title_app_chooser">App chooser</string>
     <string name="sort_bookmarks_hint">Please drag and drop the icon of bookmark to sort list</string>
     <string name="clear_data_on_exit">Clear Data on Exit</string>
-    <string name="action_add_to_homepage">Add to Speed Dial</string>
-    <string name="added_favorite_hint">Added to speed dial successfully</string>
+    <string name="action_add_to_homepage">Add to the Homepage</string>
+    <string name="added_favorite_hint">Added to the Homepage successfully</string>
     <string name="title_edit_favorite">Edit Favorite</string>
     <string name="custom_css_special">Add Custom CSS</string>
-    <string name="force_enable_zoom">Force Enable Zoom</string>
-    <string name="set_ua_as">Set current user agent as %s</string>
-    <string name="need_permission_to_install_pkg">You are downloading an APK file, please grant Via install packages permission to ensure you can install the downloaded files.</string>
+    <string name="force_enable_zoom">Enable Force Zoom</string>
+    <string name="set_ua_as">Set current user agent is %s</string>
+    <string name="need_permission_to_install_pkg">You are downloading an APK file, please grant Via permission to install packages.</string>
     <string name="check_install_permission">Installation permission denied. Set it in settings now?</string>
     <string name="import_data">Import Data</string>
     <string name="import_data_failed">Failed to import data!</string>
@@ -395,6 +395,6 @@
     <string name="export_data_to">Export Data to: %s</string>
     <string name="always_restore">Always restore</string>
     <string name="ask_first">Ask first</string>
-    <string name="disable_restore">Disable restore</string>
+    <string name="disable_restore">Don't restore</string>
     <string name="data_file">DataExport</string>
 </resources>
