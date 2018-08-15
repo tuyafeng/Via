@@ -86,7 +86,7 @@
     <string name="google_url">Google</string>
     <string name="sougou_url">Sougou</string>
     <string name="block_ads">Block Ads</string>
-    <string name="message_untrusted_certificate">The certificate of the site is not trusted. Proceed anyway?</string>
+    <string name="message_untrusted_certificate">The certificate of the site isn't trusted. Proceed anyway?</string>
     <string name="title_form_resubmission">Form Resubmission</string>
     <string name="message_form_resubmission">Would you like to resend the data?</string>
     <string name="message_location">\nWould like to use your location</string>
@@ -102,7 +102,7 @@
     <string name="title_file_chooser">File chooser</string>
     <string name="import_backup">Import bookmarks</string>
     <string name="bookmark_export_path">Bookmarks exported to\n</string>
-    <string name="import_bookmark_error">Could not import bookmarks from file</string>
+    <string name="import_bookmark_error">Couldn't import bookmarks from file</string>
     <string name="feedback">Feedback</string>
     <string name="message_add_bookmark">Bookmark added successfully</string>
     <string name="message_exit">Press one more time to exit</string>
@@ -117,11 +117,11 @@
     <string name="volume">Volume Keys for Scroll</string>
     <string name="intent">Allow Websites to Open their App</string>
     <string name="msg_intent">Allow Website to open its app?</string>
-    <string name="dialog_adblock">Default Block: Use internal hosts.txt to Block Ads\n\nCustom Block: Use external hosts.txt, which will be downloaded if not exists.</string>
+    <string name="dialog_adblock">Default Block: Use internal hosts.txt to Block Ads\n\nCustom Block: Use external hosts.txt, which will be downloaded if it doesn't exist.</string>
     <string name="dialog_adblock_default">Default Blocking</string>
     <string name="dialog_adblock_custom">Custom Block</string>
     <string name="dialog_adblock_download">It will be automatically selected after download.\n\npath:</string>
-    <string name="dialog_adblock_custom_hint">\nPlease do not change the file\'s path or name. You can edit this file to customize your own block list.</string>
+    <string name="dialog_adblock_custom_hint">\nPlease don't change the file\'s path or name. You can edit this file to customize your own block list.</string>
     <string name="setting_default">Set as Default Browser</string>
     <string name="toast_clear_defaults">Please clear defaults</string>
     <string name="toast_copy_url_successful">Link copied successfully</string>
@@ -254,7 +254,7 @@
 
     <string name="set_to_default">It will be set to default after opening link(%s), please choose via to open the link.</string>
 
-    <string name="quick_back_desc">There may be compatibility issues when you enable this option. You should disable it if you find going back not work properly.</string>
+    <string name="quick_back_desc">There may be compatibility issues when you enable this option. You should disable it if going back won't work.</string>
     <string name="sync_prompt">It will overwrite your current local bookmark and settings. Continue?</string>
     <string name="upload_prompt">It will upload your current local bookmark and settings. Continue?</string>
     <string name="none">None</string>
@@ -291,7 +291,7 @@
     <string name="skin_style">Style</string>
     <string name="skin_settings">Settings</string>
     <string name="set_it_as_homepage">Set it as homepage?</string>
-    <string name="missing_webview">Android System WebView is not installed correctly. Do you want to install it now?</string>
+    <string name="missing_webview">Android System WebView isn't installed correctly. Do you want to install it now?</string>
     <string name="install">Install</string>
     <string name="crash_hint">We\'re very sorry that the app crashed.</string>
     <string name="upload_hint">We\'re very sorry that the app crashed, but you can upload crash log to help us do better. Upload now?</string>
@@ -344,7 +344,7 @@
     <string name="ignore">Ignore</string>
     <string name="share_script">Script for %1$s, copy this message and open via to import it. viascript{%2$s}</string>
     <string name="share_online_script">Script for %1$s, copy this message and open link %2$s with via to install it.</string>
-    <string name="import_script">Import the script for %1$s from clipboard?\nWarning: Script may be not safe. Please make sure it is safe.\nScript:\n</string>
+    <string name="import_script">Import the script for %1$s from clipboard?\nWarning: Please make sure it is safe.\nScript:\n</string>
     <string name="share_rule">The rule for blocking ads of %1$s, copy this message and open via to import it. viarule{%2$s}</string>
     <string name="import_rule">Import the rule for blocking ads of %1$s from clipboard?</string>
     <string name="share_url">This is a secret URL. Copy this message and open via to view it. viaurl{%1$s}</string>
