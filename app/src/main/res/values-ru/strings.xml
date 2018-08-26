@@ -364,7 +364,7 @@
     <string name="no_resource">На странице нет ресурсов.</string>
     <string name="no_network_log">На странице нет сетевого журнала.</string>
     <string name="resource_sniffer_hint">\nЭто легче сделать, когда музыка или видео воспроизводится. P.S.: некоторые сайты не поддерживают данную функцию.</string>
-    <string name="action_download">Скачать</string>
+    <string name="action_download">Загрузки</string>
     <string name="action_play_with_mxplayer">Воспроизвести в MX Player</string>
     <string name="empty_username_info">Введите своё имя пользователя.</string>
     <string name="empty_password_info">Введите свой пароль.</string>
