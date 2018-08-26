@@ -379,7 +379,7 @@
     <string name="action_open_with">Открыть с помощью соответствующего приложения</string>
     <string name="title_app_chooser">Выбор приложения</string>
     <string name="sort_bookmarks_hint">Перетаскивайте закладки за значок для сортировки списка</string>
-    <string name="clear_data_on_exit">Очищать данные о выходе</string>
+    <string name="clear_data_on_exit">Очищать данные при выходе</string>
     <string name="action_add_to_homepage">Добавить в быстрый набор</string>
     <string name="added_favorite_hint">Успешно добавлено в быстрый набор</string>
     <string name="title_edit_favorite">Редактирование</string>
