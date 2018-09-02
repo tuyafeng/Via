@@ -89,9 +89,9 @@
     <string name="message_untrusted_certificate">Šio puslapio sertifikatas yra nepatikimas. Vis tiek tęsti toliau?</string>
     <string name="title_form_resubmission">Pakartotinis formos pateikimas</string>
     <string name="message_form_resubmission">Ar jūs norėtumėte dar kartą persiųsti duomenis?</string>
-    <string name="message_location">\Ar jūs norėtumėte naudoti vietos paslaugas?</string>
+    <string name="message_location">\n Norėtų sužinoti jūsų buvimo vietą</string>
     <string name="action_allow">Leisti</string>
-    <string name="action_dont_allow">Atsisakyti</string>
+    <string name="action_dont_allow">Neleisti</string>
     <string name="title_sign_in">Prisijungti</string>
     <string name="hint_username">Vartotojo vardas</string>
     <string name="hint_password">Slaptažodis</string>
@@ -101,7 +101,7 @@
     <string name="image_off">Rodyti paveikslėlius</string>
     <string name="title_file_chooser">Failų parinktuvas</string>
     <string name="import_backup">Importuoti žymes</string>
-    <string name="bookmark_export_path">Žymės eksportuotos į  \n</string>
+    <string name="bookmark_export_path">Žymės eksportuotos į \n</string>
     <string name="import_bookmark_error">Importuojant žymes įvyko klaida</string>
     <string name="feedback">Atsiliepimai</string>
     <string name="message_add_bookmark">Žymė pridėta sėkmingai</string>
@@ -117,7 +117,7 @@
     <string name="volume">Paspauskite garso mygtukus kad keliautumėte puslapiu žemyn/aukštyn</string>
     <string name="intent">Leisti puslapiui atsidaryti per jam instaliuotą programėlę (jeigu jūs ją esat įsirašę)</string>
     <string name="msg_intent">Ar norėtumėte atidaryti programėlę?</string>
-    <string name="dialog_adblock">Pagrindinis blokavimas:naudoti lokaliai esantį hosts.txt Reklamų blokavimui \n\nCustom Block: naudoti saugyklai hosts.txt, failas bus atsiųstas jeigu jis neegzistuoja.</string>
+    <string name="dialog_adblock">Pagrindinis blokavimas: naudoti lokaliai esantį hosts.txt eklamų blokavimui \n\nCustom Block: naudoti saugyklai hosts.txt, failas bus atsiųstas jeigu jis neegzistuoja.</string>
     <string name="dialog_adblock_default">Pagrindinis blokavimas</string>
     <string name="dialog_adblock_custom">Pasirinktinis blokavimas</string>
     <string name="dialog_adblock_download">Jis bus parinktas po atsisiuntimo.\n\npath:</string>
@@ -167,7 +167,7 @@
     <string name="desc_menu">Meniu</string>
     <string name="desc_filedic">Failas</string>
     <string name="desc_other">Kiti</string>
-    <string name="msg_setgoogle">Ar norite, kad Google būtų jūsų paieškos variklis?</string>
+    <string name="msg_setgoogle">Ar norite nustatyti Google jūsų paieškos varikliu?</string>
     <string name="action_mark">Pažymėti kaip reklamą</string>
     <string name="settings_block">AdBlock</string>
     <string name="dialog_confirm_block">Ar norite šį daiktą pažymėti kaip reklamą?</string>
@@ -295,7 +295,7 @@
     <string name="install">Įrašyti</string>
     <string name="crash_hint">Labai labai atsiprašome už šią klaidą. Tai mūsų (arba jūsų įrenginio)kaltė.</string>
     <string name="upload_hint">Labai labai atsiprašome už šią klaidą. Jei norite mums pranešti apie šią klaidą, jūs galite mums nusiųsti klaidų sąrašą. Ar norite jį išsiųsti dabar?</string>
-    <string name="glean">Mūsų šūkis</string>
+    <string name="glean">Greita ir Maža</string>
     <string name="contact_us">Susisiekti su mumis</string>
     <string name="official_website">Oficialus internetinis puslapis</string>
     <string name="current_language">Dabartinė kalba</string>
@@ -310,7 +310,7 @@
     <string name="action_fullscreen">Pilnas ekranas</string>
     <string name="action_ua">Vartotojo agentas</string>
     <string name="settings_general">Pagrindiniai</string>
-    <string name="no_bookmark">Nėra žymių~</string>
+    <string name="no_bookmark">Nėra žymių</string>
     <string name="import_or_export_bookmarks">Importuoti/eksportuoti žymes</string>
     <string name="what_is_next">Kas toliau?</string>
     <string name="import_">Importuoti žymes</string>
