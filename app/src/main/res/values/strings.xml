@@ -291,11 +291,11 @@
     <string name="skin_style">Style</string>
     <string name="skin_settings">Settings</string>
     <string name="set_it_as_homepage">Set it as homepage?</string>
-    <string name="missing_webview">Android System WebView isn't installed correctly. Do you want to install it now?</string>
+    <string name="missing_webview">Android System WebView isn\'t installed correctly. Do you want to install it now?</string>
     <string name="install">Install</string>
     <string name="crash_hint">We\'re very sorry that the app crashed.</string>
     <string name="upload_hint">We\'re very sorry that the app crashed, but you can upload crash log to help us do better. Upload now?</string>
-    <string name="glean">Fast & Light</string>
+    <string name="glean">Glean</string>
     <string name="contact_us">Contact us</string>
     <string name="official_website">Official website</string>
     <string name="current_language">Current language</string>
