@@ -364,7 +364,7 @@
     <string name="no_resource">На странице нет ресурсов.</string>
     <string name="no_network_log">На странице нет сетевого журнала.</string>
     <string name="resource_sniffer_hint">\nЭто легче сделать, когда музыка или видео воспроизводится. P.S.: некоторые сайты не поддерживают данную функцию.</string>
-    <string name="action_download">Скачать</string>
+    <string name="action_download">Загрузки</string>
     <string name="action_play_with_mxplayer">Воспроизвести в MX Player</string>
     <string name="empty_username_info">Введите своё имя пользователя.</string>
     <string name="empty_password_info">Введите свой пароль.</string>
@@ -379,7 +379,7 @@
     <string name="action_open_with">Открыть с помощью соответствующего приложения</string>
     <string name="title_app_chooser">Выбор приложения</string>
     <string name="sort_bookmarks_hint">Перетаскивайте закладки за значок для сортировки списка</string>
-    <string name="clear_data_on_exit">Очищать данные о выходе</string>
+    <string name="clear_data_on_exit">Очищать данные при выходе</string>
     <string name="action_add_to_homepage">Добавить в быстрый набор</string>
     <string name="added_favorite_hint">Успешно добавлено в быстрый набор</string>
     <string name="title_edit_favorite">Редактирование</string>
