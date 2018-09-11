@@ -86,7 +86,7 @@
     <string name="google_url">Google</string>
     <string name="sougou_url">Sougou</string>
     <string name="block_ads">Block Ads</string>
-    <string name="message_untrusted_certificate">The certificate of the site isn't trusted. Proceed anyway?</string>
+    <string name="message_untrusted_certificate">The certificate of the site isn\'t trusted. Proceed anyway?</string>
     <string name="title_form_resubmission">Form Resubmission</string>
     <string name="message_form_resubmission">Would you like to resend the data?</string>
     <string name="message_location">\nWould like to use your location</string>
@@ -102,14 +102,14 @@
     <string name="title_file_chooser">File chooser</string>
     <string name="import_backup">Import bookmarks</string>
     <string name="bookmark_export_path">Bookmarks exported to\n</string>
-    <string name="import_bookmark_error">Couldn't import bookmarks from file</string>
+    <string name="import_bookmark_error">Couldn\'t import bookmarks from file</string>
     <string name="feedback">Feedback</string>
     <string name="message_add_bookmark">Bookmark added successfully</string>
     <string name="message_exit">Press one more time to exit</string>
     <string name="web_screenshot">Webpage Screenshot</string>
     <string name="screenshot_all">All</string>
     <string name="screenshot_now">Visible</string>
-    <string name="dialog_message">Hey!</string>
+    <string name="dialog_message">Message</string>
     <string name="toast_wait_a_minute">Wait a moment&#8230;</string>
     <string name="toast_save_to">Save file to: </string>
     <string name="toast_operation_failed">The operation failed</string>
@@ -117,11 +117,11 @@
     <string name="volume">Volume Keys for Scroll</string>
     <string name="intent">Allow Websites to Open their App</string>
     <string name="msg_intent">Allow Website to open its app?</string>
-    <string name="dialog_adblock">Default Block: Use internal hosts.txt to Block Ads\n\nCustom Block: Use external hosts.txt, which will be downloaded if it doesn't exist.</string>
+    <string name="dialog_adblock">Default Block: Use internal hosts.txt to Block Ads\n\nCustom Block: Use external hosts.txt, which will be downloaded if it doesn\'t exist.</string>
     <string name="dialog_adblock_default">Default Blocking</string>
     <string name="dialog_adblock_custom">Custom Block</string>
     <string name="dialog_adblock_download">It will be automatically selected after download.\n\npath:</string>
-    <string name="dialog_adblock_custom_hint">\nPlease don't change the file\'s path or name. You can edit this file to customize your own block list.</string>
+    <string name="dialog_adblock_custom_hint">\nPlease don\'t change the file\'s path or name. You can edit this file to customize your own block list.</string>
     <string name="setting_default">Set as Default Browser</string>
     <string name="toast_clear_defaults">Please clear defaults</string>
     <string name="toast_copy_url_successful">Link copied successfully</string>
@@ -171,7 +171,7 @@
     <string name="action_mark">Mark as Ad</string>
     <string name="settings_block">AdBlock</string>
     <string name="dialog_confirm_block">Would you like to mark this as ad?</string>
-    <string name="do_not_track">Don't Track</string>
+    <string name="do_not_track">Do not Track</string>
     <string name="get_more_rules">Get More Rules</string>
     <string name="add_rule">Add Rule</string>
     <string name="hint_tags">Tags</string>
@@ -217,7 +217,7 @@
 
     <string name="cannot_undo">This cannot be undone</string>
 
-    <string name="sync_desc">An account will be created if it doesn't exist</string>
+    <string name="sync_desc">An account will be created if it doesn\'t exist</string>
 
     <string name="settings_skin">Customization</string>
     <string name="default_set">Default</string>
@@ -254,7 +254,7 @@
 
     <string name="set_to_default">It will be set to default after opening link(%s), please choose via to open the link.</string>
 
-    <string name="quick_back_desc">There may be compatibility issues when you enable this option. You should disable it if going back won't work.</string>
+    <string name="quick_back_desc">There may be compatibility issues when you enable this option. You should disable it if going back won\'t work.</string>
     <string name="sync_prompt">It will overwrite your current local bookmark and settings. Continue?</string>
     <string name="upload_prompt">It will upload your current local bookmark and settings. Continue?</string>
     <string name="none">None</string>
@@ -291,11 +291,11 @@
     <string name="skin_style">Style</string>
     <string name="skin_settings">Settings</string>
     <string name="set_it_as_homepage">Set it as homepage?</string>
-    <string name="missing_webview">Android System WebView isn't installed correctly. Do you want to install it now?</string>
+    <string name="missing_webview">Android System WebView isn\'t installed correctly. Do you want to install it now?</string>
     <string name="install">Install</string>
     <string name="crash_hint">We\'re very sorry that the app crashed.</string>
     <string name="upload_hint">We\'re very sorry that the app crashed, but you can upload crash log to help us do better. Upload now?</string>
-    <string name="glean">Fast & Light</string>
+    <string name="glean">Glean</string>
     <string name="contact_us">Contact us</string>
     <string name="official_website">Official website</string>
     <string name="current_language">Current language</string>
@@ -395,6 +395,7 @@
     <string name="export_data_to">Export Data to: %s</string>
     <string name="always_restore">Always restore</string>
     <string name="ask_first">Ask first</string>
-    <string name="disable_restore">Don't restore</string>
+    <string name="disable_restore">Don\'t restore</string>
     <string name="data_file">DataExport</string>
+    <string name="bookmarks_data_to_long">Bookmarks data is too big to upload, but other data will upload normally. Continue?</string>
 </resources>
