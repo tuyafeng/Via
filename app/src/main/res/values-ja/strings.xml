@@ -244,7 +244,7 @@
 
     <string name="already_default">既定のブラウザに設定されています</string>
 
-    <string name="set_to_default">設定を適用には Via で %s を開いてください</string>
+    <string name="set_to_default">設定を適用するには Via で %s を開いてください</string>
 
     <string name="quick_back_desc">不具合が発生したら無効にしてください</string>
     <string name="sync_prompt">ブックマークと設定を上書きしますか？</string>
