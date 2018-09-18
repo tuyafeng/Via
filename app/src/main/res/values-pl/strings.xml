@@ -65,7 +65,7 @@
     <string name="title_edit_bookmark">Edytuj zakładkę</string>
     <string name="action_edit">Edytuj</string>
     <string name="action_incognito">Tryb prywatny</string>
-    <string name="action_find">Znajdź na stronie</string>
+    <string name="action_find">Szukaj</string>
     <string name="download_pending">Rozpoczynanie pobierania\u2026</string>
     <string name="cannot_download">Mogę pobierać pliki tylko przez \"http\" i \"https\".</string>
     <string name="download_no_sdcard_dlg_title">Brak nośnika zewnętrznego</string>
