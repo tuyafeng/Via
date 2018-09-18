@@ -365,7 +365,7 @@
     <string name="no_network_log">Strona ta nie ma dziennika sieci.</string>
     <string name="resource_sniffer_hint">\nOdtwórz w niej jakiś film lub muzykę.</string>
     <string name="action_download">Pobrane pliki</string>
-    <string name="action_play_with_mxplayer">Odtwórz w MXPlayerze</string>
+    <string name="action_play_with_mxplayer">Odtw. w MXPlayerze</string>
     <string name="empty_username_info">Wprowadź nazwę użytkownika</string>
     <string name="empty_password_info">Wprowadź hasło</string>
     <string name="offline_page_hint">To są zapisane strony. Możesz je przeglądać, gdy nie masz połączenia z siecią.</string>
