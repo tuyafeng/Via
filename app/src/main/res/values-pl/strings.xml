@@ -392,7 +392,7 @@
     <string name="import_data_failed">Importowanie danych nie powiodło się</string>
     <string name="import_data_succeed">Importowanie danych zakończone</string>
     <string name="export_data">Eksportuj dane</string>
-    <string name="export_data_to">Eksportuj dane do %s</string>
+    <string name="export_data_to">Dane zostały wyeksportowane do %s</string>
     <string name="always_restore">Zawsze przywracaj</string>
     <string name="ask_first">Zawsze pytaj</string>
     <string name="disable_restore">Nigdy</string>
