@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources tools:ignore="MissingTranslation" xmlns:tools="http://schemas.android.com/tools">
 
-    <string name="app_name">Via</string>
+    <string name="app_name">Via Browser</string>
     <string name="action_new_tab">Nowa karta</string>
     <string name="action_open_in_new">Otwórz i przejdź</string>
     <string name="action_save_img">Zapisz obraz</string>
