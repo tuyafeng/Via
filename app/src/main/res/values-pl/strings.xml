@@ -396,6 +396,6 @@
     <string name="always_restore">Zawsze przywracaj</string>
     <string name="ask_first">Zawsze pytaj</string>
     <string name="disable_restore">Nigdy</string>
-    <string name="data_file">ViaBrowser_dane</string>
+    <string name="data_file">dane</string>
     <string name="bookmarks_data_to_long">Dane zakładek są za duże do przesłania, ale inne dane zostaną przesłane. Kontynuować?</string>
 </resources>
