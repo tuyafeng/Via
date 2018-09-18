@@ -357,9 +357,9 @@
     <string name="share_explanation">Udostępnienie szyfrowane: link możliwy do otwarcia tylko w niniejszej aplikacji. \nUdostępnienie normalne: link możliwy do otwarcia w każdej przeglądarce.</string>
     <string name="action_secret_share">Szyfrowane</string>
     <string name="action_normal_share">Normalne</string>
-    <string name="res_sniffer">Wykrywacz zasobów</string>
+    <string name="res_sniffer">Wykr zasobów</string>
     <string name="search_by_pic">Szukaj według tego obrazu</string>
-    <string name="resource_sniffer">Wykrywacz zasobów</string>
+    <string name="resource_sniffer">Zasoby str.</string>
     <string name="res_log_hint">Kliknij element, aby wyświetlić podgląd. Przytrzymaj, aby wywołać menu kontekstowe z pozostałymi opcjami.</string>
     <string name="no_resource">Nie wykryto zasobów na tej stronie.</string>
     <string name="no_network_log">Strona ta nie ma dziennika sieci.</string>
