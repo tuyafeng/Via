@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources tools:ignore="MissingTranslation" xmlns:tools="http://schemas.android.com/tools">
 
-    <string name="app_name">Via</string>
+    <string name="app_name">Via Browser</string>
     <string name="action_new_tab">Nowa karta</string>
     <string name="action_open_in_new">Otwórz i przejdź</string>
     <string name="action_save_img">Zapisz obraz</string>
@@ -65,7 +65,7 @@
     <string name="title_edit_bookmark">Edytuj zakładkę</string>
     <string name="action_edit">Edytuj</string>
     <string name="action_incognito">Tryb prywatny</string>
-    <string name="action_find">Znajdź na stronie</string>
+    <string name="action_find">Szukaj</string>
     <string name="download_pending">Rozpoczynanie pobierania\u2026</string>
     <string name="cannot_download">Mogę pobierać pliki tylko przez \"http\" i \"https\".</string>
     <string name="download_no_sdcard_dlg_title">Brak nośnika zewnętrznego</string>
@@ -96,9 +96,9 @@
     <string name="hint_username">Nazwa użytkownika</string>
     <string name="hint_password">Hasło</string>
     <string name="untitled">Bez tytułu</string>
-    <string name="image_auto">Pokazuj obr. tylko w WiFi</string>
-    <string name="image_on">Blokuj obrazy</string>
-    <string name="image_off">Pokazuj obr. zawsze</string>
+    <string name="image_auto">Tylko w WiFi</string>
+    <string name="image_on">Zawsze wł.</string>
+    <string name="image_off">Zawsze wył.</string>
     <string name="title_file_chooser">Wybór pliku</string>
     <string name="import_backup">Importuj zakładki</string>
     <string name="bookmark_export_path">Zakładki zostały wyeksportowane do\n</string>
@@ -152,7 +152,7 @@
     <string name="url_box_domain">Domena</string>
     <string name="url_box_url">Adres strony</string>
     <string name="url_box_title">Tytuł strony</string>
-    <string name="action_pcview">Pełna wersja str.</string>
+    <string name="action_pcview">Pełna wer. str.</string>
     <string name="action_source">Kod źr. strony</string>
     <string name="action_translate">Przetł. stronę</string>
     <string name="title_edit_folder">Edytuj folder</string>
@@ -307,7 +307,7 @@
     <string name="find_pre">Poprzedni</string>
     <string name="action_open_in_background">Otwórz w tle</string>
     <string name="cannot_work">Funkcja działa tylko dla adresów \"http\" i \"https\".</string>
-    <string name="action_fullscreen">Tryb pełno-\nekranowy</string>
+    <string name="action_fullscreen">Pełny ekran</string>
     <string name="action_ua">User Agent</string>
     <string name="settings_general">Ogólne</string>
     <string name="no_bookmark">Brak zakładek</string>
@@ -357,15 +357,15 @@
     <string name="share_explanation">Udostępnienie szyfrowane: link możliwy do otwarcia tylko w niniejszej aplikacji. \nUdostępnienie normalne: link możliwy do otwarcia w każdej przeglądarce.</string>
     <string name="action_secret_share">Szyfrowane</string>
     <string name="action_normal_share">Normalne</string>
-    <string name="res_sniffer">Wykrywacz zasobów</string>
+    <string name="res_sniffer">Zasoby strony</string>
     <string name="search_by_pic">Szukaj według tego obrazu</string>
-    <string name="resource_sniffer">Wykrywacz zasobów</string>
+    <string name="resource_sniffer">Zasoby strony</string>
     <string name="res_log_hint">Kliknij element, aby wyświetlić podgląd. Przytrzymaj, aby wywołać menu kontekstowe z pozostałymi opcjami.</string>
     <string name="no_resource">Nie wykryto zasobów na tej stronie.</string>
     <string name="no_network_log">Strona ta nie ma dziennika sieci.</string>
     <string name="resource_sniffer_hint">\nOdtwórz w niej jakiś film lub muzykę.</string>
-    <string name="action_download">Pobierz</string>
-    <string name="action_play_with_mxplayer">Odtwórz w MXPlayerze</string>
+    <string name="action_download">Pobrane pliki</string>
+    <string name="action_play_with_mxplayer">Odtw. w MXPlayerze</string>
     <string name="empty_username_info">Wprowadź nazwę użytkownika</string>
     <string name="empty_password_info">Wprowadź hasło</string>
     <string name="offline_page_hint">To są zapisane strony. Możesz je przeglądać, gdy nie masz połączenia z siecią.</string>
@@ -392,9 +392,10 @@
     <string name="import_data_failed">Importowanie danych nie powiodło się</string>
     <string name="import_data_succeed">Importowanie danych zakończone</string>
     <string name="export_data">Eksportuj dane</string>
-    <string name="export_data_to">Eksportuj dane do %s</string>
+    <string name="export_data_to">Dane zostały wyeksportowane do %s</string>
     <string name="always_restore">Zawsze przywracaj</string>
-    <string name="ask_first">Najpierw pytaj</string>
-    <string name="disable_restore">Wyłącz przywracanie</string>
-    <string name="data_file">WyeksportowaneDane</string>
+    <string name="ask_first">Zawsze pytaj</string>
+    <string name="disable_restore">Nigdy</string>
+    <string name="data_file">dane</string>
+    <string name="bookmarks_data_to_long">Dane zakładek są za duże do przesłania, ale inne dane zostaną przesłane. Kontynuować?</string>
 </resources>
