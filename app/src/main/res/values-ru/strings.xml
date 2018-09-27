@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources tools:ignore="MissingTranslation" xmlns:tools="http://schemas.android.com/tools">
 
-    <string name="app_name">Браузер Via</string>
+    <string name="app_name">Via</string>
     <string name="action_new_tab">Новая вкладка</string>
     <string name="action_open_in_new">Открыть в новой вкладке</string>
     <string name="action_save_img">Сохранить изображение</string>
@@ -9,7 +9,7 @@
     <string name="action_history">История</string>
     <string name="action_bookmarks">Закладки</string>
     <string name="action_screenshot">Снимок экрана</string>
-    <string name="bookmarks_file">Экспорт закладок</string>
+    <string name="bookmarks_file">BookmarksExport</string>
     <string name="action_add_bookmark">Добавить закладку</string>
     <string name="action_night">Ночной режим</string>
     <string name="action_copy">Копировать ссылку</string>
@@ -20,13 +20,13 @@
     <string name="settings">Настройки</string>
     <string name="location">Сообщать местоположение</string>
     <string name="password">Сохранять пароли</string>
-    <string name="donate">Пожертвовать на Via</string>
+    <string name="donate">Пожертвовать</string>
     <string name="donate_details">Если вам нравится наше приложение, можете сделать пожертвование.\nAlipay: 2376688759@qq.com\nPayPal: wiar1824@gmail.com</string>
     <string name="orientation">Ориентация экрана</string>
     <string name="orientation_system">Системная</string>
     <string name="orientation_auto">Автоповорот</string>
     <string name="orientation_portrait">Портретная</string>
-    <string name="orientation_landscape">Ландшафтная</string>
+    <string name="orientation_landscape">Альбомная</string>
     <string name="agent">Агент пользователя</string>
     <string name="home">Домашняя страница</string>
     <string name="fullscreen">Автоскрытие панелей</string>
@@ -42,11 +42,11 @@
     <string name="agent_ie">IE 11 (ПК)</string>
     <string name="agent_iphone">iPhone</string>
     <string name="agent_symbian">Symbian</string>
-    <string name="agent_custom">Свой</string>
+    <string name="agent_custom">Своё</string>
     <string name="title_search_engine">Поисковая система</string>
     <string name="action_ok">OK</string>
     <string name="dialog_download">Загрузить этот файл?</string>
-    <string name="action_cancel">ОТМЕНИТЬ</string>
+    <string name="action_cancel">ОТМЕНА</string>
     <string name="title_warning">Внимание!</string>
     <string name="title_user_agent">Агент пользователя</string>
     <string name="title_custom_homepage">Выберите страницу:</string>
@@ -64,8 +64,8 @@
     <string name="hint_folder">Папка</string>
     <string name="title_edit_bookmark">Изменить закладку</string>
     <string name="action_edit">Редактировать</string>
-    <string name="action_incognito">Режим \"инкогнито\"</string>
-    <string name="action_find">Найти на странице</string>
+    <string name="action_incognito">Инкогнито</string>
+    <string name="action_find">Поиск</string>
     <string name="download_pending">Начинается загрузка…</string>
     <string name="cannot_download">Скачивать можно только по \"http\"- или \"https\"-ссылкам.</string>
     <string name="download_no_sdcard_dlg_title">Нет SD-карты</string>
@@ -73,13 +73,13 @@
     <string name="download_sdcard_busy_dlg_title">USB-накопитель недоступен!</string>
     <string name="download_sdcard_busy_dlg_msg">Накопитель занят. Чтобы разрешить загрузки, отключите USB-накопитель в уведомлениях.</string>
     <string name="message_import">закладок импортировано</string>
-    <string name="custom_url">Свой</string>
+    <string name="custom_url">Своё</string>
     <string name="baidu_url">Baidu</string>
     <string name="shenma_url">ShenMa</string>
     <string name="bing_url">Bing</string>
     <string name="haosou_url">Haosou</string>
     <string name="duckduckgo_url">DuckDuckGo</string>
-    <string name="startpage_url">Дом. страница</string>
+    <string name="startpage_url">StartPage</string>
     <string name="ask_url">Ask</string>
     <string name="yahoo_url">Yahoo</string>
     <string name="yandex_url">Яндекс</string>
@@ -96,9 +96,9 @@
     <string name="hint_username">Имя</string>
     <string name="hint_password">Пароль</string>
     <string name="untitled">Без названия</string>
-    <string name="image_auto">Изображения: Wi-Fi</string>
-    <string name="image_on">Изображения: нет</string>
-    <string name="image_off">Изображения: да</string>
+    <string name="image_auto">Графика: по Wi-Fi</string>
+    <string name="image_on">Графика: нет</string>
+    <string name="image_off">Графика: да</string>
     <string name="title_file_chooser">Выбор файла</string>
     <string name="import_backup">Восстановление закладок из копии</string>
     <string name="bookmark_export_path">Резервная копия сохранена в\n</string>
@@ -117,7 +117,7 @@
     <string name="volume">Прокрутка кнопками громкости</string>
     <string name="intent">Разрешить переадресацию сайта на приложение</string>
     <string name="msg_intent">Открыть приложение?</string>
-    <string name="dialog_adblock">Встроенный: используется встроенный чёрный список hosts.txt\n\nВнешний: используется внешний чёрный список hosts.txt, а при его отсутствии последний скачивается из сети</string>
+    <string name="dialog_adblock">Встроенный: используется встроенный список блокировки hosts.txt\n\nВнешний: используется внешний список блокировки hosts.txt, а при его отсутствии последний скачивается из сети</string>
     <string name="dialog_adblock_default">Встроенный</string>
     <string name="dialog_adblock_custom">Внешний</string>
     <string name="dialog_adblock_download">Список будет выбран автоматически после загрузки.\n\nПуть:</string>
@@ -126,8 +126,8 @@
     <string name="toast_clear_defaults">Стереть умолчания</string>
     <string name="toast_copy_url_successful">Ссылка успешно скопирована</string>
     <string name="toast_copy_text_successful">Текст успешно скопирован</string>
-    <string name="incognito_on">Режим \"инкогнито\": да</string>
-    <string name="incognito_off">Режим \"инкогнито\": нет</string>
+    <string name="incognito_on">Режим \"инкогнито\" включён</string>
+    <string name="incognito_off">Режим \"инкогнито\" выключен</string>
     <string name="operation_none">Нет</string>
     <string name="operation_reload">Перезагрузка страницы</string>
     <string name="operation_top">Перейти в начало</string>
@@ -152,7 +152,7 @@
     <string name="url_box_domain">Домен</string>
     <string name="url_box_url">Ссылка</string>
     <string name="url_box_title">Заголовок</string>
-    <string name="action_pcview">Версия для ПК</string>
+    <string name="action_pcview">Вид для ПК</string>
     <string name="action_source">Исходный код</string>
     <string name="action_translate">Перевод</string>
     <string name="title_edit_folder">Изменение папки</string>
@@ -178,8 +178,8 @@
     <string name="clear_ad_rules">Удалить все правила</string>
     <string name="color_mode">Смена цвета панелей</string>
     <string name="dialog_sure">Вы уверены, что хотите это сделать?</string>
-    <string name="action_send_to_launcher">Ярлык на рабочий стол</string>
-    <string name="settings_cloud">Облако</string>
+    <string name="action_send_to_launcher">Ярлык на экран</string>
+    <string name="settings_cloud">Учётная запись</string>
     <string name="user">Вход/регистрация</string>
     <string name="user_syns">Синхронизация из облака</string>
     <string name="user_update">Обновление в облаке</string>
@@ -203,12 +203,12 @@
     <string name="addon_qr_code_scan">Сканер QR-кода</string>
     <string name="install_addon">Скачать и установить эти дополнения? Они будут работать после установки.</string>
     <string name="quick_back">\"Назад\" без перезагрузки страницы</string>
-    <string name="open_with">Открыть в&#8230;</string>
+    <string name="open_with">Открыть в…</string>
     <string name="download_completed">Загрузка завершена</string>
     <string name="toast_fullscreen_off">Обычный режим</string>
 
     <string name="clear_data">Очистить данные</string>
-    <string name="data_cache">Кэш</string>
+    <string name="data_cache">Кеш</string>
     <string name="data_form_data">Данные форм</string>
     <string name="data_history">История</string>
     <string name="data_storage">Web-хранилище</string>
@@ -222,7 +222,7 @@
     <string name="settings_skin">Внешний вид</string>
     <string name="default_set">По умолчанию</string>
     <string name="custom_css">Свой CSS</string>
-    <string name="num_of_bookmarks_in_home">Кол-во закладок на дом. странице</string>
+    <string name="num_of_bookmarks_in_home">Количество закладок на домашней странице</string>
     <string name="picture">Изображение</string>
     <string name="text">Текст</string>
     <string name="html_code">HTML-код</string>
@@ -241,7 +241,7 @@
     <string name="saved_page_successfully">Страница успешно сохранена в архив.</string>
     <string name="deleted_failed">Ошибка при удалении. Попробуйте удалить файл вручную. Путь нахождения файла:</string>
 
-    <string name="empty_hint">Пусто&#8230;</string>
+    <string name="empty_hint">Пусто…</string>
 
     <string name="network_log">Сетевой журнал</string>
     <string name="catalog">Каталог</string>
@@ -260,17 +260,17 @@
     <string name="none">Нет</string>
     <string name="action_log">Сетевой журнал</string>
     <string name="check_permission">Доступ запрещён. Разрешить его в настройках сейчас?</string>
-    <string name="need_permission_hint">Via необходимы следующие разрешения для работы.\n\n</string>
+    <string name="need_permission_hint">Via необходимы следующие разрешения для работы:\n\n</string>
     <string name="storage_permission">Хранилище: для скачивания файлов из браузера, импорта/экспорта закладок и т.п.\n\n</string>
     <string name="location_permission">Местоположение: для таких сайтов, как Карты Google. Оно отключено по умолчанию в настройках и отображается во всплывающем окне с просьбой использовать ваше местоположение, если разрешено.\n\n</string>
-    <string name="phone_permission">Телефон: для сбора неконфиденциальной информации о вашем Android-устройстве, для сбора простой статистики и получения данные о сбоях в работе.\n\n</string>
+    <string name="phone_permission">Телефон: для сбора неконфиденциальной информации о вашем Android-устройстве, простой статистики и получения данные о сбоях в работе.\n\n</string>
     <string name="force_cancel">Принудительная отмена</string>
     <string name="restore_tabs_hint">Восстановить незакрытые в прошлый раз вкладки?</string>
     <string name="restore_tabs">Восстанавливать вкладки при запуске</string>
     <string name="install_success">Успешно установлено!</string>
     <string name="uninstall_success">Успешно удалено!</string>
-    <string name="online_addons">Ещё дополнения</string>
-    <string name="log_page_hint">Можно скопировать данную ссылку или домен и вставить в %1$s для блокирования их загрузки при помощи внешнего чёрного списка.</string>
+    <string name="online_addons">Другие дополнения</string>
+    <string name="log_page_hint">Можно скопировать данную ссылку или домен и вставить в %1$s для блокирования их загрузки при помощи внешнего списка блокировки.</string>
     <string name="fullscreen_0">Отключено</string>
     <string name="fullscreen_1">Прокрутка скрывает/показывает</string>
     <string name="fullscreen_2">Нажатие скрывает/показывает</string>
@@ -315,13 +315,13 @@
     <string name="what_is_next">Что дальше?</string>
     <string name="import_">Импорт</string>
     <string name="export_">Экспорт</string>
-    <string name="pull_to_refresh_gesture">Потяните, чтобы обновить жест</string>
+    <string name="pull_to_refresh_gesture">Жест \"потянуть для обновления\"</string>
     <string name="back_forward_gesture">Жест назад-вперёд</string>
-    <string name="toolbar_settings_hint">Нажмите (потяните) кнопку для установки своего действия при удержании (сдвиге), удерживайте для просмотра установленного действия.</string>
+    <string name="toolbar_settings_hint">Нажмите кнопку для установки своего действия при удержании (сдвиге), удерживайте для просмотра установленного действия.</string>
     <string name="action_modify">Изменить</string>
     <string name="operation_hint">Жесты, операции и т.д.</string>
-    <string name="empty_ads_mark_hint">Нет меток рекламы.\nВы можете удерживать рекламное объявление на сайте и выбрать \"Пометить как рекламу\" для его блокировки.\nИли можете просто нажать эту кнопку.</string>
-    <string name="empty_script_hint">Скрипты отсутствуют.\nВы можете нажать кнопку [+] для добавления.\nИли можете просто нажать эту кнопку.</string>
+    <string name="empty_ads_mark_hint">Правила блокировки рекламы отсутствуют.\nВы можете удерживать рекламное объявление на сайте и выбрать \"Пометить как рекламу\" для его блокировки.</string>
+    <string name="empty_script_hint">Скрипты отсутствуют.\nВы можете нажать кнопку [+] для добавления.\nИли можете просто нажать кнопку ниже.</string>
     <string name="adblock_info">%1$d рекламных объявлений заблокировано, %2$s сохранено</string>
     <string name="disable">Отключить</string>
     <string name="ui_traditional">Традиционный</string>
@@ -330,7 +330,7 @@
     <string name="sort_hint">Удерживание и перетаскивание для сортировки</string>
     <string name="action_sort_bookmarks">Сортировка закладок</string>
     <string name="desc_close">Закрыть</string>
-    <string name="clear_cache_on_exit">Очистить кэш и выйти</string>
+    <string name="clear_cache_on_exit">Очистить кеш и выйти</string>
     <string name="action_close_all_tabs">Закрыть все вкладки</string>
     <string name="skin_hide_search_part">Скрыть панель поиска</string>
     <string name="action_more">Ещё</string>
@@ -357,15 +357,15 @@
     <string name="share_explanation">Приватный обмен: только просмотр через Via.\nПростой обмен: поделиться ссылкой на текущую страницу.</string>
     <string name="action_secret_share">Приватный обмен</string>
     <string name="action_normal_share">Простой обмен</string>
-    <string name="res_sniffer">Захват ресурсов</string>
+    <string name="res_sniffer">Анализ ресурсов</string>
     <string name="search_by_pic">Поиск по изображению</string>
-    <string name="resource_sniffer">Захват ресурсов</string>
-    <string name="res_log_hint">Нажмите для просмотра, удерживайте, чтобы загрузить или сделаеть что-нибудь ещё.</string>
+    <string name="resource_sniffer">Анализ ресурсов</string>
+    <string name="res_log_hint">Нажмите для просмотра, удерживайте, чтобы загрузить или сделать ещё что-нибудь.</string>
     <string name="no_resource">На странице нет ресурсов.</string>
     <string name="no_network_log">На странице нет сетевого журнала.</string>
-    <string name="resource_sniffer_hint">\nP.S.: это легче сделать, когда музыка или видео воспроизводится.</string>
-    <string name="action_download">Скачать</string>
-    <string name="action_play_with_mxplayer">Воспроизвести в MXPlayer</string>
+    <string name="resource_sniffer_hint">\nЭто легче сделать, когда музыка или видео воспроизводится. P.S.: некоторые сайты не поддерживают данную функцию.</string>
+    <string name="action_download">Загрузки</string>
+    <string name="action_play_with_mxplayer">Воспроизвести в MX Player</string>
     <string name="empty_username_info">Введите своё имя пользователя.</string>
     <string name="empty_password_info">Введите свой пароль.</string>
     <string name="offline_page_hint">Ниже приведены сохранённые страницы. Вы можете читать их независимо от наличия подключение к сети.</string>
@@ -373,7 +373,29 @@
     <string name="action_preview">Предпросмотр</string>
     <string name="action_page_info">О странице</string>
     <string name="page_info_title">Заголовок:</string>
-    <string name="page_info_url">URL страницы:</string>
-    <string name="page_info_link">URL ссылки:</string>
+    <string name="page_info_url">Адрес страницы:</string>
+    <string name="page_info_link">Адрес ссылки:</string>
     <string name="no_network">Нет сетевого подключения!</string>
+    <string name="action_open_with">Открыть в…</string>
+    <string name="title_app_chooser">Выбор приложения</string>
+    <string name="sort_bookmarks_hint">Перетаскивайте закладки за значок для сортировки списка</string>
+    <string name="clear_data_on_exit">Очищать данные при выходе</string>
+    <string name="action_add_to_homepage">Добавить в быстрый набор</string>
+    <string name="added_favorite_hint">Успешно добавлено в быстрый набор</string>
+    <string name="title_edit_favorite">Редактирование</string>
+    <string name="custom_css_special">Добавить пользовательский CSS</string>
+    <string name="force_enable_zoom">Принудительное масштабирование</string>
+    <string name="set_ua_as">Установлен агент пользователя %s</string>
+    <string name="need_permission_to_install_pkg">Вы загружаете apk-файл. Для возможности установки загруженных файлов, пожалуйста, предоставьте Via соответствующее разрешение.</string>
+    <string name="check_install_permission">В разрешении на установку было отказано. Разрешить её в настройках сейчас?</string>
+    <string name="import_data">Импорт данных</string>
+    <string name="import_data_failed">Не удалось импортировать данные!</string>
+    <string name="import_data_succeed">Импорт данных выполнен успешно!</string>
+    <string name="export_data">Экспорт данных</string>
+    <string name="export_data_to">Экспорт данных в: %s</string>
+    <string name="always_restore">Всегда восстанавливать</string>
+    <string name="ask_first">Спрашивать</string>
+    <string name="disable_restore">Не восстанавливать</string>
+    <string name="data_file">DataExport</string>
+    <string name="bookmarks_data_to_long">Объём данных закладок слишком велик для загрузки, но другие данные будут загружены нормально. Продолжить?</string>
 </resources>
