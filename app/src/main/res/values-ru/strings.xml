@@ -397,4 +397,5 @@
     <string name="ask_first">Спрашивать</string>
     <string name="disable_restore">Не восстанавливать</string>
     <string name="data_file">DataExport</string>
+    <string name="bookmarks_data_to_long">Объём данных закладок слишком велик для загрузки, но другие данные будут загружены нормально. Продолжить?</string>
 </resources>
