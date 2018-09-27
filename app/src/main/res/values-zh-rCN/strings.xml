@@ -194,7 +194,7 @@
     <string name="addon_qr_code_scan">二维码扫描</string>
     <string name="install_addon">前往下载和安装插件? 插件会在安装后自动启用.</string>
     <string name="quick_back">返回不重载</string>
-    <string name="open_with">打开通过&#8230;</string>
+    <string name="open_with">通过程序打开&#8230;</string>
     <string name="download_completed">下载完成</string>
     <string name="toast_fullscreen_off">退出全屏模式</string>
     <string name="clear_data">清除数据</string>
@@ -247,7 +247,7 @@
     <string name="install_success">安装成功!!!</string>
     <string name="uninstall_success">卸载成功!!!</string>
     <string name="online_addons">在线插件</string>
-    <string name="log_page_hint">你可以复制下列域名或链接并粘贴至 %1$s 来阻止它的加载通过强力拦截.</string>
+    <string name="log_page_hint">你可以复制下列域名或链接并粘贴至 %1$s 来通过强力拦截阻止它的加载.</string>
     <string name="fullscreen_0">禁用</string>
     <string name="fullscreen_1">滑动来显示/隐藏</string>
     <string name="fullscreen_2">点击来显示/隐藏</string>
@@ -347,8 +347,8 @@
     <string name="action_play_with_mxplayer">使用 MXPlayer 播放</string>
     <string name="empty_username_info">请填写你的用户名.</string>
     <string name="empty_password_info">请填写你的密码.</string>
-    <string name="offline_page_hint">下列为保存的网页. 无论手机是否联网你都可以阅览它们.</string>
-    <string name="history_page_hint_when_incognito">你当前处于隐身模式. 新的浏览记录将不会被记录.</string>
+    <string name="offline_page_hint">下列为保存的网页. 无论手机是否联网你都可以浏览它们.</string>
+    <string name="history_page_hint_when_incognito">你当前处于隐身模式. 新的浏览将不会被记录.</string>
     <string name="action_preview">预览</string>
     <string name="action_page_info">页面信息</string>
     <string name="page_info_title">标题:</string>
