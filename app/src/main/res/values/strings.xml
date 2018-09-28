@@ -63,7 +63,7 @@
     <string name="hint_url">URL</string>
     <string name="hint_folder">Folder</string>
     <string name="title_edit_bookmark">Edit Bookmark</string>
-    <string name="action_edit">Edit This</string>
+    <string name="action_edit">Edit</string>
     <string name="action_incognito">Incognito Mode</string>
     <string name="action_find">Find in Page</string>
     <string name="download_pending">Starting download\u2026</string>
@@ -96,7 +96,7 @@
     <string name="hint_username">Username</string>
     <string name="hint_password">Password</string>
     <string name="untitled">Untitled</string>
-    <string name="image_auto">Show images only via Wi-Fi</string>
+    <string name="image_auto">Wi-Fi only</string>
     <string name="image_on">Show images</string>
     <string name="image_off">Block images</string>
     <string name="title_file_chooser">File chooser</string>
@@ -385,17 +385,17 @@
     <string name="title_edit_favorite">Edit Favorite</string>
     <string name="custom_css_special">Add Custom CSS</string>
     <string name="force_enable_zoom">Enable Force Zoom</string>
-    <string name="set_ua_as">Set current user agent is %s</string>
+    <string name="set_ua_as">User-Agent set to %s</string>
     <string name="need_permission_to_install_pkg">You are downloading an APK file, please grant Via permission to install packages.</string>
     <string name="check_install_permission">Installation permission denied. Set it in settings now?</string>
     <string name="import_data">Import Data</string>
     <string name="import_data_failed">Failed to import data!</string>
     <string name="import_data_succeed">Data imported successfully!</string>
     <string name="export_data">Export Data</string>
-    <string name="export_data_to">Export Data to: %s</string>
+    <string name="export_data_to">Data Exported to: %s</string>
     <string name="always_restore">Always restore</string>
     <string name="ask_first">Ask first</string>
     <string name="disable_restore">Don\'t restore</string>
     <string name="data_file">DataExport</string>
-    <string name="bookmarks_data_to_long">Bookmarks data is too big to upload, but other data will be normally uploaded. Continue?</string>
+    <string name="bookmarks_data_to_long">Bookmark data is too big to upload, but other data will be normally uploaded. Continue?</string>
 </resources>
