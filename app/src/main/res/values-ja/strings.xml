@@ -244,10 +244,10 @@
 
     <string name="already_default">既定のブラウザに設定されています</string>
 
-    <string name="set_to_default">設定を適用には Via で %s を開いてください</string>
+    <string name="set_to_default">設定を適用するには Via で %s を開いてください</string>
 
     <string name="quick_back_desc">不具合が発生したら無効にしてください</string>
-    <string name="sync_prompt">ブックマークと設定を上書きますか？</string>
+    <string name="sync_prompt">ブックマークと設定を上書きしますか？</string>
     <string name="upload_prompt">ブックマークと設定をアップロードしますか？</string>
     <string name="sougou_url">sougou</string>
     <string name="uninstall_success">アンインストールが完了しました！</string>
@@ -343,6 +343,7 @@
     <string name="res_log_hint">アイテムを表示するにはタップ、ダウンロードするには長押ししてください。</string>
     <string name="no_resource">このページにはリソースがありません。</string>
     <string name="resource_sniffer_hint">\nPS: 見つからない場合は、動画や音声を再生してみてください。</string>
+    <string name="no_network_log">このページにはネットワークログはありません。</string>
     <string name="action_download">ダウンロード</string>
     <string name="action_play_with_mxplayer">MXPlayerで再生</string>
     <string name="empty_username_info">ユーザー名を入力してください。</string>
@@ -370,10 +371,10 @@
     <string name="set_ua_as">UserAgentは %s に設定されました</string>
     <string name="need_permission_to_install_pkg">apkファイルをダウンロード中です。インストールを完了させるために権限の許可を行ってください。</string>
     <string name="check_install_permission">提供元不明のアプリのインストールが許可されていません。設定画面を開きますか？</string>
-    <string name="import_data">データインポート</string>
-    <string name="import_data_failed">インポートに失敗しました！</string>
-    <string name="import_data_succeed">インポートに成功しました！</string>
-    <string name="export_data">データエクスポート</string>
+    <string name="import_data">設定のインポート</string>
+    <string name="import_data_failed">設定のインポートに失敗しました！</string>
+    <string name="import_data_succeed">設定のインポートに成功しました！</string>
+    <string name="export_data">設定のエクスポート</string>
     <string name="export_data_to">エクスポート先: %s</string>
     <string name="always_restore">常にタブを復元する</string>
     <string name="ask_first">起動時に確認する</string>
