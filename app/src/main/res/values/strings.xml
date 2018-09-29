@@ -385,7 +385,7 @@
     <string name="title_edit_favorite">Edit Favorite</string>
     <string name="custom_css_special">Add Custom CSS</string>
     <string name="force_enable_zoom">Enable Force Zoom</string>
-    <string name="set_ua_as">User-Agent set to %s</string>
+    <string name="set_ua_as">User-Agent set as %s</string>
     <string name="need_permission_to_install_pkg">You are downloading an APK file, please grant Via permission to install packages.</string>
     <string name="check_install_permission">Installation permission denied. Set it in settings now?</string>
     <string name="import_data">Import Data</string>
