@@ -73,7 +73,7 @@
     <string name="download_sdcard_busy_dlg_title">USB-накопитель недоступен!</string>
     <string name="download_sdcard_busy_dlg_msg">Накопитель занят. Чтобы разрешить загрузки, отключите USB-накопитель в уведомлениях.</string>
     <string name="message_import">закладок импортировано</string>
-    <string name="custom_url">Свой</string>
+    <string name="custom_url">Своё</string>
     <string name="baidu_url">Baidu</string>
     <string name="shenma_url">ShenMa</string>
     <string name="bing_url">Bing</string>
@@ -96,9 +96,9 @@
     <string name="hint_username">Имя</string>
     <string name="hint_password">Пароль</string>
     <string name="untitled">Без названия</string>
-    <string name="image_auto">Изображения только по Wi-Fi</string>
-    <string name="image_on">Блокировать изображения</string>
-    <string name="image_off">Показывать изображения</string>
+    <string name="image_auto">Графика: по Wi-Fi</string>
+    <string name="image_on">Графика: нет</string>
+    <string name="image_off">Графика: да</string>
     <string name="title_file_chooser">Выбор файла</string>
     <string name="import_backup">Восстановление закладок из копии</string>
     <string name="bookmark_export_path">Резервная копия сохранена в\n</string>
@@ -117,7 +117,7 @@
     <string name="volume">Прокрутка кнопками громкости</string>
     <string name="intent">Разрешить переадресацию сайта на приложение</string>
     <string name="msg_intent">Открыть приложение?</string>
-    <string name="dialog_adblock">Встроенный: используется встроенный чёрный список hosts.txt\n\nВнешний: используется внешний чёрный список hosts.txt, а при его отсутствии последний скачивается из сети</string>
+    <string name="dialog_adblock">Встроенный: используется встроенный список блокировки hosts.txt\n\nВнешний: используется внешний список блокировки hosts.txt, а при его отсутствии последний скачивается из сети</string>
     <string name="dialog_adblock_default">Встроенный</string>
     <string name="dialog_adblock_custom">Внешний</string>
     <string name="dialog_adblock_download">Список будет выбран автоматически после загрузки.\n\nПуть:</string>
@@ -263,14 +263,14 @@
     <string name="need_permission_hint">Via необходимы следующие разрешения для работы:\n\n</string>
     <string name="storage_permission">Хранилище: для скачивания файлов из браузера, импорта/экспорта закладок и т.п.\n\n</string>
     <string name="location_permission">Местоположение: для таких сайтов, как Карты Google. Оно отключено по умолчанию в настройках и отображается во всплывающем окне с просьбой использовать ваше местоположение, если разрешено.\n\n</string>
-    <string name="phone_permission">Телефон: для сбора неконфиденциальной информации о вашем Android-устройстве, для сбора простой статистики и получения данные о сбоях в работе.\n\n</string>
+    <string name="phone_permission">Телефон: для сбора неконфиденциальной информации о вашем Android-устройстве, простой статистики и получения данные о сбоях в работе.\n\n</string>
     <string name="force_cancel">Принудительная отмена</string>
     <string name="restore_tabs_hint">Восстановить незакрытые в прошлый раз вкладки?</string>
     <string name="restore_tabs">Восстанавливать вкладки при запуске</string>
     <string name="install_success">Успешно установлено!</string>
     <string name="uninstall_success">Успешно удалено!</string>
     <string name="online_addons">Другие дополнения</string>
-    <string name="log_page_hint">Можно скопировать данную ссылку или домен и вставить в %1$s для блокирования их загрузки при помощи внешнего чёрного списка.</string>
+    <string name="log_page_hint">Можно скопировать данную ссылку или домен и вставить в %1$s для блокирования их загрузки при помощи внешнего списка блокировки.</string>
     <string name="fullscreen_0">Отключено</string>
     <string name="fullscreen_1">Прокрутка скрывает/показывает</string>
     <string name="fullscreen_2">Нажатие скрывает/показывает</string>
@@ -320,8 +320,8 @@
     <string name="toolbar_settings_hint">Нажмите кнопку для установки своего действия при удержании (сдвиге), удерживайте для просмотра установленного действия.</string>
     <string name="action_modify">Изменить</string>
     <string name="operation_hint">Жесты, операции и т.д.</string>
-    <string name="empty_ads_mark_hint">Нет меток рекламы.\nВы можете удерживать рекламное объявление на сайте и выбрать \"Пометить как рекламу\" для его блокировки.\nИли можете просто нажать эту кнопку.</string>
-    <string name="empty_script_hint">Скрипты отсутствуют.\nВы можете нажать кнопку [+] для добавления.\nИли можете просто нажать эту кнопку.</string>
+    <string name="empty_ads_mark_hint">Правила блокировки рекламы отсутствуют.\nВы можете удерживать рекламное объявление на сайте и выбрать \"Пометить как рекламу\" для его блокировки.</string>
+    <string name="empty_script_hint">Скрипты отсутствуют.\nВы можете нажать кнопку [+] для добавления.\nИли можете просто нажать кнопку ниже.</string>
     <string name="adblock_info">%1$d рекламных объявлений заблокировано, %2$s сохранено</string>
     <string name="disable">Отключить</string>
     <string name="ui_traditional">Традиционный</string>
@@ -376,7 +376,7 @@
     <string name="page_info_url">Адрес страницы:</string>
     <string name="page_info_link">Адрес ссылки:</string>
     <string name="no_network">Нет сетевого подключения!</string>
-    <string name="action_open_with">Открыть с помощью соответствующего приложения</string>
+    <string name="action_open_with">Открыть в…</string>
     <string name="title_app_chooser">Выбор приложения</string>
     <string name="sort_bookmarks_hint">Перетаскивайте закладки за значок для сортировки списка</string>
     <string name="clear_data_on_exit">Очищать данные при выходе</string>
@@ -385,7 +385,7 @@
     <string name="title_edit_favorite">Редактирование</string>
     <string name="custom_css_special">Добавить пользовательский CSS</string>
     <string name="force_enable_zoom">Принудительное масштабирование</string>
-    <string name="set_ua_as">Установить текущий агент пользователя как %s</string>
+    <string name="set_ua_as">Установлен агент пользователя %s</string>
     <string name="need_permission_to_install_pkg">Вы загружаете apk-файл. Для возможности установки загруженных файлов, пожалуйста, предоставьте Via соответствующее разрешение.</string>
     <string name="check_install_permission">В разрешении на установку было отказано. Разрешить её в настройках сейчас?</string>
     <string name="import_data">Импорт данных</string>
@@ -394,7 +394,8 @@
     <string name="export_data">Экспорт данных</string>
     <string name="export_data_to">Экспорт данных в: %s</string>
     <string name="always_restore">Всегда восстанавливать</string>
-    <string name="ask_first">Сначала спросить</string>
+    <string name="ask_first">Спрашивать</string>
     <string name="disable_restore">Не восстанавливать</string>
     <string name="data_file">DataExport</string>
+    <string name="bookmarks_data_to_long">Объём данных закладок слишком велик для загрузки, но другие данные будут загружены нормально. Продолжить?</string>
 </resources>
