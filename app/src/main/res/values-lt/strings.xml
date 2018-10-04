@@ -20,8 +20,8 @@
     <string name="settings">Nustatymai</string>
     <string name="location">Vietos prieiga</string>
     <string name="password">Išsaugoti slaptažodžius</string>
-    <string name="donate">Paremti</string>
-    <string name="donate_details">Jeigu jums patinka Via naršyklė paremkite mus.\nAlipay: 2376688759@qq.com\nPayPal: wiar1824@gmail.com</string>
+    <string name="donate">Aukoti</string>
+    <string name="donate_details">Jeigu jums patinka Via naršyklė paaukokite mums.\nAlipay: 2376688759@qq.com\nPayPal: wiar1824@gmail.com</string>
     <string name="orientation">Orientacija</string>
     <string name="orientation_system">Sistemos</string>
     <string name="orientation_auto">Automatinis</string>
@@ -29,7 +29,7 @@
     <string name="orientation_landscape">Gulsčias</string>
     <string name="agent">Naudotojo Agentas</string>
     <string name="home">Pagrindinis puslapis</string>
-    <string name="fullscreen">Automatiškai slėpti funkcijų eilutę(es)</string>
+    <string name="fullscreen">Automatiškai slėpti funkcijų eilutes</string>
     <string name="java">Įjungti JavaScript</string>
     <string name="download">Atsisiuntimo vieta</string>
     <string name="size">Teksto dydis</string>
@@ -41,7 +41,7 @@
     <string name="agent_chrome">Chrome (PC)</string>
     <string name="agent_ie">IE 11 (PC)</string>
     <string name="agent_iphone">Safari</string>
-    <string name="agent_symbian">Symbian</string>
+    <string name="agent_symbian">Nokia Browser</string>
     <string name="agent_custom">Išplėstinės parinktys</string>
     <string name="title_search_engine">Paieškos variklis</string>
     <string name="action_ok">Taip</string>
@@ -71,7 +71,7 @@
     <string name="download_no_sdcard_dlg_title">Nėra SD kortelės</string>
     <string name="download_no_sdcard_dlg_msg">Saugykla yra reikalinga šio failo atsisiuntimui</string>
     <string name="download_sdcard_busy_dlg_title">Saugykla neprieinama</string>
-    <string name="download_sdcard_busy_dlg_msg">Saugykla yra užimta. Atsisiuntimų įgalinimui paspauskite Išjungti saugyklą pranešime.</string>
+    <string name="download_sdcard_busy_dlg_msg">Saugykla yra užimta. Atsisiuntimų įgalinimui paspauskite Išjungti saugyklą.</string>
     <string name="message_import">Žymės importuotos</string>
     <string name="custom_url">Pasirinktinis URL</string>
     <string name="baidu_url">Baidu</string>
@@ -270,7 +270,7 @@
     <string name="install_success">Instaliavimas sėkmingas!!!</string>
     <string name="uninstall_success">Ištrynimas sėkmingas!!!</string>
     <string name="online_addons">Atsisiunčiami priedai</string>
-    <string name="log_page_hint">Jūs galite kopijuoti šį adresą ar domeną ir įklijuoti į %1$s užkrovimo blokavimui iš pasirinktinio blokavimo.</string>
+    <string name="log_page_hint">Jūs galite kopijuoti šį adresą ar domeną ir įklijuoti į %1$s užkrovimo blokavimui iš pasirinktinio blokavimo</string>
     <string name="fullscreen_0">Išjungti</string>
     <string name="fullscreen_1">Keliaujant aukštyn/žemyn, bus rodoma/slėpiama</string>
     <string name="fullscreen_2">Paspausti rodymui/slėpimui</string>
@@ -280,10 +280,10 @@
     <string name="script_url">Domenas ar * (*reiškia visi)</string>
     <string name="script_code">Kodas (Javascript)</string>
     <string name="clear_all_script">Išvalyti visus papildinius</string>
-    <string name="toast_copy_domain_successful">Domeno kopijavimas sėkmingas</string>
+    <string name="toast_copy_domain_successful">Domeno nukopijuotas sėkmingai</string>
     <string name="go_together">Prisijunkite prie mūsų</string>
     <string name="help_us_translate">Padėkite išversti Via</string>
-    <string name="confirm_to_leave">Patvirtinti, kad išeiti</string>
+    <string name="confirm_to_leave">Patvirtinkite, kad norite išeiti</string>
     <string name="leave">Išeiti</string>
     <string name="stay">Likti</string>
     <string name="skin_logo">Logotipas</string>
@@ -293,8 +293,8 @@
     <string name="set_it_as_homepage">Nustatyti kaip pagrindiniu puslapiu</string>
     <string name="missing_webview">Android Sistemos WebView yra neįdiegtas. Ar norite jį įdiegti?</string>
     <string name="install">Įrašyti</string>
-    <string name="crash_hint">Labai labai atsiprašome už šią klaidą. Tai mūsų (arba jūsų įrenginio)kaltė.</string>
-    <string name="upload_hint">Labai labai atsiprašome už šią klaidą. Jei norite mums pranešti apie šią klaidą, jūs galite mums nusiųsti klaidų sąrašą. Ar norite jį išsiųsti dabar?</string>
+    <string name="crash_hint">Labai atsiprašome už šią klaidą. Tai mūsų (arba jūsų įrenginio) kaltė.</string>
+    <string name="upload_hint">Labai atsiprašome už šią klaidą. Jei norite mums pranešti apie šią klaidą, jūs galite mums nusiųsti klaidų sąrašą. Ar norite jį išsiųsti dabar?</string>
     <string name="glean">Greita ir Maža</string>
     <string name="contact_us">Susisiekti su mumis</string>
     <string name="official_website">Oficialus internetinis puslapis</string>
@@ -321,10 +321,10 @@
     <string name="action_modify">Keisti</string>
     <string name="operation_hint">Gestai, naudojimo įpročiai ir t.t.</string>
     <string name="empty_ads_mark_hint">Nėra pažymėtų reklamų. \nIlgai paspaudus reklamą ir pasirinkus \"Pažymėti kaip reklamą\" reklama bus blokuojama.</string>
-    <string name="empty_script_hint">Papildinių nėra. \nPapildinių pridėjimui paspauskite "+" .</string>
+    <string name="empty_script_hint">Papildinių nėra \nPapildinių pridėjimui paspauskite "+"</string>
     <string name="adblock_info">Užblokuota %1$d reklamų, sutaupyta %2$s</string>
     <string name="disable">Išjungti</string>
-    <string name="ui_traditional">Tradicinis</string>
+    <string name="ui_traditional">Sumuštinis</string>
     <string name="ui_simple">Paprastas</string>
     <string name="color_mode_hint">Prie spalvų prisitaikančios paieškos ir funkcijų eilutės</string>
     <string name="sort_hint">Palaikykite ir braukite, kad išrikiuotumėte</string>
