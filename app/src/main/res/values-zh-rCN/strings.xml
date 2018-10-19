@@ -378,4 +378,5 @@
     <string name="disable_restore">禁用恢复</string>
     <string name="data_file">导出数据</string>
     <string name="bookmarks_data_to_long">书签数据达到了服务器不能承受之重, 将不会上传, 但其他数据可以正常上传. 继续上传吗?</string>
+    <string name="adblock_thanks">感谢 yhosts 项目!</string>
 </resources>
