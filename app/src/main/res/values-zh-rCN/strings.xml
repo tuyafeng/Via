@@ -247,7 +247,7 @@
     <string name="install_success">安装成功!!!</string>
     <string name="uninstall_success">卸载成功!!!</string>
     <string name="online_addons">在线插件</string>
-    <string name="log_page_hint">你可以复制下列域名或链接并粘贴至 %1$s 来通过强力拦截阻止它的加载.</string>
+    <string name="log_page_hint">所有拦截规则存储在 %1$s\n你可以手动编辑它来修改规则, 或长按下列任一条目来选择拦截与否.</string>
     <string name="fullscreen_0">禁用</string>
     <string name="fullscreen_1">滑动来显示/隐藏</string>
     <string name="fullscreen_2">点击来显示/隐藏</string>
@@ -379,4 +379,13 @@
     <string name="data_file">导出数据</string>
     <string name="bookmarks_data_to_long">书签数据达到了服务器不能承受之重, 将不会上传, 但其他数据可以正常上传. 继续上传吗?</string>
     <string name="adblock_thanks">感谢 yhosts 项目!</string>
+    <string name="block_hint">拦截了: %s\n刷新网页生效.</string>
+    <string name="unblock_hint">放行了: %s\n刷新网页生效.</string>
+    <string name="action_block_domain">拦截域名</string>
+    <string name="action_unblock_domain">放行域名</string>
+    <string name="action_unblock_url">放行链接</string>
+    <string name="action_block_url">拦截链接</string>
+    <string name="restore_tabs_hint_settings">开启\"隐身模式\"时不会恢复未关闭标签.</string>
+    <string name="night_css_enabled">启用了夜间模式网页暗色支持.</string>
+    <string name="night_css_disabled">禁用了夜间模式网页暗色支持.</string>
 </resources>

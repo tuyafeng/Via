@@ -14,6 +14,10 @@
     <string name="action_night">Night Mode</string>
     <string name="action_copy">Copy Link</string>
     <string name="action_copy_domain">Copy Domain</string>
+    <string name="action_block_domain">Block Domain</string>
+    <string name="action_unblock_domain">Unblock Domain</string>
+    <string name="action_unblock_url">Unblock Link</string>
+    <string name="action_block_url">Block Link</string>
     <string name="action_copy_text">Copy Text</string>
     <string name="action_image_off">Block Images</string>
     <string name="action_tools">Tools</string>
@@ -270,7 +274,7 @@
     <string name="install_success">Installation Successful!!!</string>
     <string name="uninstall_success">Uninstallation Successful!!!</string>
     <string name="online_addons">Online Add-ons</string>
-    <string name="log_page_hint">You can copy the following link or domain and paste it to %1$s for blocking it with Custom Block.</string>
+    <string name="log_page_hint">The blocked list is in %1$s\nYou can edit it to change list, or long press the following item to select block or not.</string>
     <string name="fullscreen_0">Disable</string>
     <string name="fullscreen_1">Scroll to hide/show</string>
     <string name="fullscreen_2">Click to hide/show</string>
@@ -399,4 +403,9 @@
     <string name="data_file">DataExport</string>
     <string name="bookmarks_data_to_long">Bookmarks data is too big to upload, but other data will be normally uploaded. Continue?</string>
     <string name="adblock_thanks">Thanks for yhosts project!</string>
+    <string name="block_hint">Blocked: %s\nrefresh to take it effect.</string>
+    <string name="unblock_hint">Unblocked: %s\nrefresh to take it effect.</string>
+    <string name="restore_tabs_hint_settings">It will not restore tabs when you are in \"Incognito Mode\".</string>
+    <string name="night_css_enabled">Enabled web dark mode in night mode.</string>
+    <string name="night_css_disabled">Disabled web dark mode in night mode.</string>
 </resources>
