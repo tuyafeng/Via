@@ -91,6 +91,11 @@
     <string name="sougou_url">Sougou</string>
     <string name="block_ads">Block Ads</string>
     <string name="message_untrusted_certificate">The certificate of the site isn\'t trusted. Proceed anyway?</string>
+    <string name="message_date_invalid_certificate">The date of the site\'s certificate is invalid. Proceed anyway?</string>
+    <string name="message_expired_certificate">The certificate of the site has expired. Proceed anyway?</string>
+    <string name="message_hostname_mismatch_certificate">The Hostname of the site\'s certificate is mismatch. Proceed anyway?</string>
+    <string name="message_invalid_certificate">The certificate of the site is invalid. Proceed anyway?</string>
+    <string name="message_not_yet_valid_certificate">The certificate of the site is not yet valid. Proceed anyway?</string>
     <string name="title_form_resubmission">Form Resubmission</string>
     <string name="message_form_resubmission">Would you like to resend the data?</string>
     <string name="message_location">\nWould like to use your location</string>
@@ -367,7 +372,7 @@
     <string name="res_log_hint">Click item to preview, long click item to download or do something else.</string>
     <string name="no_resource">The page has no resource.</string>
     <string name="no_network_log">The page has no network log.</string>
-    <string name="resource_sniffer_hint">\nIt is easier to detect media files when music or video is being played. Resource sniffer doesn't work on certain websites</string>
+    <string name="resource_sniffer_hint">\nIt is easier to detect media files when music or video is being played. Resource sniffer doesn\'t work on certain websites</string>
     <string name="action_download">Downloads</string>
     <string name="action_play_with_mxplayer">Play with MXPlayer</string>
     <string name="empty_username_info">Please input your username.</string>
