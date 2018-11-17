@@ -14,6 +14,10 @@
     <string name="action_night">Ночной режим</string>
     <string name="action_copy">Копировать ссылку</string>
     <string name="action_copy_domain">Копировать домен</string>
+    <string name="action_block_domain">Блокировать домен</string>
+    <string name="action_unblock_domain">Разблокировать домен</string>
+    <string name="action_unblock_url">Разблокировать ссылку</string>
+    <string name="action_block_url">Блокировать ссылку</string>
     <string name="action_copy_text">Копировать текст</string>
     <string name="action_image_off">Без изображений</string>
     <string name="action_tools">Инструменты</string>
@@ -40,8 +44,8 @@
     <string name="action_blank">Пустая страница</string>
     <string name="agent_chrome">Chrome (ПК)</string>
     <string name="agent_ie">IE 11 (ПК)</string>
-    <string name="agent_iphone">iPhone</string>
-    <string name="agent_symbian">Symbian</string>
+    <string name="agent_iphone">Safari (iPhone)</string>
+    <string name="agent_symbian">Nokia Browser</string>
     <string name="agent_custom">Своё</string>
     <string name="title_search_engine">Поисковая система</string>
     <string name="action_ok">OK</string>
@@ -87,6 +91,11 @@
     <string name="sougou_url">Sougou</string>
     <string name="block_ads">Блокировка рекламы</string>
     <string name="message_untrusted_certificate">Сертификат сайта не является доверенным. Всё равно продолжить?</string>
+    <string name="message_date_invalid_certificate">Дата сертификата сайта недействительна. Всё равно продолжить?</string>
+    <string name="message_expired_certificate">Срок действия сертификата сайта истёк. Всё равно продолжить?</string>
+    <string name="message_hostname_mismatch_certificate">Несоответствие имени хоста в сертификате сайта. Всё равно продолжить?</string>
+    <string name="message_invalid_certificate">Сертификат сайта недействителен. Всё равно продолжить?</string>
+    <string name="message_not_yet_valid_certificate">Сертификат сайта ещё недействителен. Всё равно продолжить?</string>
     <string name="title_form_resubmission">Переотправка формы</string>
     <string name="message_form_resubmission">Повторно отправить данные?</string>
     <string name="message_location">\nСообщить ваше местоположение?</string>
@@ -316,7 +325,7 @@
     <string name="import_">Импорт</string>
     <string name="export_">Экспорт</string>
     <string name="pull_to_refresh_gesture">Жест \"потянуть для обновления\"</string>
-    <string name="back_forward_gesture">Жест назад-вперёд</string>
+    <string name="back_forward_gesture">Жест \"назад-вперёд\"</string>
     <string name="toolbar_settings_hint">Нажмите кнопку для установки своего действия при удержании (сдвиге), удерживайте для просмотра установленного действия.</string>
     <string name="action_modify">Изменить</string>
     <string name="operation_hint">Жесты, операции и т.д.</string>
@@ -399,4 +408,9 @@
     <string name="data_file">DataExport</string>
     <string name="bookmarks_data_to_long">Объём данных закладок слишком велик для загрузки, но другие данные будут загружены нормально. Продолжить?</string>
     <string name="adblock_thanks">Спасибо проекту \"yhosts\"!</string>
+    <string name="block_hint">Заблокировано: %s\nобновите для применения.</string>
+    <string name="unblock_hint">Разблокировано: %s\nобновите для применения.</string>
+    <string name="restore_tabs_hint_settings">Не восстанавливать вкладки, когда вы в режиме \"инкогнито\".</string>
+    <string name="night_css_enabled">Включён тёмный вид страниц в ночном режиме.</string>
+    <string name="night_css_disabled">Отключён тёмный вид страниц в ночном режиме.</string>
 </resources>
