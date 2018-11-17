@@ -363,7 +363,7 @@
     <string name="res_log_hint">Paspauskite daiktą, kad jį peržiūrėtumėte, ilgai paspauskite daiktą, kad jį atsisiųstumėte ar dar ką padarytumėte</string>
     <string name="no_resource">Šiame puslapyje nesuradome media failų.</string>
     <string name="no_network_log">Puslapis neturi ryšio sąrašų</string>
-    <string name="resource_sniffer_hint">\nKai yra paleista muzika ar video yra daug lengviau tai padaryti. Ps: Kai kurie puslapiai nepalaiko media failų atsisiuntimo, net jeigu media failas egzistuoja.</string>
+    <string name="resource_sniffer_hint">\nSurasti media failus yra daug leingviau, kai jie yra paleisti. Kai kuriose svetainėse media failų atsisiųsti neįmanoma.</string>
     <string name="action_download">Atsisiuntimai</string>
     <string name="action_play_with_mxplayer">Paleisti naudojant MXplayer</string>
     <string name="empty_username_info">Prašome įvesti savo vartotojo vardą</string>
@@ -398,4 +398,5 @@
     <string name="disable_restore">Negrąžinti</string>
     <string name="data_file">Duomenų eksportavimas</string>
     <string name="bookmarks_data_to_long">Žymės užima per daug vietos, tačiau kiti duomenys bus įkelti. Tęsti?</string>
+    <string name="adblock_thanks">Mes esame dėkingi „yhosts“ projektui!</string>
 </resources>

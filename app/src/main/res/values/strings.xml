@@ -14,6 +14,10 @@
     <string name="action_night">Night Mode</string>
     <string name="action_copy">Copy Link</string>
     <string name="action_copy_domain">Copy Domain</string>
+    <string name="action_block_domain">Block Domain</string>
+    <string name="action_unblock_domain">Unblock Domain</string>
+    <string name="action_unblock_url">Unblock Link</string>
+    <string name="action_block_url">Block Link</string>
     <string name="action_copy_text">Copy Text</string>
     <string name="action_image_off">Block Images</string>
     <string name="action_tools">Tools</string>
@@ -87,6 +91,11 @@
     <string name="sougou_url">Sougou</string>
     <string name="block_ads">Block Ads</string>
     <string name="message_untrusted_certificate">The certificate of the site isn\'t trusted. Proceed anyway?</string>
+    <string name="message_date_invalid_certificate">The date of the site\'s certificate is invalid. Proceed anyway?</string>
+    <string name="message_expired_certificate">The certificate of the site has expired. Proceed anyway?</string>
+    <string name="message_hostname_mismatch_certificate">The Hostname of the site\'s certificate is mismatch. Proceed anyway?</string>
+    <string name="message_invalid_certificate">The certificate of the site is invalid. Proceed anyway?</string>
+    <string name="message_not_yet_valid_certificate">The certificate of the site is not yet valid. Proceed anyway?</string>
     <string name="title_form_resubmission">Form Resubmission</string>
     <string name="message_form_resubmission">Would you like to resend the data?</string>
     <string name="message_location">\nWould like to use your location</string>
@@ -270,7 +279,7 @@
     <string name="install_success">Installation Successful!!!</string>
     <string name="uninstall_success">Uninstallation Successful!!!</string>
     <string name="online_addons">Online Add-ons</string>
-    <string name="log_page_hint">You can copy the following link or domain and paste it to %1$s for blocking it with Custom Block.</string>
+    <string name="log_page_hint">The blocked list is in %1$s\nYou can edit it to change list, or long press the following item to select block or not.</string>
     <string name="fullscreen_0">Disable</string>
     <string name="fullscreen_1">Scroll to hide/show</string>
     <string name="fullscreen_2">Click to hide/show</string>
@@ -363,12 +372,12 @@
     <string name="res_log_hint">Click item to preview, long click item to download or do something else.</string>
     <string name="no_resource">The page has no resource.</string>
     <string name="no_network_log">The page has no network log.</string>
-    <string name="resource_sniffer_hint">\nIt is easier to be captured when music or video is being played. PS: some websites don\'t support this feature.</string>
+    <string name="resource_sniffer_hint">\nIt is easier to detect media files when music or video is being played. Resource sniffer doesn\'t work on certain websites</string>
     <string name="action_download">Downloads</string>
     <string name="action_play_with_mxplayer">Play with MXPlayer</string>
     <string name="empty_username_info">Please input your username.</string>
     <string name="empty_password_info">Please input your password.</string>
-    <string name="offline_page_hint">The following are Saved Pages. You can read them no matter whether there is a network connect.</string>
+    <string name="offline_page_hint">These are Saved Pages. You can open them even when you are offline.</string>
     <string name="history_page_hint_when_incognito">You\'ve gone incognito. New history will not be recorded.</string>
     <string name="action_preview">Preview</string>
     <string name="action_page_info">Page Info</string>
@@ -399,4 +408,9 @@
     <string name="data_file">DataExport</string>
     <string name="bookmarks_data_to_long">Bookmarks data is too big to upload, but other data will be normally uploaded. Continue?</string>
     <string name="adblock_thanks">Thanks for yhosts project!</string>
+    <string name="block_hint">Blocked: %s\nrefresh to take it effect.</string>
+    <string name="unblock_hint">Unblocked: %s\nrefresh to take it effect.</string>
+    <string name="restore_tabs_hint_settings">It will not restore tabs when you are in \"Incognito Mode\".</string>
+    <string name="night_css_enabled">Enabled web dark mode in night mode.</string>
+    <string name="night_css_disabled">Disabled web dark mode in night mode.</string>
 </resources>
