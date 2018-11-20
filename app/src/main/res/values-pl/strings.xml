@@ -93,7 +93,7 @@
     <string name="message_untrusted_certificate">Certyfikat strony nie jest zaufany. Kontynuować mimo to?</string>
     <string name="message_date_invalid_certificate">Data certyfikatu strony jest nieprawidłowa. Kontynuować mimo to?</string>
     <string name="message_expired_certificate">Certyfikat strony wygasł. Kontynuować mimo to?</string>
-    <string name="message_hostname_mismatch_certificate">Nazwa hosta nie zgadza się z tym z certyfikatu strony. Kontynuować mimo to?</string>
+    <string name="message_hostname_mismatch_certificate">Nazwa hosta nie zgadza się z tą z certyfikatu strony. Kontynuować mimo to?</string>
     <string name="message_invalid_certificate">Certyfikat strony jest nieprawidłowy. Kontynuować mimo to?</string>
     <string name="message_not_yet_valid_certificate">Certyfikat strony nie jest jeszcze ważny. Kontynuować mimo to?</string>
     <string name="title_form_resubmission">Ponowne wysłanie danych</string>
