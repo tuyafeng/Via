@@ -14,6 +14,10 @@
     <string name="action_night">Tryb nocny</string>
     <string name="action_copy">Kopiuj link</string>
     <string name="action_copy_domain">Kopiuj domenę</string>
+    <string name="action_block_domain">Zabl. domenę</string>
+    <string name="action_unblock_domain">Odbl. domenę</string>
+    <string name="action_unblock_url">Odbl. link</string>
+    <string name="action_block_url">Zabl. link</string>
     <string name="action_copy_text">Kopiuj tekst</string>
     <string name="action_image_off">Zablokuj obraz</string>
     <string name="action_tools">Narzędzia</string>
@@ -40,8 +44,8 @@
     <string name="action_blank">Pusta strona</string>
     <string name="agent_chrome">Chrome (PC)</string>
     <string name="agent_ie">IE 11 (PC)</string>
-    <string name="agent_iphone">iPhone</string>
-    <string name="agent_symbian">Symbian</string>
+    <string name="agent_iphone">Safari (iPhone)</string>
+    <string name="agent_symbian">Symbian (Nokia)</string>
     <string name="agent_custom">Własny</string>
     <string name="title_search_engine">Wyszukiwarka</string>
     <string name="action_ok">OK</string>
@@ -67,9 +71,9 @@
     <string name="action_incognito">Tryb prywatny</string>
     <string name="action_find">Szukaj</string>
     <string name="download_pending">Rozpoczynanie pobierania\u2026</string>
-    <string name="cannot_download">Mogę pobierać pliki tylko przez \"http\" i \"https\".</string>
+    <string name="cannot_download">Pobieranie plików możliwe jest tylko przez \"http\" i \"https\".</string>
     <string name="download_no_sdcard_dlg_title">Brak nośnika zewnętrznego</string>
-    <string name="download_no_sdcard_dlg_msg">Do pobrania tego pliku potrzebna jest nośnik zewnętrzny.</string>
+    <string name="download_no_sdcard_dlg_msg">Do pobrania tego pliku potrzebny jest nośnik zewnętrzny.</string>
     <string name="download_sdcard_busy_dlg_title">Nośnik zewnętrzny niedostępny</string>
     <string name="download_sdcard_busy_dlg_msg">Nośnik zewnętrzny jest zajęty. Aby móc pobierać pliki, wyłącz pamięć USB w pasku powiadomień.</string>
     <string name="message_import">Zakładki zostały zaimportowane.</string>
@@ -87,6 +91,11 @@
     <string name="sougou_url">Sougou</string>
     <string name="block_ads">Blokowanie reklam</string>
     <string name="message_untrusted_certificate">Certyfikat strony nie jest zaufany. Kontynuować mimo to?</string>
+    <string name="message_date_invalid_certificate">Data certyfikatu strony jest nieprawidłowa. Kontynuować mimo to?</string>
+    <string name="message_expired_certificate">Certyfikat strony wygasł. Kontynuować mimo to?</string>
+    <string name="message_hostname_mismatch_certificate">Nazwa hosta nie zgadza się z tym z certyfikatu strony. Kontynuować mimo to?</string>
+    <string name="message_invalid_certificate">Certyfikat strony jest nieprawidłowy. Kontynuować mimo to?</string>
+    <string name="message_not_yet_valid_certificate">Certyfikat strony nie jest jeszcze ważny. Kontynuować mimo to?</string>
     <string name="title_form_resubmission">Ponowne wysłanie danych</string>
     <string name="message_form_resubmission">Czy chcesz ponownie wysłać dane?</string>
     <string name="message_location">\n chce użyć Twojej lokalizacji</string>
@@ -102,7 +111,7 @@
     <string name="title_file_chooser">Wybór pliku</string>
     <string name="import_backup">Importuj zakładki</string>
     <string name="bookmark_export_path">Zakładki zostały wyeksportowane do\n</string>
-    <string name="import_bookmark_error">Nie mogę zaimportować zakładek z tego pliku</string>
+    <string name="import_bookmark_error">Nie można zaimportować zakładek z tego pliku</string>
     <string name="feedback">Opinia</string>
     <string name="message_add_bookmark">Zakładka została dodana</string>
     <string name="message_exit">Naciśnij jeszcze raz, aby wyjść.</string>
@@ -120,8 +129,8 @@
     <string name="dialog_adblock">Metoda domyślna: w celu blokady reklam używany będzie systemowy plik hosts.\n\nMetoda własna: używany będzie lokalny plik hosts. Jeśli nie instnieje, zostanie on utworzony.</string>
     <string name="dialog_adblock_default">Metoda domyślna</string>
     <string name="dialog_adblock_custom">Metoda własna</string>
-    <string name="dialog_adblock_download">Po pobraniu zostanie automatycznie wybrany.\n\nŚcieżka:</string>
-    <string name="dialog_adblock_custom_hint">\nNie możesz zmieniać nazwy ani lokalizacji pliku. Możesz zmieniać jego zawartość, aby ustawiać własne listy blokowania reklam.</string>
+    <string name="dialog_adblock_download">Po pobraniu plik zostanie automatycznie wybrany.\n\nŚcieżka:</string>
+    <string name="dialog_adblock_custom_hint">\nNie możesz zmieniać nazwy ani lokalizacji pliku. Możesz za to zmieniać jego zawartość, aby ustawiać własne listy blokowania reklam.</string>
     <string name="setting_default">Ustaw jako domyślną przeglądarkę</string>
     <string name="toast_clear_defaults">Wyczyść domyślne</string>
     <string name="toast_copy_url_successful">Adres został skopiowany</string>
@@ -167,10 +176,10 @@
     <string name="desc_menu">menu</string>
     <string name="desc_filedic">plik</string>
     <string name="desc_other">inne</string>
-    <string name="msg_setgoogle">Ustawić wyszukiwarkę Google?</string>
+    <string name="msg_setgoogle">Ustawić wyszukiwarkę Google jako domyślną?</string>
     <string name="action_mark">Oznacz jako reklamę</string>
     <string name="settings_block">AdBlock</string>
-    <string name="dialog_confirm_block">Czy chcesz oznaczyć ten element jako reklamę?</string>
+    <string name="dialog_confirm_block">Oznaczyć ten element jako reklamę?</string>
     <string name="do_not_track">Nie śledź mnie</string>
     <string name="get_more_rules">Więcej reguł</string>
     <string name="add_rule">Dodaj regułę</string>
@@ -183,10 +192,10 @@
     <string name="user">Zaloguj / zarejestruj się</string>
     <string name="user_syns">Synchronizuj dane</string>
     <string name="user_update">Wyślij dane</string>
-    <string name="log_in_success">Logowanie zakończone.</string>
-    <string name="wrong_psw">Niepoprawne hasło.</string>
-    <string name="sign_up_success">Rejestracja zakończona.</string>
-    <string name="code_500">Usługa niedostępna.</string>
+    <string name="log_in_success">Logowanie zakończone</string>
+    <string name="wrong_psw">Niepoprawne hasło</string>
+    <string name="sign_up_success">Rejestracja zakończona</string>
+    <string name="code_500">Usługa niedostępna</string>
     <string name="syns_success">Synchronizacja zakończona</string>
     <string name="upload_success">Wysyłanie zakończone</string>
     <string name="log_out">Wylogować?</string>
@@ -246,7 +255,7 @@
     <string name="network_log">Dziennik sieci</string>
     <string name="catalog">Katalog</string>
 
-    <string name="screenshot_hint">W Androidzie w wersji 5.0 i wyższej mogą występować problemy z wykonywaniem pełnych zrzutów ekranu strony. Szukamy rozwiązania tego problemu.</string>
+    <string name="screenshot_hint">W Androidzie w wersji 5.0 i wyższej mogą występować problemy z wykonywaniem pełnych zrzutów ekranu strony. Póki co nie znamy rozwiązania tego problemu.</string>
 
     <string name="conn_timeout">Upłynął limit czasu połączenia</string>
 
@@ -260,7 +269,7 @@
     <string name="none">Nic</string>
     <string name="action_log">Dziennik sieci</string>
     <string name="check_permission">Nie przyznano (niektórych) uprawnień. Ustawić je w ustawieniach systemowych?</string>
-    <string name="need_permission_hint">Przeglądarka Via potrzebuje następujących uprawnień do prawidłowej pracy:\n\n</string>
+    <string name="need_permission_hint">Aplikacja potrzebuje następujących uprawnień do prawidłowej pracy:\n\n</string>
     <string name="storage_permission">Pamięć: aby móc pobierać pliki oraz eksportować zakładki.\n\n</string>
     <string name="location_permission">Lokalizacja: dla stron typu Mapy Google. Domyślnie jest ono wyłączone. Jeśli jest włączone, w razie potrzeby zostanie wyświetlone powiadomienie, czy strona może użyć Twojej lokalizacji.\n\n</string>
     <string name="phone_permission">Telefon: aby móc pozyskać niezbędne informacje o urządzeniu w celu prowadzenia prostych statystyk, a w razie wystąpienia błędów - móc sporządzić raport.\n\n</string>
@@ -321,7 +330,7 @@
     <string name="action_modify">Modyfikuj</string>
     <string name="operation_hint">Operacje, gesty, itp.</string>
     <string name="empty_ads_mark_hint">Brak elementów oznaczonych jako reklamy. \nNaciśnij element na stronie i wybierz opcję \"Oznacz jako reklamę\", aby go zablokować. \nMożesz też nacisnąć przycisk \"+\" na górze, aby dodać go ręcznie, lub poniższy przycisk, aby pobrać gotowe reguły z sieci.</string>
-    <string name="empty_script_hint">Brak skryptów. \nNaciśnij przycisk \"+\" (lub ten poniżej), aby dodać skrypt.</string>
+    <string name="empty_script_hint">Brak skryptów.</string>
     <string name="adblock_info">Zablokowane reklamy: %1$d, zaoszczędzony transfer: %2$s.</string>
     <string name="disable">Wyłączone</string>
     <string name="ui_traditional">Tradycyjny</string>
@@ -337,7 +346,7 @@
     <string name="action_exit">Wyjdź</string>
     <string name="set_as_default">Ustawić aplikację jako domyślną przeglądarkę?</string>
     <string name="exit_incognito_title">Wyjdź z trybu prywatnego</string>
-    <string name="exit_incognito_dialog">Czy chcesz zamknąć wszystkie karty przed wyjściem z trybu prywatnego?</string>
+    <string name="exit_incognito_dialog">Zamknąć wszystkie karty przed wyjściem z trybu prywatnego?</string>
     <string name="file_size">Rozmiar pliku</string>
     <string name="update">Aktualizuj</string>
     <string name="update_msg">Dostępna jest nowa wersja aplikacji. Zaktualizować teraz?</string>
@@ -363,7 +372,7 @@
     <string name="res_log_hint">Kliknij element, aby wyświetlić podgląd. Przytrzymaj, aby wywołać menu kontekstowe z pozostałymi opcjami.</string>
     <string name="no_resource">Nie wykryto zasobów na tej stronie.</string>
     <string name="no_network_log">Strona ta nie ma dziennika sieci.</string>
-    <string name="resource_sniffer_hint">\nOdtwórz w niej jakiś film lub muzykę.</string>
+    <string name="resource_sniffer_hint">\nOdtwórz w niej jakiś film lub muzykę. Wykrywacz na pewnych stronach nie działa.</string>
     <string name="action_download">Pobrane pliki</string>
     <string name="action_play_with_mxplayer">Odtw. w MXPlayerze</string>
     <string name="empty_username_info">Wprowadź nazwę użytkownika</string>
@@ -378,7 +387,7 @@
     <string name="no_network">Brak dostępnych połączeń sieciowych</string>
     <string name="action_open_with">Otwórz w aplikacji</string>
     <string name="title_app_chooser">Wybór aplikacji</string>
-    <string name="sort_bookmarks_hint">Przeciągnij i upuść ikonę zakładki aby posortować listę</string>
+    <string name="sort_bookmarks_hint">Przeciągnij i upuść ikonę zakładki, aby posortować listę</string>
     <string name="clear_data_on_exit">Czyść dane przy wyjściu</string>
     <string name="action_add_to_homepage">Dodaj do szybkiego wybierania</string>
     <string name="added_favorite_hint">Dodano do szybkiego wybierania</string>
@@ -398,4 +407,10 @@
     <string name="disable_restore">Nigdy</string>
     <string name="data_file">dane</string>
     <string name="bookmarks_data_to_long">Dane zakładek są za duże do przesłania, ale inne dane zostaną przesłane. Kontynuować?</string>
+    <string name="adblock_thanks">Dzięki za projekt yhosts!</string>
+    <string name="block_hint">Zablokowano: %s\nOdśwież, aby zastosować zmiany.</string>
+    <string name="unblock_hint">Odblokowano: %s\nOdśwież, aby zastosować zmiany.</string>
+    <string name="restore_tabs_hint_settings">Kiedy jesteś w trybie prywatnym, nie zostaną przywrócone żadne karty.</string>
+    <string name="night_css_enabled">Włączono ciemny widok stron w trybie nocnym.</string>
+    <string name="night_css_disabled">Wyłączono ciemny widok stron w trybie nocnym.</string>
 </resources>
