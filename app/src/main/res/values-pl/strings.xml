@@ -274,7 +274,7 @@
     <string name="location_permission">Lokalizacja: dla stron typu Mapy Google. Domyślnie jest ono wyłączone. Jeśli jest włączone, w razie potrzeby zostanie wyświetlone powiadomienie, czy strona może użyć Twojej lokalizacji.\n\n</string>
     <string name="phone_permission">Telefon: aby móc pozyskać niezbędne informacje o urządzeniu w celu prowadzenia prostych statystyk, a w razie wystąpienia błędów - móc sporządzić raport.\n\n</string>
     <string name="force_cancel">Anuluj</string>
-    <string name="restore_tabs_hint">Przywrócić niezamknięte ostatnim razem karty?</string>
+    <string name="restore_tabs_hint">Przywrócić niezamknięte ostatnio karty?</string>
     <string name="restore_tabs">Przywracaj karty po uruchomieniu</string>
     <string name="install_success">Instalacja zakończona</string>
     <string name="uninstall_success">Deinstalacja zakończona</string>
