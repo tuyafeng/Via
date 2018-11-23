@@ -126,7 +126,7 @@
     <string name="volume">Volume Keys to Scroll</string>
     <string name="intent">Allow Website to Open Your App</string>
     <string name="msg_intent">Allow Website to open your app?</string>
-    <string name="dialog_adblock">Default Block: Use internal hosts.txt to Block Ads\n\nCustom Block: Use external hosts.txt, which will be downloaded if it doesn\'t exist.</string>
+    <string name="dialog_adblock">Default Block: Use internal hosts.txt to block ads\n\nCustom Block: Use external hosts.txt, which will be downloaded if it doesn\'t exist.</string>
     <string name="dialog_adblock_default">Default Block</string>
     <string name="dialog_adblock_custom">Custom Block</string>
     <string name="dialog_adblock_download">It will be automatically selected after download.\n\npath:</string>
