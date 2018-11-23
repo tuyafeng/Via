@@ -81,7 +81,7 @@
     <string name="message_untrusted_certificate">当前站点证书不被信任，是否继续？</string>
     <string name="message_date_invalid_certificate">当前站点证书日期无效. 是否继续?</string>
     <string name="message_expired_certificate">当前站点证书已过期. 是否继续?</string>
-    <string name="message_hostname_mismatch_certificate">当前站点证书的主机名不匹配. 是否继续?</string>
+    <string name="message_hostname_mismatch_certificate">当前站点证书与主机名不匹配. 是否继续?</string>
     <string name="message_invalid_certificate">当前站点证书无效. 是否继续?</string>
     <string name="message_not_yet_valid_certificate">当前站点证书还未生效. 是否继续?</string>
     <string name="title_form_resubmission">表格提交</string>
