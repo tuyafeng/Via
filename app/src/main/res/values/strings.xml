@@ -413,4 +413,6 @@
     <string name="restore_tabs_hint_settings">Tabs will not be restored when you are in \"Incognito Mode\".</string>
     <string name="night_css_enabled">Enabled web dark mode in night mode.</string>
     <string name="night_css_disabled">Disabled web dark mode in night mode.</string>
+    <string name="local_storage">Local Storage</string>
+    <string name="ignore_secondary_ssl_error">Ignore Secondary SSL Error</string>
 </resources>

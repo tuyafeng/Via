@@ -80,7 +80,6 @@
     <string name="haosou_url">360</string>
     <string name="google_url">Google</string>
     <string name="block_ads">広告ブロック</string>
-    <string name="message_untrusted_certificate">このサーバーの証明書は信頼されていません、続行しますか？</string>
     <string name="title_form_resubmission">フォームの再送</string>
     <string name="message_form_resubmission">再送信しますか？</string>
     <string name="message_location">\n位置情報へのアクセスを許可しますか？</string>
