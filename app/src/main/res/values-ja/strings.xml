@@ -80,7 +80,6 @@
     <string name="haosou_url">360</string>
     <string name="google_url">Google</string>
     <string name="block_ads">広告ブロック</string>
-    <string name="message_untrusted_certificate">このサーバーの証明書は信頼されていません、続行しますか？</string>
     <string name="title_form_resubmission">フォームの再送</string>
     <string name="message_form_resubmission">再送信しますか？</string>
     <string name="message_location">\n位置情報へのアクセスを許可しますか？</string>
@@ -380,4 +379,16 @@
     <string name="ask_first">起動時に確認する</string>
     <string name="disable_restore">タブを復元しない</string>
     <string name="data_file">データエクスポート</string>
+    <string name="message_untrusted_certificate">このサイトの証明書は信頼されていません。続行しますか？</string>
+    <string name="message_date_invalid_certificate">このサイトの証明書の有効期限が切れています。続行しますか？</string>
+    <string name="message_expired_certificate">このサイトの証明書は失効しています。続行しますか？</string>
+    <string name="message_hostname_mismatch_certificate">このサイトの証明書とホスト名が異なっています。続行しますか？</string>
+    <string name="message_invalid_certificate">このサイトの証明書は無効です。続行しますか？</string>
+    <string name="message_not_yet_valid_certificate">このサイトの証明書はまだ有効ではありません。続行しますか？</string>
+    <string name="bookmarks_data_to_long">ブックマークデータのサイズが大きすぎるため、アップロードできません。その他のデータはアップロードされます。続けますか？</string>
+    <string name="adblock_thanks">yhostsプロジェクトに感謝します！</string>
+    <string name="block_hint">ブロック済み: %s\n再読み込みして有効化します。</string>
+    <string name="unblock_hint">ブロック解除済み: %s\n再読み込みして有効化します。</string>
+    <string name="night_css_enabled">Webページはナイトモードで表示されています。</string>
+    <string name="night_css_disabled">Webページはナイトモードで表示されていません。</string>
 </resources>

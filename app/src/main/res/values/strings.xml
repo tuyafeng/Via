@@ -93,7 +93,7 @@
     <string name="message_untrusted_certificate">The certificate of the site isn\'t trusted. Proceed anyway?</string>
     <string name="message_date_invalid_certificate">The date of the site\'s certificate is invalid. Proceed anyway?</string>
     <string name="message_expired_certificate">The certificate of the site has expired. Proceed anyway?</string>
-    <string name="message_hostname_mismatch_certificate">The Hostname of the site\'s certificate is mismatch. Proceed anyway?</string>
+    <string name="message_hostname_mismatch_certificate">The certificate of the site doesn\'t match the hostname. Proceed anyway?</string>
     <string name="message_invalid_certificate">The certificate of the site is invalid. Proceed anyway?</string>
     <string name="message_not_yet_valid_certificate">The certificate of the site is not yet valid. Proceed anyway?</string>
     <string name="title_form_resubmission">Form Resubmission</string>
@@ -126,7 +126,7 @@
     <string name="volume">Volume Keys to Scroll</string>
     <string name="intent">Allow Website to Open Your App</string>
     <string name="msg_intent">Allow Website to open your app?</string>
-    <string name="dialog_adblock">Default Block: Use internal hosts.txt to Block Ads\n\nCustom Block: Use external hosts.txt, which will be downloaded if it doesn\'t exist.</string>
+    <string name="dialog_adblock">Default Block: Use internal hosts.txt to block ads\n\nCustom Block: Use external hosts.txt, which will be downloaded if it doesn\'t exist.</string>
     <string name="dialog_adblock_default">Default Block</string>
     <string name="dialog_adblock_custom">Custom Block</string>
     <string name="dialog_adblock_download">It will be automatically selected after download.\n\npath:</string>
@@ -234,7 +234,7 @@
     <string name="num_of_bookmarks_in_home">The number of bookmarks in homepage</string>
     <string name="picture">Picture</string>
     <string name="text">Text</string>
-    <string name="html_code">Html Code</string>
+    <string name="html_code">HTML Code</string>
 
     <string name="action_view_image">View Image</string>
 
@@ -394,7 +394,7 @@
     <string name="title_edit_favorite">Edit Favorite</string>
     <string name="custom_css_special">Add Custom CSS</string>
     <string name="force_enable_zoom">Enable Force Zoom</string>
-    <string name="set_ua_as">Set current user agent is %s</string>
+    <string name="set_ua_as">Set current user agent as %s</string>
     <string name="need_permission_to_install_pkg">You are downloading an APK file, please grant Via permission to install packages.</string>
     <string name="check_install_permission">Installation permission denied. Set it in settings now?</string>
     <string name="import_data">Import Data</string>
@@ -408,9 +408,11 @@
     <string name="data_file">DataExport</string>
     <string name="bookmarks_data_to_long">Bookmarks data is too big to upload, but other data will be normally uploaded. Continue?</string>
     <string name="adblock_thanks">Thanks for yhosts project!</string>
-    <string name="block_hint">Blocked: %s\nrefresh to take it effect.</string>
-    <string name="unblock_hint">Unblocked: %s\nrefresh to take it effect.</string>
-    <string name="restore_tabs_hint_settings">It will not restore tabs when you are in \"Incognito Mode\".</string>
+    <string name="block_hint">Blocked: %s\nrefresh to take effect.</string>
+    <string name="unblock_hint">Unblocked: %s\nrefresh to take effect.</string>
+    <string name="restore_tabs_hint_settings">Tabs will not be restored when you are in \"Incognito Mode\".</string>
     <string name="night_css_enabled">Enabled web dark mode in night mode.</string>
     <string name="night_css_disabled">Disabled web dark mode in night mode.</string>
+    <string name="local_storage">Local Storage</string>
+    <string name="ignore_secondary_ssl_error">Ignore Secondary SSL Error</string>
 </resources>
