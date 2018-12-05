@@ -415,4 +415,5 @@
     <string name="night_css_disabled">Disabled web dark mode in night mode.</string>
     <string name="local_storage">Local Storage</string>
     <string name="ignore_secondary_ssl_error">Ignore Secondary SSL Error</string>
+    <string name="powerful_cache">Powerful Cache</string>
 </resources>
