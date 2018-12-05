@@ -395,4 +395,5 @@
     <string name="night_css_disabled">禁用了夜间模式网页暗色支持.</string>
     <string name="local_storage">本地存储</string>
     <string name="ignore_secondary_ssl_error">忽略次要的 SSL 证书错误</string>
+    <string name="powerful_cache">威力缓存</string>
 </resources>
