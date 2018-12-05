@@ -50,13 +50,13 @@
     <string name="title_search_engine">Поисковая система</string>
     <string name="action_ok">OK</string>
     <string name="dialog_download">Загрузить этот файл?</string>
-    <string name="action_cancel">ОТМЕНА</string>
+    <string name="action_cancel">Отмена</string>
     <string name="title_warning">Внимание!</string>
     <string name="title_user_agent">User Agent</string>
     <string name="title_custom_homepage">Своя страница</string>
     <string name="action_webpage">Сайт</string>
-    <string name="action_yes">ДА</string>
-    <string name="action_no">ОТМЕНА</string>
+    <string name="action_yes">Да</string>
+    <string name="action_no">Отмена</string>
     <string name="title_text_size">Размер текста</string>
     <string name="size_largest">Огромный</string>
     <string name="size_large">Большой</string>
@@ -66,14 +66,14 @@
     <string name="hint_title">Заголовок</string>
     <string name="hint_url">Адрес</string>
     <string name="hint_folder">Папка</string>
-    <string name="title_edit_bookmark">Изменить закладку</string>
+    <string name="title_edit_bookmark">Редактирование закладки</string>
     <string name="action_edit">Редактировать</string>
     <string name="action_incognito">Инкогнито</string>
     <string name="action_find">Поиск</string>
     <string name="download_pending">Начинается загрузка…</string>
     <string name="cannot_download">Скачивать можно только по \"http\"- или \"https\"-ссылкам.</string>
     <string name="download_no_sdcard_dlg_title">SD-карта отсутствует</string>
-    <string name="download_no_sdcard_dlg_msg">Необходим USB-накопитель для загрузки этого файла.</string>
+    <string name="download_no_sdcard_dlg_msg">Для загрузки этого файла необходим USB-накопитель</string>
     <string name="download_sdcard_busy_dlg_title">USB-накопитель недоступен!</string>
     <string name="download_sdcard_busy_dlg_msg">Накопитель занят. Чтобы разрешить загрузки, отключите USB-накопитель в уведомлении.</string>
     <string name="message_import">закладок импортировано</string>
@@ -99,9 +99,9 @@
     <string name="title_form_resubmission">Переотправка формы</string>
     <string name="message_form_resubmission">Повторно отправить данные?</string>
     <string name="message_location">\nСообщить ваше местоположение?</string>
-    <string name="action_allow">ДА</string>
-    <string name="action_dont_allow">ОТМЕНА</string>
-    <string name="title_sign_in">ВХОД</string>
+    <string name="action_allow">Принять</string>
+    <string name="action_dont_allow">Отмена</string>
+    <string name="title_sign_in">Вход</string>
     <string name="hint_username">Имя</string>
     <string name="hint_password">Пароль</string>
     <string name="untitled">Без названия</string>
@@ -164,7 +164,7 @@
     <string name="action_pcview">Версия для ПК</string>
     <string name="action_source">Исходный код</string>
     <string name="action_translate">Перевод</string>
-    <string name="title_edit_folder">Изменение папки</string>
+    <string name="title_edit_folder">Редактирование папки</string>
     <string name="msg_delete_folder">Удалить эту папку?</string>
     <string name="desc_suggestion">предложение</string>
     <string name="desc_search">поиск на странице</string>
@@ -247,7 +247,7 @@
 
     <string name="action_save_web_page">Сохранить страницу</string>
     <string name="action_saved_pages">Архив страниц</string>
-    <string name="saved_page_successfully">Страница успешно сохранена в архив. Он доступен из меню: \"Архив страниц\".</string>
+    <string name="saved_page_successfully">Страница успешно сохранена в архив</string>
     <string name="deleted_failed">"Ошибка при удалении. Путь нахождения файла: "</string>
 
     <string name="empty_hint">Пусто…</string>
@@ -302,8 +302,8 @@
     <string name="set_it_as_homepage">Установить в качестве домашней страницы?</string>
     <string name="missing_webview">Android System WebView корректно не установлен. Установить его сейчас?</string>
     <string name="install">Установить</string>
-    <string name="crash_hint">Простите за сбой.</string>
-    <string name="upload_hint">Очень жаль, что произошёл сбой, но вы можете отправить отчёт об ошибке, чтобы помочь нам её устранить. Отправить отчёт?</string>
+    <string name="crash_hint">Простите за сбой</string>
+    <string name="upload_hint">Очень жаль, но произошёл сбой. Вы можете отправить отчёт об ошибке, чтобы помочь нам его устранить. Отправить отчёт?</string>
     <string name="glean">Цитата</string>
     <string name="contact_us">Связаться с нами</string>
     <string name="official_website">Официальный сайт</string>
@@ -327,7 +327,7 @@
     <string name="pull_to_refresh_gesture">Потянуть вниз для обновления</string>
     <string name="back_forward_gesture">Жест \"назад-вперёд\"</string>
     <string name="toolbar_settings_hint">Нажмите кнопку для установки своего действия при удержании (сдвиге), удерживайте для просмотра установленного действия.</string>
-    <string name="action_modify">Изменить</string>
+    <string name="action_modify">Редактировать</string>
     <string name="operation_hint">Управление жестами, кнопками и т.д.</string>
     <string name="empty_ads_mark_hint">Правила блокировки рекламы отсутствуют.\nВы можете удерживать рекламное объявление на сайте и выбрать \"Пометить как рекламу\" для его блокировки.</string>
     <string name="empty_script_hint">Скрипты отсутствуют.\nВы можете нажать кнопку [+] для добавления.\nИли можете просто нажать кнопку ниже.</string>
@@ -339,7 +339,7 @@
     <string name="sort_hint">Сортировка удерживанием и перетаскиванием</string>
     <string name="action_sort_bookmarks">Сортировка закладок</string>
     <string name="desc_close">Закрыть</string>
-    <string name="clear_cache_on_exit">Очистить кеш и выйти</string>
+    <string name="clear_cache_on_exit">Очистить кеш при выходе</string>
     <string name="action_close_all_tabs">Закрыть все вкладки</string>
     <string name="skin_hide_search_part">Скрыть панель поиска</string>
     <string name="action_more">Ещё</string>
@@ -415,4 +415,5 @@
     <string name="night_css_disabled">Отключён тёмный вид страниц в ночном режиме</string>
     <string name="local_storage">Локальное хранилище</string>
     <string name="ignore_secondary_ssl_error">Игнорировать вторичную ошибку SSL</string>
+    <string name="powerful_cache">Эффективный кеш</string>
 </resources>
