@@ -14,6 +14,10 @@
     <string name="action_night">Mode nuit</string>
     <string name="action_copy">Copier le lien</string>
     <string name="action_copy_domain">Copier le site</string>
+    <string name="action_block_domain">Bloquer le site</string>
+    <string name="action_unblock_domain">Débloquer le site</string>
+    <string name="action_unblock_url">Débloquer le lien</string>
+    <string name="action_block_url">Bloquer le lien</string>
     <string name="action_copy_text">Copier le texte</string>
     <string name="action_image_off">Bloquer les images</string>
     <string name="action_tools">Outils</string>
@@ -87,6 +91,11 @@
     <string name="sougou_url">Sougou</string>
     <string name="block_ads">Bloquer les annonces(ADS)</string>
     <string name="message_untrusted_certificate">Le certificat du site n\'est pas approuvé. Continuer quand même ?</string>
+	 <string name="message_date_invalid_certificate">La date du certificat du site est invalide. Continuer quand même ?</string>
+    <string name="message_expired_certificate">Le certificat du site a expiré. Continuer quand même ?</string>
+    <string name="message_hostname_mismatch_certificate">Le certificat du site ne correspond pas au nome de domaine. Continuer quand même ?</string>
+    <string name="message_invalid_certificate">Le certificat du site est invalide. Continuer quand même ?</string>
+    <string name="message_not_yet_valid_certificate">Le certificat du site n\'est pas encore valide. Continuer quand même ?</string>
     <string name="title_form_resubmission">Renvoyer le formulaire</string>
     <string name="message_form_resubmission">Voulez-vous renvoyer les données?</string>
     <string name="message_location">\nUtiliser votre emplacement ?</string>
@@ -399,4 +408,12 @@
     <string name="data_file">DataExport</string>
     <string name="bookmarks_data_to_long">Les données de favoris sont trop volumineuses, mais les autres données vont être envoyées normalement. Continuer ?</string>
     <string name="adblock_thanks">Remerciements au projet yhosts !</string>
+	<string name="block_hint">Bloqué: %s\nactualiser pour prendre en compte le paramètre.</string>
+    <string name="unblock_hint">Débloqué: %s\n pour prendre en compte le paramètre.</string>
+    <string name="restore_tabs_hint_settings">Les onglets ne seront pas restaurés quand vous êtes en \"Mode Incognito\".</string>
+    <string name="night_css_enabled">Activer le rendu sombre en mode nuit.</string>
+    <string name="night_css_disabled">Désactiver le rendu sombre en mode nuit.</string>
+    <string name="local_storage">Stockage local</string>
+    <string name="ignore_secondary_ssl_error">Ignorer l\'erreur SSL secondaire</string>
+    <string name="powerful_cache">Hyper Cache</string>
 </resources>
