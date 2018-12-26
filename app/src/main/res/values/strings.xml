@@ -106,8 +106,8 @@
     <string name="hint_password">Password</string>
     <string name="untitled">Untitled</string>
     <string name="image_auto">Show images only via Wi-Fi</string>
-    <string name="image_on">Show images</string>
-    <string name="image_off">Block images</string>
+    <string name="image_on">Block images</string>
+    <string name="image_off">Show images</string>
     <string name="title_file_chooser">File chooser</string>
     <string name="import_backup">Import bookmarks</string>
     <string name="bookmark_export_path">Bookmarks exported to\n</string>
@@ -415,5 +415,7 @@
     <string name="night_css_disabled">Disabled web dark mode in night mode.</string>
     <string name="local_storage">Local Storage</string>
     <string name="ignore_secondary_ssl_error">Ignore Secondary SSL Error</string>
-    <string name="powerful_cache">Powerful Cache</string>
+    <string name="powerful_cache">Hyper Cache</string>
+    <string name="web_page_debug">Enable Web Page Debugging</string>
+    <string name="web_page_debug_info">Now You can connect your phone to computer, then debug web page with Chrome(PC) using \"chrome://inspect\". Remember to enable USB Debugging in Settings > Developer options first.</string>
 </resources>

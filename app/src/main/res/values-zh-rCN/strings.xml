@@ -396,4 +396,6 @@
     <string name="local_storage">本地存储</string>
     <string name="ignore_secondary_ssl_error">忽略次要的 SSL 证书错误</string>
     <string name="powerful_cache">威力缓存</string>
+    <string name="web_page_debug">允许调试网页</string>
+    <string name="web_page_debug_info">现在你可以将手机连上电脑, 然后在 Chrome 电脑版上通过 \"chrome://inspect\" 来调试网页. 别忘了先开启设置中开发者选项里的 usb 调试.</string>
 </resources>
