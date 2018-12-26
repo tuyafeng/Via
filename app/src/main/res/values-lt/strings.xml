@@ -238,50 +238,50 @@
 
     <string name="action_view_image">Žiūrėti paveikslėlį</string>
 
-    <string name="skin_colorful">Spalvingas</string>
-    <string name="skin_fruity">Vaisinis</string>
+    <string name="skin_colorful">Apvalus</string>
+    <string name="skin_fruity">Kvadratinis</string>
     <string name="skin_transparent">Permatomas</string>
 
     <string name="block_popup">Blokuoti iššokančius langus</string>
-    <string name="open_window_hint">Puslapį atidaryti kitame lange</string>
+    <string name="open_window_hint">Puslapis bando atidaryti naują skirtuką</string>
 
     <string name="action_save_web_page">Išsaugoti šį puslapį</string>
     <string name="action_saved_pages">Išsaugoti puslapiai</string>
     <string name="saved_page_successfully">Puslapis išsaugotas sėkmingai, jį galite rasti meniu: Išsaugoti puslapiai</string>
     <string name="deleted_failed">"Ištrynimas nesėkmingas. Failas yra prie atsisiuntimų: "</string>
 
-    <string name="empty_hint">Nėra ką rodyti&#8230;</string>
+    <string name="empty_hint">Nieko nėra&#8230;</string>
 
     <string name="network_log">Resursų sąrašas</string>
     <string name="catalog">Katalogas</string>
 
-    <string name="screenshot_hint">Jeigu jūs naudojate Android 5.0+ pilno ekrano internetinio puslapio kopijavimas gali neveikti. Mes vis dar ieškome sprendimų.</string>
+    <string name="screenshot_hint">Jeigu jūs naudojate Android 5.0+ viso puslapio kopijavimas gali neveikti. Mes vis dar ieškome sprendimų.</string>
 
-    <string name="conn_timeout">Bandymas prisijungti prie internetinio puslapio užtruko per ilgai</string>
+    <string name="conn_timeout">Bandymas prisijungti prie puslapio užtruko per ilgai</string>
 
     <string name="already_default">Tai jau yra pagrindinis</string>
 
-    <string name="set_to_default">Tai bus parinkta pagrindiniu po to kai atidarysimi šį adresą(%s), prašome pasirinkti via adreso atidarymui</string>
+    <string name="set_to_default">Tai taps pagrindiniu po to kai atidarysimi šį adresą(%s), prašome pasirinkti Via adreso atidarymui</string>
 
-    <string name="quick_back_desc">Paspaudus šį mygtuką gali atsirasti klaidų</string>
+    <string name="quick_back_desc">Ši funkcija gali neveikti</string>
     <string name="sync_prompt">Tai perrašys dabartines žymes ir nustatymus. Tęsti?</string>
     <string name="upload_prompt">Tai išsiųs dabartines žymes ir nustatymus. Tęsti?</string>
     <string name="none">Tuščia</string>
     <string name="action_log">Surašyti</string>
-    <string name="check_permission">Leidimas atmestas. Leisti atidarant sistemos nustatymus?</string>
-    <string name="need_permission_hint">Prašytumėme suteikti šiuos leidimus:\n(Šie leidimai yra nebūtini ir jūs galite jų nesuteikti, jų prireikus iššoks lentelė prašanti juos įjungti.)\n\n</string>
-    <string name="storage_permission">Vidinė atmintis: failų atsisiuntimui, žymių importavimui/eksportavimui ir t.t.\n\n</string>
+    <string name="check_permission">Leidimas negautas. Nustatyti nustatymuose?</string>
+    <string name="need_permission_hint">Via'i gali prireikti šių leidimų.\n\n</string>
+    <string name="storage_permission">Vidinė atmintis: atsisiuntimams, žymių importavimui/eksportavimui ir t.t.\n\n</string>
     <string name="location_permission">Vietos prieiga: puslapiams kaip Google Maps.\n\n</string>
-    <string name="phone_permission">Skambučiai: gauti jūsų neprivačią bei telefono informaciją, kad galėtumėme sukurti paprastus klaidų sąrašus be statistikas.\n\n</string>
-    <string name="force_cancel">Priverstinai atšaukti</string>
+    <string name="phone_permission">Skambučiai: gauti jūsų neprivačią telefono informaciją, kad galėtumėme sukurti paprastus klaidų sąrašus be statistikas.\n\n</string>
+    <string name="force_cancel">Priverstinai uždaryti</string>
     <string name="restore_tabs_hint">Grąžinti neuždarytus skirtukus iš praėjusios naršymo sesijos?</string>
     <string name="restore_tabs">Automatiškai grąžinti neuždarytus skirtukus iš praėjusios naršymo sesijos</string>
     <string name="install_success">Instaliavimas sėkmingas!!!</string>
     <string name="uninstall_success">Ištrynimas sėkmingas!!!</string>
     <string name="online_addons">Atsisiunčiami priedai</string>
-    <string name="log_page_hint">Jūs galite kopijuoti šį adresą ar domeną ir įklijuoti į %1$s užkrovimo blokavimui iš pasirinktinio blokavimo</string>
+    <string name="log_page_hint">Užblokuotų sąrašą galite surasti %1$s\nJūs galite redaguoti sąrašą, arba paspausti ir palaikyti tą daiktą kurį norite (at)blokuoti.</string>
     <string name="fullscreen_0">Išjungti</string>
-    <string name="fullscreen_1">Keliaujant aukštyn/žemyn, bus rodoma/slėpiama</string>
+    <string name="fullscreen_1">Slenkant puslapiu, bus rodoma/slėpiama</string>
     <string name="fullscreen_2">Paspausti rodymui/slėpimui</string>
     <string name="settings_script">Papildiniai</string>
     <string name="get_more_script">Pridėti daugiau papildinių</string>
@@ -289,25 +289,25 @@
     <string name="script_url">Domenas ar * (*reiškia visi)</string>
     <string name="script_code">Kodas (Javascript)</string>
     <string name="clear_all_script">Išvalyti visus papildinius</string>
-    <string name="toast_copy_domain_successful">Domeno nukopijuotas sėkmingai</string>
+    <string name="toast_copy_domain_successful">Domenas nukopijuotas sėkmingai</string>
     <string name="go_together">Prisijunkite prie mūsų</string>
-    <string name="help_us_translate">Padėkite išversti Via</string>
+    <string name="help_us_translate">Padėkite versti</string>
     <string name="confirm_to_leave">Patvirtinkite, kad norite išeiti</string>
     <string name="leave">Išeiti</string>
-    <string name="stay">Likti</string>
+    <string name="stay">Pasilikti</string>
     <string name="skin_logo">Logotipas</string>
     <string name="skin_bg">Fonas</string>
     <string name="skin_style">Stilius</string>
     <string name="skin_settings">Nustatymai</string>
     <string name="set_it_as_homepage">Nustatyti kaip pagrindiniu puslapiu</string>
-    <string name="missing_webview">Android Sistemos WebView yra neįdiegtas. Ar norite jį įdiegti?</string>
+    <string name="missing_webview">Android WebView yra neteisingai įdiegtas. Ar norite jį įdiegti?</string>
     <string name="install">Įrašyti</string>
-    <string name="crash_hint">Labai atsiprašome už šią klaidą. Tai mūsų (arba jūsų įrenginio) kaltė.</string>
-    <string name="upload_hint">Labai atsiprašome už šią klaidą. Jei norite mums pranešti apie šią klaidą, jūs galite mums nusiųsti klaidų sąrašą. Ar norite jį išsiųsti dabar?</string>
+    <string name="crash_hint">Labai atsiprašome už šią klaidą</string>
+    <string name="upload_hint">Labai atsiprašome už šią klaidą. Jei norite mums apie tai pranešti, jūs galite atsiųsti klaidų sąrašą. Ar norite jį išsiųsti dabar?</string>
     <string name="glean">Greita ir Maža</string>
     <string name="contact_us">Susisiekti su mumis</string>
-    <string name="official_website">Oficialus internetinis puslapis</string>
-    <string name="current_language">Dabartinė kalba</string>
+    <string name="official_website">Oficialus puslapis</string>
+    <string name="current_language">Kalba</string>
     <string name="download_manager">Atsisiuntimų valdytojas</string>
     <string name="background_opacity">Fono permatomumas</string>
     <string name="action_pic_mode">Paveikslėlio režimas</string>
@@ -319,7 +319,7 @@
     <string name="action_fullscreen">Pilnas ekranas</string>
     <string name="action_ua">Vartotojo Agentas</string>
     <string name="settings_general">Pagrindiniai</string>
-    <string name="no_bookmark">Nėra žymių</string>
+    <string name="no_bookmark">Žymių nėra</string>
     <string name="import_or_export_bookmarks">Importuoti/eksportuoti žymes</string>
     <string name="what_is_next">Kas toliau?</string>
     <string name="import_">Importuoti žymes</string>
@@ -328,16 +328,16 @@
     <string name="back_forward_gesture">Pirmyn/atgal gestai</string>
     <string name="toolbar_settings_hint">Paspaudus mygtuką galima nustatyti jo ilgo paspaudimo reikšmę</string>
     <string name="action_modify">Keisti</string>
-    <string name="operation_hint">Gestai, naudojimo įpročiai ir t.t.</string>
+    <string name="operation_hint">Gestai, trumpiniai ir t.t.</string>
     <string name="empty_ads_mark_hint">Nėra pažymėtų reklamų. \nIlgai paspaudus reklamą ir pasirinkus \"Pažymėti kaip reklamą\" reklama bus blokuojama.</string>
     <string name="empty_script_hint">Papildinių nėra \nPapildinių pridėjimui paspauskite "+"</string>
     <string name="adblock_info">Užblokuota %1$d reklamų, sutaupyta %2$s</string>
     <string name="disable">Išjungti</string>
     <string name="ui_traditional">Sumuštinis</string>
     <string name="ui_simple">Paprastas</string>
-    <string name="color_mode_hint">Prie spalvų prisitaikančios paieškos ir funkcijų eilutės</string>
-    <string name="sort_hint">Palaikykite ir braukite, kad išrikiuotumėte</string>
-    <string name="action_sort_bookmarks">Išrikiuoti žymes</string>
+    <string name="color_mode_hint">Prie spalvų prisitaikančios funkcijų eilutės</string>
+    <string name="sort_hint">Palaikykite ir braukite, kad rūšiuotumėte</string>
+    <string name="action_sort_bookmarks">Rūšiuoti žymes</string>
     <string name="desc_close">Uždaryti</string>
     <string name="clear_cache_on_exit">Išvalyti talpyklą prieš išeinant iš programėlės</string>
     <string name="action_close_all_tabs">Uždaryti visus skirtukus?</string>
@@ -408,4 +408,14 @@
     <string name="data_file">Duomenų eksportavimas</string>
     <string name="bookmarks_data_to_long">Žymės užima per daug vietos, tačiau kiti duomenys bus įkelti. Tęsti?</string>
     <string name="adblock_thanks">Mes esame dėkingi „yhosts“ projektui!</string>
-</resources>
+    <string name="block_hint">Blokuota: %s\perkraukite puslapį.</string>
+    <string name="unblock_hint">Atblokuota: %s\perkraukite puslapį.</string>
+    <string name="restore_tabs_hint_settings">Kai esate \"Inkognito\" skirtukai nebus grąžinami</string>
+    <string name="night_css_enabled">Įjungtas tamsusis režimas naudojantis naktiniu režimu</string>
+    <string name="night_css_disabled">Išjungtas tamsusis režimas naudojantis naktiniu režimu</string>
+    <string name="local_storage">Saugykla</string>
+    <string name="ignore_secondary_ssl_error">Ignoruoti antrą SSL klaidą</string>
+    <string name="powerful_cache">Hyper saugykla</string>
+    <string name="web_page_debug">Įjungti puslapių derinimą</string>
+    <string name="web_page_debug_info">Galite prijungti savo įrenginį prie kompiuterio ir derinti su Chrome naudojant \"chrome://inspect\". Nepamirškite įjungti USB derinimo Nustatymai > Kūrėjo nustatymai.</string>
+    </resources>
