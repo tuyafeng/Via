@@ -416,4 +416,6 @@
     <string name="local_storage">Локальное хранилище</string>
     <string name="ignore_secondary_ssl_error">Игнорировать вторичную ошибку SSL</string>
     <string name="powerful_cache">Эффективный кеш</string>
+    <string name="web_page_debug">Отладка страниц</string>
+    <string name="web_page_debug_info">Теперь вы можете подключить своё устройство к компьютеру и отладить страницу с помощью Chrome (ПК), используя \"chrome://inspect\". Не забудьте предварительно включить отладку по USB в меню \"Настройки\" > \"Для разработчиков\".</string>
 </resources>
