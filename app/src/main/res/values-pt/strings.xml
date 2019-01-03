@@ -237,7 +237,7 @@
     <string name="action_save_web_page">Salvar Página</string>
     <string name="action_saved_pages">Páginas salvas</string>
     <string name="saved_page_successfully">Página salva com sucesso, está no menu da página inicial: Páginas salvas</string>
-    <string name="deleted_failed">"Falha ao excluir. O arquivo está localizado no caminho de download: "</string>
+    <string name="deleted_failed">Falha ao excluir. O arquivo está localizado no caminho de download: </string>
 
     <string name="empty_hint">Nada para mostrar&#8230;</string>
 

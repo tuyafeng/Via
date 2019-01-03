@@ -238,7 +238,7 @@
     <string name="action_save_web_page">Uložit webovou stránku</string>
     <string name="action_saved_pages">Uložené stránky</string>
     <string name="saved_page_successfully">Stránka uložena úspěšně v nabídce domovské stránky: Uložené stránky</string>
-    <string name="deleted_failed">"Odstraňování se nezdařilo. Soubor umístěný v cestě stahování: "</string>
+    <string name="deleted_failed">Odstraňování se nezdařilo. Soubor umístěný v cestě stahování: </string>
 
     <string name="empty_hint">Nic k zobrazení&#8230;</string>
 

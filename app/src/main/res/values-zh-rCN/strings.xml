@@ -92,7 +92,7 @@
     <string name="hint_username">用户名</string>
     <string name="hint_password">密码</string>
     <string name="untitled">无标题</string>
-    <string name="image_auto">智能无图</string>
+    <string name="image_auto">仅 Wi-Fi 有图</string>
     <string name="image_on">无图模式</string>
     <string name="image_off">有图模式</string>
     <string name="title_file_chooser">文件选择</string>

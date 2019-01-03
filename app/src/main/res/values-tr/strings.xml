@@ -238,7 +238,7 @@
     <string name="action_save_web_page">Sayfayı Kaydet</string>
     <string name="action_saved_pages">Kaydedilmiş Sayfalar</string>
     <string name="saved_page_successfully">Başarıyla kaydedildi, anasayfa menüde Kaydedilmiş Sayfalar altında bulabilirsiniz</string>
-    <string name="deleted_failed">"Silme başarısız. Dosya indirme yolu: "</string>
+    <string name="deleted_failed">Silme başarısız. Dosya indirme yolu: </string>
 
     <string name="empty_hint">Gösterilecek bir şey yok&#8230;</string>
 

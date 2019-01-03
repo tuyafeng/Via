@@ -248,7 +248,7 @@
     <string name="action_save_web_page">Save Web Page</string>
     <string name="action_saved_pages">Saved Web Page</string>
     <string name="saved_page_successfully">Web page saved successfully. It is in the menu of homepage: Saved Web Page</string>
-    <string name="deleted_failed">"Failed to Delete. The file located in download path: "</string>
+    <string name="deleted_failed">Failed to Delete. The file located in download path: </string>
 
     <string name="empty_hint">Nothing to show&#8230;</string>
 
@@ -418,4 +418,11 @@
     <string name="powerful_cache">Hyper Cache</string>
     <string name="web_page_debug">Enable Web Page Debugging</string>
     <string name="web_page_debug_info">Now You can connect your phone to computer, then debug web page with Chrome(PC) using \"chrome://inspect\". Remember to enable USB Debugging in Settings > Developer options first.</string>
+    <string name="no_download_tasks">No download task.</string>
+    <string name="action_delete_download">Delete Task</string>
+    <string name="action_re_download">Re-Download</string>
+    <string name="action_copy_download_link">Copy Download Link</string>
+    <string name="download_failed">download failed</string>
+    <string name="view_downloads">View</string>
+    <string name="message_delete_download">This will also delete related file. Are you sure?</string>
 </resources>

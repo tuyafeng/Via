@@ -237,7 +237,7 @@
     <string name="action_save_web_page">Salva pagina Web</string>
     <string name="action_saved_pages">Pagine Salvate</string>
     <string name="saved_page_successfully">La pagina è stata salvata. La trovi nel menu della homepage: Pagine Salvate</string>
-    <string name="deleted_failed">"Cancellazione fallita. Il file si trova nel percorso di download: "</string>
+    <string name="deleted_failed">Cancellazione fallita. Il file si trova nel percorso di download: </string>
 
     <string name="empty_hint">Niente da mostrare&#8230;</string>
 

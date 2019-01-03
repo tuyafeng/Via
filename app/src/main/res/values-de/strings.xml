@@ -231,7 +231,7 @@
     <string name="action_save_web_page">Speichere Webseite</string>
     <string name="action_saved_pages">Gespeicherte Seiten</string>
     <string name="saved_page_successfully">Seite erfolgreich gespeichert</string>
-    <string name="deleted_failed">"Löschen fehlgeschlagen. Die Datei befindet sich im Download-Pfad: "</string>
+    <string name="deleted_failed">Löschen fehlgeschlagen. Die Datei befindet sich im Download-Pfad: </string>
     <string name="empty_hint">Nichts anzuzeigen&#8230;</string>
     <string name="network_log">Netzwerk Log</string>
     <string name="catalog">Katalog</string>

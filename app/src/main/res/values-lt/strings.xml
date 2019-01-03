@@ -248,7 +248,7 @@
     <string name="action_save_web_page">Išsaugoti šį puslapį</string>
     <string name="action_saved_pages">Išsaugoti puslapiai</string>
     <string name="saved_page_successfully">Puslapis išsaugotas sėkmingai, jį galite rasti meniu: Išsaugoti puslapiai</string>
-    <string name="deleted_failed">"Ištrynimas nesėkmingas. Failas yra prie atsisiuntimų: "</string>
+    <string name="deleted_failed">Ištrynimas nesėkmingas. Failas yra prie atsisiuntimų: </string>
 
     <string name="empty_hint">Nieko nėra&#8230;</string>
 
@@ -269,7 +269,7 @@
     <string name="none">Tuščia</string>
     <string name="action_log">Surašyti</string>
     <string name="check_permission">Leidimas negautas. Nustatyti nustatymuose?</string>
-    <string name="need_permission_hint">Via'i gali prireikti šių leidimų.\n\n</string>
+    <string name="need_permission_hint">Via\'i gali prireikti šių leidimų.\n\n</string>
     <string name="storage_permission">Vidinė atmintis: atsisiuntimams, žymių importavimui/eksportavimui ir t.t.\n\n</string>
     <string name="location_permission">Vietos prieiga: puslapiams kaip Google Maps.\n\n</string>
     <string name="phone_permission">Skambučiai: gauti jūsų neprivačią telefono informaciją, kad galėtumėme sukurti paprastus klaidų sąrašus be statistikas.\n\n</string>

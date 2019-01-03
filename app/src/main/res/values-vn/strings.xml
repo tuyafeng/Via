@@ -239,7 +239,7 @@
     <string name="action_save_web_page">Lưu trang web</string>
     <string name="action_saved_pages">Trang đã lưu</string>
     <string name="saved_page_successfully">Lưu trang thành công, nó nằm trong hộp công cụ: Trang đã lưu</string>
-    <string name="deleted_failed">"Xóa bỏ thất bại. Tập tin nằm trong đường dẫn tải về: "</string>
+    <string name="deleted_failed">Xóa bỏ thất bại. Tập tin nằm trong đường dẫn tải về: </string>
 
     <string name="empty_hint">Không có gì để hiển thị&#8230;</string>
 

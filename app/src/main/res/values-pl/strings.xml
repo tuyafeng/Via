@@ -248,7 +248,7 @@
     <string name="action_save_web_page">Zapisz stronę</string>
     <string name="action_saved_pages">Zapisane strony</string>
     <string name="saved_page_successfully">Strona została zapisana.</string>
-    <string name="deleted_failed">"Usunięcie nie powiodło się. Lokalizacja pliku: "</string>
+    <string name="deleted_failed">Usunięcie nie powiodło się. Lokalizacja pliku: </string>
 
     <string name="empty_hint">Pusto.</string>
 
@@ -413,7 +413,7 @@
     <string name="restore_tabs_hint_settings">Kiedy jesteś w trybie prywatnym, nie zostaną przywrócone żadne karty.</string>
     <string name="night_css_enabled">Włączono ciemny widok stron w trybie nocnym.</string>
     <string name="night_css_disabled">Wyłączono ciemny widok stron w trybie nocnym.</string>
-     <string name="local_storage">Lokalna pamięć masowa</string>
+   <string name="local_storage">Lokalna pamięć masowa</string>
     <string name="ignore_secondary_ssl_error">Ignoruj drugorzędny błąd SSL</string>
     <string name="powerful_cache">Hyper Cache</string>
     <string name="web_page_debug">Debugowanie stron</string>
