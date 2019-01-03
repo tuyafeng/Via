@@ -231,7 +231,7 @@
     <string name="action_save_web_page">Захаваць вэб-старонку</string>
     <string name="action_saved_pages">Захаваныя старонкі</string>
     <string name="saved_page_successfully">Старонка паспяхова захавана. Яе можна знайсці ў меню «Захаваныя старонкі»</string>
-    <string name="deleted_failed">"Памылка выдалення. Файл размешчаны: "</string>
+    <string name="deleted_failed">Памылка выдалення. Файл размешчаны: </string>
     <string name="empty_hint">Няма чаго паказваць&#8230;</string>
     <string name="network_log">Сеткавыя логі</string>
     <string name="catalog">Каталог</string>

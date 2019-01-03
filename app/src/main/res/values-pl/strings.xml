@@ -90,12 +90,12 @@
     <string name="google_url">Google</string>
     <string name="sougou_url">Sougou</string>
     <string name="block_ads">Blokowanie reklam</string>
-    <string name="message_untrusted_certificate">Certyfikat strony nie jest zaufany. Kontynuować mimo to?</string>
-    <string name="message_date_invalid_certificate">Data certyfikatu strony jest nieprawidłowa. Kontynuować mimo to?</string>
-    <string name="message_expired_certificate">Certyfikat strony wygasł. Kontynuować mimo to?</string>
-    <string name="message_hostname_mismatch_certificate">Nazwa hosta nie zgadza się z tą z certyfikatu strony. Kontynuować mimo to?</string>
-    <string name="message_invalid_certificate">Certyfikat strony jest nieprawidłowy. Kontynuować mimo to?</string>
-    <string name="message_not_yet_valid_certificate">Certyfikat strony nie jest jeszcze ważny. Kontynuować mimo to?</string>
+    <string name="message_untrusted_certificate">Certyfikat strony nie jest zaufany. Kontynuować?</string>
+    <string name="message_date_invalid_certificate">Data certyfikatu strony jest nieprawidłowa. Kontynuować?</string>
+    <string name="message_expired_certificate">Certyfikat strony wygasł. Kontynuować?</string>
+    <string name="message_hostname_mismatch_certificate">Nazwa hosta nie zgadza się z tą z certyfikatu strony. Kontynuować?</string>
+    <string name="message_invalid_certificate">Certyfikat strony jest nieprawidłowy. Kontynuować?</string>
+    <string name="message_not_yet_valid_certificate">Certyfikat strony nie jest jeszcze ważny. Kontynuować?</string>
     <string name="title_form_resubmission">Ponowne wysłanie danych</string>
     <string name="message_form_resubmission">Czy chcesz ponownie wysłać dane?</string>
     <string name="message_location">\n chce użyć Twojej lokalizacji</string>
@@ -106,8 +106,8 @@
     <string name="hint_password">Hasło</string>
     <string name="untitled">Bez tytułu</string>
     <string name="image_auto">Tylko w WiFi</string>
-    <string name="image_on">Zawsze wł.</string>
-    <string name="image_off">Zawsze wył.</string>
+    <string name="image_on">Zawsze wył.</string>
+    <string name="image_off">Zawsze wł.</string>
     <string name="title_file_chooser">Wybór pliku</string>
     <string name="import_backup">Importuj zakładki</string>
     <string name="bookmark_export_path">Zakładki zostały wyeksportowane do\n</string>
@@ -248,7 +248,7 @@
     <string name="action_save_web_page">Zapisz stronę</string>
     <string name="action_saved_pages">Zapisane strony</string>
     <string name="saved_page_successfully">Strona została zapisana.</string>
-    <string name="deleted_failed">"Usunięcie nie powiodło się. Lokalizacja pliku: "</string>
+    <string name="deleted_failed">Usunięcie nie powiodło się. Lokalizacja pliku: </string>
 
     <string name="empty_hint">Pusto.</string>
 
@@ -413,4 +413,9 @@
     <string name="restore_tabs_hint_settings">Kiedy jesteś w trybie prywatnym, nie zostaną przywrócone żadne karty.</string>
     <string name="night_css_enabled">Włączono ciemny widok stron w trybie nocnym.</string>
     <string name="night_css_disabled">Wyłączono ciemny widok stron w trybie nocnym.</string>
+   <string name="local_storage">Lokalna pamięć masowa</string>
+    <string name="ignore_secondary_ssl_error">Ignoruj drugorzędny błąd SSL</string>
+    <string name="powerful_cache">Hyper Cache</string>
+    <string name="web_page_debug">Debugowanie stron</string>
+    <string name="web_page_debug_info">Możesz teraz podłączyć urządzenie do komputera i debugować strony przez Chrome\'a (PC), używając adresu \"chrome://inspect\". Pamiętaj, aby przedtem włączyć Debugowanie USB (Ustawienia > Opcje programistyczne).</string>
 </resources>

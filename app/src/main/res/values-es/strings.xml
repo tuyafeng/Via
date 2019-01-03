@@ -230,7 +230,7 @@
     <string name="action_save_web_page">Guardar página web</string>
     <string name="action_saved_pages">Páginas guardadas</string>
     <string name="saved_page_successfully">Página guardada exitosamente, está en el menú de la página principal: Páginas guardadas</string>
-    <string name="deleted_failed">"Borrado fallido. Archivo localizado en la ruta de descarga: "</string>
+    <string name="deleted_failed">Borrado fallido. Archivo localizado en la ruta de descarga: </string>
     <string name="empty_hint">No hay nada&#8230;</string>
     <string name="network_log">Registro de conexión</string>
     <string name="catalog">Catálogo</string>

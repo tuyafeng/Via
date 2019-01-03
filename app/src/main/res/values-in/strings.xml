@@ -117,7 +117,7 @@
 	<string name="data_history">Riwayat</string>
 	<string name="data_storage">Penyimpanan Web</string>
 	<string name="default_set">Bawaan</string>
-	<string name="deleted_failed">\"Menghapus gagal. Berkas berlokasi di jalur unduhan: \"</string>
+	<string name="deleted_failed">Menghapus gagal. Berkas berlokasi di jalur unduhan: </string>
 	<string name="desc_back">kembali</string>
 	<string name="desc_close">Tutup</string>
 	<string name="desc_filedic">berkas</string>

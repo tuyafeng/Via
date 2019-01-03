@@ -230,7 +230,7 @@
     <string name="action_save_web_page">Зберегти сторінку</string>
     <string name="action_saved_pages">Архів сторінок</string>
     <string name="saved_page_successfully">Сторінка успішно збережена в архів!</string>
-    <string name="deleted_failed">"Помилка при видаленні. Спробуйте видалити файл вручну. Файл знаходиться:"</string>
+    <string name="deleted_failed">Помилка при видаленні. Спробуйте видалити файл вручну. Файл знаходиться: </string>
     <string name="empty_hint">Порожньо&#8230;</string>
     <string name="network_log">Мережевий журнал</string>
     <string name="catalog">Каталог</string>

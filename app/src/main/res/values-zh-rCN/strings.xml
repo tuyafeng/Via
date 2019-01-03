@@ -42,10 +42,10 @@
     <string name="agent_custom">自定义</string>
     <string name="title_search_engine">搜索引擎</string>
     <string name="action_ok">确认</string>
-    <string name="dialog_download">您是否需要下载此文件？</string>
+    <string name="dialog_download">你是否需要下载此文件？</string>
     <string name="action_cancel">取消</string>
     <string name="title_warning">警告</string>
-    <!--<string name="dialog_adobe_unsupported">Adobe Flash 无法正常支持 Android 4.2 以及更高版本并且可能导致浏览器崩溃，若您启用后出现浏览器崩溃的问题请勿对此问题进行反馈。</string>-->
+    <!--<string name="dialog_adobe_unsupported">Adobe Flash 无法正常支持 Android 4.2 以及更高版本并且可能导致浏览器崩溃，若你启用后出现浏览器崩溃的问题请勿对此问题进行反馈。</string>-->
     <string name="title_user_agent">浏览器标识</string>
     <string name="title_custom_homepage">自定义主页</string>
     <string name="action_webpage">网页</string>
@@ -92,7 +92,7 @@
     <string name="hint_username">用户名</string>
     <string name="hint_password">密码</string>
     <string name="untitled">无标题</string>
-    <string name="image_auto">智能无图</string>
+    <string name="image_auto">仅 Wi-Fi 有图</string>
     <string name="image_on">无图模式</string>
     <string name="image_off">有图模式</string>
     <string name="title_file_chooser">文件选择</string>
@@ -371,7 +371,7 @@
     <string name="custom_css_special">添加自定义 CSS</string>
     <string name="force_enable_zoom">强制缩放</string>
     <string name="set_ua_as">已设置当前浏览器标识为%s</string>
-    <string name="need_permission_to_install_pkg">您正在下载安装包文件, 请授予 via 安装应用的权限以确保您能安装所下载的文件.</string>
+    <string name="need_permission_to_install_pkg">你正在下载安装包文件, 请授予 via 安装应用的权限以确保你能安装所下载的文件.</string>
     <string name="check_install_permission">没有安装权限. 现在去设置吗?</string>
     <string name="import_data">导入数据</string>
     <string name="import_data_failed">导入数据失败!</string>
@@ -398,4 +398,11 @@
     <string name="powerful_cache">威力缓存</string>
     <string name="web_page_debug">允许调试网页</string>
     <string name="web_page_debug_info">现在你可以将手机连上电脑, 然后在 Chrome 电脑版上通过 \"chrome://inspect\" 来调试网页. 别忘了先开启设置中开发者选项里的 usb 调试.</string>
+    <string name="no_download_tasks">没有下载任务.</string>
+    <string name="action_delete_dl_task">删除任务</string>
+    <string name="action_re_download">重新下载</string>
+    <string name="action_copy_download_link">复制下载链接</string>
+    <string name="download_failed">下载失败</string>
+    <string name="view_downloads">查看</string>
+    <string name="message_delete_download">这会同时删除文件. 你确定吗?</string>
 </resources>
