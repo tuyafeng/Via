@@ -71,7 +71,7 @@
     <string name="action_incognito">Инкогнито</string>
     <string name="action_find">Поиск</string>
     <string name="download_pending">Начинается загрузка…</string>
-    <string name="cannot_download">Скачивать можно только по \"http\"- или \"https\"-ссылкам.</string>
+    <string name="cannot_download">Загрузка возможна только по \"http\"- или \"https\"-ссылкам.</string>
     <string name="download_no_sdcard_dlg_title">SD-карта отсутствует</string>
     <string name="download_no_sdcard_dlg_msg">Для загрузки этого файла необходим USB-накопитель</string>
     <string name="download_sdcard_busy_dlg_title">USB-накопитель недоступен!</string>
@@ -210,7 +210,7 @@
     <string name="settings_addons">Дополнения</string>
     <string name="addon_download">Менеджер загрузок</string>
     <string name="addon_qr_code_scan">Сканер QR-кодов</string>
-    <string name="install_addon">Скачать и установить эти дополнения? Они будут работать после установки.</string>
+    <string name="install_addon">Загрузить и установить эти дополнения? Они будут работать после установки.</string>
     <string name="quick_back">\"Назад\" без перезагрузки страницы</string>
     <string name="open_with">Открыть в…</string>
     <string name="download_completed">Загрузка завершена</string>
@@ -270,7 +270,7 @@
     <string name="action_log">Сетевой журнал</string>
     <string name="check_permission">Доступ запрещён. Разрешить его в настройках сейчас?</string>
     <string name="need_permission_hint">Via необходимы следующие разрешения для работы:\n\n</string>
-    <string name="storage_permission">Хранилище: для скачивания файлов из браузера, импорта/экспорта закладок и т.п.\n\n</string>
+    <string name="storage_permission">Хранилище: для загрузки файлов из браузера, импорта/экспорта закладок и т.п.\n\n</string>
     <string name="location_permission">Местоположение: для таких сайтов, как Карты Google. Оно отключено по умолчанию в настройках и отображается во всплывающем окне с просьбой использовать ваше местоположение, если разрешено.\n\n</string>
     <string name="phone_permission">Телефон: для сбора неконфиденциальной информации о вашем Android-устройстве, простой статистики и получения данных о сбоях в работе.\n\n</string>
     <string name="force_cancel">Принудительная отмена</string>
@@ -418,4 +418,11 @@
     <string name="powerful_cache">Эффективный кеш</string>
     <string name="web_page_debug">Отладка страниц</string>
     <string name="web_page_debug_info">Теперь вы можете подключить своё устройство к компьютеру и отладить страницу с помощью Chrome (ПК), используя \"chrome://inspect\". Не забудьте предварительно включить отладку по USB в меню \"Настройки\" > \"Для разработчиков\".</string>
+    <string name="no_download_tasks">Нет загрузок</string>
+    <string name="action_delete_dl_task">Удалить загрузку</string>
+    <string name="action_re_download">Повторная загрузка</string>
+    <string name="action_copy_download_link">Копировать ссылку загрузки</string>
+    <string name="download_failed">Ошибка при загрузке</string>
+    <string name="view_downloads">Просмотр</string>
+    <string name="message_delete_download">Также будет удалён связанный файл. Вы уверены?</string>
 </resources>
