@@ -352,6 +352,10 @@
     <string name="set_as_default">デフォルトのブラウザに設定しますか？</string>
     <string name="exit_incognito_title">シークレットブラウズを終了</string>
     <string name="exit_incognito_dialog">すべてのタブを閉じ、シークレットブラウズを終了しますか？</string>
+    <string name="file_size">ファイルサイズ</string>
+    <string name="update">アップデート</string>
+    <string name="update_msg">新しいバージョンが公開されています。アップデートしますか？</string>
+    <string name="ignore">無視する</string>
     <string name="action_preview">プレビュー</string>
     <string name="action_page_info">ページ情報</string>
     <string name="page_info_title">タイトル:</string>
@@ -391,4 +395,16 @@
     <string name="unblock_hint">ブロック解除済み: %s\n再読み込みして有効化します。</string>
     <string name="night_css_enabled">Webページはナイトモードで表示されています。</string>
     <string name="night_css_disabled">Webページはナイトモードで表示されていません。</string>
+    <string name="local_storage">ローカルストレージ</string>
+    <string name="ignore_secondary_ssl_error">セカンダリSSLエラーを無視する</string>
+    <string name="powerful_cache">ハイパーキャッシュ</string>
+    <string name="web_page_debug">Webページのデバッグを有効にする</string>
+    <string name="web_page_debug_info">開発者オプションにてUSBデバッグを有効にした状態でPCに接続し、PCのChromeで\"chrome://inspect\"を開いてください。</string>
+    <string name="no_download_tasks">ダウンロードタスクがありません</string>
+    <string name="action_delete_dl_task">タスクを削除する</string>
+    <string name="action_re_download">再ダウンロード</string>
+    <string name="action_copy_download_link">ダウンロードリンクをコピー</string>
+    <string name="download_failed">ダウンロード失敗</string>
+    <string name="view_downloads">開く</string>
+    <string name="message_delete_download">ダウンロード済みファイルが削除されます。よろしいですか？</string>
 </resources>
