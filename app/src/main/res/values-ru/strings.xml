@@ -161,7 +161,7 @@
     <string name="url_box_domain">Домен</string>
     <string name="url_box_url">Адрес</string>
     <string name="url_box_title">Заголовок</string>
-    <string name="action_pcview">Версия для ПК</string>
+    <string name="action_pcview">Полная версия</string>
     <string name="action_source">Исходный код</string>
     <string name="action_translate">Перевод</string>
     <string name="title_edit_folder">Редактирование папки</string>
@@ -424,5 +424,11 @@
     <string name="action_copy_download_link">Копировать ссылку загрузки</string>
     <string name="download_failed">Ошибка при загрузке</string>
     <string name="view_downloads">Просмотр</string>
-    <string name="message_delete_download">Также будет удалён связанный файл. Вы уверены?</string>
+    <string name="message_delete_download">Загруженный файл также будет удалён. Вы уверены?</string>
+    <string name="block_popup_message">Заблокированное всплывающее окно</string>
+    <string name="allow_popup">Разрешить сейчас</string>
+    <string name="system_download_manager">Системный менеджер загрузки</string>
+    <string name="action_play_with">Воспроизвести в…</string>
+    <string name="show_sniffer_btn_automatically">Автоматически показывать кнопку анализа</string>
+    <string name="open_file_failed">Не найдено соответствующее приложение для открытия файла</string>
 </resources>
