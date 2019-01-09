@@ -199,7 +199,7 @@
     <string name="addon_qr_code_scan">二维码扫描</string>
     <string name="install_addon">前往下载和安装插件? 插件会在安装后自动启用.</string>
     <string name="quick_back">返回不重载</string>
-    <string name="open_with">通过程序打开&#8230;</string>
+    <string name="open_with">通过应用打开&#8230;</string>
     <string name="download_completed">下载完成</string>
     <string name="toast_fullscreen_off">退出全屏模式</string>
     <string name="clear_data">清除数据</string>
@@ -405,4 +405,10 @@
     <string name="download_failed">下载失败</string>
     <string name="view_downloads">查看</string>
     <string name="message_delete_download">这会同时删除文件. 你确定吗?</string>
+    <string name="block_popup_message">已拦截弹出式窗口</string>
+    <string name="allow_popup">允许一次</string>
+    <string name="system_download_manager">系统下载器</string>
+    <string name="action_play_with">通过应用播放&#8230;</string>
+    <string name="show_sniffer_btn_automatically">自动展示嗅探按钮</string>
+    <string name="open_file_failed">找不到相关应用来打开文件</string>
 </resources>
