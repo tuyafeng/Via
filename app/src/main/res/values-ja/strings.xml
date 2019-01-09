@@ -228,7 +228,7 @@
     <string name="open_window_hint">新しいタブを開いています</string>
 
     <string name="action_save_web_page">ページを保存</string>
-    <string name="action_saved_pages">保存されたページ</string>
+    <string name="action_saved_pages">保存済みページ</string>
     <string name="saved_page_successfully">保存しました</string>
     <string name="deleted_failed">削除できませんでした。ダウンロードファイルのパス: </string>
 
@@ -347,11 +347,15 @@
     <string name="action_play_with_mxplayer">MXPlayerで再生</string>
     <string name="empty_username_info">ユーザー名を入力してください。</string>
     <string name="empty_password_info">パスワードを入力してください。</string>
-    <string name="offline_page_hint">以下は保存されたページです。インターネット接続が無くても閲覧可能です。</string>
+    <string name="offline_page_hint">以下は保存済みページです。インターネット接続が無くても閲覧可能です。</string>
     <string name="history_page_hint_when_incognito">シークレットモード中です。シークレットモードでは履歴は保存されません。</string>
     <string name="set_as_default">デフォルトのブラウザに設定しますか？</string>
     <string name="exit_incognito_title">シークレットブラウズを終了</string>
     <string name="exit_incognito_dialog">すべてのタブを閉じ、シークレットブラウズを終了しますか？</string>
+    <string name="file_size">ファイルサイズ</string>
+    <string name="update">アップデート</string>
+    <string name="update_msg">新しいバージョンが公開されています。アップデートしますか？</string>
+    <string name="ignore">無視する</string>
     <string name="action_preview">プレビュー</string>
     <string name="action_page_info">ページ情報</string>
     <string name="page_info_title">タイトル:</string>
@@ -391,4 +395,16 @@
     <string name="unblock_hint">ブロック解除済み: %s\n再読み込みして有効化します。</string>
     <string name="night_css_enabled">Webページはナイトモードで表示されています。</string>
     <string name="night_css_disabled">Webページはナイトモードで表示されていません。</string>
+    <string name="local_storage">ローカルストレージ</string>
+    <string name="ignore_secondary_ssl_error">セカンダリSSLエラーを無視する</string>
+    <string name="powerful_cache">ハイパーキャッシュ</string>
+    <string name="web_page_debug">Webページのデバッグを有効にする</string>
+    <string name="web_page_debug_info">開発者オプションにてUSBデバッグを有効にした状態でPCに接続し、PCのChromeで\"chrome://inspect\"を開いてください。</string>
+    <string name="no_download_tasks">ダウンロードタスクがありません</string>
+    <string name="action_delete_dl_task">ファイルを削除</string>
+    <string name="action_re_download">再ダウンロード</string>
+    <string name="action_copy_download_link">ダウンロードリンクをコピー</string>
+    <string name="download_failed">ダウンロード失敗</string>
+    <string name="view_downloads">開く</string>
+    <string name="message_delete_download">ダウンロード済みファイルが削除されます。よろしいですか？</string>
 </resources>

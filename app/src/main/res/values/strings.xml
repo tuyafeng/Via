@@ -178,7 +178,7 @@
     <string name="desc_other">other</string>
     <string name="msg_setgoogle">Set Google as a default search engine?</string>
     <string name="action_mark">Mark as Ad</string>
-    <string name="settings_block">AdBlock</string>
+    <string name="settings_block">Ad Block</string>
     <string name="dialog_confirm_block">Would you like to mark this as ad?</string>
     <string name="do_not_track">Do not Track</string>
     <string name="get_more_rules">Get More Rules</string>
@@ -411,18 +411,24 @@
     <string name="block_hint">Blocked: %s\nrefresh to take effect.</string>
     <string name="unblock_hint">Unblocked: %s\nrefresh to take effect.</string>
     <string name="restore_tabs_hint_settings">Tabs will not be restored when you are in \"Incognito Mode\".</string>
-    <string name="night_css_enabled">Enabled web dark mode in night mode.</string>
-    <string name="night_css_disabled">Disabled web dark mode in night mode.</string>
+    <string name="night_css_enabled">Enabled web dark mode in night mode</string>
+    <string name="night_css_disabled">Disabled web dark mode in night mode</string>
     <string name="local_storage">Local Storage</string>
     <string name="ignore_secondary_ssl_error">Ignore Secondary SSL Error</string>
     <string name="powerful_cache">Hyper Cache</string>
     <string name="web_page_debug">Enable Web Page Debugging</string>
     <string name="web_page_debug_info">Now You can connect your phone to computer, then debug web page with Chrome(PC) using \"chrome://inspect\". Remember to enable USB Debugging in Settings > Developer options first.</string>
-    <string name="no_download_tasks">No download task.</string>
+    <string name="no_download_tasks">No Downloads</string>
     <string name="action_delete_dl_task">Delete Task</string>
     <string name="action_re_download">Re-Download</string>
     <string name="action_copy_download_link">Copy Download Link</string>
-    <string name="download_failed">download failed</string>
+    <string name="download_failed">Download failed</string>
     <string name="view_downloads">View</string>
     <string name="message_delete_download">This will also delete related file. Are you sure?</string>
+    <string name="block_popup_message">Blocked pop-up window</string>
+    <string name="allow_popup">Allow once</string>
+    <string name="system_download_manager">System Download Manager</string>
+    <string name="action_play_with">Play with&#8230;</string>
+    <string name="show_sniffer_btn_automatically">Show Sniffer Button Automatically</string>
+    <string name="open_file_failed">Unable to find related app to open file</string>
 </resources>
