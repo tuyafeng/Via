@@ -417,5 +417,12 @@
     <string name="ignore_secondary_ssl_error">Ignoruj drugorzędny błąd SSL</string>
     <string name="powerful_cache">Hyper Cache</string>
     <string name="web_page_debug">Debugowanie stron</string>
-    <string name="web_page_debug_info">Możesz teraz podłączyć urządzenie do komputera i debugować strony przez Chrome\'a (PC), używając adresu \"chrome://inspect\". Pamiętaj, aby przedtem włączyć Debugowanie USB (Ustawienia > Opcje programistyczne).</string>
+    <string name="web_page_debug_info">Możesz podłączyć urządzenie do komputera i debugować strony przez Chrome\'a (PC), używając adresu \"chrome://inspect\". Pamiętaj, aby przedtem włączyć Debugowanie USB (Ustawienia > Opcje programistyczne).</string>
+    <string name="no_download_tasks">Pusto</string>
+    <string name="action_delete_dl_task">Usuń zadanie</string>
+    <string name="action_re_download">Pobierz ponownie</string>
+    <string name="action_copy_download_link">Skopiuj link</string>
+    <string name="download_failed">pobieranie nie powiodło się</string>
+    <string name="view_downloads">Pokaż</string>
+    <string name="message_delete_download">Pobrany plik również zostanie usunięty. Kontynuować?</string>
 </resources>
