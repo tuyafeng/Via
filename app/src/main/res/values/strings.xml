@@ -186,7 +186,7 @@
     <string name="hint_tags">Tags</string>
     <string name="clear_ad_rules">Clear All Ad Rules</string>
     <string name="color_mode">Color Mode</string>
-    <string name="dialog_sure">Are you sure to do this?</string>
+    <string name="dialog_sure">Are you sure you want to do this?</string>
     <string name="action_send_to_launcher">Send to the Launcher</string>
     <string name="settings_cloud">Account</string>
     <string name="user">Log in/Sign up</string>
