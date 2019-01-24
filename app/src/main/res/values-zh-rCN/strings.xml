@@ -411,4 +411,8 @@
     <string name="action_play_with">通过应用播放&#8230;</string>
     <string name="show_sniffer_btn_automatically">自动展示嗅探按钮</string>
     <string name="open_file_failed">找不到相关应用来打开文件</string>
+    <string name="cloud_data_server">云同步服务器</string>
+    <string name="chinese_server">国内</string>
+    <string name="global_server">全球</string>
+    <string name="server_message">服务器间的数据不同步, 切换后将需要重新登录.</string>
 </resources>

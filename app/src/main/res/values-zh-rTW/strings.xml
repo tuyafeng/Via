@@ -397,6 +397,34 @@
     <string name="ask_first">先詢問</string>
     <string name="disable_restore">停用還原</string>
     <string name="data_file">資料匯出</string>
-    <!--<string name="dialog_adobe_unsupported">Adobe Flash 無法正常支援 Android 4.2 以及更高版本並且可能導致瀏覽器損毀，若您啟用後出現瀏覽器損毀的問題請勿對此問題進行回饋。</string>-->
+    <string name="bookmarks_data_to_long">書籤資料達到了伺服器不能承受的重量, 將不會上傳, 但其他資料可以正常上傳。繼續上傳嗎？</string>
+    <string name="adblock_thanks">感謝 yhosts 項目！</string>
+    <string name="block_hint">攔截了：%s\n重新整理網頁後生效。</string>
+    <string name="unblock_hint">放行了：%s\n重新整理網頁生效。</string>
+    <string name="action_block_domain">攔截網域名稱</string>
+    <string name="action_unblock_domain">放行網域名稱</string>
+    <string name="action_unblock_url">放行連結</string>
+    <string name="action_block_url">攔截連結</string>
+    <string name="restore_tabs_hint_settings">開啟\"隱身模式\"時不會恢復未關閉的分頁。</string>
+    <string name="night_css_enabled">啟用了夜間模式網頁暗色支援。</string>
+    <string name="night_css_disabled">停用了夜間模式網頁暗色支援。</string>
+    <string name="local_storage">本機儲存</string>
+    <string name="ignore_secondary_ssl_error">忽略次要的 SSL 證書錯誤</string>
+    <string name="powerful_cache">混合快取</string>
+    <string name="web_page_debug">允許診斷網頁</string>
+    <string name="web_page_debug_info">現在你可以將手機連上電腦，然後在 Chrome 電腦版上透過 \"chrome://inspect\" 來診斷網頁。別忘了先開啟設定中開發人員選項裡的 usb 偵錯</string>
+    <string name="no_download_tasks">無下載工作。</string>
+    <string name="action_delete_dl_task">刪除工作</string>
+    <string name="action_re_download">重新下載</string>
+    <string name="action_copy_download_link">複製下載連結</string>
+    <string name="download_failed">下載失敗</string>
+    <string name="view_downloads">檢視</string>
+    <string name="message_delete_download">這會同時刪除檔案。您確定嗎？</string>
+    <string name="block_popup_message">已攔截彈出式視窗</string>
+    <string name="allow_popup">僅允許一次</string>
+    <string name="system_download_manager">系統下載器</string>
+    <string name="action_play_with">透過應用程式播放…</string>
+    <string name="show_sniffer_btn_automatically">自動顯示嗅探按鈕</string>
+    <string name="open_file_failed">無相關的應用程式來開啟檔案</string>
 
 </resources>

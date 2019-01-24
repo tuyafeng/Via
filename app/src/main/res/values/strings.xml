@@ -125,7 +125,7 @@
     <string name="toast_operation_done">The operation done</string>
     <string name="volume">Volume Keys to Scroll</string>
     <string name="intent">Allow Website to Open Your App</string>
-    <string name="msg_intent">Allow Website to open your app?</string>
+    <string name="msg_intent">Allow website to open your app?</string>
     <string name="dialog_adblock">Default Block: Use internal hosts.txt to block ads\n\nCustom Block: Use external hosts.txt, which will be downloaded if it doesn\'t exist.</string>
     <string name="dialog_adblock_default">Default Block</string>
     <string name="dialog_adblock_custom">Custom Block</string>
@@ -248,7 +248,7 @@
     <string name="action_save_web_page">Save Web Page</string>
     <string name="action_saved_pages">Saved Web Page</string>
     <string name="saved_page_successfully">Web page saved successfully. It is in the menu of homepage: Saved Web Page</string>
-    <string name="deleted_failed">Failed to Delete. The file located in download path: </string>
+    <string name="deleted_failed">Failed to delete. The file located in download path: </string>
 
     <string name="empty_hint">Nothing to show&#8230;</string>
 
@@ -270,7 +270,7 @@
     <string name="action_log">Network Log</string>
     <string name="check_permission">Permission denied. Set it in settings now?</string>
     <string name="need_permission_hint">Via needs the following permissions to work.\n\n</string>
-    <string name="storage_permission">Storage: for downloading files from the browser and importing/exporting bookmarks etc.\n\n</string>
+    <string name="storage_permission">Storage: for downloading files from the browser and importing/exporting bookmarks, etc.\n\n</string>
     <string name="location_permission">Location: for sites like Google Maps, it is disabled by default in settings and displays a pop-up asking if a site may use your location when it is enabled.\n\n</string>
     <string name="phone_permission">Phone: for getting your non-privacy Android device info to do simple statistics and collect error exception when FC.\n\n</string>
     <string name="force_cancel">Force close</string>
@@ -385,7 +385,7 @@
     <string name="page_info_url">Page URL:</string>
     <string name="page_info_link">Link URL:</string>
     <string name="no_network">Network connections are unavailable</string>
-    <string name="action_open_with">Open with related app</string>
+    <string name="action_open_with">Open with associated app</string>
     <string name="title_app_chooser">App chooser</string>
     <string name="sort_bookmarks_hint">Please drag and drop the icon of bookmark to sort list</string>
     <string name="clear_data_on_exit">Clear Data on Exit</string>
@@ -405,7 +405,7 @@
     <string name="always_restore">Always restore</string>
     <string name="ask_first">Ask first</string>
     <string name="disable_restore">Don\'t restore</string>
-    <string name="data_file">DataExport</string>
+    <string name="data_file">Data Export</string>
     <string name="bookmarks_data_to_long">Bookmarks data is too big to upload, but other data will be normally uploaded. Continue?</string>
     <string name="adblock_thanks">Thanks for yhosts project!</string>
     <string name="block_hint">Blocked: %s\nrefresh to take effect.</string>
@@ -420,15 +420,19 @@
     <string name="web_page_debug_info">Now You can connect your phone to computer, then debug web page with Chrome(PC) using \"chrome://inspect\". Remember to enable USB Debugging in Settings > Developer options first.</string>
     <string name="no_download_tasks">No Downloads</string>
     <string name="action_delete_dl_task">Delete Task</string>
-    <string name="action_re_download">Re-Download</string>
+    <string name="action_re_download">Re-download</string>
     <string name="action_copy_download_link">Copy Download Link</string>
     <string name="download_failed">Download failed</string>
     <string name="view_downloads">View</string>
-    <string name="message_delete_download">This will also delete related file. Are you sure?</string>
+    <string name="message_delete_download">Downloaded file will also be deleted. Are you sure?</string>
     <string name="block_popup_message">Blocked pop-up window</string>
     <string name="allow_popup">Allow once</string>
     <string name="system_download_manager">System Download Manager</string>
     <string name="action_play_with">Play with&#8230;</string>
     <string name="show_sniffer_btn_automatically">Show Sniffer Button Automatically</string>
-    <string name="open_file_failed">Unable to find related app to open file</string>
+    <string name="open_file_failed">Unable to find associated app to open file</string>
+    <string name="cloud_data_server">Cloud Data Server</string>
+    <string name="chinese_server">Chinese</string>
+    <string name="global_server">Global</string>
+    <string name="server_message">All the data of these server are not synchronized. You will be required to log in again.</string>
 </resources>
