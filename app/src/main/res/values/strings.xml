@@ -431,4 +431,8 @@
     <string name="action_play_with">Play with&#8230;</string>
     <string name="show_sniffer_btn_automatically">Show Sniffer Button Automatically</string>
     <string name="open_file_failed">Unable to find associated app to open file</string>
+    <string name="cloud_data_server">Cloud Data Server</string>
+    <string name="chinese_server">Chinese</string>
+    <string name="global_server">Global</string>
+    <string name="server_message">All the data of these server are not synchronized. You will be required to log in again.</string>
 </resources>
