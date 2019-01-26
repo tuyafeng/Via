@@ -24,7 +24,7 @@
     <string name="settings">Настройки</string>
     <string name="location">Сообщать местоположение</string>
     <string name="password">Сохранять пароли</string>
-    <string name="donate">Пожертвовать</string>
+    <string name="donate">Пожертвование</string>
     <string name="donate_details">Если вам нравится приложение, можете сделать пожертвование:\nAlipay: 2376688759@qq.com\nPayPal: wiar1824@gmail.com</string>
     <string name="orientation">Ориентация экрана</string>
     <string name="orientation_system">Системная</string>
@@ -105,7 +105,7 @@
     <string name="hint_username">Имя</string>
     <string name="hint_password">Пароль</string>
     <string name="untitled">Без названия</string>
-    <string name="image_auto">Графика: по Wi-Fi</string>
+    <string name="image_auto">Графика: WiFi</string>
     <string name="image_on">Графика: нет</string>
     <string name="image_off">Графика: да</string>
     <string name="title_file_chooser">Выбор файла</string>
@@ -132,9 +132,9 @@
     <string name="dialog_adblock_download">Список будет выбран автоматически после загрузки.\n\nПуть:</string>
     <string name="dialog_adblock_custom_hint">\nПожалуйста, не меняйте имя и путь файла. Вы можете редактировать этот файл для создания своих правил.</string>
     <string name="setting_default">Сделать браузером по умолчанию</string>
-    <string name="toast_clear_defaults">Стереть умолчания</string>
-    <string name="toast_copy_url_successful">Адрес успешно скопирован</string>
-    <string name="toast_copy_text_successful">Текст успешно скопирован</string>
+    <string name="toast_clear_defaults">Установлены значения по умолчанию</string>
+    <string name="toast_copy_url_successful">Адрес скопирован</string>
+    <string name="toast_copy_text_successful">Текст скопирован</string>
     <string name="incognito_on">Режим \"инкогнито\" включён</string>
     <string name="incognito_off">Режим \"инкогнито\" отключён</string>
     <string name="operation_none">Нет</string>
@@ -217,7 +217,7 @@
     <string name="toast_fullscreen_off">Выход из полноэкранного режима</string>
 
     <string name="clear_data">Очистить данные</string>
-    <string name="data_cache">Кеш</string>
+    <string name="data_cache">Кэш</string>
     <string name="data_form_data">Данные форм</string>
     <string name="data_history">История</string>
     <string name="data_storage">Web-хранилище</string>
@@ -259,7 +259,7 @@
 
     <string name="conn_timeout">Истекло время ожидания подключения</string>
 
-    <string name="already_default">Via уже установлен по умолчанию</string>
+    <string name="already_default">Via уже установлен браузером по умолчанию</string>
 
     <string name="set_to_default">Via будет установлен браузером по умолчанию после использования его для открытия ссылки (%s). Пожалуйста, выберите Via для её открытия.</string>
 
@@ -272,7 +272,7 @@
     <string name="need_permission_hint">Via необходимы следующие разрешения для работы:\n\n</string>
     <string name="storage_permission">Хранилище: для загрузки файлов из браузера, импорта/экспорта закладок и т.п.\n\n</string>
     <string name="location_permission">Местоположение: для таких сайтов, как Карты Google. Оно отключено по умолчанию в настройках и отображается во всплывающем окне с просьбой использовать ваше местоположение, если разрешено.\n\n</string>
-    <string name="phone_permission">Телефон: для сбора неконфиденциальной информации о вашем Android-устройстве, простой статистики и получения данных о сбоях в работе.\n\n</string>
+    <string name="phone_permission">Телефон: для получения неконфиденциальной информации о вашем Android-устройстве, простой статистики и данных о сбоях в работе.\n\n</string>
     <string name="force_cancel">Принудительная отмена</string>
     <string name="restore_tabs_hint">Восстановить незакрытые в прошлый раз вкладки?</string>
     <string name="restore_tabs">Восстанавливать вкладки при запуске</string>
@@ -304,8 +304,8 @@
     <string name="install">Установить</string>
     <string name="crash_hint">Простите за сбой</string>
     <string name="upload_hint">Очень жаль, но произошёл сбой. Вы можете отправить отчёт об ошибке, чтобы помочь нам его устранить. Отправить отчёт?</string>
-    <string name="glean">Цитата</string>
-    <string name="contact_us">Связаться с нами</string>
+    <string name="glean">Девиз</string>
+    <string name="contact_us">Обратная связь</string>
     <string name="official_website">Официальный сайт</string>
     <string name="current_language">Текущий язык</string>
     <string name="download_manager">Загрузки</string>
@@ -315,7 +315,7 @@
     <string name="find_next">Следующее</string>
     <string name="find_pre">Предыдущее</string>
     <string name="action_open_in_background">Открыть в фоне</string>
-    <string name="cannot_work">Работает только с \"http\"- или \"https\"-ссылками.</string>
+    <string name="cannot_work">Только для http- или https-ссылкок.</string>
     <string name="action_fullscreen">Полный экран</string>
     <string name="action_ua">User Agent</string>
     <string name="settings_general">Основные</string>
@@ -339,7 +339,7 @@
     <string name="sort_hint">Сортировка удерживанием и перетаскиванием</string>
     <string name="action_sort_bookmarks">Сортировка закладок</string>
     <string name="desc_close">Закрыть</string>
-    <string name="clear_cache_on_exit">Очистить кеш при выходе</string>
+    <string name="clear_cache_on_exit">Очистить кэш при выходе</string>
     <string name="action_close_all_tabs">Закрыть все вкладки</string>
     <string name="skin_hide_search_part">Скрыть панель поиска</string>
     <string name="action_more">Ещё</string>
@@ -372,7 +372,7 @@
     <string name="res_log_hint">Нажмите для просмотра, удерживайте для загрузки или других действий</string>
     <string name="no_resource">Ресурсы отсутствуют</string>
     <string name="no_network_log">Сетевой журнал отсутствует</string>
-    <string name="resource_sniffer_hint">\nАнализ упрощается при воспроизведении музыки или видео. P.S.: функционирование возможно не на всех сайтах.</string>
+    <string name="resource_sniffer_hint">Анализ упрощается при воспроизведении музыки или видео.\nP.S.: функционирование возможно не на всех сайтах.</string>
     <string name="action_download">Загрузки</string>
     <string name="action_play_with_mxplayer">Воспроизвести в MX Player</string>
     <string name="empty_username_info">Введите имя пользователя</string>
@@ -415,9 +415,9 @@
     <string name="night_css_disabled">Отключён тёмный вид страниц в ночном режиме</string>
     <string name="local_storage">Локальное хранилище</string>
     <string name="ignore_secondary_ssl_error">Игнорировать вторичную ошибку SSL</string>
-    <string name="powerful_cache">Эффективный кеш</string>
+    <string name="powerful_cache">Эффективный кэш</string>
     <string name="web_page_debug">Отладка страниц</string>
-    <string name="web_page_debug_info">Теперь вы можете подключить своё устройство к компьютеру и отладить страницу с помощью Chrome (ПК), используя \"chrome://inspect\". Не забудьте предварительно включить отладку по USB в меню \"Настройки\" > \"Для разработчиков\".</string>
+    <string name="web_page_debug_info">Теперь вы можете подключить своё устройство к компьютеру и отладить страницу с помощью Chrome (ПК), используя \"chrome://inspect\". Не забудьте предварительно включить отладку по USB в меню \"Настройки\" → \"Для разработчиков\".</string>
     <string name="no_download_tasks">Нет загрузок</string>
     <string name="action_delete_dl_task">Удалить загрузку</string>
     <string name="action_re_download">Повторная загрузка</string>
@@ -430,5 +430,9 @@
     <string name="system_download_manager">Системный менеджер загрузки</string>
     <string name="action_play_with">Воспроизвести в…</string>
     <string name="show_sniffer_btn_automatically">Автоматически показывать кнопку анализа</string>
-    <string name="open_file_failed">Не найдено соответствующее приложение для открытия файла</string>
+    <string name="open_file_failed">Не найдено соответствующее приложение для открытия данного файла</string>
+    <string name="cloud_data_server">Облачный сервер данных</string>
+    <string name="chinese_server">Китайский</string>
+    <string name="global_server">Всемирный</string>
+    <string name="server_message">Все данные этого сервера не синхронизированы. Вам потребуется снова войти в систему.</string>
 </resources>
