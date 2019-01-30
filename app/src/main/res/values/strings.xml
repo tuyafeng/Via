@@ -434,5 +434,5 @@
     <string name="cloud_data_server">Cloud Data Server</string>
     <string name="chinese_server">Chinese</string>
     <string name="global_server">Global</string>
-    <string name="server_message">All the data of these server are not synchronized. You will be required to log in again.</string>
+    <string name="server_message">The data of these servers are not synchronized. You will be required to log in again.</string>
 </resources>
