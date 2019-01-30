@@ -431,4 +431,8 @@
     <string name="action_play_with">Odtwórz w&#8230;</string>
     <string name="show_sniffer_btn_automatically">Pokazuj przycisk wykrywacza automatycznie</string>
     <string name="open_file_failed">Nie znaleziono aplikacji mogącej otworzyć ten plik</string>
+    <string name="cloud_data_server">Serwer chmury danych</string>
+    <string name="chinese_server">Chiński</string>
+    <string name="global_server">Globalny</string>
+    <string name="server_message">Dane serwerów nie są zsynchronizowane. Konieczne będzie ponowne zalogowanie się.</string>
 </resources>
