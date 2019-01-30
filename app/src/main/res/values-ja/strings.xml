@@ -407,4 +407,14 @@
     <string name="download_failed">ダウンロード失敗</string>
     <string name="view_downloads">開く</string>
     <string name="message_delete_download">ダウンロード済みファイルが削除されます。よろしいですか？</string>
+    <string name="block_popup_message">ポップアップをブロックしました</string>
+    <string name="allow_popup">今回のみ許可</string>
+    <string name="system_download_manager">システムダウンロードマネージャー</string>
+    <string name="action_play_with">&#8230;で再生する</string>
+    <string name="show_sniffer_btn_automatically">スニファーボタンを自動的に表示する</string>
+    <string name="open_file_failed">このファイルを開くためのアプリがありません</string>
+    <string name="cloud_data_server">クラウドデータサーバー</string>
+    <string name="chinese_server">中国</string>
+    <string name="global_server">グローバル</string>
+    <string name="server_message">このサーバーではデータの同期はされていません。再度ログインする必要があります。</string>
 </resources>
