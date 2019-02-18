@@ -419,7 +419,7 @@
     <string name="action_copy_download_link">複製下載連結</string>
     <string name="download_failed">下載失敗</string>
     <string name="view_downloads">檢視</string>
-    <string name="message_delete_download">這會同時刪除檔案。您確定嗎？</string>
+    <string name="message_delete_downloading_task">這會同時刪除檔案。您確定嗎？</string>
     <string name="block_popup_message">已攔截彈出式視窗</string>
     <string name="allow_popup">僅允許一次</string>
     <string name="system_download_manager">系統下載器</string>

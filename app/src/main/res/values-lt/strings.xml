@@ -25,7 +25,7 @@
     <string name="location">Vietos prieiga</string>
     <string name="password">Išsaugoti slaptažodžius</string>
     <string name="donate">Aukoti</string>
-    <string name="donate_details">Jeigu jums patinka Via naršyklė, galite mums paaukokite.\nAlipay: 2376688759@qq.com\nPayPal: wiar1824@gmail.com</string>
+    <string name="donate_details">Jeigu jums patinka Via naršyklė, galite mus paremti \nAlipay: 2376688759@qq.com\nPayPal: wiar1824@gmail.com</string>
     <string name="orientation">Ekrano pozicija</string>
     <string name="orientation_system">Sistemos</string>
     <string name="orientation_auto">Automatinė</string>
@@ -129,12 +129,12 @@
     <string name="dialog_adblock">Pagrindinis blokavimas: naudoti jūsų įrenginyje esantį hosts.txt reklamų blokavimui \n\nPasirinktinis blokavimas: naudoti kitokį hosts.txt, failas bus atsiųstas jeigu jis neegzistuoja.</string>
     <string name="dialog_adblock_default">Pagrindinis blokavimas</string>
     <string name="dialog_adblock_custom">Pasirinktinis blokavimas</string>
-    <string name="dialog_adblock_download">Atsisiuntus jis bus automotiškai pasirinktas.\n\nVieta:</string>
+    <string name="dialog_adblock_download">Atsisiuntus jis bus pasirinktas automatiškai.\n\nVieta:</string>
     <string name="dialog_adblock_custom_hint">\nPrašome nekeisti failo vietos ar pavadinimo. Jūs galite redaguoti šį failą norėdami sukurti savo blokavimo sąrašą.</string>
     <string name="setting_default">Nustatyti kaip pagrindinę naršyklę</string>
     <string name="toast_clear_defaults">Prašome išvalyti pagrindines programėles</string>
-    <string name="toast_copy_url_successful">Nuoroda nukopijuota</string>
-    <string name="toast_copy_text_successful">Tekstas nukopijuotas</string>
+    <string name="toast_copy_url_successful">Nukopijuota</string>
+    <string name="toast_copy_text_successful">Nukopijuota</string>
     <string name="incognito_on">Inkognito įjungtas</string>
     <string name="incognito_off">Inkognito išjungtas</string>
     <string name="operation_none">Beprasmis</string>
@@ -248,7 +248,7 @@
     <string name="action_save_web_page">Išsaugoti šį puslapį</string>
     <string name="action_saved_pages">Išsaugoti puslapiai</string>
     <string name="saved_page_successfully">Puslapis išsaugotas sėkmingai, jį galite rasti meniu: Išsaugoti puslapiai</string>
-    <string name="deleted_failed">Ištrynimas nesėkmingas. Failas yra prie atsisiuntimų: </string>
+    <string name="deleted_failed">Ištrynimas nesėkmingas. Failas yra prie atsisiuntimų:</string>
 
     <string name="empty_hint">Nieko nėra&#8230;</string>
 
@@ -269,10 +269,10 @@
     <string name="none">Tuščia</string>
     <string name="action_log">Surašyti</string>
     <string name="check_permission">Leidimas negautas. Nustatyti nustatymuose?</string>
-    <string name="need_permission_hint">Via\'i gali prireikti šių leidimų.\n\n</string>
+    <string name="need_permission_hint">Via\'i gali prireikti šių leidimų:\n\n</string>
     <string name="storage_permission">Vidinė atmintis: atsisiuntimams, žymių importavimui/eksportavimui ir t.t.\n\n</string>
-    <string name="location_permission">Vietos prieiga: puslapiams kaip Google Maps.\n\n</string>
-    <string name="phone_permission">Skambučiai: gauti jūsų neprivačią telefono informaciją, kad galėtumėme sukurti paprastus klaidų sąrašus be statistikas.\n\n</string>
+    <string name="location_permission">Vietos prieiga: puslapiams kaip Google Maps\n\n</string>
+    <string name="phone_permission">Skambučiai: gauti jūsų neprivačią telefono informaciją, kad galėtumėme sukurti paprastus klaidų sąrašus be statistikas\n\n</string>
     <string name="force_cancel">Priverstinai uždaryti</string>
     <string name="restore_tabs_hint">Grąžinti neuždarytus skirtukus iš praėjusios naršymo sesijos?</string>
     <string name="restore_tabs">Automatiškai grąžinti neuždarytus skirtukus iš praėjusios naršymo sesijos</string>
@@ -370,7 +370,7 @@
     <string name="search_by_pic">Ieškoti paveikslėliu</string>
     <string name="resource_sniffer">Media atsisiuntimas</string>
     <string name="res_log_hint">Paspauskite daiktą, kad jį peržiūrėtumėte, ilgai paspauskite daiktą, kad jį atsisiųstumėte ar dar ką padarytumėte</string>
-    <string name="no_resource">Šiame puslapyje nesuradome media failų.</string>
+    <string name="no_resource">Šiame puslapyje nesuradome media failų</string>
     <string name="no_network_log">Puslapis neturi ryšio sąrašų</string>
     <string name="resource_sniffer_hint">\nSurasti media failus yra daug leingviau, kai jie yra paleisti. Kai kuriose svetainėse media failų atsisiųsti neįmanoma.</string>
     <string name="action_download">Atsisiuntimai</string>
@@ -418,4 +418,21 @@
     <string name="powerful_cache">Hyper saugykla</string>
     <string name="web_page_debug">Įjungti puslapių derinimą</string>
     <string name="web_page_debug_info">Galite prijungti savo įrenginį prie kompiuterio ir derinti su Chrome naudojant \"chrome://inspect\". Nepamirškite įjungti USB derinimo Nustatymai > Kūrėjo nustatymai.</string>
+    <string name="no_download_tasks">Atsisiuntimų nėra</string>
+    <string name="action_delete_dl_task">Ištrinti</string>
+    <string name="action_re_download">Atsisiųsti dar kartą</string>
+    <string name="action_copy_download_link">Kopijuoti Atsisiuntimo adresą</string>
+    <string name="download_failed">Atsisiuntimas nesėkmingas</string>
+    <string name="view_downloads">Žiūrėti</string>
+    <string name="message_delete_downloading_task">Ar tikrai norite ištinti?</string>
+    <string name="block_popup_message">Iššokantis langas užblokuotas</string>
+    <string name="allow_popup">Atidaryti</string>
+    <string name="system_download_manager">Sistemos Atsisiuntimų Valdytojas</string>
+    <string name="action_play_with">Paleisti naudojant&#8230;</string>
+    <string name="show_sniffer_btn_automatically">Automatiškai rodyti media atsisiuntimo mygtuką</string>
+    <string name="open_file_failed">Programėlė nesurasta</string>
+    <string name="cloud_data_server">Debesų serveris</string>
+    <string name="chinese_server">Kinijos</string>
+    <string name="global_server">Pasaulio</string>
+    <string name="server_message">Šių serverių duomenys nesinchronizuoti. Jums gali prireikti prisijungti iš naujo.</string>
     </resources>

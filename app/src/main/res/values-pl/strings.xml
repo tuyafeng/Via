@@ -34,8 +34,8 @@
     <string name="agent">User Agent</string>
     <string name="home">Strona domowa</string>
     <string name="fullscreen">Ukrywanie paska narzędziowego</string>
-    <string name="java">Obsługa skryptów JavaScript</string>
-    <string name="download">Miejsce pobierania plików</string>
+    <string name="java">Obsługa JavaScript</string>
+    <string name="download">Miejsce pobierania</string>
     <string name="size">Rozmiar tekstu</string>
     <string name="search">Wyszukiwarka</string>
     <string name="search_hint">Szukaj</string>
@@ -228,7 +228,7 @@
 
     <string name="sync_desc">Jeśli konto nie istnieje, zostanie utworzone.</string>
 
-    <string name="settings_skin">Personalizuj ekran startowy</string>
+    <string name="settings_skin">Ekran startowy</string>
     <string name="default_set">Dom.</string>
     <string name="custom_css">Własny plik CSS</string>
     <string name="num_of_bookmarks_in_home">Liczba zakładek na ekranie startowym</string>
@@ -284,7 +284,7 @@
     <string name="fullscreen_1">Przewiń, aby schować / pokazać</string>
     <string name="fullscreen_2">Kliknij, aby schować / pokazać</string>
     <string name="settings_script">Skrypty</string>
-    <string name="get_more_script">Więcej skryptów</string>
+    <string name="get_more_script">Pobierz skrypty</string>
     <string name="add_script">Dodaj skrypt</string>
     <string name="script_url">Domena albo * (* - wszystko)</string>
     <string name="script_code">Kod (JavaScript)</string>
@@ -303,10 +303,10 @@
     <string name="missing_webview">Systemowy moduł WebView nie jest (poprawnie) zainstalowany. Czy chcesz go teraz zainstalować (ponownie)?</string>
     <string name="install">Instaluj</string>
     <string name="crash_hint">Przepraszamy za incydent.</string>
-    <string name="upload_hint">Przepraszamy za niniejszy incydent. Możesz przesłać do nas raport, abyśmy mogli to naprawić. Zrobić to teraz?</string>
+    <string name="upload_hint">Przepraszamy za incydent. Czy chcesz przesłać raport, abyśmy mogli to naprawić?</string>
     <string name="glean">Via Browser</string>
     <string name="contact_us">Skontaktuj się z nami</string>
-    <string name="official_website">Oficjalna strona internetowa</string>
+    <string name="official_website">Oficjalna strona</string>
     <string name="current_language">Obecny język</string>
     <string name="download_manager">Menedżer pobierania</string>
     <string name="background_opacity">Przezroczystość tła</string>
@@ -315,7 +315,7 @@
     <string name="find_next">Następny</string>
     <string name="find_pre">Poprzedni</string>
     <string name="action_open_in_background">Otwórz w tle</string>
-    <string name="cannot_work">Funkcja działa tylko dla adresów \"http\" i \"https\".</string>
+    <string name="cannot_work">Funkcja działa tylko dla \"http\" i \"https\".</string>
     <string name="action_fullscreen">Pełny ekran</string>
     <string name="action_ua">User Agent</string>
     <string name="settings_general">Ogólne</string>
@@ -324,12 +324,12 @@
     <string name="what_is_next">Co chcesz zrobić?</string>
     <string name="import_">Importuj</string>
     <string name="export_">Eksportuj</string>
-    <string name="pull_to_refresh_gesture">Gest pociągnięcia, aby odświeżyć stronę</string>
-    <string name="back_forward_gesture">Gest przechodzenia wstecz / dalej</string>
+    <string name="pull_to_refresh_gesture">Pociągnięcie w celu odświeżenia strony</string>
+    <string name="back_forward_gesture">Przechodzenia wstecz / dalej</string>
     <string name="toolbar_settings_hint">Kliknij (przeciągnij) poniższe przyciski, aby ustawić działanie po ich przytrzymaniu (przeciągnięciu). Przytrzymaj, aby zobaczyć ich obecne ustawienie.</string>
     <string name="action_modify">Modyfikuj</string>
     <string name="operation_hint">Operacje, gesty, itp.</string>
-    <string name="empty_ads_mark_hint">Brak elementów oznaczonych jako reklamy. \nNaciśnij element na stronie i wybierz opcję \"Oznacz jako reklamę\", aby go zablokować. \nMożesz też nacisnąć przycisk \"+\" na górze, aby dodać go ręcznie, lub poniższy przycisk, aby pobrać gotowe reguły z sieci.</string>
+    <string name="empty_ads_mark_hint">Brak elementów oznaczonych jako reklamy. \nNaciśnij element na stronie i wybierz opcję \"Oznacz jako reklamę\", aby go zablokować. \nMożesz też nacisnąć przycisk \"+\" na górze, aby dodać go ręcznie, lub poniższy przycisk, aby pobrać gotowe reguły.</string>
     <string name="empty_script_hint">Brak skryptów.</string>
     <string name="adblock_info">Zablokowane reklamy: %1$d, zaoszczędzony transfer: %2$s.</string>
     <string name="disable">Wyłączone</string>
@@ -373,7 +373,7 @@
     <string name="no_resource">Nie wykryto zasobów na tej stronie.</string>
     <string name="no_network_log">Strona ta nie ma dziennika sieci.</string>
     <string name="resource_sniffer_hint">\nOdtwórz w niej jakiś film lub muzykę. Wykrywacz na pewnych stronach nie działa.</string>
-    <string name="action_download">Pobrane pliki</string>
+    <string name="action_download">Pobrane</string>
     <string name="action_play_with_mxplayer">Odtw. w MXPlayerze</string>
     <string name="empty_username_info">Wprowadź nazwę użytkownika</string>
     <string name="empty_password_info">Wprowadź hasło</string>
@@ -424,11 +424,15 @@
     <string name="action_copy_download_link">Skopiuj link</string>
     <string name="download_failed">pobieranie nie powiodło się</string>
     <string name="view_downloads">Pokaż</string>
-    <string name="message_delete_download">Pobrany plik również zostanie usunięty. Kontynuować?</string>
+    <string name="message_delete_downloading_task">Pobrany plik również zostanie usunięty. Kontynuować?</string>
     <string name="block_popup_message">Zablokowano wyskakujące okno</string>
     <string name="allow_popup">Zezwól tym razem</string>
     <string name="system_download_manager">Systemowy menedżer pobierania</string>
     <string name="action_play_with">Odtwórz w&#8230;</string>
     <string name="show_sniffer_btn_automatically">Pokazuj przycisk wykrywacza automatycznie</string>
     <string name="open_file_failed">Nie znaleziono aplikacji mogącej otworzyć ten plik</string>
+    <string name="cloud_data_server">Serwer chmury danych</string>
+    <string name="chinese_server">Chiński</string>
+    <string name="global_server">Globalny</string>
+    <string name="server_message">Dane serwerów nie są zsynchronizowane. Konieczne będzie ponowne zalogowanie się.</string>
 </resources>
