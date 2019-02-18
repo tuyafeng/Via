@@ -70,8 +70,8 @@
     <string name="action_edit">Редактировать</string>
     <string name="action_incognito">Инкогнито</string>
     <string name="action_find">Поиск</string>
-    <string name="download_pending">Начинается загрузка…</string>
-    <string name="cannot_download">Загрузка возможна только по \"http\"- или \"https\"-ссылкам.</string>
+    <string name="download_pending">Загрузка…</string>
+    <string name="cannot_download">Загрузка возможна только по \"http\"- или \"https\"-ссылкам</string>
     <string name="download_no_sdcard_dlg_title">SD-карта отсутствует</string>
     <string name="download_no_sdcard_dlg_msg">Для загрузки этого файла необходим USB-накопитель</string>
     <string name="download_sdcard_busy_dlg_title">USB-накопитель недоступен!</string>
@@ -105,13 +105,13 @@
     <string name="hint_username">Имя</string>
     <string name="hint_password">Пароль</string>
     <string name="untitled">Без названия</string>
-    <string name="image_auto">Графика: WiFi</string>
+    <string name="image_auto">Графика: Wi-Fi</string>
     <string name="image_on">Графика: нет</string>
     <string name="image_off">Графика: да</string>
     <string name="title_file_chooser">Выбор файла</string>
     <string name="import_backup">Восстановление закладок из копии</string>
     <string name="bookmark_export_path">Резервная копия сохранена в\n</string>
-    <string name="import_bookmark_error">Ошибка при импортировании закладок из файла!</string>
+    <string name="import_bookmark_error">Ошибка при импортировании закладок из файла</string>
     <string name="feedback">Отправить отзыв</string>
     <string name="message_add_bookmark">Успешно добавлено в закладки</string>
     <string name="message_exit">Нажмите ещё раз, чтобы выйти</string>
@@ -263,7 +263,7 @@
 
     <string name="set_to_default">Via будет установлен браузером по умолчанию после использования его для открытия ссылки (%s). Пожалуйста, выберите Via для её открытия.</string>
 
-    <string name="quick_back_desc">Могут возникнуть проблемы совместимости при включении этого переключателя. Вам следует отключить его, если функция работает нестабильно.</string>
+    <string name="quick_back_desc">Могут возникнуть проблемы совместимости при включении данной функции. Отключите, если возвращение не работает.</string>
     <string name="sync_prompt">Будут перезаписаны текущие локальные закладки и настройки. Продолжить?</string>
     <string name="upload_prompt">Будут отправлены текущие локальные закладки и настройки. Продолжить?</string>
     <string name="none">Нет</string>
@@ -315,7 +315,7 @@
     <string name="find_next">Следующее</string>
     <string name="find_pre">Предыдущее</string>
     <string name="action_open_in_background">Открыть в фоне</string>
-    <string name="cannot_work">Только для http- или https-ссылкок.</string>
+    <string name="cannot_work">Только для http- или https-ссылкок</string>
     <string name="action_fullscreen">Полный экран</string>
     <string name="action_ua">User Agent</string>
     <string name="settings_general">Основные</string>
@@ -330,7 +330,7 @@
     <string name="action_modify">Редактировать</string>
     <string name="operation_hint">Управление жестами, кнопками и т.д.</string>
     <string name="empty_ads_mark_hint">Правила блокировки рекламы отсутствуют.\nВы можете удерживать рекламное объявление на сайте и выбрать \"Пометить как рекламу\" для его блокировки.</string>
-    <string name="empty_script_hint">Скрипты отсутствуют.\nВы можете нажать кнопку [+] для добавления.\nИли можете просто нажать кнопку ниже.</string>
+    <string name="empty_script_hint">Скрипты отсутствуют.\nМожно нажать [+] для добавления скрипта или просто нажать кнопку ниже</string>
     <string name="adblock_info">%1$d рекламных объявлений заблокировано, %2$s сохранено</string>
     <string name="disable">Отключить</string>
     <string name="ui_traditional">Традиционный</string>
@@ -358,7 +358,7 @@
     <string name="import_rule">Импортировать правило блокировки рекламы %1$s из буфера обмена?</string>
     <string name="share_url">Это приватная ссылка, скопируйте данное сообщение и откройте ссылку в Via для её просмотра. viaurl{%1$s}</string>
     <string name="import_url">Открыть ссылку из буфера обмена?\nСсылка: %1$s</string>
-    <string name="import_successful">Успешное импортирование</string>
+    <string name="import_successful">Успешно импортировано</string>
     <string name="all_sites">все сайты</string>
     <string name="easter_egg">Пасхальное яйцо (реклама)</string>
     <string name="action_click_to_view">Нажмите для просмотра</string>
@@ -372,13 +372,13 @@
     <string name="res_log_hint">Нажмите для просмотра, удерживайте для загрузки или других действий</string>
     <string name="no_resource">Ресурсы отсутствуют</string>
     <string name="no_network_log">Сетевой журнал отсутствует</string>
-    <string name="resource_sniffer_hint">Анализ упрощается при воспроизведении музыки или видео.\nP.S.: функционирование возможно не на всех сайтах.</string>
+    <string name="resource_sniffer_hint">Анализ ресурсов упрощается при воспроизведении музыки или видео, но всё равно может не работать на некоторых сайтах</string>
     <string name="action_download">Загрузки</string>
     <string name="action_play_with_mxplayer">Воспроизвести в MX Player</string>
     <string name="empty_username_info">Введите имя пользователя</string>
     <string name="empty_password_info">Введите пароль</string>
     <string name="offline_page_hint">Автономно сохранённые страницы. Вы можете читать их независимо от наличия подключение к сети.</string>
-    <string name="history_page_hint_when_incognito">Вы перешли в режим \"инкогнито\". Новая история не будет сохраняться.</string>
+    <string name="history_page_hint_when_incognito">Вы перешли в режим \"инкогнито\", новая история не будет сохраняться</string>
     <string name="action_preview">Предпросмотр</string>
     <string name="action_page_info">О странице</string>
     <string name="page_info_title">Заголовок:</string>
@@ -395,7 +395,7 @@
     <string name="custom_css_special">Добавить свой CSS</string>
     <string name="force_enable_zoom">Принудительное масштабирование</string>
     <string name="set_ua_as">Установлен User Agent %s</string>
-    <string name="need_permission_to_install_pkg">Вы загружаете apk-файл. Для возможности установки загруженных файлов, пожалуйста, предоставьте Via соответствующее разрешение.</string>
+    <string name="need_permission_to_install_pkg">Вы загружаете APK-файл. Для возможности установки загруженных файлов необходимо предоставить Via соответствующее разрешение.</string>
     <string name="check_install_permission">В разрешении на установку было отказано. Разрешить её в настройках сейчас?</string>
     <string name="import_data">Импорт данных</string>
     <string name="import_data_failed">Ошибка при импортировании данных!</string>
@@ -411,8 +411,8 @@
     <string name="block_hint">Заблокировано: %s\nобновите для применения.</string>
     <string name="unblock_hint">Разблокировано: %s\nобновите для применения.</string>
     <string name="restore_tabs_hint_settings">Вкладки не будут восстановлены, когда вы находитесь в режиме \"инкогнито\"</string>
-    <string name="night_css_enabled">Включён тёмный вид страниц в ночном режиме</string>
-    <string name="night_css_disabled">Отключён тёмный вид страниц в ночном режиме</string>
+    <string name="night_css_enabled">Включён тёмный вид в ночном режиме</string>
+    <string name="night_css_disabled">Отключён тёмный вид в ночном режиме</string>
     <string name="local_storage">Локальное хранилище</string>
     <string name="ignore_secondary_ssl_error">Игнорировать вторичную ошибку SSL</string>
     <string name="powerful_cache">Эффективный кэш</string>
@@ -425,6 +425,8 @@
     <string name="download_failed">Ошибка при загрузке</string>
     <string name="view_downloads">Просмотр</string>
     <string name="message_delete_downloading_task">Загруженный файл также будет удалён. Вы уверены?</string>
+    <string name="message_delete_downloaded_task">Удалить загрузку?</string>
+    <string name="message_delete_downloaded_file">Также удалить загруженный файл?</string>
     <string name="block_popup_message">Заблокированное всплывающее окно</string>
     <string name="allow_popup">Разрешить сейчас</string>
     <string name="system_download_manager">Системный менеджер загрузки</string>
