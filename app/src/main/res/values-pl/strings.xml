@@ -424,7 +424,7 @@
     <string name="action_copy_download_link">Skopiuj link</string>
     <string name="download_failed">pobieranie nie powiodło się</string>
     <string name="view_downloads">Pokaż</string>
-    <string name="message_delete_download">Pobrany plik również zostanie usunięty. Kontynuować?</string>
+    <string name="message_delete_downloading_task">Pobrany plik również zostanie usunięty. Kontynuować?</string>
     <string name="block_popup_message">Zablokowano wyskakujące okno</string>
     <string name="allow_popup">Zezwól tym razem</string>
     <string name="system_download_manager">Systemowy menedżer pobierania</string>

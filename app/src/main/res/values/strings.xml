@@ -424,7 +424,9 @@
     <string name="action_copy_download_link">Copy Download Link</string>
     <string name="download_failed">Download failed</string>
     <string name="view_downloads">View</string>
-    <string name="message_delete_download">Downloaded file will also be deleted. Are you sure?</string>
+    <string name="message_delete_downloading_task">Downloaded file will also be deleted. Are you sure?</string>
+    <string name="message_delete_downloaded_task">Delete this downloaded task?</string>
+    <string name="message_delete_downloaded_file">Also delete the downloaded file?</string>
     <string name="block_popup_message">Blocked pop-up window</string>
     <string name="allow_popup">Allow once</string>
     <string name="system_download_manager">System Download Manager</string>
@@ -435,4 +437,5 @@
     <string name="chinese_server">Chinese</string>
     <string name="global_server">Global</string>
     <string name="server_message">The data of these servers are not synchronized. You will be required to log in again.</string>
+    <string name="delete_bookmark_folder_message">This will also delete bookmarks in folder %s, are you confirm to delete?</string>
 </resources>

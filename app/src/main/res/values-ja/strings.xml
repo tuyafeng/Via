@@ -406,5 +406,5 @@
     <string name="action_copy_download_link">ダウンロードリンクをコピー</string>
     <string name="download_failed">ダウンロード失敗</string>
     <string name="view_downloads">開く</string>
-    <string name="message_delete_download">ダウンロード済みファイルが削除されます。よろしいですか？</string>
+    <string name="message_delete_downloading_task">ダウンロード済みファイルが削除されます。よろしいですか？</string>
 </resources>
