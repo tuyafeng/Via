@@ -406,7 +406,7 @@
     <string name="action_copy_download_link">ダウンロードリンクをコピー</string>
     <string name="download_failed">ダウンロード失敗</string>
     <string name="view_downloads">開く</string>
-    <string name="message_delete_download">ダウンロード済みファイルが削除されます。よろしいですか？</string>
+    <string name="message_delete_downloading_task">ダウンロード済みファイルが削除されます。よろしいですか？</string>
     <string name="block_popup_message">ポップアップをブロックしました</string>
     <string name="allow_popup">今回のみ許可</string>
     <string name="system_download_manager">システムダウンロードマネージャー</string>
