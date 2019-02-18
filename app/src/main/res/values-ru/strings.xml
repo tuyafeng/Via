@@ -71,7 +71,7 @@
     <string name="action_incognito">Инкогнито</string>
     <string name="action_find">Поиск</string>
     <string name="download_pending">Загрузка…</string>
-    <string name="cannot_download">Загрузка возможна только по \"http\"- или \"https\"-ссылкам</string>
+    <string name="cannot_download">Загрузка возможна только по http(s)-ссылкам</string>
     <string name="download_no_sdcard_dlg_title">SD-карта отсутствует</string>
     <string name="download_no_sdcard_dlg_msg">Для загрузки этого файла необходим USB-накопитель</string>
     <string name="download_sdcard_busy_dlg_title">USB-накопитель недоступен!</string>
@@ -315,7 +315,7 @@
     <string name="find_next">Следующее</string>
     <string name="find_pre">Предыдущее</string>
     <string name="action_open_in_background">Открыть в фоне</string>
-    <string name="cannot_work">Только для http- или https-ссылкок</string>
+    <string name="cannot_work">Только для http(s)-ссылкок</string>
     <string name="action_fullscreen">Полный экран</string>
     <string name="action_ua">User Agent</string>
     <string name="settings_general">Основные</string>
