@@ -437,5 +437,5 @@
     <string name="chinese_server">Chinese</string>
     <string name="global_server">Global</string>
     <string name="server_message">The data of these servers are not synchronized. You will be required to log in again.</string>
-    <string name="delete_bookmark_folder_message">This will also delete bookmarks in folder %s, are you confirm to delete?</string>
+    <string name="delete_bookmark_folder_message">Bookmarks in folder %s will also be deleted. Are you sure?</string>
 </resources>
