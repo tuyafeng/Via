@@ -1,6 +1,8 @@
-# Via
+<div align=center><img src="http://viayoo.com/en/images/logo.png" height="100"/></div>
 
-#### Pure, Customized, Fast, Small
+# <div align=center>Via</div>
+
+### <div align=center>Pure, Customized, Fast, Small</div>
 
 #### Download
 * [Download from Google Play](https://play.google.com/store/apps/details?id=mark.via.gp)
