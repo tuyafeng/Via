@@ -406,7 +406,7 @@
     <string name="view_downloads">查看</string>
     <string name="message_delete_downloading_task">这会同时删除文件. 你确定吗?</string>
     <string name="message_delete_downloaded_task">删除这个下载任务吗?</string>
-    <string name="message_delete_downloaded_file">同时删除源文件?</string>
+    <string name="message_delete_downloaded_file">同时删除已下载的文件</string>
     <string name="block_popup_message">已拦截弹出式窗口</string>
     <string name="allow_popup">允许一次</string>
     <string name="system_download_manager">系统下载器</string>
