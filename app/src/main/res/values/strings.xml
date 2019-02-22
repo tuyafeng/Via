@@ -426,7 +426,7 @@
     <string name="view_downloads">View</string>
     <string name="message_delete_downloading_task">Downloaded file will also be deleted. Are you sure?</string>
     <string name="message_delete_downloaded_task">Delete this downloaded task?</string>
-    <string name="message_delete_downloaded_file">Include the downloaded file</string>
+    <string name="message_delete_downloaded_file">Including the downloaded file</string>
     <string name="block_popup_message">Blocked pop-up window</string>
     <string name="allow_popup">Allow once</string>
     <string name="system_download_manager">System Download Manager</string>
