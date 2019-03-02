@@ -408,7 +408,7 @@
     <string name="action_re_download">Volver a descargar</string>
     <string name="action_copy_download_link">Copiar enlace de descarga</string>
     <string name="download_failed">Descarga fallida</string>
-    <string name="view_downloads">Visualizar</string>
+    <string name="view_downloads">Ver</string>
     <string name="message_delete_downloading_task">El archivo descargado también se eliminará. ¿Está seguro?</string>
     <string name="message_delete_downloaded_task">¿Eliminar esta tarea descargada?</string>
     <string name="message_delete_downloaded_file">¿También eliminar el archivo descargado?</string>
