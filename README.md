@@ -2,8 +2,8 @@
 
 # <div align=center><a href="http://www.viayoo.com/" title="Via Official Website">Via Browser - Geek's Best Choice</a></div>
 
-### <div align=center>Pure without Ads&nbsp;&nbsp; &nbsp;&nbsp;Customized as Wish</div>
-### <div align=center>Fast like Lightning&nbsp;&nbsp; &nbsp;&nbsp;Mini but More</div>
+### <div align=center>Pure & Adless&nbsp;&nbsp; &nbsp;&nbsp;Highly customizable</div>
+### <div align=center>Fast like Lightning&nbsp;&nbsp; &nbsp;&nbsp;Small, yet awesome</div>
 
 <div align=center><a href="https://play.google.com/store/apps/details?id=mark.via.gp" title="Get Via on Google Play"><img src="http://www.gstatic.com/android/market_images/web/favicon_v2.ico" alt="Get Via on Google Play" height="50"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
