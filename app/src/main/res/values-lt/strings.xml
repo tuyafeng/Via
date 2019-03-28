@@ -424,7 +424,9 @@
     <string name="action_copy_download_link">Kopijuoti Atsisiuntimo adresą</string>
     <string name="download_failed">Atsisiuntimas nesėkmingas</string>
     <string name="view_downloads">Žiūrėti</string>
-    <string name="message_delete_downloading_task">Ar tikrai norite ištinti?</string>
+    <string name="message_delete_downloading_task">Ar tikrai?</string>
+    <string name="message_delete_downloaded_task">Ištrinti šį atsisiuntimą?</string>
+    <string name="message_delete_downloaded_file">Įskaitant atsisiųstą failą</string>
     <string name="block_popup_message">Iššokantis langas užblokuotas</string>
     <string name="allow_popup">Atidaryti</string>
     <string name="system_download_manager">Sistemos Atsisiuntimų Valdytojas</string>
@@ -435,4 +437,5 @@
     <string name="chinese_server">Kinijos</string>
     <string name="global_server">Pasaulio</string>
     <string name="server_message">Šių serverių duomenys nesinchronizuoti. Jums gali prireikti prisijungti iš naujo.</string>
+    <string name="delete_bookmark_folder_message">Žymės esančios %s aplanke bus ištrinti. Ar tikrai?</string>
     </resources>
