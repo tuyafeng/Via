@@ -8,12 +8,10 @@
     <string name="action_share">Share</string>
     <string name="action_history">History</string>
     <string name="action_bookmarks">Bookmarks</string>
-    <string name="action_screenshot">Screenshot</string>
     <string name="bookmarks_file">Bookmarks Export</string>
     <string name="action_add_bookmark">Add Bookmark</string>
     <string name="action_night">Night Mode</string>
     <string name="action_copy">Copy Link</string>
-    <string name="action_copy_domain">Copy Domain</string>
     <string name="action_block_domain">Block Domain</string>
     <string name="action_unblock_domain">Unblock Domain</string>
     <string name="action_unblock_url">Unblock Link</string>
@@ -47,17 +45,11 @@
     <string name="agent_iphone">Safari (iPhone)</string>
     <string name="agent_symbian">Nokia Browser</string>
     <string name="agent_custom">Custom</string>
-    <string name="title_search_engine">Search Engine</string>
-    <string name="action_ok">OK</string>
     <string name="dialog_download">Do you want to download this file?</string>
-    <string name="action_cancel">Cancel</string>
     <string name="title_warning">Warning</string>
     <string name="title_user_agent">User-Agent</string>
     <string name="title_custom_homepage">Custom Homepage</string>
     <string name="action_webpage">Webpage</string>
-    <string name="action_yes">OK</string>
-    <string name="action_no">Cancel</string>
-    <string name="title_text_size">Text Size</string>
     <string name="size_largest">Largest</string>
     <string name="size_large">Large</string>
     <string name="size_normal">Normal</string>
@@ -84,7 +76,6 @@
     <string name="haosou_url">Haosou</string>
     <string name="duckduckgo_url">DuckDuckGo</string>
     <string name="startpage_url">StartPage</string>
-    <string name="ask_url">Ask</string>
     <string name="yahoo_url">Yahoo</string>
     <string name="yandex_url">Yandex</string>
     <string name="google_url">Google</string>
@@ -112,25 +103,14 @@
     <string name="import_backup">Import bookmarks</string>
     <string name="bookmark_export_path">Bookmarks exported to\n</string>
     <string name="import_bookmark_error">Couldn\'t import bookmarks from file</string>
-    <string name="feedback">Feedback</string>
     <string name="message_add_bookmark">Bookmark added successfully</string>
     <string name="message_exit">Press one more time to exit</string>
-    <string name="web_screenshot">Web Page Screenshot</string>
-    <string name="screenshot_all">All</string>
-    <string name="screenshot_now">Visible</string>
     <string name="dialog_message">Message</string>
     <string name="toast_wait_a_minute">Wait a moment&#8230;</string>
-    <string name="toast_save_to">Save file to: </string>
     <string name="toast_operation_failed">The operation failed</string>
     <string name="toast_operation_done">The operation done</string>
     <string name="volume">Volume Keys to Scroll</string>
-    <string name="intent">Allow Website to Open Your App</string>
     <string name="msg_intent">Allow website to open your app?</string>
-    <string name="dialog_adblock">Default Block: Use internal hosts.txt to block ads\n\nCustom Block: Use external hosts.txt, which will be downloaded if it doesn\'t exist.</string>
-    <string name="dialog_adblock_default">Default Block</string>
-    <string name="dialog_adblock_custom">Custom Block</string>
-    <string name="dialog_adblock_download">It will be automatically selected after download\n\npath:</string>
-    <string name="dialog_adblock_custom_hint">\nPlease don\'t change the file\'s path or name. You can edit this file to customize your own block list.</string>
     <string name="setting_default">Set as Default Browser</string>
     <string name="toast_clear_defaults">Please clear defaults</string>
     <string name="toast_copy_url_successful">Link copied successfully</string>
@@ -175,16 +155,11 @@
     <string name="desc_tab">tab</string>
     <string name="desc_menu">menu</string>
     <string name="desc_filedic">file</string>
-    <string name="desc_other">other</string>
-    <string name="msg_setgoogle">Set Google as a default search engine?</string>
     <string name="action_mark">Mark as Ad</string>
-    <string name="settings_block">Ad Block</string>
     <string name="dialog_confirm_block">Would you like to mark this as ad?</string>
     <string name="do_not_track">Do not Track</string>
-    <string name="get_more_rules">Get More Rules</string>
     <string name="add_rule">Add Rule</string>
     <string name="hint_tags">Tags</string>
-    <string name="clear_ad_rules">Clear All Ad Rules</string>
     <string name="color_mode">Color Mode</string>
     <string name="dialog_sure">Are you sure you want to do this?</string>
     <string name="action_send_to_launcher">Send to the Launcher</string>
@@ -192,7 +167,6 @@
     <string name="user">Log in/Sign up</string>
     <string name="user_syns">Sync</string>
     <string name="user_update">Upload</string>
-    <string name="log_in_success">Log in successful</string>
     <string name="wrong_psw">Wrong password</string>
     <string name="sign_up_success">Sign up successful</string>
     <string name="code_500">Service unavailable</string>
@@ -206,11 +180,7 @@
     <string name="upload_completed">Upload completed :)</string>
     <string name="ui_mode">Operation Bar UI Mode</string>
     <string name="ui_auto">Auto</string>
-    <string name="open_or_search">Open/Search</string>
-    <string name="settings_addons">Add-ons</string>
     <string name="addon_download">Download Manager</string>
-    <string name="addon_qr_code_scan">QR Code Scanner</string>
-    <string name="install_addon">Go to download and install add-ons? The add-ons will work after being installed.</string>
     <string name="quick_back">Go Back without Reloading</string>
     <string name="open_with">Open with&#8230;</string>
     <string name="download_completed">Download completed</string>
@@ -224,14 +194,10 @@
     <string name="data_cookies">Cookies</string>
     <string name="data_cleared">Data cleared</string>
 
-    <string name="cannot_undo">This cannot be undone</string>
-
     <string name="sync_desc">An account will be created if it doesn\'t exist</string>
 
     <string name="settings_skin">Customization</string>
     <string name="default_set">Default</string>
-    <string name="custom_css">Custom CSS</string>
-    <string name="num_of_bookmarks_in_home">The number of bookmarks in homepage</string>
     <string name="picture">Picture</string>
     <string name="text">Text</string>
     <string name="html_code">HTML Code</string>
@@ -243,7 +209,6 @@
     <string name="skin_transparent">Transparent</string>
 
     <string name="block_popup">Block Pop-up</string>
-    <string name="open_window_hint">Website is trying to open a new window</string>
 
     <string name="action_save_web_page">Save Web Page</string>
     <string name="action_saved_pages">Saved Web Page</string>
@@ -255,15 +220,12 @@
     <string name="network_log">Network Log</string>
     <string name="catalog">Catalog</string>
 
-    <string name="screenshot_hint">There may be compatibility issues in Android 5.0+ to take a full screenshot of website. We are still looking for solutions.</string>
-
     <string name="conn_timeout">Connection timed out</string>
 
     <string name="already_default">It has already been set as default</string>
 
     <string name="set_to_default">It will be set as default after opening link(%s), please choose via to open the link.</string>
 
-    <string name="quick_back_desc">There may be compatibility issues when you enable this option. You should disable it if going back doesn\'t  work.</string>
     <string name="sync_prompt">It will overwrite your current local bookmark and settings. Continue?</string>
     <string name="upload_prompt">It will upload your current local bookmark and settings. Continue?</string>
     <string name="none">None</string>
@@ -272,13 +234,11 @@
     <string name="need_permission_hint">Via needs the following permissions to work:\n\n</string>
     <string name="storage_permission">Storage: for downloading files from the browser and importing/exporting bookmarks, etc.\n\n</string>
     <string name="location_permission">Location: for sites like Google Maps, it is disabled by default in settings and displays a pop-up asking if a site may use your location when it is enabled.\n\n</string>
-    <string name="phone_permission">Phone: for getting your non-privacy Android device info to do simple statistics and collect error exception when FC.\n\n</string>
     <string name="force_cancel">Force close</string>
     <string name="restore_tabs_hint">Restore the unclosed tabs from the last time?</string>
     <string name="restore_tabs">Restore Tabs on Startup</string>
     <string name="install_success">Installation Successful!!!</string>
     <string name="uninstall_success">Uninstallation Successful!!!</string>
-    <string name="online_addons">Online Add-ons</string>
     <string name="log_page_hint">The blocked list is in %1$s\nYou can edit it to change list, or long press the following item to select block or not.</string>
     <string name="fullscreen_0">Disable</string>
     <string name="fullscreen_1">Scroll to hide/show</string>
@@ -288,9 +248,6 @@
     <string name="add_script">Add Script</string>
     <string name="script_url">domain or * (* means all)</string>
     <string name="script_code">code (Javascript)</string>
-    <string name="clear_all_script">Clear All Scripts</string>
-    <string name="toast_copy_domain_successful">Domain copied successfully</string>
-    <string name="go_together">Go together</string>
     <string name="help_us_translate">Help us translate</string>
     <string name="confirm_to_leave">Confirm to leave</string>
     <string name="leave">Leave</string>
@@ -308,10 +265,8 @@
     <string name="contact_us">Contact us</string>
     <string name="official_website">Official website</string>
     <string name="current_language">Current language</string>
-    <string name="download_manager">Download manager</string>
     <string name="background_opacity">The opacity of background</string>
     <string name="action_pic_mode">Picture Mode</string>
-    <string name="block_it_temporarily">Block it temporarily</string>
     <string name="find_next">Find next</string>
     <string name="find_pre">Find last</string>
     <string name="action_open_in_background">Open in Background</string>
@@ -321,7 +276,6 @@
     <string name="settings_general">General</string>
     <string name="no_bookmark">No bookmark~</string>
     <string name="import_or_export_bookmarks">Import/Export bookmarks</string>
-    <string name="what_is_next">What\'s next?</string>
     <string name="import_">Import bookmarks</string>
     <string name="export_">Export bookmarks</string>
     <string name="pull_to_refresh_gesture">Pull to Refresh Gesture</string>
@@ -329,28 +283,14 @@
     <string name="toolbar_settings_hint">Click the following button to set its long press (slide) event, and long press it to see what has been set.</string>
     <string name="action_modify">Modify</string>
     <string name="operation_hint">Gestures, shortcuts, etc.</string>
-    <string name="empty_ads_mark_hint">No ads marked. \nYou can long press the ad in web page then select \"Mark as Ad\" to block it.</string>
-    <string name="empty_script_hint">No scripts. \nYou can add scripts by pressing "＋" or the following button</string>
     <string name="adblock_info">%1$d ads have been blocked, %2$s saved</string>
     <string name="disable">Disable</string>
     <string name="ui_traditional">Sandwich</string>
     <string name="ui_simple">Simple</string>
     <string name="color_mode_hint">Auto-adjust color of operation bars</string>
-    <string name="sort_hint">Long press and drag to sort</string>
-    <string name="action_sort_bookmarks">Sort bookmarks</string>
-    <string name="desc_close">Close</string>
-    <string name="clear_cache_on_exit">Clear Cache on Exit</string>
-    <string name="action_close_all_tabs">Close all tabs</string>
     <string name="skin_hide_search_part">Hide Search Part</string>
-    <string name="action_more">More</string>
-    <string name="action_exit">Exit</string>
     <string name="set_as_default">Set it as your default browser?</string>
-    <string name="exit_incognito_title">Exit Incognito Browsing</string>
-    <string name="exit_incognito_dialog">Do you want to close all tabs before disabling \"Incognito\"?</string>
     <string name="file_size">File size</string>
-    <string name="update">Update</string>
-    <string name="update_msg">There is a new version available. Would you like to update now?</string>
-    <string name="ignore">Ignore</string>
     <string name="share_script">Script for %1$s, copy this message and open via to import it. viascript{%2$s}</string>
     <string name="share_online_script">Script for %1$s, copy this message and open link %2$s with via to install it.</string>
     <string name="import_script">Import the script for %1$s from clipboard?\nWarning: Please make sure it is safe.\nScript:\n</string>
@@ -360,12 +300,7 @@
     <string name="import_url">Open the link from clipboard?\nlink: %1$s</string>
     <string name="import_successful">Imported successfully</string>
     <string name="all_sites">all sites</string>
-    <string name="easter_egg">Easter Egg(AD)</string>
     <string name="action_click_to_view">Click to View</string>
-    <string name="join_us">Join us</string>
-    <string name="share_explanation">Encrypted sharing: only view it with via. \nShare: share the link of current page.</string>
-    <string name="action_secret_share">Encrypted sharing</string>
-    <string name="action_normal_share">Share</string>
     <string name="res_sniffer">Resource Sniffer</string>
     <string name="search_by_pic">Search by Picture</string>
     <string name="resource_sniffer">Resource sniffer</string>
@@ -374,7 +309,6 @@
     <string name="no_network_log">The page has no network log.</string>
     <string name="resource_sniffer_hint">\nIt is easier to detect media files when music or video is being played. Resource sniffer doesn\'t work on certain websites</string>
     <string name="action_download">Downloads</string>
-    <string name="action_play_with_mxplayer">Play with MXPlayer</string>
     <string name="empty_username_info">Please input your username</string>
     <string name="empty_password_info">Please input your password</string>
     <string name="offline_page_hint">These are Saved Pages. You can open them even when you are offline.</string>
@@ -385,9 +319,7 @@
     <string name="page_info_url">Page URL:</string>
     <string name="page_info_link">Link URL:</string>
     <string name="no_network">Network connections are unavailable</string>
-    <string name="action_open_with">Open with associated app</string>
     <string name="title_app_chooser">App chooser</string>
-    <string name="sort_bookmarks_hint">Please drag and drop the icon of bookmark to sort list</string>
     <string name="clear_data_on_exit">Clear Data on Exit</string>
     <string name="action_add_to_homepage">Add to homepage</string>
     <string name="added_favorite_hint">Added to homepage successfully</string>
@@ -395,8 +327,6 @@
     <string name="custom_css_special">Add Custom CSS</string>
     <string name="force_enable_zoom">Enable Force Zoom</string>
     <string name="set_ua_as">Set current user agent as %s</string>
-    <string name="need_permission_to_install_pkg">You are downloading an APK file, please grant Via permission to install packages.</string>
-    <string name="check_install_permission">Installation permission denied. Set it in settings now?</string>
     <string name="import_data">Import Data</string>
     <string name="import_data_failed">Failed to import data!</string>
     <string name="import_data_succeed">Data imported successfully!</string>
@@ -407,13 +337,9 @@
     <string name="disable_restore">Don\'t restore</string>
     <string name="data_file">Data Export</string>
     <string name="bookmarks_data_to_long">Bookmarks data is too big to upload, but other data will be normally uploaded. Continue?</string>
-    <string name="adblock_thanks">Thanks to yhosts project!</string>
-    <string name="block_hint">Blocked: %s\nrefresh to take effect.</string>
-    <string name="unblock_hint">Unblocked: %s\nrefresh to take effect.</string>
     <string name="restore_tabs_hint_settings">Tabs will not be restored when you are in \"Incognito Mode\"</string>
     <string name="night_css_enabled">Enabled dark mode in night mode</string>
     <string name="night_css_disabled">Disabled dark mode in night mode</string>
-    <string name="local_storage">Local Storage</string>
     <string name="ignore_secondary_ssl_error">Ignore Secondary SSL Error</string>
     <string name="powerful_cache">Hyper Cache</string>
     <string name="web_page_debug">Enable Web Page Debugging</string>
@@ -438,4 +364,5 @@
     <string name="global_server">Global</string>
     <string name="server_message">The data of these servers are not synchronized. You will be required to log in again.</string>
     <string name="delete_bookmark_folder_message">Bookmarks in folder %s will also be deleted. Are you sure?</string>
+    <string name="action_new">New</string>
 </resources>

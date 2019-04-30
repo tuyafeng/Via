@@ -8,12 +8,10 @@
     <string name="action_share">Chia sẻ</string>
     <string name="action_history">Lịch sử</string>
     <string name="action_bookmarks">Dấu trang</string>
-    <string name="action_screenshot">Chụp màn hình</string>
     <string name="bookmarks_file">Xuất dấu trang</string>
     <string name="action_add_bookmark">Đánh dấu trang</string>
     <string name="action_night">Chế độ ban đêm</string>
     <string name="action_copy">Sao chép liên kết</string>
-    <string name="action_copy_domain">Sao chép tên miền</string>
     <string name="action_copy_text">Sao chép văn bản</string>
     <string name="action_image_off">Chặn ảnh </string>
     <string name="action_tools">Công cụ</string>
@@ -43,17 +41,11 @@
     <string name="agent_iphone">iPhone</string>
     <string name="agent_symbian">Symbian</string>
     <string name="agent_custom">Tùy chỉnh</string>
-    <string name="title_search_engine">Công Cụ Tìm Kiếm</string>
-    <string name="action_ok">Đồng ý</string>
     <string name="dialog_download">Bạn có muốn tải tập tin này?</string>
-    <string name="action_cancel">Hủy</string>
     <string name="title_warning">Cảnh báo</string>
     <string name="title_user_agent">Dạng xem Trình duyệt</string>
     <string name="title_custom_homepage">Tùy chỉnh Trang chủ </string>
     <string name="action_webpage">Trang web</string>
-    <string name="action_yes">Đồng ý</string>
-    <string name="action_no">Hủy</string>
-    <string name="title_text_size">Cỡ chữ</string>
     <string name="size_largest">Lớn nhất</string>
     <string name="size_large">Lớn</string>
     <string name="size_normal">Bình thường</string>
@@ -80,7 +72,6 @@
     <string name="haosou_url">Haosou</string>
     <string name="duckduckgo_url">DuckDuckGo</string>
     <string name="startpage_url">Trang Bắt Đầu</string>
-    <string name="ask_url">Ask</string>
     <string name="yahoo_url">Yahoo</string>
     <string name="yandex_url">Yandex</string>
     <string name="google_url">Google</string>
@@ -103,25 +94,14 @@
     <string name="import_backup">Nhập dấu trang</string>
     <string name="bookmark_export_path">Dấu trang đã xuất sang\n</string>
     <string name="import_bookmark_error">Không thể nhập dấu trang từ tệp tin</string>
-    <string name="feedback">Phản hồi</string>
     <string name="message_add_bookmark">Đã thêm dấu trang thành công</string>
     <string name="message_exit">Nhấn lần nữa để thoát</string>
-    <string name="web_screenshot">Chụp màn hình trang web</string>
-    <string name="screenshot_all">Tất cả</string>
-    <string name="screenshot_now">Có thể thấy</string>
     <string name="dialog_message">Tin nhắn</string>
     <string name="toast_wait_a_minute">Chờ một chút&#8230;</string>
-    <string name="toast_save_to">Lưu tệp vào: </string>
     <string name="toast_operation_failed">Thao tác thất bại.</string>
     <string name="toast_operation_done">Thao tác đã được thực hiện</string>
     <string name="volume">Nhấn phím Tăng/Giảm âm lượng để cuộn</string>
-    <string name="intent">Mở trang web bằng ứng dụng</string>
     <string name="msg_intent">Bạn muốn mở ứng dụng của mình?</string>
-    <string name="dialog_adblock">Chặn Mặc định:Dùng file hosts.txt của hệ thống để chặn quảng cáo\n\nChặn Tùy chỉnh:Dùng file hosts.txt trong bộ nhớ, nó sẽ tải về một tập tin nếu không tồn tại.</string>
-    <string name="dialog_adblock_default">Chặn Mặc định</string>
-    <string name="dialog_adblock_custom">Chặn Tùy chỉnh</string>
-    <string name="dialog_adblock_download">Nó sẽ được chọn tự động sau khi tải về.\n\npath:</string>
-    <string name="dialog_adblock_custom_hint">\nVui lòng không thay đổi đường dẫn hoặc tên tệp. Bạn có thể chỉnh sửa tệp tin này để tùy chỉnh danh sách chặn của riêng bạn.</string>
     <string name="setting_default">Đặt làm Trình duyệt mặc định</string>
     <string name="toast_clear_defaults">Vui lòng xóa mặc định</string>
     <string name="toast_copy_url_successful">Sao chép liên kết thành công</string>
@@ -166,16 +146,11 @@
     <string name="desc_tab">tab</string>
     <string name="desc_menu">menu</string>
     <string name="desc_filedic">tệp tin</string>
-    <string name="desc_other">khác</string>
-    <string name="msg_setgoogle">Đặt công cụ tìm kiếm của Google bây giờ?</string>
     <string name="action_mark">Đánh dấu là quảng cáo</string>
-    <string name="settings_block">Chặn quảng cáo</string>
     <string name="dialog_confirm_block">Bạn có muốn đánh dấu đây là quảng cáo không?</string>
     <string name="do_not_track">Không theo dõi</string>
-    <string name="get_more_rules">Nhận thêm quy tắc</string>
     <string name="add_rule">Thêm Quy tắc</string>
     <string name="hint_tags">Thẻ</string>
-    <string name="clear_ad_rules">Xóa tất cả các quy tắc quảng cáo</string>
     <string name="color_mode">Chế độ màu</string>
     <string name="dialog_sure">Bạn có chắc chắn muốn làm điều này?</string>
     <string name="action_send_to_launcher">Thêm vào Màn hình chính</string>
@@ -183,7 +158,6 @@
     <string name="user">Đăng nhập/Đăng ký</string>
     <string name="user_syns">Đồng bộ</string>
     <string name="user_update">Tải lên</string>
-    <string name="log_in_success">Đăng nhập thành công.</string>
     <string name="wrong_psw">Sai mật khẩu.</string>
     <string name="sign_up_success">Đăng ký thành công.</string>
     <string name="code_500">Không có dịch vụ.</string>
@@ -197,11 +171,7 @@
     <string name="upload_completed">Tải lên hoàn tất :)</string>
     <string name="ui_mode">Giao diện</string>
     <string name="ui_auto">Tự động</string>
-    <string name="open_or_search">Mở/Tìm</string>
-    <string name="settings_addons">Tiện ích mở rộng</string>
     <string name="addon_download">Quản lý tải xuống</string>
-    <string name="addon_qr_code_scan">Quét mã QR</string>
-    <string name="install_addon">Tải về và cài đặt tiện ích? Tiện ích này sẽ hoạt động sau khi được cài đặt.</string>
     <string name="quick_back">Quay lại không cần tải lại</string>
     <string name="open_with">Mở bằng&#8230;</string>
     <string name="download_completed">Hoàn tất tải xuống</string>
@@ -215,14 +185,10 @@
     <string name="data_cookies">Cookies</string>
     <string name="data_cleared">Đã xóa dữ liệu</string>
 
-    <string name="cannot_undo">Thao tác này không thể hoàn tác.</string>
-
     <string name="sync_desc">Tài khoản sẽ được tạo nếu không tồn tại</string>
 
     <string name="settings_skin">Tùy chỉnh</string>
     <string name="default_set">Mặc định</string>
-    <string name="custom_css">Tùy chỉnh CSS</string>
-    <string name="num_of_bookmarks_in_home">Số lượng dấu trang trong trang chủ</string>
     <string name="picture">Ảnh</string>
     <string name="text">Văn bản</string>
     <string name="html_code">Html Code</string>
@@ -234,7 +200,6 @@
     <string name="skin_transparent">Trong suốt</string>
 
     <string name="block_popup">Chặn Popup</string>
-    <string name="open_window_hint">Trang web đang cố gắng mở một tab mới</string>
 
     <string name="action_save_web_page">Lưu trang web</string>
     <string name="action_saved_pages">Trang đã lưu</string>
@@ -246,15 +211,12 @@
     <string name="network_log">Nhật ký mạng</string>
     <string name="catalog">Mục lục</string>
 
-    <string name="screenshot_hint">Có vấn đề về tương thích để chụp màn hình đầy đủ của trang web trong Android 5.0+. Chúng tôi vẫn đang tìm kiếm giải pháp</string>
-
     <string name="conn_timeout">Kết nối quá hạn</string>
 
     <string name="already_default">Đã được thiết lập về mặc định</string>
 
     <string name="set_to_default">Điều này sẽ được thiết lập thành mặc định sau khi mở liên kết(%s), hãy chọn Via để mở liên kết.</string>
 
-    <string name="quick_back_desc">Có thể gặp vấn đề về tương thích khi bạn bật tùy chọn này. Bạn nên tắt đi nếu gặp lỗi.</string>
     <string name="sync_prompt">Điều này sẽ ghi đè lên dấu trang và cài đặt hiện tại của bạn. Bạn có muốn tiếp tục?</string>
     <string name="upload_prompt">Điều này sẽ tải lên dấu trang và cài đặt hiện tại của bạn. Bạn có muốn tiếp tục?</string>
     <string name="none">Không có</string>
@@ -263,13 +225,11 @@
     <string name="need_permission_hint">Cần thông qua các quyền sau đây để dùng ứng dụng.\n\n</string>
     <string name="storage_permission">Bộ nhớ: để tải về tập tin từ trình duyệt và nhập/xuất dấu trang&#8230;\n\n</string>
     <string name="location_permission">Vị trí: cho các trang web như Google Maps, nó bị tắt theo mặc định và sẽ hỏi bạn nếu trang web yêu cầu truy cập vị trí.\n\n</string>
-    <string name="phone_permission">Điện thoại: để nhận được thông tin (không phải thông tin riêng tư) về thiết bị Android của bạn để làm thống kê đơn giản và thu thập lỗi, ngoại lệ khi FC.\n\n</string>
     <string name="force_cancel">Huỷ bỏ</string>
     <string name="restore_tabs_hint">Mở lại các tab bị đóng trước đó</string>
     <string name="restore_tabs">Mở lại các tab khi khởi động</string>
     <string name="install_success">Cài đặt thành công!!!</string>
     <string name="uninstall_success">Gỡ cài đặt thành công!!!</string>
-    <string name="online_addons">Tiện ích trực tuyến</string>
     <string name="log_page_hint">Bạn có thể sao chép liên kết hoặc tên miền sau và dán nó vào %1$s để chặn tải nó bằng Chặn Tùy chỉnh.</string>
     <string name="fullscreen_0">Vô hiệu hóa</string>
     <string name="fullscreen_1">Kéo để ẩn/hiện</string>
@@ -279,9 +239,6 @@
     <string name="add_script">Thêm Script</string>
     <string name="script_url">tên miền hoặc * (* có nghĩa là tất cả)</string>
     <string name="script_code">code (Javascript)</string>
-    <string name="clear_all_script">Xóa tất cả Tập lệnh</string>
-    <string name="toast_copy_domain_successful">Sao chép tên miền thành công</string>
-    <string name="go_together">Đồng hành với tôi</string>
     <string name="help_us_translate">Giúp tôi dịch sang ngôn ngữ bạn biết</string>
     <string name="confirm_to_leave">Xác nhận rời khỏi</string>
     <string name="leave">Rời khỏi</string>
@@ -299,10 +256,8 @@
     <string name="contact_us">Liên hệ chúng tôi</string>
     <string name="official_website">Trang web chính thức</string>
     <string name="current_language">Ngôn ngữ hiện tại</string>
-    <string name="download_manager">Download</string>
     <string name="background_opacity">Độ mờ của nền</string>
     <string name="action_pic_mode">Chế độ ảnh</string>
-    <string name="block_it_temporarily">Chặn tạm thời</string>
     <string name="find_next">Tìm tiếp</string>
     <string name="find_pre">Trước đó</string>
     <string name="action_open_in_background">Mở trong nền</string>
@@ -312,7 +267,6 @@
     <string name="settings_general">Chung</string>
     <string name="no_bookmark">Không có dấu trang~</string>
     <string name="import_or_export_bookmarks">Nhập/Xuất dấu trang</string>
-    <string name="what_is_next">Tiếp theo là gì?</string>
     <string name="import_">Nhập dấu trang</string>
     <string name="export_">Xuất dấu trang</string>
     <string name="pull_to_refresh_gesture">Cử chỉ Kéo xuống để Làm mới </string>
@@ -320,28 +274,14 @@
     <string name="toolbar_settings_hint">Nhấp (trượt) nút dưới đây để thiết lập hành động khi bạn nhấn giữ(trượt), nhấn giữ để xem giá trị đã được thiết lập.</string>
     <string name="action_modify">Chỉnh sửa</string>
     <string name="operation_hint">Cử chỉ, hành động&#8230;</string>
-    <string name="empty_ads_mark_hint">Không có quảng cáo nào được đánh dấu. \nBạn có thể nhấn giữ vào quảng cáo trong trang web rồi chọn \"Đánh dấu là Quảng cáo\" để chặn nó. \nHoặc bạn chỉ cần nhấp vào nút sau đây.</string>
-    <string name="empty_script_hint">Không có tập lệnh nào. \nBạn có thể nhấp vào nút dấu cộng để thêm các tập lệnh. \nHoặc bạn chỉ cần nhấp vào nút sau đây.</string>
     <string name="adblock_info">%1$d quảng cáo đã bị chặn, %2$s đã lưu.</string>
     <string name="disable">Vô hiệu hóa</string>
     <string name="ui_traditional">Truyền thống</string>
     <string name="ui_simple">Đơn giản</string>
     <string name="color_mode_hint">Thanh địa chỉ màu sắc khi duyệt web</string>
-    <string name="sort_hint">Nhấn giữ và kéo để sắp xếp</string>
-    <string name="action_sort_bookmarks">Sắp xếp dấu trang</string>
-    <string name="desc_close">Đóng</string>
-    <string name="clear_cache_on_exit">Xóa Cache khi Thoát</string>
-    <string name="action_close_all_tabs">Đóng tất cả các tab</string>
     <string name="skin_hide_search_part">Ẩn khung Tìm kiếm</string>
-    <string name="action_more">Thêm</string>
-    <string name="action_exit">Thoát</string>
     <string name="set_as_default">Đặt làm trình duyệt mặc định của bạn?</string>
-    <string name="exit_incognito_title">Thoát Duyệt ẩn danh</string>
-    <string name="exit_incognito_dialog">Bạn có muốn đóng tất cả các tab trước khi vô hiệu hóa \"Duyệt ẩn danh\"?</string>
     <string name="file_size">Kích thước tệp</string>
-    <string name="update">Cập nhật</string>
-    <string name="update_msg">Phiên bản mới có sẵn. Bạn có muốn cập nhật nó ngay bây giờ không?</string>
-    <string name="ignore">Bỏ qua</string>
     <string name="share_script">Tập lệnh cho %1$s, sao chép thông báo này và mở Via để nhập nó. viascript{%2$s}</string>
     <string name="share_online_script">Script for %1$s, Sao chép thông báo này và mở liên kết %2$s thông qua Via để cài đặt.</string>
     <string name="import_script">Nhập tệp lệnh %1$s từ bộ nhớ tạm?\nCảnh báo: Tập lệnh có thể không an toàn. Bạn hãy chắc chắn nó an toàn trước khi cài đặt.\nScript:\n</string>
@@ -351,12 +291,8 @@
     <string name="import_url">Mở liên kết trong bộ nhớ tạm?\nlink: %1$s</string>
     <string name="import_successful">Nhập thành công</string>
     <string name="all_sites">tất cả các trang web</string>
-    <string name="easter_egg">Trứng Phục Sinh(AD)</string>
     <string name="action_click_to_view">Chạm để Xem</string>
-    <string name="join_us">Tham gia với chúng tôi</string>Nhấp để Xem
-    <string name="share_explanation">Chia sẻ được mã hóa: bạn chỉ có thể xem nó với Via. \nChia sẻ: Chia sẻ URL của trang hiện tại.</string>
-    <string name="action_secret_share">Chia sẻ mật mã</string>
-    <string name="action_normal_share">Chia sẻ</string>
+    Nhấp để Xem
     <string name="res_sniffer">Tải về tài nguyên</string>
     <string name="search_by_pic">Tìm kiếm hình ảnh</string>
     <string name="resource_sniffer">Tải về tài nguyên</string>
@@ -365,7 +301,6 @@
     <string name="no_network_log">Trang không có nhật ký mạng.</string>
     <string name="resource_sniffer_hint">\nPS: dễ dàng hơn khi nghe nhạc hoặc video.</string>
     <string name="action_download">Download</string>
-    <string name="action_play_with_mxplayer">Mở bằng MXPlayer</string>
     <string name="empty_username_info">Hãy nhập vào tên người dùng của bạn.</string>
     <string name="empty_password_info">Hãy nhập vào mật khẩu của bạn.</string>
     <string name="offline_page_hint">Dưới đây là các Trang đã lưu. Bạn có thể xem nó khi không có mạng.</string>
