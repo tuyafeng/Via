@@ -100,7 +100,7 @@
     <string name="image_on">Графика: нет</string>
     <string name="image_off">Графика: да</string>
     <string name="title_file_chooser">Выбор файла</string>
-    <string name="import_backup">Восстановление закладок из копии</string>
+    <string name="import_backup">Восстановить закладки из копии</string>
     <string name="bookmark_export_path">Резервная копия сохранена в\n</string>
     <string name="import_bookmark_error">Ошибка при импортировании закладок из файла</string>
     <string name="message_add_bookmark">Успешно добавлено в закладки</string>
@@ -187,7 +187,7 @@
     <string name="toast_fullscreen_off">Выход из полноэкранного режима</string>
 
     <string name="clear_data">Очистить данные</string>
-    <string name="data_cache">Кэш</string>
+    <string name="data_cache">Кеш</string>
     <string name="data_form_data">Данные форм</string>
     <string name="data_history">История</string>
     <string name="data_storage">Web-хранилище</string>
@@ -341,7 +341,7 @@
     <string name="night_css_enabled">Включён тёмный вид в ночном режиме</string>
     <string name="night_css_disabled">Отключён тёмный вид в ночном режиме</string>
     <string name="ignore_secondary_ssl_error">Игнорировать вторичную ошибку SSL</string>
-    <string name="powerful_cache">Эффективный кэш</string>
+    <string name="powerful_cache">Эффективный кеш</string>
     <string name="web_page_debug">Отладка страниц</string>
     <string name="web_page_debug_info">Теперь вы можете подключить своё устройство к компьютеру и отладить страницу с помощью Chrome (ПК), используя \"chrome://inspect\". Не забудьте предварительно включить отладку по USB в меню \"Настройки\" → \"Для разработчиков\".</string>
     <string name="no_download_tasks">Нет загрузок</string>
@@ -353,7 +353,7 @@
     <string name="message_delete_downloading_task">Загруженный файл также будет удалён. Вы уверены?</string>
     <string name="message_delete_downloaded_task">Удалить загрузку?</string>
     <string name="message_delete_downloaded_file">Также удалить загруженный файл?</string>
-    <string name="block_popup_message">Заблокированное всплывающее окно</string>
+    <string name="block_popup_message">Заблокировано всплывающее окно</string>
     <string name="allow_popup">Разрешить сейчас</string>
     <string name="system_download_manager">Системный менеджер загрузки</string>
     <string name="action_play_with">Воспроизвести в…</string>
@@ -364,4 +364,5 @@
     <string name="global_server">Общемировой</string>
     <string name="server_message">Данные этих серверов не синхронизированы. Вам потребуется снова войти в систему.</string>
     <string name="delete_bookmark_folder_message">Также будут удалены закладки в папке \"%s\". Вы уверены?</string>
+    <string name="action_new">Новое</string>
 </resources>
