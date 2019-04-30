@@ -8,12 +8,10 @@
     <string name="action_share">共有</string>
     <string name="action_history">履歴</string>
     <string name="action_bookmarks">ブックマーク</string>
-    <string name="action_screenshot">スクリーンショット</string>
     <string name="bookmarks_file">ブックマーク</string>
     <string name="action_add_bookmark">ブックマークに追加</string>
     <string name="action_night">ナイトモード</string>
     <string name="action_copy">アドレスをコピー</string>
-    <string name="action_copy_domain">ドメインをコピー</string>
     <string name="action_copy_text">テキストをコピー</string>
     <string name="action_image_off">画像を閉じる</string>
     <string name="action_tools">ツール</string>
@@ -43,17 +41,11 @@
     <string name="agent_iphone">iPhone</string>
     <string name="agent_symbian">Symbian</string>
     <string name="agent_custom">カスタム</string>
-    <string name="title_search_engine">検索エンジン</string>
-    <string name="action_ok">OK</string>
     <string name="dialog_download">ダウンロードしますか？</string>
-    <string name="action_cancel">キャンセル</string>
     <string name="title_warning">警告</string>
     <string name="title_user_agent">User Agent</string>
     <string name="title_custom_homepage">ページを設定</string>
     <string name="action_webpage">特定のページ</string>
-    <string name="action_yes">OK</string>
-    <string name="action_no">キャンセル</string>
-    <string name="title_text_size">フォントサイズ</string>
     <string name="size_largest">最大</string>
     <string name="size_large">大</string>
     <string name="size_normal">標準</string>
@@ -96,23 +88,12 @@
     <string name="import_backup">バックアップからブックマークを読み込む</string>
     <string name="bookmark_export_path">ブックマークの書き出し先\n</string>
     <string name="import_bookmark_error">読み込めませんでした</string>
-    <string name="feedback">フィードバック</string>
     <string name="message_add_bookmark">追加しました</string>
     <string name="message_exit">もう一度押すとアプリを終了します</string>
-    <string name="web_screenshot">スクリーンショット</string>
-    <string name="screenshot_all">すべて</string>
-    <string name="screenshot_now">現在の部分</string>
     <string name="dialog_message">メッセージ</string>
     <string name="toast_wait_a_minute">しばらくお待ちください&#8230;</string>
-    <string name="toast_save_to">保存しました: </string>
     <string name="toast_operation_failed">失敗しました</string>
     <string name="volume">音量キーでスクロール</string>
-    <string name="intent">外部アプリの起動</string>
-    <string name="dialog_adblock">デフォルト:既定 hosts.txt を使用\n\n超強力:外部 hosts.txt を使用</string>
-    <string name="dialog_adblock_default">デフォルト</string>
-    <string name="dialog_adblock_custom">超強力</string>
-    <string name="dialog_adblock_download">ダウンロードした後自動的に適用します\n\nディレクトリ：</string>
-    <string name="dialog_adblock_custom_hint">\n指定したファイルまたはディレクトリを変更できませんが、ファイルの内容が変更できます。</string>
     <string name="setting_default">既定のブラウザにする</string>
     <string name="toast_clear_defaults">設定を消去してください</string>
     <string name="toast_copy_url_successful">アドレスをコピーしました</string>
@@ -154,20 +135,15 @@
     <string name="desc_tab">タブ</string>
     <string name="desc_menu">メニュー</string>
     <string name="desc_filedic">ファイル</string>
-    <string name="desc_other">他の操作</string>
     <string name="title_edit_folder">フォルダーを編集</string>
     <string name="msg_delete_folder">削除しますか？</string>
     <string name="action_translate">翻訳</string>
     <string name="msg_intent">外部アプリの起動をしますか？</string>
-    <string name="msg_setgoogle">Google をデフォルトの検索エンジンに設定しますか？</string>
     <string name="action_mark">広告をマーク</string>
-    <string name="settings_block">ブロック</string>
     <string name="dialog_confirm_block">ブロックしますか？</string>
     <string name="do_not_track">Do Not Track（トラッキング拒否）</string>
-    <string name="get_more_rules">ルールを取得</string>
     <string name="add_rule">ルールを追加</string>
     <string name="hint_tags">タグ</string>
-    <string name="clear_ad_rules">すべて削除する</string>
     <string name="color_mode">カラーモード</string>
     <string name="dialog_sure">よろしいですか？</string>
     <string name="toast_operation_done">完了しました</string>
@@ -176,7 +152,6 @@
     <string name="user">ログイン/登録</string>
     <string name="user_syns">サーバーから同期</string>
     <string name="user_update">サーバーにアップロード</string>
-    <string name="log_in_success">ログインしました</string>
     <string name="wrong_psw">パスワードが間違っています</string>
     <string name="sign_up_success">登録しました</string>
     <string name="code_500">サーバーエラー</string>
@@ -190,11 +165,7 @@
     <string name="upload_completed">報告成功 :)</string>
     <string name="ui_mode">レイアウト</string>
     <string name="ui_auto">自動</string>
-    <string name="open_or_search">開く/検索</string>
-    <string name="settings_addons">プラグイン</string>
     <string name="addon_download">ダウンロード高速化</string>
-    <string name="addon_qr_code_scan">QR コードスキャナー</string>
-    <string name="install_addon">Google Playでダウンロードしますか？</string>
     <string name="quick_back">戻る時に再読み込みをしない</string>
     <string name="open_with">開く&#8230;</string>
     <string name="download_completed">ダウンロード完了</string>
@@ -208,16 +179,12 @@
     <string name="data_cookies">Cookie</string>
     <string name="data_cleared">消去しました</string>
 
-    <string name="cannot_undo">注意！消去後に復元は出来ません</string>
-
     <string name="need_permission_hint">権限が必要です\n\n</string>
 
     <string name="sync_desc">アカウントが存在しない場合は新規にアカウントが作成されます。</string>
 
     <string name="settings_skin">カスタマイズ</string>
     <string name="default_set">デフォルト</string>
-    <string name="custom_css">カスタム CSS</string>
-    <string name="num_of_bookmarks_in_home">ブックマーク数</string>
     <string name="picture">画像</string>
     <string name="text">テキスト</string>
     <string name="html_code">HTML コード</string>
@@ -225,7 +192,6 @@
     <string name="action_view_image">画像を開く</string>
 
     <string name="block_popup">ポップアップ表示をブロック</string>
-    <string name="open_window_hint">新しいタブを開いています</string>
 
     <string name="action_save_web_page">ページを保存</string>
     <string name="action_saved_pages">保存済みページ</string>
@@ -237,15 +203,12 @@
     <string name="network_log">接続ログ</string>
     <string name="catalog">カタログ</string>
 
-    <string name="screenshot_hint">Android 5.0 以降の OS を搭載した機種で不具合があります、現在の部分だけを保存してください。</string>
-
     <string name="conn_timeout">接続がタイムアウトしました</string>
 
     <string name="already_default">既定のブラウザに設定されています</string>
 
     <string name="set_to_default">設定を適用するには Via で %s を開いてください</string>
 
-    <string name="quick_back_desc">不具合が発生したら無効にしてください</string>
     <string name="sync_prompt">ブックマークと設定を上書きしますか？</string>
     <string name="upload_prompt">ブックマークと設定をアップロードしますか？</string>
     <string name="sougou_url">sougou</string>
@@ -255,10 +218,8 @@
     <string name="restore_tabs_hint">前回閉じたタブを開きますか？</string>
     <string name="restore_tabs">前回開いていたページを開く</string>
     <string name="none">なし</string>
-    <string name="online_addons">アドオン</string>
     <string name="force_cancel">強制終了</string>
     <string name="check_permission">権限へのアクセス許可が必要です。</string>
-    <string name="phone_permission">電話：非個人情報に関する単純な統計、及びより詳しいエラーログの収集のために使用しています。</string>
     <string name="storage_permission">ストレージ：ファイルのダウンロード、ブックマークの保存のために使用しています。</string>
     <string name="location_permission">位置情報：Webサイトが位置情報を取得することを許可するため（地図、天気予報など）に使用しています。</string>
     <string name="log_page_hint">アドレスもしくはドメインをコピーし %1$s に貼り付けて広告ブロックリストを作成できます。</string>
@@ -270,8 +231,6 @@
     <string name="add_script">スクリプトの追加</string>
     <string name="script_url">ドメインまたは* （*は全て）</string>
     <string name="script_code">コード (JavaScript)</string>
-    <string name="clear_all_script">スクリプトをすべて削除</string>
-    <string name="toast_copy_domain_successful">ドメインのコピー成功</string>
     <string name="help_us_translate">翻訳に協力する</string>
     <string name="yahoo_url">Yahoo!（英語）</string>
     <string name="yandex_url">Yandex</string>
@@ -288,7 +247,6 @@
     <string name="skin_bg">背景</string>
     <string name="leave">離れる</string>
     <string name="install">インストール</string>
-    <string name="download_manager">ダウンロード</string>
     <string name="upload_hint">申し訳ございません、Viaがクラッシュしました。不具合を修正させていただくため、ログを送信くださいませんか？</string>
     <string name="crash_hint">申し訳ございません、Viaがクラッシュしました。</string>
     <string name="contact_us">開発者に連絡</string>
@@ -296,75 +254,52 @@
     <string name="glean">落穂拾い</string>
     <string name="current_language">現在の言語</string>
     <string name="missing_webview">WebViewが正常にインストールしていません。インストールしますか？</string>
-    <string name="ask_url">Ask</string>
     <string name="action_pic_mode">画像のみ表示</string>
     <string name="background_opacity">背景の不透明度</string>
-    <string name="action_close_all_tabs">すべてのタブを閉じる</string>
     <string name="action_fullscreen">フルスクリーン</string>
     <string name="action_ua">User Agent</string>
     <string name="import_">インポート</string>
     <string name="export_">エクスポート</string>
     <string name="disable">無効</string>
-    <string name="desc_close">閉じる</string>
     <string name="find_pre">前へ</string>
     <string name="find_next">次へ</string>
     <string name="action_modify">編集</string>
     <string name="action_open_in_background">バックグラウンドで開く</string>
-    <string name="action_sort_bookmarks">ブックマークを整理する</string>
-    <string name="block_it_temporarily">一時的にブロック</string>
     <string name="pull_to_refresh_gesture">引っ張って更新する</string>
     <string name="back_forward_gesture">ページ間をスワイプ</string>
-    <string name="clear_cache_on_exit">終了時にキャッシュをクリアする</string>
-    <string name="what_is_next">次はどうしますか？</string>
     <string name="no_bookmark">ブックマークはありません</string>
     <string name="settings_general">一般</string>
     <string name="ui_simple">操作バーを上下に配置</string>
     <string name="ui_traditional">通常</string>
     <string name="import_or_export_bookmarks">ブックマークをインポート/エクスポート</string>
-    <string name="go_together">開発に協力する</string>
     <string name="skin_transparent">透明</string>
     <string name="operation_hint">ジェスチャーの設定を行えます</string>
     <string name="adblock_info">%1$d件の広告がブロックされ、%2$s節約しました</string>
     <string name="color_mode_hint">自動的に操作バーの色を変更する</string>
     <string name="cannot_work">「http(s)」で始まるURLのみで動作します。</string>
-    <string name="empty_script_hint">スクリプトはありません。「⊕」ボタンをクリックしてスクリプトを追加できます。または、下のボタンをクリックしてください。</string>
     <string name="toolbar_settings_hint">下のボタンをクリック（スライド）して長押し（スライド）ジェスチャーを設定し、長く押すと設定されたジェスチャーが表示されます。</string>
-    <string name="empty_ads_mark_hint">ブロックされた広告はありません。ページ上の要素を長押しして、「広告をマーク」を選択してください。または、下のボタンをクリックしてください。</string>
-    <string name="sort_hint">ドラッグ＆ドロップで並び替え</string>
     <string name="skin_hide_search_part">検索ボックスを非表示にする</string>
-    <string name="action_more">並び替え</string>
     <string name="res_sniffer">リソース検知</string>
     <string name="search_by_pic">画像で検索</string>
-    <string name="share_explanation">暗号化して共有: Viaでのみ表示可能な形式で共有する。 \nShare: 他のアプリでも表示可能な形式で共有する。</string>
-    <string name="action_secret_share">暗号化して共有</string>
-    <string name="action_normal_share">共有</string>
     <string name="resource_sniffer">リソース検知</string>
     <string name="res_log_hint">アイテムを表示するにはタップ、ダウンロードするには長押ししてください。</string>
     <string name="no_resource">このページにはリソースがありません。</string>
     <string name="resource_sniffer_hint">\nPS: 見つからない場合は、動画や音声を再生してみてください。</string>
     <string name="no_network_log">このページにはネットワークログはありません。</string>
     <string name="action_download">ダウンロード</string>
-    <string name="action_play_with_mxplayer">MXPlayerで再生</string>
     <string name="empty_username_info">ユーザー名を入力してください。</string>
     <string name="empty_password_info">パスワードを入力してください。</string>
     <string name="offline_page_hint">以下は保存済みページです。インターネット接続が無くても閲覧可能です。</string>
     <string name="history_page_hint_when_incognito">シークレットモード中です。シークレットモードでは履歴は保存されません。</string>
     <string name="set_as_default">デフォルトのブラウザに設定しますか？</string>
-    <string name="exit_incognito_title">シークレットブラウズを終了</string>
-    <string name="exit_incognito_dialog">すべてのタブを閉じ、シークレットブラウズを終了しますか？</string>
     <string name="file_size">ファイルサイズ</string>
-    <string name="update">アップデート</string>
-    <string name="update_msg">新しいバージョンが公開されています。アップデートしますか？</string>
-    <string name="ignore">無視する</string>
     <string name="action_preview">プレビュー</string>
     <string name="action_page_info">ページ情報</string>
     <string name="page_info_title">タイトル:</string>
     <string name="page_info_url">現在のページのURL:</string>
     <string name="page_info_link">リンク先のURL:</string>
     <string name="no_network">ネットワーク接続がありません</string>
-    <string name="action_open_with">他のアプリで開く</string>
     <string name="title_app_chooser">アプリ選択</string>
-    <string name="sort_bookmarks_hint">ブックマークのアイコンをドラッグ＆ドロップしてください。</string>
     <string name="clear_data_on_exit">終了時にプライベートデータを消去</string>
     <string name="action_add_to_homepage">スピードダイヤルに追加</string>
     <string name="added_favorite_hint">スピードダイヤルに追加しました。</string>
@@ -372,8 +307,6 @@
     <string name="custom_css_special">カスタムCSSを追加</string>
     <string name="force_enable_zoom">強制的にズームを有効にする</string>
     <string name="set_ua_as">UserAgentは %s に設定されました</string>
-    <string name="need_permission_to_install_pkg">apkファイルをダウンロード中です。インストールを完了させるために権限の許可を行ってください。</string>
-    <string name="check_install_permission">提供元不明のアプリのインストールが許可されていません。設定画面を開きますか？</string>
     <string name="import_data">設定のインポート</string>
     <string name="import_data_failed">設定のインポートに失敗しました！</string>
     <string name="import_data_succeed">設定のインポートに成功しました！</string>
@@ -390,12 +323,8 @@
     <string name="message_invalid_certificate">このサイトの証明書は無効です。続行しますか？</string>
     <string name="message_not_yet_valid_certificate">このサイトの証明書はまだ有効ではありません。続行しますか？</string>
     <string name="bookmarks_data_to_long">ブックマークデータのサイズが大きすぎるため、アップロードできません。その他のデータはアップロードされます。続けますか？</string>
-    <string name="adblock_thanks">yhostsプロジェクトに感謝します！</string>
-    <string name="block_hint">ブロック済み: %s\n再読み込みして有効化します。</string>
-    <string name="unblock_hint">ブロック解除済み: %s\n再読み込みして有効化します。</string>
     <string name="night_css_enabled">Webページはナイトモードで表示されています。</string>
     <string name="night_css_disabled">Webページはナイトモードで表示されていません。</string>
-    <string name="local_storage">ローカルストレージ</string>
     <string name="ignore_secondary_ssl_error">セカンダリSSLエラーを無視する</string>
     <string name="powerful_cache">ハイパーキャッシュ</string>
     <string name="web_page_debug">Webページのデバッグを有効にする</string>

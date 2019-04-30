@@ -8,12 +8,10 @@
     <string name="action_share">Dalintis</string>
     <string name="action_history">Istorija</string>
     <string name="action_bookmarks">Žymės</string>
-    <string name="action_screenshot">Ekrano kopija</string>
     <string name="bookmarks_file">Eksportuoti žymes</string>
     <string name="action_add_bookmark">Pridėti žymę</string>
     <string name="action_night">Naktinis režimas</string>
     <string name="action_copy">Kopijuoti</string>
-    <string name="action_copy_domain">Kopijuoti domeną</string>
     <string name="action_block_domain">Blokuoti domeną</string>
     <string name="action_unblock_domain">Atblokuoti domeną</string>
     <string name="action_unblock_url">Atblokuoti</string>
@@ -47,17 +45,11 @@
     <string name="agent_iphone">Safari (iPhone)</string>
     <string name="agent_symbian">Nokia Browser</string>
     <string name="agent_custom">Pasirinktinis</string>
-    <string name="title_search_engine">Paieškos variklis</string>
-    <string name="action_ok">Taip</string>
     <string name="dialog_download">Ar jūs norite atsisiųsti šį failą?</string>
-    <string name="action_cancel">Atšaukti</string>
     <string name="title_warning">Įspėjimas</string>
     <string name="title_user_agent">Naudotojo Agentas</string>
     <string name="title_custom_homepage">Pasirinktinis pagrindinis puslapis</string>
     <string name="action_webpage">Puslapis</string>
-    <string name="action_yes">Taip</string>
-    <string name="action_no">Atšaukti</string>
-    <string name="title_text_size">Teksto dydis</string>
     <string name="size_largest">Didžiausias</string>
     <string name="size_large">Didelis</string>
     <string name="size_normal">Normalus</string>
@@ -84,7 +76,6 @@
     <string name="haosou_url">Haosou</string>
     <string name="duckduckgo_url">DuckDuckGo</string>
     <string name="startpage_url">Pagrindinis puslapis</string>
-    <string name="ask_url">Klauskite</string>
     <string name="yahoo_url">Yahoo</string>
     <string name="yandex_url">Yandex</string>
     <string name="google_url">Google</string>
@@ -112,25 +103,14 @@
     <string name="import_backup">Importuoti žymes</string>
     <string name="bookmark_export_path">Žymės eksportuotos į\n</string>
     <string name="import_bookmark_error">Importuojant žymes įvyko klaida</string>
-    <string name="feedback">Atsiliepimai</string>
     <string name="message_add_bookmark">Žymė pridėta</string>
     <string name="message_exit">Paspaudus dar kartą, išeisite iš Via</string>
-    <string name="web_screenshot">Interneto puslapio kopija</string>
-    <string name="screenshot_all">Kopijuoti visą puslapį</string>
-    <string name="screenshot_now">Kopijuoti tik matomą puslapio dalį</string>
     <string name="dialog_message">Pranešimas</string>
     <string name="toast_wait_a_minute">Palaukite sekundėlę&#8230;</string>
-    <string name="toast_save_to">Failą išsaugoti į: </string>
     <string name="toast_operation_failed">Įvyko klaida</string>
     <string name="toast_operation_done">Pabaigta sėkmingai</string>
     <string name="volume">Naudoti garso mygtukus keliavimui puslapiu (Aukštyn/Žemyn)</string>
-    <string name="intent">Leisti puslapiui atidaryti savo programėlę</string>
     <string name="msg_intent">Ar norėtumėte atidaryti programėlę?</string>
-    <string name="dialog_adblock">Pagrindinis blokavimas: naudoti jūsų įrenginyje esantį hosts.txt reklamų blokavimui \n\nPasirinktinis blokavimas: naudoti kitokį hosts.txt, failas bus atsiųstas jeigu jis neegzistuoja.</string>
-    <string name="dialog_adblock_default">Pagrindinis blokavimas</string>
-    <string name="dialog_adblock_custom">Pasirinktinis blokavimas</string>
-    <string name="dialog_adblock_download">Atsisiuntus jis bus pasirinktas automatiškai.\n\nVieta:</string>
-    <string name="dialog_adblock_custom_hint">\nPrašome nekeisti failo vietos ar pavadinimo. Jūs galite redaguoti šį failą norėdami sukurti savo blokavimo sąrašą.</string>
     <string name="setting_default">Nustatyti kaip pagrindinę naršyklę</string>
     <string name="toast_clear_defaults">Prašome išvalyti pagrindines programėles</string>
     <string name="toast_copy_url_successful">Nukopijuota</string>
@@ -175,16 +155,11 @@
     <string name="desc_tab">Skirtukas</string>
     <string name="desc_menu">Meniu</string>
     <string name="desc_filedic">Failas</string>
-    <string name="desc_other">Kiti</string>
-    <string name="msg_setgoogle">Ar norite nustatyti Google jūsų paieškos varikliu?</string>
     <string name="action_mark">Pažymėti kaip reklamą</string>
-    <string name="settings_block">Reklamų blokuotojas</string>
     <string name="dialog_confirm_block">Ar norite tą dalyką pažymėti kaip reklamą?</string>
     <string name="do_not_track">Nesekti</string>
-    <string name="get_more_rules">Gauti daugiau taisyklių</string>
     <string name="add_rule">Pridėti taisyklę</string>
     <string name="hint_tags">Pažymėti</string>
-    <string name="clear_ad_rules">Išvalyti visas reklamų atpažinimo taisykles</string>
     <string name="color_mode">Spalvotas režimas</string>
     <string name="dialog_sure">Ar jūs tikrai norite tai padaryti?</string>
     <string name="action_send_to_launcher">Nusiųsti į paleidimo priemonę</string>
@@ -192,7 +167,6 @@
     <string name="user">Prisijungti/sukurti paskyrą</string>
     <string name="user_syns">Sinchronizuoti</string>
     <string name="user_update">Nusiųsti</string>
-    <string name="log_in_success">Prisijungimas sėkmingas</string>
     <string name="wrong_psw">Neteisingas slaptažodis</string>
     <string name="sign_up_success">Paskyros sukūrimas sėkmingas</string>
     <string name="code_500">Paslauga negalima</string>
@@ -206,11 +180,7 @@
     <string name="upload_completed">Nusiuntimas baigtas :)</string>
     <string name="ui_mode">UI Režimas</string>
     <string name="ui_auto">Automatinis</string>
-    <string name="open_or_search">Atidaryti/ieškoti</string>
-    <string name="settings_addons">Priedai</string>
     <string name="addon_download">Atsisiuntimų valdytojas</string>
-    <string name="addon_qr_code_scan">Qr Kodo skanuoklis</string>
-    <string name="install_addon">Grįžti į atsisiuntimus ir instaliuoti papildinį? Šis papildinys veiks tik po instaliavimo.</string>
     <string name="quick_back">Grįžti iš naujo neperkraunant puslapio</string>
     <string name="open_with">Atidaryti su&#8230;</string>
     <string name="download_completed">Atsisiuntimas pabaigtas</string>
@@ -224,14 +194,10 @@
     <string name="data_cookies">Slapukai</string>
     <string name="data_cleared">Duomenys išvalyti</string>
 
-    <string name="cannot_undo">Vėliau nebebus galima grąžinti</string>
-
     <string name="sync_desc">Jeigu tokios paskyros nebus, bus sukurta nauja</string>
 
     <string name="settings_skin">Išvaizdos nustatymai</string>
     <string name="default_set">Pagrindinis</string>
-    <string name="custom_css">Išplėstinis CSS</string>
-    <string name="num_of_bookmarks_in_home">Žymių skaičius pagrindiniame puslapyje</string>
     <string name="picture">Nuotrauka</string>
     <string name="text">Tekstas</string>
     <string name="html_code">Html Kodas</string>
@@ -243,7 +209,6 @@
     <string name="skin_transparent">Permatomas</string>
 
     <string name="block_popup">Blokuoti iššokančius langus</string>
-    <string name="open_window_hint">Puslapis bando atidaryti naują skirtuką</string>
 
     <string name="action_save_web_page">Išsaugoti šį puslapį</string>
     <string name="action_saved_pages">Išsaugoti puslapiai</string>
@@ -255,15 +220,12 @@
     <string name="network_log">Resursų sąrašas</string>
     <string name="catalog">Katalogas</string>
 
-    <string name="screenshot_hint">Jeigu jūs naudojate Android 5.0+ viso puslapio kopijavimas gali neveikti. Mes vis dar ieškome sprendimų.</string>
-
     <string name="conn_timeout">Bandymas prisijungti prie puslapio užtruko per ilgai</string>
 
     <string name="already_default">Tai jau yra pagrindinis</string>
 
     <string name="set_to_default">Tai taps pagrindiniu po to kai atidarysimi šį adresą(%s), prašome pasirinkti Via adreso atidarymui</string>
 
-    <string name="quick_back_desc">Ši funkcija gali neveikti</string>
     <string name="sync_prompt">Tai perrašys dabartines žymes ir nustatymus. Tęsti?</string>
     <string name="upload_prompt">Tai išsiųs dabartines žymes ir nustatymus. Tęsti?</string>
     <string name="none">Tuščia</string>
@@ -272,13 +234,11 @@
     <string name="need_permission_hint">Via\'i gali prireikti šių leidimų:\n\n</string>
     <string name="storage_permission">Vidinė atmintis: atsisiuntimams, žymių importavimui/eksportavimui ir t.t.\n\n</string>
     <string name="location_permission">Vietos prieiga: puslapiams kaip Google Maps\n\n</string>
-    <string name="phone_permission">Skambučiai: gauti jūsų neprivačią telefono informaciją, kad galėtumėme sukurti paprastus klaidų sąrašus be statistikas\n\n</string>
     <string name="force_cancel">Priverstinai uždaryti</string>
     <string name="restore_tabs_hint">Grąžinti neuždarytus skirtukus iš praėjusios naršymo sesijos?</string>
     <string name="restore_tabs">Automatiškai grąžinti neuždarytus skirtukus iš praėjusios naršymo sesijos</string>
     <string name="install_success">Instaliavimas sėkmingas!!!</string>
     <string name="uninstall_success">Ištrynimas sėkmingas!!!</string>
-    <string name="online_addons">Atsisiunčiami priedai</string>
     <string name="log_page_hint">Užblokuotų sąrašą galite surasti %1$s\nJūs galite redaguoti sąrašą, arba paspausti ir palaikyti tą daiktą kurį norite (at)blokuoti.</string>
     <string name="fullscreen_0">Išjungti</string>
     <string name="fullscreen_1">Slenkant puslapiu, bus rodoma/slėpiama</string>
@@ -288,9 +248,6 @@
     <string name="add_script">Pridėti papildinį</string>
     <string name="script_url">Domenas ar * (*reiškia visi)</string>
     <string name="script_code">Kodas (Javascript)</string>
-    <string name="clear_all_script">Išvalyti visus papildinius</string>
-    <string name="toast_copy_domain_successful">Domenas nukopijuotas sėkmingai</string>
-    <string name="go_together">Prisijunkite prie mūsų</string>
     <string name="help_us_translate">Padėkite versti</string>
     <string name="confirm_to_leave">Patvirtinkite, kad norite išeiti</string>
     <string name="leave">Išeiti</string>
@@ -308,10 +265,8 @@
     <string name="contact_us">Susisiekti su mumis</string>
     <string name="official_website">Oficialus puslapis</string>
     <string name="current_language">Kalba</string>
-    <string name="download_manager">Atsisiuntimų valdytojas</string>
     <string name="background_opacity">Fono permatomumas</string>
     <string name="action_pic_mode">Paveikslėlio režimas</string>
-    <string name="block_it_temporarily">Laikinai blokuoti</string>
     <string name="find_next">Surasti sekantį</string>
     <string name="find_pre">Surasti buvusį</string>
     <string name="action_open_in_background">Atidaryti fone</string>
@@ -321,7 +276,6 @@
     <string name="settings_general">Pagrindiniai</string>
     <string name="no_bookmark">Žymių nėra</string>
     <string name="import_or_export_bookmarks">Importuoti/eksportuoti žymes</string>
-    <string name="what_is_next">Kas toliau?</string>
     <string name="import_">Importuoti žymes</string>
     <string name="export_">Eksportuoti žymes</string>
     <string name="pull_to_refresh_gesture">Patraukti žemyn puslapio perkrovimui</string>
@@ -329,28 +283,14 @@
     <string name="toolbar_settings_hint">Paspaudus mygtuką galima nustatyti jo ilgo paspaudimo reikšmę</string>
     <string name="action_modify">Keisti</string>
     <string name="operation_hint">Gestai, trumpiniai ir t.t.</string>
-    <string name="empty_ads_mark_hint">Nėra pažymėtų reklamų. \nIlgai paspaudus reklamą ir pasirinkus \"Pažymėti kaip reklamą\" reklama bus blokuojama.</string>
-    <string name="empty_script_hint">Papildinių nėra \nPapildinių pridėjimui paspauskite "+"</string>
     <string name="adblock_info">Užblokuota %1$d reklamų, sutaupyta %2$s</string>
     <string name="disable">Išjungti</string>
     <string name="ui_traditional">Sumuštinis</string>
     <string name="ui_simple">Paprastas</string>
     <string name="color_mode_hint">Prie spalvų prisitaikančios funkcijų eilutės</string>
-    <string name="sort_hint">Palaikykite ir braukite, kad rūšiuotumėte</string>
-    <string name="action_sort_bookmarks">Rūšiuoti žymes</string>
-    <string name="desc_close">Uždaryti</string>
-    <string name="clear_cache_on_exit">Išvalyti talpyklą prieš išeinant iš programėlės</string>
-    <string name="action_close_all_tabs">Uždaryti visus skirtukus?</string>
     <string name="skin_hide_search_part">Slėpti paieškos eilutę</string>
-    <string name="action_more">Daugiau</string>
-    <string name="action_exit">Išeiti</string>
     <string name="set_as_default">Nustatyti pagrindine naršykle?</string>
-    <string name="exit_incognito_title">Išeiti iš Inkognito</string>
-    <string name="exit_incognito_dialog">Ar jūs norite uždaryti visus esamus skirtukus prieš išjungiant Inkognito?</string>
     <string name="file_size">Failo dydis</string>
-    <string name="update">Atnaujinti</string>
-    <string name="update_msg">Atsirado atnaujinimas. Ar norite jį įdiegti dabar?</string>
-    <string name="ignore">Ignoruoti</string>
     <string name="share_script">Papildiniai %1$s, kopijuokite šią žinutę ir atidarykite Via, kad importuotumėte. viaužrašas{%2$s}</string>
     <string name="share_online_script">Papildinys %1$s, kopijuokite šią žinutę ir atidarykite %2$s su via, kad instaliuotumėte.</string>
     <string name="import_script">Importuoti užrašus %1$s iš iškarpinės?\nĮspėjimas: Užrašai gali būti nesaugūs. Būkite tikri, kad tai yra saugu.\nUžrašas:\n</string>
@@ -360,12 +300,7 @@
     <string name="import_url">Atidaryti adresą iš iškarpinės?\nAdresas: %1$s</string>
     <string name="import_successful">Importavimas sėkmingas</string>
     <string name="all_sites">Visos internetinės svetainės/užrašai</string>
-    <string name="easter_egg">Easter egg (AD)</string>
     <string name="action_click_to_view">Paspauskite, kad žiūrėtumėte</string>
-    <string name="join_us">Prisijunkite prie mūsų</string>
-    <string name="share_explanation">Užšifruotas pasidalinimas: galima peržiūrėti tik su naudojant Via naršyklę. \nDalintis: Dalintis šios svetainės adresu.</string>
-    <string name="action_secret_share">Užšifruotas pasidalinimas</string>
-    <string name="action_normal_share">Pasidalinti</string>
     <string name="res_sniffer">Media atsisiuntimas</string>
     <string name="search_by_pic">Ieškoti paveikslėliu</string>
     <string name="resource_sniffer">Media atsisiuntimas</string>
@@ -374,7 +309,6 @@
     <string name="no_network_log">Puslapis neturi ryšio sąrašų</string>
     <string name="resource_sniffer_hint">\nSurasti media failus yra daug leingviau, kai jie yra paleisti. Kai kuriose svetainėse media failų atsisiųsti neįmanoma.</string>
     <string name="action_download">Atsisiuntimai</string>
-    <string name="action_play_with_mxplayer">Paleisti naudojant MXplayer</string>
     <string name="empty_username_info">Prašome įvesti savo vartotojo vardą</string>
     <string name="empty_password_info">Prašome įvesti savo slaptažodį</string>
     <string name="offline_page_hint">Čia yra išsaugoti puslapiai. Juos juos galite naudoti be inteneto.</string>
@@ -385,9 +319,7 @@
     <string name="page_info_url">Puslapio URL:</string>
     <string name="page_info_link">Adreso URL:</string>
     <string name="no_network">Nėra interneto</string>
-    <string name="action_open_with">Atidaryti su tinkančia programėle</string>
     <string name="title_app_chooser">Programėlių parinktuvas</string>
-    <string name="sort_bookmarks_hint">Patraukti žemyn ir paleisti žymės ikoną, kad išrūšuiotumėta sąrašą</string>
     <string name="clear_data_on_exit">Prieš išeinant išvalyti duomenis</string>
     <string name="action_add_to_homepage">Pridėti prie pagrindinio ekrano</string>
     <string name="added_favorite_hint">Pridėjimas prie pagrindinio ekrano sėkmingas</string>
@@ -395,8 +327,6 @@
     <string name="custom_css_special">Pridėti CSS</string>
     <string name="force_enable_zoom">Įgalinti priverstinį puslapio priartinimą</string>
     <string name="set_ua_as">%s nustatytas Naudotojo Agentu</string>
-    <string name="need_permission_to_install_pkg">Jūs atsisiuntėte .apk failą, prašome Via`i suteikti .apk failų instaliavimo leidimą.</string>
-    <string name="check_install_permission">Instaliavimo leidimas negautas. Ar norėtumėte suteikti leidimą sistemos nustatymuose?</string>
     <string name="import_data">Importuoti duomenis</string>
     <string name="import_data_failed">Importuojant duomenis įvyko klaida!</string>
     <string name="import_data_succeed">Duomenys importuoti sėkmingai!</string>
@@ -407,13 +337,9 @@
     <string name="disable_restore">Negrąžinti</string>
     <string name="data_file">Duomenų eksportavimas</string>
     <string name="bookmarks_data_to_long">Žymės užima per daug vietos, tačiau kiti duomenys bus įkelti. Tęsti?</string>
-    <string name="adblock_thanks">Mes esame dėkingi „yhosts“ projektui!</string>
-    <string name="block_hint">Blokuota: %s\perkraukite puslapį.</string>
-    <string name="unblock_hint">Atblokuota: %s\perkraukite puslapį.</string>
     <string name="restore_tabs_hint_settings">Kai esate \"Inkognito\" skirtukai nebus grąžinami</string>
     <string name="night_css_enabled">Įjungtas tamsusis režimas naudojantis naktiniu režimu</string>
     <string name="night_css_disabled">Išjungtas tamsusis režimas naudojantis naktiniu režimu</string>
-    <string name="local_storage">Saugykla</string>
     <string name="ignore_secondary_ssl_error">Ignoruoti antrą SSL klaidą</string>
     <string name="powerful_cache">Hyper saugykla</string>
     <string name="web_page_debug">Įjungti puslapių derinimą</string>
@@ -424,7 +350,9 @@
     <string name="action_copy_download_link">Kopijuoti Atsisiuntimo adresą</string>
     <string name="download_failed">Atsisiuntimas nesėkmingas</string>
     <string name="view_downloads">Žiūrėti</string>
-    <string name="message_delete_downloading_task">Ar tikrai norite ištinti?</string>
+    <string name="message_delete_downloading_task">Ar tikrai?</string>
+    <string name="message_delete_downloaded_task">Ištrinti šį atsisiuntimą?</string>
+    <string name="message_delete_downloaded_file">Įskaitant atsisiųstą failą</string>
     <string name="block_popup_message">Iššokantis langas užblokuotas</string>
     <string name="allow_popup">Atidaryti</string>
     <string name="system_download_manager">Sistemos Atsisiuntimų Valdytojas</string>
@@ -435,4 +363,5 @@
     <string name="chinese_server">Kinijos</string>
     <string name="global_server">Pasaulio</string>
     <string name="server_message">Šių serverių duomenys nesinchronizuoti. Jums gali prireikti prisijungti iš naujo.</string>
+    <string name="delete_bookmark_folder_message">Žymės esančios %s aplanke bus ištrinti. Ar tikrai?</string>
     </resources>

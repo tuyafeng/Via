@@ -8,12 +8,10 @@
     <string name="action_share">Udostępnij link</string>
     <string name="action_history">Historia</string>
     <string name="action_bookmarks">Zakładki</string>
-    <string name="action_screenshot">Zrzut ekranu</string>
     <string name="bookmarks_file">BookmarksExport</string>
     <string name="action_add_bookmark">Dodaj zakładkę</string>
     <string name="action_night">Tryb nocny</string>
     <string name="action_copy">Kopiuj link</string>
-    <string name="action_copy_domain">Kopiuj domenę</string>
     <string name="action_block_domain">Zabl. domenę</string>
     <string name="action_unblock_domain">Odbl. domenę</string>
     <string name="action_unblock_url">Odbl. link</string>
@@ -47,17 +45,11 @@
     <string name="agent_iphone">Safari (iPhone)</string>
     <string name="agent_symbian">Symbian (Nokia)</string>
     <string name="agent_custom">Własny</string>
-    <string name="title_search_engine">Wyszukiwarka</string>
-    <string name="action_ok">OK</string>
     <string name="dialog_download">Czy chcesz pobrać ten plik?</string>
-    <string name="action_cancel">Anuluj</string>
     <string name="title_warning">Ostrżeżenie</string>
     <string name="title_user_agent">User Agent</string>
     <string name="title_custom_homepage">Własna strona</string>
     <string name="action_webpage">Własna strona</string>
-    <string name="action_yes">OK</string>
-    <string name="action_no">Anuluj</string>
-    <string name="title_text_size">Rozmiar tekstu</string>
     <string name="size_largest">Bardzo duży</string>
     <string name="size_large">Duży</string>
     <string name="size_normal">Normalny</string>
@@ -84,7 +76,6 @@
     <string name="haosou_url">Haosou</string>
     <string name="duckduckgo_url">DuckDuckGo</string>
     <string name="startpage_url">StartPage</string>
-    <string name="ask_url">Ask</string>
     <string name="yahoo_url">Yahoo</string>
     <string name="yandex_url">Yandex</string>
     <string name="google_url">Google</string>
@@ -112,25 +103,14 @@
     <string name="import_backup">Importuj zakładki</string>
     <string name="bookmark_export_path">Zakładki zostały wyeksportowane do\n</string>
     <string name="import_bookmark_error">Nie można zaimportować zakładek z tego pliku</string>
-    <string name="feedback">Opinia</string>
     <string name="message_add_bookmark">Zakładka została dodana</string>
     <string name="message_exit">Naciśnij jeszcze raz, aby wyjść.</string>
-    <string name="web_screenshot">Zrzut ekranu</string>
-    <string name="screenshot_all">Cała strona</string>
-    <string name="screenshot_now">Widoczna część</string>
     <string name="dialog_message">Wiadomość</string>
     <string name="toast_wait_a_minute">Momencik&#8230;</string>
-    <string name="toast_save_to">Zapisz plik do: </string>
     <string name="toast_operation_failed">Operacja nie powiodła się.</string>
     <string name="toast_operation_done">Operacja powiodła się.</string>
     <string name="volume">Przewijaj strony przyciskami głośności</string>
-    <string name="intent">Zezwalaj na przekierowywanie do aplikacji</string>
     <string name="msg_intent">Czy chcesz otworzyć związaną z tym działaniem aplikację?</string>
-    <string name="dialog_adblock">Metoda domyślna: w celu blokady reklam używany będzie systemowy plik hosts.\n\nMetoda własna: używany będzie lokalny plik hosts. Jeśli nie instnieje, zostanie on utworzony.</string>
-    <string name="dialog_adblock_default">Metoda domyślna</string>
-    <string name="dialog_adblock_custom">Metoda własna</string>
-    <string name="dialog_adblock_download">Po pobraniu plik zostanie automatycznie wybrany.\n\nŚcieżka:</string>
-    <string name="dialog_adblock_custom_hint">\nNie możesz zmieniać nazwy ani lokalizacji pliku. Możesz za to zmieniać jego zawartość, aby ustawiać własne listy blokowania reklam.</string>
     <string name="setting_default">Ustaw jako domyślną przeglądarkę</string>
     <string name="toast_clear_defaults">Wyczyść domyślne</string>
     <string name="toast_copy_url_successful">Adres został skopiowany</string>
@@ -175,16 +155,11 @@
     <string name="desc_tab">karta</string>
     <string name="desc_menu">menu</string>
     <string name="desc_filedic">plik</string>
-    <string name="desc_other">inne</string>
-    <string name="msg_setgoogle">Ustawić wyszukiwarkę Google jako domyślną?</string>
     <string name="action_mark">Oznacz jako reklamę</string>
-    <string name="settings_block">AdBlock</string>
     <string name="dialog_confirm_block">Oznaczyć ten element jako reklamę?</string>
     <string name="do_not_track">Nie śledź mnie</string>
-    <string name="get_more_rules">Więcej reguł</string>
     <string name="add_rule">Dodaj regułę</string>
     <string name="hint_tags">Tagi</string>
-    <string name="clear_ad_rules">Usuń wszystkie reguły</string>
     <string name="color_mode">Kolorowe paski</string>
     <string name="dialog_sure">Na pewno?</string>
     <string name="action_send_to_launcher">Utw. skrót na pulpicie</string>
@@ -192,7 +167,6 @@
     <string name="user">Zaloguj / zarejestruj się</string>
     <string name="user_syns">Synchronizuj dane</string>
     <string name="user_update">Wyślij dane</string>
-    <string name="log_in_success">Logowanie zakończone</string>
     <string name="wrong_psw">Niepoprawne hasło</string>
     <string name="sign_up_success">Rejestracja zakończona</string>
     <string name="code_500">Usługa niedostępna</string>
@@ -206,11 +180,10 @@
     <string name="upload_completed">Wysyłanie zakończone</string>
     <string name="ui_mode">Tryb interfejsu</string>
     <string name="ui_auto">Automatyczny</string>
-    <string name="open_or_search">Otwórz / szukaj</string>
-    <string name="settings_addons">Rozszerzenia</string>
-    <string name="addon_download">Menedżer pobierania</string>
-    <string name="addon_qr_code_scan">Skanowanie kodów QR</string>
-    <string name="install_addon">Przejść do strony z rozszerzeniami?</string>
+    <string name="addon_download">Menedżer pobierania</string><![CDATA[
+
+    
+    ]]>
     <string name="quick_back">Cofanie bez odświeżania strony</string>
     <string name="open_with">Otwórz z pomocą&#8230;</string>
     <string name="download_completed">Pobieranie zakończone</string>
@@ -224,14 +197,10 @@
     <string name="data_cookies">Ciasteczka</string>
     <string name="data_cleared">Dane zostały usunięte</string>
 
-    <string name="cannot_undo">Czynność ta jest nieodwracalna.</string>
-
     <string name="sync_desc">Jeśli konto nie istnieje, zostanie utworzone.</string>
 
     <string name="settings_skin">Ekran startowy</string>
     <string name="default_set">Dom.</string>
-    <string name="custom_css">Własny plik CSS</string>
-    <string name="num_of_bookmarks_in_home">Liczba zakładek na ekranie startowym</string>
     <string name="picture">Obraz</string>
     <string name="text">Tekst</string>
     <string name="html_code">Kod HTML</string>
@@ -243,7 +212,6 @@
     <string name="skin_transparent">Przezroczysty</string>
 
     <string name="block_popup">Blokuj wyskakujące okna</string>
-    <string name="open_window_hint">Strona próbuje wyświetlić nowe okno</string>
 
     <string name="action_save_web_page">Zapisz stronę</string>
     <string name="action_saved_pages">Zapisane strony</string>
@@ -255,15 +223,12 @@
     <string name="network_log">Dziennik sieci</string>
     <string name="catalog">Katalog</string>
 
-    <string name="screenshot_hint">W Androidzie w wersji 5.0 i wyższej mogą występować problemy z wykonywaniem pełnych zrzutów ekranu strony. Póki co nie znamy rozwiązania tego problemu.</string>
-
     <string name="conn_timeout">Upłynął limit czasu połączenia</string>
 
     <string name="already_default">Aplikacja jest już ustawiona jako domyślna</string>
 
     <string name="set_to_default">Przeglądarka zostanie ustawiona jako domyślna po użyciu jej do otwarcia linku (%s). Wybierz przeglądarkę Via, aby otworzyć link.</string>
 
-    <string name="quick_back_desc">Po włączeniu tej opcji mogą występować problemy z działaniem aplikacji. Jeśli takowe zauważysz, wyłącz tą opcję.</string>
     <string name="sync_prompt">Lokalne zakładki i ustawienia zostaną nadpisane. Kontynuować?</string>
     <string name="upload_prompt">Obecne zakładki i ustawienia zostaną wysłane. Kontynuować?</string>
     <string name="none">Nic</string>
@@ -271,14 +236,14 @@
     <string name="check_permission">Nie przyznano (niektórych) uprawnień. Ustawić je w ustawieniach systemowych?</string>
     <string name="need_permission_hint">Aplikacja potrzebuje następujących uprawnień do prawidłowej pracy:\n\n</string>
     <string name="storage_permission">Pamięć: aby móc pobierać pliki oraz eksportować zakładki.\n\n</string>
-    <string name="location_permission">Lokalizacja: dla stron typu Mapy Google. Domyślnie jest ono wyłączone. Jeśli jest włączone, w razie potrzeby zostanie wyświetlone powiadomienie, czy strona może użyć Twojej lokalizacji.\n\n</string>
-    <string name="phone_permission">Telefon: aby móc pozyskać niezbędne informacje o urządzeniu w celu prowadzenia prostych statystyk, a w razie wystąpienia błędów - móc sporządzić raport.\n\n</string>
+    <string name="location_permission">Lokalizacja: dla stron typu Mapy Google. Domyślnie jest ono wyłączone. Jeśli jest włączone, w razie potrzeby zostanie wyświetlone powiadomienie, czy strona może użyć Twojej lokalizacji.\n\n</string><![CDATA[
+    
+    ]]>
     <string name="force_cancel">Anuluj</string>
     <string name="restore_tabs_hint">Przywrócić niezamknięte ostatnio karty?</string>
     <string name="restore_tabs">Przywracaj karty po uruchomieniu</string>
     <string name="install_success">Instalacja zakończona</string>
     <string name="uninstall_success">Deinstalacja zakończona</string>
-    <string name="online_addons">Strona z rozszerzeniami</string>
     <string name="log_page_hint">Możesz skopiować następujący link lub domenę i wkleić do %1$s, aby zablokować ich ładowanie.</string>
     <string name="fullscreen_0">Wyłączone</string>
     <string name="fullscreen_1">Przewiń, aby schować / pokazać</string>
@@ -288,9 +253,6 @@
     <string name="add_script">Dodaj skrypt</string>
     <string name="script_url">Domena albo * (* - wszystko)</string>
     <string name="script_code">Kod (JavaScript)</string>
-    <string name="clear_all_script">Usuń wszystkie skrypty</string>
-    <string name="toast_copy_domain_successful">Kopiowanie domeny zakończone</string>
-    <string name="go_together">Podążajmy razem</string>
     <string name="help_us_translate">Przetłumacz aplikację na swój język</string>
     <string name="confirm_to_leave">Potwierdź</string>
     <string name="leave">Opuść</string>
@@ -308,10 +270,8 @@
     <string name="contact_us">Skontaktuj się z nami</string>
     <string name="official_website">Oficjalna strona</string>
     <string name="current_language">Obecny język</string>
-    <string name="download_manager">Menedżer pobierania</string>
     <string name="background_opacity">Przezroczystość tła</string>
     <string name="action_pic_mode">Tryb obrazkowy</string>
-    <string name="block_it_temporarily">Zablokuj tymczasowo</string>
     <string name="find_next">Następny</string>
     <string name="find_pre">Poprzedni</string>
     <string name="action_open_in_background">Otwórz w tle</string>
@@ -321,7 +281,6 @@
     <string name="settings_general">Ogólne</string>
     <string name="no_bookmark">Brak zakładek</string>
     <string name="import_or_export_bookmarks">Importuj / eksportuj zakładki</string>
-    <string name="what_is_next">Co chcesz zrobić?</string>
     <string name="import_">Importuj</string>
     <string name="export_">Eksportuj</string>
     <string name="pull_to_refresh_gesture">Pociągnięcie w celu odświeżenia strony</string>
@@ -329,28 +288,19 @@
     <string name="toolbar_settings_hint">Kliknij (przeciągnij) poniższe przyciski, aby ustawić działanie po ich przytrzymaniu (przeciągnięciu). Przytrzymaj, aby zobaczyć ich obecne ustawienie.</string>
     <string name="action_modify">Modyfikuj</string>
     <string name="operation_hint">Operacje, gesty, itp.</string>
-    <string name="empty_ads_mark_hint">Brak elementów oznaczonych jako reklamy. \nNaciśnij element na stronie i wybierz opcję \"Oznacz jako reklamę\", aby go zablokować. \nMożesz też nacisnąć przycisk \"+\" na górze, aby dodać go ręcznie, lub poniższy przycisk, aby pobrać gotowe reguły.</string>
-    <string name="empty_script_hint">Brak skryptów.</string>
     <string name="adblock_info">Zablokowane reklamy: %1$d, zaoszczędzony transfer: %2$s.</string>
     <string name="disable">Wyłączone</string>
     <string name="ui_traditional">Tradycyjny</string>
     <string name="ui_simple">Prosty</string>
-    <string name="color_mode_hint">Koloruj pasek narzędziowy i pasek stanu podczas przeglądania.</string>
-    <string name="sort_hint">Przytrzymaj i przeciągnij element, aby zmienić kolejność</string>
-    <string name="action_sort_bookmarks">Sortuj zakładki</string>
-    <string name="desc_close">Zamknij</string>
-    <string name="clear_cache_on_exit">Czyść pamięć podręczną przy wyjściu</string>
-    <string name="action_close_all_tabs">Zamknij wszystkie karty</string>
-    <string name="skin_hide_search_part">Ukryj pasek wyszukiwarki</string>
-    <string name="action_more">Więcej</string>
-    <string name="action_exit">Wyjdź</string>
+    <string name="color_mode_hint">Koloruj pasek narzędziowy i pasek stanu podczas przeglądania.</string><![CDATA[
+
+
+
+
+       ]]>
+    <string name="skin_hide_search_part">Ukryj pasek wyszukiwarki</string>
     <string name="set_as_default">Ustawić aplikację jako domyślną przeglądarkę?</string>
-    <string name="exit_incognito_title">Wyjdź z trybu prywatnego</string>
-    <string name="exit_incognito_dialog">Zamknąć wszystkie karty przed wyjściem z trybu prywatnego?</string>
     <string name="file_size">Rozmiar pliku</string>
-    <string name="update">Aktualizuj</string>
-    <string name="update_msg">Dostępna jest nowa wersja aplikacji. Zaktualizować teraz?</string>
-    <string name="ignore">Ignoruj</string>
     <string name="share_script">Skrpyt dla %1$s. Skopiuj tą wiadomość i otwórz aplikację Via, aby go zaimportować.\n viascript{%2$s}</string>
     <string name="share_online_script">Skrypt dla %1$s. Skopiuj tą wiadomość i otwórz link %2$s za pomocą aplikacji Via, aby go zainstalować.</string>
     <string name="import_script">Zaimportować ze schowka skrypt dla %1$s?\nOstrzeżenie: skrypt może być niebezpieczny.\n</string>
@@ -360,12 +310,7 @@
     <string name="import_url">Otworzyć link ze schowka?\n %1$s</string>
     <string name="import_successful">Importowanie zakończone</string>
     <string name="all_sites">wszystkie strony</string>
-    <string name="easter_egg">Easter Egg (rekalma)</string>
     <string name="action_click_to_view">Kliknij, aby wyświetić</string>
-    <string name="join_us">Dołącz do nas</string>
-    <string name="share_explanation">Udostępnienie szyfrowane: link możliwy do otwarcia tylko w niniejszej aplikacji. \nUdostępnienie normalne: link możliwy do otwarcia w każdej przeglądarce.</string>
-    <string name="action_secret_share">Szyfrowane</string>
-    <string name="action_normal_share">Normalne</string>
     <string name="res_sniffer">Zasoby strony</string>
     <string name="search_by_pic">Szukaj według tego obrazu</string>
     <string name="resource_sniffer">Zasoby strony</string>
@@ -374,7 +319,6 @@
     <string name="no_network_log">Strona ta nie ma dziennika sieci.</string>
     <string name="resource_sniffer_hint">\nOdtwórz w niej jakiś film lub muzykę. Wykrywacz na pewnych stronach nie działa.</string>
     <string name="action_download">Pobrane</string>
-    <string name="action_play_with_mxplayer">Odtw. w MXPlayerze</string>
     <string name="empty_username_info">Wprowadź nazwę użytkownika</string>
     <string name="empty_password_info">Wprowadź hasło</string>
     <string name="offline_page_hint">To są zapisane strony. Możesz je przeglądać, gdy nie masz połączenia z siecią.</string>
@@ -385,9 +329,7 @@
     <string name="page_info_url">Adres strony:</string>
     <string name="page_info_link">Adres linku:</string>
     <string name="no_network">Brak dostępnych połączeń sieciowych</string>
-    <string name="action_open_with">Otwórz w aplikacji</string>
     <string name="title_app_chooser">Wybór aplikacji</string>
-    <string name="sort_bookmarks_hint">Przeciągnij i upuść ikonę zakładki, aby posortować listę</string>
     <string name="clear_data_on_exit">Czyść dane przy wyjściu</string>
     <string name="action_add_to_homepage">Dodaj do szybkiego wybierania</string>
     <string name="added_favorite_hint">Dodano do szybkiego wybierania</string>
@@ -395,8 +337,6 @@
     <string name="custom_css_special">Dodaj własny plik CSS</string>
     <string name="force_enable_zoom">Wymuś powiększanie strony</string>
     <string name="set_ua_as">Ustaw obecnego user agenta jako %s</string>
-    <string name="need_permission_to_install_pkg">Pobierasz plik APK. Przyznaj aplikacji odpowiednie uprawnienie, aby mogła je instalować.</string>
-    <string name="check_install_permission">Uprawnienie nie zostało przyznane. Przejść do ustawień, aby moć je przyznać?</string>
     <string name="import_data">Importuj dane</string>
     <string name="import_data_failed">Importowanie danych nie powiodło się</string>
     <string name="import_data_succeed">Importowanie danych zakończone</string>
@@ -407,13 +347,9 @@
     <string name="disable_restore">Nigdy</string>
     <string name="data_file">dane</string>
     <string name="bookmarks_data_to_long">Dane zakładek są za duże do przesłania, ale inne dane zostaną przesłane. Kontynuować?</string>
-    <string name="adblock_thanks">Dzięki za projekt yhosts!</string>
-    <string name="block_hint">Zablokowano: %s\nOdśwież, aby zastosować zmiany.</string>
-    <string name="unblock_hint">Odblokowano: %s\nOdśwież, aby zastosować zmiany.</string>
     <string name="restore_tabs_hint_settings">Kiedy jesteś w trybie prywatnym, nie zostaną przywrócone żadne karty.</string>
     <string name="night_css_enabled">Włączono ciemny widok stron w trybie nocnym.</string>
     <string name="night_css_disabled">Wyłączono ciemny widok stron w trybie nocnym.</string>
-   <string name="local_storage">Lokalna pamięć masowa</string>
     <string name="ignore_secondary_ssl_error">Ignoruj drugorzędny błąd SSL</string>
     <string name="powerful_cache">Hyper Cache</string>
     <string name="web_page_debug">Debugowanie stron</string>
@@ -425,6 +361,8 @@
     <string name="download_failed">pobieranie nie powiodło się</string>
     <string name="view_downloads">Pokaż</string>
     <string name="message_delete_downloading_task">Pobrany plik również zostanie usunięty. Kontynuować?</string>
+    <string name="message_delete_downloaded_task">Usunąć zadanie?</string>
+    <string name="message_delete_downloaded_file">Usunąć także pobrany plik?</string>
     <string name="block_popup_message">Zablokowano wyskakujące okno</string>
     <string name="allow_popup">Zezwól tym razem</string>
     <string name="system_download_manager">Systemowy menedżer pobierania</string>
@@ -435,4 +373,5 @@
     <string name="chinese_server">Chiński</string>
     <string name="global_server">Globalny</string>
     <string name="server_message">Dane serwerów nie są zsynchronizowane. Konieczne będzie ponowne zalogowanie się.</string>
+    <string name="delete_bookmark_folder_message">Zakładki w folderze \"%s\" również zostaną usunięte. Kontynuować?</string>
 </resources>
