@@ -346,4 +346,6 @@
     <string name="chinese_server">中国</string>
     <string name="global_server">グローバル</string>
     <string name="server_message">このサーバーではデータの同期はされていません。再度ログインする必要があります。</string>
+    <string name="block_hint">ブロック済み: %s\n再読み込みして有効化します。</string>
+    <string name="unblock_hint">ブロック解除済み: %s\n再読み込みして有効化します。</string>
 </resources>

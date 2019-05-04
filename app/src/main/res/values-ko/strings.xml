@@ -341,4 +341,6 @@
     <string name="night_css_enabled">Enabled web dark mode in night mode.</string>
     <string name="night_css_disabled">Disabled web dark mode in night mode.</string>
     <string name="ignore_secondary_ssl_error">Ignore Secondary SSL Error</string>
+    <string name="block_hint">Blocked: %s\nrefresh to take effect.</string>
+    <string name="unblock_hint">Unblocked: %s\nrefresh to take effect.</string>
 </resources>

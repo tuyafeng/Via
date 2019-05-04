@@ -365,4 +365,6 @@
     <string name="server_message">The data of these servers are not synchronized. You will be required to log in again.</string>
     <string name="delete_bookmark_folder_message">Bookmarks in folder %s will also be deleted. Are you sure?</string>
     <string name="action_new">New</string>
+    <string name="block_hint">Blocked: %s\nrefresh to take effect.</string>
+    <string name="unblock_hint">Unblocked: %s\nrefresh to take effect.</string>
 </resources>

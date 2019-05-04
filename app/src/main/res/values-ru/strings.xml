@@ -364,5 +364,7 @@
     <string name="global_server">Общемировой</string>
     <string name="server_message">Данные этих серверов не синхронизированы. Вам потребуется снова войти в систему.</string>
     <string name="delete_bookmark_folder_message">Также будут удалены закладки в папке \"%s\". Вы уверены?</string>
+    <string name="block_hint">Заблокировано: %s\nобновите для применения.</string>
+    <string name="unblock_hint">Разблокировано: %s\nобновите для применения.</string>
     <string name="action_new">Новое</string>
 </resources>

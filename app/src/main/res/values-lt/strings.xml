@@ -364,4 +364,6 @@
     <string name="global_server">Pasaulio</string>
     <string name="server_message">Šių serverių duomenys nesinchronizuoti. Jums gali prireikti prisijungti iš naujo.</string>
     <string name="delete_bookmark_folder_message">Žymės esančios %s aplanke bus ištrinti. Ar tikrai?</string>
+    <string name="block_hint">Blokuota: %s\perkraukite puslapį.</string>
+    <string name="unblock_hint">Atblokuota: %s\perkraukite puslapį.</string>
     </resources>

@@ -348,4 +348,8 @@
     <string name="server_message">服务器间的数据不同步, 切换后将需要重新登录.</string>
     <string name="delete_bookmark_folder_message">这会同时删除 %s 文件夹内的书签, 确定要删除吗?</string>
     <string name="action_new">新建</string>
+    <string name="block_hint">拦截了: %s\n刷新网页生效.</string>
+    <string name="unblock_hint">放行了: %s\n刷新网页生效.</string>
+    <string name="block_hint">攔截了: %s\n重新整理網頁後生效。</string>
+    <string name="unblock_hint">放行了: %s\n重新整理網頁生效。</string>
 </resources>

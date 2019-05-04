@@ -342,4 +342,6 @@
     <string name="night_css_disabled">Désactiver le rendu sombre en mode nuit.</string>
     <string name="ignore_secondary_ssl_error">Ignorer l\'erreur SSL secondaire</string>
     <string name="powerful_cache">Hyper Cache</string>
+    <string name="block_hint">Bloqué: %s\nactualiser pour prendre en compte le paramètre.</string>
+    <string name="unblock_hint">Débloqué: %s\n pour prendre en compte le paramètre.</string>
 </resources>
