@@ -350,6 +350,4 @@
     <string name="action_new">新建</string>
     <string name="block_hint">拦截了: %s\n刷新网页生效.</string>
     <string name="unblock_hint">放行了: %s\n刷新网页生效.</string>
-    <string name="block_hint">攔截了: %s\n重新整理網頁後生效。</string>
-    <string name="unblock_hint">放行了: %s\n重新整理網頁生效。</string>
 </resources>
