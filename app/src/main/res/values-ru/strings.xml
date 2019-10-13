@@ -285,8 +285,8 @@
     <string name="operation_hint">Управление жестами, кнопками и т.д.</string>
     <string name="adblock_info">%1$d рекламных объявлений заблокировано, %2$s сохранено</string>
     <string name="disable">Отключить</string>
-    <string name="ui_traditional">Традиционный</string>
-    <string name="ui_simple">Простой</string>
+    <string name="ui_traditional">Раздельный</string>
+    <string name="ui_simple">Совмещённый</string>
     <string name="color_mode_hint">Изменять цвета панелей под цвет сайта</string>
     <string name="skin_hide_search_part">Скрыть панель поиска</string>
     <string name="set_as_default">Установить браузером по умолчанию?</string>
