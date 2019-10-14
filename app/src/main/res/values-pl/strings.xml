@@ -9,7 +9,7 @@
     <string name="action_history">Historia</string>
     <string name="action_bookmarks">Zakładki</string>
     <string name="bookmarks_file">zakładki</string>
-    <string name="action_add_bookmark">Dodaj zakładkę</string>
+    <string name="action_add_bookmark">Dodaj zakł.</string>
     <string name="action_night">Tryb nocny</string>
     <string name="action_copy">Kopiuj link</string>
     <string name="action_block_domain">Zabl. domenę</string>
@@ -23,7 +23,7 @@
     <string name="location">Dostęp do lokalizacji</string>
     <string name="password">Zapisz hasło</string>
     <string name="donate">Wspomóż</string>
-    <string name="donate_details">Jeśli miło Ci się korzysta z naszej przeglądarki, możesz nas wspomóc.\nAlipay: 2376688759@qq.com\nPayPal: wiar1824@gmail.com</string>
+    <string name="donate_details">Jeśli lubisz korzystać z naszej przeglądarki, możesz nas wspomóc.\nAlipay: 2376688759@qq.com\nPayPal: wiar1824@gmail.com</string>
     <string name="orientation">Orientacja ekranu</string>
     <string name="orientation_system">Systemowa</string>
     <string name="orientation_auto">Automatyczna</string>
@@ -56,7 +56,7 @@
     <string name="size_small">Mały</string>
     <string name="size_smallest">Bardzo mały</string>
     <string name="hint_title">Tytuł</string>
-    <string name="hint_url">URL</string>
+    <string name="hint_url">Adres</string>
     <string name="hint_folder">Folder</string>
     <string name="title_edit_bookmark">Edytuj zakładkę</string>
     <string name="action_edit">Edytuj</string>
@@ -101,7 +101,7 @@
     <string name="image_off">Zawsze wł.</string>
     <string name="title_file_chooser">Wybór pliku</string>
     <string name="import_backup">Importuj zakładki</string>
-    <string name="bookmark_export_path">Zakładki zostały wyeksportowane do\n</string>
+    <string name="bookmark_export_path">Zakładki zostały wyeksportowane do pliku\n</string>
     <string name="import_bookmark_error">Nie można zaimportować zakładek z tego pliku</string>
     <string name="message_add_bookmark">Zakładka została dodana</string>
     <string name="message_exit">Naciśnij jeszcze raz, aby wyjść.</string>
@@ -158,7 +158,7 @@
     <string name="action_mark">Oznacz jako reklamę</string>
     <string name="dialog_confirm_block">Oznaczyć ten element jako reklamę?</string>
     <string name="do_not_track">Nie śledź mnie</string>
-    <string name="add_rule">Dodaj regułę</string>
+    <string name="add_rule">Stwórz regułę</string>
     <string name="hint_tags">Tagi</string>
     <string name="color_mode">Kolorowe paski</string>
     <string name="dialog_sure">Na pewno?</string>
@@ -250,8 +250,8 @@
     <string name="fullscreen_2">Kliknięciem</string>
     <string name="settings_script">Skrypty</string>
     <string name="get_more_script">Pobierz skrypty</string>
-    <string name="add_script">Dodaj skrypt</string>
-    <string name="script_url">Domena albo * (* - wszystko)</string>
+    <string name="add_script">Stwórz skrypt</string>
+    <string name="script_url">Domena / zakres domen (*)</string>
     <string name="script_code">Kod (JavaScript)</string>
     <string name="help_us_translate">Przetłumacz aplikację na swój język</string>
     <string name="confirm_to_leave">Potwierdź</string>
@@ -341,7 +341,7 @@
     <string name="import_data_failed">Importowanie danych nie powiodło się</string>
     <string name="import_data_succeed">Importowanie danych zakończone</string>
     <string name="export_data">Eksportuj dane</string>
-    <string name="export_data_to">Dane zostały wyeksportowane do %s</string>
+    <string name="export_data_to">Dane zostały wyeksportowane do pliku\n%s</string>
     <string name="always_restore">Zawsze przywracaj</string>
     <string name="ask_first">Zawsze pytaj</string>
     <string name="disable_restore">Nigdy</string>
@@ -374,7 +374,7 @@
     <string name="global_server">Globalny</string>
     <string name="server_message">Dane serwerów nie są zsynchronizowane. Konieczne będzie ponowne zalogowanie się.</string>
     <string name="delete_bookmark_folder_message">Zakładki w folderze \"%s\" również zostaną usunięte. Kontynuować?</string>
-    <string name="action_new">Nowe</string>
+    <string name="action_new">Stwórz</string>
     <string name="block_hint">Zablokowano: %s\nOdśwież, aby zastosować zmiany.</string>
     <string name="unblock_hint">Odblokowano: %s\nOdśwież, aby zastosować zmiany.</string>
 </resources>
