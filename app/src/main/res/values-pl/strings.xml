@@ -249,7 +249,7 @@
     <string name="fullscreen_1">Przewinięciem</string>
     <string name="fullscreen_2">Kliknięciem</string>
     <string name="settings_script">Skrypty</string>
-    <string name="get_more_script">Pobierz skrypty</string>
+    <string name="get_more_script">Pobierz</string>
     <string name="add_script">Stwórz skrypt</string>
     <string name="script_url">Domena / zakres domen (*)</string>
     <string name="script_code">Kod (JavaScript)</string>
