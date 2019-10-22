@@ -332,7 +332,7 @@
     <string name="import_data_succeed">Импортирование данных выполнено успешно!</string>
     <string name="export_data">Экспорт данных</string>
     <string name="export_data_to">Экспорт данных в: %s</string>
-    <string name="always_restore">Всегда восстанавливать</string>
+    <string name="always_restore">Восстанавливать</string>
     <string name="ask_first">Спрашивать</string>
     <string name="disable_restore">Не восстанавливать</string>
     <string name="data_file">DataExport</string>
@@ -355,13 +355,13 @@
     <string name="message_delete_downloaded_file">Также удалить загруженный файл?</string>
     <string name="block_popup_message">Заблокировано всплывающее окно</string>
     <string name="allow_popup">Разрешить сейчас</string>
-    <string name="system_download_manager">Системный менеджер загрузки</string>
+    <string name="system_download_manager">Системный</string>
     <string name="action_play_with">Воспроизвести в…</string>
     <string name="show_sniffer_btn_automatically">Автоотображение кнопки анализа</string>
     <string name="open_file_failed">Не найдено соответствующее приложение для открытия данного файла</string>
     <string name="cloud_data_server">Облачный сервер данных</string>
     <string name="chinese_server">Китайский</string>
-    <string name="global_server">Общемировой</string>
+    <string name="global_server">Основной</string>
     <string name="server_message">Данные этих серверов не синхронизированы. Вам потребуется снова войти в систему.</string>
     <string name="delete_bookmark_folder_message">Также будут удалены закладки в папке \"%s\". Вы уверены?</string>
     <string name="block_hint">Заблокировано: %s\nобновите для применения.</string>
