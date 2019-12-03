@@ -262,7 +262,7 @@
     <string name="skin_style">Styl paska</string>
     <string name="skin_settings">Pozostałe</string>
     <string name="set_it_as_homepage">Ustawić jako stronę domową?</string>
-    <string name="missing_webview">Systemowy moduł WebView nie jest (poprawnie) zainstalowany. Czy chcesz go teraz zainstalować (ponownie)?</string>
+    <string name="missing_webview">Systemowy moduł WebView nie jest (poprawnie) zainstalowany. Zainstalować go (ponownie)?</string>
     <string name="install">Instaluj</string>
     <string name="crash_hint">Przepraszamy za incydent.</string>
     <string name="upload_hint">Przepraszamy za incydent. Czy chcesz przesłać raport, abyśmy mogli to naprawić?</string>
