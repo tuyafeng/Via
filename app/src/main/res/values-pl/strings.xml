@@ -5,7 +5,7 @@
     <string name="action_new_tab">Nowa karta</string>
     <string name="action_open_in_new">Otwórz i przejdź</string>
     <string name="action_save_img">Zapisz obraz</string>
-    <string name="action_share">Udostępnij link</string>
+    <string name="action_share">Udost. link</string>
     <string name="action_history">Historia</string>
     <string name="action_bookmarks">Zakładki</string>
     <string name="bookmarks_file">zakładki</string>
@@ -358,14 +358,14 @@
     <string name="action_delete_dl_task">Usuń zadanie</string>
     <string name="action_re_download">Pobierz ponownie</string>
     <string name="action_copy_download_link">Skopiuj link</string>
-    <string name="download_failed">pobieranie nie powiodło się</string>
+    <string name="download_failed">Pobieranie nie powiodło się</string>
     <string name="view_downloads">Pokaż</string>
     <string name="message_delete_downloading_task">Pobrany plik również zostanie usunięty. Kontynuować?</string>
     <string name="message_delete_downloaded_task">Usunąć zadanie?</string>
     <string name="message_delete_downloaded_file">Usunąć także pobrany plik?</string>
     <string name="block_popup_message">Zablokowano wyskakujące okno</string>
     <string name="allow_popup">Zezwól tym razem</string>
-    <string name="system_download_manager">Systemowy menedżer pobierania</string>
+    <string name="system_download_manager">Systemowy</string>
     <string name="action_play_with">Odtwórz w&#8230;</string>
     <string name="show_sniffer_btn_automatically">Pokazuj przycisk wykrywacza automatycznie</string>
     <string name="open_file_failed">Nie znaleziono aplikacji mogącej otworzyć ten plik</string>
