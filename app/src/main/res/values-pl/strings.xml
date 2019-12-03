@@ -45,7 +45,7 @@
     <string name="agent_iphone">Safari</string>
     <string name="agent_symbian">Symbian</string>
     <string name="agent_custom">Własny</string>
-    <string name="dialog_download">Czy chcesz pobrać ten plik?</string>
+    <string name="dialog_download">Pobrać ten plik?</string>
     <string name="title_warning">Ostrżeżenie</string>
     <string name="title_user_agent">User Agent</string>
     <string name="title_custom_homepage">Własna strona</string>
@@ -88,7 +88,7 @@
     <string name="message_invalid_certificate">Certyfikat strony jest nieprawidłowy. Kontynuować?</string>
     <string name="message_not_yet_valid_certificate">Certyfikat strony nie jest jeszcze ważny. Kontynuować?</string>
     <string name="title_form_resubmission">Ponowne wysłanie danych</string>
-    <string name="message_form_resubmission">Czy chcesz ponownie wysłać dane?</string>
+    <string name="message_form_resubmission">Wysłać dane ponownie?</string>
     <string name="message_location">\n chce użyć Twojej lokalizacji</string>
     <string name="action_allow">Zezwól</string>
     <string name="action_dont_allow">Odmów</string>
@@ -110,7 +110,7 @@
     <string name="toast_operation_failed">Operacja nie powiodła się.</string>
     <string name="toast_operation_done">Operacja powiodła się.</string>
     <string name="volume">Przewijaj strony przyciskami głośności</string>
-    <string name="msg_intent">Czy chcesz otworzyć związaną z tym działaniem aplikację?</string>
+    <string name="msg_intent">Otworzyć związaną z tym działaniem aplikację?</string>
     <string name="setting_default">Ustaw jako domyślną przeglądarkę</string>
     <string name="toast_clear_defaults">Wyczyść domyślne</string>
     <string name="toast_copy_url_successful">Adres został skopiowany</string>
@@ -172,7 +172,7 @@
     <string name="code_500">Usługa niedostępna</string>
     <string name="syns_success">Synchronizacja zakończona</string>
     <string name="upload_success">Wysyłanie zakończone</string>
-    <string name="log_out">Wylogować?</string>
+    <string name="log_out">Wylogować Cię?</string>
     <string name="crash_info">Wystąpił błąd</string>
     <string name="crash_restart">Uruchom aplikację ponownie</string>
     <string name="crash_close">Zamnknij aplikację</string>
