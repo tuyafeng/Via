@@ -12,6 +12,10 @@
     <string name="action_add_bookmark">Lesezeichen hinzufügen</string>
     <string name="action_night">Nachtmodus</string>
     <string name="action_copy">Link kopieren</string>
+    <string name="action_block_domain">Domain blockieren</string>
+    <string name="action_unblock_domain">Domain entblocken</string>
+    <string name="action_unblock_url">URL entblocken</string>
+    <string name="action_block_url">URL blocken</string>
     <string name="action_copy_text">Text kopieren</string>
     <string name="action_image_off">Bild blockieren</string>
     <string name="action_tools">Werkzeuge</string>
@@ -129,6 +133,11 @@
     <string name="settings_advanced">Fortgeschrittene Einstellungen</string>
     <string name="settings_about">Über</string>
     <string name="url_box">Adressfeldinhalt</string>
+    <string name="settings_operation">Gesten</string>
+    <string name="settings_privacy">Privatsphäre</string>
+    <string name="settings_advanced">Erweitert</string>
+    <string name="settings_about">Über</string>
+    <string name="url_box">URL-Feldinhalt</string>    <string name="url_box_domain">Domain</string>
     <string name="url_box_domain">Domain</string>
     <string name="url_box_url">Adresse</string>
     <string name="url_box_title">Titel</string>
@@ -176,6 +185,7 @@
     <string name="open_with">Öffnen mit&#8230;</string>
     <string name="download_completed">Download abgeschlossen</string>
     <string name="toast_fullscreen_off">Full-Screen Modus beendet</string>
+
     <string name="clear_data">Daten löschen</string>
     <string name="data_cache">Cache</string>
     <string name="data_form_data">Fomulardaten</string>
@@ -183,27 +193,39 @@
     <string name="data_storage">Gespeicherte Seiten</string>
     <string name="data_cookies">Cookies</string>
     <string name="data_cleared">Daten gelöscht</string>
+
     <string name="sync_desc">Das Konto wird angelegt, wenn es nicht existiert.</string>
+
     <string name="settings_skin">Anpassen</string>
     <string name="default_set">Standard</string>
     <string name="picture">Bild</string>
     <string name="text">Text</string>
     <string name="html_code">Html Code</string>
+
     <string name="action_view_image">Bild anzeigen</string>
+
     <string name="skin_colorful">Bunt</string>
     <string name="skin_fruity">Fruchtig</string>
     <string name="skin_transparent">Transparent</string>
+
     <string name="block_popup">Blockiere Popup</string>
+
     <string name="action_save_web_page">Speichere Webseite</string>
     <string name="action_saved_pages">Gespeicherte Seiten</string>
     <string name="saved_page_successfully">Seite erfolgreich gespeichert</string>
     <string name="deleted_failed">Löschen fehlgeschlagen. Die Datei befindet sich im Download-Pfad: </string>
+
     <string name="empty_hint">Nichts anzuzeigen&#8230;</string>
+
     <string name="network_log">Netzwerk Log</string>
     <string name="catalog">Katalog</string>
+
     <string name="conn_timeout">Zeitüberschreitung bei der Verbindung</string>
+
     <string name="already_default">Bereits als Standard festgelegt</string>
+
     <string name="set_to_default">Es wird als Standard festgelegt, nachdem der Link geöffnet wird (%s), bitte Via wählen, um den Link zu öffnen.</string>
+
     <string name="sync_prompt">Bestehende lokale Lesezeichen und Einstellungen werden überschrieben. Fortfahren?</string>
     <string name="upload_prompt">Bestehende lokale Lesezeichen und Einstelleungen werden hochgeladen. Fortfahren?</string>
     <string name="none">Nichts</string>
@@ -294,12 +316,55 @@
     <string name="action_preview">Vorschau</string>
     <string name="action_page_info">Seiten Info</string>
     <string name="page_info_title">Titel:</string>
-    <string name="page_info_url">Seiten URL:</string>
-    <string name="page_info_link">Link URL:</string>
+    <string name="page_info_url">Seiten-URL:</string>
+    <string name="page_info_link">Verknüpfungs-URL:</string>
     <string name="no_network">Keine Netzwerkverbindung</string>
     <string name="title_app_chooser">App auswählen</string>
     <string name="clear_data_on_exit">Daten leeren und beenden</string>
     <string name="action_add_to_homepage">Zu Schnellwahl hinzufügen</string>
     <string name="added_favorite_hint">Zu Schnellwahl hinzugefügt</string>
     <string name="title_edit_favorite">Favoriten bearbeiten</string>
+    <string name="custom_css_special">Benutzer CSS hinzufügen</string>
+    <string name="force_enable_zoom">Erzwinge Zoom</string>
+    <string name="set_ua_as">Setze aktuellen User-Agent als %s</string>
+    <string name="import_data">Importiere Daten</string>
+    <string name="import_data_failed">Fehler beim Datenimport!</string>
+    <string name="import_data_succeed">Daten erfolgreich importiert!</string>
+    <string name="export_data">Exportiere Daten</string>
+    <string name="export_data_to">Exportiere Daten nach: %s</string>
+    <string name="always_restore">Immer wiederherstellen</string>
+    <string name="ask_first">Auf Nachfrage</string>
+    <string name="disable_restore">Nicht wiederherstellen</string>
+    <string name="data_file">Daten-Export</string>
+    <string name="bookmarks_data_to_long">Lesezeichen sind zu groß für den Upload, aber andere Daten sollte normal hochgeladen werden. Fortfahren?</string>
+    <string name="restore_tabs_hint_settings">Tabs werden nicht wieder hergestellt, when Sie im \"Inkognito Modus\" sind</string>
+    <string name="night_css_enabled">Dark-Modus im Nichtmodus aktivieren</string>
+    <string name="night_css_disabled">Dark-Modus im Nachtmodus deaktivieren</string>
+    <string name="ignore_secondary_ssl_error">Sekundäre SSL Fehler ignorieren</string>
+    <string name="powerful_cache">Hyper Zwischenspeicher</string>
+    <string name="web_page_debug">Web-Seiten-Debugger aktivieren</string>
+    <string name="web_page_debug_info">Nun können Sie ihr Telefon mit dem Computer verbinden, dann mit Chrome(PC) und via \"chrome://inspect\" debuggen. Beachte, USB Debugging muss in den Einstellungen aktiviert sein > Entwickler-Optionen zuerst.</string>
+    <string name="no_download_tasks">Leer</string>
+    <string name="action_delete_dl_task">Löschen</string>
+    <string name="action_re_download">Downloadwiederholung</string>
+    <string name="action_copy_download_link">Kopiere Download-Verknüpfung</string>
+    <string name="download_failed">Download fehlgeschlagen</string>
+    <string name="view_downloads">Ansicht</string>
+    <string name="message_delete_downloading_task">Heruntergeladene Datei wird auch gelöscht. Sind Sie sicher?</string>
+    <string name="message_delete_downloaded_task">Diesen Downloadprozess löschen?</string>
+    <string name="message_delete_downloaded_file">Inklusiv der heruntergeladenen Datei</string>
+    <string name="block_popup_message">Pop-Up Fenster blockieren</string>
+    <string name="allow_popup">Einmalig erlauben</string>
+    <string name="system_download_manager">System Download-Manager</string>
+    <string name="action_play_with">Abspielen mit&#8230;</string>
+    <string name="show_sniffer_btn_automatically">Zeige Sniffer-Knopf automatisch</string>
+    <string name="open_file_failed">Verknüfte App zum Öffnen der Datei kann nicht gefunden werden</string>
+    <string name="cloud_data_server">Cloud Daten-Server</string>
+    <string name="chinese_server">Chinesisch</string>
+    <string name="global_server">Global</string>
+    <string name="server_message">Die Daten dieser Server sind nicht synchronisiert. Es ist erforderlich, sich erneut anzumelden.</string>
+    <string name="delete_bookmark_folder_message">Lesezeichen im Ordner %s werden auch gelöscht. Sind Sie sicher?</string>
+    <string name="action_new">Neu</string>
+    <string name="block_hint">Blockiert: %s\nAktualisieren zum aktivieren.</string>
+    <string name="unblock_hint">Unblocked: %s\nAktualisieren zum aktivieren.</string>
 </resources>
