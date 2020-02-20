@@ -100,7 +100,7 @@
     <string name="toast_copy_text_successful">テキストをコピーしました</string>
     <string name="incognito_on">シークレットモードを使用中です</string>
     <string name="incognito_off">シークレットモードを解除しました</string>
-    <string name="settings_ad_rules">ブロックルール</string>
+    <string name="settings_ad_rules">広告ブロックルール</string>
     <string name="settings_privacy">プライバシー</string>
     <string name="settings_advanced">高度な設定</string>
     <string name="settings_about">Via について</string>
@@ -165,7 +165,7 @@
     <string name="upload_completed">報告成功 :)</string>
     <string name="ui_mode">レイアウト</string>
     <string name="ui_auto">自動</string>
-    <string name="addon_download">ダウンロード高速化</string>
+    <string name="addon_download">ダウンロードツール</string>
     <string name="quick_back">戻る時に再読み込みをしない</string>
     <string name="open_with">開く&#8230;</string>
     <string name="download_completed">ダウンロード完了</string>
@@ -338,7 +338,7 @@
     <string name="message_delete_downloading_task">ダウンロード済みファイルが削除されます。よろしいですか？</string>
     <string name="block_popup_message">ポップアップをブロックしました</string>
     <string name="allow_popup">今回のみ許可</string>
-    <string name="system_download_manager">システムダウンロードマネージャー</string>
+    <string name="system_download_manager">標準</string>
     <string name="action_play_with">&#8230;で再生する</string>
     <string name="show_sniffer_btn_automatically">スニファーボタンを自動的に表示する</string>
     <string name="open_file_failed">このファイルを開くためのアプリがありません</string>
