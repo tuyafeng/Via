@@ -31,7 +31,6 @@
     <string name="orientation_landscape">Vodoravno</string>
     <string name="agent">User-Agent</string>
     <string name="home">Početna Stranica</string>
-    <string name="fullscreen">Auto-hide Operation Bars</string>
     <string name="fullscreen">Automatski sakrij operacije rešetke</string>
     <string name="java">Omogući JavaScript</string>
     <string name="download">Preuzmi Lokaciju</string>
@@ -107,7 +106,7 @@
     <string name="message_add_bookmark">Knjižna oznaka je uspješno dodana</string>
     <string name="message_exit">Pritisnite još jednom da bi ste izišli</string>
     <string name="dialog_message">Poruka</string>
-    <string name="toast_wait_a_minute">Pričekajte trenutak...&#8230;</string>
+    <string name="toast_wait_a_minute">Pričekajte trenutak…</string>
     <string name="toast_operation_failed">Radnja nije uspjela</string>
     <string name="toast_operation_done">Radnja uspješna</string>
     <string name="volume">Tipke za kontroliranje glasnoće koristi za listanje</string>
@@ -239,7 +238,6 @@
     <string name="restore_tabs">Vrati Kartice na Pokretanju</string>
     <string name="install_success">Instalacija Uspješna!!!</string>
     <string name="uninstall_success">Deinstalacija Uspješna!!!</string>
-    <string name="log_page_hint">Blokirana lista se nalazi u %1$s\nMožete listu urediti, ili držati duže stvari za blokirati ili ne.</string>
     <string name="log_page_hint">Blokirana lista se nalazi u %1$s\nMožete listu urediti, ili držati duže stvari za blokirati ili ne.</string>
     <string name="fullscreen_0">Onemogući</string>
     <string name="fullscreen_1">Listaj da sakriješ/pokažeš</string>

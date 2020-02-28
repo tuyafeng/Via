@@ -304,7 +304,7 @@
     <string name="res_sniffer">Resource Sniffer</string>
     <string name="search_by_pic">Search by Picture</string>
     <string name="resource_sniffer">Resource sniffer</string>
-    <string name="res_log_hint">Click item to preview, long click item to download or do something else.</string>
+    <string name="res_log_hint">Click item to preview, long clicked item to download or do something else.</string>
     <string name="no_resource">The page has no resource.</string>
     <string name="no_network_log">The page has no network log.</string>
     <string name="resource_sniffer_hint">\nIt is easier to detect media files when music or video is being played. Resource sniffer doesn\'t work on certain websites</string>

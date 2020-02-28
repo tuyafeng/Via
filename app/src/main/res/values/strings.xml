@@ -17,6 +17,7 @@
     <string name="action_unblock_url">Unblock Link</string>
     <string name="action_block_url">Block Link</string>
     <string name="action_copy_text">Copy Text</string>
+    <string name="action_copy_link_text">Copy Link Text</string>
     <string name="action_image_off">Block Images</string>
     <string name="action_tools">Tools</string>
     <string name="settings">Settings</string>
@@ -304,7 +305,7 @@
     <string name="res_sniffer">Resource Sniffer</string>
     <string name="search_by_pic">Search by Picture</string>
     <string name="resource_sniffer">Resource sniffer</string>
-    <string name="res_log_hint">Click item to preview, long click item to download or do something else.</string>
+    <string name="res_log_hint">Click item to preview, long clicked item to download or do something else.</string>
     <string name="no_resource">The page has no resource.</string>
     <string name="no_network_log">The page has no network log.</string>
     <string name="resource_sniffer_hint">\nIt is easier to detect media files when music or video is being played. Resource sniffer doesn\'t work on certain websites</string>
@@ -367,4 +368,7 @@
     <string name="action_new">New</string>
     <string name="block_hint">Blocked: %s\nrefresh to take effect.</string>
     <string name="unblock_hint">Unblocked: %s\nrefresh to take effect.</string>
+    <string name="ignore_ssl_error_today">Ignore SSL error today</string>
+    <string name="block_3rd_party_cookies">Block 3rd Party Cookies</string>
+    <string name="enable_site_conf">Enable site conf for \"%s\"</string>
 </resources>
