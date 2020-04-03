@@ -2,18 +2,18 @@
 
 <div align="center"><img src="http://viayoo.com/en/images/logo.png" alt="Via Logo" height="100"/></div>
 
-### Introduce
+### Introduction
 
 Via Browser is a powerful browser with following features:
 
-- Pure & Adless
+- Pure & adless
 - Highly customizable
 - Fast like lightning
 - Small, yet awesome
 
 Try it and you will never regret :)
 
-[Get it form google play](https://play.google.com/store/apps/details?id=mark.via.gp)
+[Get it from Google Play](https://play.google.com/store/apps/details?id=mark.via.gp)
 
 [Get it from coolapk](https://www.coolapk.com/apk/mark.via)
 
