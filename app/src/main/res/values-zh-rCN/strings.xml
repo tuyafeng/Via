@@ -354,4 +354,7 @@
     <string name="ignore_ssl_error_today">今天不再弹出 SSL 证书错误</string>
     <string name="block_3rd_party_cookies">拦截第三方 Cookies</string>
     <string name="enable_site_conf">启用 \"%s\" 的网站设定</string>
+    <string name="site_conf">网站设定</string>
+    <string name="ui_simple_top">简单(工具栏在上)</string>
+    <string name="ui_simple_bottom">简单(工具栏在下)</string>
 </resources>

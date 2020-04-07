@@ -371,4 +371,7 @@
     <string name="ignore_ssl_error_today">Ignore SSL error today</string>
     <string name="block_3rd_party_cookies">Block 3rd Party Cookies</string>
     <string name="enable_site_conf">Enable site conf for \"%s\"</string>
+    <string name="site_conf">Site conf</string>
+    <string name="ui_simple_top">Simple(op-bar at top)</string>
+    <string name="ui_simple_bottom">Simple(op-bar at bottom)</string>
 </resources>
