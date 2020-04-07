@@ -13,6 +13,7 @@
     <string name="action_night">ナイトモード</string>
     <string name="action_copy">アドレスをコピー</string>
     <string name="action_copy_text">テキストをコピー</string>
+    <string name="action_copy_link_text">テキストをコピー</string>
     <string name="action_image_off">画像を閉じる</string>
     <string name="action_tools">ツール</string>
     <string name="settings">設定</string>
@@ -269,7 +270,8 @@
     <string name="back_forward_gesture">ページ間をスワイプ</string>
     <string name="no_bookmark">ブックマークはありません</string>
     <string name="settings_general">一般</string>
-    <string name="ui_simple">操作バーを上下に配置</string>
+    <string name="ui_simple_top">操作バーを上に配置</string>
+    <string name="ui_simple_bottom">操作バーを下に配置</string>
     <string name="ui_traditional">通常</string>
     <string name="import_or_export_bookmarks">ブックマークをインポート/エクスポート</string>
     <string name="skin_transparent">透明</string>
@@ -338,7 +340,7 @@
     <string name="message_delete_downloading_task">ダウンロード済みファイルが削除されます。よろしいですか？</string>
     <string name="block_popup_message">ポップアップをブロックしました</string>
     <string name="allow_popup">今回のみ許可</string>
-    <string name="system_download_manager">標準</string>
+    <string name="system_download_manager">デフォルト</string>
     <string name="action_play_with">&#8230;で再生する</string>
     <string name="show_sniffer_btn_automatically">スニファーボタンを自動的に表示する</string>
     <string name="open_file_failed">このファイルを開くためのアプリがありません</string>
@@ -346,6 +348,10 @@
     <string name="chinese_server">中国</string>
     <string name="global_server">グローバル</string>
     <string name="server_message">このサーバーではデータの同期はされていません。再度ログインする必要があります。</string>
+    <string name="action_new">新規作成</string>
     <string name="block_hint">ブロック済み: %s\n再読み込みして有効化します。</string>
     <string name="unblock_hint">ブロック解除済み: %s\n再読み込みして有効化します。</string>
+    <string name="block_3rd_party_cookies">サードパーティーCookieをブロック</string>
+    <string name="enable_site_conf">\"%s\"のサイト別設定を有効にする</string>
+    <string name="site_conf">サイト別設定</string>
 </resources>
