@@ -364,7 +364,13 @@
     <string name="global_server">Основной</string>
     <string name="server_message">Данные этих серверов не синхронизированы. Вам потребуется снова войти в систему.</string>
     <string name="delete_bookmark_folder_message">Также будут удалены закладки в папке \"%s\". Вы уверены?</string>
+    <string name="action_new">Новое</string>
     <string name="block_hint">Заблокировано: %s\nобновите для применения.</string>
     <string name="unblock_hint">Разблокировано: %s\nобновите для применения.</string>
-    <string name="action_new">Новое</string>
+    <string name="ignore_ssl_error_today">Игнорировать ошибку SSL сегодня</string>
+    <string name="block_3rd_party_cookies">Блокировать сторонние cookie-файлы</string>
+    <string name="enable_site_conf">Свои настройки для сайта \"%s\"</string>
+    <string name="site_conf">Настройки сайта</string>
+    <string name="ui_simple_top">Панель вверху</string>
+    <string name="ui_simple_bottom">Панель внизу</string>
 </resources>
