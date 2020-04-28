@@ -368,7 +368,10 @@
     <string name="action_new">新建</string>
     <string name="block_hint">攔截了: %s\n重新整理網頁生效。</string>
     <string name="unblock_hint">放行了: %s\n重新整理網頁生效。</string>
+    <string name="ignore_ssl_error_today">今天忽略 SSL 錯誤</string>
     <string name="block_3rd_party_cookies">攔截第三方 Cookies</string>
     <string name="enable_site_conf">為 \"%s\" 啟用網站設定</string>
-    <string name="ignore_ssl_error_today">今天忽略 SSL 錯誤</string>
+    <string name="site_conf">網站設定</string>
+    <string name="ui_simple_top">簡單(操作列在上)</string>
+    <string name="ui_simple_bottom">簡單(操作列在下)</string>
 </resources>
