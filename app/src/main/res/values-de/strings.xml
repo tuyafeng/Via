@@ -17,6 +17,7 @@
     <string name="action_unblock_url">URL entblocken</string>
     <string name="action_block_url">URL blocken</string>
     <string name="action_copy_text">Text kopieren</string>
+    <string name="action_copy_link_text">Link Text kopieren</string>
     <string name="action_image_off">Bild blockieren</string>
     <string name="action_tools">Werkzeuge</string>
     <string name="settings">Einstellungen</string>
@@ -27,8 +28,8 @@
     <string name="orientation">Ausrichtung</string>
     <string name="orientation_system">System</string>
     <string name="orientation_auto">Auto</string>
-    <string name="orientation_portrait">Portrait</string>
-    <string name="orientation_landscape">Landschaft</string>
+    <string name="orientation_portrait">Hochformat</string>
+    <string name="orientation_landscape">Querformat</string>
     <string name="agent">User Agent</string>
     <string name="home">Homepage</string>
     <string name="fullscreen">Verstecke Operation Bar automatisch</string>
@@ -45,7 +46,7 @@
     <string name="agent_iphone">iPhone</string>
     <string name="agent_symbian">Symbian</string>
     <string name="agent_custom">Angepasst</string>
-    <string name="dialog_download">Möchtest Du die Datei herunterladen?</string>
+    <string name="dialog_download">Möchten Sie die Datei herunterladen?</string>
     <string name="title_warning">Warnung</string>
     <string name="title_user_agent">User Agent</string>
     <string name="title_custom_homepage">Angepasste Startseite</string>
@@ -63,7 +64,7 @@
     <string name="action_incognito">Inkognito Modus</string>
     <string name="action_find">Auf Seite suchen</string>
     <string name="download_pending">Download startet\u2026</string>
-    <string name="cannot_download">Nur von\"http\" oder \"https\" URL kann heruntergeladen werden.</string>
+    <string name="cannot_download">Nur von\"http\" oder \"https\" URLs kann heruntergeladen werden.</string>
     <string name="download_no_sdcard_dlg_title">Keine SD-Karte!</string>
     <string name="download_no_sdcard_dlg_msg">USB Speicher wird benötigt, um die Datei herunterzuladen.</string>
     <string name="download_sdcard_busy_dlg_title">USB Speicher nicht verfügbar!</string>
@@ -81,7 +82,12 @@
     <string name="google_url">Google</string>
     <string name="sougou_url">Sougou</string>
     <string name="block_ads">Blockiere Werbung</string>
-    <string name="message_untrusted_certificate">Das Zertifikat auf dieser Seite in nicht vertrauenswürdig. Trotzdem fortfahren?</string>
+    <string name="message_untrusted_certificate">Das Zertifikat dieser Seite in nicht vertrauenswürdig. Trotzdem fortfahren?</string>
+    <string name="message_date_invalid_certificate">Das Zertifikatsdatum dieser Seite ist ungültig. Trotzdem fortfahren?</string>
+    <string name="message_expired_certificate">Das Zertifikat dieser Seite ist abgelaufen. Trotzdem fortfahren?</string>
+    <string name="message_hostname_mismatch_certificate">Das Zertifikat passt nicht zum aktuellen Webseiten-Namen. Trotzdem fortfahren?</string>
+    <string name="message_invalid_certificate">Das Zertifikat dieser Seite ist ungültig. Trotzdem fortfahren?</string>
+    <string name="message_not_yet_valid_certificate">Das Zertifikat dieser Seite ist noch nicht gültig. Trotzdem fortfahren?</string>
     <string name="title_form_resubmission">Formular erneut senden?</string>
     <string name="message_form_resubmission">Möchtest Du die Daten erneut senden?</string>
     <string name="message_location">\nMöchtest Du Deinen Standort benutzen?</string>
@@ -128,16 +134,11 @@
     <string name="operation_goforward">Vorwärts</string>
     <string name="operation_find">Auf Seite suchen</string>
     <string name="settings_ad_rules">Markierte Werbung</string>
-    <string name="settings_operation">Navigation</string>
-    <string name="settings_privacy">Privatsphäre</string>
-    <string name="settings_advanced">Fortgeschrittene Einstellungen</string>
-    <string name="settings_about">Über</string>
-    <string name="url_box">Adressfeldinhalt</string>
     <string name="settings_operation">Gesten</string>
     <string name="settings_privacy">Privatsphäre</string>
     <string name="settings_advanced">Erweitert</string>
     <string name="settings_about">Über</string>
-    <string name="url_box">URL-Feldinhalt</string>    <string name="url_box_domain">Domain</string>
+    <string name="url_box">Adressfeldinhalt</string>
     <string name="url_box_domain">Domain</string>
     <string name="url_box_url">Adresse</string>
     <string name="url_box_title">Titel</string>
@@ -248,7 +249,7 @@
     <string name="add_script">Skript hinzufügen</string>
     <string name="script_url">Domain oder * (* bedeutet komplett)</string>
     <string name="script_code">Code (javascript)</string>
-    <string name="help_us_translate">Hilf uns beim übersetzen</string>
+    <string name="help_us_translate">Hilf uns beim Übersetzen</string>
     <string name="confirm_to_leave">Wirklich verlassen?</string>
     <string name="leave">Verlassen</string>
     <string name="stay">Bleiben</string>
@@ -282,7 +283,7 @@
     <string name="back_forward_gesture">Zurück/Vorwärts-Geste</string>
     <string name="toolbar_settings_hint">Klicke auf bzw. schiebe den folgenden Schalter, um sein gedrücktes bzw. geschobenes Verhalten festzulegen. Gedrückt halten, um das aktuelle Verhalten zu sehen.</string>
     <string name="action_modify">Abändern</string>
-    <string name="operation_hint">Gesten, Betriebsverhalten usw. </string>
+    <string name="operation_hint">Gesten, Betriebsverhalten, usw. </string>
     <string name="adblock_info">%1$d Werbung wurde blockiert, %2$s gespart</string>
     <string name="disable">Deaktivieren</string>
     <string name="ui_traditional">Traditionell</string>
@@ -307,7 +308,7 @@
     <string name="res_log_hint">Zur Vorschau klicken, gedrückt halten zum Herunterladen.</string>
     <string name="no_resource">Die Seite hat keine Quelle.</string>
     <string name="no_network_log">Die Seite hat kein Netzwek-Log.</string>
-    <string name="resource_sniffer_hint">\nPS: Hinweis ist leicher zu bekommen, wenn Musik oder Videos abgespielt werden.</string>
+    <string name="resource_sniffer_hint">\nEs ist einfacher Mediendateien zu erkennen, wenn Musik oder Videos abgespielt werden.</string>
     <string name="action_download">Download</string>
     <string name="empty_username_info">Bitte Benutzername eingeben</string>
     <string name="empty_password_info">Bitte Passwort eingeben.</string>
@@ -367,4 +368,10 @@
     <string name="action_new">Neu</string>
     <string name="block_hint">Blockiert: %s\nAktualisieren zum aktivieren.</string>
     <string name="unblock_hint">Unblocked: %s\nAktualisieren zum aktivieren.</string>
+    <string name="ignore_ssl_error_today">Ignoriere SSL Fehler heute</string>
+    <string name="block_3rd_party_cookies">Blockiere Drittanbieter-Cookies</string>
+    <string name="enable_site_conf">Webseiten-Konfig einschalten für \"%s\"</string>
+    <string name="site_conf">Webseiten-Konfiguration</string>
+    <string name="ui_simple_top">Op.-Leiste oben</string>
+<string name="ui_simple_bottom">Op.-Leiste unten</string>
 </resources>
