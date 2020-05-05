@@ -195,7 +195,7 @@
     <string name="data_cookies">Cookies</string>
     <string name="data_cleared">Data cleared</string>
 
-    <string name="sync_desc">An account will be created if it doesn\'t already exist.</string>
+    <string name="sync_desc">An account will be created if it doesn\'t exist.</string>
 
     <string name="settings_skin">Customization</string>
     <string name="default_set">Default</string>
@@ -281,7 +281,7 @@
     <string name="export_">Export bookmarks</string>
     <string name="pull_to_refresh_gesture">Pull-to-Refresh Gesture</string>
     <string name="back_forward_gesture">Back/Forward Gesture</string>
-    <string name="toolbar_settings_hint">Click the following button to set its long-press (slide) event, and long-press it to see what has been currently set.</string>
+    <string name="toolbar_settings_hint">Click the following button to set its long-press (slide) event, and long-press it to see what has been set.</string>
     <string name="action_modify">Modify</string>
     <string name="operation_hint">Gestures, shortcuts, function keys</string>
     <string name="adblock_info">%1$d ads have been blocked, %2$s saved</string>
@@ -305,7 +305,7 @@
     <string name="res_sniffer">Resource Sniffer</string>
     <string name="search_by_pic">Search by Picture</string>
     <string name="resource_sniffer">Resource sniffer</string>
-    <string name="res_log_hint">Click an item to preview, long-click it to download, or do something else.</string>
+    <string name="res_log_hint">Click an item to preview, long-click it to download or do something else.</string>
     <string name="no_resource">The page has no resource.</string>
     <string name="no_network_log">The page has no network log.</string>
     <string name="resource_sniffer_hint">\nIt is easier to detect media files while music or video is being played. Resource sniffer doesn\'t work on certain websites.</string>
