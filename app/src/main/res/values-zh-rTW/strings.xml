@@ -17,6 +17,7 @@
     <string name="action_unblock_url">放行連結</string>
     <string name="action_block_url">攔截連結</string>
     <string name="action_copy_text">複製文字</string>
+    <string name="action_copy_link_text">複製連結文字</string>
     <string name="action_image_off">攔截圖片</string>
     <string name="action_tools">工具箱</string>
     <string name="settings">設定</string>
@@ -367,4 +368,10 @@
     <string name="action_new">新建</string>
     <string name="block_hint">攔截了: %s\n重新整理網頁生效。</string>
     <string name="unblock_hint">放行了: %s\n重新整理網頁生效。</string>
+    <string name="ignore_ssl_error_today">今天忽略 SSL 錯誤</string>
+    <string name="block_3rd_party_cookies">攔截第三方 Cookies</string>
+    <string name="enable_site_conf">為 \"%s\" 啟用網站設定</string>
+    <string name="site_conf">網站設定</string>
+    <string name="ui_simple_top">簡單(操作列在上)</string>
+    <string name="ui_simple_bottom">簡單(操作列在下)</string>
 </resources>

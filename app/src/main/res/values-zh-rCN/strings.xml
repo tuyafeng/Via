@@ -297,6 +297,7 @@
     <string name="page_info_url">页面链接:</string>
     <string name="page_info_link">选中链接:</string>
     <string name="action_copy_text">复制文本</string>
+    <string name="action_copy_link_text">复制链接文本</string>
     <string name="no_network">无网络连接</string>
     <string name="title_app_chooser">选择app打开</string>
     <string name="clear_data_on_exit">退出时清除数据</string>
@@ -350,4 +351,10 @@
     <string name="action_new">新建</string>
     <string name="block_hint">拦截了: %s\n刷新网页生效.</string>
     <string name="unblock_hint">放行了: %s\n刷新网页生效.</string>
+    <string name="ignore_ssl_error_today">今天不再弹出 SSL 证书错误</string>
+    <string name="block_3rd_party_cookies">拦截第三方 Cookies</string>
+    <string name="enable_site_conf">启用 \"%s\" 的网站设定</string>
+    <string name="site_conf">网站设定</string>
+    <string name="ui_simple_top">简单(工具栏在上)</string>
+    <string name="ui_simple_bottom">简单(工具栏在下)</string>
 </resources>
