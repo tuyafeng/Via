@@ -339,8 +339,8 @@
     <string name="data_file">Izvoz podatkov</string>
     <string name="bookmarks_data_to_long">Podatki z zaznamki so preveliki za nalaganje, ostali podatki pa bodo ustrezno naloženi. Želite nadaljevati?</string>
     <string name="restore_tabs_hint_settings">Ste v zasebnem načinu. Zavihki ne bodo obnovljeni.</string>
-    <string name="night_css_enabled">Onemogočeno temno delovanje v nočnem načinu</string>
-    <string name="night_css_disabled">Omogočeno temno delovanje v nočnem načinu</string>
+    <string name="night_css_enabled">Omogočeno temno delovanje v nočnem načinu</string>
+    <string name="night_css_disabled">Onemogočeno temno delovanje v nočnem načinu</string>
     <string name="ignore_secondary_ssl_error">Prezri sekundarno napako SSL</string>
     <string name="powerful_cache">Hiper predpomnilnik</string>
     <string name="web_page_debug">Omogoči razhroščevanje strani</string>
