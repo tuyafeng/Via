@@ -240,7 +240,7 @@
     <string name="restore_tabs">Obnovitev zavihkov ob zagonu</string>
     <string name="install_success">Namestitev je uspešna!</string>
     <string name="uninstall_success">Odstranitev je uspešna!</string>
-    <string name="log_page_hint">Seznam blokiranih strani in domen se nahaja v %1$s\n.Seznam lahko urejate ali pa izberete in pridržite tiste elemente, ki jih želite (od)blokirati.</string>
+    <string name="log_page_hint">Seznam blokiranih strani in domen se nahaja v %1$s.\nSeznam lahko urejate ali pa izberete in pridržite tiste elemente, ki jih želite (od)blokirati.</string>
     <string name="fullscreen_0">Onemogočeno</string>
     <string name="fullscreen_1">Podrsni za skritje/prikaz</string>
     <string name="fullscreen_2">Klikni za skritje/prikaz</string>
@@ -281,7 +281,7 @@
     <string name="export_">Izvozi zaznamke</string>
     <string name="pull_to_refresh_gesture">Povleci za osvežitev</string>
     <string name="back_forward_gesture">Podrsni za Nazaj/Naprej</string>
-    <string name="toolbar_settings_hint">Pritisnite poljuben spodnji gumb, da določite dogodek pri daljšem pridržanju (podrsanju). Obstoječo nastavitev vsakega posameznega gumba preverite tako, da ga dalj časa pridržite.</string>
+    <string name="toolbar_settings_hint">Pritisnite poljuben spodnji gumb, da določite dogodek pri njegovem daljšem pridržanju. Obstoječo nastavitev vsakega posameznega gumba preverite tako, da izbran spodnji gumb dalj časa pridržite.</string>
     <string name="action_modify">Spremeni</string>
     <string name="operation_hint">Poteze, bližnjice, funkcijske tipke</string>
     <string name="adblock_info">Omogočeno: %1$d oglasov blokiranih, %2$s prihranjeno</string>
