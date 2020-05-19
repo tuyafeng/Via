@@ -81,7 +81,7 @@
     <string name="yandex_url">Yandex</string>
     <string name="google_url">Google</string>
     <string name="sougou_url">Sogou</string>
-    <string name="block_ads">Block Ads</string>
+    <string name="block_ads">Ad Blocking</string>
     <string name="message_untrusted_certificate">The certificate of the site isn\'t trusted. Proceed anyway?</string>
     <string name="message_date_invalid_certificate">The date of the site\'s certificate is invalid. Proceed anyway?</string>
     <string name="message_expired_certificate">The certificate of the site has expired. Proceed anyway?</string>
