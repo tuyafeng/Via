@@ -45,7 +45,7 @@
     <string name="agent_ie">IE 11 (PC)</string>
     <string name="agent_iphone">Safari (iPhone)</string>
     <string name="agent_symbian">Nokia Browser</string>
-    <string name="agent_custom">Random</string>
+    <string name="agent_custom">Custom</string>
     <string name="dialog_download">Would you like to download this file?</string>
     <string name="title_warning">Warning</string>
     <string name="title_user_agent">User-Agent</string>
