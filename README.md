@@ -2,7 +2,7 @@
 
 <div align="center"><img src="http://viayoo.com/en/images/logo.png" alt="Via Logo" height="100"/></div>
 
-English|[中文](https://github.com/tuyafeng/Via/blob/master/README_zh_CN.md)|[Portuguese](https://github.com/tuyafeng/Via/blob/master/README_pt_BR.md)
+English|[中文](https://github.com/tuyafeng/Via/blob/master/README_zh_CN.md)|[Português](https://github.com/tuyafeng/Via/blob/master/README_pt_BR.md)
 
 ### Introduction
 
