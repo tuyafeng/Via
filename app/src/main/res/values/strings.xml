@@ -33,7 +33,7 @@
     <string name="agent">User-agent</string>
     <string name="home">Homepage</string>
     <string name="fullscreen">Auto-hide toolbars</string>
-    <string name="java">Enable javaScript</string>
+    <string name="java">Enable JavaScript</string>
     <string name="download">Download location</string>
     <string name="size">Text size</string>
     <string name="search">Search engine</string>
