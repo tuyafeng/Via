@@ -357,4 +357,5 @@
     <string name="site_conf">网站设定</string>
     <string name="ui_simple_top">工具栏在上</string>
     <string name="ui_simple_bottom">工具栏在下</string>
+    <string name="file_does_not_exist">文件不存在</string>
 </resources>

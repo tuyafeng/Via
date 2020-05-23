@@ -374,4 +374,5 @@
     <string name="site_conf">Site configuration</string>
     <string name="ui_simple_top">Toolbar at top</string>
     <string name="ui_simple_bottom">Toolbar at bottom</string>
+    <string name="file_does_not_exist">The file does not exist</string>
 </resources>
