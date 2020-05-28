@@ -341,7 +341,7 @@
     <string name="restore_tabs_hint_settings">You\'ve gone incognito. Tabs will not be restored.</string>
     <string name="night_css_enabled">Enabled dark operation in \"Night Mode\"</string>
     <string name="night_css_disabled">Disabled dark operation in \"Night Mode\"</string>
-    <string name="ignore_secondary_ssl_error">Ignore Secondary SSL Error</string>
+    <string name="ignore_secondary_ssl_error">Ignore secondary SSL error</string>
     <string name="powerful_cache">Hyper cache</string>
     <string name="web_page_debug">Enable web page debugging</string>
     <string name="web_page_debug_info">Now you can connect your phone to computer, then debug the web page with Chrome (PC) using \"chrome://inspect\". Remember to first enable USB Debugging in the menu: More Tools > Developer Tools.</string>
