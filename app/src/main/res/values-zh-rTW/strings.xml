@@ -375,4 +375,5 @@
     <string name="ui_simple_top">操作列在上</string>
     <string name="ui_simple_bottom">操作列在下</string>
     <string name="file_does_not_exist">檔案不存在</string>
+    <string name="dialog_message_from">來自 %s 的訊息</string>
 </resources>
