@@ -17,6 +17,7 @@
     <string name="action_unblock_url">Разблокировать ссылку</string>
     <string name="action_block_url">Блокировать ссылку</string>
     <string name="action_copy_text">Копировать текст</string>
+    <string name="action_copy_link_text">Копировать текст ссылки</string>
     <string name="action_image_off">Без изображений</string>
     <string name="action_tools">Ещё…</string>
     <string name="settings">Настройки</string>
@@ -79,7 +80,7 @@
     <string name="yahoo_url">Yahoo</string>
     <string name="yandex_url">Яндекс</string>
     <string name="google_url">Google</string>
-    <string name="sougou_url">Sougou</string>
+    <string name="sougou_url">Sogou</string>
     <string name="block_ads">Блокировка рекламы</string>
     <string name="message_untrusted_certificate">Сертификат сайта не является доверенным. Всё равно продолжить?</string>
     <string name="message_date_invalid_certificate">Дата сертификата сайта недействительна. Всё равно продолжить?</string>
@@ -146,15 +147,15 @@
     <string name="action_translate">Перевод</string>
     <string name="title_edit_folder">Редактирование папки</string>
     <string name="msg_delete_folder">Удалить эту папку?</string>
-    <string name="desc_suggestion">предложение</string>
-    <string name="desc_search">поиск на странице</string>
-    <string name="desc_reload">перезагрузить</string>
-    <string name="desc_back">назад</string>
-    <string name="desc_forward">вперёд</string>
-    <string name="desc_home">домой</string>
-    <string name="desc_tab">вкладка</string>
-    <string name="desc_menu">меню</string>
-    <string name="desc_filedic">файл</string>
+    <string name="desc_suggestion">Предложение</string>
+    <string name="desc_search">Поиск на странице</string>
+    <string name="desc_reload">Перезагрузить</string>
+    <string name="desc_back">Назад</string>
+    <string name="desc_forward">Вперёд</string>
+    <string name="desc_home">Домой</string>
+    <string name="desc_tab">Вкладка</string>
+    <string name="desc_menu">Меню</string>
+    <string name="desc_filedic">Файл</string>
     <string name="action_mark">Пометить как рекламу</string>
     <string name="dialog_confirm_block">Вы уверены, что хотите пометить это как рекламу?</string>
     <string name="do_not_track">Запретить отслеживание</string>
@@ -246,8 +247,8 @@
     <string name="settings_script">Скрипты</string>
     <string name="get_more_script">Готовые скрипты</string>
     <string name="add_script">Добавить скрипт</string>
-    <string name="script_url">домен или * (* — любой)</string>
-    <string name="script_code">код (javascript)</string>
+    <string name="script_url">Домен или * (* — любой)</string>
+    <string name="script_code">Код (javascript)</string>
     <string name="help_us_translate">Помочь с переводом</string>
     <string name="confirm_to_leave">Подтверждение выхода</string>
     <string name="leave">Выйти</string>
@@ -373,4 +374,6 @@
     <string name="site_conf">Настройки сайта</string>
     <string name="ui_simple_top">Панель вверху</string>
     <string name="ui_simple_bottom">Панель внизу</string>
+    <string name="file_does_not_exist">Файл не существует</string>
+    <string name="dialog_message_from">Пишет %s</string>
 </resources>
