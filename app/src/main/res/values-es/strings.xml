@@ -351,4 +351,6 @@
     <string name="global_server">Global</string>
     <string name="server_message">Los datos de estos servidores no están sincronizados. Se le pedirá que inicie sesión de nuevo.</string>
     <string name="delete_bookmark_folder_message">Los marcadores en la carpeta %s también serán eliminados. ¿Está seguro?</string>
+    <string name="block_hint">Bloqueado: %s\nactualice para que surta efecto.</string>
+    <string name="unblock_hint">Desbloqueado: %s\nactualice para que surta efecto.</string>
 </resources>
