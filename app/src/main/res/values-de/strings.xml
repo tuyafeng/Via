@@ -12,6 +12,10 @@
     <string name="action_add_bookmark">Lesezeichen hinzufügen</string>
     <string name="action_night">Nachtmodus</string>
     <string name="action_copy">Link kopieren</string>
+    <string name="action_block_domain">Domain blockieren</string>
+    <string name="action_unblock_domain">Domainblockierung aufheben</string>
+    <string name="action_unblock_url">Linkblockierung aufheben</string>
+    <string name="action_block_url">Link blockieren</string>
     <string name="action_copy_text">Text kopieren</string>
     <string name="action_copy_link_text">Link Text kopieren</string>
     <string name="action_image_off">Bild blockieren</string>
@@ -182,6 +186,7 @@
     <string name="open_with">Öffnen mit&#8230;</string>
     <string name="download_completed">Download abgeschlossen</string>
     <string name="toast_fullscreen_off">Full-Screen Modus beendet</string>
+    
     <string name="clear_data">Daten löschen</string>
     <string name="data_cache">Cache</string>
     <string name="data_form_data">Fomulardaten</string>
@@ -189,27 +194,39 @@
     <string name="data_storage">Gespeicherte Seiten</string>
     <string name="data_cookies">Cookies</string>
     <string name="data_cleared">Daten gelöscht</string>
+    
     <string name="sync_desc">Das Konto wird angelegt, wenn es nicht existiert.</string>
+    
     <string name="settings_skin">Anpassen</string>
     <string name="default_set">Standard</string>
     <string name="picture">Bild</string>
     <string name="text">Text</string>
     <string name="html_code">Html Code</string>
+    
     <string name="action_view_image">Bild anzeigen</string>
+    
     <string name="skin_colorful">Bunt</string>
     <string name="skin_fruity">Fruity</string>
     <string name="skin_transparent">Transparent</string>
+    
     <string name="block_popup">Blockiere Popup</string>
+    
     <string name="action_save_web_page">Speichere Webseite</string>
     <string name="action_saved_pages">Gespeicherte Seiten</string>
     <string name="saved_page_successfully">Seite erfolgreich gespeichert</string>
     <string name="deleted_failed">Löschen fehlgeschlagen. Die Datei befindet sich im Download-Pfad: </string>
+    
     <string name="empty_hint">Nichts anzuzeigen&#8230;</string>
+    
     <string name="network_log">Netzwerk Log</string>
     <string name="catalog">Katalog</string>
+    
     <string name="conn_timeout">Zeitüberschreitung der Verbindung</string>
+    
     <string name="already_default">Bereits als Standard festgelegt</string>
+    
     <string name="set_to_default">Es wird als Standard festgelegt, nachdem der Link geöffnet wird (%s), bitte Via wählen, um den Link zu öffnen.</string>
+    
     <string name="sync_prompt">Bestehende lokale Lesezeichen und Einstellungen werden überschrieben. Fortfahren?</string>
     <string name="upload_prompt">Bestehende lokale Lesezeichen und Einstelleungen werden hochgeladen. Fortfahren?</string>
     <string name="none">Nichts</string>
@@ -357,4 +374,6 @@
     <string name="site_conf">Webseiten-Konfiguration</string>
     <string name="ui_simple_top">Op.-Leiste oben</string>
     <string name="ui_simple_bottom">Op.-Leiste unten</string>
+    <string name="file_does_not_exist">Die Datei existiert nicht</string>
+    <string name="dialog_message_from">Nachricht von %s</string>
 </resources>
