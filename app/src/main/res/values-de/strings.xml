@@ -80,7 +80,7 @@
     <string name="yahoo_url">Yahoo</string>
     <string name="yandex_url">Yandex</string>
     <string name="google_url">Google</string>
-    <string name="sougou_url">Sougou</string>
+    <string name="sougou_url">Sogou</string>
     <string name="block_ads">Blockiere Werbung</string>
     <string name="message_untrusted_certificate">Das Zertifikat dieser Seite in nicht vertrauenswürdig. Trotzdem fortfahren?</string>
     <string name="message_date_invalid_certificate">Das Zertifikatsdatum dieser Seite ist ungültig. Trotzdem fortfahren?</string>
