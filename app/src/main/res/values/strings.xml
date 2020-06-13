@@ -50,7 +50,7 @@
     <string name="title_warning">Warning</string>
     <string name="title_user_agent">User-agent</string>
     <string name="title_custom_homepage">Custom homepage</string>
-    <string name="action_webpage">Webpage</string>
+    <string name="action_webpage">Web page</string>
     <string name="size_largest">Largest</string>
     <string name="size_large">Large</string>
     <string name="size_normal">Normal</string>
@@ -138,7 +138,7 @@
     <string name="settings_privacy">Privacy</string>
     <string name="settings_advanced">Advanced</string>
     <string name="settings_about">About</string>
-    <string name="url_box">URL box contents</string>
+    <string name="url_box">URL field content</string>
     <string name="url_box_domain">Domain</string>
     <string name="url_box_url">URL</string>
     <string name="url_box_title">Title</string>
@@ -179,13 +179,13 @@
     <string name="crash_close">Close</string>
     <string name="crash_upload">Upload the crash log</string>
     <string name="upload_completed">Upload completed</string>
-    <string name="ui_mode">Toolbar UI Mode</string>
+    <string name="ui_mode">Toolbar UI mode</string>
     <string name="ui_auto">Auto</string>
     <string name="addon_download">Download manager</string>
     <string name="quick_back">Go back without reloading</string>
     <string name="open_with">Open with&#8230;</string>
     <string name="download_completed">Download completed</string>
-    <string name="toast_fullscreen_off">Exit fullscreen mode</string>
+    <string name="toast_fullscreen_off">Exit full-screen mode</string>
 
     <string name="clear_data">Clear data</string>
     <string name="data_cache">Cache</string>
@@ -234,7 +234,7 @@
     <string name="check_permission">Permission denied. Would you like to set it in settings now?</string>
     <string name="need_permission_hint">Via needs the following permissions to work:\n\n</string>
     <string name="storage_permission">Storage: for downloading files from the browser and importing/exporting bookmarks, etc.\n\n</string>
-    <string name="location_permission">Location: for sites like Google Maps, it is disabled by default. When it is enabled, pop-up is displayed asking if a site may use your location.\n\n</string>
+    <string name="location_permission">Location: for sites like Google Maps, it is disabled by default. When it is enabled, a pop-up is displayed asking if the site may use your location.\n\n</string>
     <string name="force_cancel">Force close</string>
     <string name="restore_tabs_hint">Would you like to restore unclosed tabs from the last session?</string>
     <string name="restore_tabs">Restore tabs on startup</string>
@@ -272,7 +272,7 @@
     <string name="find_pre">Find last</string>
     <string name="action_open_in_background">Open in background</string>
     <string name="cannot_work">It can only work with \"http\" or \"https\" URLs.</string>
-    <string name="action_fullscreen">Fullscreen</string>
+    <string name="action_fullscreen">Full-screen</string>
     <string name="action_ua">User-agent</string>
     <string name="settings_general">General</string>
     <string name="no_bookmark">No bookmarks</string>
@@ -375,5 +375,5 @@
     <string name="ui_simple_top">Toolbar at top</string>
     <string name="ui_simple_bottom">Toolbar at bottom</string>
     <string name="file_does_not_exist">The file does not exist</string>
-    <string name="dialog_message_from">%s says</string>
+    <string name="dialog_message_from">Message from %s</string>
 </resources>
