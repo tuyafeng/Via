@@ -327,7 +327,7 @@
     <string name="title_edit_favorite">Favoriten bearbeiten</string>
     <string name="custom_css_special">Benutzer CSS hinzufügen</string>
     <string name="force_enable_zoom">Erzwinge Zoom</string>
-    <string name="set_ua_as">Benutzer-Agent gesetzt als: %s</string>
+    <string name="set_ua_as">Benutzer-Agent als %s festgelegt</string>
     <string name="import_data">Importiere Daten</string>
     <string name="import_data_failed">Fehler beim Datenimport!</string>
     <string name="import_data_succeed">Daten erfolgreich importiert!</string>
