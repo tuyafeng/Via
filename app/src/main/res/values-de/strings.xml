@@ -6,7 +6,7 @@
     <string name="action_open_in_new">In neuem Tab öffnen</string>
     <string name="action_save_img">Bild speichern</string>
     <string name="action_share">Teilen</string>
-    <string name="action_history">Chronik</string>
+    <string name="action_history">Verlauf</string>
     <string name="action_bookmarks">Lesezeichen</string>
     <string name="bookmarks_file">Lesezeichen-Export</string>
     <string name="action_add_bookmark">Lesezeichen hinzufügen</string>
