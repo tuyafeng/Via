@@ -117,7 +117,7 @@
     <string name="toast_copy_url_successful">Kopieren der URL erfolgreich</string>
     <string name="toast_copy_text_successful">Kopieren des Textes erfolgreich</string>
     <string name="incognito_on">Sie sind jetzt inkognito</string>
-    <string name="incognito_off">Inkognito ausgeschaltet</string>
+    <string name="incognito_off">Inkognito deaktiviert</string>
     <string name="operation_none">Nichts unternehmen</string>
     <string name="operation_reload">Erneut laden</string>
     <string name="operation_top">Zum Anfang springen</string>
@@ -370,7 +370,7 @@
     <string name="unblock_hint">Entblockt: %s\nAktualisieren zum Aktivieren.</string>
     <string name="ignore_ssl_error_today">Ignoriere SSL Fehler heute</string>
     <string name="block_3rd_party_cookies">Blockiere Drittanbieter-Cookies</string>
-    <string name="enable_site_conf">Seiten-Konfiguration einschalten für %s</string>
+    <string name="enable_site_conf">Seiten-Konfiguration für %s aktivieren</string>
     <string name="site_conf">Seiten-Konfiguration</string>
     <string name="ui_simple_top">Toolbar oben</string>
     <string name="ui_simple_bottom">Toolbar unten</string>
