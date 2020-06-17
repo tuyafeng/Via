@@ -43,7 +43,7 @@
     <string name="action_blank">Leere Seite</string>
     <string name="agent_chrome">Chrome (PC)</string>
     <string name="agent_ie">IE 11 (PC)</string>
-    <string name="agent_iphone">iPhone</string>
+    <string name="agent_iphone">Safari (iPhone)</string>
     <string name="agent_symbian">Nokia Browser</string>
     <string name="agent_custom">Angepasst</string>
     <string name="dialog_download">Möchten Sie die Datei herunterladen?</string>
@@ -68,7 +68,7 @@
     <string name="download_no_sdcard_dlg_title">Keine Speicherkarte</string>
     <string name="download_no_sdcard_dlg_msg">USB Speicher wird benötigt, um die Datei herunterzuladen.</string>
     <string name="download_sdcard_busy_dlg_title">USB Speicher nicht verfügbar</string>
-    <string name="download_sdcard_busy_dlg_msg">Der Speicher ist beschäftigt. Schalte USB Speicher in der Benachrichtigungsleiste aus, um Downloads zu erlauben.</string>
+    <string name="download_sdcard_busy_dlg_msg">Der Speicher ist beschäftigt. Schalte USB Speicher im Benachrichtigungsfeld aus, um Downloads zu erlauben.</string>
     <string name="message_import">Lesezeichen wurden importiert</string>
     <string name="custom_url">Eigene URL</string>
     <string name="baidu_url">Baidu</string>
@@ -179,7 +179,7 @@
     <string name="crash_close">App schließen</string>
     <string name="crash_upload">Absturz-Log hochladen</string>
     <string name="upload_completed">Hochladen abgeschlossen</string>
-    <string name="ui_mode">Toolbar UI-Modus</string>
+    <string name="ui_mode">Toolbar-UI-Modus</string>
     <string name="ui_auto">Auto</string>
     <string name="addon_download">Download-Manager</string>
     <string name="quick_back">Zurück, ohne die Seite erneut zu laden</string>
