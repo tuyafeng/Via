@@ -159,7 +159,7 @@
     <string name="action_mark">Mark as ad</string>
     <string name="dialog_confirm_block">Would you like to mark this as ad?</string>
     <string name="do_not_track">Do not track</string>
-    <string name="add_rule">Add rule</string>
+    <string name="add_rule">Add filter</string>
     <string name="hint_tags">Tags</string>
     <string name="color_mode">Color mode</string>
     <string name="dialog_sure">Are you sure you want to proceed?</string>
@@ -295,8 +295,8 @@
     <string name="share_script">Script for %1$s, copy this message and open Via to import it. viascript{%2$s}</string>
     <string name="share_online_script">Script for %1$s, copy this message and open link %2$s with Via to install it.</string>
     <string name="import_script">Would you like to import script for %1$s from the clipboard?\nWarning: script can be dangerous. Please make sure it is safe.\nScript:\n</string>
-    <string name="share_rule">The rule for blocking ads of %1$s, copy this message and open Via to import it. viarule{%2$s}</string>
-    <string name="import_rule">Would you like to import the rule for blocking ads of %1$s from the clipboard?</string>
+    <string name="share_rule">The filter for blocking ads of %1$s, copy this message and open Via to import it. viarule{%2$s}</string>
+    <string name="import_rule">Would you like to import the filter for blocking ads of %1$s from the clipboard?</string>
     <string name="share_url">This is a secret URL. Copy this message and open Via to view it. viaurl{%1$s}</string>
     <string name="import_url">Would you like to open link from the clipboard?\nLink: %1$s</string>
     <string name="import_successful">Imported successfully</string>
@@ -376,4 +376,49 @@
     <string name="ui_simple_bottom">Toolbar at bottom</string>
     <string name="file_does_not_exist">The file does not exist</string>
     <string name="dialog_message_from">Message from %s</string>
+    <string name="filter_subscriptions">Filter subscriptions</string>
+    <string name="filter_subscription_exist">The filter subscription already exists.</string>
+    <string name="custom_filters">Custom filter</string>
+    <string name="custom_filters_description">Include custom filter, marked ads</string>
+    <string name="custom_filter">Custom filter</string>
+    <string name="add_filter_subscription">Add filter subscription</string>
+    <string name="edit_filter_subscription">Edit filter subscription</string>
+    <string name="updating_filter_subscriptions">Updating filter subscriptions</string>
+    <string name="update_filter_subscriptions_completed">Filter subscriptions updated completed.</string>
+    <string name="download_notification">Download notification</string>
+    <string name="has_not_been_updated">has not been updated</string>
+    <string name="long_ago">long ago</string>
+    <string name="just_now">just now</string>
+    <plurals name="minutes_ago">
+        <item quantity="one">1 minute ago</item>
+        <item quantity="other">%d minutes ago</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="one">1 hour ago</item>
+        <item quantity="other">%d hours ago</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="one">1 day ago</item>
+        <item quantity="other">%d days ago</item>
+    </plurals>
+    <string name="url_is_invalid">The url is invalid.</string>
+    <string name="simple_guide_of_writing_rule">Via support almost all adblock plus filters.
+        \nYou can block the requests from example.com with this filter like:
+        \n||example.com^ (or simply, example.com)
+        \n\nThe wildcard is allow, like:
+        \n||example.com/js/ads_*.js
+        \n\nYou can unblock the special requests with the filter like:
+        \n@@||example.com^
+        \n\nFor the element filters, like:
+        \nexample.com###ad</string>
+    <string name="help">Help</string>
+    <string name="learn_more">Learn more</string>
+    <plurals name="filters">
+        <item quantity="zero">0 filter</item>
+        <item quantity="one">1 filter</item>
+        <item quantity="other">%d filters</item>
+    </plurals>
+    <string name="updated_">updated %s</string>
+    <string name="filter_subscription_info">%s, %s</string>
+    <string name="enable_built_in_filters">Enable built-in filter</string>
 </resources>

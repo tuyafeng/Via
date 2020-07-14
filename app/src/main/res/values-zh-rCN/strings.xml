@@ -359,4 +359,45 @@
     <string name="ui_simple_bottom">工具栏在下</string>
     <string name="file_does_not_exist">文件不存在</string>
     <string name="dialog_message_from">来自 %s 的消息</string>
+    <string name="filter_subscriptions">规则订阅</string>
+    <string name="filter_subscription_exist">此规则订阅已存在。</string>
+    <string name="custom_filters">自定义规则</string>
+    <string name="custom_filters_description">包括拦截的规则、标记的广告</string>
+    <string name="custom_filter">自定义规则</string>
+    <string name="add_filter_subscription">添加规则订阅</string>
+    <string name="updating_filter_subscriptions">更新规则订阅中…</string>
+    <string name="update_filter_subscriptions_completed">订阅规则更新完成。</string>
+    <string name="download_notification">下载通知</string>
+    <string name="has_not_been_updated">从未更新</string>
+    <string name="just_now">刚刚</string>
+    <string name="long_ago">很久以前</string>
+    <plurals name="minutes_ago">
+        <item quantity="other">%d 分钟前</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">%d 小时前</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">%d 天前</item>
+    </plurals>
+    <string name="url_is_invalid">链接无效。</string>
+    <string name="simple_guide_of_writing_rule">Via 几乎支持所有的 adblock plus 规则。
+        \n您可以这样拦截 example.com 的所有请求：
+        \n||example.com^（或 example.com）
+        \n\n通配符也是支持的，比如：
+        \n||example.com/js/ads_*.js
+        \n\n您也可以允许指定的请求，例如：
+        \n@@||example.com^
+        \n\n对于网页的元素，规则类似：
+        \nexample.com###ad
+    </string>
+    <string name="help">帮助</string>
+    <string name="learn_more">了解更多</string>
+    <plurals name="filters">
+        <item quantity="other">%d 条规则</item>
+    </plurals>
+    <string name="updated_">%s更新</string>
+    <string name="filter_subscription_info">%s，%s</string>
+    <string name="enable_built_in_filters">启用内建规则</string>
+    <string name="edit_filter_subscription">编辑规则订阅</string>
 </resources>
