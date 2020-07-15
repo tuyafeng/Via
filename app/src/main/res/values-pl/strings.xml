@@ -383,5 +383,6 @@
     <string name="site_conf">Site conf</string>
     <string name="ui_simple_top">Prosty (pasek na górze)</string>
     <string name="ui_simple_bottom">Prosty (pasek na dole)</string>
-    <string name="file_does_not_exist">Plik nie istnieje</string>
+    <string name="file_does_not_exist">Plik nie istnieje.</string>
+    <string name="dialog_message_from">Wiadomość z %s</string>
 </resources>
