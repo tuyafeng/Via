@@ -213,7 +213,7 @@
 
     <string name="action_save_web_page">儲存網頁</string>
     <string name="action_saved_pages">已儲存網頁</string>
-    <string name="saved_page_successfully">網頁保存成功.存儲於: 工具 > \"已儲存網頁\".</string>
+    <string name="saved_page_successfully">網頁保存成功。存儲於: 工具 > \"已儲存網頁\"。</string>
     <string name="deleted_failed">刪除失敗，此檔案位於下載路徑: </string>
 
     <string name="empty_hint">空空如也&#8230;</string>
@@ -376,4 +376,49 @@
     <string name="ui_simple_bottom">操作列在下</string>
     <string name="file_does_not_exist">檔案不存在</string>
     <string name="dialog_message_from">來自 %s 的訊息</string>
+    <string name="filter_subscriptions">規則訂閱</string>
+    <string name="filter_subscriptions_description">訂閱 Adblock Plus 規則列表</string>
+    <string name="filter_subscription_exist">此規則訂閱已存在。</string>
+    <string name="custom_filters">自訂規則</string>
+    <string name="custom_filters_description">包括攔截的規則、標記的廣告</string>
+    <string name="custom_filter">自訂規則</string>
+    <string name="add_filter_subscription">新增規則訂閱</string>
+    <string name="updating_filter_subscriptions">更新規則訂閱中…</string>
+    <string name="update_filter_subscriptions_completed">訂閱規則更新完成。</string>
+    <string name="update_filter_subscription_failed">訂閱規則更新失敗。\n%s</string>
+    <string name="download_notification">下載通知</string>
+    <string name="has_not_been_updated">從未更新</string>
+    <string name="just_now">剛剛</string>
+    <string name="long_ago">很久以前</string>
+    <plurals name="minutes_ago">
+        <item quantity="other">%d 分鐘前</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">%d 小時前</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">%d 天前</item>
+    </plurals>
+    <string name="url_is_invalid">連結無效。</string>
+    <string name="simple_guide_of_writing_rule">Via 幾乎支援所有的 Adblock Plus 規則。
+        \n您可以這樣攔截 example.com 的所有請求：
+        \n||example.com^（或 example.com）
+        \n\n萬用字元也是支援的，比如：
+        \n||example.com/js/ads_*.js
+        \n\n您也可以允許指定的請求，例如：
+        \n@@||example.com^
+        \n\n對於網頁的元素，規則類似：
+        \nexample.com###ad
+    </string>
+    <string name="help">幫助</string>
+    <string name="learn_more">了解更多</string>
+    <plurals name="filters">
+        <item quantity="other">%d 條規則</item>
+    </plurals>
+    <string name="updated_">%s更新</string>
+    <string name="filter_subscription_info">%s，%s</string>
+    <string name="enable_built_in_filters">啟用內建規則</string>
+    <string name="edit_filter_subscription">編輯規則訂閱</string>
+    <string name="enable_built_in_filters_description">內建規則僅攔截常見廣告</string>
+    <string name="update">更新</string>
 </resources>
