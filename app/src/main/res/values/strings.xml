@@ -379,8 +379,8 @@
     <string name="filter_subscriptions">Filter subscriptions</string>
     <string name="filter_subscriptions_description">Subscribe Adblock Plus filter lists</string>
     <string name="filter_subscription_exist">The filter subscription already exists.</string>
-    <string name="custom_filters">Custom filter</string>
-    <string name="custom_filters_description">Including custom filter, marked ads</string>
+    <string name="custom_filters">Custom filters</string>
+    <string name="custom_filters_description">Including custom filters, marked ads</string>
     <string name="custom_filter">Custom filter</string>
     <string name="add_filter_subscription">Add filter subscription</string>
     <string name="edit_filter_subscription">Edit filter subscription</string>
