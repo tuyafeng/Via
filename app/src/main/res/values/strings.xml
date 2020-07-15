@@ -377,14 +377,16 @@
     <string name="file_does_not_exist">The file does not exist</string>
     <string name="dialog_message_from">Message from %s</string>
     <string name="filter_subscriptions">Filter subscriptions</string>
+    <string name="filter_subscriptions_description">Subscribing adblock plus filter lists</string>
     <string name="filter_subscription_exist">The filter subscription already exists.</string>
     <string name="custom_filters">Custom filter</string>
-    <string name="custom_filters_description">Include custom filter, marked ads</string>
+    <string name="custom_filters_description">Including custom filter, marked ads</string>
     <string name="custom_filter">Custom filter</string>
     <string name="add_filter_subscription">Add filter subscription</string>
     <string name="edit_filter_subscription">Edit filter subscription</string>
     <string name="updating_filter_subscriptions">Updating filter subscriptions</string>
     <string name="update_filter_subscriptions_completed">Filter subscriptions updated completed.</string>
+    <string name="update_filter_subscription_failed">Filter subscription updated failed.\n%s</string>
     <string name="download_notification">Download notification</string>
     <string name="has_not_been_updated">has not been updated</string>
     <string name="long_ago">long ago</string>
@@ -420,5 +422,7 @@
     </plurals>
     <string name="updated_">updated %s</string>
     <string name="filter_subscription_info">%s, %s</string>
-    <string name="enable_built_in_filters">Enable built-in filter</string>
+    <string name="enable_built_in_filters">Enable built-in filters</string>
+    <string name="enable_built_in_filters_description">Built-in filters only block common ads</string>
+    <string name="update">Update</string>
 </resources>
