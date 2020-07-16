@@ -89,7 +89,7 @@
     <string name="message_not_yet_valid_certificate">Le certificat du site n\'est pas encore valide. Continuer quand même ?</string>
     <string name="title_form_resubmission">Renvoyer le formulaire</string>
     <string name="message_form_resubmission">Voulez-vous renvoyer les données?</string>
-    <string name="message_location">\nAutoriser l'accès à votre emplacement ?</string>
+    <string name="message_location">\nAutoriser l\'accès à votre emplacement?</string>
     <string name="action_allow">Autoriser</string>
     <string name="action_dont_allow">Refuser</string>
     <string name="title_sign_in">Se connecter</string>
