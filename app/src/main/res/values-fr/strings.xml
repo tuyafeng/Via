@@ -26,13 +26,13 @@
     <string name="donate_details">Si vous aimez le navigateur Via, vous pouvez faire un don pour nous soutenir.\nAlipay: 2376688759@qq.com\nPayPal: wiar1824@gmail.com</string>
     <string name="orientation">Orientation</string>
     <string name="orientation_system">Système</string>
-    <string name="orientation_auto">Auto</string>
+    <string name="orientation_auto">Automatique</string>
     <string name="orientation_portrait">Portrait</string>
     <string name="orientation_landscape">Paysage</string>
     <string name="agent">Agent utilisateur</string>
     <string name="home">Page d\'accueil</string>
     <string name="fullscreen">Masquer la barre d\'actions</string>
-    <string name="java">Activer le langage JavaScript</string>
+    <string name="java">Autoriser le langage JavaScript</string>
     <string name="download">Dossier de téléchargement</string>
     <string name="size">Taille du texte</string>
     <string name="search">Moteur de recherche</string>
@@ -89,7 +89,7 @@
     <string name="message_not_yet_valid_certificate">Le certificat du site n\'est pas encore valide. Continuer quand même ?</string>
     <string name="title_form_resubmission">Renvoyer le formulaire</string>
     <string name="message_form_resubmission">Voulez-vous renvoyer les données?</string>
-    <string name="message_location">\nUtiliser votre emplacement ?</string>
+    <string name="message_location">\nAutoriser l'accès à votre emplacement ?</string>
     <string name="action_allow">Autoriser</string>
     <string name="action_dont_allow">Refuser</string>
     <string name="title_sign_in">Se connecter</string>
@@ -99,7 +99,7 @@
     <string name="image_auto">Afficher les images uniquement via le wifi</string>
     <string name="image_on">Afficher les images</string>
     <string name="image_off">Bloquer les images</string>
-    <string name="title_file_chooser">Sélecteur de fichier</string>
+    <string name="title_file_chooser">Sélectionneur de fichiers</string>
     <string name="import_backup">Importer les favoris</string>
     <string name="bookmark_export_path">Favoris exportés vers\n</string>
     <string name="import_bookmark_error">Impossible d\'importer les favoris à partir du fichier</string>
@@ -145,7 +145,7 @@
     <string name="action_source">Afficher la source</string>
     <string name="action_translate">Traduction</string>
     <string name="title_edit_folder">Modifier le dossier</string>
-    <string name="msg_delete_folder">Supprimer ce dossier ?</string>
+    <string name="msg_delete_folder">Supprimer le dossier ?</string>
     <string name="desc_suggestion">suggestion</string>
     <string name="desc_search">rechercher dans la page</string>
     <string name="desc_reload">actualiser</string>
@@ -180,7 +180,7 @@
     <string name="upload_completed">Envoi réussi :)</string>
     <string name="ui_mode">Mode d\'affichage</string>
     <string name="ui_auto">Auto</string>
-    <string name="addon_download">Gestionnaire de téléchargement</string>
+    <string name="addon_download">Gestionnaire de téléchargements</string>
     <string name="quick_back">Retour sans rechargement</string>
     <string name="open_with">Ouvrir avec&#8230;</string>
     <string name="download_completed">Téléchargement terminé</string>
@@ -212,7 +212,7 @@
 
     <string name="action_save_web_page">Enregistrer la page Web</string>
     <string name="action_saved_pages">Pages sauvegardées</string>
-    <string name="saved_page_successfully">Page enregistrée avec succès. Elle est disponible le menu : Pages sauvegardées</string>
+    <string name="saved_page_successfully">Page enregistrée avec succès et disponible dans le menu : Pages sauvegardées</string>
     <string name="deleted_failed">Échec de la suppression. Le fichier est situé dans le dossier de Téléchargement: </string>
 
     <string name="empty_hint">Rien à afficher&#8230;</string>
@@ -283,7 +283,7 @@
 	<string name="toolbar_settings_hint">Cliquer sur les boutons suivants pour paramétrer leur action lors d\'un appui long, et appuyer longuement pour voir ce qui a été paramétré.</string>
     <string name="action_modify">Modifier</string>
     <string name="operation_hint">Gestes, raccourcis, etc.</string>
-    <string name="adblock_info">%1$d annonces ont été bloquées et %2$s sauvés</string>
+    <string name="adblock_info">%1$d annonces ont été bloquées et %2$s économisés</string>
     <string name="disable">Désactiver</string>
     <string name="ui_traditional">Normal</string>
     <string name="ui_simple">Simple</string>
@@ -324,7 +324,7 @@
     <string name="action_add_to_homepage">Ajouter à la page d\'accueil</string>
     <string name="added_favorite_hint">Ajout à la page d\'accueil réussi</string>
     <string name="title_edit_favorite">Modifier le favori</string>
-    <string name="custom_css_special">Ajouter une CSS personnalisée</string>
+    <string name="custom_css_special">Ajouter une règle CSS personnalisée</string>
     <string name="force_enable_zoom">Activer le zoom forcé</string>
     <string name="set_ua_as">L\'agent utilisateur actuel est %s</string>
     <string name="import_data">Importer les données</string>
