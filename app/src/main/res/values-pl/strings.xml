@@ -5,7 +5,7 @@
     <string name="action_new_tab">Nowa karta</string>
     <string name="action_open_in_new">Otwórz i przejdź</string>
     <string name="action_save_img">Zapisz obraz</string>
-    <string name="action_share">Udostępnij link</string>
+    <string name="action_share">Udost. link</string>
     <string name="action_history">Historia</string>
     <string name="action_bookmarks">Zakładki</string>
     <string name="bookmarks_file">zakładki</string>
@@ -101,7 +101,7 @@
     <string name="image_off">Zawsze wł.</string>
     <string name="title_file_chooser">Wybór pliku</string>
     <string name="import_backup">Importuj zakładki</string>
-    <string name="bookmark_export_path">Zakładki zostały wyeksportowane do pliku\n</string>
+    <string name="bookmark_export_path">Zakładki zostały wyeksportowane do pliku\n.</string>
     <string name="import_bookmark_error">Nie można zaimportować zakładek z tego pliku.</string>
     <string name="message_add_bookmark">Zakładka została dodana.</string>
     <string name="message_exit">Naciśnij jeszcze raz, aby wyjść.</string>
@@ -111,7 +111,7 @@
     <string name="toast_operation_done">Operacja powiodła się.</string>
     <string name="volume">Przewijaj strony przyciskami głośności</string>
     <string name="msg_intent">Otworzyć związaną z tym działaniem aplikację?</string>
-    <string name="setting_default">Ustaw jako domyślną przeglądarkę</string>
+    <string name="setting_default">Domyślna przeglądarka</string>
     <string name="toast_clear_defaults">Wyczyść domyślne</string>
     <string name="toast_copy_url_successful">Adres został skopiowany.</string>
     <string name="toast_copy_text_successful">Tekst został skopiowany.</string>
@@ -170,7 +170,7 @@
     <string name="wrong_psw">Niepoprawne hasło</string>
     <string name="sign_up_success">Rejestracja zakończona.</string>
     <string name="code_500">Usługa niedostępna</string>
-    <string name="syns_success">Synchronizacja zakończona</string>
+    <string name="syns_success">Synchronizacja zakończona.</string>
     <string name="upload_success">Wysyłanie zakończone.</string>
     <string name="log_out">Wylogować?</string>
     <string name="crash_info">Wystąpił błąd</string>
@@ -186,7 +186,7 @@
     ]]>
     <string name="quick_back">Cofanie bez odświeżania strony</string>
     <string name="open_with">Otwórz z pomocą&#8230;</string>
-    <string name="download_completed">Pobieranie zakończone</string>
+    <string name="download_completed">Pobieranie zakończone.</string>
     <string name="toast_fullscreen_off">Opuść tryb pełnoekranowy</string>
 
     <string name="clear_data">Usuń dane</string>
@@ -195,7 +195,7 @@
     <string name="data_history">Historia</string>
     <string name="data_storage">Dane witryn</string>
     <string name="data_cookies">Ciasteczka</string>
-    <string name="data_cleared">Dane zostały usunięte</string>
+    <string name="data_cleared">Dane zostały usunięte.</string>
 
     <string name="sync_desc">Jeśli konto nie istnieje, zostanie utworzone.</string>
 
@@ -253,7 +253,7 @@
     <string name="add_script">Stwórz skrypt</string>
     <string name="script_url">Domena / zakres domen (*)</string>
     <string name="script_code">Kod (JavaScript)</string>
-    <string name="help_us_translate">Przetłumacz aplikację na swój język</string>
+    <string name="help_us_translate">Przetłumacz aplikację</string>
     <string name="confirm_to_leave">Potwierdź</string>
     <string name="leave">Opuść</string>
     <string name="stay">Zostań</string>
@@ -331,7 +331,7 @@
     <string name="no_network">Brak dostępnych połączeń sieciowych.</string>
     <string name="title_app_chooser">Wybór aplikacji</string>
     <string name="clear_data_on_exit">Czyść dane przy wyjściu</string>
-    <string name="action_add_to_homepage">Dodaj do szybkiego wybierania</string>
+    <string name="action_add_to_homepage">Dodaj do sz. wyb.</string>
     <string name="added_favorite_hint">Dodano do szybkiego wybierania.</string>
     <string name="title_edit_favorite">Edytuj ulubione</string>
     <string name="custom_css_special">Dodaj własny plik CSS</string>
@@ -341,7 +341,7 @@
     <string name="import_data_failed">Importowanie danych nie powiodło się.</string>
     <string name="import_data_succeed">Importowanie danych zakończone.</string>
     <string name="export_data">Eksportuj dane</string>
-    <string name="export_data_to">Dane zostały wyeksportowane do pliku\n%s</string>
+    <string name="export_data_to">Dane zostały wyeksportowane do pliku\n%s.</string>
     <string name="always_restore">Zawsze przywracaj</string>
     <string name="ask_first">Zawsze pytaj</string>
     <string name="disable_restore">Nigdy</string>
@@ -383,4 +383,6 @@
     <string name="site_conf">Site conf</string>
     <string name="ui_simple_top">Prosty (pasek na górze)</string>
     <string name="ui_simple_bottom">Prosty (pasek na dole)</string>
+    <string name="file_does_not_exist">Plik nie istnieje.</string>
+    <string name="dialog_message_from">Wiadomość z %s</string>
 </resources>

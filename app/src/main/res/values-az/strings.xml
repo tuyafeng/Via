@@ -286,8 +286,8 @@
     <string name="share_script">Script for %1$s, copy this message and open via to import it. viascript{%2$s}</string>
     <string name="share_online_script">Script for %1$s, copy this message and open link %2$s with via to install it.</string>
     <string name="import_script">Import the script for %1$s from clipboard?\nWarning: Please make sure it is safe.\nScript:\n</string>
-    <string name="share_rule">The rule for blocking ads of %1$s, copy this message and open via to import it. viarule{%2$s}</string>
-    <string name="import_rule">Import the rule for blocking ads of %1$s from clipboard?</string>
+    <string name="share_rule">The filter for blocking ads of %1$s, copy this message and open via to import it. viarule{%2$s}</string>
+    <string name="import_rule">Import the filter for blocking ads of %1$s from clipboard?</string>
     <string name="share_url">This is a secret URL. Copy this message and open via to view it. viaurl{%1$s}</string>
     <string name="import_url">Open the link from clipboard?\nlink: %1$s</string>
     <string name="import_successful">Imported successfully</string>
