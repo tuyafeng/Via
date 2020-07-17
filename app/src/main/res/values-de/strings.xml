@@ -159,7 +159,7 @@
     <string name="action_mark">Als Werbung markieren</string>
     <string name="dialog_confirm_block">Möchten Sie dies als Werbung markieren?</string>
     <string name="do_not_track">Nicht verfolgen</string>
-    <string name="add_rule">Regel hinzufügen</string>
+    <string name="add_rule">Filter hinzufügen</string>
     <string name="hint_tags">Tags</string>
     <string name="color_mode">Farbmodus</string>
     <string name="dialog_sure">Sind Sie sicher, dass Sie das möchten?</string>
@@ -284,7 +284,7 @@
     <string name="toolbar_settings_hint">Drücke der folgenden Taste, um ihr gedrücktes Verhalten festzulegen. Gedrückt halten, um aktuelles Verhalten zu sehen.</string>
     <string name="action_modify">Abändern</string>
     <string name="operation_hint">Gesten, Betriebsverhalten, Funktionstasten</string>
-    <string name="adblock_info">Aktiviert: %1$d Werbung wurde blockiert, %2$s gespart</string>
+    <string name="adblock_info">Aktiviert: %1$d Anzeige(n) wurde(n) blockiert, %2$s gespart</string>
     <string name="disable">Deaktiviert</string>
     <string name="ui_traditional">Sandwich</string>
     <string name="ui_simple">Einfach</string>
@@ -295,8 +295,8 @@
     <string name="share_script">Skript für %1$s, kopiere diese Nachricht und öffne Via zum Importieren. viascript{%2$s}</string>
     <string name="share_online_script">Skript für %1$s, kopiere diese Nachricht und öffne Link %2$s zum Installieren mit Via.</string>
     <string name="import_script">Das Skript für %1$s aus der Zwischenablage importieren?\nWarnung: Skript ist möglicherweise gefährlich. Bitte sicherstellen, dass es sicher ist.\nSkript:\n</string>
-    <string name="share_rule">Um die Regel Werbung von %1$s zu blockieren, kopiere diese Nachricht und öffne Via zum Importieren. viarule{%2$s}</string>
-    <string name="import_rule">Die Regel Werbung von %1$s zu blockieren aus der Zwischenablage laden?</string>
+    <string name="share_rule">Der Filter um Anzeigen von %1$s zu blockieren, kopieren Sie diese Nachricht und öffnen Via zum Importieren. viarule{%2$s}</string>
+    <string name="import_rule">Wollen Sie den Filter zum Blockieren der Anzeigen von %1$s aus der Zwischenablage laden?</string>
     <string name="share_url">Das ist eine geheime URL, kopiere diese Nachricht und öffne Via zum Ansehen. viaurl{%1$s}</string>
     <string name="import_url">Aus Zwischenablage öffnen?\nLink: %1$s</string>
     <string name="import_successful">Import erfolgreich</string>
@@ -376,4 +376,53 @@
     <string name="ui_simple_bottom">Toolbar unten</string>
     <string name="file_does_not_exist">Die Datei existiert nicht</string>
     <string name="dialog_message_from">Nachricht von %s</string>
+    <string name="filter_subscriptions">Filter-Anforderungen</string>
+    <string name="filter_subscriptions_description">Fordern Sie Adblock Plus Filterlisten an</string>
+    <string name="filter_subscription_exist">Die Filter-Anforderung existiert bereits.</string>
+    <string name="custom_filters">Benutzerdefinierte Filter</string>
+    <string name="custom_filters_description">Enthaltene benutzerdefinierte Filter, um Anzeigen zu markieren</string>
+    <string name="custom_filter">Benutzerdefinierter Filter</string>
+    <string name="add_filter_subscription">Filter-Anforderung hinzufügen</string>
+    <string name="edit_filter_subscription">Filter-Anforderung bearbeiten</string>
+    <string name="updating_filter_subscriptions">Filter-Anforderung aktualisieren</string>
+    <string name="update_filter_subscriptions_completed">Filter-Anforderungs-Aktualisierung abgeschlossen.</string>
+    <string name="update_filter_subscription_failed">Filter-Anforderungs-Aktualisierung fehlgeschlagen.\n%s</string>
+    <string name="download_notification">Download-Hinweis</string>
+    <string name="has_not_been_updated">wurde nicht aktualisiert</string>
+    <string name="long_ago">lang her</string>
+    <string name="just_now">gerade eben</string>
+    <plurals name="minutes_ago">
+        <item quantity="one">1 Minute her</item>
+        <item quantity="other">%d Minuten her</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="one">1 Stunde her</item>
+        <item quantity="other">%d Stunden her</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="one">1 Tag her</item>
+        <item quantity="other">%d Tage her</item>
+    </plurals>
+    <string name="url_is_invalid">Die URL ist ungültig.</string>
+    <string name="simple_guide_of_writing_rule">Via unterstützt fast alle Adblock Plus Filter.
+        \nSie können Anfragen von example.com mit einem Filter wie diesem blockieren:
+        \n||example.com^ (or simply, example.com)
+        \n\nPlatzhalter werden akzeptiert, wie z.B.:
+        \n||example.com/js/ads_*.js
+        \n\nSie können spezielle Anforderungen entsperren, mit einem Filter wie diesem:
+        \n@@||example.com^
+        \n\nFür Webseitenelemente-Filter beispielsweise:
+        \nexample.com###ad</string>
+    <string name="help">Hilfe</string>
+    <string name="learn_more">Lerne mehr</string>
+    <plurals name="filters">
+        <item quantity="zero">0 Filter</item>
+        <item quantity="one">1 Filter</item>
+        <item quantity="other">%d Filter</item>
+    </plurals>
+    <string name="updated_">Aktualisiert %s</string>
+    <string name="filter_subscription_info">%s, %s</string>
+    <string name="enable_built_in_filters">Integrierte Filter aktivieren</string>
+    <string name="enable_built_in_filters_description">Integrierte Filter blockieren nur gängige Anzeigen</string>
+    <string name="update">Aktualisierung</string>
 </resources>
