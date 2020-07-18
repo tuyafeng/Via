@@ -50,7 +50,7 @@
     <string name="title_warning">Warning</string>
     <string name="title_user_agent">User-agent</string>
     <string name="title_custom_homepage">Custom homepage</string>
-    <string name="action_webpage">Webpage</string>
+    <string name="action_webpage">Web page</string>
     <string name="size_largest">Largest</string>
     <string name="size_large">Large</string>
     <string name="size_normal">Normal</string>
@@ -138,7 +138,7 @@
     <string name="settings_privacy">Privacy</string>
     <string name="settings_advanced">Advanced</string>
     <string name="settings_about">About</string>
-    <string name="url_box">URL box contents</string>
+    <string name="url_box">URL field content</string>
     <string name="url_box_domain">Domain</string>
     <string name="url_box_url">URL</string>
     <string name="url_box_title">Title</string>
@@ -159,7 +159,7 @@
     <string name="action_mark">Mark as ad</string>
     <string name="dialog_confirm_block">Would you like to mark this as ad?</string>
     <string name="do_not_track">Do not track</string>
-    <string name="add_rule">Add rule</string>
+    <string name="add_rule">Add filter</string>
     <string name="hint_tags">Tags</string>
     <string name="color_mode">Color mode</string>
     <string name="dialog_sure">Are you sure you want to proceed?</string>
@@ -179,13 +179,13 @@
     <string name="crash_close">Close</string>
     <string name="crash_upload">Upload the crash log</string>
     <string name="upload_completed">Upload completed</string>
-    <string name="ui_mode">Toolbar UI Mode</string>
+    <string name="ui_mode">Toolbar UI mode</string>
     <string name="ui_auto">Auto</string>
     <string name="addon_download">Download manager</string>
     <string name="quick_back">Go back without reloading</string>
     <string name="open_with">Open with&#8230;</string>
     <string name="download_completed">Download completed</string>
-    <string name="toast_fullscreen_off">Exit fullscreen mode</string>
+    <string name="toast_fullscreen_off">Exit full-screen mode</string>
 
     <string name="clear_data">Clear data</string>
     <string name="data_cache">Cache</string>
@@ -234,7 +234,7 @@
     <string name="check_permission">Permission denied. Would you like to set it in settings now?</string>
     <string name="need_permission_hint">Via needs the following permissions to work:\n\n</string>
     <string name="storage_permission">Storage: for downloading files from the browser and importing/exporting bookmarks, etc.\n\n</string>
-    <string name="location_permission">Location: for sites like Google Maps, it is disabled by default. When it is enabled, pop-up is displayed asking if a site may use your location.\n\n</string>
+    <string name="location_permission">Location: for sites like Google Maps, it is disabled by default. When it is enabled, a pop-up is displayed asking if the site may use your location.\n\n</string>
     <string name="force_cancel">Force close</string>
     <string name="restore_tabs_hint">Would you like to restore unclosed tabs from the last session?</string>
     <string name="restore_tabs">Restore tabs on startup</string>
@@ -272,7 +272,7 @@
     <string name="find_pre">Find last</string>
     <string name="action_open_in_background">Open in background</string>
     <string name="cannot_work">It can only work with \"http\" or \"https\" URLs.</string>
-    <string name="action_fullscreen">Fullscreen</string>
+    <string name="action_fullscreen">Full-screen</string>
     <string name="action_ua">User-agent</string>
     <string name="settings_general">General</string>
     <string name="no_bookmark">No bookmarks</string>
@@ -284,7 +284,7 @@
     <string name="toolbar_settings_hint">Press a selected button below to set its long-press action, or long-press it to check what action has been set.</string>
     <string name="action_modify">Modify</string>
     <string name="operation_hint">Gestures, shortcuts, function keys</string>
-    <string name="adblock_info">Enabled: %1$d ads have been blocked, %2$s saved</string>
+    <string name="adblock_info">Enabled: %1$d ads blocked, %2$s saved</string>
     <string name="disable">Disabled</string>
     <string name="ui_traditional">Sandwich</string>
     <string name="ui_simple">Simple</string>
@@ -295,8 +295,8 @@
     <string name="share_script">Script for %1$s, copy this message and open Via to import it. viascript{%2$s}</string>
     <string name="share_online_script">Script for %1$s, copy this message and open link %2$s with Via to install it.</string>
     <string name="import_script">Would you like to import script for %1$s from the clipboard?\nWarning: script can be dangerous. Please make sure it is safe.\nScript:\n</string>
-    <string name="share_rule">The rule for blocking ads of %1$s, copy this message and open Via to import it. viarule{%2$s}</string>
-    <string name="import_rule">Would you like to import the rule for blocking ads of %1$s from the clipboard?</string>
+    <string name="share_rule">The filter for blocking ads of %1$s, copy this message and open Via to import it. viarule{%2$s}</string>
+    <string name="import_rule">Would you like to import the filter for blocking ads of %1$s from the clipboard?</string>
     <string name="share_url">This is a secret URL. Copy this message and open Via to view it. viaurl{%1$s}</string>
     <string name="import_url">Would you like to open link from the clipboard?\nLink: %1$s</string>
     <string name="import_successful">Imported successfully</string>
@@ -375,5 +375,54 @@
     <string name="ui_simple_top">Toolbar at top</string>
     <string name="ui_simple_bottom">Toolbar at bottom</string>
     <string name="file_does_not_exist">The file does not exist</string>
-    <string name="dialog_message_from">%s says</string>
+    <string name="dialog_message_from">Message from %s</string>
+    <string name="filter_subscriptions">Filter subscriptions</string>
+    <string name="filter_subscriptions_description">Subscribe Adblock Plus filter lists</string>
+    <string name="filter_subscription_exist">The filter subscription already exists.</string>
+    <string name="custom_filters">Custom filters</string>
+    <string name="custom_filters_description">Including custom filters, marked ads</string>
+    <string name="custom_filter">Custom filter</string>
+    <string name="add_filter_subscription">Add filter subscription</string>
+    <string name="edit_filter_subscription">Edit filter subscription</string>
+    <string name="updating_filter_subscriptions">Updating filter subscriptions</string>
+    <string name="update_filter_subscriptions_completed">Filter subscriptions update completed.</string>
+    <string name="update_filter_subscription_failed">Filter subscriptions update failed.\n%s</string>
+    <string name="download_notification">Download notification</string>
+    <string name="has_not_been_updated">has not been updated</string>
+    <string name="long_ago">long ago</string>
+    <string name="just_now">just now</string>
+    <plurals name="minutes_ago">
+        <item quantity="one">1 minute ago</item>
+        <item quantity="other">%d minutes ago</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="one">1 hour ago</item>
+        <item quantity="other">%d hours ago</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="one">1 day ago</item>
+        <item quantity="other">%d days ago</item>
+    </plurals>
+    <string name="url_is_invalid">The URL is invalid.</string>
+    <string name="simple_guide_of_writing_rule">Via supports almost all Adblock Plus filters.
+        \nYou can block the requests from example.com with this filter like:
+        \n||example.com^ (or simply, example.com)
+        \n\nThe wildcard is acceptable, like:
+        \n||example.com/js/ads_*.js
+        \n\nYou can unblock the special requests with the filter like:
+        \n@@||example.com^
+        \n\nFor the web page element filter, like:
+        \nexample.com###ad</string>
+    <string name="help">Help</string>
+    <string name="learn_more">Learn more</string>
+    <plurals name="filters">
+        <item quantity="zero">0 filter</item>
+        <item quantity="one">1 filter</item>
+        <item quantity="other">%d filters</item>
+    </plurals>
+    <string name="updated_">updated %s</string>
+    <string name="filter_subscription_info">%s, %s</string>
+    <string name="enable_built_in_filters">Enable built-in filters</string>
+    <string name="enable_built_in_filters_description">Built-in filters only block common ads</string>
+    <string name="update">Update</string>
 </resources>
