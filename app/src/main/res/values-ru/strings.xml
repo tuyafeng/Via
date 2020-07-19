@@ -248,7 +248,7 @@
     <string name="get_more_script">Готовые скрипты</string>
     <string name="add_script">Добавить скрипт</string>
     <string name="script_url">Домен или * (* — любой)</string>
-    <string name="script_code">Код (javascript)</string>
+    <string name="script_code">Код (JavaScript)</string>
     <string name="help_us_translate">Помочь с переводом</string>
     <string name="confirm_to_leave">Подтверждение выхода</string>
     <string name="leave">Выйти</string>
@@ -327,7 +327,7 @@
     <string name="title_edit_favorite">Редактирование</string>
     <string name="custom_css_special">Добавить свой CSS</string>
     <string name="force_enable_zoom">Принудительное масштабирование</string>
-    <string name="set_ua_as">Установлен User Agent %s</string>
+    <string name="set_ua_as">Установлен User Agent: %s</string>
     <string name="import_data">Импорт данных</string>
     <string name="import_data_failed">Ошибка при импортировании данных!</string>
     <string name="import_data_succeed">Импортирование данных выполнено успешно!</string>
@@ -375,5 +375,58 @@
     <string name="ui_simple_top">Панель вверху</string>
     <string name="ui_simple_bottom">Панель внизу</string>
     <string name="file_does_not_exist">Файл не существует</string>
-    <string name="dialog_message_from">Пишет %s</string>
+    <string name="dialog_message_from">Сообщение от %s</string>
+    <string name="filter_subscriptions">Подписка на списки фильтров</string>
+    <string name="filter_subscriptions_description">Подписаться на списки фильтров Adblock Plus</string>
+    <string name="filter_subscription_exist">Подписка на фильтры уже используется.</string>
+    <string name="custom_filters">Свои фильтры</string>
+    <string name="custom_filters_description">Использовать свои фильтры, помеченные как реклама</string>
+    <string name="custom_filter">Свой фильтр</string>
+    <string name="add_filter_subscription">Добавить подписку</string>
+    <string name="edit_filter_subscription">Изменить подписку</string>
+    <string name="updating_filter_subscriptions">Обновить подписки</string>
+    <string name="update_filter_subscriptions_completed">Обновление подписок на фильтры завершено.</string>
+    <string name="update_filter_subscription_failed">Ошибка при обновлении подписки на фильтры.\n%s</string>
+    <string name="download_notification">Уведомление о загрузке</string>
+    <string name="has_not_been_updated">не был обновлён</string>
+    <string name="long_ago">очень давно</string>
+    <string name="just_now">только что</string>
+    <plurals name="minutes_ago">
+        <item quantity="one">Минуту назад</item>
+        <item quantity="few">%d минуты назад</item>
+        <item quantity="other">%d минут назад</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="one">Час назад</item>
+        <item quantity="few">%d часа назад</item>
+        <item quantity="other">%d часов назад</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="one">День назад</item>
+        <item quantity="few">%d дня назад</item>
+        <item quantity="other">%d дней назад</item>
+    </plurals>
+    <string name="url_is_invalid">Неправильный URL.</string>
+    <string name="simple_guide_of_writing_rule">Via поддерживает почти все фильтры Adblock Plus.
+        \nБлокировать запросы от example.com можно с помощью такого фильтра:
+        \n||example.com^ (или просто example.com)
+        \n\nДопустимы подстановочные знаки, например:
+        \n||example.com/js/ads_*.js
+        \n\nРазблокировать специальные запросы можно с помощью фильтра:
+        \n@@||example.com^
+        \n\nПример фильтра элемента страницы:
+        \nexample.com###ad</string>
+    <string name="help">Справка</string>
+    <string name="learn_more">Узнать больше</string>
+    <plurals name="filters">
+        <item quantity="zero">0 фильтров</item>
+        <item quantity="one">1 фильтр</item>
+        <item quantity="few">%d фильтра</item>
+        <item quantity="other">%d фильтров</item>
+    </plurals>
+    <string name="updated_">обновлено %s</string>
+    <string name="filter_subscription_info">%s, %s</string>
+    <string name="enable_built_in_filters">Использовать встроенные фильтры</string>
+    <string name="enable_built_in_filters_description">Встроенные фильтры блокируют только обычную рекламу</string>
+    <string name="update">Обновить</string>
 </resources>
