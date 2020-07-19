@@ -392,19 +392,19 @@
     <string name="long_ago">очень давно</string>
     <string name="just_now">только что</string>
     <plurals name="minutes_ago">
-        <item quantity="one">Минуту назад</item>
+        <item quantity="one">%d минуты назад</item>
         <item quantity="few">%d минуты назад</item>
-        <item quantity="other">%d минут назад</item>
+        <item quantity="many">%d минут назад</item>
     </plurals>
     <plurals name="hours_ago">
-        <item quantity="one">Час назад</item>
+        <item quantity="one">%d час назад</item>
         <item quantity="few">%d часа назад</item>
-        <item quantity="other">%d часов назад</item>
+        <item quantity="many">%d часов назад</item>
     </plurals>
     <plurals name="days_ago">
-        <item quantity="one">День назад</item>
+        <item quantity="one">%d день назад</item>
         <item quantity="few">%d дня назад</item>
-        <item quantity="other">%d дней назад</item>
+        <item quantity="many">%d дней назад</item>
     </plurals>
     <string name="url_is_invalid">Неправильный URL.</string>
     <string name="simple_guide_of_writing_rule">Via поддерживает почти все фильтры Adblock Plus.
@@ -419,10 +419,9 @@
     <string name="help">Справка</string>
     <string name="learn_more">Узнать больше</string>
     <plurals name="filters">
-        <item quantity="zero">0 фильтров</item>
-        <item quantity="one">1 фильтр</item>
+        <item quantity="one">%d фильтр</item>
         <item quantity="few">%d фильтра</item>
-        <item quantity="other">%d фильтров</item>
+        <item quantity="many">%d фильтров</item>
     </plurals>
     <string name="updated_">обновлено %s</string>
     <string name="filter_subscription_info">%s, %s</string>

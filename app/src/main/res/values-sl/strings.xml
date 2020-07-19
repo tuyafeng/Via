@@ -392,15 +392,21 @@
     <string name="long_ago">dolgo nazaj</string>
     <string name="just_now">pravkar</string>
     <plurals name="minutes_ago">
-        <item quantity="one">pred 1 minuto</item>
+        <item quantity="one">pred %d minuto</item>
+        <item quantity="two">pred %d minute</item>
+        <item quantity="few">pred %d minuta</item>
         <item quantity="other">pred %d minutami</item>
     </plurals>
     <plurals name="hours_ago">
-        <item quantity="one">pred 1 uro</item>
+        <item quantity="one">pred %d uro</item>
+        <item quantity="two">pred %d ure</item>
+        <item quantity="few">pred %d ura</item>
         <item quantity="other">pred %d urami</item>
     </plurals>
     <plurals name="days_ago">
-        <item quantity="one">pred 1 dnevom</item>
+        <item quantity="one">pred %d dnevom</item>
+        <item quantity="two">pred %d dnevi</item>
+        <item quantity="few">pred %d dnevi</item>
         <item quantity="other">pred %d dnevi</item>
     </plurals>
     <string name="url_is_invalid">URL ni veljaven.</string>
@@ -416,8 +422,9 @@
     <string name="help">Pomoč</string>
     <string name="learn_more">Izvejte več</string>
     <plurals name="filters">
-        <item quantity="zero">0 filtrov</item>
-        <item quantity="one">1 filter</item>
+        <item quantity="one">%d filtrov</item>
+        <item quantity="two">%d filtrov</item>
+        <item quantity="few">%d filtrov</item>
         <item quantity="other">%d filtrov</item>
     </plurals>
     <string name="updated_">%s je posodobljen</string>
