@@ -392,7 +392,7 @@
     <string name="long_ago">очень давно</string>
     <string name="just_now">только что</string>
     <plurals name="minutes_ago">
-        <item quantity="one">%d минуты назад</item>
+        <item quantity="one">%d минуту назад</item>
         <item quantity="few">%d минуты назад</item>
         <item quantity="many">%d минут назад</item>
     </plurals>
