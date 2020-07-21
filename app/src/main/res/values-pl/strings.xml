@@ -305,7 +305,7 @@
     <string name="share_script">Skrpyt dla %1$s. Skopiuj tą wiadomość i otwórz  Vię, aby go zaimportować.\n viascript{%2$s}</string>
     <string name="share_online_script">Skrypt dla %1$s. Skopiuj tą wiadomość i otwórz link %2$s za pomocą Vii, aby go zainstalować.</string>
     <string name="import_script">Zaimportować ze schowka skrypt dla %1$s?\nOstrzeżenie: może on być niebezpieczny.\n</string>
-    <string name="share_rule">Filtr blokujący reklamy %1$s. Skopiuj tą wiadomość i otwórz Vię, aby ją zaimportować.\n viarule{%2$s}</string>
+    <string name="share_rule">Filtr blokujący reklamy z %1$s. Skopiuj tą wiadomość i otwórz Vię, aby ją zaimportować.\n viarule{%2$s}</string>
     <string name="import_rule">Zaimportować ze schowka filtr blokujący reklamy z %1$s?</string>
     <string name="share_url">To jest poufny adres. Skopiuj tą wiadomość i otwórz Vię, aby go wyświetlić.\n viaurl{%1$s}</string>
     <string name="import_url">Otworzyć link ze schowka?\n %1$s</string>
