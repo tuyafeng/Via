@@ -284,7 +284,7 @@
     <string name="toolbar_settings_hint">Нажмите кнопку для установки своего действия при удержании (сдвиге), удерживайте для просмотра установленного действия.</string>
     <string name="action_modify">Редактировать</string>
     <string name="operation_hint">Управление жестами, кнопками и т.д.</string>
-    <string name="adblock_info">%1$d рекламных объявлений заблокировано, %2$s сохранено</string>
+    <string name="adblock_info">%1$d рекламных объявлений заблокировано, %2$s сэкономлено</string>
     <string name="disable">Отключить</string>
     <string name="ui_traditional">Раздельный</string>
     <string name="ui_simple">Совмещённый</string>
@@ -377,14 +377,14 @@
     <string name="file_does_not_exist">Файл не существует</string>
     <string name="dialog_message_from">Сообщение от %s</string>
     <string name="filter_subscriptions">Подписка на списки фильтров</string>
-    <string name="filter_subscriptions_description">Подписаться на списки фильтров Adblock Plus</string>
+    <string name="filter_subscriptions_description">Подписка на списки фильтров Adblock Plus</string>
     <string name="filter_subscription_exist">Подписка на фильтры уже используется.</string>
     <string name="custom_filters">Свои фильтры</string>
-    <string name="custom_filters_description">Использовать свои фильтры, помеченные как реклама</string>
+    <string name="custom_filters_description">Использовать свои фильтры, помеченные как рекламные</string>
     <string name="custom_filter">Свой фильтр</string>
     <string name="add_filter_subscription">Добавить подписку</string>
     <string name="edit_filter_subscription">Изменить подписку</string>
-    <string name="updating_filter_subscriptions">Обновить подписки</string>
+    <string name="updating_filter_subscriptions">Обновление подписок</string>
     <string name="update_filter_subscriptions_completed">Обновление подписок на фильтры завершено.</string>
     <string name="update_filter_subscription_failed">Ошибка при обновлении подписки на фильтры.\n%s</string>
     <string name="download_notification">Уведомление о загрузке</string>
@@ -392,7 +392,7 @@
     <string name="long_ago">очень давно</string>
     <string name="just_now">только что</string>
     <plurals name="minutes_ago">
-        <item quantity="one">%d минуты назад</item>
+        <item quantity="one">%d минуту назад</item>
         <item quantity="few">%d минуты назад</item>
         <item quantity="many">%d минут назад</item>
     </plurals>
