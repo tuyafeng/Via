@@ -386,7 +386,7 @@
     <string name="url_is_invalid">URLが無効です</string>
     <string name="simple_guide_of_writing_rule">ViaはほとんどのAdblock Plusフィルターに対応しています。
         \n次のように設定することで、「example.com」をブロックする任意のフィルターを作成することができます。
-        \n||example.com^ (もしくはシンプルに「example.com」)
+        \n||example.com^ (もしくはシンプルにexample.com)
         \n\nワイルドカードは次のように使用できます。:
         \n||example.com/js/ads_*.js
         \n\nホワイトリストに登録したい場合は次のように設定を行います。:
