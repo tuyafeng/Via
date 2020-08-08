@@ -368,19 +368,16 @@
     <string name="update_filter_subscriptions_completed">購読中のフィルターの更新が完了しました</string>
     <string name="update_filter_subscription_failed">フィルター「\n%s」の更新に失敗しました</string>
     <string name="download_notification">ダウンロード通知</string>
-    <string name="has_not_been_updated"更新されていません</string>
+    <string name="has_not_been_updated">更新されていません</string>
     <string name="long_ago">かなり前</string>
     <string name="just_now">たった今</string>
     <plurals name="minutes_ago">
-        <item quantity="one">1 分前</item>
         <item quantity="other">%d 分前</item>
     </plurals>
     <plurals name="hours_ago">
-        <item quantity="one">1 時間前</item>
         <item quantity="other">%d 時間前</item>
     </plurals>
     <plurals name="days_ago">
-        <item quantity="one">1 日前</item>
         <item quantity="other">%d 日前</item>
     </plurals>
     <string name="url_is_invalid">URLが無効です</string>
@@ -396,8 +393,6 @@
     <string name="help">ヘルプ</string>
     <string name="learn_more">さらに詳しく（英語サイト）</string>
     <plurals name="filters">
-        <item quantity="zero">0 フィルター</item>
-        <item quantity="one">1 フィルター</item>
         <item quantity="other">%d フィルター</item>
     </plurals>
     <string name="updated_">%s をアップデートしました</string>
