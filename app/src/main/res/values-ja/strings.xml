@@ -351,7 +351,7 @@
     <string name="action_new">新規作成</string>
     <string name="block_hint">ブロック済み: %s\n再読み込みして有効化します。</string>
     <string name="unblock_hint">ブロック解除済み: %s\n再読み込みして有効化します。</string>
-    <string name="block_3rd_party_cookies">サードパーティーCookieをブロックしない</string>
+    <string name="block_3rd_party_cookies">サードパーティーCookieをブロック</string>
     <string name="enable_site_conf">\"%s\"のサイト別設定を有効にする</string>
     <string name="site_conf">サイト別設定</string>
     <string name="file_does_not_exist">ファイルがありません</string>
