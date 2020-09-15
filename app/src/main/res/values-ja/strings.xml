@@ -325,6 +325,7 @@
     <string name="message_invalid_certificate">このサイトの証明書は無効です。続行しますか？</string>
     <string name="message_not_yet_valid_certificate">このサイトの証明書はまだ有効ではありません。続行しますか？</string>
     <string name="bookmarks_data_to_long">ブックマークデータのサイズが大きすぎるため、アップロードできません。その他のデータはアップロードされます。続けますか？</string>
+    <string name="restore_tabs_hint_settings">シークレットモードになったため、タブは復元されません。</string>
     <string name="night_css_enabled">Webページはナイトモードで表示されています。</string>
     <string name="night_css_disabled">Webページはナイトモードで表示されていません。</string>
     <string name="ignore_secondary_ssl_error">セカンダリSSLエラーを無視する</string>
