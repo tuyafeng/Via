@@ -404,4 +404,6 @@
     <string name="edit_filter_subscription">编辑规则订阅</string>
     <string name="enable_built_in_filters_description">内建规则仅拦截常见广告</string>
     <string name="update">更新</string>
+    <string name="bookmarks_exported_successfully">书签导出成功</string>
+    <string name="data_exported_successfully">数据导出成功</string>
 </resources>
