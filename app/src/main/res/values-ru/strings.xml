@@ -428,4 +428,6 @@
     <string name="enable_built_in_filters">Использовать встроенные фильтры</string>
     <string name="enable_built_in_filters_description">Встроенные фильтры блокируют только обычную рекламу</string>
     <string name="update">Обновить</string>
+    <string name="bookmarks_exported_successfully">Закладки успешно экспортированы</string>
+    <string name="data_exported_successfully">Данные успешно экспортированы</string>
 </resources>
