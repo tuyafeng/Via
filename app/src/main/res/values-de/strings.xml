@@ -424,4 +424,6 @@
     <string name="enable_built_in_filters">Integrierte Filter aktivieren</string>
     <string name="enable_built_in_filters_description">Integrierte Filter blockieren nur gängige Anzeigen</string>
     <string name="update">Aktualisierung</string>
+    <string name="bookmarks_exported_successfully">Lesezeichen erfolgreich exportiert</string>
+    <string name="data_exported_successfully">Daten erfolgreich exportiert</string>
 </resources>
