@@ -438,4 +438,6 @@
     <string name="enable_built_in_filters">Wbudowane filtry</string>
     <string name="enable_built_in_filters_description">Nie blokują one zbyt wiele, ale lepsze coś, niż nic.</string>
     <string name="update">Aktualizuj</string>
+    <string name="bookmarks_exported_successfully">Zakładki zostały wyeksportowane.</string>
+    <string name="data_exported_successfully">Dane zostały wyeksportowane.</string>
 </resources>
