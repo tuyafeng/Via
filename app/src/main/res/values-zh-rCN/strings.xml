@@ -406,4 +406,5 @@
     <string name="update">更新</string>
     <string name="bookmarks_exported_successfully">书签导出成功</string>
     <string name="data_exported_successfully">数据导出成功</string>
+    <string name="privacy_policy">隐私政策</string>
 </resources>
