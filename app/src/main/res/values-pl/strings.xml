@@ -16,7 +16,8 @@
     <string name="action_unblock_domain">Odbl. domenę</string>
     <string name="action_unblock_url">Odbl. link</string>
     <string name="action_block_url">Zabl. link</string>
-    <string name="action_copy_text">Skopiuj tekst linku</string>
+    <string name="action_copy_text">Skopiuj tekst</string>
+    <string name="action_copy_link_text">Skopiuj tekst linku</string>
     <string name="action_image_off">Zablokuj obraz</string>
     <string name="action_tools">Narzędzia</string>
     <string name="settings">Ustawienia</string>
@@ -29,7 +30,7 @@
     <string name="orientation_auto">Automatyczna</string>
     <string name="orientation_portrait">Pionowa</string>
     <string name="orientation_landscape">Pozioma</string>
-    <string name="agent">User Agent</string>
+    <string name="agent">User agent</string>
     <string name="home">Strona domowa</string>
     <string name="fullscreen">Ukrywanie / pokazywanie paska narzędziowego</string>
     <string name="java">Obsługa JavaScript</string>
@@ -47,7 +48,7 @@
     <string name="agent_custom">Własny</string>
     <string name="dialog_download">Pobrać ten plik?</string>
     <string name="title_warning">Ostrżeżenie</string>
-    <string name="title_user_agent">User Agent</string>
+    <string name="title_user_agent">User agent</string>
     <string name="title_custom_homepage">Własna strona</string>
     <string name="action_webpage">Własna strona</string>
     <string name="size_largest">Bardzo duży</string>
@@ -102,7 +103,7 @@
     <string name="title_file_chooser">Wybór pliku</string>
     <string name="import_backup">Importuj zakładki</string>
     <string name="bookmark_export_path">Zakładki zostały wyeksportowane do pliku\n.</string>
-    <string name="import_bookmark_error">Nie można zaimportować zakładek z tego pliku.</string>
+    <string name="import_bookmark_error">Nie udało się zaimportować zakładek z tego pliku.</string>
     <string name="message_add_bookmark">Zakładka została dodana.</string>
     <string name="message_exit">Naciśnij jeszcze raz, aby wyjść.</string>
     <string name="dialog_message">Wiadomość</string>
@@ -185,7 +186,7 @@
     
     ]]>
     <string name="quick_back">Cofanie bez odświeżania strony</string>
-    <string name="open_with">Otwórz z pomocą&#8230;</string>
+    <string name="open_with">Otwórz za pomocą&#8230;</string>
     <string name="download_completed">Pobieranie zakończone.</string>
     <string name="toast_fullscreen_off">Opuść tryb pełnoekranowy</string>
 
@@ -218,23 +219,23 @@
     <string name="saved_page_successfully">Strona została zapisana.</string>
     <string name="deleted_failed">Usunięcie nie powiodło się. Lokalizacja pliku: </string>
 
-    <string name="empty_hint">Pusto.</string>
+    <string name="empty_hint">Cicho wszędzie,\ngłucho wszędzie&#8230;</string>
 
     <string name="network_log">Dziennik sieci</string>
     <string name="catalog">Katalog</string>
 
     <string name="conn_timeout">Upłynął limit czasu połączenia</string>
 
-    <string name="already_default">Aplikacja jest już ustawiona jako domyślna.</string>
+    <string name="already_default">Via jest już domyślną przeglądarką.</string>
 
-    <string name="set_to_default">Przeglądarka zostanie ustawiona jako domyślna po użyciu jej do otwarcia linku (%s). Wybierz przeglądarkę Via, aby otworzyć link.</string>
+    <string name="set_to_default">Przeglądarka Via zostanie ustawiona jako domyślna po użyciu jej do otwarcia linku (%s). Wybierz ją, aby otworzyć link.</string>
 
     <string name="sync_prompt">Lokalne zakładki i ustawienia zostaną nadpisane. Kontynuować?</string>
     <string name="upload_prompt">Obecne zakładki i ustawienia zostaną wysłane. Kontynuować?</string>
     <string name="none">Nic</string>
     <string name="action_log">Dziennik sieci</string>
     <string name="check_permission">Nie przyznano (niektórych) uprawnień. Ustawić je w ustawieniach systemowych?</string>
-    <string name="need_permission_hint">Aplikacja potrzebuje następujących uprawnień do prawidłowej pracy:\n\n</string>
+    <string name="need_permission_hint">Via potrzebuje następujących uprawnień do prawidłowej pracy:\n\n</string>
     <string name="storage_permission">Pamięć: aby móc pobierać pliki oraz eksportować zakładki.\n\n</string>
     <string name="location_permission">Lokalizacja: dla stron typu Mapy Google. Domyślnie jest ono wyłączone. Jeśli jest włączone, w razie potrzeby zostanie wyświetlone powiadomienie, czy strona może użyć Twojej lokalizacji.\n\n</string><![CDATA[
     
@@ -265,8 +266,8 @@
     <string name="missing_webview">Systemowy moduł WebView nie jest (poprawnie) zainstalowany. Zainstalować go (ponownie)?</string>
     <string name="install">Instaluj</string>
     <string name="crash_hint">Przepraszamy za incydent.</string>
-    <string name="upload_hint">Przepraszamy za incydent. Czy chcesz przesłać raport, abyśmy mogli to naprawić?</string>
-    <string name="glean">Via Browser</string>
+    <string name="upload_hint">Przepraszamy za incydent. Czy chcesz przesłać raport, abyśmy mogli się tym zająć?</string>
+    <string name="glean">Przeglądarka Via</string>
     <string name="contact_us">Skontaktuj się z nami</string>
     <string name="official_website">Oficjalna strona</string>
     <string name="current_language">Obecny język</string>
@@ -277,7 +278,7 @@
     <string name="action_open_in_background">Otwórz w tle</string>
     <string name="cannot_work">Funkcja działa tylko dla \"http\" i \"https\".</string>
     <string name="action_fullscreen">Pełny ekran</string>
-    <string name="action_ua">User Agent</string>
+    <string name="action_ua">User agent</string>
     <string name="settings_general">Ogólne</string>
     <string name="no_bookmark">Brak zakładek</string>
     <string name="import_or_export_bookmarks">Importuj / eksportuj zakładki</string>
@@ -299,14 +300,14 @@
 
        ]]>
     <string name="skin_hide_search_part">Ukryj pasek wyszukiwarki</string>
-    <string name="set_as_default">Ustawić aplikację jako domyślną przeglądarkę?</string>
+    <string name="set_as_default">Ustawić Vię jako domyślną przeglądarkę?</string>
     <string name="file_size">Rozmiar pliku</string>
-    <string name="share_script">Skrpyt dla %1$s. Skopiuj tą wiadomość i otwórz aplikację Via, aby go zaimportować.\n viascript{%2$s}</string>
-    <string name="share_online_script">Skrypt dla %1$s. Skopiuj tą wiadomość i otwórz link %2$s za pomocą aplikacji Via, aby go zainstalować.</string>
-    <string name="import_script">Zaimportować ze schowka skrypt dla %1$s?\nOstrzeżenie: skrypt może być niebezpieczny.\n</string>
-    <string name="share_rule">Reguła blokująca reklamy %1$s. Skopiuj tą wiadomość i otwórz aplikację Via, aby ją zaimportować.\n viarule{%2$s}</string>
-    <string name="import_rule">Zaimportować ze schowka regułę blokującą reklamy z %1$s?</string>
-    <string name="share_url">To jest poufny adres. Skopiuj tą wiadomość i otwórz aplikację Via, aby go wyświetlić.\n viaurl{%1$s}</string>
+    <string name="share_script">Skrpyt dla %1$s. Skopiuj tą wiadomość i otwórz  Vię, aby go zaimportować.\n viascript{%2$s}</string>
+    <string name="share_online_script">Skrypt dla %1$s. Skopiuj tą wiadomość i otwórz link %2$s za pomocą Vii, aby go zainstalować.</string>
+    <string name="import_script">Zaimportować ze schowka skrypt dla %1$s?\nOstrzeżenie: może on być niebezpieczny.\n</string>
+    <string name="share_rule">Filtr blokujący reklamy z %1$s. Skopiuj tą wiadomość i otwórz Vię, aby ją zaimportować.\n viarule{%2$s}</string>
+    <string name="import_rule">Zaimportować ze schowka filtr blokujący reklamy z %1$s?</string>
+    <string name="share_url">To jest poufny adres. Skopiuj tą wiadomość i otwórz Vię, aby go wyświetlić.\n viaurl{%1$s}</string>
     <string name="import_url">Otworzyć link ze schowka?\n %1$s</string>
     <string name="import_successful">Importowanie zakończone.</string>
     <string name="all_sites">wszystkie strony</string>
@@ -317,12 +318,12 @@
     <string name="res_log_hint">Kliknij element, aby wyświetlić podgląd. Przytrzymaj, aby wywołać menu kontekstowe z pozostałymi opcjami.</string>
     <string name="no_resource">Nie wykryto zasobów na tej stronie.</string>
     <string name="no_network_log">Ta strona nie ma dziennika sieci.</string>
-    <string name="resource_sniffer_hint">\nOdtwórz w niej jakiś film lub muzykę. Wykrywacz nie wszędzie działa.</string>
+    <string name="resource_sniffer_hint">\nOdtwórz w niej jakiś film lub muzykę. Uwaga: wykrywacz nie wszędzie działa.</string>
     <string name="action_download">Pobrane</string>
     <string name="empty_username_info">Wprowadź nazwę użytkownika</string>
     <string name="empty_password_info">Wprowadź hasło</string>
     <string name="offline_page_hint">To są zapisane strony. Możesz je przeglądać, gdy nie masz połączenia z siecią.</string>
-    <string name="history_page_hint_when_incognito">Jesteś w trybie prywatnym. Historia nie jest teraz zapisywana.</string>
+    <string name="history_page_hint_when_incognito">Jesteś w trybie prywatnym. Historia przeglądania nie jest teraz zapisywana.</string>
     <string name="action_preview">Podgląd</string>
     <string name="action_page_info">Informacje o stronie</string>
     <string name="page_info_title">Tytuł:</string>
@@ -334,9 +335,9 @@
     <string name="action_add_to_homepage">Dodaj do sz. wyb.</string>
     <string name="added_favorite_hint">Dodano do szybkiego wybierania.</string>
     <string name="title_edit_favorite">Edytuj ulubione</string>
-    <string name="custom_css_special">Dodaj własny plik CSS</string>
+    <string name="custom_css_special">Własny plik CSS</string>
     <string name="force_enable_zoom">Wymuś powiększanie strony</string>
-    <string name="set_ua_as">Zmieniono user agenta na %s.</string>
+    <string name="set_ua_as">User agent został zmieniony na %s.</string>
     <string name="import_data">Importuj dane</string>
     <string name="import_data_failed">Importowanie danych nie powiodło się.</string>
     <string name="import_data_succeed">Importowanie danych zakończone.</string>
@@ -354,7 +355,7 @@
     <string name="powerful_cache">Hyper Cache</string>
     <string name="web_page_debug">Debugowanie stron</string>
     <string name="web_page_debug_info">Możesz podłączyć urządzenie do komputera i debugować strony przez Chrome\'a (PC), używając adresu \"chrome://inspect\". Pamiętaj, aby przedtem włączyć Debugowanie USB (Ustawienia > Opcje programistyczne).</string>
-    <string name="no_download_tasks">Pusto</string>
+    <string name="no_download_tasks">Cicho wszędzie,\ngłucho wszędzie&#8230;</string>
     <string name="action_delete_dl_task">Usuń zadanie</string>
     <string name="action_re_download">Pobierz ponownie</string>
     <string name="action_copy_download_link">Skopiuj link</string>
@@ -385,4 +386,58 @@
     <string name="ui_simple_bottom">Prosty (pasek na dole)</string>
     <string name="file_does_not_exist">Plik nie istnieje.</string>
     <string name="dialog_message_from">Wiadomość z %s</string>
+    <string name="filter_subscriptions">Listy z Adblocka Plus</string>
+    <string name="filter_subscriptions_description">Zarządzaj listami filtrów z tegoż programu.</string>
+    <string name="filter_subscription_exist">Ta lista filtrów już istnieje.</string>
+    <string name="custom_filters">Własne filtry</string>
+    <string name="custom_filters_description">Wliczane są tu także elementy stron oznaczone jako reklamy.</string>
+    <string name="custom_filter">Nowy filtr</string>
+    <string name="add_filter_subscription">Nowa lista filtrów</string>
+    <string name="edit_filter_subscription">Edytuj listę filtrów</string>
+    <string name="updating_filter_subscriptions">Aktualizowanie list filtrów&#8230;</string>
+    <string name="update_filter_subscriptions_completed">Aktualizacja list filtrów zakończona.</string>
+    <string name="update_filter_subscription_failed">Aktualizacja list filtrów nie powiodła się (%s).</string>
+    <string name="download_notification">Powiadomienie o pobieraniu</string>
+    <string name="has_not_been_updated">nieaktualna</string>
+    <string name="long_ago">dawno, dawno temu</string>
+    <string name="just_now">przed chwilą</string>
+    <plurals name="minutes_ago">
+        <item quantity="one">minutę temu</item>
+        <item quantity="few">%d minut temu</item>
+        <item quantity="other">%d minut temu</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="one">godzinę temu</item>
+        <item quantity="few">%d godziny temu</item>
+        <item quantity="other">%d godzin</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="one">wczoraj</item>
+        <item quantity="other">%d dni temu</item>
+    </plurals>
+    <string name="url_is_invalid">Nieprawidłowy adres URL.</string>
+    <string name="simple_guide_of_writing_rule">Via wspiera niemal wszystkie fitry z Adblock Plusa.
+        \nBlokowanie wszystkich żądań:
+        \n||przykład.com^ (albo przykład.com)
+        \n\nBlokowanie części żądań:
+        \n||przykład.com/js/ads_*.js
+        \n\nOdblokowanie żądań specjalnych:
+        \n@@||przykład.com^
+        \n\nBlokowanie konkretnego elementu strony:
+        \nprzykład.com###reklama</string>
+    <string name="help">Pomoc</string>
+    <string name="learn_more">Dowiedz się więcej</string>
+    <plurals name="filters">
+        <item quantity="zero">Brak filtrów</item>
+        <item quantity="one">1 filtr</item>
+        <item quantity="few">%d filtry</item>
+        <item quantity="other">%d filtrów</item>
+    </plurals>
+    <string name="updated_">ost. aktualizacja: %s</string>
+    <string name="filter_subscription_info">%s, %s</string>
+    <string name="enable_built_in_filters">Wbudowane filtry</string>
+    <string name="enable_built_in_filters_description">Nie blokują one zbyt wiele, ale lepsze coś, niż nic.</string>
+    <string name="update">Aktualizuj</string>
+    <string name="bookmarks_exported_successfully">Zakładki zostały wyeksportowane.</string>
+    <string name="data_exported_successfully">Dane zostały wyeksportowane.</string>
 </resources>

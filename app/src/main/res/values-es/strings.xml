@@ -103,7 +103,7 @@
     <string name="import_backup">Importar marcadores</string>
     <string name="bookmark_export_path">Marcadores exportados a\n</string>
     <string name="import_bookmark_error">¡No se pudieron importar marcadores del archivo!</string>
-    <string name="message_add_bookmark">Marcador agregado exitosamente</string>
+    <string name="message_add_bookmark">Marcador añadido exitosamente</string>
     <string name="message_exit">Pulse una vez más para salir</string>
     <string name="dialog_message">Mensaje</string>
     <string name="toast_wait_a_minute">Espere un momento&#8230;</string>
@@ -123,7 +123,7 @@
     <string name="operation_bottom">Ir hasta abajo</string>
     <string name="operation_input">Introducir URL</string>
     <string name="operation_newtab">Nueva pestaña</string>
-    <string name="operation_addbookmark">Agregar marcador</string>
+    <string name="operation_addbookmark">Añadir marcador</string>
     <string name="operation_openbookmark">Abrir marcador</string>
     <string name="operation_openhistory">Abrir historial</string>
     <string name="operation_closetab">Cerrar pestaña</string>
@@ -158,7 +158,7 @@
     <string name="action_mark">Marcar como anuncio</string>
     <string name="dialog_confirm_block">¿Desea marcar esto como anuncio?</string>
     <string name="do_not_track">No rastrearme</string>
-    <string name="add_rule">Agregar regla</string>
+    <string name="add_rule">Añadir regla</string>
     <string name="hint_tags">Etiquetas</string>
     <string name="color_mode">Modo color</string>
     <string name="dialog_sure">¿Está seguro que desea continuar?</string>
@@ -199,8 +199,8 @@
     <string name="text">Texto</string>
     <string name="html_code">Código HTML</string>
     <string name="action_view_image">Ver imagen</string>
-    <string name="skin_colorful">Colorido</string>
-    <string name="skin_fruity">Frutal</string>
+    <string name="skin_colorful">Cuadrado</string>
+    <string name="skin_fruity">Redondeado</string>
     <string name="skin_transparent">Transparente</string>
     <string name="block_popup">Bloquear ventanas emergentes</string>
     <string name="action_save_web_page">Guardar página web</string>
@@ -232,7 +232,7 @@
     <string name="fullscreen_2">Pulsar para ocultar/mostrar</string>
     <string name="settings_script">Scripts</string>
     <string name="get_more_script">Obtener más scripts</string>
-    <string name="add_script">Agregar script</string>
+    <string name="add_script">Añadir script</string>
     <string name="script_url">Dominio o * (* significa todo)</string>
     <string name="script_code">Código (JavaScript)</string>
     <string name="help_us_translate">Ayúdenos a traducir</string>
@@ -308,10 +308,10 @@
     <string name="no_network">No hay conexiones de red disponibles</string>
     <string name="title_app_chooser">Selector de app</string>
     <string name="clear_data_on_exit">Eliminar datos al salir</string>
-    <string name="action_add_to_homepage">Agregar a la página principal</string>
-    <string name="added_favorite_hint">Agregado a la página principal exitosamente</string>
+    <string name="action_add_to_homepage">Añadir a la página principal</string>
+    <string name="added_favorite_hint">Añadido a la página principal exitosamente</string>
     <string name="title_edit_favorite">Editar marcador</string>
-    <string name="custom_css_special">Agregar CSS personalizado</string>
+    <string name="custom_css_special">Añadir CSS personalizado</string>
     <string name="force_enable_zoom">Activar zoom forzado</string>
     <string name="set_ua_as">El agente de usuario se establece como: %s</string>
     <string name="import_data">Importar datos</string>
@@ -361,4 +361,54 @@
     <string name="ui_simple_top">Barra de herramientas en la parte superior</string>
     <string name="ui_simple_bottom">Barra de herramientas en la parte inferior</string>
     <string name="file_does_not_exist">El archivo no existe</string>
+    <string name="dialog_message_from">Mensaje de %s</string>
+    <string name="filter_subscriptions">Suscripciones de filtros</string>
+    <string name="filter_subscriptions_description">Suscribirse a las listas de filtros de Adblock Plus</string>
+    <string name="filter_subscription_exist">La suscripción de filtro ya existe.</string>
+    <string name="custom_filters">Filtros personalizados</string>
+    <string name="custom_filters_description">Incluyendo filtros personalizados, anuncios marcados</string>
+    <string name="custom_filter">Filtro personalizado</string>
+    <string name="add_filter_subscription">Añadir suscripción de filtro</string>
+    <string name="edit_filter_subscription">Editar suscripción de filtro</string>
+    <string name="updating_filter_subscriptions">Actualizando suscripciones de filtros</string>
+    <string name="update_filter_subscriptions_completed">Actualización de suscripciones de filtros completada.</string>
+    <string name="update_filter_subscription_failed">Error al actualizar las suscripciones de filtros.\n%s</string>
+    <string name="download_notification">Notificación de descarga</string>
+    <string name="has_not_been_updated">no ha sido actualizado</string>
+    <string name="long_ago">hace mucho tiempo</string>
+    <string name="just_now">justo ahora</string>
+    <plurals name="minutes_ago">
+        <item quantity="one">hace 1 minuto</item>
+        <item quantity="other">%d hace minutos</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="one">hace 1 hora</item>
+        <item quantity="other">%d hace horas</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="one">hace 1 día</item>
+        <item quantity="other">%d hace días</item>
+    </plurals>
+    <string name="url_is_invalid">La URL no es válida.</string>
+    <string name="simple_guide_of_writing_rule">Via admite casi todos los filtros Adblock Plus.
+        \nPuedes bloquear las solicitudes de example.com con este filtro:
+        \n||example.com^ (o simplemente, example.com)
+        \n\nEl comodín es aceptable:
+        \n||example.com/js/ads_*.js
+        \n\nPuedes desbloquear las solicitudes especiales con el filtro:
+        \n@@||example.com^
+        \n\nPara el filtro de elementos de la página web:
+        \nexample.com###ad</string>
+    <string name="help">Ayuda</string>
+    <string name="learn_more">Aprender más</string>
+    <plurals name="filters">
+        <item quantity="zero">0 filtros</item>
+        <item quantity="one">1 filtro</item>
+        <item quantity="other">%d filtros</item>
+    </plurals>
+    <string name="updated_">actualizado %s</string>
+    <string name="filter_subscription_info">%s, %s</string>
+    <string name="enable_built_in_filters">Activar filtros integrados</string>
+    <string name="enable_built_in_filters_description">Los filtros integrados sólo bloquean los anuncios comunes</string>
+    <string name="update">Actualizar</string>
 </resources>

@@ -392,16 +392,16 @@
     <string name="long_ago">lang her</string>
     <string name="just_now">gerade eben</string>
     <plurals name="minutes_ago">
-        <item quantity="one">1 minute her</item>
-        <item quantity="other">%d minuten her</item>
+        <item quantity="one">1 Minute her</item>
+        <item quantity="other">%d Minuten her</item>
     </plurals>
     <plurals name="hours_ago">
-        <item quantity="one">1 stunde her</item>
-        <item quantity="other">%d stunden her</item>
+        <item quantity="one">1 Stunde her</item>
+        <item quantity="other">%d Stunden her</item>
     </plurals>
     <plurals name="days_ago">
-        <item quantity="one">1 tag her</item>
-        <item quantity="other">%d tage her</item>
+        <item quantity="one">1 Tag her</item>
+        <item quantity="other">%d Tage her</item>
     </plurals>
     <string name="url_is_invalid">Die URL ist ungültig.</string>
     <string name="simple_guide_of_writing_rule">Via unterstützt fast alle Adblock Plus Filter.
@@ -424,4 +424,6 @@
     <string name="enable_built_in_filters">Integrierte Filter aktivieren</string>
     <string name="enable_built_in_filters_description">Integrierte Filter blockieren nur gängige Anzeigen</string>
     <string name="update">Aktualisierung</string>
+    <string name="bookmarks_exported_successfully">Lesezeichen erfolgreich exportiert</string>
+    <string name="data_exported_successfully">Daten erfolgreich exportiert</string>
 </resources>
