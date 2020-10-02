@@ -409,7 +409,7 @@
     <plurals name="hours_ago">
         <item quantity="one">godzinę temu</item>
         <item quantity="few">%d godziny temu</item>
-        <item quantity="other">%d godzin</item>
+        <item quantity="other">%d godzin temu</item>
     </plurals>
     <plurals name="days_ago">
         <item quantity="one">wczoraj</item>
