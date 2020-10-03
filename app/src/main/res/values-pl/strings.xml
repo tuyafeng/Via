@@ -380,7 +380,7 @@
     <string name="unblock_hint">Odblokowano: %s\nOdśwież, aby zastosować zmiany.</string>
     <string name="ignore_ssl_error_today">Ignoruj błędy SSL tylko dzisiaj</string>
     <string name="block_3rd_party_cookies">Blokuj ciasteczka firm trzecich</string>
-    <string name="enable_site_conf">Włącz site conf dla strony \"%s\"</string>
+    <string name="enable_site_conf">Ustawienia dla strony \"%s\":</string>
     <string name="site_conf">Site conf</string>
     <string name="ui_simple_top">Prosty (pasek na górze)</string>
     <string name="ui_simple_bottom">Prosty (pasek na dole)</string>
