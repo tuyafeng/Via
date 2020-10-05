@@ -416,9 +416,8 @@
     <string name="help">Hilfe</string>
     <string name="learn_more">Lerne mehr</string>
     <plurals name="filters">
-        <item quantity="zero">0 Filter</item>
-        <item quantity="one">1 Filter</item>
-        <item quantity="other">%d Filter</item>
+        <item quantity="one">1 filter</item>
+        <item quantity="other">%d filter</item>
     </plurals>
     <string name="updated_">Aktualisiert %s</string>
     <string name="filter_subscription_info">%s, %s</string>

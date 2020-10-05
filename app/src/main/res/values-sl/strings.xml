@@ -111,7 +111,7 @@
     <string name="toast_operation_failed">Operacija ni uspela</string>
     <string name="toast_operation_done">Operacija je končana</string>
     <string name="volume">Tipke za glasnost uporabi za drsenje</string>
-    <string name="msg_intent">Ali dovolite strani, da odpre aplikacijo?</string>
+    <string name="msg_intent">Ali dovolite spletni strani, da odpre vašo aplikacijo?</string>
     <string name="setting_default">Nastavi za privzeti brskalnik</string>
     <string name="toast_clear_defaults">Počisti privzeto</string>
     <string name="toast_copy_url_successful">Povezava uspešno kopirana</string>
@@ -159,7 +159,7 @@
     <string name="action_mark">Označi kot oglas</string>
     <string name="dialog_confirm_block">Želite to označiti kot oglas?</string>
     <string name="do_not_track">Ne sledi</string>
-    <string name="add_rule">Dodaj pravilo</string>
+    <string name="add_rule">Dodaj filter</string>
     <string name="hint_tags">Oznake</string>
     <string name="color_mode">Barvni način</string>
     <string name="dialog_sure">Ste prepričani, da želite nadaljevati?</string>
@@ -257,7 +257,7 @@
     <string name="skin_bg">Ozadje</string>
     <string name="skin_style">Slog</string>
     <string name="skin_settings">Nastavitve</string>
-    <string name="set_it_as_homepage">Želite nastaviti za začetno stran?</string>
+    <string name="set_it_as_homepage">Želite nastaviti kot začetno stran?</string>
     <string name="missing_webview">Android System WebView ni pravilno nameščen. Ga želite namestiti sedaj?</string>
     <string name="install">Namesti</string>
     <string name="crash_hint">Žal nam je, da se je aplikacija sesula.</string>
@@ -295,8 +295,8 @@
     <string name="share_script">Skript za %1$s, kopirajte to sporočilo in odprite Vio, da ga uvozite. viascript{%2$s}</string>
     <string name="share_online_script">Skript za %1$s, kopirajte to sporočilo in z Vio odprite povezavo %2$s, da ga namestite.</string>
     <string name="import_script">Želite uvoziti skript za %1$s iz odložišča?\nOpozorilo: skript je lahko nevaren. Prosimo, prepričajte se, da je varen.\nSkript:\n</string>
-    <string name="share_rule">Pravilo za blokiranje oglasov na %1$s, kopirajte to sporočilo in odprite Vio, da ga uvozite. viarule{%2$s}</string>
-    <string name="import_rule">Želite uvoziti pravilo za blokiranje oglasov na %1$s iz odložišča?</string>
+    <string name="share_rule">Filter za blokiranje oglasov na %1$s, kopirajte to sporočilo in odprite Vio, da ga uvozite. viarule{%2$s}</string>
+    <string name="import_rule">Želite uvoziti filter za blokiranje oglasov na %1$s iz odložišča?</string>
     <string name="share_url">To je skrivni URL. Kopirajte to sporočilo in ga odprite v Vii, da si ga ogledate. viaurl{%1$s}</string>
     <string name="import_url">Želite odpreti povezavo iz odložišča?\nPovezava: %1$s</string>
     <string name="import_successful">Uspešno uvoženo</string>
@@ -376,4 +376,63 @@
     <string name="ui_simple_bottom">Orodna vrstica na dnu</string>
     <string name="file_does_not_exist">Datoteka ne obstaja</string>
     <string name="dialog_message_from">Sporočilo od %s</string>
+    <string name="filter_subscriptions">Naročnine na filtre</string>
+    <string name="filter_subscriptions_description">Naročite se na seznam filtrov Adblock Plus</string>
+    <string name="filter_subscription_exist">Naročnina na filtre že obstaja.</string>
+    <string name="custom_filters">Filtri po meri</string>
+    <string name="custom_filters_description">Vključno s filtri po meri in označenimi oglasi</string>
+    <string name="custom_filter">Filter po meri</string>
+    <string name="add_filter_subscription">Dodaj naročnino s filtri</string>
+    <string name="edit_filter_subscription">Uredi naročnino s filtri</string>
+    <string name="updating_filter_subscriptions">Posodabljanje naročnin s filtri</string>
+    <string name="update_filter_subscriptions_completed">Posodobitev naročnin s filtri je končana.</string>
+    <string name="update_filter_subscription_failed">Posodobitev naročnin s filtri ni uspela.\n%s</string>
+    <string name="download_notification">Obvestilo o prenosu</string>
+    <string name="has_not_been_updated">ni posodobljeno</string>
+    <string name="long_ago">dolgo nazaj</string>
+    <string name="just_now">pravkar</string>
+    <plurals name="minutes_ago">
+        <item quantity="one">pred %d minuto</item>
+        <item quantity="two">pred %d minutama</item>
+        <item quantity="few">pred %d minutami</item>
+        <item quantity="other">pred %d minutami</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="one">pred %d uro</item>
+        <item quantity="two">pred %d urama</item>
+        <item quantity="few">pred %d urami</item>
+        <item quantity="other">pred %d urami</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="one">pred %d dnevom</item>
+        <item quantity="two">pred %d dnevoma</item>
+        <item quantity="few">pred %d dnevi</item>
+        <item quantity="other">pred %d dnevi</item>
+    </plurals>
+    <string name="url_is_invalid">URL ni veljaven.</string>
+    <string name="simple_guide_of_writing_rule">Via podpira večino filtrov Adblock Plus.
+        \nZahteve iz example.com blokirate s filtri, kot je:
+        \n||example.com^ (ali preprosto: example.com)
+        \n\nV filtrih lahko uporabite nadomestne znake, kot je:
+        \n||example.com/js/ads_*.js
+        \n\nElemente spletnih strani blokirate s filtri, kot je:
+        \nexample.com###ad
+        \n\nZahteve spletnih strani odblokirate s filtri, kot je:
+        \n@@||example.com^</string>
+    <string name="help">Pomoč</string>
+    <string name="learn_more">Izvejte več</string>
+    <plurals name="filters">
+        <item quantity="zero">%d filtrov</item>
+        <item quantity="one">%d filter</item>
+        <item quantity="two">%d filtra</item>
+        <item quantity="few">%d filtri</item>
+        <item quantity="other">%d filtrov</item>
+    </plurals>
+    <string name="updated_">posodobljeno %s</string>
+    <string name="filter_subscription_info">%s, %s</string>
+    <string name="enable_built_in_filters">Omogoči vgrajene filtre</string>
+    <string name="enable_built_in_filters_description">Vgrajeni filtri blokirajo samo običajne oglase</string>
+    <string name="update">Posodobitev</string>
+    <string name="bookmarks_exported_successfully">Zaznamki so uspešno izvoženi</string>
+    <string name="data_exported_successfully">Podatki so uspešno izvoženi</string>
 </resources>

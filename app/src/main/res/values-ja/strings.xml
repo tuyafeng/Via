@@ -240,7 +240,7 @@
     <string name="script_url">ドメインまたは* （*は全て）</string>
     <string name="script_code">コード (JavaScript)</string>
     <string name="help_us_translate">翻訳に協力する</string>
-    <string name="skin_style">検索ボックス</string>
+    <string name="skin_style">スタイル</string>
     <string name="official_website">公式サイト</string>
     <string name="set_it_as_homepage">ホームページに設定しますか？</string>
     <string name="skin_logo">ロゴ</string>
@@ -325,6 +325,7 @@
     <string name="message_invalid_certificate">このサイトの証明書は無効です。続行しますか？</string>
     <string name="message_not_yet_valid_certificate">このサイトの証明書はまだ有効ではありません。続行しますか？</string>
     <string name="bookmarks_data_to_long">ブックマークデータのサイズが大きすぎるため、アップロードできません。その他のデータはアップロードされます。続けますか？</string>
+    <string name="restore_tabs_hint_settings">シークレットモードになったため、タブは復元されません。</string>
     <string name="night_css_enabled">Webページはナイトモードで表示されています。</string>
     <string name="night_css_disabled">Webページはナイトモードで表示されていません。</string>
     <string name="ignore_secondary_ssl_error">セカンダリSSLエラーを無視する</string>
@@ -354,4 +355,50 @@
     <string name="block_3rd_party_cookies">サードパーティーCookieをブロック</string>
     <string name="enable_site_conf">\"%s\"のサイト別設定を有効にする</string>
     <string name="site_conf">サイト別設定</string>
+    <string name="file_does_not_exist">ファイルがありません</string>
+    <string name="dialog_message_from">%sからのメッセージ</string>
+    <string name="filter_subscriptions">購読フィルターリスト</string>
+    <string name="filter_subscriptions_description">登録されているAdblock Plusフィルターのリストです</string>
+    <string name="filter_subscription_exist">このフィルターは既に登録されています</string>
+    <string name="custom_filters">カスタムフィルター</string>
+    <string name="custom_filters_description">マークされた広告を含むフィルター</string>
+    <string name="custom_filter">カスタムフィルター</string>
+    <string name="add_filter_subscription">購読するフィルターを登録します</string>
+    <string name="edit_filter_subscription">購読中のフィルターを編集します</string>
+    <string name="updating_filter_subscriptions">購読中のフィルターを更新しています</string>
+    <string name="update_filter_subscriptions_completed">購読中のフィルターの更新が完了しました</string>
+    <string name="update_filter_subscription_failed">フィルター「\n%s」の更新に失敗しました</string>
+    <string name="download_notification">ダウンロード通知</string>
+    <string name="has_not_been_updated">更新されていません</string>
+    <string name="long_ago">かなり前</string>
+    <string name="just_now">たった今</string>
+    <plurals name="minutes_ago">
+        <item quantity="other">%d 分前</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">%d 時間前</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">%d 日前</item>
+    </plurals>
+    <string name="url_is_invalid">URLが無効です</string>
+    <string name="simple_guide_of_writing_rule">ViaはほとんどのAdblock Plusフィルターに対応しています。
+        \n次のように設定することで、「example.com」をブロックする任意のフィルターを作成することができます。
+        \n||example.com^ (もしくはシンプルにexample.com)
+        \n\nワイルドカードは次のように使用できます。:
+        \n||example.com/js/ads_*.js
+        \n\nホワイトリストに登録したい場合は次のように設定を行います。:
+        \n@@||example.com^
+        \n\n次のようなWEBページ上の要素の場合:
+        \nexample.com###ad</string>
+    <string name="help">ヘルプ</string>
+    <string name="learn_more">さらに詳しく（英語サイト）</string>
+    <plurals name="filters">
+        <item quantity="other">%d フィルター</item>
+    </plurals>
+    <string name="updated_">%s をアップデートしました</string>
+    <string name="filter_subscription_info">%s, %s</string>
+    <string name="enable_built_in_filters">デフォルトのブロックフィルターを適用する</string>
+    <string name="enable_built_in_filters_description">デフォルトのフィルターは一般的な広告のみをブロックします。</string>
+    <string name="update">アップデート</string>
 </resources>
