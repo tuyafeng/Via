@@ -430,4 +430,5 @@
     <string name="update">Обновить</string>
     <string name="bookmarks_exported_successfully">Закладки успешно экспортированы</string>
     <string name="data_exported_successfully">Данные успешно экспортированы</string>
+    <string name="privacy_policy">Политика конфиденциальности</string>
 </resources>
