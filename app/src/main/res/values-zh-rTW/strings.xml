@@ -423,4 +423,5 @@
     <string name="update">更新</string>
     <string name="bookmarks_exported_successfully">書籤匯出成功</string>
     <string name="data_exported_successfully">資料匯出成功</string>
+    <string name="privacy_policy">隱私政策</string>
 </resources>
