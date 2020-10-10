@@ -416,8 +416,9 @@
     <string name="help">Hilfe</string>
     <string name="learn_more">Lerne mehr</string>
     <plurals name="filters">
-        <item quantity="one">1 filter</item>
-        <item quantity="other">%d filter</item>
+        <item quantity="zero">0 Filter</item>
+        <item quantity="one">1 Filter</item>
+        <item quantity="other">%d Filter</item>
     </plurals>
     <string name="updated_">Aktualisiert %s</string>
     <string name="filter_subscription_info">%s, %s</string>
@@ -426,4 +427,5 @@
     <string name="update">Aktualisierung</string>
     <string name="bookmarks_exported_successfully">Lesezeichen erfolgreich exportiert</string>
     <string name="data_exported_successfully">Daten erfolgreich exportiert</string>
+    <string name="privacy_policy">Datenschutzbestimmungen</string>
 </resources>
