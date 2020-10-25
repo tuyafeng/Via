@@ -103,7 +103,7 @@
     <string name="title_file_chooser">انتخاب کننده فایل</string>
     <string name="import_backup">وارد کردن نشانک ها</string>
     <string name="bookmark_export_path">نشانک ها ذخیره شد در\n</string>
-    <string name="import_bookmark_error"نمیتوان از فایل نشانک ها را وارد کرد!</string>
+    <string name="import_bookmark_error">نمیتوان از فایل نشانک ها را وارد کرد!</string>
     <string name="message_add_bookmark">نشانک ها با موفقیت وارد شد</string>
     <string name="message_exit">برای خروج یک بار دیگر بزنید</string>
     <string name="dialog_message">پیام</string>
