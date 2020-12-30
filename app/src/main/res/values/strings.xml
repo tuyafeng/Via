@@ -211,8 +211,8 @@
 
     <string name="block_popup">Block pop-up</string>
 
-    <string name="action_save_web_page">Save web page</string>
-    <string name="action_saved_pages">Saved web pages</string>
+    <string name="action_save_web_page">Save page</string>
+    <string name="action_saved_pages">Saved pages</string>
     <string name="saved_page_successfully">Web page saved successfully. It is located in the menu: Tools > Saved web pages.</string>
     <string name="deleted_failed">Failed to delete. The file is located in download path: </string>
 
@@ -428,4 +428,15 @@
     <string name="bookmarks_exported_successfully">Bookmarks exported successfully</string>
     <string name="data_exported_successfully">Data exported successfully</string>
     <string name="privacy_policy">Privacy policy</string>
+    <string name="terms_of_use">Terms of use</string>
+    <string name="welcome">Welcome</string>
+    <string name="agreement_message">Welcome to use Via. Please read the following agreement carefully before using Via. You need to agree to and accept all the terms before you start using our service.</string>
+    <string name="agreement_message_short">You need to agree and accept all terms before you start using our service.</string>
+    <string name="agree_and_continue">Agree and continue</string>
+    <string name="disagree">Disagree</string>
+    <string name="exit">Exit</string>
+    <string name="delete_account">Delete account</string>
+    <string name="delete_account_hint">Delete the account from the server</string>
+    <string name="delete_account_message">After submitting the deletion request, the account will be logged out and enter a 30-day deletion waiting period. During the logout period, if you log in to the account again and upload data, the deletion request will be withdrawn. After the waiting period expires, the account and related data will be completely deleted from the server.\nPlease enter your password to submit the request.</string>
+    <string name="confirm_to_delete">Confirm to delete</string>
 </resources>
