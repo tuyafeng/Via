@@ -435,4 +435,5 @@
     <string name="update">Posodobitev</string>
     <string name="bookmarks_exported_successfully">Zaznamki so uspešno izvoženi</string>
     <string name="data_exported_successfully">Podatki so uspešno izvoženi</string>
+    <string name="privacy_policy">Politika zasebnosti</string>
 </resources>
