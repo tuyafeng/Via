@@ -380,8 +380,8 @@
     <string name="unblock_hint">Odblokowano: %s\nOdśwież, aby zastosować zmiany.</string>
     <string name="ignore_ssl_error_today">Ignoruj błędy SSL tylko dzisiaj</string>
     <string name="block_3rd_party_cookies">Blokuj ciasteczka firm trzecich</string>
-    <string name="enable_site_conf">Włącz site conf dla strony \"%s\"</string>
-    <string name="site_conf">Site conf</string>
+    <string name="enable_site_conf">Ustawienia dla strony \"%s\":</string>
+    <string name="site_conf">Ustawienia stron</string>
     <string name="ui_simple_top">Prosty (pasek na górze)</string>
     <string name="ui_simple_bottom">Prosty (pasek na dole)</string>
     <string name="file_does_not_exist">Plik nie istnieje.</string>
@@ -409,7 +409,7 @@
     <plurals name="hours_ago">
         <item quantity="one">godzinę temu</item>
         <item quantity="few">%d godziny temu</item>
-        <item quantity="other">%d godzin</item>
+        <item quantity="other">%d godzin temu</item>
     </plurals>
     <plurals name="days_ago">
         <item quantity="one">wczoraj</item>
@@ -440,4 +440,5 @@
     <string name="update">Aktualizuj</string>
     <string name="bookmarks_exported_successfully">Zakładki zostały wyeksportowane.</string>
     <string name="data_exported_successfully">Dane zostały wyeksportowane.</string>
+    <string name="privacy_policy">Polityka prywatności</string>
 </resources>
