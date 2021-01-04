@@ -436,4 +436,15 @@
     <string name="bookmarks_exported_successfully">Zaznamki so uspešno izvoženi</string>
     <string name="data_exported_successfully">Podatki so uspešno izvoženi</string>
     <string name="privacy_policy">Politika zasebnosti</string>
+    <string name="terms_of_use">Pogoji uporabe</string>
+    <string name="welcome">Dobrodošli</string>
+    <string name="agreement_message">Dobrodošli v brskalniku Via. Prosimo, da pred uporabo brskalnika Via natančno preberete sledeči sporazum. Pred pričetkom uporabe naše storitve se morate strinjati in sprejeti vse pogoje uporabe.</string>
+    <string name="agreement_message_short">Preden pričnete uporabljati našo storitev, se morate strinjati in sprejeti vse pogoje.</string>
+    <string name="agree_and_continue">Strinjam se in nadaljuj</string>
+    <string name="disagree">Ne strinjam se</string>
+    <string name="exit">Izhod</string>
+    <string name="delete_account">Izbriši račun</string>
+    <string name="delete_account_hint">Izbriši račun s strežnika</string>
+    <string name="delete_account_message">Po oddaji zahtevka za izbris bo račun odjavljen in pričela se bo 30-dnevna čakalna doba za brisanje računa. Če se boste v tem obdobju ponovno prijavili v račun in naložili podatke, bo zahtevek za izbris umaknjen. Po poteku čakalne dobe bo račun s povezanimi podatki trajno izbrisan s strežnika.\nProsimo vnesite vaše geslo za oddajo zahtevka.</string>
+    <string name="confirm_to_delete">Potrditev brisanja</string>
 </resources>
