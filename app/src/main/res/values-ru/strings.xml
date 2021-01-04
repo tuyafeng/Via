@@ -431,4 +431,15 @@
     <string name="bookmarks_exported_successfully">Закладки успешно экспортированы</string>
     <string name="data_exported_successfully">Данные успешно экспортированы</string>
     <string name="privacy_policy">Политика конфиденциальности</string>
+    <string name="terms_of_use">Условия использования</string>
+    <string name="welcome">Добро пожаловать</string>
+    <string name="agreement_message">Добро пожаловать в Via. Внимательно прочтите следующее соглашение перед использованием. Вы должны согласиться и принять все условия, прежде чем начать пользоваться нашим сервисом.</string>
+    <string name="agreement_message_short">Вы должны согласиться и принять все условия, прежде чем начать пользоваться нашим сервисом.</string>
+    <string name="agree_and_continue">Принять и продолжить</string>
+    <string name="disagree">Отклонить</string>
+    <string name="exit">Выход</string>
+    <string name="delete_account">Удалить учётную запись</string>
+    <string name="delete_account_hint">Удаление учётной записи с сервера</string>
+    <string name="delete_account_message">После отправки запроса на удаление учётная запись будет выведена из системы и перейдёт в 30-дневный период ожидания удаления. Если за это время вы снова войдёте в учётную запись и загрузите данные, запрос на удаление будет отозван. По истечении периода ожидания учётная запись и связанные с ней данные будут полностью удалены с сервера.\nВведите пароль, чтобы отправить запрос.</string>
+    <string name="confirm_to_delete">Подтверждение удаления</string>
 </resources>
