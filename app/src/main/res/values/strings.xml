@@ -436,6 +436,7 @@
     <string name="disagree">Disagree</string>
     <string name="exit">Exit</string>
     <string name="delete_account">Delete account</string>
+    <string name="delete_account_request_submitted">The account deletion request has been submitted.</string>
     <string name="delete_account_hint">Delete the account from the server</string>
     <string name="delete_account_message">After submitting the deletion request, the account will be logged out and enter a 30-day deletion waiting period. During the logout period, if you log in to the account again and upload data, the deletion request will be withdrawn. After the waiting period expires, the account and related data will be completely deleted from the server.\nPlease enter your password to submit the request.</string>
     <string name="confirm_to_delete">Confirm to delete</string>
