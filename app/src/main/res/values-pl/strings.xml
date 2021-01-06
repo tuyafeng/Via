@@ -5,11 +5,11 @@
     <string name="action_new_tab">Nowa karta</string>
     <string name="action_open_in_new">Otwórz i przejdź</string>
     <string name="action_save_img">Zapisz obraz</string>
-    <string name="action_share">Udost. link</string>
+    <string name="action_share">Udostępnij link</string>
     <string name="action_history">Historia</string>
     <string name="action_bookmarks">Zakładki</string>
     <string name="bookmarks_file">zakładki</string>
-    <string name="action_add_bookmark">Dodaj zakł.</string>
+    <string name="action_add_bookmark">Dodaj zakładkę</string>
     <string name="action_night">Tryb nocny</string>
     <string name="action_copy">Skopiuj adres linku</string>
     <string name="action_block_domain">Zabl. domenę</string>
@@ -32,7 +32,7 @@
     <string name="orientation_landscape">Pozioma</string>
     <string name="agent">User agent</string>
     <string name="home">Strona domowa</string>
-    <string name="fullscreen">Ukrywanie / pokazywanie paska narzędziowego</string>
+    <string name="fullscreen">Ukrywanie / pokazywanie pasków narzędzi</string>
     <string name="java">Obsługa JavaScript</string>
     <string name="download">Miejsce pobierania</string>
     <string name="size">Rozmiar tekstu</string>
@@ -98,8 +98,8 @@
     <string name="hint_password">Hasło</string>
     <string name="untitled">Bez tytułu</string>
     <string name="image_auto">Tylko w WiFi</string>
-    <string name="image_on">Zawsze wył.</string>
-    <string name="image_off">Zawsze wł.</string>
+    <string name="image_on">Zawsze wyłączone</string>
+    <string name="image_off">Zawsze włączone</string>
     <string name="title_file_chooser">Wybór pliku</string>
     <string name="import_backup">Importuj zakładki</string>
     <string name="bookmark_export_path">Zakładki zostały wyeksportowane do pliku\n.</string>
@@ -138,13 +138,13 @@
     <string name="settings_privacy">Prywatność</string>
     <string name="settings_advanced">Zaawansowane</string>
     <string name="settings_about">O aplikacji</string>
-    <string name="url_box">Zawartość paska narzędziowego</string>
+    <string name="url_box">Tekst w pasku narzędzi</string>
     <string name="url_box_domain">Domena</string>
     <string name="url_box_url">Adres strony</string>
     <string name="url_box_title">Tytuł strony</string>
-    <string name="action_pcview">Pełna wer. str.</string>
+    <string name="action_pcview">Pełna wer. strony</string>
     <string name="action_source">Kod źr. strony</string>
-    <string name="action_translate">Przetł. stronę</string>
+    <string name="action_translate">Przetłumacz stronę</string>
     <string name="title_edit_folder">Edytuj folder</string>
     <string name="msg_delete_folder">Usunąć folder?</string>
     <string name="desc_suggestion">sugestie</string>
@@ -179,7 +179,7 @@
     <string name="crash_close">Zamnknij aplikację</string>
     <string name="crash_upload">Wyślij raport</string>
     <string name="upload_completed">Wysyłanie zakończone.</string>
-    <string name="ui_mode">Tryb interfejsu</string>
+    <string name="ui_mode">Układ pasków narzędzi</string>
     <string name="ui_auto">Automatyczny</string>
     <string name="addon_download">Menedżer pobierania</string><![CDATA[
 
@@ -189,7 +189,6 @@
     <string name="open_with">Otwórz za pomocą&#8230;</string>
     <string name="download_completed">Pobieranie zakończone.</string>
     <string name="toast_fullscreen_off">Opuść tryb pełnoekranowy</string>
-
     <string name="clear_data">Usuń dane</string>
     <string name="data_cache">Pamięć podręczna</string>
     <string name="data_form_data">Dane formularzy</string>
@@ -197,39 +196,27 @@
     <string name="data_storage">Dane witryn</string>
     <string name="data_cookies">Ciasteczka</string>
     <string name="data_cleared">Dane zostały usunięte.</string>
-
     <string name="sync_desc">Jeśli konto nie istnieje, zostanie utworzone.</string>
-
     <string name="settings_skin">Ekran startowy</string>
     <string name="default_set">Dom.</string>
     <string name="picture">Obraz</string>
     <string name="text">Tekst</string>
     <string name="html_code">Kod HTML</string>
-
     <string name="action_view_image">Pokaż obraz</string>
-
     <string name="skin_colorful">Kanciasty</string>
     <string name="skin_fruity">Zaokrąglony</string>
     <string name="skin_transparent">Przezrocz.</string>
-
     <string name="block_popup">Blokuj wyskakujące okna</string>
-
     <string name="action_save_web_page">Zapisz stronę</string>
-    <string name="action_saved_pages">Zapisane str.</string>
+    <string name="action_saved_pages">Zapisane strony</string>
     <string name="saved_page_successfully">Strona została zapisana.</string>
     <string name="deleted_failed">Usunięcie nie powiodło się. Lokalizacja pliku: </string>
-
     <string name="empty_hint">Cicho wszędzie,\ngłucho wszędzie&#8230;</string>
-
     <string name="network_log">Dziennik sieci</string>
     <string name="catalog">Katalog</string>
-
     <string name="conn_timeout">Upłynął limit czasu połączenia</string>
-
     <string name="already_default">Via jest już domyślną przeglądarką.</string>
-
     <string name="set_to_default">Przeglądarka Via zostanie ustawiona jako domyślna po użyciu jej do otwarcia linku (%s). Wybierz ją, aby otworzyć link.</string>
-
     <string name="sync_prompt">Lokalne zakładki i ustawienia zostaną nadpisane. Kontynuować?</string>
     <string name="upload_prompt">Obecne zakładki i ustawienia zostaną wysłane. Kontynuować?</string>
     <string name="none">Nic</string>
@@ -291,7 +278,7 @@
     <string name="operation_hint">Operacje, gesty, itp.</string>
     <string name="adblock_info">Zablokowane reklamy: %1$d, zaoszczędzony transfer: %2$s.</string>
     <string name="disable">Wyłączone</string>
-    <string name="ui_traditional">Tradycyjny</string>
+    <string name="ui_traditional">Góra i dół</string>
     <string name="ui_simple">Prosty</string>
     <string name="color_mode_hint">Koloruj pasek narzędziowy i pasek stanu podczas przeglądania.</string><![CDATA[
 
@@ -319,10 +306,10 @@
     <string name="no_resource">Nie wykryto zasobów na tej stronie.</string>
     <string name="no_network_log">Ta strona nie ma dziennika sieci.</string>
     <string name="resource_sniffer_hint">\nOdtwórz w niej jakiś film lub muzykę. Uwaga: wykrywacz nie wszędzie działa.</string>
-    <string name="action_download">Pobrane</string>
+    <string name="action_download">Pobrane pliki</string>
     <string name="empty_username_info">Wprowadź nazwę użytkownika</string>
     <string name="empty_password_info">Wprowadź hasło</string>
-    <string name="offline_page_hint">To są zapisane strony. Możesz je przeglądać, gdy nie masz połączenia z siecią.</string>
+    <string name="offline_page_hint">Oto Twoje zapisane strony. Możesz je przeglądać, gdy nie masz połączenia z siecią.</string>
     <string name="history_page_hint_when_incognito">Jesteś w trybie prywatnym. Historia przeglądania nie jest teraz zapisywana.</string>
     <string name="action_preview">Podgląd</string>
     <string name="action_page_info">Informacje o stronie</string>
@@ -382,8 +369,8 @@
     <string name="block_3rd_party_cookies">Blokuj ciasteczka firm trzecich</string>
     <string name="enable_site_conf">Ustawienia dla strony \"%s\":</string>
     <string name="site_conf">Ustawienia stron</string>
-    <string name="ui_simple_top">Prosty (pasek na górze)</string>
-    <string name="ui_simple_bottom">Prosty (pasek na dole)</string>
+    <string name="ui_simple_top">Tylko góra</string>
+    <string name="ui_simple_bottom">Tylko dół</string>
     <string name="file_does_not_exist">Plik nie istnieje.</string>
     <string name="dialog_message_from">Wiadomość z %s</string>
     <string name="filter_subscriptions">Listy z Adblocka Plus</string>
@@ -440,5 +427,17 @@
     <string name="update">Aktualizuj</string>
     <string name="bookmarks_exported_successfully">Zakładki zostały wyeksportowane.</string>
     <string name="data_exported_successfully">Dane zostały wyeksportowane.</string>
-    <string name="privacy_policy">Polityka prywatności</string>
+    <string name="privacy_policy">Polityka prywatności</string>    
+    <string name="terms_of_use">Warunki korzystania</string>
+    <string name="welcome">Witamy</string>
+    <string name="agreement_message">Zanim zaczniesz korzystać z aplikacji, zapoznaj się z poniższymi tekstami. Aby kontynuować, zaakceptuj to, co jest w nich zawarte.</string>
+    <string name="agreement_message_short">Zaakceptuj treść poniższych tekstów, aby kontynuować.</string>
+    <string name="agree_and_continue">Akceptuję</string>
+    <string name="disagree">Nie akceptuję</string>
+    <string name="exit">Wyjdź</string>
+    <string name="delete_account">Usuń konto</string>
+    <string name="delete_account_request_submitted">Prośba o usunięcie konta została przesłana.</string>
+    <string name="delete_account_hint">Usuń konto z serwera</string>
+    <string name="delete_account_message">Po przesłaniu prośby o usunięcie konta nastąpi wylogowanie z niego, a następnie zostanie ono wprowadzone w 30-dniowy stan hibernacji. Jeśli w tym czasie się na nie zalogujesz, proces zostanie anulowany. Gdy okres hibernacji minie, konto i wszelkie znajdujące się na nim dane zostaną usunięte.\nWprowadź hasło, aby przesłać prośbę.</string>
+    <string name="confirm_to_delete">Potwierdź usunięcie</string>
 </resources>
