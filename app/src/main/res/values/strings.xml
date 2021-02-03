@@ -440,4 +440,20 @@
     <string name="delete_account_hint">Delete the account from the server</string>
     <string name="delete_account_message">After submitting the deletion request, the account will be logged out and enter a 30-day deletion waiting period. During the logout period, if you log in to the account again and upload data, the deletion request will be withdrawn. After the waiting period expires, the account and related data will be completely deleted from the server.\nPlease enter your password to submit the request.</string>
     <string name="confirm_to_delete">Confirm to delete</string>
+    <string name="items_selected">%1d selected</string>
+    <string name="select_all">Select all</string>
+    <string name="multi_choice">Multi-choice</string>
+    <plurals name="delete_download_tasks">
+        <item quantity="zero">Deleted 0 download task</item>
+        <item quantity="one">Deleted 1 download tasks</item>
+        <item quantity="other">Deleted %d download tasks</item>
+    </plurals>
+    <string name="open_source_licenses">Open source licenses</string>
+    <string name="debugging_info">Debuggin info</string>
+    <string name="join_qq_group">Join QQ group</string>
+    <string name="join_telegram_group">Join Telegram group</string>
+    <string name="follow_me_on_twitter">Follow me on Twitter</string>
+    <string name="follow_me_on_weibo">Follow me on Weibo</string>
+    <string name="version">Version</string>
+    <string name="paste_and_go">Paste &amp; Go</string>
 </resources>

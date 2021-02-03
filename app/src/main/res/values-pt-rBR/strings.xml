@@ -374,4 +374,69 @@
     <string name="site_conf">Configuração do site</string>
     <string name="ui_simple_top">parte superior</string>
     <string name="ui_simple_bottom">parte inferior</string>
+    <string name="file_does_not_exist">O arquivo não existe</string>
+    <string name="dialog_message_from">Mensagem de %s</string>
+    <string name="filter_subscriptions">Filtro assinado</string>
+    <string name="filter_subscriptions_description">listas de filtros Adblock Plus assinado</string>
+    <string name="filter_subscription_exist">O filtro assinado já existe.</string>
+    <string name="custom_filters">Filtros personalizados</string>
+    <string name="custom_filters_description">Incluindo filtros personalizados, anúncios marcados</string>
+    <string name="custom_filter">Filtro personalizado</string>
+    <string name="add_filter_subscription">Adicionar filtro assinado</string>
+    <string name="edit_filter_subscription">Editar filtro assinado</string>
+    <string name="updating_filter_subscriptions">Atualizando filtro assinado</string>
+    <string name="update_filter_subscriptions_completed">Atualização de filtros assinados concluída.</string>
+    <string name="update_filter_subscription_failed">Falha ao atualizar filtros assinados.\n%s</string>
+    <string name="download_notification">Notificação de download</string>
+    <string name="has_not_been_updated">não foi atualizado</string>
+    <string name="long_ago">muito tempo atrás</string>
+    <string name="just_now">Agora mesmo</string>
+    <plurals name="minutes_ago">
+        <item quantity="one">1 minuto atrás</item>
+        <item quantity="other">%d minutos atrás</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="one">1 hora atrás</item>
+        <item quantity="other">%d horas atrás</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="one">1 dia atrás</item>
+        <item quantity="other">%d dias atrás</item>
+    </plurals>
+    <string name="url_is_invalid">A URL é inválido.</string>
+    <string name="simple_guide_of_writing_rule">Via suporta quase todos os filtros Adblock Plus.
+        \nVocê pode bloquear as solicitações de example.com com este filtro, como:
+        \n||example.com^ (ou simplesmente, example.com)
+        \n\nO coringa é aceitável, como:
+        \n||example.com/js/ads_*.js
+        \n\nVocê pode desbloquear os pedidos especiais com o filtro, como:
+        \n@@||example.com^
+        \n\nPara o filtro de elemento da página da web, como:
+        \nexample.com###ad</string>
+    <string name="help">Ajuda</string>
+    <string name="learn_more">Saber mais</string>
+    <plurals name="filters">
+        <item quantity="zero">0 filtro</item>
+        <item quantity="one">1 filtro</item>
+        <item quantity="other">%d filtros</item>
+    </plurals>
+    <string name="updated_">atualizado %s</string>
+    <string name="filter_subscription_info">%s, %s</string>
+    <string name="enable_built_in_filters">Ativar filtros integrados</string>
+    <string name="enable_built_in_filters_description">Filtros integrados bloqueiam apenas anúncios comuns</string>
+    <string name="update">Atualizar</string>
+    <string name="bookmarks_exported_successfully">Favoritos exportados com sucesso</string>
+    <string name="data_exported_successfully">Dados exportados com sucesso</string>
+    <string name="privacy_policy">Política de Privacidade</string>
+    <string name="terms_of_use">Termos de Uso</string>
+    <string name="welcome">Bem-vindo</string>
+    <string name="agreement_message">Bem-vindo ao usar o Via. Por favor, leia o seguinte acordo cuidadosamente antes de usar o Via. Você precisa concordar e aceitar todos os termos antes de começar a usar nosso serviço.</string>
+    <string name="agreement_message_short">Você precisa concordar e aceitar todos os termos antes de começar a usar nosso serviço.</string>
+    <string name="agree_and_continue">Concordar e continuar</string>
+    <string name="disagree">Discordar</string>
+    <string name="exit">Sair</string>
+    <string name="delete_account">ExcluirApagar conta</string>
+    <string name="delete_account_hint">Excluir a conta do servidor</string>
+    <string name="delete_account_message">Depois de enviar a solicitação de exclusão, a conta será desconectada e entrará em um período de espera para exclusão de 30 dias. Durante o período de logout, se você entrar na conta novamente e carregar os dados, a solicitação de exclusão será retirada. Após o período de espera expirar, a conta e os dados relacionados serão completamente excluídos do servidor.\NDigite sua senha para enviar a solicitação.</string>
+    <string name="confirm_to_delete">Confirme para excluir</string>
 </resources>
