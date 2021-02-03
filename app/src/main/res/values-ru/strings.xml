@@ -157,7 +157,7 @@
     <string name="desc_menu">Меню</string>
     <string name="desc_filedic">Файл</string>
     <string name="action_mark">Пометить как рекламу</string>
-    <string name="dialog_confirm_block">Вы уверены, что хотите пометить это как рекламу?</string>
+    <string name="dialog_confirm_block">Пометить это как рекламу?</string>
     <string name="do_not_track">Запретить отслеживание</string>
     <string name="add_rule">Добавить правило</string>
     <string name="hint_tags">Правила (через запятую)</string>
