@@ -439,4 +439,20 @@
     <string name="delete_account_hint">Excluir a conta do servidor</string>
     <string name="delete_account_message">Depois de enviar a solicitação de exclusão, a conta será desconectada e entrará em um período de espera para exclusão de 30 dias. Durante o período de logout, se você entrar na conta novamente e carregar os dados, a solicitação de exclusão será retirada. Após o período de espera expirar, a conta e os dados relacionados serão completamente excluídos do servidor.\NDigite sua senha para enviar a solicitação.</string>
     <string name="confirm_to_delete">Confirme para excluir</string>
+    <string name="items_selected">%1d selecionado</string>
+    <string name="select_all">Selecione todos</string>
+    <string name="multi_choice">Multi-escolha</string>
+    <plurals name="delete_download_tasks">
+        <item quantity="zero">Excluída 0 Tarefa baixada</item>
+        <item quantity="one">Excluída 1 Tarefa baixada</item>
+        <item quantity="other">Excluída %d Tarefas baixadas</item>
+    </plurals>
+    <string name="open_source_licenses">Licenças de código aberto</string>
+    <string name="debugging_info">Informações de depuração</string>
+    <string name="join_qq_group">Junte-se ao grupo do QQ</string>
+    <string name="join_telegram_group">Junte-se ao grupo do Telegram</string>
+    <string name="follow_me_on_twitter">Siga-me no Twitter</string>
+    <string name="follow_me_on_weibo">Siga-me no Weibo</string>
+    <string name="version">Versão</string>
+    <string name="paste_and_go">Colar &amp; ir</string>
 </resources>
