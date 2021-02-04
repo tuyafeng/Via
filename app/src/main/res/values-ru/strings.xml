@@ -157,7 +157,7 @@
     <string name="desc_menu">Меню</string>
     <string name="desc_filedic">Файл</string>
     <string name="action_mark">Пометить как рекламу</string>
-    <string name="dialog_confirm_block">Вы уверены, что хотите пометить это как рекламу?</string>
+    <string name="dialog_confirm_block">Пометить это как рекламу?</string>
     <string name="do_not_track">Запретить отслеживание</string>
     <string name="add_rule">Добавить правило</string>
     <string name="hint_tags">Правила (через запятую)</string>
@@ -443,4 +443,21 @@
     <string name="delete_account_hint">Удаление учётной записи с сервера</string>
     <string name="delete_account_message">После отправки запроса на удаление учётная запись будет выведена из системы и перейдёт в 30-дневный период ожидания удаления. Если за это время вы снова войдёте в учётную запись и загрузите данные, запрос на удаление будет отозван. По истечении периода ожидания учётная запись и связанные с ней данные будут полностью удалены с сервера.\nВведите пароль, чтобы отправить запрос.</string>
     <string name="confirm_to_delete">Подтверждение удаления</string>
+    <string name="items_selected">Выбрано: %1d</string>
+    <string name="select_all">Выбрать все</string>
+    <string name="multi_choice">Множественный выбор</string>
+    <plurals name="delete_download_tasks">
+        <item quantity="zero">Удалено 0 задач загрузки</item>
+        <item quantity="one">Удалена 1 задача загрузки</item>
+        <item quantity="few">Удалено %d задачи загрузки</item>
+        <item quantity="many">Удалено %d задач загрузки</item>
+    </plurals>
+    <string name="open_source_licenses">Лицензии открытого исходного кода</string>
+    <string name="debugging_info">Отладочная информация</string>
+    <string name="join_qq_group">Присоединиться к группе в QQ</string>
+    <string name="join_telegram_group">Присоединиться к группе в Telegram</string>
+    <string name="follow_me_on_twitter">Подписаться на мой Twitter</string>
+    <string name="follow_me_on_weibo">Подписаться на мой Weibo</string>
+    <string name="version">Версия</string>
+    <string name="paste_and_go">Вставить и перейти</string>
 </resources>
