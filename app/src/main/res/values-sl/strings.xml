@@ -448,4 +448,22 @@
     <string name="delete_account_hint">Izbriši račun s strežnika</string>
     <string name="delete_account_message">Po oddaji zahteve za izbris računa bo le-ta odjavljen in pričela se bo 30-dnevna čakalna doba za brisanje računa. Če se boste v tem obdobju ponovno prijavili v račun in naložili podatke, bo zahteva za izbris umaknjena. Po poteku čakalne dobe bo račun s povezanimi podatki trajno izbrisan s strežnika.\nProsimo vnesite vaše geslo za oddajo zahteve.</string>
     <string name="confirm_to_delete">Potrditev brisanja</string>
+    <string name="items_selected">Izbrano: %1d</string>
+    <string name="select_all">Izberi vse</string>
+    <string name="multi_choice">Več izbir</string>
+    <plurals name="delete_download_tasks">
+        <item quantity="zero">Odstranjenih 0 opravil za prenos</item>
+        <item quantity="one">Odstranjeno 1 opravilo za prenos</item>
+        <item quantity="two">Odstranjeni 2 opravili za prenos</item>
+        <item quantity="few">Odstranjena %d opravila za prenos</item>
+        <item quantity="other">Odstranjenih %d opravil za prenos</item>
+    </plurals>
+    <string name="open_source_licenses">Odprtokodne licence</string>
+    <string name="debugging_info">Informacije za razhroščevanje</string>
+    <string name="join_qq_group">Pridružite se QQ skupini</string>
+    <string name="join_telegram_group">Pridružite se Telegram skupini</string>
+    <string name="follow_me_on_twitter">Sledite mi na Twitterju</string>
+    <string name="follow_me_on_weibo">Sledite mi na Weiboju</string>
+    <string name="version">Različica</string>
+    <string name="paste_and_go">Prilepi &amp; pojdi</string>
 </resources>
