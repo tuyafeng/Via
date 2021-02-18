@@ -97,9 +97,9 @@
     <string name="hint_username">Nazwa użytkownika</string>
     <string name="hint_password">Hasło</string>
     <string name="untitled">Bez tytułu</string>
-    <string name="image_auto">Tylko w WiFi</string>
-    <string name="image_on">Zawsze wyłączone</string>
-    <string name="image_off">Zawsze włączone</string>
+    <string name="image_auto">Grafika tylko w WiFi</string>
+    <string name="image_on">Blokuj grafikę</string>
+    <string name="image_off">Wczytuj grafikę</string>
     <string name="title_file_chooser">Wybór pliku</string>
     <string name="import_backup">Importuj zakładki</string>
     <string name="bookmark_export_path">Zakładki zostały wyeksportowane do pliku\n.</string>
@@ -264,7 +264,7 @@
     <string name="find_pre">Poprzedni</string>
     <string name="action_open_in_background">Otwórz w tle</string>
     <string name="cannot_work">Funkcja działa tylko dla \"http\" i \"https\".</string>
-    <string name="action_fullscreen">Pełny ekran</string>
+    <string name="action_fullscreen">Pełny\nekran</string>
     <string name="action_ua">User agent</string>
     <string name="settings_general">Ogólne</string>
     <string name="no_bookmark">Brak zakładek</string>
@@ -280,7 +280,7 @@
     <string name="disable">Wyłączone</string>
     <string name="ui_traditional">Góra i dół</string>
     <string name="ui_simple">Prosty</string>
-    <string name="color_mode_hint">Koloruj pasek narzędziowy i pasek stanu podczas przeglądania.</string><![CDATA[
+    <string name="color_mode_hint">Paski narzędziowe i pasek stanu będą przybierać kolory przeglądanych stron.</string><![CDATA[
 
 
 
@@ -440,4 +440,21 @@
     <string name="delete_account_hint">Usuń konto z serwera</string>
     <string name="delete_account_message">Po przesłaniu prośby o usunięcie konta nastąpi wylogowanie z niego, a następnie zostanie ono wprowadzone w 30-dniowy stan hibernacji. Jeśli w tym czasie się na nie zalogujesz, proces zostanie anulowany. Gdy okres hibernacji minie, konto i wszelkie znajdujące się na nim dane zostaną usunięte.\nWprowadź hasło, aby przesłać prośbę.</string>
     <string name="confirm_to_delete">Potwierdź usunięcie</string>
+    <string name="items_selected">%1d</string>
+    <string name="select_all">Zaznacz wsz.</string>
+    <string name="multi_choice">Zaznacz</string>
+    <plurals name="delete_download_tasks">
+        <item quantity="zero">Nie usunięto żadnych zadań pobierania</item>
+        <item quantity="one">Usunięto 1 zadanie pobierania</item>
+        <item quantity="few">Usunięto %d zadania pobierania</item>
+        <item quantity="other">Usunięto %d zadań pobierania</item>
+    </plurals>
+    <string name="open_source_licenses">Licencje Open source</string>
+    <string name="debugging_info">Szczegóły</string>
+    <string name="join_qq_group">Grupa na QQ</string>
+    <string name="join_telegram_group">Grupa na Telegramie</string>
+    <string name="follow_me_on_twitter">Profil na Twitterze</string>
+    <string name="follow_me_on_weibo">Profil na Weibo</string>
+    <string name="version">Wersja</string>
+    <string name="paste_and_go">Wklej i przejdź</string>
 </resources>
