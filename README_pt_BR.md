@@ -2,8 +2,6 @@
 
 <div align="center"><img src="http://viayoo.com/en/images/logo.png" alt="Via Logo" height="100"/></div>
 
-[English](https://github.com/tuyafeng/Via/blob/master/README.md) | [简体中文](https://github.com/tuyafeng/Via/blob/master/README_zh_CN.md) | [繁體中文](https://github.com/tuyafeng/Via/blob/master/README_zh_TW.md) | Português
-
 ### Introdução
 
 O Navegador Via é um navegador poderoso com os seguintes recursos:
