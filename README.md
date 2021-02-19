@@ -27,3 +27,36 @@ We encourage everyone to help with localization. The following is how to do.
 2. Copy `app/src/main/res/values/strings.xml` to path like `app/src/main/res/values-%(lang)/`, replace `%(lang)` with [*the ISO 639-1 language code*](http://www.loc.gov/standards/iso639-2/php/code_list.php)
 3. Translate `app/src/main/res/values-%(lang)/strings.xml`
 4. Make a Pull Request
+
+### FAQ
+
+**What rendering engine does Via use?**
+
+Via uses the built-int WebView renderer included on the Android platform. On android5.0+ devices, the webview implementation is usually `Android System WebView (com.google.android.webview)`, you can update it in the play store for a better browsing experience. If you want to know the current webview implementation and version of your device, you can click "Settings - About - Version" of Via to get the debugging information which contains the webview information.
+
+**How to disable JavaScript or set a special user agent for a website?**
+
+Open the site, click the magnifying glass or shield icon on the left side of the address bar, and then you can configure it separately.
+
+Or open "Settings-General-Site Configuration" to manually add configuration.
+
+**I don’t want to block ads on a certain site.**
+
+Please refer to the previous, you can turn off ad blocking for the site in the site configuration.
+
+**Why can't Via save the password?**
+
+Unfortunately, Google removed this particular feature from Webview. You can try to use the autofill app(Bitwarden, Keepass, etc) if the Android version of your device is greater than or equal to 8.0.
+
+**Why can't Via scan the QR code?**
+
+There are too many applications that can scan QR codes, and I don’t want to add such a repetitive function. You can scan the qr code using your phone's camera app.
+
+**How to contact you?**
+
+You can contact me on [Twitter](https://twitter.com/Yafeng78600505) and I will reply as soon as possible.
+
+You can also [open an issue](https://github.com/tuyafeng/Via/issues/new) on GitHub, and I will check and reply to issues about once a week.
+
+You can email me [here](mailto:lakor@foxmail.com) if must, but I'm sorry I may not respond.
+

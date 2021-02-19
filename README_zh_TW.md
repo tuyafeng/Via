@@ -2,8 +2,6 @@
 
 <div align="center"><img src="http://viayoo.com/en/images/logo.png" alt="Via Logo" height="100"/></div>
 
-English|[简体中文](https://github.com/tuyafeng/Via/blob/master/README_zh_CN.md)|[繁體中文](https://github.com/tuyafeng/Via/blob/master/README_zh_TW.md)|[Português](https://github.com/tuyafeng/Via/blob/master/README_pt_BR.md)
-
 ### 簡介
 
 Via 瀏覽器是擁有下列特色的強大瀏覽器：
