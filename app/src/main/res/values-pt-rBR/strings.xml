@@ -371,7 +371,7 @@
     <string name="ignore_ssl_error_today">Ignorar erro de SSL hoje</string>
     <string name="block_3rd_party_cookies">Bloquear cookies de terceiros</string>
     <string name="enable_site_conf">Ativar configurações do site para \"%s\"</string>
-    <string name="site_conf">Configuração do site</string>
+    <string name="site_conf">Configurações do site</string>
     <string name="ui_simple_top">parte superior</string>
     <string name="ui_simple_bottom">parte inferior</string>
     <string name="file_does_not_exist">O arquivo não existe</string>
