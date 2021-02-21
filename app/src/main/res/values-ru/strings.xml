@@ -286,8 +286,8 @@
     <string name="operation_hint">Управление жестами, кнопками и т.д.</string>
     <string name="adblock_info">%1$d рекламных объявлений заблокировано, %2$s сэкономлено</string>
     <string name="disable">Отключить</string>
-    <string name="ui_traditional">Раздельный</string>
-    <string name="ui_simple">Совмещённый</string>
+    <string name="ui_traditional">Обычный</string>
+    <string name="ui_simple">Простой</string>
     <string name="color_mode_hint">Изменять цвета панелей под цвет сайта</string>
     <string name="skin_hide_search_part">Скрыть панель поиска</string>
     <string name="set_as_default">Установить браузером по умолчанию?</string>
@@ -372,8 +372,8 @@
     <string name="block_3rd_party_cookies">Блокировать сторонние cookie-файлы</string>
     <string name="enable_site_conf">Свои настройки для сайта \"%s\"</string>
     <string name="site_conf">Настройки сайта</string>
-    <string name="ui_simple_top">Панель вверху</string>
-    <string name="ui_simple_bottom">Панель внизу</string>
+    <string name="ui_simple_top">Вверху</string>
+    <string name="ui_simple_bottom">Внизу</string>
     <string name="file_does_not_exist">Файл не существует</string>
     <string name="dialog_message_from">Сообщение от %s</string>
     <string name="filter_subscriptions">Подписка на списки фильтров</string>
@@ -419,6 +419,7 @@
     <string name="help">Справка</string>
     <string name="learn_more">Узнать больше</string>
     <plurals name="filters">
+        <item quantity="zero">0 фильтров</item>
         <item quantity="one">%d фильтр</item>
         <item quantity="few">%d фильтра</item>
         <item quantity="many">%d фильтров</item>
@@ -460,4 +461,9 @@
     <string name="follow_me_on_weibo">Подписаться на мой Weibo</string>
     <string name="version">Версия</string>
     <string name="paste_and_go">Вставить и перейти</string>
+    <string name="night_filter_for_web_contents">Ночной фильтр содержимого страниц</string>
+    <string name="force_dark_mode_for_web_contents">Принудительный тёмный режим страниц</string>
+    <string name="force_dark_mode_for_web_contents_description">Включён принудительный тёмный режим для содержимого страниц, это может привести к ненормальной работе некоторых из них</string>
+    <string name="require_javascript_enabled">Не будет никакого эффекта, если JavaScript отключён.</string>
+    <string name="keyboard_shortcuts">Горячие клавиши</string>
 </resources>
