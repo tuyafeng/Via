@@ -2,7 +2,7 @@
 
 <div align="center"><img src="http://viayoo.com/en/images/logo.png" alt="Via Logo" height="100"/></div>
 
-English|[简体中文](https://github.com/tuyafeng/Via/blob/master/README_zh_CN.md)|[繁體中文](https://github.com/tuyafeng/Via/blob/master/README_zh_TW.md)|[Português](https://github.com/tuyafeng/Via/blob/master/README_pt_BR.md)
+English | [简体中文](https://github.com/tuyafeng/Via/blob/master/README_zh_CN.md) | [繁體中文](https://github.com/tuyafeng/Via/blob/master/README_zh_TW.md) | [Português](https://github.com/tuyafeng/Via/blob/master/README_pt_BR.md)
 
 ### Introduction
 
@@ -32,7 +32,7 @@ We encourage everyone to help with localization. The following is how to do.
 
 **Which rendering engine does Via use?**
 
-Via uses the built-in WebView renderer included on the Android platform. On Android5.0+ devices, the WebView implementation is usually `Android System WebView (com.google.android.webview)`, you can update it in the Play Store for a better browsing experience. If you want to know the current WebView implementation and version of your device, you can click "Settings - About - Version" of Via to get the debugging information which contains the WebView information.
+Via uses the built-in WebView renderer included on the Android platform. On Android 5.0+ devices, the WebView implementation is usually `Android System WebView (com.google.android.webview)`, you can update it in the Play Store for a better browsing experience. If you want to know the current WebView implementation and version of your device, you can click "Settings - About - Version" of Via to get the debugging information which contains the WebView information.
 
 **How to disable JavaScript or set a special user agent for a website?**
 
@@ -46,7 +46,7 @@ Please refer to the previous question, you can turn off ad blocking for the site
 
 **Why can't Via save the password?**
 
-Unfortunately, Google removed this particular feature from WebView. You can try using the autofill app(Bitwarden, Keepass, etc.) if the Android version of your device is higher than or equal to 8.0.
+Unfortunately, Google removed this particular feature from WebView. You can try using the autofill app(Bitwarden, KeePass, etc.) if the Android version of your device is higher than or equal to 8.0.
 
 **Why can't Via scan the QR code?**
 
