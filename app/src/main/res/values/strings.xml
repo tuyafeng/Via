@@ -456,4 +456,9 @@
     <string name="follow_me_on_weibo">Follow me on Weibo</string>
     <string name="version">Version</string>
     <string name="paste_and_go">Paste &amp; Go</string>
+    <string name="night_filter_for_web_contents">Night filter for web contents</string>
+    <string name="force_dark_mode_for_web_contents">Force dark mode for web contents</string>
+    <string name="force_dark_mode_for_web_contents_description">Force web pages to darken when enabled, it may cause some pages to behave abnormally</string>
+    <string name="require_javascript_enabled">It will not take effect unless JavaScript is enabled.</string>
+    <string name="keyboard_shortcuts">Keyboard shortcuts</string>
 </resources>
