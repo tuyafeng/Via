@@ -2,7 +2,7 @@
 
 <div align="center"><img src="http://viayoo.com/en/images/logo.png" alt="Via Logo" height="100"/></div>
 
-English|[简体中文](https://github.com/tuyafeng/Via/blob/master/README_zh_CN.md)|[繁體中文](https://github.com/tuyafeng/Via/blob/master/README_zh_TW.md)|[Português](https://github.com/tuyafeng/Via/blob/master/README_pt_BR.md)
+English | [简体中文](https://github.com/tuyafeng/Via/blob/master/README_zh_CN.md) | [繁體中文](https://github.com/tuyafeng/Via/blob/master/README_zh_TW.md) | [Português](https://github.com/tuyafeng/Via/blob/master/README_pt_BR.md)
 
 ### Introduction
 
@@ -32,7 +32,7 @@ We encourage everyone to help with localization. The following is how to do.
 
 **What rendering engine does Via use?**
 
-Via uses the built-int WebView renderer included on the Android platform. On android5.0+ devices, the webview implementation is usually `Android System WebView (com.google.android.webview)`, you can update it in the play store for a better browsing experience. If you want to know the current webview implementation and version of your device, you can click "Settings - About - Version" of Via to get the debugging information which contains the webview information.
+Via uses the built-in WebView renderer included on the Android platform. On android 5.0+ devices, the webview implementation is usually `Android System WebView (com.google.android.webview)`, you can update it in the play store for a better browsing experience. If you want to know the current webview implementation and version of your device, you can click "Settings - About - Version" of Via to get the debugging information which contains the webview information.
 
 **How to disable JavaScript or set a special user agent for a website?**
 
