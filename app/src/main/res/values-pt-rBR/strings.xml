@@ -82,12 +82,12 @@
     <string name="google_url">Google</string>
     <string name="sougou_url">Sogou</string>
     <string name="block_ads">Bloquear anúncios</string>
-    <string name="message_untrusted_certificate">O certificado do site não é confiável. Prossiga assim mesmo?</string>
-    <string name="message_date_invalid_certificate">A data do certificado do site é inválida. Prossiga assim mesmo?</string>
-    <string name="message_expired_certificate">O certificado do site expirou. Prossiga assim mesmo?</string>
-    <string name="message_hostname_mismatch_certificate">O certificado do site não corresponde ao nome do hospedeiro. Prossiga assim mesmo?</string>
-    <string name="message_invalid_certificate">O certificado do site é inválido. Prossiga assim mesmo?</string>
-    <string name="message_not_yet_valid_certificate">O certificado do site ainda não é válido. Prossiga assim mesmo?</string>
+    <string name="message_untrusted_certificate">O certificado do site não é confiável. Prosseguir assim mesmo?</string>
+    <string name="message_date_invalid_certificate">A data do certificado do site é inválida. Prosseguir assim mesmo?</string>
+    <string name="message_expired_certificate">O certificado do site expirou. Prosseguir assim mesmo?</string>
+    <string name="message_hostname_mismatch_certificate">O certificado do site não corresponde ao nome do hospedeiro. Prosseguir assim mesmo?</string>
+    <string name="message_invalid_certificate">O certificado do site é inválido. Prosseguir assim mesmo?</string>
+    <string name="message_not_yet_valid_certificate">O certificado do site ainda não é válido. Prosseguir assim mesmo?</string>
     <string name="title_form_resubmission">Reenvio de formulário</string>
     <string name="message_form_resubmission">Deseja reenviar os dados?</string>
     <string name="message_location">\nGostaria de usar sua localização</string>
@@ -109,7 +109,7 @@
     <string name="dialog_message">Mensagem</string>
     <string name="toast_wait_a_minute">Espere um momento&#8230;</string>
     <string name="toast_operation_failed">A operação falhou</string>
-    <string name="toast_operation_done">A operação realizada</string>
+    <string name="toast_operation_done">A operação foi completada</string>
     <string name="volume">Use os botões de volume para rolar</string>
     <string name="msg_intent">Permitir que o site abra seu aplicativo?</string>
     <string name="setting_default">Defina como navegador padrão</string>
@@ -119,7 +119,7 @@
     <string name="incognito_on">Modo anônimo ativado</string>
     <string name="incognito_off">Modo anônimo desativado</string>
     <string name="operation_none">Nenhum</string>
-    <string name="operation_reload">recarregar</string>
+    <string name="operation_reload">Recarregar</string>
     <string name="operation_top">Role para cima</string>
     <string name="operation_bottom">Role para baixo</string>
     <string name="operation_input">URL de entrada</string>
@@ -147,15 +147,15 @@
     <string name="action_translate">Traduzir</string>
     <string name="title_edit_folder">Editar pasta</string>
     <string name="msg_delete_folder">Deseja excluir esta pasta?</string>
-    <string name="desc_suggestion">sugestão</string>
-    <string name="desc_search">localizar na página</string>
-    <string name="desc_reload">recarregar</string>
-    <string name="desc_back">voltar</string>
-    <string name="desc_forward">seguir</string>
-    <string name="desc_home">início</string>
-    <string name="desc_tab">aba</string>
-    <string name="desc_menu">menu</string>
-    <string name="desc_filedic">arquivo</string>
+    <string name="desc_suggestion">Sugestão</string>
+    <string name="desc_search">Localizar na página</string>
+    <string name="desc_reload">Recarregar</string>
+    <string name="desc_back">Voltar</string>
+    <string name="desc_forward">Seguir</string>
+    <string name="desc_home">Início</string>
+    <string name="desc_tab">Aba</string>
+    <string name="desc_menu">Menu</string>
+    <string name="desc_filedic">Arquivo</string>
     <string name="action_mark">Marcar como anúncio</string>
     <string name="dialog_confirm_block">Deseja marcar isso como anúncio?</string>
     <string name="do_not_track">Não rastreie</string>
@@ -165,7 +165,7 @@
     <string name="dialog_sure">Tem certeza de que deseja continuar?</string>
     <string name="action_send_to_launcher">Enviar para a Launcher</string>
     <string name="settings_cloud">Conta</string>
-    <string name="user">Entrar/Inscreva-se</string>
+    <string name="user">Entrar/Inscrever-se</string>
     <string name="user_syns">Sincronizar</string>
     <string name="user_update">Envio</string>
     <string name="wrong_psw">Senha incorreta</string>
@@ -174,7 +174,7 @@
     <string name="syns_success">Sincronização concluída</string>
     <string name="upload_success">Envio concluído</string>
     <string name="log_out">Sair?</string>
-    <string name="crash_info">Algo deu errado :(</string>
+    <string name="crash_info">Algo deu errado. :(</string>
     <string name="crash_restart">Reiniciar</string>
     <string name="crash_close">Fechar</string>
     <string name="crash_upload">Enviar o log de erro</string>
@@ -187,7 +187,7 @@
     <string name="download_completed">Download concluído</string>
     <string name="toast_fullscreen_off">Sair da tela cheia</string>
 
-    <string name="clear_data">Limpar os dados</string>
+    <string name="clear_data">Limpar dados</string>
     <string name="data_cache">Cache</string>
     <string name="data_form_data">Dados do formulário</string>
     <string name="data_history">Histórico</string>
@@ -225,7 +225,7 @@
 
     <string name="already_default">Já foi definido como padrão</string>
 
-    <string name="set_to_default">Será definido como padrão após abrir o link(%s), escolha Via para abrir o link.</string>
+    <string name="set_to_default">Será definido como padrão após abrir o link %s, escolha Via para abrir o link.</string>
 
     <string name="sync_prompt">Ele substituirá seus favoritos e configurações locais atuais. Continuar?</string>
     <string name="upload_prompt">Ele fará o envio dos seus favoritos e configurações locais atuais. Continuar?</string>
@@ -257,7 +257,7 @@
     <string name="skin_bg">Fundo</string>
     <string name="skin_style">Estilo</string>
     <string name="skin_settings">Configurações</string>
-    <string name="set_it_as_homepage">Deseja defini-lo como página inicial?</string>
+    <string name="set_it_as_homepage">Deseja defini-lo como a página inicial?</string>
     <string name="missing_webview">O Android System WebView não está instalado corretamente. Você gostaria de instalar agora?</string>
     <string name="install">Instalar</string>
     <string name="crash_hint">Lamentamos muito que o aplicativo tenha travado.</string>
@@ -371,7 +371,7 @@
     <string name="ignore_ssl_error_today">Ignorar erro de SSL hoje</string>
     <string name="block_3rd_party_cookies">Bloquear cookies de terceiros</string>
     <string name="enable_site_conf">Ativar configurações do site para \"%s\"</string>
-    <string name="site_conf">Configuração do site</string>
+    <string name="site_conf">Configurações do site</string>
     <string name="ui_simple_top">parte superior</string>
     <string name="ui_simple_bottom">parte inferior</string>
     <string name="file_does_not_exist">O arquivo não existe</string>
@@ -439,4 +439,20 @@
     <string name="delete_account_hint">Excluir a conta do servidor</string>
     <string name="delete_account_message">Depois de enviar a solicitação de exclusão, a conta será desconectada e entrará em um período de espera para exclusão de 30 dias. Durante o período de logout, se você entrar na conta novamente e carregar os dados, a solicitação de exclusão será retirada. Após o período de espera expirar, a conta e os dados relacionados serão completamente excluídos do servidor.\NDigite sua senha para enviar a solicitação.</string>
     <string name="confirm_to_delete">Confirme para excluir</string>
+    <string name="items_selected">%1d selecionado</string>
+    <string name="select_all">Selecione todos</string>
+    <string name="multi_choice">Multi-escolha</string>
+    <plurals name="delete_download_tasks">
+        <item quantity="zero">Excluída 0 Tarefa baixada</item>
+        <item quantity="one">Excluída 1 Tarefa baixada</item>
+        <item quantity="other">Excluída %d Tarefas baixadas</item>
+    </plurals>
+    <string name="open_source_licenses">Licenças de código aberto</string>
+    <string name="debugging_info">Informações de depuração</string>
+    <string name="join_qq_group">Junte-se ao grupo do QQ</string>
+    <string name="join_telegram_group">Junte-se ao grupo do Telegram</string>
+    <string name="follow_me_on_twitter">Siga-me no Twitter</string>
+    <string name="follow_me_on_weibo">Siga-me no Weibo</string>
+    <string name="version">Versão</string>
+    <string name="paste_and_go">Colar &amp; ir</string>
 </resources>

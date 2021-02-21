@@ -2,7 +2,7 @@
 
 <div align="center"><img src="http://viayoo.com/en/images/logo.png" alt="Via Logo" height="100"/></div>
 
-English|[简体中文](https://github.com/tuyafeng/Via/blob/master/README_zh_CN.md)|[繁體中文](https://github.com/tuyafeng/Via/blob/master/README_zh_TW.md)|[Português](https://github.com/tuyafeng/Via/blob/master/README_pt_BR.md)
+English | [简体中文](https://github.com/tuyafeng/Via/blob/master/README_zh_CN.md) | [繁體中文](https://github.com/tuyafeng/Via/blob/master/README_zh_TW.md) | [Português](https://github.com/tuyafeng/Via/blob/master/README_pt_BR.md)
 
 ### Introduction
 
@@ -27,3 +27,36 @@ We encourage everyone to help with localization. The following is how to do.
 2. Copy `app/src/main/res/values/strings.xml` to path like `app/src/main/res/values-%(lang)/`, replace `%(lang)` with [*the ISO 639-1 language code*](http://www.loc.gov/standards/iso639-2/php/code_list.php)
 3. Translate `app/src/main/res/values-%(lang)/strings.xml`
 4. Make a Pull Request
+
+### FAQ
+
+**Which rendering engine does Via use?**
+
+Via uses the built-in WebView renderer included on the Android platform. On Android 5.0+ devices, the WebView implementation is usually `Android System WebView (com.google.android.webview)`, you can update it in the Play Store for a better browsing experience. If you want to know the current WebView implementation and version of your device, you can click "Settings - About - Version" of Via to get the debugging information which contains the WebView information.
+
+**How to disable JavaScript or set a special user agent for a website?**
+
+Open the site, click the magnifying glass or shield icon on the left side of the address bar, and then you can configure it separately.
+
+Or open "Settings-General-Site Configuration" to add configuration manually.
+
+**I don’t want to block ads on a certain site.**
+
+Please refer to the previous question, you can turn off ad blocking for the site in the site configuration.
+
+**Why can't Via save the password?**
+
+Unfortunately, Google removed this particular feature from WebView. You can try using the autofill app(Bitwarden, KeePass, etc.) if the Android version of your device is higher than or equal to 8.0.
+
+**Why can't Via scan the QR code?**
+
+There are too many applications that can scan QR codes, and I don’t want to add such a repetitive function. You can scan the QR code with your phone's camera app.
+
+**How to contact you?**
+
+You can contact me on [Twitter](https://twitter.com/Yafeng78600505) and I will reply as soon as possible.
+
+You can also [open an issue](https://github.com/tuyafeng/Via/issues/new) on GitHub, and I will check and reply to issues about once a week.
+
+You can email me [here](mailto:lakor@foxmail.com) if must, but I'm sorry I may not respond.
+

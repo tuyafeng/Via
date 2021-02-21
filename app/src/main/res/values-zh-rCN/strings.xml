@@ -9,7 +9,7 @@
     <string name="action_bookmarks">书签</string>
     <string name="bookmarks_file">书签</string>
     <string name="action_add_bookmark">添加书签</string>
-    <string name="action_night">夜间</string>
+    <string name="action_night">夜间模式</string>
     <string name="action_copy">复制链接</string>
     <string name="action_image_off">关闭图片</string>
     <string name="settings">设置</string>
@@ -433,4 +433,9 @@
     <string name="follow_me_on_weibo">在微博上关注我</string>
     <string name="version">版本</string>
     <string name="paste_and_go">粘贴并前往</string>
+    <string name="night_filter_for_web_contents">网页蒙版滤镜</string>
+    <string name="force_dark_mode_for_web_contents">强制网页暗色</string>
+    <string name="force_dark_mode_for_web_contents_description">为网页启用强制暗色，这可能会导致部分页面表现异常</string>
+    <string name="require_javascript_enabled">这将仅在启用 JavaScript 时生效。</string>
+    <string name="keyboard_shortcuts">键盘快捷键</string>
 </resources>
