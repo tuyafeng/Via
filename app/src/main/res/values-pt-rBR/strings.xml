@@ -455,4 +455,9 @@
     <string name="follow_me_on_weibo">Siga-me no Weibo</string>
     <string name="version">Versão</string>
     <string name="paste_and_go">Colar &amp; ir</string>
+    <string name="night_filter_for_web_contents">Filtro noturno para conteúdo da Web</string>
+    <string name="force_dark_mode_for_web_contents">Forçar Modo escuro para conteúdo da Web</string>
+    <string name="force_dark_mode_for_web_contents_description">Forçar as páginas da Web a escurecer quando ativado, pode fazer com que algumas páginas se comportem de forma anormal</string>
+    <string name="require_javascript_enabled">Ele não terá efeito a menos que o JavaScript esteja ativado.</string>
+    <string name="keyboard_shortcuts">Tecla de atalho</string>
 </resources>
