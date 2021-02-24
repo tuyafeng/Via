@@ -456,4 +456,9 @@
     <string name="follow_me_on_weibo">Folge mir auf Weibo</string>
     <string name="version">Version</string>
     <string name="paste_and_go">Einfügen &amp; Los</string>
+    <string name="night_filter_for_web_contents">Nachtfilter für Webinhalte</string>
+    <string name="force_dark_mode_for_web_contents">Dunklen Modus für Webinhalte erzwingen</string>
+    <string name="force_dark_mode_for_web_contents_description">Aktiviert das Erzwingen zum Abdunkeln von Webseiten, kann aber zu ungewöhnlichem Verhalten einiger Webseiten führen.</string>
+    <string name="require_javascript_enabled">Dies wird erst wirksam werden, wenn JavaScript aktiviert wurde.</string>
+    <string name="keyboard_shortcuts">Tastatur-Kurzbefehl</string>
 </resources>
