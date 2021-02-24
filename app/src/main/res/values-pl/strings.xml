@@ -386,7 +386,7 @@
     <string name="update_filter_subscription_failed">Aktualizacja list filtrów nie powiodła się (%s).</string>
     <string name="download_notification">Powiadomienie o pobieraniu</string>
     <string name="has_not_been_updated">nieaktualna</string>
-    <string name="long_ago">dawno, dawno temu</string>
+    <string name="long_ago">dawno temu</string>
     <string name="just_now">przed chwilą</string>
     <plurals name="minutes_ago">
         <item quantity="one">minutę temu</item>
@@ -457,4 +457,9 @@
     <string name="follow_me_on_weibo">Profil na Weibo</string>
     <string name="version">Wersja</string>
     <string name="paste_and_go">Wklej i przejdź</string>
+    <string name="night_filter_for_web_contents">Ciemny motyw zawartości stron</string>
+    <string name="force_dark_mode_for_web_contents">Wymuszaj ciemny motyw zawartości stron</string>
+    <string name="force_dark_mode_for_web_contents_description">Uwaga: Niektóre strony mogą wtedy działać i wyglądać nie do końca poprawnie.</string>
+    <string name="require_javascript_enabled">Wymagana jest włączona obsługa JavaScript.</string>
+    <string name="keyboard_shortcuts">Skróty klawiszowe</string>
 </resources>
