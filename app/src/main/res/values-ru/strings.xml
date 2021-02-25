@@ -463,7 +463,7 @@
     <string name="paste_and_go">Вставить и перейти</string>
     <string name="night_filter_for_web_contents">Ночной фильтр содержимого страниц</string>
     <string name="force_dark_mode_for_web_contents">Принудительный тёмный режим страниц</string>
-    <string name="force_dark_mode_for_web_contents_description">Включён принудительный тёмный режим для содержимого страниц, это может привести к ненормальной работе некоторых из них</string>
+    <string name="force_dark_mode_for_web_contents_description">Включение принудительного тёмного режима для содержимого страниц может привести к ненормальной работе некоторых из них</string>
     <string name="require_javascript_enabled">Не будет никакого эффекта, если JavaScript отключён.</string>
     <string name="keyboard_shortcuts">Горячие клавиши</string>
 </resources>
