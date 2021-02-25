@@ -325,7 +325,7 @@
     <string name="adblock_info">%1$d件の広告がブロックされ、%2$s節約しました</string>
     <string name="color_mode_hint">自動的に操作バーの色を変更する</string>
     <string name="cannot_work">「http(s)」で始まるURLのみで動作します。</string>
-    <string name="toolbar_settings_hint">下のボタンをクリック（スライド）して長押し（スライド）ジェスチャーを設定し、長く押すと設定されたジェスチャーが表示されます。</string>
+    <string name="toolbar_settings_hint">下の各アイコンをタップするとジェスチャーを設定できます。長押しすると設定中のジェスチャーが表示されます。</string>
     <string name="skin_hide_search_part">検索ボックスを非表示にする</string>
     <string name="res_sniffer">リソース検知</string>
     <string name="search_by_pic">画像で検索</string>
