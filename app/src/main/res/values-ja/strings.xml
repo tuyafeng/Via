@@ -28,7 +28,64 @@
     <string name="orientation_landscape">横向き</string>
     <string name="agent">User Agent</string>
     <string name="home">ホームページ</string>
-    <string name="fullscreen">操作バーを自動的に非表示にする</string>
+    
+    <!-- ナイトモード設定 -->
+    <string name="night_filter_for_web_contents">ウェブページへのフィルター</string>
+    <string name="force_dark_mode_for_web_contents">ウェブページへのナイトモードを強制する</string>
+    <string name="force_dark_mode_for_web_contents_description">強制的にウェブページにナイトモードを適用します。一部のウェブページで不具合が発生する可能性が有ります。</string>
+    
+    <!-- ナビゲーションバーの非表示設定 -->
+    <string name="fullscreen">ナビゲーションバーを自動的に非表示にする</string>
+  　<string name="fullscreen_0">無効（常に表示）</string>
+    <string name="fullscreen_1">スクロールで非表示/表示</string>
+    <string name="fullscreen_2">タップで非表示/表示</string>
+    
+    <!-- ナビゲーションバーのレイアウト -->
+    <string name="ui_mode">ナビゲーションバーのレイアウト</string>
+    <string name="ui_auto">自動</string>
+    <string name="ui_traditional">デフォルト</string>
+    <string name="ui_simple_top">上部に配置</string>
+    <string name="ui_simple_bottom">下部に配置</string>
+    
+    <!-- ユーザーエージェントの設定 -->
+    <string name="title_user_agent">User Agent</string>
+    <string name="agent_chrome">Chrome (PC)</string>
+    <string name="agent_ie">IE 11 (PC)</string>
+    <string name="agent_iphone">iPhone</string>
+    <string name="agent_symbian">Symbian</string>
+    <string name="agent_custom">カスタム設定</string>
+    
+    <!-- Via について -->
+    <string name="version">バージョン情報</string>
+    <string name="join_telegram_group">Telegramグループに参加する</string>
+    <string name="follow_me_on_twitter">Twitterをフォローする</string>
+    <string name="open_source_licenses">オープンソースライセンス</string>
+    <string name="debugging_info">デバッグ情報</string>
+    <string name="join_qq_group">QQグループに参加する</string>
+　　 <string name="follow_me_on_weibo">Weiboをフォローする</string>
+    <string name="help_us_translate">翻訳に協力する (GitHub)</string>
+
+    <!-- ダウンロード --> 
+    <string name="no_download_tasks">ダウンロードアイテムがありません</string>
+    <string name="action_delete_dl_task">ダウンロードアイテムを削除</string>
+    <string name="action_re_download">再度ダウンロード</string>
+    <string name="action_copy_download_link">アドレスをコピー</string>
+    <string name="download_failed">ダウンロードに失敗しました</string>
+    <string name="view_downloads">開く</string>
+    <string name="message_delete_downloading_task">ダウンロード済みファイルが削除されます。よろしいですか？</string>
+    <string name="message_delete_downloading_task">ファイルも含めて削除されます。復元は出来ないので注意してください。</string>
+    <string name="message_delete_downloaded_task">このアイテムを削除しますか？</string>
+    <string name="items_selected">%1d アイテム選択中</string>
+    <string name="select_all">すべて選択</string>
+    <string name="multi_choice">複数項目選択</string>
+    <string name="message_delete_downloaded_file">ダウンロードしたファイルも削除する</string>
+    <string name="confirm_to_delete">削除の確認</string>
+    <plurals name="delete_download_tasks">
+        <item quantity="zero">0 アイテムを削除しました</item>
+        <item quantity="one">1 アイテムを削除しました</item>
+        <item quantity="other">%d アイテムを削除しました</item>
+    </plurals>
+    
     <string name="java">JavaScript を有効</string>
     <string name="download">ダウンロード先</string>
     <string name="size">フォントサイズ</string>
@@ -37,14 +94,10 @@
     <string name="action_delete">削除</string>
     <string name="action_delete_all">全て削除</string>
     <string name="action_blank">空白のページ</string>
-    <string name="agent_chrome">Chrome (PC)</string>
-    <string name="agent_ie">IE 11 (PC)</string>
-    <string name="agent_iphone">iPhone</string>
-    <string name="agent_symbian">Symbian</string>
-    <string name="agent_custom">カスタム</string>
+
     <string name="dialog_download">ダウンロードしますか？</string>
     <string name="title_warning">警告</string>
-    <string name="title_user_agent">User Agent</string>
+
     <string name="title_custom_homepage">ページを設定</string>
     <string name="action_webpage">特定のページ</string>
     <string name="size_largest">最大</string>
@@ -99,7 +152,7 @@
     <string name="toast_wait_a_minute">しばらくお待ちください&#8230;</string>
     <string name="toast_operation_failed">失敗しました</string>
     <string name="volume">音量キーでスクロール</string>
-    <string name="setting_default">既定のブラウザにする</string>
+    <string name="setting_default">デフォルトのブラウザにする</string>
     <string name="toast_clear_defaults">設定を消去してください</string>
     <string name="toast_copy_url_successful">アドレスをコピーしました</string>
     <string name="toast_copy_text_successful">テキストをコピーしました</string>
@@ -168,11 +221,7 @@
     <string name="crash_close">終了</string>
     <string name="crash_upload">エラーを報告</string>
     <string name="upload_completed">報告成功 :)</string>
-    <string name="ui_mode">操作バーのレイアウト</string>
-    <string name="ui_auto">自動</string>
-    <string name="ui_traditional">デフォルト</string>
-    <string name="ui_simple_top">上部に配置</string>
-    <string name="ui_simple_bottom">下部に配置</string>
+
     <string name="addon_download">ダウンロードツール</string>
     <string name="quick_back">戻る時に再読み込みをしない</string>
     <string name="open_with">開く&#8230;</string>
@@ -208,12 +257,12 @@
 
     <string name="empty_hint">表示できる項目はありません</string>
 
-    <string name="network_log">接続ログ</string>
+    <string name="network_log">ネットワークログ</string>
     <string name="catalog">カタログ</string>
 
     <string name="conn_timeout">接続がタイムアウトしました</string>
 
-    <string name="already_default">既定のブラウザに設定されています</string>
+    <string name="already_default">デフォルトのブラウザに設定されています</string>
 
     <string name="set_to_default">設定を適用するには Via で %s を開いてください</string>
 
@@ -231,15 +280,12 @@
     <string name="storage_permission">ストレージ：ファイルのダウンロード、ブックマークの保存のために使用しています。</string>
     <string name="location_permission">位置情報：Webサイトが位置情報を取得することを許可するため（地図、天気予報など）に使用しています。</string>
     <string name="log_page_hint">アドレスもしくはドメインをコピーし %1$s に貼り付けて広告ブロックリストを作成できます。</string>
-    <string name="fullscreen_0">無効（常に表示）</string>
-    <string name="fullscreen_1">スクロールで非表示/表示</string>
-    <string name="fullscreen_2">タップで非表示/表示</string>
+
     <string name="settings_script">スクリプト</string>
     <string name="get_more_script">スクリプトの入手</string>
     <string name="add_script">スクリプトの追加</string>
     <string name="script_url">ドメインまたは* （*は全て）</string>
     <string name="script_code">コード (JavaScript)</string>
-    <string name="help_us_translate">翻訳に協力する</string>
     <string name="skin_style">スタイル</string>
     <string name="official_website">公式サイト</string>
     <string name="set_it_as_homepage">ホームページに設定しますか？</string>
@@ -279,7 +325,7 @@
     <string name="adblock_info">%1$d件の広告がブロックされ、%2$s節約しました</string>
     <string name="color_mode_hint">自動的に操作バーの色を変更する</string>
     <string name="cannot_work">「http(s)」で始まるURLのみで動作します。</string>
-    <string name="toolbar_settings_hint">下のボタンをクリック（スライド）して長押し（スライド）ジェスチャーを設定し、長く押すと設定されたジェスチャーが表示されます。</string>
+    <string name="toolbar_settings_hint">下の各アイコンをタップするとジェスチャーを設定できます。長押しすると設定中のジェスチャーが表示されます。</string>
     <string name="skin_hide_search_part">検索ボックスを非表示にする</string>
     <string name="res_sniffer">リソース検知</string>
     <string name="search_by_pic">画像で検索</string>
@@ -326,19 +372,12 @@
     <string name="message_not_yet_valid_certificate">このサイトの証明書はまだ有効ではありません。続行しますか？</string>
     <string name="bookmarks_data_to_long">ブックマークデータのサイズが大きすぎるため、アップロードできません。その他のデータはアップロードされます。続けますか？</string>
     <string name="restore_tabs_hint_settings">シークレットモードになったため、タブは復元されません。</string>
-    <string name="night_css_enabled">Webページはナイトモードで表示されています。</string>
-    <string name="night_css_disabled">Webページはナイトモードで表示されていません。</string>
+    <string name="night_css_enabled"ウェブページはナイトモードで表示されています。</string>
+    <string name="night_css_disabled">ウェブページはナイトモードで表示されていません。</string>
     <string name="ignore_secondary_ssl_error">セカンダリSSLエラーを無視する</string>
     <string name="powerful_cache">ハイパーキャッシュ</string>
-    <string name="web_page_debug">Webページのデバッグを有効にする</string>
+    <string name="web_page_debug">ウェブページのデバッグを有効にする</string>
     <string name="web_page_debug_info">開発者オプションにてUSBデバッグを有効にした状態でPCに接続し、PCのChromeで\"chrome://inspect\"を開いてください。</string>
-    <string name="no_download_tasks">ダウンロードタスクがありません</string>
-    <string name="action_delete_dl_task">ファイルを削除</string>
-    <string name="action_re_download">再度ダウンロード</string>
-    <string name="action_copy_download_link">アドレスをコピー</string>
-    <string name="download_failed">ダウンロードに失敗しました</string>
-    <string name="view_downloads">開く</string>
-    <string name="message_delete_downloading_task">ダウンロード済みファイルが削除されます。よろしいですか？</string>
     <string name="block_popup_message">ポップアップをブロックしました</string>
     <string name="allow_popup">今回のみ許可</string>
     <string name="system_download_manager">デフォルト</string>
@@ -401,4 +440,7 @@
     <string name="enable_built_in_filters">デフォルトのブロックフィルターを適用する</string>
     <string name="enable_built_in_filters_description">デフォルトのフィルターは一般的な広告のみをブロックします。</string>
     <string name="update">アップデート</string>
+    
+    <string name="require_javascript_enabled">JavaScriptが有効になってないと有効になりません。</string>
+    <string name="keyboard_shortcuts">キーボードショートカット</string>
 </resources>
