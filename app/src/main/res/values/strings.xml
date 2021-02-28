@@ -461,4 +461,5 @@
     <string name="force_dark_mode_for_web_contents_description">Force web pages to darken when enabled, it may cause some pages to behave abnormally</string>
     <string name="require_javascript_enabled">It will not take effect unless JavaScript is enabled.</string>
     <string name="keyboard_shortcuts">Keyboard shortcuts</string>
+    <string name="export_data_description">Export bookmarks, settings, scripts and ad filters</string>
 </resources>
