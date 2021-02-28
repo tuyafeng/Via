@@ -338,9 +338,9 @@
     <string name="disable_restore">Don\'t restore</string>
     <string name="data_file">Data export</string>
     <string name="bookmarks_data_to_long">Bookmarks data is too big to upload, but other data will be uploaded normally. Continue?</string>
-    <string name="restore_tabs_hint_settings">You\'ve gone incognito. Tabs will not be restored.</string>
-    <string name="night_css_enabled">Enabled dark operation in \"Night Mode\"</string>
-    <string name="night_css_disabled">Disabled dark operation in \"Night Mode\"</string>
+    <string name="restore_tabs_hint_settings">Tabs will not be restored when you are in \"Incognito mode\".</string>
+    <string name="night_css_enabled">Enabled dark operation in \"Night mode\"</string>
+    <string name="night_css_disabled">Disabled dark operation in \"Night mode\"</string>
     <string name="ignore_secondary_ssl_error">Ignore secondary SSL error</string>
     <string name="powerful_cache">Hyper cache</string>
     <string name="web_page_debug">Enable web page debugging</string>
@@ -461,4 +461,7 @@
     <string name="force_dark_mode_for_web_contents_description">Force web pages to darken when enabled, it may cause some pages to behave abnormally</string>
     <string name="require_javascript_enabled">It will not take effect unless JavaScript is enabled.</string>
     <string name="keyboard_shortcuts">Keyboard shortcuts</string>
+    <string name="export_data_description">Export bookmarks, settings, scripts and ad filters</string>
+    <string name="language">Language</string>
+    <string name="restart_to_take_effect">This will take effect the next time you open the app, do you want to restart to take effect immediately?</string>
 </resources>

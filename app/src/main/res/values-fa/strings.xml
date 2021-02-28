@@ -233,7 +233,7 @@
     <string name="action_log">گزاش شبکه</string>
     <string name="check_permission">دسترسی رد شد. آیا میخواهید از تنظیمات فعال کنید؟</string>
     <string name="need_permission_hint">ویا برای کارکردن به دسترسی های زیر نیاز دارد:\n\n</string>
-    <string name="storage_permission">حافظه: برای  دانلود فایل و وارد کردن / صادر کردن نشانک ها و ...\n\n</string>
+    <string name="storage_permission">حافظه: برای  دانلود فایل و وارد کردن / صادر کردن نشانک ها و …\n\n</string>
     <string name="location_permission">موفعیت مکانی: برای سابت هایی مثل نقشه گوگل, این عملکرد به صورت پیشفرض غیرفعال است. وقتی فعال شد, یک پنچره پاپ آپ به شما نمایش داده میشود و در خواست میکنید که اجازه بدهید.\n\n</string>
     <string name="force_cancel">بستن اجباری</string>
     <string name="restore_tabs_hint">آیا می خواهید برگه های بسته نشده را از جلسه گذشته بازیابی کنید؟</string>
