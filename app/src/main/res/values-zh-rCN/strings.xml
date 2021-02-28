@@ -439,4 +439,6 @@
     <string name="require_javascript_enabled">这将仅在启用 JavaScript 时生效。</string>
     <string name="keyboard_shortcuts">键盘快捷键</string>
     <string name="export_data_description">导出书签、设置、脚本和广告规则</string>
+    <string name="language">语言</string>
+    <string name="restart_to_take_effect">这将在下次启动应用时生效，您希望立即重启应用以生效吗？</string>
 </resources>
