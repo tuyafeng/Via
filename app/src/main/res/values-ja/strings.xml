@@ -72,7 +72,6 @@
     <string name="action_copy_download_link">アドレスをコピー</string>
     <string name="download_failed">ダウンロードに失敗しました</string>
     <string name="view_downloads">開く</string>
-    <string name="message_delete_downloading_task">ダウンロード済みファイルが削除されます。よろしいですか？</string>
     <string name="message_delete_downloading_task">ファイルも含めて削除されます。復元は出来ないので注意してください。</string>
     <string name="message_delete_downloaded_task">このアイテムを削除しますか？</string>
     <string name="items_selected">%1d アイテム選択中</string>
@@ -372,7 +371,7 @@
     <string name="message_not_yet_valid_certificate">このサイトの証明書はまだ有効ではありません。続行しますか？</string>
     <string name="bookmarks_data_to_long">ブックマークデータのサイズが大きすぎるため、アップロードできません。その他のデータはアップロードされます。続けますか？</string>
     <string name="restore_tabs_hint_settings">シークレットモードになったため、タブは復元されません。</string>
-    <string name="night_css_enabled"ウェブページはナイトモードで表示されています。</string>
+    <string name="night_css_enabled">ウェブページはナイトモードで表示されています。</string>
     <string name="night_css_disabled">ウェブページはナイトモードで表示されていません。</string>
     <string name="ignore_secondary_ssl_error">セカンダリSSLエラーを無視する</string>
     <string name="powerful_cache">ハイパーキャッシュ</string>
