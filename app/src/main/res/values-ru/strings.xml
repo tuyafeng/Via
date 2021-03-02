@@ -466,4 +466,7 @@
     <string name="force_dark_mode_for_web_contents_description">Включение принудительного тёмного режима для содержимого страниц может привести к ненормальной работе некоторых из них</string>
     <string name="require_javascript_enabled">Не будет никакого эффекта, если JavaScript отключён.</string>
     <string name="keyboard_shortcuts">Горячие клавиши</string>
+    <string name="export_data_description">Экспорт закладок, настроек, скриптов и фильтров рекламы</string>
+    <string name="language">Язык</string>
+    <string name="restart_to_take_effect">Изменение вступит в силу при следующем запуске приложения. Перезапустить его сейчас?</string>
 </resources>
