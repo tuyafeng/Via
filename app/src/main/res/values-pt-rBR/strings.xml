@@ -460,4 +460,5 @@
     <string name="force_dark_mode_for_web_contents_description">Forçar as páginas da Web a escurecer quando ativado, pode fazer com que algumas páginas se comportem de forma anormal</string>
     <string name="require_javascript_enabled">Ele não terá efeito a menos que o JavaScript esteja ativado.</string>
     <string name="keyboard_shortcuts">Tecla de atalho</string>
+    <string name="export_data_description">Exportar favoritos, configurações, scripts e filtros de anúncios</string>
 </resources>
