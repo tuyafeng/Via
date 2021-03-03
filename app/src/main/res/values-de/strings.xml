@@ -338,9 +338,9 @@
     <string name="disable_restore">Nicht wiederherstellen</string>
     <string name="data_file">Daten-Export</string>
     <string name="bookmarks_data_to_long">Lesezeichen sind zu groß für das Hochladen, aber andere Daten sollte normal hochgeladen werden. Fortfahren?</string>
-    <string name="restore_tabs_hint_settings">Sie sind jetzt inkognito. Tabs werden nicht wiederhergestellt.</string>
-    <string name="night_css_enabled">Dunkelbetrieb im Nachtmodus aktiviert</string>
-    <string name="night_css_disabled">Dunkelbetrieb im Nachtmodus deaktiviert</string>
+    <string name="restore_tabs_hint_settings">Tabs werden nicht wiederhergestellt, wenn Sie im \"Inkognito-Modus\" sind.</string>
+    <string name="night_css_enabled">Dunkelbetrieb im \"Nachtmodus\" aktiviert</string>
+    <string name="night_css_disabled">Dunkelbetrieb im \"Nachtmodus\" deaktiviert</string>
     <string name="ignore_secondary_ssl_error">Sekundäre SSL Fehler ignorieren</string>
     <string name="powerful_cache">Hyper Zwischenspeicher</string>
     <string name="web_page_debug">Webseiten-Debugger aktivieren</string>
@@ -461,4 +461,7 @@
     <string name="force_dark_mode_for_web_contents_description">Aktiviert das Erzwingen zum Abdunkeln von Webseiten, kann aber zu ungewöhnlichem Verhalten einiger Webseiten führen.</string>
     <string name="require_javascript_enabled">Dies wird erst wirksam werden, wenn JavaScript aktiviert wurde.</string>
     <string name="keyboard_shortcuts">Tastatur-Kurzbefehl</string>
+    <string name="export_data_description">Lesezeichen, Einstellungen, Skripte und Ad-Filter exportieren</string>
+    <string name="language">Sprache</string>
+    <string name="restart_to_take_effect">Dies wird erst beim nächsten Start der App wirksam. Wollen Sie hierzu nun umgehend neu starten?</string>
 </resources>
