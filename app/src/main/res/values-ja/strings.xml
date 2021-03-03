@@ -63,7 +63,7 @@
     <string name="debugging_info">デバッグ情報</string>
     <string name="join_qq_group">QQグループに参加する</string>
 　　 <string name="follow_me_on_weibo">Weiboをフォローする</string>
-    <string name="help_us_translate">翻訳に協力する (GitHub)</string>
+    <string name="help_us_translate">翻訳に協力する・不具合報告 (GitHub)</string>
 
     <!-- ダウンロード --> 
     <string name="no_download_tasks">ダウンロードアイテムがありません</string>
