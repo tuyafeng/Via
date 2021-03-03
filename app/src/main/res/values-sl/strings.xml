@@ -313,7 +313,7 @@
     <string name="empty_username_info">Vnesi uporabniško ime</string>
     <string name="empty_password_info">Vnesi geslo</string>
     <string name="offline_page_hint">To so shranjene spletne strani. Odprete jih lahko tudi, ko ste brez povezave.</string>
-    <string name="history_page_hint_when_incognito">Ste v zasebnem načinu. Zgodovina brskanja se ne bo beležila.</string>
+    <string name="history_page_hint_when_incognito">Zgodovina brskanja se ne bo beležila, ko ste v zasebnem načinu.</string>
     <string name="action_preview">Predogled</string>
     <string name="action_page_info">Informacije o strani</string>
     <string name="page_info_title">Naslov:</string>
@@ -338,7 +338,7 @@
     <string name="disable_restore">Ne obnovi</string>
     <string name="data_file">Izvoz podatkov</string>
     <string name="bookmarks_data_to_long">Podatki z zaznamki so preveliki za nalaganje, ostali podatki pa bodo ustrezno naloženi. Želite nadaljevati?</string>
-    <string name="restore_tabs_hint_settings">Ste v zasebnem načinu. Zavihki ne bodo obnovljeni.</string>
+    <string name="restore_tabs_hint_settings">Zavihki ne bodo obnovljeni, ko ste v zasebnem načinu.</string>
     <string name="night_css_enabled">Omogočeno temno delovanje v nočnem načinu</string>
     <string name="night_css_disabled">Onemogočeno temno delovanje v nočnem načinu</string>
     <string name="ignore_secondary_ssl_error">Prezri sekundarno napako SSL</string>
@@ -466,4 +466,12 @@
     <string name="follow_me_on_weibo">Sledite mi na Weiboju</string>
     <string name="version">Različica</string>
     <string name="paste_and_go">Prilepi &amp; pojdi</string>
+    <string name="night_filter_for_web_contents">Nočni filter za spletne vsebine</string>
+    <string name="force_dark_mode_for_web_contents">Vsili temno delovanje za spletne vsebine</string>
+    <string name="force_dark_mode_for_web_contents_description">Ob vklopu prisili spletne strani, da se zatemnijo, kar lahko povzroči neobičajno delovanje nekaterih strani</string>
+    <string name="require_javascript_enabled">To bo začelo učinkovati, ko bo omogočen JavaScript.</string>
+    <string name="keyboard_shortcuts">Bližnjice na tipkovnici</string>
+    <string name="export_data_description">Izvozi zaznamke, nastavitve, skripte in filtre oglasov</string>
+    <string name="language">Jezik</string>
+    <string name="restart_to_take_effect">To bo začelo učinkovati, ko boste naslednjič zagnali aplikacijo. Jo želite ponovno zagnati za takojšnje učinkovanje?</string>
 </resources>
