@@ -112,7 +112,7 @@
     <string name="toast_operation_done">செயல்பாடு முடிந்தது</string>
     <string name="volume">உருட்ட தொகுதி விசைகளைப் பயன்படுத்தவும்</string>
     <string name="msg_intent">உங்கள் பயன்பாட்டைத் திறக்க வலைத்தளத்தை அனுமதிக்கவா?</string>
-    <string name="setting_default">இயல்புநிலை உலாவியாக அமைக்கவும்</string>
+    <string name="setting_default">இயல்புநிலை உலாவியாக அமை</string>
     <string name="toast_clear_defaults">இயல்புநிலைகளை அழிக்கவும்</string>
     <string name="toast_copy_url_successful">இணைப்பு வெற்றிகரமாக நகலெடுக்கப்பட்டது</string>
     <string name="toast_copy_text_successful">உரை வெற்றிகரமாக நகலெடுக்கப்பட்டது</string>
