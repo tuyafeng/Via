@@ -461,4 +461,6 @@
     <string name="require_javascript_enabled">Ele não terá efeito a menos que o JavaScript esteja ativado.</string>
     <string name="keyboard_shortcuts">Tecla de atalho</string>
     <string name="export_data_description">Exportar favoritos, configurações, scripts e filtros de anúncios</string>
+    <string name="language">Idioma</string>
+    <string name="restart_to_take_effect">Isso só terar efeito na próxima vez que você abrir o aplicativo, você deseja reiniciar para entrar imediatamente?</string>
 </resources>
