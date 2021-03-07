@@ -26,7 +26,7 @@
     <string name="donate">Пожертвование</string>
     <string name="donate_details">Если вам нравится приложение, можете сделать пожертвование:\nAlipay: 2376688759@qq.com\nPayPal: wiar1824@gmail.com</string>
     <string name="orientation">Ориентация экрана</string>
-    <string name="orientation_system">Системная</string>
+    <string name="orientation_system">Как в системе</string>
     <string name="orientation_auto">Автоповорот</string>
     <string name="orientation_portrait">Портретная</string>
     <string name="orientation_landscape">Альбомная</string>
@@ -286,7 +286,7 @@
     <string name="operation_hint">Управление жестами, кнопками и т.д.</string>
     <string name="adblock_info">%1$d рекламных объявлений заблокировано, %2$s сэкономлено</string>
     <string name="disable">Отключить</string>
-    <string name="ui_traditional">Обычный</string>
+    <string name="ui_traditional">Раздельный</string>
     <string name="ui_simple">Простой</string>
     <string name="color_mode_hint">Изменять цвета панелей под цвет сайта</string>
     <string name="skin_hide_search_part">Скрыть панель поиска</string>
@@ -372,8 +372,8 @@
     <string name="block_3rd_party_cookies">Блокировать сторонние cookie-файлы</string>
     <string name="enable_site_conf">Свои настройки для сайта \"%s\"</string>
     <string name="site_conf">Настройки сайта</string>
-    <string name="ui_simple_top">Вверху</string>
-    <string name="ui_simple_bottom">Внизу</string>
+    <string name="ui_simple_top">Панель вверху</string>
+    <string name="ui_simple_bottom">Панель внизу</string>
     <string name="file_does_not_exist">Файл не существует</string>
     <string name="dialog_message_from">Сообщение от %s</string>
     <string name="filter_subscriptions">Подписка на списки фильтров</string>
