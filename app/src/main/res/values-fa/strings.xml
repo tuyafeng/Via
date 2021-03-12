@@ -375,7 +375,7 @@
         <item quantity="other">%d فیلتر</item>
     </plurals>
     <string name="updated_">بروزرسانی شد %1$s</string>
-    <string name="filter_subscription_info">%1$s, %1$s</string>
+    <string name="filter_subscription_info">%1$s, %2$s</string>
     <string name="enable_built_in_filters">فعال کردن فیلترهای داخلی</string>
     <string name="enable_built_in_filters_description">فیلترهای داخلی فقط تبلیغات رایج را مسدود می کنند</string>
     <string name="update">بروزرسانی</string>

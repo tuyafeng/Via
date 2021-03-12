@@ -376,14 +376,13 @@
     <string name="help">Pomoč</string>
     <string name="learn_more">Izvejte več</string>
     <plurals name="filters">
-        <item quantity="zero">%d filtrov</item>
         <item quantity="one">%d filter</item>
         <item quantity="two">%d filtra</item>
         <item quantity="few">%d filtri</item>
         <item quantity="other">%d filtrov</item>
     </plurals>
     <string name="updated_">posodobljeno %1$s</string>
-    <string name="filter_subscription_info">%1$s, %1$s</string>
+    <string name="filter_subscription_info">%1$s, %2$s</string>
     <string name="enable_built_in_filters">Omogoči vgrajene filtre</string>
     <string name="enable_built_in_filters_description">Vgrajeni filtri blokirajo samo običajne oglase</string>
     <string name="update">Posodobitev</string>

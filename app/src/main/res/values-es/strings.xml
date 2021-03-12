@@ -362,7 +362,7 @@
         <item quantity="other">%d filtros</item>
     </plurals>
     <string name="updated_">actualizado %1$s</string>
-    <string name="filter_subscription_info">%1$s, %1$s</string>
+    <string name="filter_subscription_info">%1$s, %2$s</string>
     <string name="enable_built_in_filters">Activar filtros integrados</string>
     <string name="enable_built_in_filters_description">Los filtros integrados solo bloquean los anuncios comunes</string>
     <string name="update">Actualizar</string>

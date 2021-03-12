@@ -375,7 +375,7 @@
         <item quantity="other">%d Filter</item>
     </plurals>
     <string name="updated_">Aktualisiert %1$s</string>
-    <string name="filter_subscription_info">%1$s, %1$s</string>
+    <string name="filter_subscription_info">%1$s, %2$s</string>
     <string name="enable_built_in_filters">Integrierte Filter aktivieren</string>
     <string name="enable_built_in_filters_description">Integrierte Filter blockieren nur gängige Anzeigen</string>
     <string name="update">Aktualisierung</string>

@@ -188,7 +188,7 @@
     <string name="network_log">नेटवर्क लग</string>
     <string name="conn_timeout">जडानको समय सकियो</string>
     <string name="already_default">यो पहिले नै पूर्वनिर्धारितको रूपमा सेट गरिएको छ</string>
-    <string name="set_to_default">यो लिंक%s खोले पछि पूर्वनिर्धारित रूपमा सेट हुनेछ। लिंक खोल्न कृपया Via चयन गर्नुहोस्।</string>
+    <string name="set_to_default">यो लिंक%1$s खोले पछि पूर्वनिर्धारित रूपमा सेट हुनेछ। लिंक खोल्न कृपया Via चयन गर्नुहोस्।</string>
     <string name="sync_prompt">तपाईंको हालको स्थानीय बुकमार्क र सेटिंग्स अधिलेखन हुनेछ। जारी राख्नु हुन्छ?</string>
     <string name="upload_prompt">तपाईंको हालको स्थानीय बुकमार्क र सेटिंग्स अपलोड हुनेछ। जारी राख्नु हुन्छ?</string>
     <string name="none">कुनै पनि होईन</string>
@@ -268,12 +268,12 @@
     <string name="title_edit_favorite">मनपर्ने सम्पादन गर्नुहोस्</string>
     <string name="custom_css_special">अनुकूलन CSS थप्नुहोस्</string>
     <string name="force_enable_zoom">बल जुम सक्षम गर्नुहोस्</string>
-    <string name="set_ua_as">प्रयोगकर्ता एजेन्ट को रूप मा सेट गरीएको छ:%s</string>
+    <string name="set_ua_as">प्रयोगकर्ता एजेन्ट को रूप मा सेट गरीएको छ:%1$s</string>
     <string name="import_data">डाटा आयात गर्नुहोस्</string>
     <string name="import_data_failed">डाटा आयात गर्न असफल!</string>
     <string name="import_data_succeed">डाटा सफलतापूर्वक आयात गरियो!</string>
     <string name="export_data">डाटा निर्यात गर्नुहोस्</string>
-    <string name="export_data_to">डाटा निर्यात गर्नुहोस्:%s</string>
+    <string name="export_data_to">डाटा निर्यात गर्नुहोस्:%1$s</string>
     <string name="always_restore">सँधै पूर्वावस्थामा ल्याउनुहोस्</string>
     <string name="ask_first">पहिले सोध्नुहोस्</string>
     <string name="disable_restore">पुनर्स्थापना नगर्नुहोस्</string>
@@ -301,17 +301,17 @@
     <string name="chinese_server">चीनियाँ</string>
     <string name="global_server">ग्लोबल</string>
     <string name="server_message">यी सर्वरहरूको डाटा समिकरण गरिएको छैन। तपाईले पुन: लग ईन गर्नु पर्छ।</string>
-    <string name="delete_bookmark_folder_message">%s फोल्डरमा बुकमार्कहरू पनि मेटिने छन्। के तपाईँ निश्चित हुनुहुन्छ?</string>
+    <string name="delete_bookmark_folder_message">%1$s फोल्डरमा बुकमार्कहरू पनि मेटिने छन्। के तपाईँ निश्चित हुनुहुन्छ?</string>
     <string name="action_new">नयाँ</string>
-    <string name="block_hint">रोकिएको: %s \n प्रभाव लिनको लागि ताजा गर्नुहोस्।</string>
-    <string name="unblock_hint">अनब्लक गरियो: %s \n प्रभावको लागि ताजा गर्नुहोस्।</string>
+    <string name="block_hint">रोकिएको: %1$s \n प्रभाव लिनको लागि ताजा गर्नुहोस्।</string>
+    <string name="unblock_hint">अनब्लक गरियो: %1$s \n प्रभावको लागि ताजा गर्नुहोस्।</string>
     <string name="block_3rd_party_cookies">तेस्रो पार्टी कुकीहरू रोक्नुहोस्</string>
-    <string name="enable_site_conf">%s को लागी साइट कन्फिगरेसन सक्षम गर्नुहोस्</string>
+    <string name="enable_site_conf">%1$s को लागी साइट कन्फिगरेसन सक्षम गर्नुहोस्</string>
     <string name="site_conf">साइट कन्फिगरेसन</string>
     <string name="ui_simple_top">टुलबार शीर्षमा</string>
     <string name="ui_simple_bottom">तल उपकरणपट्टी</string>
     <string name="file_does_not_exist">फाईल अवस्थित छैन</string>
-    <string name="dialog_message_from">%s बाट सन्देश</string>
+    <string name="dialog_message_from">%1$s बाट सन्देश</string>
     <string name="filter_subscriptions">सदस्यताहरू फिल्टर गर्नुहोस्</string>
     <string name="filter_subscriptions_description">सदस्यता लिनुहोस् Ad block Plus फिल्टर सूचीहरू</string>
     <string name="filter_subscription_exist">फिल्टर सदस्यता पहिले नै अवस्थित छ।</string>
@@ -322,7 +322,7 @@
     <string name="edit_filter_subscription">फिल्टर सदस्यता सम्पादन गर्नुहोस्</string>
     <string name="updating_filter_subscriptions">फिल्टर सदस्यता अपडेट गर्दै</string>
     <string name="update_filter_subscriptions_completed">फिल्टर सदस्यता अपडेट पूरा भयो।</string>
-    <string name="update_filter_subscription_failed">फिल्टर सदस्यता अपडेट असफल। \n %s</string>
+    <string name="update_filter_subscription_failed">फिल्टर सदस्यता अपडेट असफल। \n %1$s</string>
     <string name="has_not_been_updated">अद्यावधिक गरिएको छैन</string>
     <string name="long_ago">धेरै पहिले</string>
     <string name="just_now">भर्खरै</string>
@@ -346,8 +346,8 @@
         <item quantity="one">1 फिल्टर</item>
         <item quantity="other">%d फिल्टर</item>
     </plurals>
-    <string name="updated_">%s अपडेट गरियो</string>
-    <string name="filter_subscription_info">%s, %s</string>
+    <string name="updated_">%1$s अपडेट गरियो</string>
+    <string name="filter_subscription_info">%1$s, %2$s</string>
     <string name="enable_built_in_filters">निर्मित फिल्टर सक्षम गर्नुहोस्</string>
     <string name="enable_built_in_filters_description">निर्मित फिल्टरहरूले मात्र साधारण विज्ञापनहरू रोक्दछ</string>
     <string name="update">अद्यावधिक गर्नुहोस्</string>

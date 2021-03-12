@@ -375,7 +375,7 @@
         <item quantity="other">%d வடிப்பான்கள்</item>
     </plurals>
     <string name="updated_">புதுப்பிக்கப்பட்ட %1$s</string>
-    <string name="filter_subscription_info">%1$s, %1$s</string>
+    <string name="filter_subscription_info">%1$s, %2$s</string>
     <string name="enable_built_in_filters">உள்ளமைக்கப்பட்ட வடிப்பான்களை இயக்கு</string>
     <string name="enable_built_in_filters_description">உள்ளமைக்கப்பட்ட வடிப்பான்கள் பொதுவான விளம்பரங்களை மட்டுமே தடுக்கும்</string>
     <string name="update">புதுப்பிப்பு</string>

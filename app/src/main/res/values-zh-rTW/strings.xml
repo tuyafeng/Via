@@ -376,7 +376,7 @@
         <item quantity="other">%d 條篩選條件</item>
     </plurals>
     <string name="updated_">%1$s 更新</string>
-    <string name="filter_subscription_info">%1$s，%1$s</string>
+    <string name="filter_subscription_info">%1$s，%2$s</string>
     <string name="enable_built_in_filters">啟用內建篩選條件</string>
     <string name="enable_built_in_filters_description">內建篩選條件僅封鎖常見廣告</string>
     <string name="update">更新</string>

@@ -373,13 +373,12 @@
     <string name="help">Справка</string>
     <string name="learn_more">Узнать больше</string>
     <plurals name="filters">
-        <item quantity="zero">0 фильтров</item>
         <item quantity="one">%d фильтр</item>
         <item quantity="few">%d фильтра</item>
         <item quantity="many">%d фильтров</item>
     </plurals>
     <string name="updated_">обновлено %1$s</string>
-    <string name="filter_subscription_info">%1$s, %1$s</string>
+    <string name="filter_subscription_info">%1$s, %2$s</string>
     <string name="enable_built_in_filters">Использовать встроенные фильтры</string>
     <string name="enable_built_in_filters_description">Встроенные фильтры блокируют только обычную рекламу</string>
     <string name="update">Обновить</string>

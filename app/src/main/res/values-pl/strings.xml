@@ -370,13 +370,13 @@
     <string name="help">Pomoc</string>
     <string name="learn_more">Dowiedz się więcej</string>
     <plurals name="filters">
-        <item quantity="zero">Brak filtrów</item>
         <item quantity="one">1 filtr</item>
         <item quantity="few">%d filtry</item>
         <item quantity="other">%d filtrów</item>
+        <item quantity="many">%d filtrów</item>
     </plurals>
     <string name="updated_">ost. aktualizacja: %1$s</string>
-    <string name="filter_subscription_info">%1$s, %1$s</string>
+    <string name="filter_subscription_info">%1$s, %2$s</string>
     <string name="enable_built_in_filters">Wbudowane filtry</string>
     <string name="enable_built_in_filters_description">Nie blokują one zbyt wiele, ale lepsze coś, niż nic.</string>
     <string name="update">Aktualizuj</string>
