@@ -95,7 +95,7 @@
     <string name="image_on">Mostra immagini</string>
     <string name="title_file_chooser">Scegli un file</string>
     <string name="import_bookmarks">Importa Segnalibri</string>
-    <string name="bookmark_export_path">Segnalibri esportati in\n</string>
+    <string name="export_bookmarks_to">Segnalibri esportati in: %1$s</string>
     <string name="import_bookmark_error">Non ho potuto importare i Segnalibri dal file</string>
     <string name="message_add_bookmark">Segnalibro aggiunto correttamente</string>
     <string name="message_exit">Premi di nuovo per uscire</string>
@@ -204,7 +204,7 @@
     
     <string name="already_default">E\' già impostato come default</string>
     
-    <string name="set_to_default">Sarà impostato per default dopo aver aperto il link(%s), seleziona Via per aprire il link.</string>
+    <string name="set_to_default">Sarà impostato per default dopo aver aperto il link(%1$s), seleziona Via per aprire il link.</string>
     
     <string name="sync_prompt">I tuoi Segnalibri e Impostazioni verranno sovrascritti. Confermi?</string>
     <string name="upload_prompt">I tuoi Segnalibri e Impostazioni verranno caricati. Confermi?</string>
@@ -261,7 +261,7 @@
     <string name="ui_traditional">Sandwich</string>
     <string name="color_mode_hint">Colora automaticamente la barra delle operazioni</string>
     <string name="skin_hide_search_part">Nascondi la Ricerca</string>
-    <string name="file_size">Dimensione del file</string>
+    <string name="file_size">Dimensione del file: %1$s</string>
     <string name="search_by_pic">Cerca per Immagine</string>
     <string name="resource_sniffer">Sniffa Risorse</string>
     <string name="res_log_hint">Clicca per l\'anteprima, clic lungo per scaricare e altro.</string>
@@ -286,12 +286,12 @@
     <string name="title_edit_favorite">Modifica Preferiti</string>
     <string name="custom_css_special">Aggiungi un CSS Personalizzato</string>
     <string name="force_enable_zoom">Attiva Zoom Forzato</string>
-    <string name="set_ua_as">Imposta User Agent come %s</string>
+    <string name="set_ua_as">Imposta User Agent come %1$s</string>
     <string name="import_data">Importa Dati</string>
     <string name="import_data_failed">Importazione Dati fallita!</string>
     <string name="import_data_succeed">Importazione Dati completata!</string>
     <string name="export_data">Esporta Dati</string>
-    <string name="export_data_to">Esporta Dati in: %s</string>
+    <string name="export_data_to">Esporta Dati in: %1$s</string>
     <string name="always_restore">Ripristina sempre</string>
     <string name="ask_first">Chiedi prima</string>
     <string name="disable_restore">Non ripristinare</string>
@@ -319,8 +319,8 @@
     <string name="chinese_server">Cinese</string>
     <string name="global_server">Globale</string>
     <string name="server_message">I dati di questi server non sono sincronizzati. Ti verrà richiesto di accedere di nuovo.</string>
-    <string name="delete_bookmark_folder_message">I Segnalibri nella cartella %s saranno cancellati. Sei sicuro?</string>
+    <string name="delete_bookmark_folder_message">I Segnalibri nella cartella %1$s saranno cancellati. Sei sicuro?</string>
     <string name="action_new">Nuovo</string>
-    <string name="block_hint">Bloccato: %s\naggiorna perchè abbia effetto.</string>
-    <string name="unblock_hint">Sbloccato: %s\naggiorna perchè abbia effetto.</string>
+    <string name="block_hint">Bloccato: %1$s\naggiorna perchè abbia effetto.</string>
+    <string name="unblock_hint">Sbloccato: %1$s\naggiorna perchè abbia effetto.</string>
 </resources>

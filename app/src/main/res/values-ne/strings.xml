@@ -1,4 +1,5 @@
-<resources xmlns:ns0="http://schemas.android.com/tools" ns0:ignore="MissingTranslation">
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
 
     <string name="app_name">Via</string>
     <string name="action_new_tab">नयाँ ट्याब</string>
@@ -17,7 +18,6 @@
     <string name="action_block_url">लिंक रोक्नुहोस्</string>
     <string name="action_copy_text">पाठ प्रतिलिपि गर्नुहोस्</string>
     <string name="action_copy_link_text">लिंक पाठ प्रतिलिपि गर्नुहोस्</string>
-    <string name="action_image_off">चित्रहरू रोक्नुहोस्</string>
     <string name="action_tools">उपकरणहरू</string>
     <string name="settings">सेटिंग्स</string>
     <string name="location">स्थान पहुँच</string>
@@ -25,7 +25,6 @@
     <string name="donate">दान गर्नुहोस्</string>
     <string name="donate_details">यदि तपाइँ Via ब्राउजर मनपराउँनुहुन्छ भने, तपाइँले हामीलाई सहयोग गर्न , दान गर्न सक्नुहुनेछ। \nAlipay: 2376688759@qq.com\nPayPal: wiar1824@gmail.com</string>
     <string name="orientation">अभिविन्यास</string>
-    <string name="orientation_system">प्रणाली</string>
     <string name="orientation_auto">स्वत:</string>
     <string name="orientation_portrait">चित्र</string>
     <string name="orientation_landscape">ल्यान्डस्केप</string>
@@ -47,7 +46,6 @@
     <string name="agent_custom">कस्टम</string>
     <string name="dialog_download">के तपाईं यस फाईल डाउनलोड गर्न चाहानुहुन्छ?</string>
     <string name="title_warning">चेतावनी</string>
-    <string name="title_user_agent">प्रयोगकर्ता-एजेन्ट</string>
     <string name="title_custom_homepage">कस्टम होमपेज</string>
     <string name="action_webpage">वेब पृष्ठ</string>
     <string name="size_largest">सबैभन्दा ठूलो</string>
@@ -64,11 +62,6 @@
     <string name="action_find">पृष्ठमा खोज्नुहोस्</string>
     <string name="download_pending">डाउनलोड सुरू गर्दै \u2026</string>
     <string name="cannot_download">यो \"http \" वा \ "https \" URL बाट मात्र डाउनलोड गर्न सकिन्छ।</string>
-    <string name="download_no_sdcard_dlg_title">कुनै मेमोरी कार्ड छैन</string>
-    <string name="download_no_sdcard_dlg_msg">युएसबी भण्डारण फाइल डाउनलोड गर्न आवश्यक छ।</string>
-    <string name="download_sdcard_busy_dlg_title">USB भण्डारण अनुपलब्ध छ</string>
-    <string name="download_sdcard_busy_dlg_msg">भण्डारण व्यस्त छ। डाउनलोडहरूलाई अनुमति दिन, सूचना प्यानलमा \"USB भण्डारण बन्द गर्नुहोस् " चयन गर्नुहोस्।</string>
-    <string name="message_import">बुकमार्कहरू आयात गरियो</string>
     <string name="custom_url">अनुकूलन यूआरएल</string>
     <string name="baidu_url">Baidu</string>
     <string name="shenma_url">ShenMa</string>
@@ -100,13 +93,11 @@
     <string name="image_on">चित्रहरू रोक्नुहोस्</string>
     <string name="image_off">चित्रहरू देखाउनुहोस्</string>
     <string name="title_file_chooser">फाइल छनौटकर्ता</string>
-    <string name="import_backup">बुकमार्कहरू आयात गर्नुहोस्</string>
-    <string name="bookmark_export_path">बुकमार्कहरू \n मा निर्यात गरियो</string>
+    <string name="export_bookmarks_to">बुकमार्कहरू मा निर्यात गरियो: %1$s</string>
     <string name="import_bookmark_error">फाईलबाट बुकमार्कहरू आयात गर्न सकेन!</string>
     <string name="message_add_bookmark">बुकमार्क सफलतापूर्वक थपियो</string>
     <string name="message_exit">बाहिर निस्कनको लागि एक पटक थिच्नुहोस्</string>
     <string name="dialog_message">सन्देश</string>
-    <string name="toast_wait_a_minute">एकछिन पर्खिनोस्…</string>
     <string name="toast_operation_failed">सञ्चालन असफल भयो</string>
     <string name="toast_operation_done">अपरेसन सम्पन्न भयो</string>
     <string name="volume">स्क्रोल गर्न भोल्युम कुञ्जीहरू प्रयोग गर्नुहोस्</string>
@@ -122,8 +113,6 @@
     <string name="operation_top">शीर्षमा स्क्रोल गर्नुहोस्</string>
     <string name="operation_bottom">तल स्क्रोल गर्नुहोस्</string>
     <string name="operation_input">इनपुट URL</string>
-    <string name="operation_newtab">नयाँ ट्याब</string>
-    <string name="operation_addbookmark">बुकमार्क थप्नुहोस्</string>
     <string name="operation_openbookmark">बुकमार्क खोल्नुहोस्</string>
     <string name="operation_openhistory">ईतिहास खोल्नुहोस्</string>
     <string name="operation_closetab">ट्याब बन्द गर्नुहोस्</string>
@@ -131,35 +120,25 @@
     <string name="operation_nexttab">अर्को ट्याब</string>
     <string name="operation_goback">पछाडी जाउ</string>
     <string name="operation_goforward">अघि बढ्नुहोस्</string>
-    <string name="operation_find">पृष्ठमा खोज्नुहोस्</string>
-    <string name="settings_ad_rules">चिह्नित विज्ञापनहरू</string>
     <string name="settings_operation">इशारा</string>
     <string name="settings_privacy">गोपनीयता</string>
     <string name="settings_advanced">उन्नत</string>
     <string name="settings_about">बारेमा</string>
     <string name="url_box">URL क्षेत्र सामग्री</string>
     <string name="url_box_domain">डोमेन</string>
-    <string name="url_box_url">URL</string>
-    <string name="url_box_title">शीर्षक</string>
     <string name="action_pcview">डेस्कटप साइट</string>
     <string name="action_source">स्रोत हेर्नुहोस्</string>
     <string name="action_translate">अनुवाद</string>
     <string name="title_edit_folder">फोल्डर सम्पादन गर्नुहोस्</string>
     <string name="msg_delete_folder">के तपाईं यो फोल्डर मेटाउन चाहानुहुन्छ?</string>
     <string name="desc_suggestion">सुझाव</string>
-    <string name="desc_search">पृष्ठमा खोज्नुहोस्</string>
-    <string name="desc_reload">पुन: लोड गर्नुहोस्</string>
-    <string name="desc_back">पछाडि</string>
-    <string name="desc_forward">अगाडि</string>
     <string name="desc_home">घर</string>
     <string name="desc_tab">ट्याब</string>
     <string name="desc_menu">मेनू</string>
     <string name="desc_filedic">फाईल</string>
     <string name="action_mark">विज्ञापनको रूपमा चिन्ह लगाउनुहोस्</string>
-    <string name="dialog_confirm_block">के तपाइँ यसलाई विज्ञापनको रूपमा चिनो लगाउन चाहानुहुन्छ?</string>
     <string name="do_not_track">ट्रयाक नगर्नुहोस्</string>
     <string name="add_rule">फिल्टर थप्नुहोस्</string>
-    <string name="hint_tags">ट्यागहरू</string>
     <string name="color_mode">रंग मोड</string>
     <string name="dialog_sure">के तपाइँ अगाडि बढ्न निश्चित हुनुहुन्छ?</string>
     <string name="action_send_to_launcher">लन्चरमा पठाउनुहोस्</string>
@@ -176,13 +155,11 @@
     <string name="crash_info">केहि गलत भयो। :(</string>
     <string name="crash_restart">फेरि शुरु गर्नु</string>
     <string name="crash_close">बन्द</string>
-    <string name="crash_upload">क्र्यास लग अपलोड गर्नुहोस्</string>
     <string name="upload_completed">अपलोड सम्पन्न भयो</string>
     <string name="ui_mode">उपकरण पट्टी UI मोड</string>
-    <string name="ui_auto">स्वत:</string>
     <string name="addon_download">डाउनलोड प्रबन्धक</string>
     <string name="quick_back">पुन: लोड नगरी पछाडि जानुहोस्</string>
-    <string name="open_with">यससँग खोल्नुहोस् ...</string>
+    <string name="open_with">यससँग खोल्नुहोस्…</string>
     <string name="download_completed">डाउनलोड सम्पन्न भयो</string>
     <string name="toast_fullscreen_off">पूर्ण-स्क्रीन मोडबाट बाहिर निस्कनुहोस्</string>
     <string name="clear_data">डाटा खाली गर्नुहोस्</string>
@@ -209,14 +186,12 @@
     <string name="deleted_failed">मेटाउन असफल भयो। फाईल डाउनलोड मार्गमा अवस्थित छ:</string>
     <string name="empty_hint">खाली</string>
     <string name="network_log">नेटवर्क लग</string>
-    <string name="catalog">क्याटलग</string>
     <string name="conn_timeout">जडानको समय सकियो</string>
     <string name="already_default">यो पहिले नै पूर्वनिर्धारितको रूपमा सेट गरिएको छ</string>
     <string name="set_to_default">यो लिंक%s खोले पछि पूर्वनिर्धारित रूपमा सेट हुनेछ। लिंक खोल्न कृपया Via चयन गर्नुहोस्।</string>
     <string name="sync_prompt">तपाईंको हालको स्थानीय बुकमार्क र सेटिंग्स अधिलेखन हुनेछ। जारी राख्नु हुन्छ?</string>
     <string name="upload_prompt">तपाईंको हालको स्थानीय बुकमार्क र सेटिंग्स अपलोड हुनेछ। जारी राख्नु हुन्छ?</string>
     <string name="none">कुनै पनि होईन</string>
-    <string name="action_log">नेटवर्क लग</string>
     <string name="check_permission">अनुमति अस्वीकृत। के तपाइँ यसलाई अब सेटि inहरूमा सेट गर्न चाहानुहुन्छ?</string>
     <string name="need_permission_hint">Via कामका लागि निम्न अनुमतिहरू चाहिन्छ: \n \n</string>
     <string name="storage_permission">भण्डारण: ब्राउजरबाट फाईल डाउनलोड गर्न र बुकमार्कहरू आयात / निर्यात गर्नका लागि। \n \n</string>
@@ -226,9 +201,7 @@
     <string name="restore_tabs">स्टार्टअपमा ट्याबहरू पुनर्स्थापना गर्नुहोस्</string>
     <string name="install_success">स्थापना सफल!</string>
     <string name="uninstall_success">विस्थापना सफल!</string>
-    toolbar_settings_hint
     <string name="log_page_hint">अवरुद्ध सूची %1$s मा छ। \nतपाईं सूची सम्पादन गर्न सक्नुहुन्छ, वा यसको नाकाबन्दी सक्षम/असक्षम गर्न निम्न वस्तुलाई लामो प्रेस गर्नुहोस्।</string>
-    <string name="fullscreen_0">अक्षम</string>
     <string name="fullscreen_1">लुकाउन / देखाउनको लागि स्क्रोल गर्नुहोस्</string>
     <string name="fullscreen_2">लुकाउन / देखाउन थिच्नुहोस्</string>
     <string name="settings_script">लिपिहरू</string>
@@ -243,16 +216,13 @@
     <string name="skin_logo">लोगो</string>
     <string name="skin_bg">पृष्ठभूमि</string>
     <string name="skin_style">शैली</string>
-    <string name="skin_settings">सेटिंग्स</string>
     <string name="set_it_as_homepage">के तपाइँ यसलाई होमपेजको रूपमा सेट गर्न चाहानुहुन्छ?</string>
     <string name="missing_webview">एन्ड्रोइड प्रणाली वेबभ्यु सही तरीकाले स्थापित छैन। के तपाइँ अहिले स्थापना गर्न चाहानुहुन्छ?</string>
     <string name="install">स्थापना गर्नुहोस्</string>
     <string name="crash_hint">हामी दु: खी छौं कि अनुप्रयोग क्र्यास भयो।</string>
-    <string name="upload_hint">हामी क्षमाप्रार्थी छौं अनुप्रयोग क्र्यास भएको छ, तर तपाईं क्र्यास लग अपलोड गर्न सक्नुहुनेछ हामीलाई उत्तम कार्य गर्न मद्दत गर्न। अब अपलोड गर्ने हो?</string>
     <string name="glean">ग्लेन</string>
     <string name="contact_us">हामीलाई सम्पर्क गर्नुहोस</string>
     <string name="official_website">आधिकारिक वेबसाइट</string>
-    <string name="current_language">वर्तमान भाषा</string>
     <string name="background_opacity">पृष्ठभूमि अस्पष्टता</string>
     <string name="action_pic_mode">तस्वीर मोड</string>
     <string name="find_next">अर्को फेला पार्नुहोस्</string>
@@ -260,12 +230,9 @@
     <string name="action_open_in_background">पृष्ठभूमिमा खोल्नुहोस्</string>
     <string name="cannot_work">यसले \"http\" वा \"https।" URL हरूसँग मात्र काम गर्न सक्दछ।</string>
     <string name="action_fullscreen">पूर्ण-स्क्रीन</string>
-    <string name="action_ua">प्रयोगकर्ता-एजेन्ट</string>
     <string name="settings_general">सामान्य</string>
     <string name="no_bookmark">कुनै बुकमार्कहरू छैनन्</string>
     <string name="import_or_export_bookmarks">बुकमार्कहरू आयात / निर्यात गर्नुहोस्</string>
-    <string name="import_">बुकमार्कहरू आयात गर्नुहोस्</string>
-    <string name="export_">बुकमार्कहरू निर्यात गर्नुहोस्</string>
     <string name="pull_to_refresh_gesture">इशारा तान्नुहोस्</string>
     <string name="back_forward_gesture">पछाडि / फर्वार्ड इशारा</string>
     <string name="toolbar_settings_hint">यसको लामो प्रेस कार्य सेट गर्न तल चयनित बटन थिच्नुहोस्, वा कुन कार्य सेट गरिएको छ भनेर जाँच गर्न यसलाई लामो प्रेस गर्नुहोस्।</string>
@@ -274,22 +241,9 @@
     <string name="adblock_info">सक्षम गरिएको:%1$d विज्ञापनहरू अवरुद्ध, %2$s बचत गरियो</string>
     <string name="disable">अक्षम</string>
     <string name="ui_traditional">स्यान्डविच</string>
-    <string name="ui_simple">सरल</string>
     <string name="color_mode_hint">उपकरणपट्टीको र स्वत: समायोजित गर्नुहोस्</string>
     <string name="skin_hide_search_part">खोज भाग लुकाउनुहोस्</string>
-    <string name="set_as_default">के तपाइँ तपाइँको डिफल्ट ब्राउजर को रूप मा सेट गर्न चाहानुहुन्छ?</string>
     <string name="file_size">फाईल आकार</string>
-    <string name="share_script">%1$s का लागि स्क्रिप्ट, यो सन्देशको प्रतिलिपि गर्नुहोस् र यसलाई आयात गर्न Via खोल्नुहोस्। Viaस्क्रिप्ट {%2$s}</string>
-    <string name="share_online_script">%1$s का लागि स्क्रिप्ट, यो सन्देशको प्रतिलिपि गर्नुहोस् र यसलाई स्थापित गर्न Via साथ लि %2$s खोल्नुहोस्।</string>
-    <string name="import_script">के तपाईं क्लिपबोर्डबाट %1$s का लागि स्क्रिप्ट आयात गर्न चाहानुहुन्छ? \n चेतावनी: लिपि खतरनाक हुन सक्छ। कृपया यो सुरक्षित छ भनेर निश्चित गर्नुहोस्। cript n स्क्रिप्ट: \n</string>
-    <string name="share_rule">%1$s को अवरुद्ध विज्ञापनको लागि फिल्टर, यो सन्देश प्रतिलिपि गर्नुहोस् र यो आयात गर्न Via खोल्नुहोस्। viarule {%2$s}</string>
-    <string name="import_rule">के तपाईं क्लिपबोर्डबाट% 1 $ s को अवरुद्ध विज्ञापनको लागि फिल्टर आयात गर्न चाहानुहुन्छ?</string>
-    <string name="share_url">यो गोप्य यूआरएल हो। यो सन्देशको प्रतिलिपि गर्नुहोस् र यसलाई हेर्न Via खोल्नुहोस्। Via {%1$s}</string>
-    <string name="import_url">के तपाईं क्लिपबोर्डबाट लिंक खोल्न चाहनुहुन्छ? \ N लिंक:% 1 $ s</string>
-    <string name="import_successful">सफलतापूर्वक आयात गरियो</string>
-    <string name="all_sites">सबै साइटहरू</string>
-    <string name="action_click_to_view">हेर्न थिच्नुहोस्</string>
-    <string name="res_sniffer">रिसोर्स स्निफर</string>
     <string name="search_by_pic">चित्र द्वारा खोज्नुहोस्</string>
     <string name="resource_sniffer">रिसोर्स स्निफर</string>
     <string name="res_log_hint">पूर्वावलोकन गर्न कुनै वस्तु थिच्नुहोस्, वा यसलाई डाउनलोड गर्न वा अरू केही गर्न लामो-प्रेस गर्नुहोस्।</string>
@@ -326,14 +280,10 @@
     <string name="data_file">डाटा निर्यात</string>
     <string name="bookmarks_data_to_long">बुकमार्क डेटा अपलोड गर्न धेरै ठूलो छ, तर अन्य डाटा सामान्यतया अपलोड हुनेछ। जारी राख्नु हुन्छ?</string>
     <string name="restore_tabs_hint_settings">तपाईं incognito ट्याबहरू पुनर्स्थापित हुनेछैन।</string>
-    <string name="night_css_enabled">अँध्यारो \"अँध्यारो मोड\" मा डार्क अपरेशन सक्षम पारियो।</string>
-    <string name="night_css_disabled">अँध्यारो \"अँध्यारो मोड\" मा अन्धकार अपरेशन असक्षम गरियो</string>
     <string name="ignore_secondary_ssl_error">द्वितीयक SSL त्रुटि उपेक्षा गर्नुहोस्</string>
-    <string name="powerful_cache">हाइपर क्यास</string>
     <string name="web_page_debug">वेब पृष्ठ डिबगिंग सक्षम गर्नुहोस्</string>
     <string name="web_page_debug_info">अब तपाइँ तपाइँको फोनलाई कम्प्युटरमा जडान गर्न सक्नुहुन्छ, तब वेब पृष्ठलाई क्रोम (पीसी) को साथ \ "क्रोम://इन्स्पेक्ट\" प्रयोग गरेर डिबग गर्न सक्नुहुन्छ। याद गर्नुहोस् पहिले USB डिबगिंग सक्षम गर्न मेनूमा: अधिक उपकरणहरू&gt; विकासकर्ता उपकरणहरू।</string>
     <string name="no_download_tasks">खाली</string>
-    <string name="action_delete_dl_task">मेटाउन</string>
     <string name="action_re_download">पुन: डाउनलोड गर्नुहोस्</string>
     <string name="action_copy_download_link">डाउनलोड लिंक प्रतिलिपि गर्नुहोस्</string>
     <string name="download_failed">डाउनलोड असफल भयो</string>
@@ -344,7 +294,7 @@
     <string name="block_popup_message">रोकिएको पप-अप विन्डो</string>
     <string name="allow_popup">एक पटक अनुमति दिनुहोस्</string>
     <string name="system_download_manager">प्रणाली डाउनलोड प्रबन्धक</string>
-    <string name="action_play_with">यससँग खेल्नुहोस् ...</string>
+    <string name="action_play_with">यससँग खेल्नुहोस्…</string>
     <string name="show_sniffer_btn_automatically">स्निफर बटन स्वचालित रूपमा देखाउनुहोस्</string>
     <string name="open_file_failed">फाइल खोल्नको लागि सम्बन्धित अनुप्रयोग फेला पार्न असमर्थ</string>
     <string name="cloud_data_server">क्लाउड डाटा सर्भर</string>
@@ -355,7 +305,6 @@
     <string name="action_new">नयाँ</string>
     <string name="block_hint">रोकिएको: %s \n प्रभाव लिनको लागि ताजा गर्नुहोस्।</string>
     <string name="unblock_hint">अनब्लक गरियो: %s \n प्रभावको लागि ताजा गर्नुहोस्।</string>
-    <string name="ignore_ssl_error_today">आज SSL त्रुटि उपेक्षा गर्नुहोस्</string>
     <string name="block_3rd_party_cookies">तेस्रो पार्टी कुकीहरू रोक्नुहोस्</string>
     <string name="enable_site_conf">%s को लागी साइट कन्फिगरेसन सक्षम गर्नुहोस्</string>
     <string name="site_conf">साइट कन्फिगरेसन</string>
@@ -374,7 +323,6 @@
     <string name="updating_filter_subscriptions">फिल्टर सदस्यता अपडेट गर्दै</string>
     <string name="update_filter_subscriptions_completed">फिल्टर सदस्यता अपडेट पूरा भयो।</string>
     <string name="update_filter_subscription_failed">फिल्टर सदस्यता अपडेट असफल। \n %s</string>
-    <string name="download_notification">सूचना डाउनलोड गर्नुहोस्</string>
     <string name="has_not_been_updated">अद्यावधिक गरिएको छैन</string>
     <string name="long_ago">धेरै पहिले</string>
     <string name="just_now">भर्खरै</string>
@@ -395,7 +343,6 @@
     <string name="help">मद्दत</string>
     <string name="learn_more">थप सिक</string>
     <plurals name="filters">
-        <item quantity="zero">0 फिल्टर</item>
         <item quantity="one">1 फिल्टर</item>
         <item quantity="other">%d फिल्टर</item>
     </plurals>
@@ -418,6 +365,5 @@
     <string name="delete_account_request_submitted">खाता मेटाउने अनुरोध पेश गरिएको छ।</string>
     <string name="delete_account_hint">सर्भरबाट खाता मेटाउनुहोस्</string>
     <string name="delete_account_message">मेटाउने अनुरोध पेश गरेपछि, खाता लग आउट हुनेछ र 30-दिन मेटाउने प्रतीक्षा अवधि प्रविष्ट गर्दछ। लगआउट अवधिमा, यदि तपाईं फेरि खातामा लग इन गर्नुभयो र डाटा अपलोड गर्नुभयो भने, मेटाउने अनुरोध फिर्ता लिने छ। प्रतीक्षा अवधि समाप्त भएपछि, खाता र सम्बन्धित डाटा सर्वरबाट पूर्ण रूपले मेटिनेछ। submit n कृपया अनुरोध पेस गर्न तपाईंको पासवर्ड प्रविष्ट गर्नुहोस्।</string>
-    <string name="confirm_to_delete">मेट्न निश्चित गर्नुहोस्
-</string>
+    <string name="confirm_to_delete">मेट्न निश्चित गर्नुहोस्</string>
 </resources>

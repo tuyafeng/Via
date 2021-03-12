@@ -85,7 +85,7 @@
     <string name="image_on">Resimleri Göster</string>
     <string name="title_file_chooser">Dosya Seç</string>
     <string name="import_bookmarks">Yer işaretlerini içe aktar</string>
-    <string name="bookmark_export_path">Yer işaretleri dışa aktarıldı \n</string>
+    <string name="export_bookmarks_to">Yer işaretleri dışa aktarıldı: %1$s</string>
     <string name="import_bookmark_error">Yer işaretleri içe aktarılamıyor</string>
     <string name="message_add_bookmark">Yer işareti eklendi</string>
     <string name="message_exit">Çıkış için tekrar basın</string>
@@ -194,7 +194,7 @@
 
     <string name="already_default">Zaten varsayılan olarak ayarlandı</string>
 
-    <string name="set_to_default">Bağlantıyı (%s) açtıktan sonra varsayılan olarak ayarlanacaktır, lütfen bağlantıyı açmak için Via yı seçin.</string>
+    <string name="set_to_default">Bağlantıyı (%1$s) açtıktan sonra varsayılan olarak ayarlanacaktır, lütfen bağlantıyı açmak için Via yı seçin.</string>
 
     <string name="sync_prompt">Yerel ayarlarınız ve yer işaretleriniz kaybolacak. Devam etmek istiyor musunuz?</string>
     <string name="upload_prompt">Yerel ayarlarınız ve yer işaretleriniz yedeklenecek. Devam etmek istiyor musunuz?</string>
@@ -251,7 +251,7 @@
     <string name="ui_traditional">Geleneksel</string>
     <string name="color_mode_hint">Renkli başlık çubuğu</string>
     <string name="skin_hide_search_part">Arama Kutusunu Gizle</string>
-    <string name="file_size">Dosya boyutu</string>
+    <string name="file_size">Dosya boyutu: %1$s</string>
     <string name="search_by_pic">Resim ile Arama</string>
     <string name="resource_sniffer">Kaynak Algılayıcı</string>
     <string name="res_log_hint">Görüntülemek için öğeyi tıklayın, indirmek veya başka bir şey için basılı tutun.</string>

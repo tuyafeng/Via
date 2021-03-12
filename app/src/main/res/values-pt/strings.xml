@@ -84,7 +84,7 @@
     <string name="image_on">Mostrar Imagens</string>
     <string name="title_file_chooser">Selecionar arquivo</string>
     <string name="import_bookmarks">Importar favoritos</string>
-    <string name="bookmark_export_path">Favoritos exportados para\n</string>
+    <string name="export_bookmarks_to">Favoritos exportados para: %1$s</string>
     <string name="import_bookmark_error">Não é possível recuperar os favoritos do arquivo</string>
     <string name="message_add_bookmark">Favorito adicionado com sucesso</string>
     <string name="message_exit">Pressione mais uma vez para sair</string>
@@ -193,7 +193,7 @@
     
     <string name="already_default">Já está definido como padrão</string>
     
-    <string name="set_to_default">Ele será definido como padrão após usá-lo para abrir um link (%s). Por favor, escolha o Via para abrir o link.</string>
+    <string name="set_to_default">Ele será definido como padrão após usá-lo para abrir um link (%1$s). Por favor, escolha o Via para abrir o link.</string>
 
     <string name="sync_prompt">Isso irá substituir os seus favoritos e configurações locais. Continuar?</string>
     <string name="upload_prompt">Isso carregará os seus favoritos e as configurações locais atuais. Continuar?</string>
@@ -250,6 +250,6 @@
     <string name="ui_traditional">Tradicional</string>
     <string name="color_mode_hint">Colorir a barra de operação ao navegar</string>
     <string name="skin_hide_search_part">Ocultar parte da pesquisa</string>
-    <string name="file_size">Tamanho do arquivo</string>
+    <string name="file_size">Tamanho do arquivo: %1$s</string>
 
 </resources>

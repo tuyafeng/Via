@@ -85,7 +85,7 @@
     <string name="image_on">Показати зображення</string>
     <string name="title_file_chooser">Вибір файлу</string>
     <string name="import_bookmarks">Імпортувати закладки</string>
-    <string name="bookmark_export_path">Закладки, експортовані до\n</string>
+    <string name="export_bookmarks_to">Закладки, експортовані до: %1$s</string>
     <string name="import_bookmark_error">Не вдалося імпортувати закладки з файлу!</string>
     <string name="message_add_bookmark">Успішно додано в закладки!</string>
     <string name="message_exit">Натисніть ще раз, щоб \"Вийти\".</string>
@@ -182,7 +182,7 @@
     <string name="network_log">Мережевий журнал</string>
     <string name="conn_timeout">Минув час очікування підключення.</string>
     <string name="already_default">Веб-переглядач Via вже встановлений за замовчуванням.</string>
-    <string name="set_to_default">Веб-переглядач Via буде встановлено веб-переглядачем за замовчуванням після відкриття посилання (%s). Будь ласка, виберіть веб-переглядач Via для відкриття цього посилання.</string>
+    <string name="set_to_default">Веб-переглядач Via буде встановлено веб-переглядачем за замовчуванням після відкриття посилання (%1$s). Будь ласка, виберіть веб-переглядач Via для відкриття цього посилання.</string>
     <string name="sync_prompt">Будуть синхронізовані поточні локальні закладки і налаштування. Продовжити?</string>
     <string name="upload_prompt">Будуть відправлені поточні локальні закладки і налаштування. Продовжити?</string>
     <string name="none">Без логотипа</string>
@@ -238,7 +238,7 @@
     <string name="ui_traditional">Традиційний</string>
     <string name="color_mode_hint">Зміна кольору панелей як на сайті</string>
     <string name="skin_hide_search_part">Приховати панель пошуку</string>
-    <string name="file_size">Розмір файла</string>
+    <string name="file_size">Розмір файла: %1$s</string>
     <string name="search_by_pic">Пошук за зображенням</string>
     <string name="resource_sniffer">Ресурси сніфера</string>
     <string name="res_log_hint">Натисніть на елемент, щоб переглянути. Довге натискання на елемент, щоб завантажити або зробити щось інше.</string>

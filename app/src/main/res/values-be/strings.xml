@@ -57,7 +57,7 @@
    <string name="action_find">Пошук па старонцы</string>
    <string name="download_pending">Пачатак спампоўкі\u2026</string>
    <string name="cannot_download">Толькі \"http\" альбо \"https\" URLs магчыма спампаваць.</string>
-   <string name="bookmarks_imported">Закладкі іпартаваны</string>
+   <string name="bookmarks_imported">%1$d Закладкі іпартаваны</string>
    <string name="custom_url">Карыстальніцкі URL</string>
    <string name="baidu_url">Baidu</string>
    <string name="shenma_url">ShenMa</string>
@@ -85,7 +85,7 @@
    <string name="image_on">Паказаць выявы</string>
    <string name="title_file_chooser">Выбар файла</string>
    <string name="import_bookmarks">Імпарт закладак</string>
-   <string name="bookmark_export_path">Закладкі экспартаваны ў\n</string>
+   <string name="export_bookmarks_to">Закладкі экспартаваны ў: %1$s</string>
    <string name="import_bookmark_error">Немагчыма імпартаваць закладкі з файла</string>
    <string name="message_add_bookmark">Закладка была паспяхова дададзена</string>
    <string name="message_exit">Націсніце некалькі разоў, каб выйсці</string>
@@ -182,7 +182,7 @@
    <string name="network_log">Сеткавыя логі</string>
    <string name="conn_timeout">Тэрмін злучэння выйшаў</string>
    <string name="already_default">Ужо перадвызначаны</string>
-   <string name="set_to_default">Via будзе ўсталяваны перадвызначаным пасля адкрыцця спасылкі: %s. І выбару Via для яе адкрыцця.</string>
+   <string name="set_to_default">Via будзе ўсталяваны перадвызначаным пасля адкрыцця спасылкі: %1$s. І выбару Via для яе адкрыцця.</string>
    <string name="sync_prompt">Будуць перазапісаны ўсе лакальныя закладкі і налады. Працягнуць?</string>
    <string name="upload_prompt">Будуць запампаваны лакальныя закладкі і налады. Працягнуць?</string>
    <string name="none">Няма</string>
@@ -238,7 +238,7 @@
    <string name="ui_traditional">Традыцыйны</string>
    <string name="color_mode_hint">UI ў колер сайту</string>
    <string name="skin_hide_search_part">Схаваць частку пошуку</string>
-   <string name="file_size">Памер файлу</string>
+   <string name="file_size">Памер файлу: %1$s</string>
    <string name="search_by_pic">Пошук па выяве</string>
    <string name="resource_sniffer">Аналіз рэсурсаў</string>
    <string name="res_log_hint">Націсніце, каб праглядзець, утрымлівайце, каб спампаваць або зрабіць яшчэ што-небудзь.</string>
@@ -263,12 +263,12 @@
    <string name="title_edit_favorite">Рэдагаваць «Абранае»</string>
    <string name="custom_css_special">Дадаць свой CSS</string>
    <string name="force_enable_zoom">Прымусова ўключыць павялічэнне</string>
-   <string name="set_ua_as">Бягучы сродак карыстання %s</string>
+   <string name="set_ua_as">Бягучы сродак карыстання %1$s</string>
    <string name="import_data">Імпартаваць даныя</string>
    <string name="import_data_failed">Не ўдалося імпартаваць даныя!</string>
    <string name="import_data_succeed">Імпарт даных завершаны!</string>
    <string name="export_data">Экспартаваць даныя</string>
-   <string name="export_data_to">Даныя экспартаваны ў: %s</string>
+   <string name="export_data_to">Даныя экспартаваны ў: %1$s</string>
    <string name="always_restore">Заўсёды аднаўляць</string>
    <string name="ask_first">Спачатку спытаць</string>
    <string name="disable_restore">Адключыць аднаўленне</string>
@@ -305,8 +305,8 @@
    <string name="chinese_server">Chinese</string>
    <string name="global_server">Global</string>
    <string name="server_message">The data of these servers are not synchronized. You will be required to log in again.</string>
-   <string name="delete_bookmark_folder_message">Bookmarks in folder %s will also be deleted. Are you sure?</string>
+   <string name="delete_bookmark_folder_message">Bookmarks in folder %1$s will also be deleted. Are you sure?</string>
    <string name="action_new">New</string>
-   <string name="block_hint">Blocked: %s\nrefresh to take effect.</string>
-   <string name="unblock_hint">Unblocked: %s\nrefresh to take effect.</string>
+   <string name="block_hint">Blocked: %1$s\nrefresh to take effect.</string>
+   <string name="unblock_hint">Unblocked: %1$s\nrefresh to take effect.</string>
 </resources>

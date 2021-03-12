@@ -96,7 +96,7 @@
     <string name="image_on">Wczytuj grafikę</string>
     <string name="title_file_chooser">Wybór pliku</string>
     <string name="import_bookmarks">Importuj zakładki</string>
-    <string name="bookmark_export_path">Zakładki zostały wyeksportowane do pliku\n.</string>
+    <string name="export_bookmarks_to">Zakładki zostały wyeksportowane do pliku: %1$s</string>
     <string name="import_bookmark_error">Nie udało się zaimportować zakładek z tego pliku.</string>
     <string name="message_add_bookmark">Zakładka została dodana.</string>
     <string name="message_exit">Naciśnij jeszcze raz, aby wyjść.</string>
@@ -196,7 +196,7 @@
     <string name="network_log">Dziennik sieci</string>
     <string name="conn_timeout">Upłynął limit czasu połączenia</string>
     <string name="already_default">Via jest już domyślną przeglądarką.</string>
-    <string name="set_to_default">Przeglądarka Via zostanie ustawiona jako domyślna po użyciu jej do otwarcia linku (%s). Wybierz ją, aby otworzyć link.</string>
+    <string name="set_to_default">Przeglądarka Via zostanie ustawiona jako domyślna po użyciu jej do otwarcia linku (%1$s). Wybierz ją, aby otworzyć link.</string>
     <string name="sync_prompt">Lokalne zakładki i ustawienia zostaną nadpisane. Kontynuować?</string>
     <string name="upload_prompt">Obecne zakładki i ustawienia zostaną wysłane. Kontynuować?</string>
     <string name="none">Nic</string>
@@ -260,7 +260,7 @@
 
        ]]>
     <string name="skin_hide_search_part">Ukryj pasek wyszukiwarki</string>
-    <string name="file_size">Rozmiar pliku</string>
+    <string name="file_size">Rozmiar pliku: %1$s</string>
     <string name="search_by_pic">Szukaj wg tego obrazu</string>
     <string name="resource_sniffer">Zasoby strony</string>
     <string name="res_log_hint">Kliknij element, aby wyświetlić podgląd. Przytrzymaj, aby wywołać menu kontekstowe z pozostałymi opcjami.</string>
@@ -285,12 +285,12 @@
     <string name="title_edit_favorite">Edytuj ulubione</string>
     <string name="custom_css_special">Własny plik CSS</string>
     <string name="force_enable_zoom">Wymuś powiększanie strony</string>
-    <string name="set_ua_as">User agent został zmieniony na %s.</string>
+    <string name="set_ua_as">User agent został zmieniony na %1$s.</string>
     <string name="import_data">Importuj dane</string>
     <string name="import_data_failed">Importowanie danych nie powiodło się.</string>
     <string name="import_data_succeed">Importowanie danych zakończone.</string>
     <string name="export_data">Eksportuj dane</string>
-    <string name="export_data_to">Dane zostały wyeksportowane do pliku\n%s.</string>
+    <string name="export_data_to">Dane zostały wyeksportowane do pliku\n%1$s.</string>
     <string name="always_restore">Zawsze przywracaj</string>
     <string name="ask_first">Zawsze pytaj</string>
     <string name="disable_restore">Nigdy</string>
@@ -318,17 +318,17 @@
     <string name="chinese_server">Chiński</string>
     <string name="global_server">Globalny</string>
     <string name="server_message">Dane serwerów nie są zsynchronizowane. Konieczne będzie ponowne zalogowanie się.</string>
-    <string name="delete_bookmark_folder_message">Zakładki w folderze \"%s\" również zostaną usunięte. Kontynuować?</string>
+    <string name="delete_bookmark_folder_message">Zakładki w folderze \"%1$s\" również zostaną usunięte. Kontynuować?</string>
     <string name="action_new">Stwórz</string>
-    <string name="block_hint">Zablokowano: %s\nOdśwież, aby zastosować zmiany.</string>
-    <string name="unblock_hint">Odblokowano: %s\nOdśwież, aby zastosować zmiany.</string>
+    <string name="block_hint">Zablokowano: %1$s\nOdśwież, aby zastosować zmiany.</string>
+    <string name="unblock_hint">Odblokowano: %1$s\nOdśwież, aby zastosować zmiany.</string>
     <string name="block_3rd_party_cookies">Blokuj ciasteczka firm trzecich</string>
-    <string name="enable_site_conf">Ustawienia dla strony \"%s\":</string>
+    <string name="enable_site_conf">Ustawienia dla strony \"%1$s\":</string>
     <string name="site_conf">Ustawienia stron</string>
     <string name="ui_simple_top">Tylko góra</string>
     <string name="ui_simple_bottom">Tylko dół</string>
     <string name="file_does_not_exist">Plik nie istnieje.</string>
-    <string name="dialog_message_from">Wiadomość z %s</string>
+    <string name="dialog_message_from">Wiadomość z %1$s</string>
     <string name="filter_subscriptions">Listy z Adblocka Plus</string>
     <string name="filter_subscriptions_description">Zarządzaj listami filtrów z tegoż programu.</string>
     <string name="filter_subscription_exist">Ta lista filtrów już istnieje.</string>
@@ -339,7 +339,7 @@
     <string name="edit_filter_subscription">Edytuj listę filtrów</string>
     <string name="updating_filter_subscriptions">Aktualizowanie list filtrów&#8230;</string>
     <string name="update_filter_subscriptions_completed">Aktualizacja list filtrów zakończona.</string>
-    <string name="update_filter_subscription_failed">Aktualizacja list filtrów nie powiodła się (%s).</string>
+    <string name="update_filter_subscription_failed">Aktualizacja list filtrów nie powiodła się (%1$s).</string>
     <string name="has_not_been_updated">nieaktualna</string>
     <string name="long_ago">dawno temu</string>
     <string name="just_now">przed chwilą</string>
@@ -375,8 +375,8 @@
         <item quantity="few">%d filtry</item>
         <item quantity="other">%d filtrów</item>
     </plurals>
-    <string name="updated_">ost. aktualizacja: %s</string>
-    <string name="filter_subscription_info">%s, %s</string>
+    <string name="updated_">ost. aktualizacja: %1$s</string>
+    <string name="filter_subscription_info">%1$s, %1$s</string>
     <string name="enable_built_in_filters">Wbudowane filtry</string>
     <string name="enable_built_in_filters_description">Nie blokują one zbyt wiele, ale lepsze coś, niż nic.</string>
     <string name="update">Aktualizuj</string>

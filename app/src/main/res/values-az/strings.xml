@@ -58,7 +58,7 @@
     <string name="action_find">Səhifədə tapın</string>
     <string name="download_pending">Yükləmə başlayır \u2026</string>
     <string name="cannot_download">Yalnız \"http\" və ya \"https\" URL ləri yükləyə bilərsiz.</string>
-    <string name="bookmarks_imported">Əlfəcinlər Alındı</string>
+    <string name="bookmarks_imported">%1$d Əlfəcinlər Alındı</string>
     <string name="custom_url">Xüsusi URL</string>
     <string name="baidu_url">Baidu</string>
     <string name="shenma_url">ShenMa</string>
@@ -86,7 +86,7 @@
     <string name="image_on">Block images</string>
     <string name="title_file_chooser">File chooser</string>
     <string name="import_bookmarks">Import bookmarks</string>
-    <string name="bookmark_export_path">Bookmarks exported to\n</string>
+    <string name="export_bookmarks_to">Bookmarks exported to: %1$s</string>
     <string name="import_bookmark_error">Couldn\'t import bookmarks from file</string>
     <string name="message_add_bookmark">Bookmark added successfully</string>
     <string name="message_exit">Press one more time to exit</string>
@@ -196,7 +196,7 @@
 
     <string name="already_default">It has already been set as default</string>
 
-    <string name="set_to_default">It will be set as default after opening link(%s), please choose via to open the link.</string>
+    <string name="set_to_default">It will be set as default after opening link(%1$s), please choose via to open the link.</string>
 
     <string name="sync_prompt">It will overwrite your current local bookmark and settings. Continue?</string>
     <string name="upload_prompt">It will upload your current local bookmark and settings. Continue?</string>
@@ -253,7 +253,7 @@
     <string name="ui_traditional">Sandwich</string>
     <string name="color_mode_hint">Auto-adjust color of operation bars</string>
     <string name="skin_hide_search_part">Hide Search Part</string>
-    <string name="file_size">File size</string>
+    <string name="file_size">File size: %1$s</string>
     <string name="search_by_pic">Search by Picture</string>
     <string name="resource_sniffer">Resource sniffer</string>
     <string name="res_log_hint">Click item to preview, long clicked item to download or do something else.</string>
@@ -278,12 +278,12 @@
     <string name="title_edit_favorite">Edit Favorite</string>
     <string name="custom_css_special">Add Custom CSS</string>
     <string name="force_enable_zoom">Enable Force Zoom</string>
-    <string name="set_ua_as">User-Agent set as %s</string>
+    <string name="set_ua_as">User-Agent set as %1$s</string>
     <string name="import_data">Import Data</string>
     <string name="import_data_failed">Failed to import data!</string>
     <string name="import_data_succeed">Data imported successfully!</string>
     <string name="export_data">Export Data</string>
-    <string name="export_data_to">Data Exported to: %s</string>
+    <string name="export_data_to">Data Exported to: %1$s</string>
     <string name="always_restore">Always restore</string>
     <string name="ask_first">Ask first</string>
     <string name="disable_restore">Don\'t restore</string>

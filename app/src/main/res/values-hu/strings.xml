@@ -86,7 +86,7 @@
     <string name="image_on">Képek megjelenítése</string>
     <string name="title_file_chooser">Fájl választó</string>
     <string name="import_bookmarks">Könyvjelzők importálása</string>
-    <string name="bookmark_export_path">Könyvjelzők exportálva ide\n</string>
+    <string name="export_bookmarks_to">Könyvjelzők exportálva ide: %1$s</string>
     <string name="import_bookmark_error">Nem sikerült a könyvjelzők importálása fájlból</string>
     <string name="message_add_bookmark">Könyjelző hozzáadva</string>
     <string name="message_exit">Kilépéshez nyomd meg még egyszer</string>
@@ -252,7 +252,7 @@
     <string name="ui_traditional">Tradicionális</string>
     <string name="color_mode_hint">Állapotsor színezése böngészéskor</string>
     <string name="skin_hide_search_part">Keresési Részleg Elrejtése</string>
-    <string name="file_size">Fájl mérete</string>
+    <string name="file_size">Fájl mérete: %1$s</string>
     <string name="search_by_pic">Keresés kép alapján</string>
     <string name="resource_sniffer">Erőforrás nézegető</string>
     <string name="res_log_hint">Előnézethez kattints egy elemre, hosszú kattintással letöltés vagy egyéb művelet.</string>
@@ -277,5 +277,5 @@
     <string name="title_edit_favorite">Kedvenc Szerkesztése</string>
     <string name="custom_css_special">Egyedi CSS hozzáadása</string>
     <string name="force_enable_zoom">Kényszerített nagyítás engedélyezése</string>
-    <string name="set_ua_as">%s felhasználói ügynök kiválasztva</string>
+    <string name="set_ua_as">%1$s felhasználói ügynök kiválasztva</string>
 </resources>

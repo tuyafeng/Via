@@ -62,7 +62,7 @@
     <string name="action_find">Pronađi u Stranici</string>
     <string name="download_pending">Počinjem Preuzimanje\u2026</string>
     <string name="cannot_download">Samo \"http\" ili \"https\" URL-ovi mogu biti preuzeti.</string>
-    <string name="bookmarks_imported">Knjižne Oznake uvezene</string>
+    <string name="bookmarks_imported">%1$d Knjižne Oznake uvezene</string>
     <string name="custom_url">Prilagođeni URL</string>
     <string name="baidu_url">Baidu</string>
     <string name="shenma_url">ShenMa</string>
@@ -95,7 +95,7 @@
     <string name="image_on">Prikaži slike</string>
     <string name="title_file_chooser">Biratelj Datoteka</string>
     <string name="import_bookmarks">Uvezi Knjižne Oznake</string>
-    <string name="bookmark_export_path">Knjižne Oznake izvezene u\n</string>
+    <string name="export_bookmarks_to">Knjižne Oznake izvezene u: %1$s</string>
     <string name="import_bookmark_error">Nije bilo moguće uvesti knjižne oznake iz ove datoteke</string>
     <string name="message_add_bookmark">Knjižna oznaka je uspješno dodana</string>
     <string name="message_exit">Pritisnite još jednom da bi ste izišli</string>
@@ -204,7 +204,7 @@
 
     <string name="already_default">Već je postavljeno kao zadano</string>
 
-    <string name="set_to_default">Nakon otvaranja poveznice(%s), bit će postavljeno zadano. Molimo Vas da odaberete način otvaranja poveznice.</string>
+    <string name="set_to_default">Nakon otvaranja poveznice(%1$s), bit će postavljeno zadano. Molimo Vas da odaberete način otvaranja poveznice.</string>
 
     <string name="upload_prompt">Ovo će prenijet tvoje lokalne knjižne oznake i postavke. Nastaviti?</string>
     <string name="none">Ništa</string>
@@ -260,7 +260,7 @@
     <string name="ui_traditional">Sendvić</string>
     <string name="color_mode_hint">Automatski prilagodi boju operacija na rešetci</string>
     <string name="skin_hide_search_part">Hide Search Part</string>
-    <string name="file_size">Veličina datoteke</string>
+    <string name="file_size">Veličina datoteke: %1$s</string>
     <string name="search_by_pic">Traži po Slici</string>
     <string name="resource_sniffer">Resource sniffer</string>
     <string name="res_log_hint">Klikni predmet za pregled, kliknite i držite predmet za preuzimanje ili nešto drugo.</string>
@@ -285,12 +285,12 @@
     <string name="title_edit_favorite">Uredi Najdraže</string>
     <string name="custom_css_special">Dodaj Prilagođeni CSS</string>
     <string name="force_enable_zoom">Omogući Prisilno Uvećanje</string>
-    <string name="set_ua_as">Postavi %s za trenutnog user agenta</string>
+    <string name="set_ua_as">Postavi %1$s za trenutnog user agenta</string>
     <string name="import_data">Uvezi Podatke</string>
     <string name="import_data_failed">Uvoz podataka nije uspio!</string>
     <string name="import_data_succeed">Podaci Uspješno Uvezeni!</string>
     <string name="export_data">Izvezi Podatke</string>
-    <string name="export_data_to">Izvezi Podatke u: %s</string>
+    <string name="export_data_to">Izvezi Podatke u: %1$s</string>
     <string name="always_restore">Uvijek Vrati</string>
     <string name="ask_first">Prvo pitaj</string>
     <string name="disable_restore">Nemoj vratiti</string>
@@ -318,8 +318,8 @@
     <string name="chinese_server">Kinesko</string>
     <string name="global_server">Globalno</string>
     <string name="server_message">Podaci ovih servera nisu sinkronizirani. Morat će te se prijaviti ponovno.</string>
-    <string name="delete_bookmark_folder_message">Knjižne oznake u folderu %s će također biti izbrisane. Jeste li sigurni?</string>
+    <string name="delete_bookmark_folder_message">Knjižne oznake u folderu %1$s će također biti izbrisane. Jeste li sigurni?</string>
     <string name="action_new">Novo</string>
-    <string name="block_hint">Blokirano: %s\nosvježite da bi imalo učinak.</string>
-    <string name="unblock_hint">Odblokirano: %s\nosvježite da bi imalo učinak.</string>
+    <string name="block_hint">Blokirano: %1$s\nosvježite da bi imalo učinak.</string>
+    <string name="unblock_hint">Odblokirano: %1$s\nosvježite da bi imalo učinak.</string>
 </resources>

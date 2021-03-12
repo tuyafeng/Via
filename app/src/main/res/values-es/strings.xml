@@ -96,7 +96,7 @@
     <string name="image_on">Ver imágenes</string>
     <string name="title_file_chooser">Selector de archivos</string>
     <string name="import_bookmarks">Importar marcadores</string>
-    <string name="bookmark_export_path">Marcadores exportados a\n</string>
+    <string name="export_bookmarks_to">Marcadores exportados a: %1$s</string>
     <string name="import_bookmark_error">¡No se pudieron importar marcadores del archivo!</string>
     <string name="message_add_bookmark">Marcador añadido con éxito</string>
     <string name="message_exit">Pulse una vez más para salir</string>
@@ -193,7 +193,7 @@
     <string name="network_log">Registro de red</string>
     <string name="conn_timeout">Tiempo de conexión agotado</string>
     <string name="already_default">Ya se ha configurado como predeterminado</string>
-    <string name="set_to_default">Se establecerá como predeterminado tras abrir el enlace %s. Por favor, seleccione Via para abrir el enlace.</string>
+    <string name="set_to_default">Se establecerá como predeterminado tras abrir el enlace %1$s. Por favor, seleccione Via para abrir el enlace.</string>
     <string name="sync_prompt">Sus marcadores y configuraciones locales actuales se sobrescribirán. ¿Continuar?</string>
     <string name="upload_prompt">Sus marcadores y configuraciones locales actuales se subirán. ¿Continuar?</string>
     <string name="none">Ninguno</string>
@@ -249,7 +249,7 @@
     <string name="ui_traditional">Sandwich</string>
     <string name="color_mode_hint">Auto ajustar el color de las barras de herramientas</string>
     <string name="skin_hide_search_part">Ocultar la parte de búsqueda</string>
-    <string name="file_size">Tamaño del archivo</string>
+    <string name="file_size">Tamaño del archivo: %1$s</string>
     <string name="search_by_pic">Buscar por imagen</string>
     <string name="resource_sniffer">Analizador de recursos</string>
     <string name="res_log_hint">Pulse un elemento para obtener una vista previa, o manténgalo pulsado para descargar o hacer otra cosa.</string>
@@ -274,12 +274,12 @@
     <string name="title_edit_favorite">Editar marcador</string>
     <string name="custom_css_special">Añadir CSS personalizado</string>
     <string name="force_enable_zoom">Activar zoom forzado</string>
-    <string name="set_ua_as">Agente de usuario establecido como: %s</string>
+    <string name="set_ua_as">Agente de usuario establecido como: %1$s</string>
     <string name="import_data">Importar datos</string>
     <string name="import_data_failed">¡Error al importar datos!</string>
     <string name="import_data_succeed">¡Datos importados con éxito!</string>
     <string name="export_data">Exportar datos</string>
-    <string name="export_data_to">Exportar datos a: %s</string>
+    <string name="export_data_to">Exportar datos a: %1$s</string>
     <string name="always_restore">Restaurar siempre</string>
     <string name="ask_first">Preguntar primero</string>
     <string name="disable_restore">No restaurar</string>
@@ -307,17 +307,17 @@
     <string name="chinese_server">Chino</string>
     <string name="global_server">Global</string>
     <string name="server_message">Los datos de estos servidores no están sincronizados. Se le pedirá que inicie sesión nuevamente.</string>
-    <string name="delete_bookmark_folder_message">Los marcadores en la carpeta %s también serán eliminados. ¿Continuar?</string>
+    <string name="delete_bookmark_folder_message">Los marcadores en la carpeta %1$s también serán eliminados. ¿Continuar?</string>
     <string name="action_new">Nuevo</string>
-    <string name="block_hint">Bloqueado: %s\nActualice para que surta efecto.</string>
-    <string name="unblock_hint">Desbloqueado: %s\nActualice para que surta efecto.</string>
+    <string name="block_hint">Bloqueado: %1$s\nActualice para que surta efecto.</string>
+    <string name="unblock_hint">Desbloqueado: %1$s\nActualice para que surta efecto.</string>
     <string name="block_3rd_party_cookies">Bloquear cookies de terceros</string>
-    <string name="enable_site_conf">Activar la configuración del sitio para %s</string>
+    <string name="enable_site_conf">Activar la configuración del sitio para %1$s</string>
     <string name="site_conf">Configuración del sitio</string>
     <string name="ui_simple_top">Barra de herramientas en la parte superior</string>
     <string name="ui_simple_bottom">Barra de herramientas en la parte inferior</string>
     <string name="file_does_not_exist">El archivo no existe</string>
-    <string name="dialog_message_from">Mensaje de %s</string>
+    <string name="dialog_message_from">Mensaje de %1$s</string>
     <string name="filter_subscriptions">Suscripciones de filtros</string>
     <string name="filter_subscriptions_description">Suscribirse a las listas de filtros de Adblock Plus</string>
     <string name="filter_subscription_exist">La suscripción de filtro ya existe.</string>
@@ -328,7 +328,7 @@
     <string name="edit_filter_subscription">Editar suscripción de filtro</string>
     <string name="updating_filter_subscriptions">Actualizando suscripciones de filtros</string>
     <string name="update_filter_subscriptions_completed">Actualización de suscripciones de filtros completada.</string>
-    <string name="update_filter_subscription_failed">Error al actualizar las suscripciones de filtros.\n%s</string>
+    <string name="update_filter_subscription_failed">Error al actualizar las suscripciones de filtros.\n%1$s</string>
     <string name="has_not_been_updated">no ha sido actualizado</string>
     <string name="long_ago">hace mucho tiempo</string>
     <string name="just_now">justo ahora</string>
@@ -361,8 +361,8 @@
         <item quantity="one">1 filtro</item>
         <item quantity="other">%d filtros</item>
     </plurals>
-    <string name="updated_">actualizado %s</string>
-    <string name="filter_subscription_info">%s, %s</string>
+    <string name="updated_">actualizado %1$s</string>
+    <string name="filter_subscription_info">%1$s, %1$s</string>
     <string name="enable_built_in_filters">Activar filtros integrados</string>
     <string name="enable_built_in_filters_description">Los filtros integrados solo bloquean los anuncios comunes</string>
     <string name="update">Actualizar</string>

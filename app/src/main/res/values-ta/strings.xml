@@ -96,7 +96,7 @@
     <string name="image_on">படங்களைக் காட்டு</string>
     <string name="title_file_chooser">கோப்பு தேர்வு</string>
     <string name="import_bookmarks">புக்மார்க்குகளை இறக்குமதி செய்க</string>
-    <string name="bookmark_export_path">புக்மார்க்குகள் ஏற்றுமதி செய்யப்பட்டன\n</string>
+    <string name="export_bookmarks_to">புக்மார்க்குகள் ஏற்றுமதி செய்யப்பட்டன: %1$s</string>
     <string name="import_bookmark_error">கோப்பிலிருந்து புக்மார்க்குகளை இறக்குமதி செய்ய முடியவில்லை!</string>
     <string name="message_add_bookmark">புக்மார்க்கு வெற்றிகரமாக சேர்க்கப்பட்டது</string>
     <string name="message_exit">வெளியேற இன்னும் ஒரு முறை அழுத்தவும்</string>
@@ -205,7 +205,7 @@
 
     <string name="already_default">இது ஏற்கனவே இயல்புநிலையாக அமைக்கப்பட்டுள்ளது</string>
 
-    <string name="set_to_default">%s இணைப்பைத் திறந்த பிறகு இது இயல்புநிலையாக அமைக்கப்படும். இணைப்பைத் திறக்க Via என்பதைத் தேர்ந்தெடுக்கவும்.</string>
+    <string name="set_to_default">%1$s இணைப்பைத் திறந்த பிறகு இது இயல்புநிலையாக அமைக்கப்படும். இணைப்பைத் திறக்க Via என்பதைத் தேர்ந்தெடுக்கவும்.</string>
 
     <string name="sync_prompt">உங்கள் தற்போதைய உள்ளூர் புக்மார்க்குகள் மற்றும் அமைப்புகள் மேலெழுதப்படும். தொடரவா?</string>
     <string name="upload_prompt">உங்கள் தற்போதைய உள்ளூர் புக்மார்க்குகள் மற்றும் அமைப்புகள் பதிவேற்றப்படும். தொடரவா?</string>
@@ -262,7 +262,7 @@
     <string name="ui_traditional">Sandwich</string>
     <string name="color_mode_hint">கருவிப்பட்டிகளின் வண்ணத்தை தானாக சரிசெய்</string>
     <string name="skin_hide_search_part">தேடல் பகுதியை மறை</string>
-    <string name="file_size">கோப்பின் அளவு</string>
+    <string name="file_size">கோப்பின் அளவு: %1$s</string>
     <string name="search_by_pic">படம் மூலம் தேடு</string>
     <string name="resource_sniffer">வள மோப்பான்</string>
     <string name="res_log_hint">முன்னோட்டமிட ஒரு உருப்படியை அழுத்தவும் அல்லது பதிவிறக்க அல்லது வேறு ஏதாவது செய்ய நீண்ட நேரம் அழுத்தவும்.</string>
@@ -287,12 +287,12 @@
     <string name="title_edit_favorite">பிடித்ததைத் திருத்து</string>
     <string name="custom_css_special">தனிப்பயன் CSS ஐச் சேர்க்கவும்</string>
     <string name="force_enable_zoom">படை பெரிதாக்கத்தை இயக்கு</string>
-    <string name="set_ua_as">பயனர் முகவர் இவ்வாறு அமைக்கப்பட்டுள்ளது: %s</string>
+    <string name="set_ua_as">பயனர் முகவர் இவ்வாறு அமைக்கப்பட்டுள்ளது: %1$s</string>
     <string name="import_data">தரவு இறக்குமதி</string>
     <string name="import_data_failed">தரவை இறக்குமதி செய்வதில் தோல்வி!</string>
     <string name="import_data_succeed">தரவு வெற்றிகரமாக இறக்குமதி செய்யப்பட்டது!</string>
     <string name="export_data">தரவை ஏற்றுமதி செய்க</string>
-    <string name="export_data_to">தரவை ஏற்றுமதி செய்யுங்கள்: %s</string>
+    <string name="export_data_to">தரவை ஏற்றுமதி செய்யுங்கள்: %1$s</string>
     <string name="always_restore">எப்போதும் மீட்டமை</string>
     <string name="ask_first">முதலில் கேளுங்கள்</string>
     <string name="disable_restore">மீட்டெடுக்க வேண்டாம்</string>
@@ -320,17 +320,17 @@
     <string name="chinese_server">சீன</string>
     <string name="global_server">உலகளாவிய</string>
     <string name="server_message">இந்த சேவையகங்களின் தரவு ஒத்திசைக்கப்படவில்லை. நீங்கள் மீண்டும் உள்நுழைய வேண்டும்.</string>
-    <string name="delete_bookmark_folder_message">%s கோப்புறையில் உள்ள புக்மார்க்குகளும் நீக்கப்படும். நீ சொல்வது உறுதியா?</string>
+    <string name="delete_bookmark_folder_message">%1$s கோப்புறையில் உள்ள புக்மார்க்குகளும் நீக்கப்படும். நீ சொல்வது உறுதியா?</string>
     <string name="action_new">புதியது</string>
-    <string name="block_hint">Blocked: %s\nநடைமுறைக்கு வர புதுப்பிக்கவும்.</string>
-    <string name="unblock_hint">Unblocked: %s\nநடைமுறைக்கு வர புதுப்பிக்கவும்.</string>
+    <string name="block_hint">Blocked: %1$s\nநடைமுறைக்கு வர புதுப்பிக்கவும்.</string>
+    <string name="unblock_hint">Unblocked: %1$s\nநடைமுறைக்கு வர புதுப்பிக்கவும்.</string>
     <string name="block_3rd_party_cookies">3 வது தரப்பு குக்கீகளைத் தடு</string>
-    <string name="enable_site_conf">%s க்கு தள உள்ளமைவை இயக்கவும்</string>
+    <string name="enable_site_conf">%1$s க்கு தள உள்ளமைவை இயக்கவும்</string>
     <string name="site_conf">தள உள்ளமைவு</string>
     <string name="ui_simple_top">மேலே கருவிப்பட்டி</string>
     <string name="ui_simple_bottom">கீழே கருவிப்பட்டி</string>
     <string name="file_does_not_exist">கோப்பு இல்லை</string>
-    <string name="dialog_message_from">%s இலிருந்து செய்தி</string>
+    <string name="dialog_message_from">%1$s இலிருந்து செய்தி</string>
     <string name="filter_subscriptions">சந்தாக்களை வடிகட்டவும்</string>
     <string name="filter_subscriptions_description">Adblock Plus வடிகட்டி பட்டியல்களை குழுசேரவும்</string>
     <string name="filter_subscription_exist">வடிகட்டி சந்தா ஏற்கனவே உள்ளது.</string>
@@ -341,7 +341,7 @@
     <string name="edit_filter_subscription">வடிகட்டி சந்தாவைத் திருத்துக</string>
     <string name="updating_filter_subscriptions">வடிகட்டி சந்தாக்களைப் புதுப்பித்தல்</string>
     <string name="update_filter_subscriptions_completed">வடிகட்டி சந்தாக்கள் புதுப்பிப்பு முடிந்தது.</string>
-    <string name="update_filter_subscription_failed">வடிகட்டி சந்தாக்கள் புதுப்பிப்பு தோல்வியுற்றது.\n%s</string>
+    <string name="update_filter_subscription_failed">வடிகட்டி சந்தாக்கள் புதுப்பிப்பு தோல்வியுற்றது.\n%1$s</string>
     <string name="has_not_been_updated">புதுப்பிக்கப்படவில்லை</string>
     <string name="long_ago">நீண்ட முன்பு</string>
     <string name="just_now">இப்போது</string>
@@ -374,8 +374,8 @@
         <item quantity="one">1 வடிப்பான்</item>
         <item quantity="other">%d வடிப்பான்கள்</item>
     </plurals>
-    <string name="updated_">புதுப்பிக்கப்பட்ட %s</string>
-    <string name="filter_subscription_info">%s, %s</string>
+    <string name="updated_">புதுப்பிக்கப்பட்ட %1$s</string>
+    <string name="filter_subscription_info">%1$s, %1$s</string>
     <string name="enable_built_in_filters">உள்ளமைக்கப்பட்ட வடிப்பான்களை இயக்கு</string>
     <string name="enable_built_in_filters_description">உள்ளமைக்கப்பட்ட வடிப்பான்கள் பொதுவான விளம்பரங்களை மட்டுமே தடுக்கும்</string>
     <string name="update">புதுப்பிப்பு</string>

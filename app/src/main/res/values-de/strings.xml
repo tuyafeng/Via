@@ -63,7 +63,7 @@
     <string name="action_find">Auf Seite suchen</string>
     <string name="download_pending">Download startet\u2026</string>
     <string name="cannot_download">Nur von\"http\" oder \"https\" URLs kann heruntergeladen werden.</string>
-    <string name="bookmarks_imported">Lesezeichen wurden importiert</string>
+    <string name="bookmarks_imported">%1$d Lesezeichen wurden importiert</string>
     <string name="custom_url">Eigene URL</string>
     <string name="baidu_url">Baidu</string>
     <string name="shenma_url">ShenMa</string>
@@ -96,7 +96,7 @@
     <string name="image_on">Bild anzeigen</string>
     <string name="title_file_chooser">Dateiauswahl</string>
     <string name="import_bookmarks">Importiere Lesezeichen von Datei</string>
-    <string name="bookmark_export_path">Lesezeichen exportiert nach\n</string>
+    <string name="export_bookmarks_to">Lesezeichen exportiert nach: %1$s</string>
     <string name="import_bookmark_error">Kann Lesezeichen von Datei nicht importieren!</string>
     <string name="message_add_bookmark">Lesezeichen erfolgreich hinzugefügt</string>
     <string name="message_exit">Erneut drücken zum Beenden</string>
@@ -205,7 +205,7 @@
     
     <string name="already_default">Bereits als Standard festgelegt</string>
     
-    <string name="set_to_default">Es wird als Standard festgelegt, nachdem der Link %s geöffnet wird. Bitte Via wählen, um den Link zu öffnen.</string>
+    <string name="set_to_default">Es wird als Standard festgelegt, nachdem der Link %1$s geöffnet wird. Bitte Via wählen, um den Link zu öffnen.</string>
     
     <string name="sync_prompt">Bestehende lokale Lesezeichen und Einstellungen werden überschrieben. Fortfahren?</string>
     <string name="upload_prompt">Bestehende lokale Lesezeichen und Einstellungen werden hochgeladen. Fortfahren?</string>
@@ -262,7 +262,7 @@
     <string name="ui_traditional">Sandwich</string>
     <string name="color_mode_hint">Toolbars beim browsen einfärben</string>
     <string name="skin_hide_search_part">Suchteil ausblenden</string>
-    <string name="file_size">Dateigröße</string>
+    <string name="file_size">Dateigröße: %1$s</string>
     <string name="search_by_pic">Nach Bild suchen</string>
     <string name="resource_sniffer">Ressource-Sniffer</string>
     <string name="res_log_hint">Zur Vorschau drücken, oder gedrückt halten zum Herunterladen.</string>
@@ -287,12 +287,12 @@
     <string name="title_edit_favorite">Favoriten bearbeiten</string>
     <string name="custom_css_special">Benutzer CSS hinzufügen</string>
     <string name="force_enable_zoom">Erzwinge Zoom</string>
-    <string name="set_ua_as">Benutzer-Agent als %s festgelegt</string>
+    <string name="set_ua_as">Benutzer-Agent als %1$s festgelegt</string>
     <string name="import_data">Importiere Daten</string>
     <string name="import_data_failed">Fehler beim Datenimport!</string>
     <string name="import_data_succeed">Daten erfolgreich importiert!</string>
     <string name="export_data">Exportiere Daten</string>
-    <string name="export_data_to">Exportiere Daten nach: %s</string>
+    <string name="export_data_to">Exportiere Daten nach: %1$s</string>
     <string name="always_restore">Immer wiederherstellen</string>
     <string name="ask_first">Auf Nachfrage</string>
     <string name="disable_restore">Nicht wiederherstellen</string>
@@ -320,17 +320,17 @@
     <string name="chinese_server">Chinesisch</string>
     <string name="global_server">Global</string>
     <string name="server_message">Die Daten dieser Server sind nicht synchronisiert. Es ist erforderlich, sich erneut anzumelden.</string>
-    <string name="delete_bookmark_folder_message">Lesezeichen im Ordner %s werden auch gelöscht. Sind Sie sicher?</string>
+    <string name="delete_bookmark_folder_message">Lesezeichen im Ordner %1$s werden auch gelöscht. Sind Sie sicher?</string>
     <string name="action_new">Neu</string>
-    <string name="block_hint">Blockiert: %s\nAktualisieren zum Aktivieren.</string>
-    <string name="unblock_hint">Entblockt: %s\nAktualisieren zum Aktivieren.</string>
+    <string name="block_hint">Blockiert: %1$s\nAktualisieren zum Aktivieren.</string>
+    <string name="unblock_hint">Entblockt: %1$s\nAktualisieren zum Aktivieren.</string>
     <string name="block_3rd_party_cookies">Blockiere Drittanbieter-Cookies</string>
-    <string name="enable_site_conf">Seiten-Konfiguration für %s aktivieren</string>
+    <string name="enable_site_conf">Seiten-Konfiguration für %1$s aktivieren</string>
     <string name="site_conf">Seiten-Konfiguration</string>
     <string name="ui_simple_top">Toolbar oben</string>
     <string name="ui_simple_bottom">Toolbar unten</string>
     <string name="file_does_not_exist">Die Datei existiert nicht</string>
-    <string name="dialog_message_from">Nachricht von %s</string>
+    <string name="dialog_message_from">Nachricht von %1$s</string>
     <string name="filter_subscriptions">Filter-Anforderungen</string>
     <string name="filter_subscriptions_description">Fordern Sie Adblock Plus Filterlisten an</string>
     <string name="filter_subscription_exist">Die Filter-Anforderung existiert bereits.</string>
@@ -341,7 +341,7 @@
     <string name="edit_filter_subscription">Filter-Anforderung bearbeiten</string>
     <string name="updating_filter_subscriptions">Filter-Anforderung aktualisieren</string>
     <string name="update_filter_subscriptions_completed">Filter-Anforderungs-Aktualisierung abgeschlossen.</string>
-    <string name="update_filter_subscription_failed">Filter-Anforderungs-Aktualisierung fehlgeschlagen.\n%s</string>
+    <string name="update_filter_subscription_failed">Filter-Anforderungs-Aktualisierung fehlgeschlagen.\n%1$s</string>
     <string name="has_not_been_updated">wurde nicht aktualisiert</string>
     <string name="long_ago">lang her</string>
     <string name="just_now">gerade eben</string>
@@ -374,8 +374,8 @@
         <item quantity="one">1 Filter</item>
         <item quantity="other">%d Filter</item>
     </plurals>
-    <string name="updated_">Aktualisiert %s</string>
-    <string name="filter_subscription_info">%s, %s</string>
+    <string name="updated_">Aktualisiert %1$s</string>
+    <string name="filter_subscription_info">%1$s, %1$s</string>
     <string name="enable_built_in_filters">Integrierte Filter aktivieren</string>
     <string name="enable_built_in_filters_description">Integrierte Filter blockieren nur gängige Anzeigen</string>
     <string name="update">Aktualisierung</string>

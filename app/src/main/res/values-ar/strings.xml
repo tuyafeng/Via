@@ -57,7 +57,7 @@
   <string name="action_find">البحث في الصفحة</string>
   <string name="download_pending">بدأ التنزيل\u2026</string>
   <string name="cannot_download">يمكن تحميل فقط \"http\" أو \"https\" URLs.</string>
-  <string name="bookmarks_imported">الإشارات المرجعية تم استيرادها</string>
+  <string name="bookmarks_imported">الإشارات المرجعية تم استيرادها %1$d</string>
   <string name="custom_url">تخصيص عنوان الرابط</string>
   <string name="baidu_url">Baidu</string>
   <string name="shenma_url">ShenMa</string>
@@ -85,7 +85,7 @@
   <string name="image_on">عرض الصورة</string>
   <string name="title_file_chooser">ملف تم إختياره</string>
   <string name="import_bookmarks">استيراد الإشارات المرجعية</string>
-  <string name="bookmark_export_path">الإشارات المرجعية التي تم تصديرها إلى\n</string>
+  <string name="export_bookmarks_to">الإشارات المرجعية التي تم تصديرها إلى\: %1$s</string>
   <string name="import_bookmark_error">لقد تعذر استيراد الإشارات المرجعية من الملف</string>
     <string name="message_add_bookmark">تم إضافة المرجعية بنجاح</string>
   <string name="message_exit">اضغط مرة أخرى للخروج</string>
@@ -182,7 +182,7 @@
   <string name="network_log">سجل الشبكة</string>
   <string name="conn_timeout">انتهت مدة الاتصال</string>
   <string name="already_default">يتم ضبطه على الإعداد الافتراضي</string>
-  <string name="set_to_default">سيتم ضبطه على الإعداد الافتراضي بعد استخدامه على الرابط المفتوح(%s), يرجى اختيار عبر لفتح الرابط.</string>
+  <string name="set_to_default">سيتم ضبطه على الإعداد الافتراضي بعد استخدامه على الرابط المفتوح(%1$s), يرجى اختيار عبر لفتح الرابط.</string>
     <string name="sync_prompt">سيؤدي إلى استبدال الإشارة المرجعية والإعدادات المحلية الحالية. استمر؟</string>
   <string name="upload_prompt">فإنه سيتم الرفع الإشارة المرجعية المفضلة والإعدادات الخاص بك الحالية . مواصلة؟</string>
   <string name="none">لاشيء</string>
@@ -238,7 +238,7 @@
   <string name="ui_traditional">التقليدية</string>
   <string name="color_mode_hint">اللون العملية والشريط عند التصفح</string>
     <string name="skin_hide_search_part">إخفاء جزء البحث</string>
-  <string name="file_size">حجم الملف</string>
+  <string name="file_size">حجم الملف: %1$s</string>
   <string name="search_by_pic">البحث عن طريق الصورة</string>
   <string name="resource_sniffer">فحص ملفات الميديا</string>
   <string name="res_log_hint">انقر فوق العنصر للمعاينة ، انقر فوق عنصر طويل لتنزيل أو القيام بشيء آخر.</string>

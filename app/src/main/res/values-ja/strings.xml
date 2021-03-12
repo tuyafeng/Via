@@ -135,7 +135,7 @@
     <string name="image_on">画像を表示</string>
     <string name="title_file_chooser">ファイルを開く</string>
     <string name="import_bookmarks">バックアップからブックマークを読み込む</string>
-    <string name="bookmark_export_path">ブックマークの書き出し先\n</string>
+    <string name="export_bookmarks_to">ブックマークの書き出し先: %1$s</string>
     <string name="import_bookmark_error">読み込めませんでした</string>
     <string name="message_add_bookmark">追加しました</string>
     <string name="message_exit">もう一度押すとアプリを終了します</string>
@@ -242,7 +242,7 @@
 
     <string name="already_default">デフォルトのブラウザに設定されています</string>
 
-    <string name="set_to_default">設定を適用するには Via で %s を開いてください</string>
+    <string name="set_to_default">設定を適用するには Via で %1$s を開いてください</string>
 
     <string name="sync_prompt">ブックマークと設定を上書きしますか？</string>
     <string name="upload_prompt">ブックマークと設定をアップロードしますか？</string>
@@ -310,7 +310,7 @@
     <string name="empty_password_info">パスワードを入力してください。</string>
     <string name="offline_page_hint">以下は保存済みページです。インターネット接続が無くても閲覧可能です。</string>
     <string name="history_page_hint_when_incognito">シークレットモード中です。シークレットモードでは履歴は保存されません。</string>
-    <string name="file_size">ファイルサイズ</string>
+    <string name="file_size">ファイルサイズ: %1$s</string>
     <string name="action_preview">プレビュー</string>
     <string name="action_page_info">ページ情報</string>
     <string name="page_info_title">タイトル:</string>
@@ -324,12 +324,12 @@
     <string name="title_edit_favorite">ブックマークを編集</string>
     <string name="custom_css_special">カスタムCSSを追加</string>
     <string name="force_enable_zoom">強制的にズームを有効にする</string>
-    <string name="set_ua_as">UserAgentは %s に設定されました</string>
+    <string name="set_ua_as">UserAgentは %1$s に設定されました</string>
     <string name="import_data">設定のインポート</string>
     <string name="import_data_failed">設定のインポートに失敗しました！</string>
     <string name="import_data_succeed">設定のインポートに成功しました！</string>
     <string name="export_data">設定のエクスポート</string>
-    <string name="export_data_to">エクスポート先: %s</string>
+    <string name="export_data_to">エクスポート先: %1$s</string>
     <string name="data_file">データエクスポート</string>
     <string name="always_restore">常にタブを復元する</string>
     <string name="ask_first">起動時に確認する</string>
@@ -356,13 +356,13 @@
     <string name="global_server">グローバル</string>
     <string name="server_message">このサーバーではデータの同期はされていません。再度ログインする必要があります。</string>
     <string name="action_new">新規作成</string>
-    <string name="block_hint">ブロック済み: %s\n再読み込みして有効化します。</string>
-    <string name="unblock_hint">ブロック解除済み: %s\n再読み込みして有効化します。</string>
+    <string name="block_hint">ブロック済み: %1$s\n再読み込みして有効化します。</string>
+    <string name="unblock_hint">ブロック解除済み: %1$s\n再読み込みして有効化します。</string>
     <string name="block_3rd_party_cookies">サードパーティーCookieをブロック</string>
-    <string name="enable_site_conf">\"%s\"のサイト別設定を有効にする</string>
+    <string name="enable_site_conf">\"%1$s\"のサイト別設定を有効にする</string>
     <string name="site_conf">サイト別設定</string>
     <string name="file_does_not_exist">ファイルがありません</string>
-    <string name="dialog_message_from">%sからのメッセージ</string>
+    <string name="dialog_message_from">%1$sからのメッセージ</string>
     <string name="filter_subscriptions">購読フィルターリスト</string>
     <string name="filter_subscriptions_description">登録されているAdblock Plusフィルターのリストです</string>
     <string name="filter_subscription_exist">このフィルターは既に登録されています</string>
@@ -373,7 +373,7 @@
     <string name="edit_filter_subscription">購読中のフィルターを編集します</string>
     <string name="updating_filter_subscriptions">購読中のフィルターを更新しています</string>
     <string name="update_filter_subscriptions_completed">購読中のフィルターの更新が完了しました</string>
-    <string name="update_filter_subscription_failed">フィルター「\n%s」の更新に失敗しました</string>
+    <string name="update_filter_subscription_failed">フィルター「\n%1$s」の更新に失敗しました</string>
     <string name="has_not_been_updated">更新されていません</string>
     <string name="long_ago">かなり前</string>
     <string name="just_now">たった今</string>
@@ -401,8 +401,8 @@
     <plurals name="filters">
         <item quantity="other">%d フィルター</item>
     </plurals>
-    <string name="updated_">%s をアップデートしました</string>
-    <string name="filter_subscription_info">%s, %s</string>
+    <string name="updated_">%1$s をアップデートしました</string>
+    <string name="filter_subscription_info">%1$s, %1$s</string>
     <string name="enable_built_in_filters">デフォルトのブロックフィルターを適用する</string>
     <string name="enable_built_in_filters_description">デフォルトのフィルターは一般的な広告のみをブロックします。</string>
     <string name="update">アップデート</string>

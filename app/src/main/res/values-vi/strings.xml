@@ -86,7 +86,7 @@
     <string name="image_on">Hiển thị ảnh</string>
     <string name="title_file_chooser">Chọn tập tin</string>
     <string name="import_bookmarks">Nhập dấu trang</string>
-    <string name="bookmark_export_path">Dấu trang đã xuất sang\n</string>
+    <string name="export_bookmarks_to">Dấu trang đã xuất sang: %1$s</string>
     <string name="import_bookmark_error">Không thể nhập dấu trang từ tệp tin</string>
     <string name="message_add_bookmark">Đã thêm dấu trang thành công</string>
     <string name="message_exit">Nhấn lần nữa để thoát</string>
@@ -195,7 +195,7 @@
 
     <string name="already_default">Đã được thiết lập về mặc định</string>
 
-    <string name="set_to_default">Điều này sẽ được thiết lập thành mặc định sau khi mở liên kết(%s), hãy chọn Via để mở liên kết.</string>
+    <string name="set_to_default">Điều này sẽ được thiết lập thành mặc định sau khi mở liên kết(%1$s), hãy chọn Via để mở liên kết.</string>
 
     <string name="sync_prompt">Điều này sẽ ghi đè lên dấu trang và cài đặt hiện tại của bạn. Bạn có muốn tiếp tục?</string>
     <string name="upload_prompt">Điều này sẽ tải lên dấu trang và cài đặt hiện tại của bạn. Bạn có muốn tiếp tục?</string>
@@ -252,7 +252,7 @@
     <string name="ui_traditional">Truyền thống</string>
     <string name="color_mode_hint">Thanh địa chỉ màu sắc khi duyệt web</string>
     <string name="skin_hide_search_part">Ẩn khung Tìm kiếm</string>
-    <string name="file_size">Kích thước tệp</string>
+    <string name="file_size">Kích thước tệp: %1$s</string>
     Nhấp để Xem
     <string name="search_by_pic">Tìm kiếm hình ảnh</string>
     <string name="resource_sniffer">Tải về tài nguyên</string>

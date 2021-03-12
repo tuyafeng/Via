@@ -62,7 +62,7 @@
     <string name="action_find">Rechercher dans la Page</string>
     <string name="download_pending">Démarrage du téléchargement\u2026</string>
     <string name="cannot_download">Seules les URLs \"http\" ou \"https\" peuvent être téléchargées.</string>
-    <string name="bookmarks_imported">Les favoris ont été importés</string>
+    <string name="bookmarks_imported">%1$d Les favoris ont été importés</string>
     <string name="custom_url">URL personnalisée</string>
     <string name="baidu_url">Baidu</string>
     <string name="shenma_url">ShenMa</string>
@@ -95,7 +95,7 @@
     <string name="image_on">Bloquer les images</string>
     <string name="title_file_chooser">Sélectionneur de fichiers</string>
     <string name="import_bookmarks">Importer les favoris</string>
-    <string name="bookmark_export_path">Favoris exportés vers\n</string>
+    <string name="export_bookmarks_to">Favoris exportés vers: %1$s</string>
     <string name="import_bookmark_error">Impossible d\'importer les favoris à partir du fichier</string>
     <string name="message_add_bookmark">Favori ajouté avec succès</string>
     <string name="message_exit">Appuyez une nouvelle fois pour quitter</string>
@@ -204,7 +204,7 @@
 
     <string name="already_default">Déjà réglé sur défaut</string>
 
-    <string name="set_to_default">Sera paramétré par défaut après avoir utilisé le lien ouvert (%s), choisir Via pour ouvrir le lien.</string>
+    <string name="set_to_default">Sera paramétré par défaut après avoir utilisé le lien ouvert (%1$s), choisir Via pour ouvrir le lien.</string>
 
     <string name="sync_prompt">Cette action remplacera vos favoris et vos paramètres locaux actuels par ceux du serveur. Continuer ?</string>
     <string name="upload_prompt">Cette action enverra vos favoris et paramètres locaux actuels vers le serveur. Continuer ?</string>
@@ -261,7 +261,7 @@
     <string name="ui_traditional">Normal</string>
     <string name="color_mode_hint">Ajustement automatique de la couleur de la barre d\'action lors de la navigation</string>
     <string name="skin_hide_search_part">Masquer la barre de recherche</string>
-    <string name="file_size">Taille du fichier</string>
+    <string name="file_size">Taille du fichier: %1$s</string>
     <string name="search_by_pic">Recherche par image</string>
     <string name="resource_sniffer">Renifleur de ressources</string>
     <string name="res_log_hint">Clic sur un élément pour le prévisualiser, appui long sur un élément pour afficher le menu des actions possibles.</string>
@@ -286,12 +286,12 @@
     <string name="title_edit_favorite">Modifier le favori</string>
     <string name="custom_css_special">Ajouter une règle CSS personnalisée</string>
     <string name="force_enable_zoom">Activer le zoom forcé</string>
-    <string name="set_ua_as">L\'agent utilisateur actuel est %s</string>
+    <string name="set_ua_as">L\'agent utilisateur actuel est %1$s</string>
     <string name="import_data">Importer les données</string>
     <string name="import_data_failed">Echec de l\'import des données !</string>
     <string name="import_data_succeed">Import des données réussi !</string>
     <string name="export_data">Exporter les données</string>
-    <string name="export_data_to">Export des données vers : %s</string>
+    <string name="export_data_to">Export des données vers : %1$s</string>
     <string name="always_restore">Toujours restaurer</string>
     <string name="ask_first">Demander</string>
     <string name="disable_restore">Ne pas restaurer</string>
@@ -299,6 +299,6 @@
     <string name="bookmarks_data_to_long">Les données de favoris sont trop volumineuses, mais les autres données vont être envoyées normalement. Continuer ?</string>
     <string name="restore_tabs_hint_settings">Les onglets ne seront pas restaurés quand vous êtes en \"Mode Incognito\".</string>
     <string name="ignore_secondary_ssl_error">Ignorer l\'erreur SSL secondaire</string>
-    <string name="block_hint">Bloqué: %s\nactualiser pour prendre en compte le paramètre.</string>
-    <string name="unblock_hint">Débloqué: %s\n pour prendre en compte le paramètre.</string>
+    <string name="block_hint">Bloqué: %1$s\nactualiser pour prendre en compte le paramètre.</string>
+    <string name="unblock_hint">Débloqué: %1$s\n pour prendre en compte le paramètre.</string>
 </resources>

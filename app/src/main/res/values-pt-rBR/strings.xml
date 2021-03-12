@@ -96,7 +96,7 @@
     <string name="image_on">Mostrar imagens</string>
     <string name="title_file_chooser">Seletor de arquivos</string>
     <string name="import_bookmarks">Importar favoritos</string>
-    <string name="bookmark_export_path">Favoritos exportados para\n</string>
+    <string name="export_bookmarks_to">Favoritos exportados para: %1$s</string>
     <string name="import_bookmark_error">Não foi possível importar favoritos do arquivo</string>
     <string name="message_add_bookmark">Favorito adicionado com sucesso</string>
     <string name="message_exit">Pressione mais uma vez para sair</string>
@@ -205,7 +205,7 @@
 
     <string name="already_default">Já foi definido como padrão</string>
 
-    <string name="set_to_default">Será definido como padrão após abrir o link %s, escolha Via para abrir o link.</string>
+    <string name="set_to_default">Será definido como padrão após abrir o link %1$s, escolha Via para abrir o link.</string>
 
     <string name="sync_prompt">Ele substituirá seus favoritos e configurações locais atuais. Continuar?</string>
     <string name="upload_prompt">Ele fará o envio dos seus favoritos e configurações locais atuais. Continuar?</string>
@@ -262,7 +262,7 @@
     <string name="ui_traditional">Centralizado</string>
     <string name="color_mode_hint">Ajustar automaticamente a cor das barras de operação</string>
     <string name="skin_hide_search_part">Ocultar parte da pesquisa</string>
-    <string name="file_size">Tamanho do arquivo</string>
+    <string name="file_size">Tamanho do arquivo: %1$s</string>
     <string name="search_by_pic">Pesquisa por imagem</string>
     <string name="resource_sniffer">Botão recurso</string>
     <string name="res_log_hint">Clique em um item para visualizar, clique nele para fazer o download ou faça outra coisa.</string>
@@ -287,12 +287,12 @@
     <string name="title_edit_favorite">Editar favorito</string>
     <string name="custom_css_special">Adicionar CSS personalizado</string>
     <string name="force_enable_zoom">Ativar zoom forçado</string>
-    <string name="set_ua_as">Defina o Agente de usuário atual como %s</string>
+    <string name="set_ua_as">Defina o Agente de usuário atual como %1$s</string>
     <string name="import_data">Importar dados</string>
     <string name="import_data_failed">Falha ao importar dados!</string>
     <string name="import_data_succeed">Dados importados com sucesso!</string>
     <string name="export_data">Exportar dados</string>
-    <string name="export_data_to">Exportar dados para: %s</string>
+    <string name="export_data_to">Exportar dados para: %1$s</string>
     <string name="always_restore">Restaurar sempre</string>
     <string name="ask_first">Pergunte primeiro</string>
     <string name="disable_restore">Não restaurar</string>
@@ -320,17 +320,17 @@
     <string name="chinese_server">Chinês</string>
     <string name="global_server">Global</string>
     <string name="server_message">Os dados desses servidores não são sincronizados. Você será solicitado a entrar novamente.</string>
-    <string name="delete_bookmark_folder_message">Os favoritos da pasta %s também serão excluídos. Você tem certeza?</string>
+    <string name="delete_bookmark_folder_message">Os favoritos da pasta %1$s também serão excluídos. Você tem certeza?</string>
     <string name="action_new">Novo</string>
-    <string name="block_hint">Bloqueado: %s\natualizar para fazer efeito.</string>
-    <string name="unblock_hint">Desbloqueado: %s\natualizar para fazer efeito.</string>
+    <string name="block_hint">Bloqueado: %1$s\natualizar para fazer efeito.</string>
+    <string name="unblock_hint">Desbloqueado: %1$s\natualizar para fazer efeito.</string>
     <string name="block_3rd_party_cookies">Bloquear cookies de terceiros</string>
-    <string name="enable_site_conf">Ativar configurações do site para \"%s\"</string>
+    <string name="enable_site_conf">Ativar configurações do site para \"%1$s\"</string>
     <string name="site_conf">Configurações do site</string>
     <string name="ui_simple_top">parte superior</string>
     <string name="ui_simple_bottom">parte inferior</string>
     <string name="file_does_not_exist">O arquivo não existe</string>
-    <string name="dialog_message_from">Mensagem de %s</string>
+    <string name="dialog_message_from">Mensagem de %1$s</string>
     <string name="filter_subscriptions">Filtro assinado</string>
     <string name="filter_subscriptions_description">listas de filtros Adblock Plus assinado</string>
     <string name="filter_subscription_exist">O filtro assinado já existe.</string>
@@ -341,7 +341,7 @@
     <string name="edit_filter_subscription">Editar filtro assinado</string>
     <string name="updating_filter_subscriptions">Atualizando filtro assinado</string>
     <string name="update_filter_subscriptions_completed">Atualização de filtros assinados concluída.</string>
-    <string name="update_filter_subscription_failed">Falha ao atualizar filtros assinados.\n%s</string>
+    <string name="update_filter_subscription_failed">Falha ao atualizar filtros assinados.\n%1$s</string>
     <string name="has_not_been_updated">não foi atualizado</string>
     <string name="long_ago">muito tempo atrás</string>
     <string name="just_now">Agora mesmo</string>
@@ -374,8 +374,8 @@
         <item quantity="one">1 filtro</item>
         <item quantity="other">%d filtros</item>
     </plurals>
-    <string name="updated_">atualizado %s</string>
-    <string name="filter_subscription_info">%s, %s</string>
+    <string name="updated_">atualizado %1$s</string>
+    <string name="filter_subscription_info">%1$s, %1$s</string>
     <string name="enable_built_in_filters">Ativar filtros integrados</string>
     <string name="enable_built_in_filters_description">Filtros integrados bloqueiam apenas anúncios comuns</string>
     <string name="update">Atualizar</string>

@@ -61,7 +61,7 @@
     <string name="action_find">পৃষ্ঠায় সন্ধান করুন</string>
     <string name="download_pending">ডাউনলোড শুরু হচ্ছে\u2026</string>
     <string name="cannot_download">কেবল \"http\" অথবা \"https\" URL ডাউনলোড করা যায়</string>
-    <string name="bookmarks_imported">বুকমার্কগুলি আমদানি করা হয়েছে</string>
+    <string name="bookmarks_imported">%1$d বুকমার্কগুলি আমদানি করা হয়েছে</string>
     <string name="custom_url">কাস্টম ইউআরএল</string>
     <string name="baidu_url">বাইডু</string>
     <string name="shenma_url">সেনমা</string>
@@ -94,7 +94,7 @@
     <string name="image_on">চিত্রগুলি দেখান</string>
     <string name="title_file_chooser">ফাইল চয়নকারী</string>
     <string name="import_bookmarks">বুকমার্কগুলি আমদানি করুন</string>
-    <string name="bookmark_export_path">Bবুকমার্ক রফতানি\n</string>
+    <string name="export_bookmarks_to">Bবুকমার্ক রফতানি: %1$s</string>
     <string name="import_bookmark_error">ফাইল থেকে বুকমার্ক আমদানি করা যায়নি</string>
     <string name="message_add_bookmark">বুকমার্ক সফলভাবে যোগ করা হয়েছে</string>
     <string name="message_exit">প্রস্থান করতে আরও একবার চাপুন</string>
@@ -203,7 +203,7 @@
 
     <string name="already_default">এটি ইতিমধ্যে ডিফল্ট হিসাবে সেট করা হয়েছে</string>
 
-    <string name="set_to_default">লিঙ্কটি(%s), খোলার পরে এটি ডিফল্ট হিসাবে সেট করা হবে, দয়া করে লিঙ্কটি খোলার মাধ্যমে চয়ন করুন.</string>
+    <string name="set_to_default">লিঙ্কটি(%1$s), খোলার পরে এটি ডিফল্ট হিসাবে সেট করা হবে, দয়া করে লিঙ্কটি খোলার মাধ্যমে চয়ন করুন.</string>
 
     <string name="sync_prompt">এটি আপনার বর্তমান স্থানীয় বুকমার্ক এবং সেটিংস ওভাররাইট করে। চালিয়ে যেতে চান?</string>
     <string name="upload_prompt">এটি আপনার বর্তমান স্থানীয় বুকমার্ক এবং সেটিংস আপলোড করবে। চালিয়ে যেতে চান?</string>
@@ -260,7 +260,7 @@
     <string name="ui_traditional">স্যান্ডউইচ</string>
     <string name="color_mode_hint">অপারেশন বারগুলির রঙ স্বয়ংক্রিয়ভাবে সমন্বয় করুন</string>
     <string name="skin_hide_search_part">অনুসন্ধানের অংশটি লুকান</string>
-    <string name="file_size">ফাইলের আকার</string>
+    <string name="file_size">ফাইলের আকার: %1$s</string>
     <string name="search_by_pic">ছবি অনুসারে অনুসন্ধান করুন</string>
     <string name="resource_sniffer">রিসোর্স স্নিফার</string>
     <string name="res_log_hint">পূর্বরূপ দেখতে আইটেমটি ক্লিক করুন, ডাউনলোড করতে বা অন্য কিছু করতে আইটেম দীর্ঘ ক্লিক করুন</string>
@@ -285,12 +285,12 @@
     <string name="title_edit_favorite">প্রিয় সম্পাদনা করুন</string>
     <string name="custom_css_special">কাস্টম সিএসএস যুক্ত করুন</string>
     <string name="force_enable_zoom">ফোর্স জুম সক্ষম করুন</string>
-    <string name="set_ua_as">বর্তমান ব্যবহারকারী এজেন্টকে %s হিসাবে সেট করুন</string>
+    <string name="set_ua_as">বর্তমান ব্যবহারকারী এজেন্টকে %1$s হিসাবে সেট করুন</string>
     <string name="import_data">ডেটা আমদানি করুন</string>
     <string name="import_data_failed">ডেটা আমদানি করতে ব্যর্থ!</string>
     <string name="import_data_succeed">ডেটা সফলভাবে আমদানি করা হয়েছে!</string>
     <string name="export_data">ডেটা রফতানি করুন</string>
-    <string name="export_data_to">এতে ডেটা রফতানি করুন: %s</string>
+    <string name="export_data_to">এতে ডেটা রফতানি করুন: %1$s</string>
     <string name="always_restore">সর্বদা পুনরুদ্ধার করুন</string>
     <string name="ask_first">প্রথমে জিজ্ঞাসা করুন</string>
     <string name="disable_restore">পুনরুদ্ধার করবেন না</string>
@@ -318,8 +318,8 @@
     <string name="chinese_server">চাইনিজ </string>
     <string name="global_server">গ্লোবাল </string>
     <string name="server_message">এই সার্ভারগুলির ডেটা সিঙ্ক্রোনাইজ করা হয় না। আপনাকে আবার লগ ইন করতে হবে।</string>
-    <string name="delete_bookmark_folder_message">%s  ফোল্ডারে থাকা বুকমার্কগুলিও মুছে ফেলা হবে। আপনি কি নিশ্চিত?</string>
+    <string name="delete_bookmark_folder_message">%1$s  ফোল্ডারে থাকা বুকমার্কগুলিও মুছে ফেলা হবে। আপনি কি নিশ্চিত?</string>
     <string name="action_new">নতুন</string>
-    <string name="block_hint">অবরুদ্ধ: কার্যকর করতে %s\n নতুন করে নেওয়া হয়েছে</string>
-    <string name="unblock_hint">অবরুদ্ধ করা হয়েছে: কার্যকর করতে %s\n রিফ্রেশ</string>
+    <string name="block_hint">অবরুদ্ধ: কার্যকর করতে %1$s\n নতুন করে নেওয়া হয়েছে</string>
+    <string name="unblock_hint">অবরুদ্ধ করা হয়েছে: কার্যকর করতে %1$s\n রিফ্রেশ</string>
 </resources>

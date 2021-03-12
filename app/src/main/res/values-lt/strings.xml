@@ -95,7 +95,7 @@
     <string name="image_on">Rodyti paveikslėlius</string>
     <string name="title_file_chooser">Failų naršyklė</string>
     <string name="import_bookmarks">Importuoti žymes</string>
-    <string name="bookmark_export_path">Žymės eksportuotos į\n</string>
+    <string name="export_bookmarks_to">Žymės eksportuotos į: %1$s</string>
     <string name="import_bookmark_error">Importuojant žymes įvyko klaida</string>
     <string name="message_add_bookmark">Žymė pridėta</string>
     <string name="message_exit">Paspaudus dar kartą, išeisite iš Via</string>
@@ -204,7 +204,7 @@
 
     <string name="already_default">Tai jau yra pagrindinis</string>
 
-    <string name="set_to_default">Tai taps pagrindiniu po to kai atidarysimi šį adresą(%s), prašome pasirinkti Via adreso atidarymui</string>
+    <string name="set_to_default">Tai taps pagrindiniu po to kai atidarysimi šį adresą(%1$s), prašome pasirinkti Via adreso atidarymui</string>
 
     <string name="sync_prompt">Tai perrašys dabartines žymes ir nustatymus. Tęsti?</string>
     <string name="upload_prompt">Tai išsiųs dabartines žymes ir nustatymus. Tęsti?</string>
@@ -261,7 +261,7 @@
     <string name="ui_traditional">Sumuštinis</string>
     <string name="color_mode_hint">Prie spalvų prisitaikančios funkcijų eilutės</string>
     <string name="skin_hide_search_part">Slėpti paieškos eilutę</string>
-    <string name="file_size">Failo dydis</string>
+    <string name="file_size">Failo dydis: %1$s</string>
     <string name="search_by_pic">Ieškoti paveikslėliu</string>
     <string name="resource_sniffer">Media atsisiuntimas</string>
     <string name="res_log_hint">Paspauskite daiktą, kad jį peržiūrėtumėte, ilgai paspauskite daiktą, kad jį atsisiųstumėte ar dar ką padarytumėte</string>
@@ -286,12 +286,12 @@
     <string name="title_edit_favorite">Redaguoti mėgstamiausius</string>
     <string name="custom_css_special">Pridėti CSS</string>
     <string name="force_enable_zoom">Įgalinti priverstinį puslapio priartinimą</string>
-    <string name="set_ua_as">%s nustatytas Naudotojo Agentu</string>
+    <string name="set_ua_as">%1$s nustatytas Naudotojo Agentu</string>
     <string name="import_data">Importuoti duomenis</string>
     <string name="import_data_failed">Importuojant duomenis įvyko klaida!</string>
     <string name="import_data_succeed">Duomenys importuoti sėkmingai!</string>
     <string name="export_data">Eksportuoti duomenis</string>
-    <string name="export_data_to">Eksportuoti duomenis į: %s</string>
+    <string name="export_data_to">Eksportuoti duomenis į: %1$s</string>
     <string name="always_restore">Visada grąžinti</string>
     <string name="ask_first">Paklausti</string>
     <string name="disable_restore">Negrąžinti</string>
@@ -319,7 +319,7 @@
     <string name="chinese_server">Kinijos</string>
     <string name="global_server">Pasaulio</string>
     <string name="server_message">Šių serverių duomenys nesinchronizuoti. Jums gali prireikti prisijungti iš naujo.</string>
-    <string name="delete_bookmark_folder_message">Žymės esančios %s aplanke bus ištrinti. Ar tikrai?</string>
-    <string name="block_hint">Blokuota: %s\perkraukite puslapį.</string>
-    <string name="unblock_hint">Atblokuota: %s\perkraukite puslapį.</string>
+    <string name="delete_bookmark_folder_message">Žymės esančios %1$s aplanke bus ištrinti. Ar tikrai?</string>
+    <string name="block_hint">Blokuota: %1$s\perkraukite puslapį.</string>
+    <string name="unblock_hint">Atblokuota: %1$s\perkraukite puslapį.</string>
     </resources>

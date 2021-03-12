@@ -58,7 +58,7 @@
 	<string name="bing_url">Bing</string>
 	<string name="block_ads">Blokir iklan</string>
     <string name="block_popup">Blokir popup</string>
-	<string name="bookmark_export_path">Bookmark diekspor ke\n</string>
+	<string name="export_bookmarks_to">Bookmark diekspor ke: %1$s</string>
 	<string name="bookmarks_data_to_long">Data bookmark terlalu besar untuk diunggah, tetapi data lain akan diunggah secara normal. Lanjutkan?</string>
 	<string name="bookmarks_file">Ekspor bookmark</string>
 	<string name="cannot_download">Hanya bisa unduh URL \"http\" atau \"https\".</string>
@@ -110,8 +110,8 @@
     <string name="empty_username_info">Silahkan masukkan nama pengguna anda</string>
     <string name="export_bookmarks">Ekspor bookmark</string>
 	<string name="export_data">Ekspor data</string>
-	<string name="export_data_to">Ekspor data ke: %s</string>
-    <string name="file_size">Ukuran berkas</string>
+	<string name="export_data_to">Ekspor data ke: %1$s</string>
+    <string name="file_size">Ukuran berkas: %1$s</string>
 	<string name="find_next">Temukan berikutnya</string>
 	<string name="find_pre">Temukan sebelumnya</string>
 	<string name="force_cancel">Paksa batal</string>
@@ -207,8 +207,8 @@
 	<string name="search_by_pic">Cari dengan gambar</string>
 	<string name="search_hint">Cari</string>
 	<string name="set_it_as_homepage">Atur ini sebagai beranda?</string>
-	<string name="set_to_default">Ini akan disetel sebagai bawaan setelah menggunakannya membuka tautan(%s), silahkan pilih Via untuk membuka tautan.</string>
-	<string name="set_ua_as">Tetapkan agen pengguna saat ini sebagai %s</string>
+	<string name="set_to_default">Ini akan disetel sebagai bawaan setelah menggunakannya membuka tautan(%1$s), silahkan pilih Via untuk membuka tautan.</string>
+	<string name="set_ua_as">Tetapkan agen pengguna saat ini sebagai %1$s</string>
 	<string name="setting_default">Atur sebagai browser bawaan</string>
 	<string name="settings">Setelan</string>
 	<string name="settings_about">Tentang</string>

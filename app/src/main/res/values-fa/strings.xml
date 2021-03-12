@@ -63,7 +63,7 @@
     <string name="action_find">پیدا کردن در صفحه</string>
     <string name="download_pending">دانلود شروع شد\u2026</string>
     <string name="cannot_download">فقط میتونید از لینک های \"http\" یا \"https\" دانلود کنید.</string>
-    <string name="bookmarks_imported">%1d نشانک ها وارد شد</string>
+    <string name="bookmarks_imported">%1$d نشانک ها وارد شد</string>
     <string name="custom_url">نشانی اینترنتی شخصی سازی شده</string>
     <string name="baidu_url">Baidu</string>
     <string name="shenma_url">ShenMa</string>
@@ -96,7 +96,7 @@
     <string name="image_on">نمایش تصاویر</string>
     <string name="title_file_chooser">انتخاب کننده فایل</string>
     <string name="import_bookmarks">وارد کردن نشانک ها</string>
-    <string name="bookmark_export_path">نشانک ها ذخیره شد در\n</string>
+    <string name="export_bookmarks_to">نشانک ها ذخیره شد در: %1$s</string>
     <string name="import_bookmark_error">نمیتوان از فایل نشانک ها را وارد کرد!</string>
     <string name="message_add_bookmark">نشانک ها با موفقیت وارد شد</string>
     <string name="message_exit">برای خروج یک بار دیگر بزنید</string>
@@ -205,7 +205,7 @@
 
     <string name="already_default">قبلاً به عنوان پیش فرض تنظیم شده است</string>
 
-    <string name="set_to_default">بعد از با کردن لینک %s به عنوان یش فرض تنظیم میشود. لطفا ویا را برای بازکردن لیک انتخاب کنید.</string>
+    <string name="set_to_default">بعد از با کردن لینک %1$s به عنوان یش فرض تنظیم میشود. لطفا ویا را برای بازکردن لیک انتخاب کنید.</string>
 
     <string name="sync_prompt">تنظیمات و نشانک های فعلی شما جایگزین میشوند. ادامه میدهید؟</string>
     <string name="upload_prompt">تنظیمات و نشانک های فعلی شما ارسال میشود. ادامه میدهید؟</string>
@@ -262,7 +262,7 @@
     <string name="ui_traditional">ساندویچ</string>
     <string name="color_mode_hint">تنظیم خودکار رنگ نوار ابزارها</string>
     <string name="skin_hide_search_part">پنهان کردن قسمت جستجو</string>
-    <string name="file_size">سایز فایل</string>
+    <string name="file_size">s$1% :سایز فایل</string>
     <string name="search_by_pic">جستجو با تصویر</string>
     <string name="resource_sniffer">منبع فروش</string>
     <string name="res_log_hint">یک آیتم را انتخاب کنید تا پیش نمایش آن را ببینید, یا به مدت طولانی فشار دهید تا دانلود یا کار دیگری کنید.</string>
@@ -287,12 +287,12 @@
     <string name="title_edit_favorite">ویرایش علاقه مندی ها</string>
     <string name="custom_css_special">اضافه کردن CSS شخصی سازی شده</string>
     <string name="force_enable_zoom">فعال کردن زوم اجباری</string>
-    <string name="set_ua_as">عامل کاربر تنظیم شده: %s</string>
+    <string name="set_ua_as">عامل کاربر تنظیم شده: %1$s</string>
     <string name="import_data">وارد کردن داده ها</string>
     <string name="import_data_failed">وارد کردن داده ها انجام نشد!</string>
     <string name="import_data_succeed">داده ها با موفقیت وارد شدند!</string>
     <string name="export_data">صادر کردن داده ها</string>
-    <string name="export_data_to">صادر کردن داده ها به: %s</string>
+    <string name="export_data_to">صادر کردن داده ها به: %1$s</string>
     <string name="always_restore">همیشه بازیابی کن</string>
     <string name="ask_first">اول سوال کن</string>
     <string name="disable_restore">اصلا بازیابی نکن</string>
@@ -320,17 +320,17 @@
     <string name="chinese_server">چینی</string>
     <string name="global_server">جهانی</string>
     <string name="server_message">داده های این سرورها هماهنگ نیستند. از شما نیاز دارید که دوباره وارد سیستم شوید.</string>
-    <string name="delete_bookmark_folder_message">نشانک های پوشه %s ها حذف میشوند. آیا مطمئن هستید؟</string>
+    <string name="delete_bookmark_folder_message">نشانک های پوشه %1$s ها حذف میشوند. آیا مطمئن هستید؟</string>
     <string name="action_new">جدید</string>
-    <string name="block_hint">مسدود شده: %s\nبرای تاثیر گذاری دوباره بارگذاری کنید.</string>
-    <string name="unblock_hint">رفع انسداد شده: %s\nبرای تاثیر گذاری دوباره بارگذاری کنید.</string>
+    <string name="block_hint">مسدود شده: %1$s\nبرای تاثیر گذاری دوباره بارگذاری کنید.</string>
+    <string name="unblock_hint">رفع انسداد شده: %1$s\nبرای تاثیر گذاری دوباره بارگذاری کنید.</string>
     <string name="block_3rd_party_cookies">مسدود کردن کوکی های شخص ثالث</string>
-    <string name="enable_site_conf">فعال کردن تنظیمات برای %s</string>
+    <string name="enable_site_conf">فعال کردن تنظیمات برای %1$s</string>
     <string name="site_conf">پیکربندی سایت</string>
     <string name="ui_simple_top">نوار ابزار در بالا</string>
     <string name="ui_simple_bottom">نوار ابزار در پایین</string>
     <string name="file_does_not_exist">فایل وجود ندارد</string>
-    <string name="dialog_message_from">پیام از %s</string>
+    <string name="dialog_message_from">پیام از %1$s</string>
     <string name="filter_subscriptions">فیلتر اشتراک ها</string>
     <string name="filter_subscriptions_description">اشتراک لیست مسدود کردن تبلیغات پلاس</string>
     <string name="filter_subscription_exist">اشتراک فیلتر از قبل وجود دارد.</string>
@@ -341,7 +341,7 @@
     <string name="edit_filter_subscription">ویرایش اشتراک فیلتر</string>
     <string name="updating_filter_subscriptions">بروزرسانی اشتراک های فیلتر</string>
     <string name="update_filter_subscriptions_completed">بروزرسانی اشتراک های فیلتر انجام شد.</string>
-    <string name="update_filter_subscription_failed">بروزرسانی اشتراک های فیلتر انجام نشد.\n%s</string>
+    <string name="update_filter_subscription_failed">بروزرسانی اشتراک های فیلتر انجام نشد.\n%1$s</string>
     <string name="has_not_been_updated">بروزرسانی نشده</string>
     <string name="long_ago">خیلی وفت پیش</string>
     <string name="just_now">به تازگی</string>
@@ -374,8 +374,8 @@
         <item quantity="one">یک فیلتر</item>
         <item quantity="other">%d فیلتر</item>
     </plurals>
-    <string name="updated_">بروزرسانی شد %s</string>
-    <string name="filter_subscription_info">%s, %s</string>
+    <string name="updated_">بروزرسانی شد %1$s</string>
+    <string name="filter_subscription_info">%1$s, %1$s</string>
     <string name="enable_built_in_filters">فعال کردن فیلترهای داخلی</string>
     <string name="enable_built_in_filters_description">فیلترهای داخلی فقط تبلیغات رایج را مسدود می کنند</string>
     <string name="update">بروزرسانی</string>

@@ -56,7 +56,7 @@
     <string name="action_find">页内查找</string>
     <string name="download_pending">正在开始下载…</string>
     <string name="cannot_download">仅可下载以 \"http\" 或 \"https\" 开头的网址</string>
-    <string name="bookmarks_imported">个书签已导入</string>
+    <string name="bookmarks_imported">%1$d 个书签已导入</string>
     <string name="custom_url">自定义</string>
     <string name="baidu_url">百度</string>
     <string name="shenma_url">神马</string>
@@ -83,7 +83,7 @@
     <string name="image_on">有图模式</string>
     <string name="title_file_chooser">文件选择</string>
     <string name="import_bookmarks">导入书签</string>
-    <string name="bookmark_export_path">书签备份到\n</string>
+    <string name="export_bookmarks_to">书签备份到: %1$s</string>
     <string name="import_bookmark_error">无法导入</string>
     <string name="message_add_bookmark">已添加书签</string>
     <string name="message_exit">再按一次返回键退出</string>
@@ -180,7 +180,7 @@
     <string name="network_log">网络日志</string>
     <string name="conn_timeout">连接超时</string>
     <string name="already_default">已是默认浏览器</string>
-    <string name="set_to_default">为了顺利完成设置将打开一个链接(%s), 请选择用 Via 打开。</string>
+    <string name="set_to_default">为了顺利完成设置将打开一个链接(%1$s), 请选择用 Via 打开。</string>
     <string name="sync_prompt">这将覆盖掉您当前的书签和设置，是否继续？</string>
     <string name="upload_prompt">将您当前的书签和设置上传到云端，是否继续？</string>
     <string name="none">无</string>
@@ -238,7 +238,7 @@
     <string name="color_mode_hint">浏览网页时操作栏自适应色彩</string>
     <string name="action_dont_allow">拒绝</string>
     <string name="skin_hide_search_part">隐藏搜索部分</string>
-    <string name="file_size">文件大小</string>
+    <string name="file_size">文件大小: %1$s</string>
     <string name="search_by_pic">以图搜图</string>
     <string name="resource_sniffer">资源嗅探</string>
     <string name="res_log_hint">点击项目来预览, 长按项目来下载或进行其它操作。</string>
@@ -266,12 +266,12 @@
     <string name="title_edit_favorite">编辑收藏</string>
     <string name="custom_css_special">添加自定义 CSS</string>
     <string name="force_enable_zoom">强制缩放</string>
-    <string name="set_ua_as">已设置当前浏览器标识为%s</string>
+    <string name="set_ua_as">已设置当前浏览器标识为%1$s</string>
     <string name="import_data">导入数据</string>
     <string name="import_data_failed">导入数据失败!</string>
     <string name="import_data_succeed">导入数据成功!</string>
     <string name="export_data">导出数据</string>
-    <string name="export_data_to">导出数据到: %s</string>
+    <string name="export_data_to">导出数据到: %1$s</string>
     <string name="always_restore">总是恢复</string>
     <string name="ask_first">优先询问</string>
     <string name="disable_restore">禁用恢复</string>
@@ -303,17 +303,17 @@
     <string name="chinese_server">国内</string>
     <string name="global_server">全球</string>
     <string name="server_message">服务器间的数据不同步, 切换后将需要重新登录。</string>
-    <string name="delete_bookmark_folder_message">这会同时删除 %s 文件夹内的书签, 确定要删除吗？</string>
+    <string name="delete_bookmark_folder_message">这会同时删除 %1$s 文件夹内的书签, 确定要删除吗？</string>
     <string name="action_new">新建</string>
-    <string name="block_hint">拦截了: %s\n刷新网页生效。</string>
-    <string name="unblock_hint">放行了: %s\n刷新网页生效。</string>
+    <string name="block_hint">拦截了: %1$s\n刷新网页生效。</string>
+    <string name="unblock_hint">放行了: %1$s\n刷新网页生效。</string>
     <string name="block_3rd_party_cookies">拦截第三方 Cookies</string>
-    <string name="enable_site_conf">启用 \"%s\" 的网站设定</string>
+    <string name="enable_site_conf">启用 \"%1$s\" 的网站设定</string>
     <string name="site_conf">网站设定</string>
     <string name="ui_simple_top">工具栏在上</string>
     <string name="ui_simple_bottom">工具栏在下</string>
     <string name="file_does_not_exist">文件不存在</string>
-    <string name="dialog_message_from">来自 %s 的消息</string>
+    <string name="dialog_message_from">来自 %1$s 的消息</string>
     <string name="filter_subscriptions">规则订阅</string>
     <string name="filter_subscriptions_description">订阅 Adblock Plus 规则列表</string>
     <string name="filter_subscription_exist">此规则订阅已存在。</string>
@@ -323,7 +323,7 @@
     <string name="add_filter_subscription">添加规则订阅</string>
     <string name="updating_filter_subscriptions">更新规则订阅中…</string>
     <string name="update_filter_subscriptions_completed">订阅规则更新完成。</string>
-    <string name="update_filter_subscription_failed">订阅规则更新失败。\n%s</string>
+    <string name="update_filter_subscription_failed">订阅规则更新失败。\n%1$s</string>
     <string name="has_not_been_updated">从未更新</string>
     <string name="just_now">刚刚</string>
     <string name="long_ago">很久以前</string>
@@ -352,8 +352,8 @@
     <plurals name="filters">
         <item quantity="other">%d 条规则</item>
     </plurals>
-    <string name="updated_">%s更新</string>
-    <string name="filter_subscription_info">%s，%s</string>
+    <string name="updated_">%1$s更新</string>
+    <string name="filter_subscription_info">%1$s，%1$s</string>
     <string name="enable_built_in_filters">启用内建规则</string>
     <string name="edit_filter_subscription">编辑规则订阅</string>
     <string name="enable_built_in_filters_description">内建规则仅拦截常见广告</string>

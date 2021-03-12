@@ -95,7 +95,7 @@
     <string name="image_on">이미지 차단하기</string>
     <string name="title_file_chooser">파일 선택기</string>
     <string name="import_bookmarks">북마크 불러오기</string>
-    <string name="bookmark_export_path">북마크가 다음 경로로 내보내졌습니다.\n</string>
+    <string name="export_bookmarks_to">북마크가 다음 경로로 내보내졌습니다: %1$s</string>
     <string name="import_bookmark_error">북마크를 다음 파일로 부터 불러 올 수 없습니다.</string>
     <string name="message_add_bookmark">북마크 추가에 성공했습니다.</string>
     <string name="message_exit">나가려면 한 번 더 누르세요.</string>
@@ -204,7 +204,7 @@
 
     <string name="already_default">이미 기본으로 설정되었습니다.</string>
 
-    <string name="set_to_default">링크(%s)를 연 후 기본 앱으로 설정됩니다. 링크를 열려면 Via를 선택하세요.</string>
+    <string name="set_to_default">링크(%1$s)를 연 후 기본 앱으로 설정됩니다. 링크를 열려면 Via를 선택하세요.</string>
 
     <string name="sync_prompt">현재 기기의 북마크와 설정을 덮어씌웁니다. 계속할까요?</string>
     <string name="upload_prompt">현재 기기의 북마크와 설정을 업로드합니다. 계속할까요?</string>
@@ -261,7 +261,7 @@
     <string name="ui_traditional">샌드위치</string>
     <string name="color_mode_hint">조작 바 색상 자동 조절</string>
     <string name="skin_hide_search_part">검색 영역 숨기기</string>
-    <string name="file_size">파일 크기</string>
+    <string name="file_size">파일 크기: %1$s</string>
     <string name="search_by_pic">이미지로 검색</string>
     <string name="resource_sniffer">리소스 가로채기</string>
     <string name="res_log_hint">항목을 짧게 눌러 미리보고, 길게 눌러 다운로드 등의 옵션을 봅니다.</string>
@@ -286,12 +286,12 @@
     <string name="title_edit_favorite">즐겨찾기 편집</string>
     <string name="custom_css_special">사용자 정의 CSS</string>
     <string name="force_enable_zoom">강제 확대 설정</string>
-    <string name="set_ua_as">현재 유저 에이전트를 %s로 설정</string>
+    <string name="set_ua_as">현재 유저 에이전트를 %1$s로 설정</string>
     <string name="import_data">데이터 불러오기</string>
     <string name="import_data_failed">데이터 가져오기 실패!</string>
     <string name="import_data_succeed">데이터 가져오기 성공!</string>
     <string name="export_data">데이터 내보내기</string>
-    <string name="export_data_to">데이터를 다음으로 내보내기: %s</string>
+    <string name="export_data_to">데이터를 다음으로 내보내기: %1$s</string>
     <string name="always_restore">항상 복원하기</string>
     <string name="ask_first">물어보기</string>
     <string name="disable_restore">복원하지 않음</string>
@@ -299,6 +299,6 @@
     <string name="bookmarks_data_to_long">북마크 데이터가 너무 커서 업로드할 수 없습니다. 다른 데이터는 정상적으로 업로드됩니다. 계속할까요?</string>
     <string name="restore_tabs_hint_settings">\"익명 모드\"에서는 탭이 복원되지 않습니다.</string>
     <string name="ignore_secondary_ssl_error">보조 SSL 오류 무시</string>
-    <string name="block_hint">차단: %s\n새로고침으로 반영하세요.</string>
-    <string name="unblock_hint">차단 해제: %s\n새로고침으로 반영하세요.</string>
+    <string name="block_hint">차단: %1$s\n새로고침으로 반영하세요.</string>
+    <string name="unblock_hint">차단 해제: %1$s\n새로고침으로 반영하세요.</string>
 </resources>

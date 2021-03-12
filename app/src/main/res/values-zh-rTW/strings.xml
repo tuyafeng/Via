@@ -63,7 +63,7 @@
     <string name="action_find">在網頁內尋找</string>
     <string name="download_pending">正在開始下載\u2026</string>
     <string name="cannot_download">僅可下載以 \"http\" 或 \"https\" 開頭的網址</string>
-    <string name="bookmarks_imported">個書籤已匯入</string>
+    <string name="bookmarks_imported">%1$d 個書籤已匯入</string>
     <string name="custom_url">自訂網址</string>
     <string name="baidu_url">百度</string>
     <string name="shenma_url">神馬</string>
@@ -96,7 +96,7 @@
     <string name="image_on">顯示圖片</string>
     <string name="title_file_chooser">檔案選擇</string>
     <string name="import_bookmarks">匯入書籤</string>
-    <string name="bookmark_export_path">書籤已匯出至\n</string>
+    <string name="export_bookmarks_to">書籤已匯出至: %1$s</string>
     <string name="import_bookmark_error">無法自檔案匯入書籤</string>
     <string name="message_add_bookmark">已成功新增書籤</string>
     <string name="message_exit">再按一次結束</string>
@@ -205,7 +205,7 @@
 
     <string name="already_default">已設為預設瀏覽器</string>
 
-    <string name="set_to_default">開啟連結(%s)後將被設為預設瀏覽器，請選擇以 Via 開啟此連結。</string>
+    <string name="set_to_default">開啟連結(%1$s)後將被設為預設瀏覽器，請選擇以 Via 開啟此連結。</string>
 
     <string name="sync_prompt">這將覆寫你目前的本機書籤與設定，繼續嗎？</string>
     <string name="upload_prompt">這將上傳你目前的本機書籤與設定，繼續嗎？</string>
@@ -262,7 +262,7 @@
     <string name="ui_traditional">傳統</string>
     <string name="color_mode_hint">工具列自動調整色彩</string>
     <string name="skin_hide_search_part">隱藏搜尋部分</string>
-    <string name="file_size">檔案大小</string>
+    <string name="file_size">檔案大小: %1$s</string>
     <string name="search_by_pic">透過圖片搜尋</string>
     <string name="resource_sniffer">資源監聽</string>
     <string name="res_log_hint">按下項目進行預覽，或者長按此項目下載或進行其他操作。</string>
@@ -287,12 +287,12 @@
     <string name="title_edit_favorite">編輯最愛</string>
     <string name="custom_css_special">新增自訂 CSS</string>
     <string name="force_enable_zoom">啟用強制縮放</string>
-    <string name="set_ua_as">設定使用者代理為 %s</string>
+    <string name="set_ua_as">設定使用者代理為 %1$s</string>
     <string name="import_data">匯入資料</string>
     <string name="import_data_failed">匯入資料失敗！</string>
     <string name="import_data_succeed">匯入資料成功！</string>
     <string name="export_data">匯出資料</string>
-    <string name="export_data_to">匯出資料至：%s</string>
+    <string name="export_data_to">匯出資料至：%1$s</string>
     <string name="always_restore">一律還原</string>
     <string name="ask_first">先詢問</string>
     <string name="disable_restore">停用還原</string>
@@ -320,17 +320,17 @@
     <string name="chinese_server">中國大陸</string>
     <string name="global_server">全球</string>
     <string name="server_message">伺服器間的資料不同步，切換後將需要重新登入。</string>
-    <string name="delete_bookmark_folder_message">這將同時刪除 %s 資料夾裡的書籤，確定要刪除嗎？</string>
+    <string name="delete_bookmark_folder_message">這將同時刪除 %1$s 資料夾裡的書籤，確定要刪除嗎？</string>
     <string name="action_new">新增</string>
-    <string name="block_hint">封鎖了: %s\n重新整理網頁生效。</string>
-    <string name="unblock_hint">解封了: %s\n重新整理網頁生效。</string>
+    <string name="block_hint">封鎖了: %1$s\n重新整理網頁生效。</string>
+    <string name="unblock_hint">解封了: %1$s\n重新整理網頁生效。</string>
     <string name="block_3rd_party_cookies">封鎖第三方 Cookie</string>
-    <string name="enable_site_conf">啟用 \"%s\" 網站設定</string>
+    <string name="enable_site_conf">啟用 \"%1$s\" 網站設定</string>
     <string name="site_conf">網站設定</string>
     <string name="ui_simple_top">工具列在上</string>
     <string name="ui_simple_bottom">工具列在下</string>
     <string name="file_does_not_exist">檔案不存在</string>
-    <string name="dialog_message_from">來自 %s 的訊息</string>
+    <string name="dialog_message_from">來自 %1$s 的訊息</string>
     <string name="filter_subscriptions">篩選條件訂閱</string>
     <string name="filter_subscriptions_description">訂閱 Adblock Plus 篩選條件清單</string>
     <string name="filter_subscription_exist">此篩選條件訂閱已存在。</string>
@@ -341,7 +341,7 @@
     <string name="edit_filter_subscription">編輯篩選訂閱</string>
     <string name="updating_filter_subscriptions">更新篩選訂閱中…</string>
     <string name="update_filter_subscriptions_completed">訂閱篩選條件更新完成。</string>
-    <string name="update_filter_subscription_failed">訂閱篩選條件更新失敗。\n%s</string>
+    <string name="update_filter_subscription_failed">訂閱篩選條件更新失敗。\n%1$s</string>
     <string name="has_not_been_updated">從未更新</string>
     <string name="long_ago">很久以前</string>
     <string name="just_now">剛剛</string>
@@ -375,8 +375,8 @@
         <item quantity="one">1 filter</item>
         <item quantity="other">%d 條篩選條件</item>
     </plurals>
-    <string name="updated_">%s 更新</string>
-    <string name="filter_subscription_info">%s，%s</string>
+    <string name="updated_">%1$s 更新</string>
+    <string name="filter_subscription_info">%1$s，%1$s</string>
     <string name="enable_built_in_filters">啟用內建篩選條件</string>
     <string name="enable_built_in_filters_description">內建篩選條件僅封鎖常見廣告</string>
     <string name="update">更新</string>

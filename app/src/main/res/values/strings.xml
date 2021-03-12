@@ -96,7 +96,7 @@
     <string name="image_on">Show images</string>
     <string name="title_file_chooser">File chooser</string>
     <string name="import_bookmarks">Import bookmarks</string>
-    <string name="bookmark_export_path">Bookmarks exported to\n</string>
+    <string name="export_bookmarks_to">Export bookmarks to: %1$s</string>
     <string name="import_bookmark_error">Couldn\'t import bookmarks from file!</string>
     <string name="message_add_bookmark">Bookmark added successfully</string>
     <string name="message_exit">Press one more time to exit</string>
@@ -205,7 +205,7 @@
 
     <string name="already_default">It has already been set as default</string>
 
-    <string name="set_to_default">It will be set as default after opening link %s. Please choose Via to open the link.</string>
+    <string name="set_to_default">It will be set as default after opening link %1$s. Please choose Via to open the link.</string>
 
     <string name="sync_prompt">Your current local bookmarks and settings will be overwritten. Continue?</string>
     <string name="upload_prompt">Your current local bookmarks and settings will be uploaded. Continue?</string>
@@ -262,7 +262,7 @@
     <string name="ui_traditional">Sandwich</string>
     <string name="color_mode_hint">Auto-adjust color of toolbars</string>
     <string name="skin_hide_search_part">Hide search part</string>
-    <string name="file_size">File size</string>
+    <string name="file_size">File size: %1$s</string>
     <string name="search_by_pic">Search by picture</string>
     <string name="resource_sniffer">Resource sniffer</string>
     <string name="res_log_hint">Press an item to preview, or long-press it to download or do something else.</string>
@@ -287,12 +287,12 @@
     <string name="title_edit_favorite">Edit favorite</string>
     <string name="custom_css_special">Add custom CSS</string>
     <string name="force_enable_zoom">Enable force zoom</string>
-    <string name="set_ua_as">User-agent is set as: %s</string>
+    <string name="set_ua_as">User-agent is set as: %1$s</string>
     <string name="import_data">Import data</string>
     <string name="import_data_failed">Failed to import data!</string>
     <string name="import_data_succeed">Data imported successfully!</string>
     <string name="export_data">Export data</string>
-    <string name="export_data_to">Export data to: %s</string>
+    <string name="export_data_to">Export data to: %1$s</string>
     <string name="always_restore">Always restore</string>
     <string name="ask_first">Ask first</string>
     <string name="disable_restore">Don\'t restore</string>
@@ -320,17 +320,17 @@
     <string name="chinese_server">Chinese</string>
     <string name="global_server">Global</string>
     <string name="server_message">The data of these servers are not synchronized. You will be required to log in again.</string>
-    <string name="delete_bookmark_folder_message">Bookmarks in folder %s will also be deleted. Are you sure?</string>
+    <string name="delete_bookmark_folder_message">Bookmarks in folder %1$s will also be deleted. Are you sure?</string>
     <string name="action_new">New</string>
-    <string name="block_hint">Blocked: %s\nRefresh to take effect.</string>
-    <string name="unblock_hint">Unblocked: %s\nRefresh to take effect.</string>
+    <string name="block_hint">Blocked: %1$s\nRefresh to take effect.</string>
+    <string name="unblock_hint">Unblocked: %1$s\nRefresh to take effect.</string>
     <string name="block_3rd_party_cookies">Block 3rd party cookies</string>
-    <string name="enable_site_conf">Enable site configuration for %s</string>
+    <string name="enable_site_conf">Enable site configuration for %1$s</string>
     <string name="site_conf">Site configuration</string>
     <string name="ui_simple_top">Toolbar at top</string>
     <string name="ui_simple_bottom">Toolbar at bottom</string>
     <string name="file_does_not_exist">The file does not exist</string>
-    <string name="dialog_message_from">Message from %s</string>
+    <string name="dialog_message_from">Message from %1$s</string>
     <string name="filter_subscriptions">Filter subscriptions</string>
     <string name="filter_subscriptions_description">Subscribe Adblock Plus filter lists</string>
     <string name="filter_subscription_exist">The filter subscription already exists.</string>
@@ -341,7 +341,7 @@
     <string name="edit_filter_subscription">Edit filter subscription</string>
     <string name="updating_filter_subscriptions">Updating filter subscriptions</string>
     <string name="update_filter_subscriptions_completed">Filter subscriptions update completed.</string>
-    <string name="update_filter_subscription_failed">Filter subscriptions update failed.\n%s</string>
+    <string name="update_filter_subscription_failed">Filter subscriptions update failed.\n%1$s</string>
     <string name="has_not_been_updated">has not been updated</string>
     <string name="long_ago">long ago</string>
     <string name="just_now">just now</string>
@@ -374,8 +374,8 @@
         <item quantity="one">1 filter</item>
         <item quantity="other">%d filters</item>
     </plurals>
-    <string name="updated_">updated %s</string>
-    <string name="filter_subscription_info">%s, %s</string>
+    <string name="updated_">updated %1$s</string>
+    <string name="filter_subscription_info">%1$s, %1$s</string>
     <string name="enable_built_in_filters">Enable built-in filters</string>
     <string name="enable_built_in_filters_description">Built-in filters only block common ads</string>
     <string name="update">Update</string>

@@ -85,7 +85,7 @@
     <string name="image_on">Zobrazovat obrázek</string>
     <string name="title_file_chooser">Výběr souborů</string>
     <string name="import_bookmarks">Importovat záložky</string>
-    <string name="bookmark_export_path">Záložky exportované do\n</string>
+    <string name="export_bookmarks_to">Záložky exportované do: %1$s</string>
     <string name="import_bookmark_error">Záložky nelze importovat ze souboru</string>
     <string name="message_add_bookmark">Přidána záložka úspěšně</string>
     <string name="message_exit">Dalším stisknutím tlačítka opustíte</string>
@@ -194,7 +194,7 @@
 
     <string name="already_default">Je již nastavena na výchozí</string>
 
-    <string name="set_to_default">Bude nastaven na výchozí po použití otevřeného odkazu (%s). Zvolte prosím otevření odkazu.</string>
+    <string name="set_to_default">Bude nastaven na výchozí po použití otevřeného odkazu (%1$s). Zvolte prosím otevření odkazu.</string>
 
     <string name="sync_prompt">Přepíše aktuální místní záložku a nastavení. Pokračovat?</string>
     <string name="upload_prompt">Nahrát aktuální místní záložku a nastavení. Pokračovat?</string>
@@ -251,7 +251,7 @@
     <string name="ui_traditional">Tradiční</string>
     <string name="color_mode_hint">Nastavení barev panelu při prohlížení</string>
     <string name="skin_hide_search_part">Skrýt část vyhledávání</string>
-    <string name="file_size">Velikost souboru</string>
+    <string name="file_size">Velikost souboru: %1$s</string>
     <string name="search_by_pic">Vyhledávání podle obrázku</string>
     <string name="resource_sniffer">Resource sniffer</string>
     <string name="res_log_hint">Klepnutím na položku zobrazíte náhled, dlouhým klepnutím na položku stáhnete nebo uděláte něco jiného.</string>
