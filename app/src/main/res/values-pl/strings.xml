@@ -462,4 +462,7 @@
     <string name="force_dark_mode_for_web_contents_description">Uwaga: Niektóre strony mogą wtedy działać i wyglądać nie do końca poprawnie.</string>
     <string name="require_javascript_enabled">Wymagana jest włączona obsługa JavaScript.</string>
     <string name="keyboard_shortcuts">Skróty klawiszowe</string>
+    <string name="export_data_description">Zakładki, ustawienia, skrypty i filtry reklam.</string>
+    <string name="language">Język</string>
+    <string name="restart_to_take_effect">Zmiany zajdą przy następnym uruchomieniu aplikacji. Czy chcesz zrobić to teraz?</string>
 </resources>
