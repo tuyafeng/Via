@@ -422,4 +422,14 @@
     <string name="export_data_description">Экспорт закладок, настроек, скриптов и фильтров рекламы</string>
     <string name="language">Язык</string>
     <string name="restart_to_take_effect">Изменение вступит в силу при следующем запуске приложения. Перезапустить его сейчас?</string>
+    <string name="more">Ещё</string>
+    <string name="sort_order">Порядок сортировки</string>
+    <string name="sort_by_oldest_first">Старые → новые</string>
+    <string name="sort_by_newest_first">Новые → старые</string>
+    <string name="sort_by_alphabetical_order">По алфавиту</string>
+    <string name="select_folder">Выберите папку</string>
+    <string name="move">Переместить</string>
+    <string name="bookmarks_history">Закладки/История</string>
+    <string name="done">Готово</string>
+    <string name="root_folder">Корневая папка</string>
 </resources>
