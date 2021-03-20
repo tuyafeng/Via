@@ -261,8 +261,8 @@
     <string name="no_network">无网络连接</string>
     <string name="title_app_chooser">选择程序打开</string>
     <string name="clear_data_on_exit">退出时清除数据</string>
-    <string name="action_add_to_homepage">添加到浏览器主页</string>
-    <string name="added_favorite_hint">已添加到浏览器主页</string>
+    <string name="action_add_to_homepage">添加到主页</string>
+    <string name="added_favorite_hint">已添加到主页</string>
     <string name="title_edit_favorite">编辑收藏</string>
     <string name="custom_css_special">添加自定义 CSS</string>
     <string name="force_enable_zoom">强制缩放</string>
@@ -395,4 +395,14 @@
     <string name="export_data_description">导出书签、设置、脚本和广告规则</string>
     <string name="language">语言</string>
     <string name="restart_to_take_effect">这将在下次启动应用时生效，您希望立即重启应用以生效吗？</string>
+    <string name="more">更多</string>
+    <string name="sort_order">排序方式</string>
+    <string name="sort_by_oldest_first">最旧的优先</string>
+    <string name="sort_by_newest_first">最新的优先</string>
+    <string name="sort_by_alphabetical_order">名称顺序</string>
+    <string name="select_folder">选择文件夹</string>
+    <string name="move">移动</string>
+    <string name="bookmarks_history">书签/历史</string>
+    <string name="done">完成</string>
+    <string name="root_folder">根目录</string>
 </resources>
