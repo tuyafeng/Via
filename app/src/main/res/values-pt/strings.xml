@@ -12,14 +12,13 @@
     <string name="action_add_bookmark">Adicionar Favorito</string>
     <string name="action_night">Modo Noturno</string>
     <string name="action_copy">Copiar link</string>
-    <string name="action_image_off">Bloquear imagem</string>
     <string name="settings">Configurações</string>
     <string name="location">Acesso à localização</string>
     <string name="password">Salvar senhas</string>
     <string name="donate">Doar</string>
     <string name="donate_details">Se você estiver gostando do Via Web Browser, você pode nos ajudar fazendo uma doação.\nAliPay: 2376688759@qq.com\nPayPal: wiar1824@gmail.com</string>
     <string name="orientation">Orientação</string>
-    <string name="orientation_system">Sistema</string>
+    <string name="follow_system">Sistema</string>
     <string name="orientation_auto">Automática</string>
     <string name="orientation_portrait">Retrato</string>
     <string name="orientation_landscape">Paisagem</string>
@@ -41,7 +40,6 @@
     <string name="agent_custom">Personalizado</string>
     <string name="dialog_download">Você deseja baixar este arquivo?</string>
     <string name="title_warning">Atenção</string>
-    <string name="title_user_agent">Agente do usuário</string>
     <string name="title_custom_homepage">Página inicial personalizada</string>
     <string name="action_webpage">Página Web</string>
     <string name="size_largest">Maior</string>
@@ -58,11 +56,7 @@
     <string name="action_find">Encontrar na Página</string>
     <string name="download_pending">Iniciando download\u2026</string>
     <string name="cannot_download">Só é possível baixar de URLs \"http\" ou \"https\".</string>
-    <string name="download_no_sdcard_dlg_title">Não há cartão SD</string>
-    <string name="download_no_sdcard_dlg_msg">É necessário um Armazenamento USB para baixar o arquivo.</string>
-    <string name="download_sdcard_busy_dlg_title">Armazenamento USB indisponível</string>
-    <string name="download_sdcard_busy_dlg_msg">O armazenamento está ocupado. Para permitir downloads, toque em Desligar Armazenamento USB na notificação.</string>
-    <string name="message_import">Os favoritos foram importados</string>
+    <string name="bookmarks_imported">%1d os favoritos foram importados</string>
     <string name="custom_url">Personalizar</string>
     <string name="baidu_url">Baidu</string>
     <string name="shenma_url">ShenMa</string>
@@ -86,16 +80,16 @@
     <string name="hint_password">Senha</string>
     <string name="untitled">Sem título</string>
     <string name="image_auto">Mostrar Imagens via Wi-Fi</string>
-    <string name="image_on">Bloquear Imagens </string>
-    <string name="image_off">Mostrar Imagens</string>
+    <string name="image_off">Bloquear Imagens </string>
+    <string name="image_on">Mostrar Imagens</string>
     <string name="title_file_chooser">Selecionar arquivo</string>
-    <string name="import_backup">Importar favoritos</string>
-    <string name="bookmark_export_path">Favoritos exportados para\n</string>
+    <string name="import_bookmarks">Importar favoritos</string>
+    <string name="export_bookmarks_to">Favoritos exportados para: %1$s</string>
     <string name="import_bookmark_error">Não é possível recuperar os favoritos do arquivo</string>
     <string name="message_add_bookmark">Favorito adicionado com sucesso</string>
     <string name="message_exit">Pressione mais uma vez para sair</string>
     <string name="dialog_message">Mensagem</string>
-    <string name="toast_wait_a_minute">Aguarde um momento&#8230;</string>
+    <string name="wait_a_moment">Aguarde um momento&#8230;</string>
     <string name="toast_operation_failed">Falha na operação.</string>
     <string name="toast_operation_done">Operação concluída.</string>
     <string name="volume">Rolar com botões de volume</string>
@@ -111,8 +105,6 @@
     <string name="operation_top">Rolar para cima</string>
     <string name="operation_bottom">Rolar para baixo</string>
     <string name="operation_input">Inserir URL</string>
-    <string name="operation_newtab">Nova guia</string>
-    <string name="operation_addbookmark">Adicionar favorito</string>
     <string name="operation_openbookmark">Abrir favorito</string>
     <string name="operation_openhistory">Abrir histórico</string>
     <string name="operation_closetab">Fechar guia</string>
@@ -120,35 +112,26 @@
     <string name="operation_nexttab">Próxima guia</string>
     <string name="operation_goback">Voltar</string>
     <string name="operation_goforward">Próxima</string>
-    <string name="operation_find">Encontrar na página</string>
-    <string name="settings_ad_rules">Anúncios marcados</string>
     <string name="settings_operation">Operação</string>
     <string name="settings_privacy">Privacidade</string>
     <string name="settings_advanced">Avançado</string>
     <string name="settings_about">Sobre</string>
     <string name="url_box">Conteúdo da caixa de URL</string>
     <string name="url_box_domain">Domínio</string>
-    <string name="url_box_url">URL</string>
-    <string name="url_box_title">Título</string>
     <string name="action_pcview">Modo Desktop</string>
     <string name="action_source">Mostrar Código</string>
     <string name="action_translate">Traduzir</string>
     <string name="title_edit_folder">Editar pasta</string>
     <string name="msg_delete_folder">Excluir esta pasta?</string>
     <string name="desc_suggestion">sugestão</string>
-    <string name="desc_search">encontrar na página</string>
-    <string name="desc_reload">recarregar</string>
-    <string name="desc_back">voltar</string>
-    <string name="desc_forward">avançar</string>
     <string name="desc_home">início</string>
     <string name="desc_tab">guia</string>
     <string name="desc_menu">menu</string>
     <string name="desc_filedic">arquivo</string>
     <string name="action_mark">Marcar como anúncio</string>
-    <string name="dialog_confirm_block">Você gostaria de marcar como anúncio?</string>
+    <string name="dialog_confirm_mark">Você gostaria de marcar como anúncio?</string>
     <string name="do_not_track">Não rastrear</string>
     <string name="add_rule">Adicionar regra</string>
-    <string name="hint_tags">Tags</string>
     <string name="color_mode">Modo colorido</string>
     <string name="dialog_sure">Você tem certeza de que quer fazer isso?</string>
     <string name="action_send_to_launcher">Criar Atalho</string>
@@ -165,10 +148,8 @@
     <string name="crash_info">Ops, algo deu errado! :(</string>
     <string name="crash_restart">Reiniciar app</string>
     <string name="crash_close">Fechar app</string>
-    <string name="crash_upload">Enviar registro de erros</string>
     <string name="upload_completed">Envio concluído. :)</string>
     <string name="ui_mode">Interface</string>
-    <string name="ui_auto">Automática</string>
     <string name="addon_download">Gerenciador de Download</string>
     <string name="quick_back">Voltar sem recarregar</string>
     <string name="open_with">Abrir com&#8230;</string>
@@ -207,18 +188,16 @@
     <string name="empty_hint">Nada para mostrar&#8230;</string>
 
     <string name="network_log">Registro de rede</string>
-    <string name="catalog">Catálogo</string>
 
     <string name="conn_timeout">A conexão expirou</string>
     
     <string name="already_default">Já está definido como padrão</string>
     
-    <string name="set_to_default">Ele será definido como padrão após usá-lo para abrir um link (%s). Por favor, escolha o Via para abrir o link.</string>
+    <string name="set_to_default">Ele será definido como padrão após usá-lo para abrir um link (%1$s). Por favor, escolha o Via para abrir o link.</string>
 
     <string name="sync_prompt">Isso irá substituir os seus favoritos e configurações locais. Continuar?</string>
     <string name="upload_prompt">Isso carregará os seus favoritos e as configurações locais atuais. Continuar?</string>
     <string name="none">Nenhum</string>
-    <string name="action_log">Registro de Rede</string>
     <string name="check_permission">Permissão negada. Defini-las nas configurações agora?</string>
     <string name="need_permission_hint">O Via precisa das seguintes permissões para garantir o funcionamento.\n\n</string>
     <string name="storage_permission">Armazenamento: para baixar arquivos do navegador e importar/exportar favoritos, etc.\n\n</string>
@@ -229,7 +208,6 @@
     <string name="install_success">Instalação concluída!</string>
     <string name="uninstall_success">Desinstalação concluída!</string>
     <string name="log_page_hint">Você pode copiar o link ou domínio a seguir e colá-lo em %1$s para bloqueá-lo com Bloqueio Personalizado.</string>
-    <string name="fullscreen_0">Desativar</string>
     <string name="fullscreen_1">Role para esconder/mostrar</string>
     <string name="fullscreen_2">Clique para ocultar/mostrar</string>
     <string name="settings_script">Scripts</string>
@@ -244,16 +222,13 @@
     <string name="skin_logo">Logo</string>
     <string name="skin_bg">Fundo</string>
     <string name="skin_style">Estilo</string>
-    <string name="skin_settings">Configurações</string>
     <string name="set_it_as_homepage">Definir como página inicial?</string>
     <string name="missing_webview">O Android System WebView não está instalado corretamente. Deseja instalá-lo agora?</string>
     <string name="install">Instalar</string>
     <string name="crash_hint">Me desculpe por falhar</string>
-    <string name="upload_hint">Me desculpe por falhar. Mas você pode enviar o registro de falhas para nos ajudar a corrigir isso. Enviar agora?</string>
     <string name="glean">Coletar</string>
     <string name="contact_us">Contato</string>
     <string name="official_website">Página na Internet</string>
-    <string name="current_language">Idioma atual</string>
     <string name="background_opacity">Opacidade do fundo</string>
     <string name="action_pic_mode">Modo de imagem</string>
     <string name="find_next">Encontrar o próximo</string>
@@ -264,8 +239,7 @@
     <string name="settings_general">Geral</string>
     <string name="no_bookmark">Não há favoritos</string>
     <string name="import_or_export_bookmarks">Importar/exportar favoritos</string>
-    <string name="import_">Importar</string>
-    <string name="export_">Exportar</string>
+    <string name="export_bookmarks">Exportar</string>
     <string name="pull_to_refresh_gesture">Gesto de puxar para recarregar</string>
     <string name="back_forward_gesture">Gesto voltar atrás</string>
     <string name="toolbar_settings_hint">Clique (deslize) o seguinte botão para definir o evento de longa pressão (deslize) e pressione-o para ver o que foi definido.</string>
@@ -274,20 +248,8 @@
     <string name="adblock_info">%1$d anúncios bloqueados, %2$s economizados</string>
     <string name="disable">Desativar</string>
     <string name="ui_traditional">Tradicional</string>
-    <string name="ui_simple">Simples</string>
     <string name="color_mode_hint">Colorir a barra de operação ao navegar</string>
     <string name="skin_hide_search_part">Ocultar parte da pesquisa</string>
-    <string name="set_as_default">Definir como seu navegador padrão?</string>
-    <string name="file_size">Tamanho do arquivo</string>
-    <string name="share_script">Script para %1$s, copie esta mensagem e abra o Via para importá-lo. viascript{%2$s}</string>
-    <string name="share_online_script">Script para %1$s, copie esta mensagem e abra o link %2$s com o Via para instalar.</string>
-    <string name="import_script">Importar o script para %1$s da área de transferência?\nAtenção: Talvez o script não seja seguro. Certifique-se de que ele é seguro.\nScript:\n</string>
-    <string name="share_rule">A regra que bloqueia anúncios de %1$s, copie esta mensagem e abra o Via para importá-la. viarule{%2$s}</string>
-    <string name="import_rule">Importar a regra que bloqueia anúncios de %1$s da área de transferência?</string>
-    <string name="share_url">Este é um URL secreto, copie esta mensagem e abra o Via para visualizá-lo. viaurl{%1$s}</string>
-    <string name="import_url">Abra o link da área de transferência?\nLink: %1$s</string>
-    <string name="import_successful">Importado com sucesso</string>
-    <string name="all_sites">todos os sites</string>
-    <string name="action_click_to_view">Clique para visualizar</string>
+    <string name="file_size">Tamanho do arquivo: %1$s</string>
 
 </resources>
