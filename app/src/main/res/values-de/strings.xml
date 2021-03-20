@@ -418,4 +418,14 @@
     <string name="export_data_description">Lesezeichen, Einstellungen, Skripte und Ad-Filter exportieren</string>
     <string name="language">Sprache</string>
     <string name="restart_to_take_effect">Dies wird erst beim nächsten Start der App wirksam. Wollen Sie hierzu nun umgehend neu starten?</string>
+    <string name="more">Mehr</string>
+    <string name="sort_order">Sortierreihenfolge</string>
+    <string name="sort_by_oldest_first">Älteste zuerst</string>
+    <string name="sort_by_newest_first">Neuste zuerst</string>
+    <string name="sort_by_alphabetical_order">Alphabetisch</string>
+    <string name="select_folder">Ordner wählen</string>
+    <string name="move">Bewegen</string>
+    <string name="bookmarks_history">Lesezeichen/Historie</string>
+    <string name="done">Abgeschlossen</string>
+    <string name="root_folder">Wurzelverzeichnis</string>
 </resources>
