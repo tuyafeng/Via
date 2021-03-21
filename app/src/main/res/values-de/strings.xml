@@ -425,7 +425,7 @@
     <string name="sort_by_alphabetical_order">Alphabetisch</string>
     <string name="select_folder">Ordner wählen</string>
     <string name="move">Bewegen</string>
-    <string name="bookmarks_history">Lesezeichen/Historie</string>
+    <string name="bookmarks_history">Lesezeichen/Verlauf</string>
     <string name="done">Abgeschlossen</string>
-    <string name="root_folder">Wurzelverzeichnis</string>
+    <string name="root_folder">Stammverzeichnis</string>
 </resources>
