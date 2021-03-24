@@ -417,4 +417,14 @@
     <string name="export_data_description">Exportar favoritos, configurações, scripts e filtros de anúncios</string>
     <string name="language">Idioma</string>
     <string name="restart_to_take_effect">Isso só terar efeito na próxima vez que você abrir o aplicativo, você deseja reiniciar para entrar imediatamente?</string>
+    <string name="more">Mais</string>
+    <string name="sort_order">Ordenar Por</string>
+    <string name="sort_by_oldest_first">Mais Antigo</string>
+    <string name="sort_by_newest_first">Mais Novo</string>
+    <string name="sort_by_alphabetical_order">Ordem Alfabética</string>
+    <string name="select_folder">Selecione Pasta</string>
+    <string name="move">Mover</string>
+    <string name="bookmarks_history">Favoritos/História</string>
+    <string name="done">Feito</string>
+    <string name="root_folder">Pasta Raiz</string>
 </resources>
