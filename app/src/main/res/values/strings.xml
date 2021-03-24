@@ -428,4 +428,8 @@
     <string name="bookmarks_history">Bookmarks/History</string>
     <string name="done">Done</string>
     <string name="root_folder">Root folder</string>
+    <string name="delete_item_message">Are you sure you want to delete %1$s?</string>
+    <string name="item_has_been_deleted">\"%1$s\" has been deleted</string>
+    <string name="undo">Undo</string>
+    <string name="can_not_sort_list_when_sorting_alphabetically">Can not sort the list when sorting alphabetically</string>
 </resources>

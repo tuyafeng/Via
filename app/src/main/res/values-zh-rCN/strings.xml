@@ -405,4 +405,8 @@
     <string name="bookmarks_history">书签/历史</string>
     <string name="done">完成</string>
     <string name="root_folder">根目录</string>
+    <string name="delete_item_message">您确认删除 %1$s 吗？</string>
+    <string name="item_has_been_deleted">\"%1$s\" 已删除</string>
+    <string name="undo">撤销</string>
+    <string name="can_not_sort_list_when_sorting_alphabetically">名称顺序时无法排序列表</string>
 </resources>
