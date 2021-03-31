@@ -432,4 +432,8 @@
     <string name="bookmarks_history">Закладки/История</string>
     <string name="done">Готово</string>
     <string name="root_folder">Корневая папка</string>
+    <string name="delete_item_message">Удалить %1$s?</string>
+    <string name="item_has_been_deleted">Удалено: \"%1$s\"</string>
+    <string name="undo">Отмена</string>
+    <string name="can_not_sort_list_when_sorting_alphabetically">Этот список невозможно отсортировать по алфавиту</string>
 </resources>
