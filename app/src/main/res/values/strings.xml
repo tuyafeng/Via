@@ -432,4 +432,7 @@
     <string name="item_has_been_deleted">\"%1$s\" has been deleted</string>
     <string name="undo">Undo</string>
     <string name="can_not_sort_list_when_sorting_alphabetically">Can not sort the list when sorting alphabetically</string>
+    <string name="opened_in_background_message">New tab opened in the background</string>
+    <string name="bookmark_added">Bookmark added</string>
+    <string name="allow_website_to_open_app_message">Allow website to open %1$s?</string>
 </resources>

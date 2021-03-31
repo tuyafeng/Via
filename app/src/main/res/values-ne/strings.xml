@@ -243,7 +243,7 @@
     <string name="ui_traditional">स्यान्डविच</string>
     <string name="color_mode_hint">उपकरणपट्टीको र स्वत: समायोजित गर्नुहोस्</string>
     <string name="skin_hide_search_part">खोज भाग लुकाउनुहोस्</string>
-    <string name="file_size">फाईल आकार</string>
+    <string name="file_size">फाईल आकार: %1$s</string>
     <string name="search_by_pic">चित्र द्वारा खोज्नुहोस्</string>
     <string name="resource_sniffer">रिसोर्स स्निफर</string>
     <string name="res_log_hint">पूर्वावलोकन गर्न कुनै वस्तु थिच्नुहोस्, वा यसलाई डाउनलोड गर्न वा अरू केही गर्न लामो-प्रेस गर्नुहोस्।</string>

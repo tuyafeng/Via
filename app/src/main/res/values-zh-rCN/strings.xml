@@ -409,4 +409,7 @@
     <string name="item_has_been_deleted">\"%1$s\" 已删除</string>
     <string name="undo">撤销</string>
     <string name="can_not_sort_list_when_sorting_alphabetically">名称顺序时无法排序列表</string>
+    <string name="opened_in_background_message">已在后台打开</string>
+    <string name="bookmark_added">已添加</string>
+    <string name="allow_website_to_open_app_message">允许网站打开 %1$s 吗？</string>
 </resources>
