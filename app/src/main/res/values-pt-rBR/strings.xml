@@ -427,4 +427,7 @@
     <string name="bookmarks_history">Favoritos/História</string>
     <string name="done">Feito</string>
     <string name="root_folder">Pasta Raiz</string>
+    <string name="opened_in_background_message">Nova aba aberta em segundo plano</string>
+    <string name="bookmark_added">Favorito adicionado</string>
+    <string name="allow_website_to_open_app_message">Permitir que o site abra %1$s?</string>
 </resources>
