@@ -428,4 +428,8 @@
     <string name="bookmarks_history">Lesezeichen/Verlauf</string>
     <string name="done">Abgeschlossen</string>
     <string name="root_folder">Stammverzeichnis</string>
+    <string name="delete_item_message">Sind Sie sicher, dass Sie %1$s löschen wollen?</string>
+    <string name="item_has_been_deleted">\"%1$s\" wurde gelöscht</string>
+    <string name="undo">Rückgängig mach</string>
+    <string name="can_not_sort_list_when_sorting_alphabetically">Kann die Liste nicht sortieren, wenn alphabetisch sortiert wird</string>
 </resources>
