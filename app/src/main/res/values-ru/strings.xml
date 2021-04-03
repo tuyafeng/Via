@@ -436,4 +436,7 @@
     <string name="item_has_been_deleted">Удалено: \"%1$s\"</string>
     <string name="undo">Отмена</string>
     <string name="can_not_sort_list_when_sorting_alphabetically">Этот список невозможно отсортировать по алфавиту</string>
+    <string name="opened_in_background_message">Новая вкладка открыта в фоне</string>
+    <string name="bookmark_added">Закладка добавлена</string>
+    <string name="allow_website_to_open_app_message">Разрешить сайту открыть %1$s?</string>
 </resources>
