@@ -213,6 +213,7 @@
     <!-- ブックマーク -->
     <string name="bookmarks_file">ブックマーク</string>
     <string name="action_add_bookmark">ブックマークに追加</string>
+    <string name="bookmark_added">ブックマーク追加済み</string>
     <string name="root_folder">ルートフォルダー</string>
     <string name="sort_order">並び替え</string>
     <string name="sort_by_oldest_first">登録が古い順</string>
