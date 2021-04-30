@@ -184,7 +184,7 @@
 
     <string name="action_save_web_page">Save Web Page</string>
     <string name="action_saved_pages">Saved Web Page</string>
-    <string name="saved_page_successfully">Web page saved successfully. It is in the menu of homepage: Saved Web Page</string>
+    <string name="saved_page_successfully">The webpage has been saved to download</string>
     <string name="deleted_failed">"Failed to Delete. The file located in download path: "</string>
 
     <string name="empty_hint">Nothing to show&#8230;</string>

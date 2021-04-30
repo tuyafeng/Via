@@ -194,7 +194,7 @@
 
     <string name="action_save_web_page">Save page</string>
     <string name="action_saved_pages">Saved pages</string>
-    <string name="saved_page_successfully">Web page saved successfully. It is located in the menu: Tools > Saved web pages.</string>
+    <string name="saved_page_successfully">The webpage has been saved to download</string>
     <string name="deleted_failed">Failed to delete. The file is located in download path: </string>
 
     <string name="empty_hint">Empty</string>

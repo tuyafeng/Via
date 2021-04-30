@@ -176,7 +176,7 @@
    <string name="block_popup">Блакаваць усплывальныя вокны</string>
    <string name="action_save_web_page">Захаваць вэб-старонку</string>
    <string name="action_saved_pages">Захаваныя старонкі</string>
-   <string name="saved_page_successfully">Старонка паспяхова захавана. Яе можна знайсці ў меню «Захаваныя старонкі»</string>
+   <string name="saved_page_successfully">Веб-страница сохранена для загрузки</string>
    <string name="deleted_failed">Не ўдалося выдаліць. Файл размешчаны:</string>
    <string name="empty_hint">Няма чаго паказваць…</string>
    <string name="network_log">Сеткавыя логі</string>

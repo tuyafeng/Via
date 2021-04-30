@@ -174,7 +174,7 @@
     <string name="block_popup">拦截弹出窗口</string>
     <string name="action_save_web_page">保存网页</string>
     <string name="action_saved_pages">离线页面</string>
-    <string name="saved_page_successfully">网页保存成功，存储于: 工具 > \"离线页面\"。</string>
+    <string name="saved_page_successfully">网页已保存至下载</string>
     <string name="deleted_failed">删除失败, 文件位于下载目录: </string>
     <string name="empty_hint">空空如也&#8230;</string>
     <string name="network_log">网络日志</string>
