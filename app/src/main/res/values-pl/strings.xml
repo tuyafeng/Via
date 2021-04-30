@@ -18,7 +18,7 @@
     <string name="action_block_url">Zabl. link</string>
     <string name="action_copy_text">Skopiuj tekst</string>
     <string name="action_copy_link_text">Skopiuj tekst linku</string>
-   <string name="action_tools">Narzędzia</string>
+    <string name="action_tools">Narzędzia</string>
     <string name="settings">Ustawienia</string>
     <string name="location">Dostęp do lokalizacji</string>
     <string name="password">Zapisz hasło</string>
@@ -63,7 +63,7 @@
     <string name="action_find">Szukaj</string>
     <string name="download_pending">Rozpoczynanie pobierania\u2026</string>
     <string name="cannot_download">Pobieranie plików możliwe jest tylko przez \"http\" i \"https\".</string>
-    <string name="bookmarks_imported">%1d zakładki zostały zaimportowane.</string>
+    <string name="bookmarks_imported">Zaimportowane zakładki: %1d.</string>
     <string name="custom_url">Własny adres</string>
     <string name="baidu_url">Baidu</string>
     <string name="shenma_url">ShenMa</string>
@@ -96,9 +96,9 @@
     <string name="image_on">Wczytuj grafikę</string>
     <string name="title_file_chooser">Wybór pliku</string>
     <string name="import_bookmarks">Importuj zakładki</string>
-    <string name="export_bookmarks_to">Zakładki zostały wyeksportowane do pliku: %1$s</string>
-    <string name="import_bookmark_error">Nie udało się zaimportować zakładek z tego pliku.</string>
-    <string name="message_add_bookmark">Zakładka została dodana.</string>
+    <string name="export_bookmarks_to">Wyeksportowano zakładki do pliku %1$s</string>
+    <string name="import_bookmark_error">Nie zaimportowano zakładek z tego pliku.</string>
+    <string name="message_add_bookmark">Dodano zakładkę.</string>
     <string name="message_exit">Naciśnij jeszcze raz, aby wyjść.</string>
     <string name="dialog_message">Wiadomość</string>
     <string name="wait_a_moment">Momencik&#8230;</string>
@@ -108,10 +108,10 @@
     <string name="msg_intent">Otworzyć związaną z tym działaniem aplikację?</string>
     <string name="setting_default">Domyślna przeglądarka</string>
     <string name="toast_clear_defaults">Wyczyść domyślne</string>
-    <string name="toast_copy_url_successful">Adres został skopiowany.</string>
-    <string name="toast_copy_text_successful">Tekst został skopiowany.</string>
-    <string name="incognito_on">Tryb prywatny został włączony.</string>
-    <string name="incognito_off">Tryb prywatny został wyłączony.</string>
+    <string name="toast_copy_url_successful">Skopiowano adres.</string>
+    <string name="toast_copy_text_successful">Skopiowano tekst.</string>
+    <string name="incognito_on">Włączono tryb prywatny.</string>
+    <string name="incognito_off">Wyłączono tryb prywatny.</string>
     <string name="operation_none">Brak operacji</string>
     <string name="operation_reload">Odśwież</string>
     <string name="operation_top">Przewiń na samą górę</string>
@@ -141,7 +141,7 @@
     <string name="desc_menu">menu</string>
     <string name="desc_filedic">plik</string>
     <string name="action_mark">Oznacz jako reklamę</string>
-    <string name="dialog_confirm_mark">Oznaczyć ten element jako reklamę?</string>
+    <string name="dialog_confirm_mark">Oznaczyć to jako reklamę?</string>
     <string name="do_not_track">Nie śledź mnie</string>
     <string name="add_rule">Stwórz regułę</string>
     <string name="color_mode">Kolorowe paski</string>
@@ -152,15 +152,15 @@
     <string name="user_syns">Synchronizuj dane</string>
     <string name="user_update">Wyślij dane</string>
     <string name="wrong_psw">Niepoprawne hasło</string>
-    <string name="sign_up_success">Rejestracja zakończona.</string>
+    <string name="sign_up_success">Zarejestrowano konto.</string>
     <string name="code_500">Usługa niedostępna</string>
-    <string name="syns_success">Synchronizacja zakończona.</string>
-    <string name="upload_success">Wysyłanie zakończone.</string>
+    <string name="syns_success">Zsynchronizowano dane.</string>
+    <string name="upload_success">Wysłano.</string>
     <string name="log_out">Wylogować?</string>
     <string name="crash_info">Wystąpił błąd</string>
     <string name="crash_restart">Uruchom aplikację ponownie</string>
     <string name="crash_close">Zamnknij aplikację</string>
-    <string name="upload_completed">Wysyłanie zakończone.</string>
+    <string name="upload_completed">Wysłano.</string>
     <string name="ui_mode">Układ pasków narzędzi</string>
    <string name="addon_download">Menedżer pobierania</string><![CDATA[
 
@@ -176,7 +176,7 @@
     <string name="data_history">Historia</string>
     <string name="data_storage">Dane witryn</string>
     <string name="data_cookies">Ciasteczka</string>
-    <string name="data_cleared">Dane zostały usunięte.</string>
+    <string name="data_cleared">Usunięto dane.</string>
     <string name="sync_desc">Jeśli konto nie istnieje, zostanie utworzone.</string>
     <string name="settings_skin">Ekran startowy</string>
     <string name="default_set">Dom.</string>
@@ -190,7 +190,7 @@
     <string name="block_popup">Blokuj wyskakujące okna</string>
     <string name="action_save_web_page">Zapisz stronę</string>
     <string name="action_saved_pages">Zapisane strony</string>
-    <string name="saved_page_successfully">Strona została zapisana.</string>
+    <string name="saved_page_successfully">Zapisano stronę.</string>
     <string name="deleted_failed">Usunięcie nie powiodło się. Lokalizacja pliku: </string>
     <string name="empty_hint">Cicho wszędzie,\ngłucho wszędzie&#8230;</string>
     <string name="network_log">Dziennik sieci</string>
@@ -209,8 +209,8 @@
     <string name="force_cancel">Anuluj</string>
     <string name="restore_tabs_hint">Przywrócić niezamknięte ostatnio karty?</string>
     <string name="restore_tabs">Przywracaj karty po uruchomieniu</string>
-    <string name="install_success">Instalacja zakończona.</string>
-    <string name="uninstall_success">Deinstalacja zakończona.</string>
+    <string name="install_success">Zainstalowano.</string>
+    <string name="uninstall_success">Odinstalowano.</string>
     <string name="log_page_hint">Możesz skopiować następujący link lub domenę i wkleić do %1$s, aby zablokować ich ładowanie.</string><![CDATA[
        ]]>
    <string name="fullscreen_1">Przewinięciem</string>
@@ -285,12 +285,12 @@
     <string name="title_edit_favorite">Edytuj ulubione</string>
     <string name="custom_css_special">Własny plik CSS</string>
     <string name="force_enable_zoom">Wymuś powiększanie strony</string>
-    <string name="set_ua_as">User agent został zmieniony na %1$s.</string>
+    <string name="set_ua_as">Zmieniono user agenta został na %1$s.</string>
     <string name="import_data">Importuj dane</string>
-    <string name="import_data_failed">Importowanie danych nie powiodło się.</string>
-    <string name="import_data_succeed">Importowanie danych zakończone.</string>
+    <string name="import_data_failed">Nie zaimportowano danych.</string>
+    <string name="import_data_succeed">Zaimportowano dane.</string>
     <string name="export_data">Eksportuj dane</string>
-    <string name="export_data_to">Dane zostały wyeksportowane do pliku\n%1$s.</string>
+    <string name="export_data_to">Wyeksportowano dane do pliku\n%1$s.</string>
     <string name="always_restore">Zawsze przywracaj</string>
     <string name="ask_first">Zawsze pytaj</string>
     <string name="disable_restore">Nigdy</string>
@@ -303,12 +303,12 @@
     <string name="no_download_tasks">Cicho wszędzie,\ngłucho wszędzie&#8230;</string>
    <string name="action_re_download">Pobierz ponownie</string>
     <string name="action_copy_download_link">Skopiuj link</string>
-    <string name="download_failed">Pobieranie nie powiodło się.</string>
+    <string name="download_failed">Nie pobrano pliku.</string>
     <string name="view_downloads">Pokaż</string>
     <string name="message_delete_downloading_task">Pobrany plik również zostanie usunięty. Kontynuować?</string>
     <string name="message_delete_downloaded_task">Usunąć zadanie?</string>
     <string name="message_delete_downloaded_file">Usunąć także pobrany plik?</string>
-    <string name="block_popup_message">Wyskakujące okno zostało zablokowane.</string>
+    <string name="block_popup_message">Zablokowano Wyskakujące okno.</string>
     <string name="allow_popup">Zezwól tym razem</string>
     <string name="system_download_manager">Systemowy</string>
     <string name="action_play_with">Odtwórz w&#8230;</string>
@@ -329,7 +329,7 @@
     <string name="ui_simple_bottom">Tylko dół</string>
     <string name="file_does_not_exist">Plik nie istnieje.</string>
     <string name="dialog_message_from">Wiadomość z %1$s</string>
-    <string name="filter_subscriptions">Listy z Adblocka Plus</string>
+    <string name="filter_subscriptions">Listy z Adblock Plusa</string>
     <string name="filter_subscriptions_description">Zarządzaj listami filtrów z tegoż programu.</string>
     <string name="filter_subscription_exist">Ta lista filtrów już istnieje.</string>
     <string name="custom_filters">Własne filtry</string>
@@ -338,8 +338,8 @@
     <string name="add_filter_subscription">Nowa lista filtrów</string>
     <string name="edit_filter_subscription">Edytuj listę filtrów</string>
     <string name="updating_filter_subscriptions">Aktualizowanie list filtrów&#8230;</string>
-    <string name="update_filter_subscriptions_completed">Aktualizacja list filtrów zakończona.</string>
-    <string name="update_filter_subscription_failed">Aktualizacja list filtrów nie powiodła się (%1$s).</string>
+    <string name="update_filter_subscriptions_completed">Zaktualizowano listy filtrów.</string>
+    <string name="update_filter_subscription_failed">Nie zaktualizownao list filtrów (%1$s).</string>
     <string name="has_not_been_updated">nieaktualna</string>
     <string name="long_ago">dawno temu</string>
     <string name="just_now">przed chwilą</string>
@@ -381,7 +381,7 @@
     <string name="enable_built_in_filters_description">Nie blokują one zbyt wiele, ale lepsze coś, niż nic.</string>
     <string name="update">Aktualizuj</string>
     <string name="bookmarks_exported_successfully">Zakładki zostały wyeksportowane.</string>
-    <string name="data_exported_successfully">Dane zostały wyeksportowane.</string>
+    <string name="data_exported_successfully">Wyeksportowano dane.</string>
     <string name="privacy_policy">Polityka prywatności</string>    
     <string name="terms_of_use">Warunki korzystania</string>
     <string name="welcome">Witamy</string>
@@ -391,7 +391,7 @@
     <string name="disagree">Nie akceptuję</string>
     <string name="exit">Wyjdź</string>
     <string name="delete_account">Usuń konto</string>
-    <string name="delete_account_request_submitted">Prośba o usunięcie konta została przesłana.</string>
+    <string name="delete_account_request_submitted">Przesłano prośbę o usunięcie konta.</string>
     <string name="delete_account_hint">Usuń konto z serwera</string>
     <string name="delete_account_message">Po przesłaniu prośby o usunięcie konta nastąpi wylogowanie z niego, a następnie zostanie ono wprowadzone w 30-dniowy stan hibernacji. Jeśli w tym czasie się na nie zalogujesz, proces zostanie anulowany. Gdy okres hibernacji minie, konto i wszelkie znajdujące się na nim dane zostaną usunięte.\nWprowadź hasło, aby przesłać prośbę.</string>
     <string name="confirm_to_delete">Potwierdź usunięcie</string>
@@ -412,7 +412,7 @@
     <string name="follow_me_on_weibo">Profil na Weibo</string>
     <string name="version">Wersja</string>
     <string name="paste_and_go">Wklej i przejdź</string>
-    <string name="night_filter_for_web_contents">Ciemny motyw zawartości stron</string>
+    <string name="night_filter_for_web_contents">Poziom przyciemnienia stron</string>
     <string name="force_dark_mode_for_web_contents">Wymuszaj ciemny motyw zawartości stron</string>
     <string name="force_dark_mode_for_web_contents_description">Uwaga: Niektóre strony mogą wtedy działać i wyglądać nie do końca poprawnie.</string>
     <string name="require_javascript_enabled">Wymagana jest włączona obsługa JavaScript.</string>
@@ -420,4 +420,21 @@
     <string name="export_data_description">Zakładki, ustawienia, skrypty i filtry reklam.</string>
     <string name="language">Język</string>
     <string name="restart_to_take_effect">Zmiany zajdą przy następnym uruchomieniu aplikacji. Czy chcesz zrobić to teraz?</string>
+    <string name="more">Więcej</string>
+    <string name="sort_order">Kolejność sortownaia</string>
+    <string name="sort_by_oldest_first">Od najstarszych</string>
+    <string name="sort_by_newest_first">Od najnowszych</string>
+    <string name="sort_by_alphabetical_order">Alfabetycznie</string>
+    <string name="select_folder">Wybierz folder</string>
+    <string name="move">Przenieś</string>
+    <string name="bookmarks_history">Zakładki / historia</string>
+    <string name="done">Zrobione</string>
+    <string name="root_folder">Folder główny</string>
+    <string name="delete_item_message">Czy na pewno mam usunąć \"%1$s\"?</string>
+    <string name="item_has_been_deleted">Usunięto \"%1$s\".</string>
+    <string name="undo">Cofnij</string>
+    <string name="can_not_sort_list_when_sorting_alphabetically">Nie można posortować listy, gdy jest sortowana alfabetycznie</string>
+    <string name="opened_in_background_message">Otwarto nową kartę w tle</string>
+    <string name="bookmark_added">Dodano zakładkę</string>
+    <string name="allow_website_to_open_app_message">Zezwolić stronie na otwarcie aplikacji %1$s?</string>
 </resources>

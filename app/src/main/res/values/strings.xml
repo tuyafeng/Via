@@ -194,7 +194,7 @@
 
     <string name="action_save_web_page">Save page</string>
     <string name="action_saved_pages">Saved pages</string>
-    <string name="saved_page_successfully">Web page saved successfully. It is located in the menu: Tools > Saved web pages.</string>
+    <string name="saved_page_successfully">The webpage has been saved to download</string>
     <string name="deleted_failed">Failed to delete. The file is located in download path: </string>
 
     <string name="empty_hint">Empty</string>
@@ -428,4 +428,11 @@
     <string name="bookmarks_history">Bookmarks/History</string>
     <string name="done">Done</string>
     <string name="root_folder">Root folder</string>
+    <string name="delete_item_message">Are you sure you want to delete %1$s?</string>
+    <string name="item_has_been_deleted">\"%1$s\" has been deleted</string>
+    <string name="undo">Undo</string>
+    <string name="can_not_sort_list_when_sorting_alphabetically">Can not sort the list when sorting alphabetically</string>
+    <string name="opened_in_background_message">New tab opened in the background</string>
+    <string name="bookmark_added">Bookmark added</string>
+    <string name="allow_website_to_open_app_message">Allow website to open %1$s?</string>
 </resources>

@@ -25,7 +25,7 @@
     <string name="donate">Doniraj</string>
     <string name="donate_details">Če vam je brskalnik Via všeč, nas lahko podprete tako, da donirate.\nAlipay: 2376688759@qq.com\nPayPal: wiar1824@gmail.com</string>
     <string name="orientation">Orientacija</string>
-    <string name="follow_system">Sistemska</string>
+    <string name="follow_system">Sistem</string>
     <string name="orientation_auto">Samodejna</string>
     <string name="orientation_portrait">Portret</string>
     <string name="orientation_landscape">Pokrajina</string>
@@ -105,7 +105,7 @@
     <string name="toast_operation_failed">Operacija ni uspela</string>
     <string name="toast_operation_done">Operacija je končana</string>
     <string name="volume">Tipke za glasnost uporabi za drsenje</string>
-    <string name="msg_intent">Ali dovolite spletni strani, da odpre vašo aplikacijo?</string>
+    <string name="msg_intent">Dovolite spletni strani, da odpre vašo aplikacijo?</string>
     <string name="setting_default">Nastavi za privzeti brskalnik</string>
     <string name="toast_clear_defaults">Počisti privzeto</string>
     <string name="toast_copy_url_successful">Povezava uspešno kopirana</string>
@@ -427,4 +427,21 @@
     <string name="export_data_description">Izvozi zaznamke, nastavitve, skripte in filtre oglasov</string>
     <string name="language">Jezik</string>
     <string name="restart_to_take_effect">To bo začelo učinkovati, ko boste naslednjič zagnali aplikacijo. Jo želite ponovno zagnati za takojšnje učinkovanje?</string>
+    <string name="more">Več</string>
+    <string name="sort_order">Vrstni red</string>
+    <string name="sort_by_oldest_first">Najstarejši najprej</string>
+    <string name="sort_by_newest_first">Najnovejši najprej</string>
+    <string name="sort_by_alphabetical_order">Po abecedi</string>
+    <string name="select_folder">Izberi mapo</string>
+    <string name="move">Premakni</string>
+    <string name="bookmarks_history">Zaznamki/Zgodovina</string>
+    <string name="done">Končano</string>
+    <string name="root_folder">Korenska mapa</string>
+    <string name="delete_item_message">Ste prepričani, da želite izbrisati %1$s?</string>
+    <string name="item_has_been_deleted">\"%1$s\" je izbrisan</string>
+    <string name="undo">Razveljavi</string>
+    <string name="can_not_sort_list_when_sorting_alphabetically">Seznama ni mogoče razvrstiti pri razvrščanju po abecedi</string>
+    <string name="opened_in_background_message">Nov zavihek je odprt v ozadju</string>
+    <string name="bookmark_added">Zaznamek je dodan</string>
+    <string name="allow_website_to_open_app_message">Dovolite spletnemu mestu, da odpre %1$s?</string>
 </resources>

@@ -174,7 +174,7 @@
     <string name="block_popup">拦截弹出窗口</string>
     <string name="action_save_web_page">保存网页</string>
     <string name="action_saved_pages">离线页面</string>
-    <string name="saved_page_successfully">网页保存成功，存储于: 工具 > \"离线页面\"。</string>
+    <string name="saved_page_successfully">网页已保存至下载</string>
     <string name="deleted_failed">删除失败, 文件位于下载目录: </string>
     <string name="empty_hint">空空如也&#8230;</string>
     <string name="network_log">网络日志</string>
@@ -405,4 +405,11 @@
     <string name="bookmarks_history">书签/历史</string>
     <string name="done">完成</string>
     <string name="root_folder">根目录</string>
+    <string name="delete_item_message">您确认删除 %1$s 吗？</string>
+    <string name="item_has_been_deleted">\"%1$s\" 已删除</string>
+    <string name="undo">撤销</string>
+    <string name="can_not_sort_list_when_sorting_alphabetically">名称顺序时无法排序列表</string>
+    <string name="opened_in_background_message">已在后台打开</string>
+    <string name="bookmark_added">已添加</string>
+    <string name="allow_website_to_open_app_message">允许网站打开 %1$s 吗？</string>
 </resources>
