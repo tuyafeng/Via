@@ -193,8 +193,8 @@
     <string name="block_popup">Блокировать всплывающие окна</string>
 
     <string name="action_save_web_page">Сохранить страницу</string>
-    <string name="action_saved_pages">Архив страниц</string>
-    <string name="saved_page_successfully">Страница успешно сохранена в архив</string>
+    <string name="action_saved_pages">Сохранённые страницы</string>
+    <string name="saved_page_successfully">Страница успешно сохранена в папку загрузок</string>
     <string name="deleted_failed">Ошибка при удалении. Путь нахождения файла: </string>
 
     <string name="empty_hint">Пусто…</string>
