@@ -194,7 +194,7 @@
     
     <string name="action_save_web_page">Speichere Seite</string>
     <string name="action_saved_pages">Gespeicherte Seiten</string>
-    <string name="saved_page_successfully">Seite erfolgreich gespeichert. Die befindet sich im Menü: Werkzeuge > Gespeicherte Seiten.</string>
+    <string name="saved_page_successfully">Die Webseite wurde unter Download gespeichert</string>
     <string name="deleted_failed">Löschen fehlgeschlagen. Die Datei befindet sich im Download-Pfad: </string>
     
     <string name="empty_hint">Leer</string>
