@@ -194,7 +194,7 @@
 
     <string name="action_save_web_page">Save page</string>
     <string name="action_saved_pages">Saved pages</string>
-    <string name="saved_page_successfully">The webpage has been saved to download</string>
+    <string name="saved_page_successfully">Webpage has been saved to: Downloads > Saved pages</string>
     <string name="deleted_failed">Failed to delete. The file is located in download path: </string>
 
     <string name="empty_hint">Empty</string>
@@ -250,7 +250,7 @@
     <string name="action_fullscreen">Full-screen</string>
     <string name="settings_general">General</string>
     <string name="no_bookmark">No bookmarks</string>
-    <string name="import_or_export_bookmarks">Import/Export bookmarks</string>
+    <string name="import_or_export_bookmarks">Import/export bookmarks</string>
     <string name="export_bookmarks">Export bookmarks</string>
     <string name="pull_to_refresh_gesture">Pull-to-refresh gesture</string>
     <string name="back_forward_gesture">Back/Forward gesture</string>
@@ -272,8 +272,8 @@
     <string name="action_download">Downloads</string>
     <string name="empty_username_info">Please input your username</string>
     <string name="empty_password_info">Please input your password</string>
-    <string name="offline_page_hint">These are saved web pages. You can open them even when you are offline.</string>
-    <string name="history_page_hint_when_incognito">You\'ve gone incognito. History will not be recorded.</string>
+    <string name="offline_page_hint">These are saved webpages. You can open them even when you are offline.</string>
+    <string name="history_page_hint_when_incognito">History will not be recorded when you are in \"Incognito mode\".</string>
     <string name="action_preview">Preview</string>
     <string name="action_page_info">Page info</string>
     <string name="page_info_title">Title:</string>
@@ -324,7 +324,7 @@
     <string name="action_new">New</string>
     <string name="block_hint">Blocked: %1$s\nRefresh to take effect.</string>
     <string name="unblock_hint">Unblocked: %1$s\nRefresh to take effect.</string>
-    <string name="block_3rd_party_cookies">Block 3rd party cookies</string>
+    <string name="block_3rd_party_cookies">Block third-party cookies</string>
     <string name="enable_site_conf">Enable site configuration for %1$s</string>
     <string name="site_conf">Site configuration</string>
     <string name="ui_simple_top">Toolbar at top</string>
@@ -332,10 +332,10 @@
     <string name="file_does_not_exist">The file does not exist</string>
     <string name="dialog_message_from">Message from %1$s</string>
     <string name="filter_subscriptions">Filter subscriptions</string>
-    <string name="filter_subscriptions_description">Subscribe Adblock Plus filter lists</string>
+    <string name="filter_subscriptions_description">Subscribe to Adblock Plus filter lists</string>
     <string name="filter_subscription_exist">The filter subscription already exists.</string>
     <string name="custom_filters">Custom filters</string>
-    <string name="custom_filters_description">Including custom filters, marked ads</string>
+    <string name="custom_filters_description">Including custom filters and marked ads</string>
     <string name="custom_filter">Custom filter</string>
     <string name="add_filter_subscription">Add filter subscription</string>
     <string name="edit_filter_subscription">Edit filter subscription</string>
@@ -343,7 +343,7 @@
     <string name="update_filter_subscriptions_completed">Filter subscriptions update completed.</string>
     <string name="update_filter_subscription_failed">Filter subscriptions update failed.\n%1$s</string>
     <string name="has_not_been_updated">has not been updated</string>
-    <string name="long_ago">long ago</string>
+    <string name="long_ago">a long time ago</string>
     <string name="just_now">just now</string>
     <plurals name="minutes_ago">
         <item quantity="one">1 minute ago</item>
@@ -359,14 +359,14 @@
     </plurals>
     <string name="url_is_invalid">The URL is invalid.</string>
     <string name="simple_guide_of_writing_rule">Via supports almost all Adblock Plus filters.
-        \nYou can block the requests from example.com with this filter like:
-        \n||example.com^ (or simply, example.com)
-        \n\nThe wildcard is acceptable, like:
+        \nYou can block requests from example.com with a filter such as:
+        \n||example.com^ (or simply: example.com)
+        \n\nWildcard is acceptable such as:
         \n||example.com/js/ads_*.js
-        \n\nYou can unblock the special requests with the filter like:
-        \n@@||example.com^
-        \n\nFor the web page element filter, like:
-        \nexample.com###ad</string>
+        \n\nFor web page elements use a filter such as:
+        \nexample.com###ad
+        \n\nYou can unblock special requests with a filter such as:
+        \n@@||example.com^</string>
     <string name="help">Help</string>
     <string name="learn_more">Learn more</string>
     <plurals name="filters">
@@ -384,15 +384,15 @@
     <string name="privacy_policy">Privacy policy</string>
     <string name="terms_of_use">Terms of use</string>
     <string name="welcome">Welcome</string>
-    <string name="agreement_message">Welcome to use Via. Please read the following agreement carefully before using Via. You need to agree to and accept all the terms before you start using our service.</string>
-    <string name="agreement_message_short">You need to agree and accept all terms before you start using our service.</string>
-    <string name="agree_and_continue">Agree and continue</string>
+    <string name="agreement_message">Welcome to Via. Please read the following agreement carefully before using Via. You need to agree to and accept all the terms and conditions before you start using our service.</string>
+    <string name="agreement_message_short">You need to agree and accept all the terms before you start using our service.</string>
+    <string name="agree_and_continue">Agree</string>
     <string name="disagree">Disagree</string>
     <string name="exit">Exit</string>
     <string name="delete_account">Delete account</string>
     <string name="delete_account_request_submitted">The account deletion request has been submitted.</string>
     <string name="delete_account_hint">Delete the account from the server</string>
-    <string name="delete_account_message">After submitting the deletion request, the account will be logged out and enter a 30-day deletion waiting period. During the logout period, if you log in to the account again and upload data, the deletion request will be withdrawn. After the waiting period expires, the account and related data will be completely deleted from the server.\nPlease enter your password to submit the request.</string>
+    <string name="delete_account_message">After submitting the deletion request, the account will be logged out and enter a 30-day deletion waiting-period. If you log in to the account again and upload data during the waiting-period, your deletion request will be withdrawn. After the waiting-period expires, the account and related data will be completely deleted from the server.\nPlease enter your password to submit the request.</string>
     <string name="confirm_to_delete">Confirm to delete</string>
     <string name="items_selected">%1d selected</string>
     <string name="select_all">Select all</string>
@@ -411,13 +411,13 @@
     <string name="version">Version</string>
     <string name="paste_and_go">Paste &amp; Go</string>
     <string name="night_filter_for_web_contents">Night filter for web contents</string>
-    <string name="force_dark_mode_for_web_contents">Force dark mode for web contents</string>
-    <string name="force_dark_mode_for_web_contents_description">Force web pages to darken when enabled, it may cause some pages to behave abnormally</string>
-    <string name="require_javascript_enabled">It will not take effect unless JavaScript is enabled.</string>
+    <string name="force_dark_mode_for_web_contents">Force dark operation for web contents</string>
+    <string name="force_dark_mode_for_web_contents_description">When enabled, web pages will be forced to darken, which may cause some pages to behave abnormally.</string>
+    <string name="require_javascript_enabled">This will take effect if JavaScript is enabled.</string>
     <string name="keyboard_shortcuts">Keyboard shortcuts</string>
     <string name="export_data_description">Export bookmarks, settings, scripts and ad filters</string>
     <string name="language">Language</string>
-    <string name="restart_to_take_effect">This will take effect the next time you open the app, do you want to restart to take effect immediately?</string>
+    <string name="restart_to_take_effect">This will take effect the next time you open the app. Would you like to restart it now to take effect immediately?</string>
     <string name="more">More</string>
     <string name="sort_order">Sort order</string>
     <string name="sort_by_oldest_first">Oldest first</string>
@@ -450,7 +450,7 @@
     <string name="bold">Bold</string>
     <string name="italics">Italics</string>
     <string name="clear_website_icon_cache">Clear the website icon cache</string>
-    <string name="clear_website_icon_cache_message">Note that this will clear all the favorite icons on the homepage. The icon will be downloaded the next time you visit the website.</string>
+    <string name="clear_website_icon_cache_message">Note that this will clear all the favorite icons on the homepage. Each icon will be downloaded the next time you visit the corresponding website.</string>
     <string name="use_blur_instead_of_transparency">Use blur effect instead of transparency</string>
-    <string name="desc_favorite_icon">Icon of favorite</string>
+    <string name="desc_favorite_icon">Icon of a favorite</string>
 </resources>
