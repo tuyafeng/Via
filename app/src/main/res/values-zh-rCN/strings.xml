@@ -228,7 +228,7 @@
     <string name="import_or_export_bookmarks">导入/备份书签</string>
     <string name="export_bookmarks">备份书签</string>
     <string name="pull_to_refresh_gesture">下拉刷新</string>
-    <string name="back_forward_gesture">滑动屏幕边缘前进后退</string>
+    <string name="back_forward_gesture">滑动屏幕前进后退</string>
     <string name="toolbar_settings_hint">点击下列按钮来设置它的长按事件, 长按查看它的事件。你也可以滑动工具栏来设置滑动事件。</string>
     <string name="action_modify">修改</string>
     <string name="operation_hint">手势, 快捷方式，功能键</string>
@@ -412,4 +412,22 @@
     <string name="opened_in_background_message">已在后台打开</string>
     <string name="bookmark_added">已添加</string>
     <string name="allow_website_to_open_app_message">允许网站打开 %1$s 吗？</string>
+    <string name="width">宽度</string>
+    <string name="height">高度</string>
+    <string name="corner_radius">圆角值</string>
+    <string name="adaptive">自适应</string>
+    <string name="action_favorites">收藏</string>
+    <string name="skin_search_bar">搜索框</string>
+    <string name="stroke_width">描边粗细</string>
+    <string name="stroke_opacity">描边不透明度</string>
+    <string name="opacity">不透明度</string>
+    <string name="disable_website_icons">禁用网站图标</string>
+    <string name="disable_icon_color">禁用图标颜色</string>
+    <string name="font_style">字体风格</string>
+    <string name="bold">粗体</string>
+    <string name="italics">斜体</string>
+    <string name="clear_website_icon_cache">清除网站图标缓存</string>
+    <string name="clear_website_icon_cache_message">请注意，这会清除所有首页收藏的图标。图标会在您下次访问该网站时下载。</string>
+    <string name="use_blur_instead_of_transparency">使用模糊效果代替透明</string>
+    <string name="desc_favorite_icon">收藏的图标</string>
 </resources>

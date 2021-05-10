@@ -435,4 +435,22 @@
     <string name="opened_in_background_message">New tab opened in the background</string>
     <string name="bookmark_added">Bookmark added</string>
     <string name="allow_website_to_open_app_message">Allow website to open %1$s?</string>
+    <string name="width">Width</string>
+    <string name="height">Height</string>
+    <string name="corner_radius">Corner radius</string>
+    <string name="adaptive">Adaptive</string>
+    <string name="action_favorites">Favorites</string>
+    <string name="skin_search_bar">Search bar</string>
+    <string name="stroke_width">Stroke width</string>
+    <string name="stroke_opacity">Stroke opacity</string>
+    <string name="opacity">Opacity</string>
+    <string name="disable_website_icons">Disable website icons</string>
+    <string name="disable_icon_color">Disable icon color</string>
+    <string name="font_style">Font style</string>
+    <string name="bold">Bold</string>
+    <string name="italics">Italics</string>
+    <string name="clear_website_icon_cache">Clear the website icon cache</string>
+    <string name="clear_website_icon_cache_message">Note that this will clear all the favorite icons on the homepage. The icon will be downloaded the next time you visit the website.</string>
+    <string name="use_blur_instead_of_transparency">Use blur effect instead of transparency</string>
+    <string name="desc_favorite_icon">Icon of favorite</string>
 </resources>
