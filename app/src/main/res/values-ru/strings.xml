@@ -193,8 +193,8 @@
     <string name="block_popup">Блокировать всплывающие окна</string>
 
     <string name="action_save_web_page">Сохранить страницу</string>
-    <string name="action_saved_pages">Архив страниц</string>
-    <string name="saved_page_successfully">Страница успешно сохранена в архив</string>
+    <string name="action_saved_pages">Сохранённые страницы</string>
+    <string name="saved_page_successfully">Страница успешно сохранена в папку загрузок</string>
     <string name="deleted_failed">Ошибка при удалении. Путь нахождения файла: </string>
 
     <string name="empty_hint">Пусто…</string>
@@ -439,4 +439,22 @@
     <string name="opened_in_background_message">Новая вкладка открыта в фоне</string>
     <string name="bookmark_added">Закладка добавлена</string>
     <string name="allow_website_to_open_app_message">Разрешить сайту открыть %1$s?</string>
+        <string name="width">Ширина</string>
+    <string name="height">Высота</string>
+    <string name="corner_radius">Радиус скругления</string>
+    <string name="adaptive">Адаптивный</string>
+    <string name="action_favorites">Избранное</string>
+    <string name="skin_search_bar">Панель поиска</string>
+    <string name="stroke_width">Ширина штриха</string>
+    <string name="stroke_opacity">Прозрачность штриха</string>
+    <string name="opacity">Прозрачность</string>
+    <string name="disable_website_icons">Отключить значки сайтов</string>
+    <string name="disable_icon_color">Использовать монохромные значки</string>
+    <string name="font_style">Стиль шрифта</string>
+    <string name="bold">Жирный</string>
+    <string name="italics">Курсив</string>
+    <string name="clear_website_icon_cache">Очистить кеш значков сайтов</string>
+    <string name="clear_website_icon_cache_message">Обратите внимание, что будут очищены все значки избранного на главной странице. Значок будет загружен при следующем посещении сайта.</string>
+    <string name="use_blur_instead_of_transparency">Использовать эффект размытия вместо прозрачности</string>
+    <string name="desc_favorite_icon">Значок избранного</string>
 </resources>
