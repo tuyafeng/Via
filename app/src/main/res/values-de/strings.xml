@@ -435,4 +435,22 @@
     <string name="opened_in_background_message">Neuer Tab im Hintergrund geöffnet</string>
     <string name="bookmark_added">Lesezeichen hinzugefügt</string>
     <string name="allow_website_to_open_app_message">Webseite erlauben %1$s zu öffnen?</string>
+     <string name="width">Breite</string>
+    <string name="height">Höhe</string>
+    <string name="corner_radius">Eckradius</string>
+    <string name="adaptive">Adaptiv</string>
+    <string name="action_favorites">Favoriten</string>
+    <string name="skin_search_bar">Suchleiste</string>
+    <string name="stroke_width">Strichbreite</string>
+    <string name="stroke_opacity">Strichdeckkraft</string>
+    <string name="opacity">Deckkraft</string>
+    <string name="disable_website_icons">Favicon deaktivieren</string>
+    <string name="disable_icon_color">Icon Farbe deaktivieren</string>
+    <string name="font_style">Schriftart</string>
+    <string name="bold">Bold</string>
+    <string name="italics">Kursiv</string>
+    <string name="clear_website_icon_cache">Favicon Cache löschen</string>
+    <string name="clear_website_icon_cache_message">Beachten Sie, dass dadurch alle Favicons auf der Homepage gelöscht werden. Jedes Icon wird heruntergeladen, wenn Sie das nächste Mal die entsprechende Website besuchen.</string>
+    <string name="use_blur_instead_of_transparency">Unschärfe-Effekt anstelle von Transparenz verwenden</string>
+    <string name="desc_favorite_icon">Icon eines Favoriten</string>
 </resources>
