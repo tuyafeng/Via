@@ -69,7 +69,7 @@
     <string name="language">言語設定</string>
     
     <!-- 設定｜一般｜ホームページの設定 -->
-    <string name="home">ホームページの設定</string>
+    <string name="home">ホームページ</string>
     <string name="action_blank">空白のページ</string>    
     <string name="action_bookmarks">ブックマーク</string>
     <string name="action_webpage">特定のページ</string>
@@ -219,6 +219,7 @@
     <string name="sort_by_oldest_first">登録が古い順</string>
     <string name="sort_by_newest_first">登録が新しい順</string>
     <string name="sort_by_alphabetical_order">アルファベット順</string>
+    <string name="move">移動</string>
     <string name="done">完了</string>
     
     <!-- ダウンロード --> 
