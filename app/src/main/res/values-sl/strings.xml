@@ -193,8 +193,8 @@
     <string name="block_popup">Blokiraj pojavna okna</string>
 
     <string name="action_save_web_page">Shrani stran</string>
-    <string name="action_saved_pages">Shramba spletnih strani</string>
-    <string name="saved_page_successfully">Stran je uspešno shranjena. Nahaja se v meniju: Orodja > Shramba spletnih strani.</string>
+    <string name="action_saved_pages">Shramba strani</string>
+    <string name="saved_page_successfully">Spletna stran je shranjena v: Prenosi > Shramba strani</string>
     <string name="deleted_failed">Brisanje ni uspelo. Datoteka se nahaja na poti: </string>
 
     <string name="empty_hint">Prazno</string>
@@ -343,7 +343,7 @@
     <string name="update_filter_subscriptions_completed">Posodobitev naročnin s filtri je končana.</string>
     <string name="update_filter_subscription_failed">Posodobitev naročnin s filtri ni uspela.\n%1$s</string>
     <string name="has_not_been_updated">ni posodobljeno</string>
-    <string name="long_ago">dolgo nazaj</string>
+    <string name="long_ago">dolgo časa nazaj</string>
     <string name="just_now">pravkar</string>
     <plurals name="minutes_ago">
         <item quantity="one">pred %d minuto</item>
@@ -393,7 +393,7 @@
     <string name="welcome">Dobrodošli</string>
     <string name="agreement_message">Dobrodošli v brskalniku Via. Prosimo, da pred uporabo brskalnika Via natančno preberete sledeči sporazum. Pred pričetkom uporabe naše storitve se morate strinjati in sprejeti vse pogoje uporabe.</string>
     <string name="agreement_message_short">Preden pričnete uporabljati našo storitev, se morate strinjati in sprejeti vse pogoje.</string>
-    <string name="agree_and_continue">Strinjam se in nadaljuj</string>
+    <string name="agree_and_continue">Strinjam se</string>
     <string name="disagree">Ne strinjam se</string>
     <string name="exit">Izhod</string>
     <string name="delete_account">Izbriši račun</string>
@@ -421,7 +421,7 @@
     <string name="paste_and_go">Prilepi &amp; pojdi</string>
     <string name="night_filter_for_web_contents">Nočni filter za spletne vsebine</string>
     <string name="force_dark_mode_for_web_contents">Vsili temno delovanje za spletne vsebine</string>
-    <string name="force_dark_mode_for_web_contents_description">Ob vklopu prisili spletne strani, da se zatemnijo, kar lahko povzroči neobičajno delovanje nekaterih strani</string>
+    <string name="force_dark_mode_for_web_contents_description">Ob vklopu prisili spletne strani, da se zatemnijo, kar lahko povzroči neobičajno delovanje nekaterih strani.</string>
     <string name="require_javascript_enabled">To bo začelo učinkovati, ko bo omogočen JavaScript.</string>
     <string name="keyboard_shortcuts">Bližnjice na tipkovnici</string>
     <string name="export_data_description">Izvozi zaznamke, nastavitve, skripte in filtre oglasov</string>
@@ -444,4 +444,22 @@
     <string name="opened_in_background_message">Nov zavihek je odprt v ozadju</string>
     <string name="bookmark_added">Zaznamek je dodan</string>
     <string name="allow_website_to_open_app_message">Dovolite spletnemu mestu, da odpre %1$s?</string>
+    <string name="width">Širina</string>
+    <string name="height">Višina</string>
+    <string name="corner_radius">Polmer kota</string>
+    <string name="adaptive">Prilagodljivo</string>
+    <string name="action_favorites">Priljubljeno</string>
+    <string name="skin_search_bar">Iskalna vrstica</string>
+    <string name="stroke_width">Širina poteze</string>
+    <string name="stroke_opacity">Motnost poteze</string>
+    <string name="opacity">Motnost</string>
+    <string name="disable_website_icons">Izklopi ikone spletnih strani</string>
+    <string name="disable_icon_color">Izklopi barve ikon</string>
+    <string name="font_style">Slog pisave</string>
+    <string name="bold">Krepka</string>
+    <string name="italics">Ležeča</string>
+    <string name="clear_website_icon_cache">Počisti predpomnilnik ikon spletnih strani</string>
+    <string name="clear_website_icon_cache_message">S tem bodo počiščene vse ikone priljubljenih strani na začetni strani. Vsaka ikona bo prenesena naslednjič, ko boste obiskali pripadajočo spletno stran.</string>
+    <string name="use_blur_instead_of_transparency">Uporabi učinek zameglitve namesto prosojnosti</string>
+    <string name="desc_favorite_icon">Ikona priljubljene strani</string>
 </resources>
