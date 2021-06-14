@@ -430,4 +430,14 @@
     <string name="clear_website_icon_cache_message">请注意，这会清除所有首页收藏的图标。图标会在您下次访问该网站时下载。</string>
     <string name="use_blur_instead_of_transparency">使用模糊效果代替透明</string>
     <string name="desc_favorite_icon">收藏的图标</string>
+    <string name="script_remarks">备注</string>
+    <string name="action_save">保存</string>
+    <string name="reset_to_default_settings">重置为默认设置</string>
+    <string name="script_sites">站点 (例如 *.foo.com,bar.*/list)</string>
+    <string name="simple_guide_of_writing_script">编写的脚本将在网站加载时自动生效。
+        \n\n站点(必填)：脚本作用的网站，支持 \"*\" 通配符，多个站点使用 \",\" 隔开，例如：*.foo.com,bar.*/list。
+        \n\n备注(可选)：用作展示的标题。
+        \n\n代码(必填)：通常建议使用原生 JavaScript 编写。如若网站使用 jquery 或 vue.js 亦可使用其语法代码。</string>
+    <string name="save_data">流量节省</string>
+    <string name="save_data_description">请求网站节省流量</string>
 </resources>

@@ -453,4 +453,14 @@
     <string name="clear_website_icon_cache_message">Note that this will clear all the favorite icons on the homepage. Each icon will be downloaded the next time you visit the corresponding website.</string>
     <string name="use_blur_instead_of_transparency">Use blur effect instead of transparency</string>
     <string name="desc_favorite_icon">Icon of a favorite</string>
+    <string name="script_remarks">Remarks</string>
+    <string name="action_save">Save</string>
+    <string name="reset_to_default_settings">Reset to default settings</string>
+    <string name="script_sites">Sites (like *.foo.com,bar.*/list)</string>
+    <string name="simple_guide_of_writing_script">The script written will take effect automatically when the website loads.
+    \n\nSites(required): The scripted site supports the \"*\" wildcard, and multiple sites are separated by \",\", for example: *.foo.com,bar.*/list.
+    \n\nRemarks(optional): Used as the title of the display.
+    \n\nCode(required): It is recommended to use native JavaScript. You can also use jqeury or vue.js syntax if the website uses those frameworks.</string>
+    <string name="save_data">Save data</string>
+    <string name="save_data_description">Enable data-savings mode on compatible websites</string>
 </resources>
