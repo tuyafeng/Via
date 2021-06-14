@@ -48,7 +48,7 @@
     <string name="dialog_download">Would you like to download this file?</string>
     <string name="title_warning">Warning</string>
     <string name="title_custom_homepage">Custom homepage</string>
-    <string name="action_webpage">Web page</string>
+    <string name="action_webpage">Webpage</string>
     <string name="size_largest">Largest</string>
     <string name="size_large">Large</string>
     <string name="size_normal">Normal</string>
@@ -300,8 +300,8 @@
     <string name="bookmarks_data_to_long">Bookmarks data is too big to upload, but other data will be uploaded normally. Continue?</string>
     <string name="restore_tabs_hint_settings">Tabs will not be restored when you are in \"Incognito mode\".</string>
     <string name="ignore_secondary_ssl_error">Ignore secondary SSL error</string>
-    <string name="web_page_debug">Enable web page debugging</string>
-    <string name="web_page_debug_info">Now you can connect your phone to computer, then debug the web page with Chrome (PC) using \"chrome://inspect\". Remember to first enable USB Debugging in the menu: More Tools > Developer Tools.</string>
+    <string name="web_page_debug">Enable webpage debugging</string>
+    <string name="web_page_debug_info">Now you can connect your phone to computer, then debug the webpage with Chrome (PC) using \"chrome://inspect\". Remember to first enable USB Debugging in the menu: More Tools > Developer Tools.</string>
     <string name="no_download_tasks">Empty</string>
     <string name="action_re_download">Re-download</string>
     <string name="action_copy_download_link">Copy download link</string>
@@ -363,7 +363,7 @@
         \n||example.com^ (or simply: example.com)
         \n\nWildcard is acceptable such as:
         \n||example.com/js/ads_*.js
-        \n\nFor web page elements use a filter such as:
+        \n\nFor webpage elements use a filter such as:
         \nexample.com###ad
         \n\nYou can unblock special requests with a filter such as:
         \n@@||example.com^</string>
@@ -412,7 +412,7 @@
     <string name="paste_and_go">Paste &amp; Go</string>
     <string name="night_filter_for_web_contents">Night filter for web contents</string>
     <string name="force_dark_mode_for_web_contents">Force dark operation for web contents</string>
-    <string name="force_dark_mode_for_web_contents_description">When enabled, web pages will be forced to darken, which may cause some pages to behave abnormally.</string>
+    <string name="force_dark_mode_for_web_contents_description">When enabled, webpages will be forced to darken, which may cause some pages to behave abnormally.</string>
     <string name="require_javascript_enabled">This will take effect if JavaScript is enabled.</string>
     <string name="keyboard_shortcuts">Keyboard shortcuts</string>
     <string name="export_data_description">Export bookmarks, settings, scripts and ad filters</string>
@@ -441,8 +441,8 @@
     <string name="adaptive">Adaptive</string>
     <string name="action_favorites">Favorites</string>
     <string name="skin_search_bar">Search bar</string>
-    <string name="stroke_width">Stroke width</string>
-    <string name="stroke_opacity">Stroke opacity</string>
+    <string name="stroke_width">Border width</string>
+    <string name="stroke_opacity">Border opacity</string>
     <string name="opacity">Opacity</string>
     <string name="disable_website_icons">Disable website icons</string>
     <string name="disable_icon_color">Disable icon color</string>
