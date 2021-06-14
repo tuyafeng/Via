@@ -440,4 +440,6 @@
         \n\n代码(必填)：通常建议使用原生 JavaScript 编写。如若网站使用 jquery 或 vue.js 亦可使用其语法代码。</string>
     <string name="save_data">流量节省</string>
     <string name="save_data_description">请求网站节省流量</string>
+    <string name="use_line_style_search_box">使用线条风格的搜索框</string>
+    <string name="toast_script_added">已添加脚本</string>
 </resources>

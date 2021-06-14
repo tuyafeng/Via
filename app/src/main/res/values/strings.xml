@@ -463,4 +463,6 @@
     \n\nCode(required): It is recommended to use native JavaScript. You can also use jqeury or vue.js syntax if the website uses those frameworks.</string>
     <string name="save_data">Save data</string>
     <string name="save_data_description">Enable data-savings mode on compatible websites</string>
+    <string name="use_line_style_search_box">Use line style search box</string>
+    <string name="toast_script_added">Script added successfully</string>
 </resources>
