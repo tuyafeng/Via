@@ -457,4 +457,14 @@
     <string name="clear_website_icon_cache_message">Обратите внимание, что будут очищены все значки избранного на главной странице. Значок будет загружен при следующем посещении сайта.</string>
     <string name="use_blur_instead_of_transparency">Использовать эффект размытия вместо прозрачности</string>
     <string name="desc_favorite_icon">Значок избранного</string>
+    <string name="script_remarks">Примечание</string>
+    <string name="action_save">Сохранить</string>
+    <string name="reset_to_default_settings">Сброс настроек по умолчанию</string>
+    <string name="script_sites">Сайты (например, *.foo.com,bar.*/list)</string>
+    <string name="simple_guide_of_writing_script">Скрипт начнёт действовать автоматически при загрузке сайта.
+    \n\nСайты (обязательно): скрипты для сайтов поддерживают подстановочный знак \"*\" и указание нескольких сайтов через \",\", например: *.foo.com,bar.*/list.
+    \n\nПримечание (необязательно): используется в качестве названия.
+    \n\nКод (обязательно): рекомендуется использовать чистый JavaScript. Также можно использовать синтаксис jqeury или vue.js, если сайт использует данные фреймворки.</string>
+    <string name="save_data">Экономия трафика</string>
+    <string name="save_data_description">Использовать режим экономии трафика на совместимых сайтах</string>
 </resources>
