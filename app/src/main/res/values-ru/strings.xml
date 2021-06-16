@@ -467,4 +467,6 @@
     \n\nКод (обязательно): рекомендуется использовать чистый JavaScript. Также можно использовать синтаксис jqeury или vue.js, если сайт использует данные фреймворки.</string>
     <string name="save_data">Экономия трафика</string>
     <string name="save_data_description">Использовать режим экономии трафика на совместимых сайтах</string>
+    <string name="use_line_style_search_box">Поле поиска в виде строки</string>
+    <string name="toast_script_added">Скрипт успешно добавлен</string>
 </resources>
