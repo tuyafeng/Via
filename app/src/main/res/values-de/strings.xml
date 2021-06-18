@@ -18,7 +18,7 @@
     <string name="action_block_url">Link sperren</string>
     <string name="action_copy_text">Text kopieren</string>
     <string name="action_copy_link_text">Link-Text kopieren</string>
-    <string name="action_tools">Werkzeuge</string>
+    <string name="action_tools">Tools</string>
     <string name="settings">Einstellungen</string>
     <string name="location">Standortzugriff</string>
     <string name="password">Passwörter speichern</string>
