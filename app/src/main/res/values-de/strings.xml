@@ -99,7 +99,7 @@
     <string name="export_bookmarks_to">Lesezeichen exportiert nach: %1$s</string>
     <string name="import_bookmark_error">Kann Lesezeichen von Datei nicht importieren!</string>
     <string name="message_add_bookmark">Lesezeichen erfolgreich hinzugefügt</string>
-    <string name="message_exit">Erneut drücken zum Beenden</string>
+    <string name="message_exit">Zum Beenden, erneut drücken</string>
     <string name="dialog_message">Nachricht</string>
     <string name="wait_a_moment">Bitte warten&#8230;</string>
     <string name="toast_operation_failed">Operation fehlgeschlagen</string>
