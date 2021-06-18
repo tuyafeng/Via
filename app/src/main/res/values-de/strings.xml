@@ -3,7 +3,7 @@
 
     <string name="app_name">Via</string>
     <string name="action_new_tab">Neuer Tab</string>
-    <string name="action_open_in_new">Im neuem Tab öffnen</string>
+    <string name="action_open_in_new">In neuem Tab öffnen</string>
     <string name="action_save_img">Bild speichern</string>
     <string name="action_share">Teilen</string>
     <string name="action_history">Verlauf</string>
@@ -14,8 +14,8 @@
     <string name="action_copy">Link kopieren</string>
     <string name="action_block_domain">Domain blockieren</string>
     <string name="action_unblock_domain">Domain entblocken</string>
-    <string name="action_unblock_url">Link entsperren</string>
-    <string name="action_block_url">Link sperren</string>
+    <string name="action_unblock_url">Link entblocken</string>
+    <string name="action_block_url">Link blockieren</string>
     <string name="action_copy_text">Text kopieren</string>
     <string name="action_copy_link_text">Link-Text kopieren</string>
     <string name="action_tools">Werkzeuge</string>
@@ -31,10 +31,10 @@
     <string name="orientation_landscape">Querformat</string>
     <string name="agent">Benutzer-Agent</string>
     <string name="home">Startseite</string>
-    <string name="fullscreen">Toolbar automatisch ausblenden</string>
-    <string name="java">JavaScript aktivieren</string>
+    <string name="fullscreen">Ausblende Toolbars automatisch</string>
+    <string name="java">Aktiviere JavaScript</string>
     <string name="download">Download-Pfad</string>
-    <string name="size">Textgröße</string>
+    <string name="size">Text-Größe</string>
     <string name="search">Suchmaschine</string>
     <string name="search_hint">Suche</string>
     <string name="action_delete">Löschen</string>
@@ -49,11 +49,11 @@
     <string name="title_warning">Warnung</string>
     <string name="title_custom_homepage">Angepasste Startseite</string>
     <string name="action_webpage">Webseite</string>
-    <string name="size_largest">Sehr groß</string>
+    <string name="size_largest">Am größten</string>
     <string name="size_large">Groß</string>
     <string name="size_normal">Normal</string>
     <string name="size_small">Klein</string>
-    <string name="size_smallest">Sehr klein</string>
+    <string name="size_smallest">Am kleinsten</string>
     <string name="hint_title">Titel</string>
     <string name="hint_url">URL</string>
     <string name="hint_folder">Ordner</string>
@@ -61,7 +61,7 @@
     <string name="action_edit">Bearbeiten</string>
     <string name="action_incognito">Inkognito-Modus</string>
     <string name="action_find">Auf Seite suchen</string>
-    <string name="download_pending">Download gestartet\u2026</string>
+    <string name="download_pending">Download startet\u2026</string>
     <string name="cannot_download">Nur von\"http\" oder \"https\" URLs kann heruntergeladen werden.</string>
     <string name="bookmarks_imported">%1$d Lesezeichen wurden importiert</string>
     <string name="custom_url">Eigene URL</string>
@@ -91,8 +91,8 @@
     <string name="hint_username">Benutzername</string>
     <string name="hint_password">Passwort</string>
     <string name="untitled">Ohne Titel</string>
-    <string name="image_auto">Bilder über WLAN anzeigen</string>
-    <string name="image_off">Bilder ausblenden</string>
+    <string name="image_auto">Zeige Bilder über WLAN</string>
+    <string name="image_off">Bild blockieren</string>
     <string name="image_on">Bild anzeigen</string>
     <string name="title_file_chooser">Dateiauswahl</string>
     <string name="import_bookmarks">Importiere Lesezeichen von Datei</string>
@@ -110,7 +110,7 @@
     <string name="toast_clear_defaults">Bitte Standardwerte löschen</string>
     <string name="toast_copy_url_successful">Kopieren der URL erfolgreich</string>
     <string name="toast_copy_text_successful">Kopieren des Textes erfolgreich</string>
-    <string name="incognito_on">Sie sind jetzt im Inkognitomodus</string>
+    <string name="incognito_on">Sie sind jetzt inkognito</string>
     <string name="incognito_off">Inkognito deaktiviert</string>
     <string name="operation_none">Nichts unternehmen</string>
     <string name="operation_reload">Erneut laden</string>
@@ -142,7 +142,7 @@
     <string name="desc_filedic">Datei</string>
     <string name="action_mark">Als Werbung markieren</string>
     <string name="dialog_confirm_mark">Möchten Sie dies als Werbung markieren?</string>
-    <string name="do_not_track">Aktivitäten nicht verfolgen</string>
+    <string name="do_not_track">Nicht verfolgen</string>
     <string name="add_rule">Filter hinzufügen</string>
     <string name="color_mode">Farbmodus</string>
     <string name="dialog_sure">Sind Sie sicher, dass Sie das möchten?</string>
@@ -190,9 +190,9 @@
     <string name="skin_fruity">Fruchtig</string>
     <string name="skin_transparent">Transparent</string>
     
-    <string name="block_popup">Pop-up blockieren</string>
+    <string name="block_popup">Blockiere Pop-up</string>
     
-    <string name="action_save_web_page">Seite speichern</string>
+    <string name="action_save_web_page">Speichere Seite</string>
     <string name="action_saved_pages">Gespeicherte Seiten</string>
     <string name="saved_page_successfully">Die Webseite wurde unter Download gespeichert</string>
     <string name="deleted_failed">Löschen fehlgeschlagen. Die Datei befindet sich im Download-Pfad: </string>
@@ -201,7 +201,7 @@
     
     <string name="network_log">Netzwerk-Log</string>
 
-    <string name="conn_timeout">Zeitüberschreitung bei der Verbindung</string>
+    <string name="conn_timeout">Zeitüberschreitung der Verbindung</string>
     
     <string name="already_default">Bereits als Standard festgelegt</string>
     
@@ -260,7 +260,7 @@
     <string name="adblock_info">Aktiviert: %1$d Anzeige(n) wurde(n) blockiert, %2$s gespart</string>
     <string name="disable">Deaktiviert</string>
     <string name="ui_traditional">Sandwich</string>
-    <string name="color_mode_hint">Toolbar beim Browsen färben</string>
+    <string name="color_mode_hint">Toolbars beim browsen einfärben</string>
     <string name="skin_hide_search_part">Suchteil ausblenden</string>
     <string name="file_size">Dateigröße: %1$s</string>
     <string name="search_by_pic">Nach Bild suchen</string>
@@ -350,12 +350,12 @@
         <item quantity="other">%d Minuten her</item>
     </plurals>
     <plurals name="hours_ago">
-        <item quantity="one">Vor 1 Stunde</item>
-        <item quantity="other">Vor %d Stunden</item>
+        <item quantity="one">1 Stunde her</item>
+        <item quantity="other">%d Stunden her</item>
     </plurals>
     <plurals name="days_ago">
-        <item quantity="one">Vor 1 Tag</item>
-        <item quantity="other">Vor %d Tage(n)</item>
+        <item quantity="one">1 Tag her</item>
+        <item quantity="other">%d Tage her</item>
     </plurals>
     <string name="url_is_invalid">Die URL ist ungültig.</string>
     <string name="simple_guide_of_writing_rule">Via unterstützt fast alle Adblock Plus Filter.
@@ -438,7 +438,7 @@
      <string name="width">Breite</string>
     <string name="height">Höhe</string>
     <string name="corner_radius">Eckradius</string>
-    <string name="adaptive">Angepasst</string>
+    <string name="adaptive">Adaptiv</string>
     <string name="action_favorites">Favoriten</string>
     <string name="skin_search_bar">Suchleiste</string>
     <string name="stroke_width">Strichbreite</string>
