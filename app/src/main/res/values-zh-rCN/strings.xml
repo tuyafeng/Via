@@ -442,4 +442,5 @@
     <string name="save_data_description">请求网站节省流量</string>
     <string name="use_line_style_search_box">使用线条风格的搜索框</string>
     <string name="toast_script_added">已添加脚本</string>
+    <string name="action_manage_favorites">管理收藏</string>
 </resources>

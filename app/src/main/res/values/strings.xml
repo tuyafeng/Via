@@ -465,4 +465,5 @@
     <string name="save_data_description">Enable data-savings mode on compatible websites</string>
     <string name="use_line_style_search_box">Use line style search box</string>
     <string name="toast_script_added">Script added successfully</string>
+    <string name="action_manage_favorites">Manage favorites</string>
 </resources>
