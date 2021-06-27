@@ -439,7 +439,7 @@
     <string name="opened_in_background_message">Новая вкладка открыта в фоне</string>
     <string name="bookmark_added">Закладка добавлена</string>
     <string name="allow_website_to_open_app_message">Разрешить сайту открыть %1$s?</string>
-        <string name="width">Ширина</string>
+    <string name="width">Ширина</string>
     <string name="height">Высота</string>
     <string name="corner_radius">Радиус скругления</string>
     <string name="adaptive">Адаптивный</string>
@@ -467,4 +467,7 @@
     \n\nКод (обязательно): рекомендуется использовать чистый JavaScript. Также можно использовать синтаксис jqeury или vue.js, если сайт использует данные фреймворки.</string>
     <string name="save_data">Экономия трафика</string>
     <string name="save_data_description">Использовать режим экономии трафика на совместимых сайтах</string>
+    <string name="use_line_style_search_box">Поле поиска в виде строки</string>
+    <string name="toast_script_added">Скрипт успешно добавлен</string>
+    <string name="action_manage_favorites">Управление избранным</string>
 </resources>
