@@ -443,4 +443,9 @@
     <string name="use_line_style_search_box">使用线条风格的搜索框</string>
     <string name="toast_script_added">已添加脚本</string>
     <string name="action_manage_favorites">管理收藏</string>
+    <string name="check_for_updates">检查更新</string>
+    <string name="checking_for_updates">正在检查更新</string>
+    <string name="latest_version_already_installed">已是最新版本</string>
+    <string name="new_version_available">新版本可用</string>
+    <string name="action_download_file">下载</string>
 </resources>
