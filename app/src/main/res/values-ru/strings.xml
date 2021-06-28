@@ -470,4 +470,9 @@
     <string name="use_line_style_search_box">Поле поиска в виде строки</string>
     <string name="toast_script_added">Скрипт успешно добавлен</string>
     <string name="action_manage_favorites">Управление избранным</string>
+    <string name="check_for_updates">Проверить обновления</string>
+    <string name="checking_for_updates">Проверка обновлений</string>
+    <string name="latest_version_already_installed">Установлена последняя версия</string>
+    <string name="new_version_available">Доступна новая версия</string>
+    <string name="action_download_file">Загрузить</string>
 </resources>
