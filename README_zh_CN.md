@@ -15,7 +15,9 @@ Via 浏览器是一个有着如下特点的强大浏览器:
 
 [在 Google Play 下载](https://play.google.com/store/apps/details?id=mark.via.gp)
 
-[在酷安下载](https://www.coolapk.com/apk/mark.via)
+[下载 Play 版本](https://res.viayoo.com/v1/via-release.apk)
+
+[下载中文版本](https://res.viayoo.com/v1/via-release-cn.apk)
 
 ### 助力本地化
 

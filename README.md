@@ -17,7 +17,9 @@ Try it and you will never regret :)
 
 [Get it from Google Play](https://play.google.com/store/apps/details?id=mark.via.gp)
 
-[Get it from coolapk](https://www.coolapk.com/apk/mark.via)
+[Download Global Version](https://res.viayoo.com/v1/via-release.apk)
+
+[Download Chinese Version](https://res.viayoo.com/v1/via-release-cn.apk)
 
 ### Help with localization
 
