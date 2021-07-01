@@ -460,7 +460,7 @@
     <string name="reset_to_default_settings">Zresetuj do ust. domyślnych</string>
     <string name="script_sites">Strony (np. *.foo.com,bar.*/list)</string>
     <string name="simple_guide_of_writing_script">Napisany skrypt zacznie działać automatycznie po załadowaniu strony.
-    \n\nStrony (wymagane): Obszar działania skryptu. Zakres stron można poszerzyć symbolem \"*\", a kolejne oddzielić symoblem \",\", np. *.foo.com,bar.*/list.
+    \n\nStrony (wymagane): Obszar działania skryptu. Zakres stron można poszerzyć gwiazdką, a kolejne oddzielić przecinkiem, np. *.foo.com,bar.*/list.
     \n\Uwagi (opcjonalne): Używane np. jako nazwa skryptu.
     \n\nKod (wymagane): Zalecane jest używanie natywnego JavaScriptu. Możesz też używać składni jqeury lub vue.js, jeśli strona korzysta z tych frameworków.</string>
     <string name="save_data">Oszczędzanie danych</string>
