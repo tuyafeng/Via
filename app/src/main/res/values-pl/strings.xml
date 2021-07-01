@@ -25,7 +25,7 @@
     <string name="donate">Wspomóż</string>
     <string name="donate_details">Jeśli lubisz korzystać z naszej przeglądarki, możesz nas wspomóc.\nAlipay: 2376688759@qq.com\nPayPal: wiar1824@gmail.com</string>
     <string name="orientation">Orientacja ekranu</string>
-    <string name="follow_system">Systemowa</string>
+    <string name="follow_system">Jak w systemie</string>
     <string name="orientation_auto">Automatyczna</string>
     <string name="orientation_portrait">Pionowa</string>
     <string name="orientation_landscape">Pozioma</string>
@@ -93,9 +93,9 @@
     <string name="untitled">Bez tytułu</string>
     <string name="image_auto">Grafika tylko w WiFi</string>
     <string name="image_off">Blokuj grafikę</string>
-    <string name="image_on">Wczytuj grafikę</string>
+    <string name="image_on">Grafika wszędzie</string>
     <string name="title_file_chooser">Wybór pliku</string>
-    <string name="import_bookmarks">Importuj zakładki</string>
+    <string name="import_bookmarks">Importuj</string>
     <string name="export_bookmarks_to">Wyeksportowano zakładki do pliku %1$s</string>
     <string name="import_bookmark_error">Nie zaimportowano zakładek z tego pliku.</string>
     <string name="message_add_bookmark">Dodano zakładkę.</string>
@@ -414,7 +414,7 @@
     <string name="paste_and_go">Wklej i przejdź</string>
     <string name="night_filter_for_web_contents">Poziom przyciemnienia stron</string>
     <string name="force_dark_mode_for_web_contents">Wymuszaj ciemny motyw zawartości stron</string>
-    <string name="force_dark_mode_for_web_contents_description">Uwaga: Niektóre strony mogą wtedy działać i wyglądać nie do końca poprawnie.</string>
+    <string name="force_dark_mode_for_web_contents_description">Niektóre mogą działać i wyglądać niepoprawnie.</string>
     <string name="require_javascript_enabled">Wymagana jest włączona obsługa JavaScript.</string>
     <string name="keyboard_shortcuts">Skróty klawiszowe</string>
     <string name="export_data_description">Zakładki, ustawienia, skrypty i filtry reklam.</string>
@@ -437,4 +437,40 @@
     <string name="opened_in_background_message">Otwarto nową kartę w tle</string>
     <string name="bookmark_added">Dodano zakładkę</string>
     <string name="allow_website_to_open_app_message">Zezwolić stronie na otwarcie aplikacji %1$s?</string>
+    <string name="width">Szerokość</string>
+    <string name="height">Wysokość</string>
+    <string name="corner_radius">Zaokrąglenie</string>
+    <string name="adaptive">Dynamiczna</string>
+    <string name="action_favorites">Ulubione</string>
+    <string name="skin_search_bar">Pasek wysz.</string>
+    <string name="stroke_width">Grubość krawędzi</string>
+    <string name="stroke_opacity">Przezroczystość krawędzi</string>
+    <string name="opacity">Przezroczystość</string>
+    <string name="disable_website_icons">Wyłącz ikony stron</string>
+    <string name="disable_icon_color">Wyłącz tło ikon</string>
+    <string name="font_style">Styl czcionki</string>
+    <string name="bold">Pogrubiona</string>
+    <string name="italics">Pochyła</string>
+    <string name="clear_website_icon_cache">Wyczyść pam. podr. ikon stron</string>
+    <string name="clear_website_icon_cache_message">Usunięte zostaną wszystkie ikony ulubionych na stronie głównej. Każda ikona zostanie ponownie pobrana przy wizycie na odpowiadającej jej stronie.</string>
+    <string name="use_blur_instead_of_transparency">Używaj rozmycia zamiast przezroczystości</string>
+    <string name="desc_favorite_icon">Ikona ulubionej strony</string>
+    <string name="script_remarks">Uwagi</string>
+    <string name="action_save">Zapisz</string>
+    <string name="reset_to_default_settings">Zresetuj do ust. domyślnych</string>
+    <string name="script_sites">Strony (np. *.foo.com,bar.*/list)</string>
+    <string name="simple_guide_of_writing_script">Napisany skrypt zacznie działać automatycznie po załadowaniu strony.
+    \n\nStrony (wymagane): Strona ze skryptami obsługuje symbol wieloznaczny \"*\", a kolejne strony oddzielane są przez \",\", np. *.foo.com,bar.*/list.
+    \n\Uwagi (opcjonalne): Używane np. jako nazwa skryptu.
+    \n\nKod (wymagane): Zalecane jest używanie natywnego JavaScriptu. Możesz też używać składni jqeury lub vue.js, jeśli strona korzysta z tych frameworków.</string>
+    <string name="save_data">Oszczędzanie danych</string>
+    <string name="save_data_description">Włącz tryb oszczędzania danych na kompatybilnych stronach.</string>
+    <string name="use_line_style_search_box">Pole z linią zamiast ramki</string>
+    <string name="toast_script_added">Skrypt został dodany.</string>
+    <string name="action_manage_favorites">Menedżer ulubionych</string>
+    <string name="check_for_updates">Sprawdź aktualizacje</string>
+    <string name="checking_for_updates">Sprawdzam aktualizacje</string>
+    <string name="latest_version_already_installed">Korzystasz z najnowszej wersji</string>
+    <string name="new_version_available">Dostępna nowa wersja</string>
+    <string name="action_download_file">Pobierz</string>
 </resources>
