@@ -448,10 +448,10 @@
     <string name="height">Višina</string>
     <string name="corner_radius">Polmer kota</string>
     <string name="adaptive">Prilagodljivo</string>
-    <string name="action_favorites">Priljubljeno</string>
+    <string name="action_favorites">Priljubljene</string>
     <string name="skin_search_bar">Iskalna vrstica</string>
-    <string name="stroke_width">Širina poteze</string>
-    <string name="stroke_opacity">Motnost poteze</string>
+    <string name="stroke_width">Širina obrob</string>
+    <string name="stroke_opacity">Motnost obrob</string>
     <string name="opacity">Motnost</string>
     <string name="disable_website_icons">Izklopi ikone spletnih strani</string>
     <string name="disable_icon_color">Izklopi barve ikon</string>
@@ -462,4 +462,22 @@
     <string name="clear_website_icon_cache_message">S tem bodo počiščene vse ikone priljubljenih strani na začetni strani. Vsaka ikona bo prenesena naslednjič, ko boste obiskali pripadajočo spletno stran.</string>
     <string name="use_blur_instead_of_transparency">Uporabi učinek zameglitve namesto prosojnosti</string>
     <string name="desc_favorite_icon">Ikona priljubljene strani</string>
+    <string name="script_remarks">Pripombe</string>
+    <string name="action_save">Shrani</string>
+    <string name="reset_to_default_settings">Ponastavi na privzete nastavitve</string>
+    <string name="script_sites">Strani (kot je *.foo.com,bar.*/list)</string>
+    <string name="simple_guide_of_writing_script">Napisana skripta se bo pričela samodejno izvajati, ko bo spletna stran naložena.
+    \n\nStrani (zahtevano): stran s skripto podpira nadomestni znak \"*\". Različne strani se ločijo z nadomestnim znakom \",\". Primer: *.foo.com,bar.*/list.
+    \n\nPripombe (izbirno): uporabljene so kot naslov zaslona.
+    \n\nKoda (zahtevano): priporočljivo je uporabljati nativni JavaScript. Uporabita se lahko tudi sintaksi jqeury ali vue.js, če ju spletna stran koristi.</string>
+    <string name="save_data">Shrani podatke</string>
+    <string name="save_data_description">Vklopi način varčevanja s podatki na združljivih spletnih straneh</string>
+    <string name="use_line_style_search_box">Za iskalno polje uporabi črto namesto okvirja</string>
+    <string name="toast_script_added">Skripta uspešno dodana</string>
+    <string name="action_manage_favorites">Upravitelj priljubljenih</string>
+    <string name="check_for_updates">Preveri posodobitve</string>
+    <string name="checking_for_updates">Preverjanje posodobitev</string>
+    <string name="latest_version_already_installed">Najnovejša različica je že nameščena</string>
+    <string name="new_version_available">Na voljo je nova različica</string>
+    <string name="action_download_file">Prenos</string>
 </resources>
