@@ -392,7 +392,7 @@
     <string name="delete_account">Hapus akun</string>
     <string name="delete_account_request_submitted">Permohonan untuk menghapus akun telah dikirim.</string>
     <string name="delete_account_hint">Hapus akun dari server</string>
-    <string name="delete_account_message">Setelah mengirim permohonan, akun akan keluar dan memasuki 30 hari masa tunggu penghapusan. Jika anda masuk lagi dengan akun tersebut dan mengunggah data selama masa tunggu, permohonan akan dibatalkan. Setelah masa tunggu habis, akun dan semua data terkait akan dihapus dari server.\nHarap masukkan kata sandi untuk mengirim permohonan.</string>
+    <string name="delete_account_message">Setelah mengirim permohonan, akun akan keluar dan memasuki 15 hari masa tunggu penghapusan. Jika anda masuk lagi dengan akun tersebut dan mengunggah data selama masa tunggu, permohonan akan dibatalkan. Setelah masa tunggu habis, akun dan semua data terkait akan dihapus dari server.\nHarap masukkan kata sandi untuk mengirim permohonan.</string>
     <string name="confirm_to_delete">Konfirmasi hapus</string>
     <string name="items_selected">%1d dipilih</string>
     <string name="select_all">Pilih semua</string>

@@ -194,7 +194,7 @@
 
     <string name="action_save_web_page">儲存網頁</string>
     <string name="action_saved_pages">已儲存網頁</string>
-    <string name="saved_page_successfully">網頁已保存到下載中</string>
+    <string name="saved_page_successfully">網頁已保存到\"書籤 > 儲存網頁\"中</string>
     <string name="deleted_failed">刪除失敗，此檔案位於下載路徑: </string>
 
     <string name="empty_hint">空空如也&#8230;</string>

@@ -391,7 +391,7 @@
     <string name="exit">Sair</string>
     <string name="delete_account">Excluir conta</string>
     <string name="delete_account_hint">Excluir a conta do servidor</string>
-    <string name="delete_account_message">Depois de enviar a solicitação de exclusão, a conta será desconectada e entrará em um período de espera para exclusão de 30 dias. Durante o período de logout, se você entrar na conta novamente e carregar os dados, a solicitação de exclusão será retirada. Após o período de espera expirar, a conta e os dados relacionados serão completamente excluídos do servidor.\NDigite sua senha para enviar a solicitação.</string>
+    <string name="delete_account_message">Depois de enviar a solicitação de exclusão, a conta será desconectada e entrará em um período de espera para exclusão de 15 dias. Durante o período de logout, se você entrar na conta novamente e carregar os dados, a solicitação de exclusão será retirada. Após o período de espera expirar, a conta e os dados relacionados serão completamente excluídos do servidor.\NDigite sua senha para enviar a solicitação.</string>
     <string name="confirm_to_delete">Confirme para excluir</string>
     <string name="items_selected">%1d selecionado</string>
     <string name="select_all">Selecione todos</string>

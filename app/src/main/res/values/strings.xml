@@ -58,7 +58,7 @@
     <string name="hint_url">URL</string>
     <string name="hint_folder">Folder</string>
     <string name="title_edit_bookmark">Edit bookmark</string>
-    <string name="action_edit">Edit this</string>
+    <string name="action_edit">Edit</string>
     <string name="action_incognito">Incognito mode</string>
     <string name="action_find">Find in page</string>
     <string name="download_pending">Starting download\u2026</string>
@@ -194,7 +194,7 @@
 
     <string name="action_save_web_page">Save page</string>
     <string name="action_saved_pages">Saved pages</string>
-    <string name="saved_page_successfully">Webpage has been saved to: Downloads > Saved pages</string>
+    <string name="saved_page_successfully">Webpage has been saved to: Bookmarks > Saved pages</string>
     <string name="deleted_failed">Failed to delete. The file is located in download path: </string>
 
     <string name="empty_hint">Empty</string>
@@ -392,7 +392,7 @@
     <string name="delete_account">Delete account</string>
     <string name="delete_account_request_submitted">The account deletion request has been submitted.</string>
     <string name="delete_account_hint">Delete the account from the server</string>
-    <string name="delete_account_message">After submitting the deletion request, the account will be logged out and enter a 30-day deletion waiting-period. If you log in to the account again and upload data during the waiting-period, your deletion request will be withdrawn. After the waiting-period expires, the account and related data will be completely deleted from the server.\nPlease enter your password to submit the request.</string>
+    <string name="delete_account_message">After submitting the deletion request, the account will be logged out and enter a 15-day deletion waiting-period. If you log in to the account again and upload data during the waiting-period, your deletion request will be withdrawn. After the waiting-period expires, the account and related data will be completely deleted from the server.\nPlease enter your password to submit the request.</string>
     <string name="confirm_to_delete">Confirm to delete</string>
     <string name="items_selected">%1d selected</string>
     <string name="select_all">Select all</string>
@@ -471,4 +471,13 @@
     <string name="latest_version_already_installed">Latest version already installed</string>
     <string name="new_version_available">New version available</string>
     <string name="action_download_file">Download</string>
+    <string name="entered_full_screen_mode">Entered full screen mode</string>
+    <string name="delete_hint">Delete(%1$d)</string>
+    <string name="follow_system_dark_mode_on">Follow system dark mode is enabled</string>
+    <string name="scoped_search">Search %1$s</string>
+    <string name="add_shortcut">Add shortcut</string>
+    <string name="need_shortcut_permission">Permission denied. Please go to settings and turn on \"Create home screen shortcuts\" permission for this app.</string>
+    <string name="create_shortcut_successfully">Create shortcut for %1$s successfully</string>
+    <string name="update_shortcut_successfully">Update shortcut for %1$s successfully</string>
+
 </resources>

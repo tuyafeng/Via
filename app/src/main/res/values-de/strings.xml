@@ -392,7 +392,7 @@
     <string name="delete_account">Account löschen</string>
     <string name="delete_account_request_submitted">Die Anfrage zur Konto-Löschung wurde übermittelt.</string>
     <string name="delete_account_hint">Das Konto von unserem Server entfernen</string>
-    <string name="delete_account_message">Nach Übermittlung der Löschanfrage, wird das Konto abgemeldet und geht in einen 30-Tage Löschung-Warte-Zeitraum über. Melden Sie sich während dieses Zeitraum erneut an und übertragen Daten, so wird die Löschanforderung zurückgezogen. Nach Ablauf der Wartezeit, wird das Konto und alle damit verbundenen Daten von unserem Server komplett entfernt.\nBitte geben Sie ihr Passwort ein, um die Anforderung zu übermitteln.</string>
+    <string name="delete_account_message">Nach Übermittlung der Löschanfrage, wird das Konto abgemeldet und geht in einen 15-Tage Löschung-Warte-Zeitraum über. Melden Sie sich während dieses Zeitraum erneut an und übertragen Daten, so wird die Löschanforderung zurückgezogen. Nach Ablauf der Wartezeit, wird das Konto und alle damit verbundenen Daten von unserem Server komplett entfernt.\nBitte geben Sie ihr Passwort ein, um die Anforderung zu übermitteln.</string>
     <string name="confirm_to_delete">Löschung bestätigen</string>
     <string name="items_selected">%1d ausgewählt</string>
     <string name="select_all">Alle auswählen</string>
