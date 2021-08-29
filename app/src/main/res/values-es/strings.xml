@@ -369,4 +369,36 @@
     <string name="bookmarks_exported_successfully">Marcadores exportados con éxito</string>
     <string name="data_exported_successfully">Datos exportados con éxito</string>
     <string name="privacy_policy">Política de privacidad</string>
+    <string name="night_filter_for_web_contents">Filtro nocturno para el contenido de la página web</string>
+    <string name="force_dark_mode_for_web_contents">Forzar el modo nocturno del contenido de la página web</string>
+    <string name="force_dark_mode_for_web_contents_description">Cuando se encuentra activo, se forzara el modo oscuro en las páginas web, lo que puede hacer que algunas páginas se comporten de forma anormal.</string>
+    <string name="export_data_description">Exportar marcadores, ajustes, scripts y filtros de anuncios</string>
+    <string name="width">Ancho</string>
+    <string name="height">Alto</string>
+    <string name="corner_radius">Redondeado de esquinas</string>
+    <string name="skin_search_bar">Barra de búsqueda</string>
+    <string name="opacity">Opacidad</string>
+    <string name="stroke_width">Ancho del borde</string>
+    <string name="stroke_opacity">Opacidad del borde</string>
+    <string name="use_line_style_search_box">Usar la barra de búsqueda de estilo línea</string>
+    <string name="action_favorites">Favoritos</string>
+    <string name="disable_website_icons">Deshabilitar los iconos de la página web</string>
+    <string name="disable_icon_color">Deshabilitar el color del icono</string>
+    <string name="use_blur_instead_of_transparency">Usar el efecto de desenfoque en lugar de la transparencia</string>
+    <string name="clear_website_icon_cache">Borrar la caché del icono de la página web</string>
+    <string name="clear_website_icon_cache_message">Tenga en cuenta que esto borrará todos los iconos favoritos de la página de inicio. Cada icono se descargará la próxima vez que visite la página web correspondiente.</string>
+    <string name="reset_to_default_settings">Restablecer la configuración por defecto</string>
+    <string name="save_data">Ahorro de datos</string>
+    <string name="save_data_description">Activa el modo de ahorro de datos en las páginas web compatibles.</string>
+    <string name="simple_guide_of_writing_script">El script escrito tendrá efecto automáticamente cuando se cargue la página web.
+    \n\nSitios(obligatorio): El sitio con script admite el comodín \"*\", y los sitios múltiples se separan con \",\", por ejemplo: *.foo.com,bar.*/list.
+    \n\nObservaciones (opcional): Se utiliza como título de la visualización.
+    \n\nCódigo(obligatorio): Se recomienda utilizar JavaScript nativo. También se puede utilizar la sintaxis de jquery o Vue.js si el sitio web utiliza esos frameworks.</string>
+    <string name="script_sites">Sitios (como *.foo.com,bar.*/list)</string>
+    <string name="script_remarks">Observaciones</string>
+    <string name="action_save">Guardar</string>
+    <string name="join_telegram_group">Unirse al grupo de Telegram</string>
+    <string name="follow_me_on_twitter">Sígueme en Twitter</string>
+    <string name="terms_of_use">Condiciones de uso</string>
+    <string name="open_source_licenses">Licencias de código abierto</string>
 </resources>
