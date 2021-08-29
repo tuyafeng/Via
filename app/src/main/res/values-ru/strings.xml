@@ -134,7 +134,7 @@
     <string name="action_source">Исходный код</string>
     <string name="action_translate">Перевод</string>
     <string name="title_edit_folder">Редактирование папки</string>
-    <string name="msg_delete_folder">Удалить эту папку?</string>
+    <string name="msg_delete_folder">Удалить папку?</string>
     <string name="desc_suggestion">Предложение</string>
     <string name="desc_home">Домой</string>
     <string name="desc_tab">Вкладка</string>
@@ -396,7 +396,7 @@
     <string name="delete_account_request_submitted">Запрос на удаление учётной записи отправлен.</string>
     <string name="delete_account_hint">Удаление учётной записи с сервера</string>
     <string name="delete_account_message">После отправки запроса на удаление учётная запись будет выведена из системы и перейдёт в 30-дневный период ожидания удаления. Если за это время вы снова войдёте в учётную запись и загрузите данные, запрос на удаление будет отозван. По истечении периода ожидания учётная запись и связанные с ней данные будут полностью удалены с сервера.\nВведите пароль, чтобы отправить запрос.</string>
-    <string name="confirm_to_delete">Подтверждение удаления</string>
+    <string name="confirm_to_delete">Удалить</string>
     <string name="items_selected">Выбрано: %1d</string>
     <string name="select_all">Выбрать все</string>
     <string name="multi_choice">Множественный выбор</string>
@@ -442,11 +442,11 @@
     <string name="width">Ширина</string>
     <string name="height">Высота</string>
     <string name="corner_radius">Радиус скругления</string>
-    <string name="adaptive">Адаптивный</string>
+    <string name="adaptive">Адаптивно</string>
     <string name="action_favorites">Избранное</string>
     <string name="skin_search_bar">Панель поиска</string>
-    <string name="stroke_width">Ширина штриха</string>
-    <string name="stroke_opacity">Прозрачность штриха</string>
+    <string name="stroke_width">Ширина линии</string>
+    <string name="stroke_opacity">Прозрачность линии</string>
     <string name="opacity">Прозрачность</string>
     <string name="disable_website_icons">Отключить значки сайтов</string>
     <string name="disable_icon_color">Использовать монохромные значки</string>
@@ -455,7 +455,7 @@
     <string name="italics">Курсив</string>
     <string name="clear_website_icon_cache">Очистить кеш значков сайтов</string>
     <string name="clear_website_icon_cache_message">Обратите внимание, что будут очищены все значки избранного на главной странице. Значок будет загружен при следующем посещении сайта.</string>
-    <string name="use_blur_instead_of_transparency">Использовать эффект размытия вместо прозрачности</string>
+    <string name="use_blur_instead_of_transparency">Эффект размытия вместо прозрачности</string>
     <string name="desc_favorite_icon">Значок избранного</string>
     <string name="script_remarks">Примечание</string>
     <string name="action_save">Сохранить</string>
