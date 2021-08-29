@@ -194,7 +194,7 @@
 
     <string name="action_save_web_page">Сохранить страницу</string>
     <string name="action_saved_pages">Сохранённые страницы</string>
-    <string name="saved_page_successfully">Страница успешно сохранена в папку загрузок</string>
+    <string name="saved_page_successfully">Страница успешно сохранена в закладки</string>
     <string name="deleted_failed">Ошибка при удалении. Путь нахождения файла: </string>
 
     <string name="empty_hint">Пусто…</string>
@@ -475,4 +475,12 @@
     <string name="latest_version_already_installed">Установлена последняя версия</string>
     <string name="new_version_available">Доступна новая версия</string>
     <string name="action_download_file">Загрузить</string>
+    <string name="entered_full_screen_mode">Используется полноэкранный режим</string>
++    <string name="delete_hint">Удаление (%1$d)</string>
++    <string name="follow_system_dark_mode_on">Использовать тёмный режим системы, если включено</string>
++    <string name="scoped_search">Поиск %1$s</string>
++    <string name="add_shortcut">Добавить ярлык</string>
++    <string name="need_shortcut_permission">Доступ запрещён. Перейдите в настройки этого приложения и включите разрешение \"Создавать ярлыки на главном экране\".</string>
++    <string name="create_shortcut_successfully">Ярлык для %1$s создан</string>
++    <string name="update_shortcut_successfully">Ярлык для %1$s обновлён</string>
 </resources>
