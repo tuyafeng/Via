@@ -194,7 +194,7 @@
 
     <string name="action_save_web_page">Сохранить страницу</string>
     <string name="action_saved_pages">Сохранённые страницы</string>
-    <string name="saved_page_successfully">Страница успешно сохранена в закладки</string>
+    <string name="saved_page_successfully">Страница успешно сохранена в \"Закладки\" → \"Сохранённые страницы\"</string>
     <string name="deleted_failed">Ошибка при удалении. Путь нахождения файла: </string>
 
     <string name="empty_hint">Пусто…</string>
