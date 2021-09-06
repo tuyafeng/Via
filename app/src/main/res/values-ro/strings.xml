@@ -63,7 +63,7 @@
     <string name="action_find">Găsire în pagină/string>
     <string name="download_pending">Începere descărcare...\u2026</string>
     <string name="cannot_download">Poate fi descărcat doar de la adrese \"http\" sau \"https\".</string>
-    <string name="bookmarks_imported">%1$d preferințe importate/string>
+    <string name="bookmarks_imported">%1$d preferințe importate</string>
     <string name="custom_url">URL particularizat</string>
     <string name="baidu_url">Baidu</string>
     <string name="shenma_url">ShenMa</string>
