@@ -89,7 +89,7 @@
     <string name="action_dont_allow">Refuzați</string>
     <string name="title_sign_in">Autentificare</string>
     <string name="hint_username">Nume de utilizator</string>
-    <string name="hint_password">Parolă/string>
+    <string name="hint_password">Parolă</string>
     <string name="untitled">Fără titlu</string>
     <string name="image_auto">Afișează imagini numai pe Wi-Fi</string>
     <string name="image_off">Blocare imagini</string>
@@ -111,7 +111,7 @@
     <string name="toast_copy_url_successful">Link copiat cu succes</string>
     <string name="toast_copy_text_successful">Text copiat cu succes</string>
     <string name="incognito_on">Ești în Incognito</string>
-    <string name="incognito_off">Incognito este dezactivat/string>
+    <string name="incognito_off">Incognito este dezactivat</string>
     <string name="operation_none">Nimic</string>
     <string name="operation_reload">Reîmprospătare</string>
     <string name="operation_top">Derulare la început</string>
@@ -134,7 +134,7 @@
     <string name="action_source">Viz. sursa</string>
     <string name="action_translate">Traducere</string>
     <string name="title_edit_folder">Editare dosar</string>
-    <string name="msg_delete_folder">Dorești să ștergi acest dosar?</string>
+    <string name="msg_delete_folder">Doriți să ștergeți acest dosar?</string>
     <string name="desc_suggestion">Sugestie</string>
     <string name="desc_home">Acasă</string>
     <string name="desc_tab">Filă</string>
@@ -165,7 +165,7 @@
     <string name="addon_download">Manager de descărcări</string>
     <string name="quick_back">Mergi înapoi fără reîncărcare</string>
     <string name="open_with">Deschidere cu&#8230;</string>
-    <string name="download_completed">Descărcare finalizată/string>
+    <string name="download_completed">Descărcare finalizată;/string>
     <string name="toast_fullscreen_off">Ieșire din modul Ecran complet</string>
 
     <string name="clear_data">Ștergere date</string>
@@ -174,7 +174,7 @@
     <string name="data_history">Istoric</string>
     <string name="data_storage">WebStorage</string>
     <string name="data_cookies">Cookie-uri</string>
-    <string name="data_cleared">Date șterse/string>
+    <string name="data_cleared">Date șterse</string>
 
     <string name="sync_desc">Un cont va fi creat dacă nu există unul.</string>
 
@@ -227,10 +227,10 @@
     <string name="add_script">Adăugare script</string>
     <string name="script_url">Domeniu sau * (* înseamnă tot)</string>
     <string name="script_code">Cod (JavaScript)</string>
-    <string name="help_us_translate">Ajută-ne cu traducerile</string>
-    <string name="confirm_to_leave">Confirmă ieșirea</string>
-    <string name="leave">Ieși</string>
-    <string name="stay">Rămâi</string>
+    <string name="help_us_translate">Ajutați-ne cu traducerile</string>
+    <string name="confirm_to_leave">Confirmați ieșirea</string>
+    <string name="leave">Ieșiți</string>
+    <string name="stay">Rămâneți</string>
     <string name="skin_logo">Logo</string>
     <string name="skin_bg">Fundal</string>
     <string name="skin_style">Stil</string>
@@ -301,7 +301,7 @@
     <string name="restore_tabs_hint_settings">Filele nu vor fi restaurate când ești în modul Incognito.</string>
     <string name="ignore_secondary_ssl_error">Ignorare eroare SSL secundară</string>
     <string name="web_page_debug">Activare depanare pagină</string>
-    <string name="web_page_debug_info">Acum puteți conecta telefonul la computer, apoi depanați pagina web cu Chrome (PC) utilizând \"chrome://inspect\". Nu uita întâi să activezi depanarea USB în meniu: Mai multe instrumente > Instrumente pt. dezvoltatori.</string>
+    <string name="web_page_debug_info">Acum puteți conecta telefonul la computer, apoi depanați pagina web cu Chrome (PC) utilizând \"chrome://inspect\". Nu uitați întâi să activați depanarea USB în meniu: Mai multe instrumente > Instrumente pt. dezvoltatori.</string>
     <string name="no_download_tasks">Gol</string>
     <string name="action_re_download">Redescărcare</string>
     <string name="action_copy_download_link">Copiere link de descărcare</string>
@@ -392,7 +392,7 @@
     <string name="delete_account">Ștergere cont</string>
     <string name="delete_account_request_submitted">Cererea de ștergere a contului a fost trimisă</string>
     <string name="delete_account_hint">Șterge contul de pe server</string>
-    <string name="delete_account_message">După trimiterea cererii de ștergere, contul va fi deconectat și va intra într-o perioadă de ștergere de 15 zile. Dacă vă reconectați și încărcați date în perioada de ștergere, cererea de ștergere va fi anulată. După ce perioada de ștergere se termină, contul și toate datele corelate sunt șterse de pe server.\nVă rugăm introduceți-vă parola pentru a trimite cererea de ștergere.</string>
+    <string name="delete_account_message">După trimiterea cererii de ștergere, contul va fi deconectat și va intra într-o perioadă de ștergere de 15 zile. Dacă vă reconectați și încărcați date în perioada de ștergere, cererea de ștergere va fi anulată. După ce perioada de ștergere se termină, contul și toate datele asociate sunt șterse de pe server.\nVă rugăm introduceți-vă parola pentru a trimite cererea de ștergere.</string>
     <string name="confirm_to_delete">Confirmare ștergere</string>
     <string name="items_selected">%1d selectate</string>
     <string name="select_all">Selectați tot</string>
@@ -443,7 +443,7 @@
     <string name="skin_search_bar">Bară de căutare</string>
     <string name="stroke_width">Grosime margine</string>
     <string name="stroke_opacity">Opacitate margine</string>
-    <string name="opacity">Opacitate/string>
+    <string name="opacity">Opacitate</string>
     <string name="disable_website_icons">Dezactivare iconițe site-uri</string>
     <string name="disable_icon_color">Dezactivare culoare iconițe</string>
     <string name="font_style">Stil font</string>
@@ -461,7 +461,7 @@
     \n\nSite-uri(obligatoriu): Site-ul suportă wildcard-ul \"*\", și site-urile sunt separate prin \",\", de exemplu: *.foo.com,bar.*/list.
     \n\nObservații(opțional): Folosit ca titlu.
     \n\nCod(obligatoriu): Este recomandat să utilizați JavaScript nativ. Puteți folosi și sintaxa jQuery sau vue.js dacă site-ul suportă aceste framework-uri.</string>
-    <string name="save_data">Salvare date/string>
+    <string name="save_data">Salvare date</string>
     <string name="save_data_description">Activare mod de economisire a datelor pe site-uri suportate</string>
     <string name="use_line_style_search_box">Folosire bară de căutare stil linie</string>
     <string name="toast_script_added">Script adăugat cu succes</string>
