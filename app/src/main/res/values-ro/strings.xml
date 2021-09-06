@@ -244,7 +244,7 @@
     <string name="background_opacity">Opacitatea fundalului</string>
     <string name="action_pic_mode">Mod imagine</string>
     <string name="find_next">Găsire urm.</string>
-    <string name="find_pre">Găsire ult.</string>
+    <string name="find_pre">Găsire ant.</string>
     <string name="action_open_in_background">Deschidere în fundal</string>
     <string name="cannot_work">Poate funcționa doar cu adrese \"http\" sau \"https\".</string>
     <string name="action_fullscreen">Ecran complet</string>
