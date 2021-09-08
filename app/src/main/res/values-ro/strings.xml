@@ -219,7 +219,7 @@
     <string name="restore_tabs">Restaurare file la pornire</string>
     <string name="install_success">Instalare finalizată!</string>
     <string name="uninstall_success">Dezinstalare finalizată!</string>
-    <string name="log_page_hint">Lista site-urilor blocate este în %1$s.\nPoți edita lista, sau să ții apăsat pe acest element pentru a-i activa sau dezactiva blocada.</string>
+    <string name="log_page_hint">Lista site-urilor blocate este în %1$s.\nPuteți edita lista, sau să țineți apăsat pe acest element pentru a-i activa sau dezactiva blocada.</string>
     <string name="fullscreen_1">Defilare pentru ascundere/afișare</string>
     <string name="fullscreen_2">Apăsare pentru ascundere/afișare</string>
     <string name="settings_script">Scripturi</string>
