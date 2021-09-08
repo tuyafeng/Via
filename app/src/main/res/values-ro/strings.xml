@@ -3,7 +3,7 @@
 
     <string name="app_name">Via</string>
     <string name="action_new_tab">Filă nouă</string>
-    <string name="action_open_in_new">Deschidere într-o filă nouă</string>
+    <string name="action_open_in_new">Deschidere în filă nouă</string>
     <string name="action_save_img">Salvare imagine</string>
     <string name="action_share">Partajare</string>
     <string name="action_history">Istoric</string>
@@ -120,8 +120,8 @@
     <string name="operation_openbookmark">Deschidere preferință</string>
     <string name="operation_openhistory">Deschidere istoric</string>
     <string name="operation_closetab">Inchidere filă</string>
-    <string name="operation_lasttab">Ultima filă</string>
-    <string name="operation_nexttab">Următoarea filă</string>
+    <string name="operation_lasttab">Fila anterioară</string>
+    <string name="operation_nexttab">Fila următoare</string>
     <string name="operation_goback">Mergi înapoi</string>
     <string name="operation_goforward">Mergi înainte</string>
     <string name="settings_operation">Gesturi</string>
@@ -427,7 +427,7 @@
     <string name="move">Mutare</string>
     <string name="bookmarks_history">Preferințe/Istoric</string>
     <string name="done">Terminat</string>
-    <string name="root_folder">Dosar de bază</string>
+    <string name="root_folder">Dosar principal</string>
     <string name="delete_item_message">Sunteți sigur că doriți să ștergeți %1$s?</string>
     <string name="item_has_been_deleted">\"%1$s\" a fost șters</string>
     <string name="undo">Anulare</string>
@@ -473,10 +473,10 @@
     <string name="action_download_file">Descărcare</string>
     <string name="entered_full_screen_mode">Mod Ecran complet activat</string>
     <string name="delete_hint">Ștergere(%1$d)</string>
-    <string name="follow_system_dark_mode_on">Urmarea setarea Mod Întunecat a sistemului este activată</string>
+    <string name="follow_system_dark_mode_on">Urmarea setării Mod Întunecat a sistemului este activată</string>
     <string name="scoped_search">Căutare %1$s</string>
     <string name="add_shortcut">Adăugare scurtătură pe ecranul de pornire</string>
-    <string name="need_shortcut_permission">Perminisune respinsă. Vă rugăm mergeți în setări și activați permisiunea \"Creare scurtături pe ecranul de pornire\" pentru această aplicație.</string>
+    <string name="need_shortcut_permission">Permisiune respinsă. Vă rugăm mergeți în setări și activați permisiunea \"Creare scurtături pe ecranul de pornire\" pentru această aplicație.</string>
     <string name="create_shortcut_successfully">Scurtătură creată pentru %1$s cu succes</string>
     <string name="update_shortcut_successfully">Scurtătură actualizată pentru %1$s cu succes</string>
 
