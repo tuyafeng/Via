@@ -99,12 +99,12 @@
     <string name="export_bookmarks_to">Exportare preferințe în %1$s</string>
     <string name="import_bookmark_error">Nu s-au putut importa preferințele din fișier!</string>
     <string name="message_add_bookmark">Preferință adăugată</string>
-    <string name="message_exit">Apasă încă o dată pentru a ieși</string>
+    <string name="message_exit">Apăsați încă o dată pentru a ieși</string>
     <string name="dialog_message">Mesaj</string>
     <string name="wait_a_moment">Așteptați un moment&#8230;</string>
     <string name="toast_operation_failed">Operațiune eșuată</string>
     <string name="toast_operation_done">Operațiune completată</string>
-    <string name="volume">Folosește tastele Volum pentru a defila</string>
+    <string name="volume">Folosiți tastele Volum pentru a defila</string>
     <string name="msg_intent">Permiteți site-ului să deschidă aplicația dvs?</string>
     <string name="setting_default">Setare ca browser implicit</string>
     <string name="toast_clear_defaults">Vă rugăm ștergeți valorile prestabilite</string>
@@ -141,11 +141,11 @@
     <string name="desc_menu">Meniu</string>
     <string name="desc_filedic">Fișier</string>
     <string name="action_mark">Marcare ca reclamă</string>
-    <string name="dialog_confirm_mark">Dorești să marchezi asta ca reclamă?</string>
+    <string name="dialog_confirm_mark">Doriți să marchezi asta ca reclamă?</string>
     <string name="do_not_track">Do not track</string>
     <string name="add_rule">Adăugare filtru</string>
     <string name="color_mode">Mod culoare</string>
-    <string name="dialog_sure">Ești sigur că vrei să continui?</string>
+    <string name="dialog_sure">Sunteți sigur(ă) că doriți să continuați?</string>
     <string name="action_send_to_launcher">Trimitere câtre Lansator</string>
     <string name="settings_cloud">Cont</string>
     <string name="user">Autentificare/Înregistrare</string>
@@ -156,14 +156,14 @@
     <string name="code_500">Serviciu indisponibil.</string>
     <string name="syns_success">Sincronizare finalizată</string>
     <string name="upload_success">Încărcare finalizată</string>
-    <string name="log_out">Dorești să te deconectezi?</string>
+    <string name="log_out">Doriți să vă deconectați?</string>
     <string name="crash_info">Ceva nu a mers bine. :(</string>
     <string name="crash_restart">Repornire</string>
     <string name="crash_close">Închidere</string>
     <string name="upload_completed">Încărcare completă</string>
     <string name="ui_mode">Mod bară de instrumente</string>
     <string name="addon_download">Manager de descărcări</string>
-    <string name="quick_back">Mergi înapoi fără reîncărcare</string>
+    <string name="quick_back">Mergeți înapoi fără reîncărcare</string>
     <string name="open_with">Deschidere cu&#8230;</string>
     <string name="download_completed">Descărcare finalizată;/string>
     <string name="toast_fullscreen_off">Ieșire din modul Ecran complet</string>
@@ -223,7 +223,7 @@
     <string name="fullscreen_1">Defilare pentru ascundere/afișare</string>
     <string name="fullscreen_2">Apăsare pentru ascundere/afișare</string>
     <string name="settings_script">Scripturi</string>
-    <string name="get_more_script">Fă rost de mai multe scripturi</string>
+    <string name="get_more_script">Faceți rost de mai multe scripturi</string>
     <string name="add_script">Adăugare script</string>
     <string name="script_url">Domeniu sau * (* înseamnă tot)</string>
     <string name="script_code">Cod (JavaScript)</string>
@@ -234,7 +234,7 @@
     <string name="skin_logo">Logo</string>
     <string name="skin_bg">Fundal</string>
     <string name="skin_style">Stil</string>
-    <string name="set_it_as_homepage">Dorești să îl setezi ca pagină de pornire?</string>
+    <string name="set_it_as_homepage">Doriți să îl setați ca pagină de pornire?</string>
     <string name="missing_webview">Android System WebView nu este instalat corect. Doriți să îl instalați acum?</string>
     <string name="install">Instalare</string>
     <string name="crash_hint">Ne cerem scuze că aplicația s-a închis neașteptat.</string>
@@ -254,7 +254,7 @@
     <string name="export_bookmarks">Exportare preferințe</string>
     <string name="pull_to_refresh_gesture">Gest tragere pentru reîmprospătare</string>
     <string name="back_forward_gesture">Gest Înainte/Înapoi</string>
-    <string name="toolbar_settings_hint">Apasă un buton de mai jos pentru a-i seta acțiunea pt. apăsare lungă, sau țineți apăsat pentru a vedea ce acțiune a fost setată. Poți să și tragi pe bara de instrumente pentru a seta acțiunea de tragere.</string>
+    <string name="toolbar_settings_hint">Apăsați un buton de mai jos pentru a-i seta acțiunea pt. apăsare lungă, sau țineți apăsat pentru a vedea ce acțiune a fost setată. Puteți și să trageți pe bara de instrumente pentru a seta acțiunea de tragere.</string>
     <string name="action_modify">Modificare</string>
     <string name="operation_hint">Gesturi, scurtături, taste speciale</string>
     <string name="adblock_info">Activat: %1$d reclame blocate, %2$s economisiți</string>
@@ -301,13 +301,13 @@
     <string name="restore_tabs_hint_settings">Filele nu vor fi restaurate când ești în modul Incognito.</string>
     <string name="ignore_secondary_ssl_error">Ignorare eroare SSL secundară</string>
     <string name="web_page_debug">Activare depanare pagină</string>
-    <string name="web_page_debug_info">Acum puteți conecta telefonul la computer, apoi depanați pagina web cu Chrome (PC) utilizând \"chrome://inspect\". Nu uitați întâi să activați depanarea USB în meniu: Mai multe instrumente > Instrumente pt. dezvoltatori.</string>
+    <string name="web_page_debug_info">Acum puteți conecta telefonul la computer, apoi să depanați pagina web cu Chrome (PC) utilizând \"chrome://inspect\". Nu uitați întâi să activați depanarea USB în meniu: Mai multe instrumente > Instrumente pt. dezvoltatori.</string>
     <string name="no_download_tasks">Gol</string>
     <string name="action_re_download">Redescărcare</string>
     <string name="action_copy_download_link">Copiere link de descărcare</string>
     <string name="download_failed">Descărcare eșuată</string>
     <string name="view_downloads">Vizualizare</string>
-    <string name="message_delete_downloading_task">Va fi șters și fișierul descărcat. Sunteți sigur?</string>
+    <string name="message_delete_downloading_task">Va fi șters și fișierul descărcat. Sunteți sigur(ă)?</string>
     <string name="message_delete_downloaded_task">Ștergeți această descărcare?</string>
     <string name="message_delete_downloaded_file">Inclusiv fișierul descărcat</string>
     <string name="block_popup_message">Fereastră pop-up blocată</string>
@@ -320,7 +320,7 @@
     <string name="chinese_server">Chinez</string>
     <string name="global_server">Global</string>
     <string name="server_message">Datele acestor servere nu sunt sincronizate. Va trebui să vă autentificați din nou.</string>
-    <string name="delete_bookmark_folder_message">Preferințele în dosarul %1$s vor fi șterse. Sunteți sigur?</string>
+    <string name="delete_bookmark_folder_message">Preferințele în dosarul %1$s vor fi șterse. Sunteți sigur(ă)?</string>
     <string name="action_new">Nou</string>
     <string name="block_hint">Blocat: %1$s\nReîmprospătați ca să ia efect.</string>
     <string name="unblock_hint">Deblocat: %1$s\nReîmprospătați ca să ia efect.</string>
@@ -359,13 +359,13 @@
     </plurals>
     <string name="url_is_invalid">URL-ul este invalid.</string>
     <string name="simple_guide_of_writing_rule">Via suportă aproape toate filtrele Adblock Plus.
-        \nPoți bloca cererile de la example.com așa:
+        \nPuteți bloca cererile de la example.com așa:
         \n||example.com^ (sau doar example.com)
         \n\nWildcard-urile sunt acceptabile ca:
         \n||example.com/js/ads_*.js
         \n\nPentru elementele paginii se poate folosi un filtru așa:
         \nexample.com###ad
-        \n\nPoți debloca cererile speciale cu un filtru ca:
+        \n\nPuteți debloca cererile speciale cu un filtru ca:
         \n@@||example.com^</string>
     <string name="help">Ajutor</string>
     <string name="learn_more">Vezi mai mult</string>
@@ -428,7 +428,7 @@
     <string name="bookmarks_history">Preferințe/Istoric</string>
     <string name="done">Terminat</string>
     <string name="root_folder">Dosar principal</string>
-    <string name="delete_item_message">Sunteți sigur că doriți să ștergeți %1$s?</string>
+    <string name="delete_item_message">Sunteți sigur(ă) că doriți să ștergeți %1$s?</string>
     <string name="item_has_been_deleted">\"%1$s\" a fost șters</string>
     <string name="undo">Anulare</string>
     <string name="can_not_sort_list_when_sorting_alphabetically">Lista nu poate fi sortată alfabetic</string>
@@ -450,7 +450,7 @@
     <string name="bold">Îngroșat</string>
     <string name="italics">Italic</string>
     <string name="clear_website_icon_cache">Ștergere cache iconițe</string>
-    <string name="clear_website_icon_cache_message">Notă: Asta va șterge toate iconițele favoritelor de pe pagina de pornire. Fiecare iconiță fa fi redescărcată următoarea oară când vizitați site-ul corespunzător.</string>
+    <string name="clear_website_icon_cache_message">Notă: Asta va șterge toate iconițele favoritelor de pe pagina de pornire. Fiecare iconiță va fi redescărcată următoarea oară când vizitați site-ul corespunzător.</string>
     <string name="use_blur_instead_of_transparency">Folosiți efect de estompare în loc de transparență</string>
     <string name="desc_favorite_icon">Iconiță site favorit</string>
     <string name="script_remarks">Observații</string>
