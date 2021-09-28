@@ -124,9 +124,9 @@
     
     <!-- 設定｜一般｜ブックマークをインポート/エクスポート -->
     <string name="import_or_export_bookmarks">ブックマークをインポート/エクスポート</string>
-    <string name="export_bookmarks">エクスポート</string>
+    <string name="export_bookmarks">ブックマークをエクスポート</string>
     <string name="export_bookmarks_to">ブックマークの書き出し先: %1$s</string>
-    <string name="import_bookmarks">バックアップからブックマークをインポート</string>
+    <string name="import_bookmarks">ブックマークをインポート</string>
     <string name="import_bookmark_error">読み込めませんでした</string>
     <string name="message_add_bookmark">追加しました</string>
     <string name="bookmarks_imported">%1d つのブックマークを読み込みました</string>
@@ -153,6 +153,22 @@
     
     <!-- 設定｜カスタマイズ -->
     <string name="settings_skin">カスタマイズ</string>
+    <string name="skin_search_bar">検索バー</string>
+    <string name="width">幅</string>
+    <string name="height">高さ</string>
+    <string name="corner_radius">丸み</string>
+    <string name="adaptive">画面に合わせる</string>
+    <string name="action_favorites">ブックマーク</string>
+    <string name="stroke_width">枠線の幅</string>
+    <string name="stroke_opacity">枠線の不透明度</string>
+    <string name="opacity">不透明度</string>
+    <string name="disable_website_icons">ウェブサイトのアイコンを無効にする</string>
+    <string name="disable_icon_color">アイコンの色を無効にする</string>
+    <string name="use_blur_instead_of_transparency">検索ボックスをぼかす</string>
+    <string name="clear_website_icon_cache">ウェブサイトのアイコンキャッシュを消去する</string>
+ <string name="clear_website_icon_cache_message">この操作を行うと、ホームページ上のお気に入りのアイコンがすべて消去されますのでご注意ください。各アイコンは、次回、対応するウェブサイトにアクセスしたときにダウンロードされます。</string>
+    <string name="reset_to_default_settings">設定を初期化する</string>
+    <string name="use_line_style_search_box">検索ボックスをライン状にする</string>    
     
     <!-- 設定｜カスタマイズ｜ロゴ -->
     <string name="skin_logo">ロゴ</string>
@@ -182,6 +198,8 @@
     
     <!-- 設定｜高度な設定 -->
     <string name="settings_advanced">高度な設定</string>
+    <string name="save_data">データセーブ</string>
+    <string name="save_data_description">対応するウェブサイトでデータセーブモードを有効にする</string>
     <string name="show_sniffer_btn_automatically">スニファーボタンを自動的に表示する</string>
     <string name="ignore_secondary_ssl_error">セカンダリSSLエラーを無視する</string>
     <string name="block_popup">ポップアップ表示をブロック</string>
@@ -195,7 +213,14 @@
     <string name="get_more_script">スクリプトの入手</string>
     <string name="add_script">スクリプトの追加</string>
     <string name="script_url">ドメインまたは* （*は全て）</string>
+    <string name="script_sites">サイト (例：*.foo.com,bar.*/list)</string>
+    <string name="script_remarks">備考</string>
     <string name="script_code">コード (JavaScript)</string>
+    <string name="action_save">保存</string>
+    <string name="simple_guide_of_writing_script">書き込まれたスクリプトは、ウェブサイトの読み込み時に自動的に有効になります。
+    \n\nサイト(必須)：ワイルドカード「*」に対応しており、複数のサイトを「,」で区切って記述します。例：*.foo.com,bar.*/list.
+    \n\n備考（任意）：表示のタイトルとして使用します。
+    \n\nコード(必須)：ネイティブJavaScriptを使用することをお勧めします。ウェブサイトがこれらのフレームワークを使用している場合は、jqeuryやvue.jsの構文を使用することもできます。</string>
     
     <!-- 設定｜Via について -->
     <string name="settings_about">Via について</string>
@@ -221,6 +246,7 @@
     <string name="sort_by_alphabetical_order">アルファベット順</string>
     <string name="move">移動</string>
     <string name="done">完了</string>
+    <string name="more">その他</string>
     
     <!-- ダウンロード --> 
     <string name="no_download_tasks">ダウンロードアイテムがありません</string>
@@ -241,6 +267,11 @@
         <item quantity="other">%d アイテムを削除しました</item>
     </plurals>
 
+    <!-- ポップアップ -->     
+    <string name="entered_full_screen_mode">フルスクリーンモードに切り替えました</string>
+    
+    
+    
     <string name="search_hint">検索</string>
     <string name="action_delete">削除</string>
     <string name="action_delete_all">全て削除</string>
