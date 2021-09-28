@@ -166,9 +166,9 @@
     <string name="disable_icon_color">アイコンの色を無効にする</string>
     <string name="use_blur_instead_of_transparency">検索ボックスをぼかす</string>
     <string name="clear_website_icon_cache">ウェブサイトのアイコンキャッシュを消去する</string>
- <string name="clear_website_icon_cache_message">この操作を行うと、ホームページ上のお気に入りのアイコンがすべて消去されますのでご注意ください。各アイコンは、次回、対応するウェブサイトにアクセスしたときにダウンロードされます。</string>
+    <string name="clear_website_icon_cache_message">この操作を行うと、ホームページ上のお気に入りのアイコンがすべて消去されますのでご注意ください。各アイコンは、次回、対応するウェブサイトにアクセスしたときにダウンロードされます。</string>
     <string name="reset_to_default_settings">設定を初期化する</string>
-    <string name="use_line_style_search_box">検索ボックスをライン状にする</string>    
+    <string name="use_line_style_search_box">検索ボックスをライン状にする</string>
     
     <!-- 設定｜カスタマイズ｜ロゴ -->
     <string name="skin_logo">ロゴ</string>
@@ -247,6 +247,9 @@
     <string name="move">移動</string>
     <string name="done">完了</string>
     <string name="more">その他</string>
+    <string name="action_manage_favorites">ブックマーク マネージャー</string>
+    <string name="item_has_been_deleted">\"%1$s\" は削除されました</string>
+    <string name="undo">元に戻す</string>
     
     <!-- ダウンロード --> 
     <string name="no_download_tasks">ダウンロードアイテムがありません</string>
