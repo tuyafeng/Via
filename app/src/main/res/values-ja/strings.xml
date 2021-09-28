@@ -273,7 +273,13 @@
     <!-- ポップアップ -->     
     <string name="entered_full_screen_mode">フルスクリーンモードに切り替えました</string>
     
-    
+    <!-- ツール｜ネットワークログ -->
+    <string name="log_page_hint">アドレスもしくはドメインをコピーし %1$s に貼り付けて広告ブロックリストを作成できます。</string>
+    <string name="action_block_domain">ドメインをブロック</string>
+    <string name="action_unblock_domain">ドメインのブロックを解除</string>
+    <string name="action_block_url">リンクをブロック</string>
+    <string name="action_unblock_url">リンクのブロックを解除</string>
+
     
     <string name="search_hint">検索</string>
     <string name="action_delete">削除</string>
@@ -393,7 +399,6 @@
     <string name="check_permission">権限へのアクセス許可が必要です。</string>
     <string name="storage_permission">ストレージ：ファイルのダウンロード、ブックマークの保存のために使用しています。</string>
     <string name="location_permission">位置情報：Webサイトが位置情報を取得することを許可するため（地図、天気予報など）に使用しています。</string>
-    <string name="log_page_hint">アドレスもしくはドメインをコピーし %1$s に貼り付けて広告ブロックリストを作成できます。</string>
 
     <string name="official_website">公式サイト</string>
     <string name="set_it_as_homepage">ホームページに設定しますか？</string>
