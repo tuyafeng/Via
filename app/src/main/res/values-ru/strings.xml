@@ -91,7 +91,7 @@
     <string name="hint_username">Имя</string>
     <string name="hint_password">Пароль</string>
     <string name="untitled">Без названия</string>
-    <string name="image_auto">Графика: WiFi</string>
+    <string name="image_auto">Графика: Wi-Fi</string>
     <string name="image_off">Графика: нет</string>
     <string name="image_on">Графика: да</string>
     <string name="title_file_chooser">Выбор файла</string>
@@ -172,7 +172,7 @@
     <string name="data_cache">Кеш</string>
     <string name="data_form_data">Данные форм</string>
     <string name="data_history">История</string>
-    <string name="data_storage">Хранилище</string>
+    <string name="data_storage">Web-хранилище</string>
     <string name="data_cookies">Cookies</string>
     <string name="data_cleared">Данные очищены</string>
 
