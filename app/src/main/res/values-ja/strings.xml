@@ -6,13 +6,9 @@
     <string name="action_open_in_new">新しいタブで開く</string>
     <string name="action_open_in_background">バックグラウンドタブで開く</string>
     <string name="action_save_img">画像を保存</string>
-    <string name="action_share">共有</string>
-    <string name="action_history">履歴</string>
-    <string name="action_night">ナイトモード</string>
     <string name="action_copy">アドレスをコピー</string>
     <string name="action_copy_text">テキストをコピー</string>
     <string name="action_copy_link_text">テキストをコピー</string>
-    <string name="action_tools">ツール</string>
     <string name="settings">設定</string>
     <string name="password">パスワードを保存</string>
     <string name="donate">Via を支援</string>
@@ -20,7 +16,7 @@
    
     <!-- 設定｜一般｜アカウント -->    
     <string name="settings_cloud">アカウント</string>
-    <string name="user">ログイン/登録</string>
+    <string name="user">ログイン及び登録</string>
     <string name="user_syns">サーバーから同期</string>
     <string name="user_update">サーバーにアップロード</string>
     <string name="wrong_psw">パスワードが間違っています</string>
@@ -29,6 +25,14 @@
     <string name="syns_success">同期成功</string>
     <string name="upload_success">アップロード成功</string>
     <string name="log_out">ログアウトしますか？</string>
+    <string name="cloud_data_server">クラウドデータサーバー</string>
+    <string name="chinese_server">中国</string>
+    <string name="global_server">グローバル</string>
+    <string name="server_message">このサーバーではデータの同期はされていません。再度ログインする必要があります。</string>
+    <string name="action_new">新規作成</string>
+    <string name="hint_username">ユーザー名</string>
+    <string name="hint_password">パスワード</string>
+    <string name="sync_desc">アカウントが存在しない場合は新規にアカウントが作成されます。</string>
     
     <!-- 設定｜一般｜プライベートデータの消去 -->
     <string name="clear_data">プライベートデータの消去</string>
@@ -38,6 +42,51 @@
     <string name="data_storage">ストレージ</string>
     <string name="data_cookies">Cookie</string>
     <string name="data_cleared">消去しました</string>
+    
+    <!-- 設定｜一般｜広告ブロック -->
+    <string name="block_ads">広告ブロック</string>
+    <string name="simple_guide_of_writing_rule">ViaはほとんどのAdblock Plusフィルターに対応しています。
+        \n次のように設定することで、「example.com」をブロックする任意のフィルターを作成することができます。
+        \n||example.com^ (もしくはシンプルにexample.com)
+        \n\nワイルドカードは次のように使用できます。:
+        \n||example.com/js/ads_*.js
+        \n\nホワイトリストに登録したい場合は次のように設定を行います。:
+        \n@@||example.com^
+        \n\n次のようなWEBページ上の要素の場合:
+        \nexample.com###ad</string>
+    <string name="help">ヘルプ</string>
+    <string name="learn_more">さらに詳しく（英語サイト）</string>
+    <plurals name="filters">
+        <item quantity="other">%d フィルター</item>
+    </plurals>
+    <string name="updated_">%1$s をアップデートしました</string>
+    <string name="filter_subscription_info">%1$s, %2$s</string>
+    <string name="enable_built_in_filters">デフォルトのブロックフィルターを適用する</string>
+    <string name="enable_built_in_filters_description">デフォルトのフィルターは一般的な広告のみをブロックします。</string>
+    <string name="update">アップデート</string>
+    <string name="filter_subscriptions">購読フィルターリスト</string>
+    <string name="filter_subscriptions_description">登録されているAdblock Plusフィルターのリストです</string>
+    <string name="filter_subscription_exist">このフィルターは既に登録されています</string>
+    <string name="custom_filters">カスタムフィルター</string>
+    <string name="custom_filters_description">マークされた広告を含むフィルター</string>
+    <string name="custom_filter">カスタムフィルター</string>
+    <string name="add_filter_subscription">購読するフィルターを登録します</string>
+    <string name="edit_filter_subscription">購読中のフィルターを編集します</string>
+    <string name="updating_filter_subscriptions">購読中のフィルターを更新しています</string>
+    <string name="update_filter_subscriptions_completed">購読中のフィルターの更新が完了しました</string>
+    <string name="update_filter_subscription_failed">フィルター「\n%1$s」の更新に失敗しました</string>
+    <string name="has_not_been_updated">更新されていません</string>
+    <string name="long_ago">かなり前</string>
+    <string name="just_now">たった今</string>
+    <plurals name="minutes_ago">
+        <item quantity="other">%d 分前</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">%d 時間前</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">%d 日前</item>
+    </plurals>
     
     <!-- 設定｜一般｜User Agent -->
     <string name="agent">User Agent</string>
@@ -86,6 +135,11 @@
 
     <!-- 設定｜一般｜フォントサイズ -->    
     <string name="size">フォントサイズ</string>
+    <string name="size_largest">最大</string>
+    <string name="size_large">大</string>
+    <string name="size_normal">標準</string>
+    <string name="size_small">小</string>
+    <string name="size_smallest">最小</string>
     
     <!-- 設定｜一般｜画面の向き -->
     <string name="orientation">画面の向き</string>
@@ -124,9 +178,9 @@
     
     <!-- 設定｜一般｜ブックマークをインポート/エクスポート -->
     <string name="import_or_export_bookmarks">ブックマークをインポート/エクスポート</string>
-    <string name="export_bookmarks">エクスポート</string>
+    <string name="export_bookmarks">ブックマークをエクスポート</string>
     <string name="export_bookmarks_to">ブックマークの書き出し先: %1$s</string>
-    <string name="import_bookmarks">バックアップからブックマークをインポート</string>
+    <string name="import_bookmarks">ブックマークをインポート</string>
     <string name="import_bookmark_error">読み込めませんでした</string>
     <string name="message_add_bookmark">追加しました</string>
     <string name="bookmarks_imported">%1d つのブックマークを読み込みました</string>
@@ -148,11 +202,27 @@
     <string name="always_restore">常にタブを復元する</string>
     <string name="ask_first">起動時に確認する</string>
 
-    <!-- 設定｜一般｜前回開いていたページを開く -->
+    <!-- 設定｜一般｜デフォルトのブラウザにする -->
     <string name="setting_default">デフォルトのブラウザにする</string>
     
     <!-- 設定｜カスタマイズ -->
     <string name="settings_skin">カスタマイズ</string>
+    <string name="skin_search_bar">検索バー</string>
+    <string name="width">幅</string>
+    <string name="height">高さ</string>
+    <string name="corner_radius">丸み</string>
+    <string name="adaptive">画面に合わせる</string>
+    <string name="action_favorites">ブックマーク</string>
+    <string name="stroke_width">枠線の幅</string>
+    <string name="stroke_opacity">枠線の不透明度</string>
+    <string name="opacity">不透明度</string>
+    <string name="disable_website_icons">ウェブサイトのアイコンを無効にする</string>
+    <string name="disable_icon_color">アイコンの色を無効にする</string>
+    <string name="use_blur_instead_of_transparency">検索ボックスをぼかす</string>
+    <string name="clear_website_icon_cache">ウェブサイトのアイコンキャッシュを消去する</string>
+    <string name="clear_website_icon_cache_message">この操作を行うと、ホームページ上のお気に入りのアイコンがすべて消去されますのでご注意ください。各アイコンは、次回、対応するウェブサイトにアクセスしたときにダウンロードされます。</string>
+    <string name="reset_to_default_settings">設定を初期化する</string>
+    <string name="use_line_style_search_box">検索ボックスをライン状にする</string>
     
     <!-- 設定｜カスタマイズ｜ロゴ -->
     <string name="skin_logo">ロゴ</string>
@@ -182,6 +252,8 @@
     
     <!-- 設定｜高度な設定 -->
     <string name="settings_advanced">高度な設定</string>
+    <string name="save_data">データセーブ</string>
+    <string name="save_data_description">対応するウェブサイトでデータセーブモードを有効にする</string>
     <string name="show_sniffer_btn_automatically">スニファーボタンを自動的に表示する</string>
     <string name="ignore_secondary_ssl_error">セカンダリSSLエラーを無視する</string>
     <string name="block_popup">ポップアップ表示をブロック</string>
@@ -195,7 +267,14 @@
     <string name="get_more_script">スクリプトの入手</string>
     <string name="add_script">スクリプトの追加</string>
     <string name="script_url">ドメインまたは* （*は全て）</string>
+    <string name="script_sites">サイト (例：*.foo.com,bar.*/list)</string>
+    <string name="script_remarks">備考</string>
     <string name="script_code">コード (JavaScript)</string>
+    <string name="action_save">保存</string>
+    <string name="simple_guide_of_writing_script">書き込まれたスクリプトは、ウェブサイトの読み込み時に自動的に有効になります。
+    \n\nサイト(必須)：ワイルドカード「*」に対応しており、複数のサイトを「,」で区切って記述します。例：*.foo.com,bar.*/list.
+    \n\n備考（任意）：表示のタイトルとして使用します。
+    \n\nコード(必須)：ネイティブJavaScriptを使用することをお勧めします。ウェブサイトがこれらのフレームワークを使用している場合は、jqeuryやvue.jsの構文を使用することもできます。</string>
     
     <!-- 設定｜Via について -->
     <string name="settings_about">Via について</string>
@@ -221,6 +300,13 @@
     <string name="sort_by_alphabetical_order">アルファベット順</string>
     <string name="move">移動</string>
     <string name="done">完了</string>
+    <string name="more">その他</string>
+    <string name="action_manage_favorites">ブックマーク マネージャー</string>
+    <string name="item_has_been_deleted">\"%1$s\" は削除されました</string>
+    <string name="undo">元に戻す</string>
+    <string name="action_add_to_homepage">スピードダイヤルに追加</string>
+    <string name="added_favorite_hint">スピードダイヤルに追加しました。</string>
+    <string name="title_edit_favorite">ブックマークを編集</string>
     
     <!-- ダウンロード --> 
     <string name="no_download_tasks">ダウンロードアイテムがありません</string>
@@ -241,42 +327,78 @@
         <item quantity="other">%d アイテムを削除しました</item>
     </plurals>
 
-    <string name="search_hint">検索</string>
-    <string name="action_delete">削除</string>
-    <string name="action_delete_all">全て削除</string>
-
+    <!-- ポップアップ -->     
+    <string name="entered_full_screen_mode">フルスクリーンモードに切り替えました</string>
+    <string name="allow_website_to_open_app_message">ウェブサイトを %1$s で開きますか？</string>
+    <string name="no_resource">このページにはリソースがありません。</string>
+    <string name="resource_sniffer_hint">\nPS: 見つからない場合は、動画や音声を再生してみてください。</string>
+    <string name="no_network_log">このページにはネットワークログはありません。</string>
+    <string name="block_popup_message">ポップアップをブロックしました</string>
+    <string name="allow_popup">今回のみ許可</string>
     <string name="dialog_download">ダウンロードしますか？</string>
     <string name="title_warning">警告</string>
-
-    <string name="title_custom_homepage">ページを設定</string>
-
-    <string name="size_largest">最大</string>
-    <string name="size_large">大</string>
-    <string name="size_normal">標準</string>
-    <string name="size_small">小</string>
-    <string name="size_smallest">最小</string>
-
-    <string name="hint_folder">フォルダー</string>
-    <string name="title_edit_bookmark">編集</string>
-    <string name="action_edit">編集</string>
-    <string name="action_incognito">シークレットモード</string>
-    <string name="action_find">ページ内検索</string>
-    <string name="download_pending">ダウンロード中…</string>
-    <string name="cannot_download">\"http\"または\"https\"を使用したサイトからのみファイルをダウンロードできます。</string>
-
-    <string name="block_ads">広告ブロック</string>
     <string name="title_form_resubmission">フォームの再送</string>
     <string name="message_form_resubmission">再送信しますか？</string>
     <string name="message_location">\n位置情報へのアクセスを許可しますか？</string>
     <string name="action_allow">はい</string>
     <string name="action_dont_allow">いいえ</string>
-    <string name="title_sign_in">サインイン</string>
-    <string name="hint_username">ユーザー名</string>
-    <string name="hint_password">パスワード</string>
-    <string name="untitled">空白のページ</string>
+    <string name="message_untrusted_certificate">このサイトの証明書は信頼されていません。続行しますか？</string>
+    <string name="message_date_invalid_certificate">このサイトの証明書の有効期限が切れています。続行しますか？</string>
+    <string name="message_expired_certificate">このサイトの証明書は失効しています。続行しますか？</string>
+    <string name="message_hostname_mismatch_certificate">このサイトの証明書とホスト名が異なっています。続行しますか？</string>
+    <string name="message_invalid_certificate">このサイトの証明書は無効です。続行しますか？</string>
+    <string name="message_not_yet_valid_certificate">このサイトの証明書はまだ有効ではありません。続行しますか？</string>
+    <string name="bookmarks_data_to_long">ブックマークデータのサイズが大きすぎるため、アップロードできません。その他のデータはアップロードされます。続けますか？</string>
+    <string name="restore_tabs_hint_settings">シークレットモードになったため、タブは復元されません。</string>
+    <string name="incognito_on">シークレットモードを使用中です</string>
+    <string name="incognito_off">シークレットモードを解除しました</string>
+    
+    <!-- メニュー -->
+    <string name="action_incognito">シークレットモード</string>
+    <string name="action_find">ページ内検索</string>
+    <string name="action_translate">翻訳</string>
+    <string name="network_log">ネットワークログ</string>
+    <string name="resource_sniffer">リソース検知</string>
+    <string name="action_pcview">PC版サイト</string>
+    <string name="action_source">ソース表示</string>
+    <string name="action_share">共有</string>
+    <string name="action_history">履歴</string>
+    <string name="action_night">ナイトモード</string>
     <string name="image_auto">Wi-Fi接続時のみ</string>
     <string name="image_off">画像を非表示</string>
     <string name="image_on">画像を表示</string>
+    <string name="action_tools">ツール</string>
+    <string name="action_fullscreen">全画面表示</string>
+    
+    <!-- ツール｜ネットワークログ -->
+    <string name="log_page_hint">アドレスもしくはドメインをコピーし %1$s に貼り付けて広告ブロックリストを作成できます。</string>
+    <string name="action_block_domain">ドメインをブロック</string>
+    <string name="action_unblock_domain">ドメインのブロックを解除</string>
+    <string name="action_block_url">リンクをブロック</string>
+    <string name="action_unblock_url">リンクのブロックを解除</string>
+    <string name="block_hint">ブロック済み: %1$s\n再読み込みして有効化します。</string>
+    <string name="unblock_hint">ブロック解除済み: %1$s\n再読み込みして有効化します。</string>
+
+    
+    <string name="search_hint">検索</string>
+    <string name="action_delete">削除</string>
+    <string name="action_delete_all">全て削除</string>
+
+    <string name="title_custom_homepage">ページを設定</string>
+
+    <string name="hint_folder">フォルダー</string>
+    <string name="title_edit_bookmark">編集</string>
+    <string name="action_edit">編集</string>
+
+    <string name="download_pending">ダウンロード中…</string>
+    <string name="cannot_download">\"http\"または\"https\"を使用したサイトからのみファイルをダウンロードできます。</string>
+
+
+
+    <string name="title_sign_in">サインイン</string>
+
+    <string name="untitled">空白のページ</string>
+
     <string name="title_file_chooser">ファイルを開く</string>
 
     <string name="message_exit">もう一度押すとアプリを終了します</string>
@@ -288,8 +410,7 @@
     <string name="toast_clear_defaults">設定を消去してください</string>
     <string name="toast_copy_url_successful">アドレスをコピーしました</string>
     <string name="toast_copy_text_successful">テキストをコピーしました</string>
-    <string name="incognito_on">シークレットモードを使用中です</string>
-    <string name="incognito_off">シークレットモードを解除しました</string>
+
 
     <string name="operation_none">アクションなし</string>
     <string name="operation_reload">再読み込み</string>
@@ -304,8 +425,7 @@
     <string name="operation_goback">前に戻る</string>
     <string name="operation_goforward">次に進む</string>
 
-    <string name="action_pcview">PC版サイト</string>
-    <string name="action_source">ソース表示</string>
+
     <string name="desc_suggestion">提案</string>
     <string name="desc_home">ホーム</string>
     <string name="desc_tab">タブ</string>
@@ -313,7 +433,6 @@
     <string name="desc_filedic">ファイル</string>
     <string name="title_edit_folder">フォルダーを編集</string>
     <string name="msg_delete_folder">削除しますか？</string>
-    <string name="action_translate">翻訳</string>
     <string name="msg_intent">外部アプリの起動をしますか？</string>
     <string name="action_mark">広告をマーク</string>
     <string name="dialog_confirm_mark">要素をブロックしますか？</string>
@@ -332,7 +451,6 @@
     <string name="download_completed">ダウンロード完了</string>
     <string name="toast_fullscreen_off">全画面解除</string>
     <string name="need_permission_hint">権限が必要です\n\n</string>
-    <string name="sync_desc">アカウントが存在しない場合は新規にアカウントが作成されます。</string>
     <string name="action_view_image">画像を開く</string>
     <string name="action_save_web_page">ページを保存</string>
     <string name="action_saved_pages">保存済みページ</string>
@@ -340,8 +458,6 @@
     <string name="deleted_failed">削除できませんでした。ダウンロードファイルのパス: </string>
 
     <string name="empty_hint">表示できる項目はありません</string>
-
-    <string name="network_log">ネットワークログ</string>
 
     <string name="conn_timeout">接続がタイムアウトしました</string>
 
@@ -359,7 +475,6 @@
     <string name="check_permission">権限へのアクセス許可が必要です。</string>
     <string name="storage_permission">ストレージ：ファイルのダウンロード、ブックマークの保存のために使用しています。</string>
     <string name="location_permission">位置情報：Webサイトが位置情報を取得することを許可するため（地図、天気予報など）に使用しています。</string>
-    <string name="log_page_hint">アドレスもしくはドメインをコピーし %1$s に貼り付けて広告ブロックリストを作成できます。</string>
 
     <string name="official_website">公式サイト</string>
     <string name="set_it_as_homepage">ホームページに設定しますか？</string>
@@ -374,7 +489,6 @@
     <string name="glean">落穂拾い</string>
     <string name="missing_webview">WebViewが正常にインストールしていません。インストールしますか？</string>
     <string name="action_pic_mode">画像のみ表示</string>
-    <string name="action_fullscreen">全画面表示</string>
     <string name="find_pre">前へ</string>
     <string name="find_next">次へ</string>
     <string name="action_modify">編集</string>
@@ -388,11 +502,9 @@
 
     <string name="cannot_work">「http(s)」で始まるURLのみで動作します。</string>
     <string name="search_by_pic">画像で検索</string>
-    <string name="resource_sniffer">リソース検知</string>
+
     <string name="res_log_hint">アイテムを表示するにはタップ、ダウンロードするには長押ししてください。</string>
-    <string name="no_resource">このページにはリソースがありません。</string>
-    <string name="resource_sniffer_hint">\nPS: 見つからない場合は、動画や音声を再生してみてください。</string>
-    <string name="no_network_log">このページにはネットワークログはありません。</string>
+
     <string name="action_download">ダウンロード</string>
     <string name="empty_username_info">ユーザー名を入力してください。</string>
     <string name="empty_password_info">パスワードを入力してください。</string>
@@ -406,80 +518,16 @@
     <string name="page_info_link">リンク先のURL:</string>
     <string name="no_network">ネットワーク接続がありません</string>
     <string name="title_app_chooser">アプリ選択</string>
-
-    <string name="action_add_to_homepage">スピードダイヤルに追加</string>
-    <string name="added_favorite_hint">スピードダイヤルに追加しました。</string>
-    <string name="title_edit_favorite">ブックマークを編集</string>
     <string name="force_enable_zoom">強制的にズームを有効にする</string>
     <string name="set_ua_as">UserAgentは %1$s に設定されました</string>
-    <string name="message_untrusted_certificate">このサイトの証明書は信頼されていません。続行しますか？</string>
-    <string name="message_date_invalid_certificate">このサイトの証明書の有効期限が切れています。続行しますか？</string>
-    <string name="message_expired_certificate">このサイトの証明書は失効しています。続行しますか？</string>
-    <string name="message_hostname_mismatch_certificate">このサイトの証明書とホスト名が異なっています。続行しますか？</string>
-    <string name="message_invalid_certificate">このサイトの証明書は無効です。続行しますか？</string>
-    <string name="message_not_yet_valid_certificate">このサイトの証明書はまだ有効ではありません。続行しますか？</string>
-    <string name="bookmarks_data_to_long">ブックマークデータのサイズが大きすぎるため、アップロードできません。その他のデータはアップロードされます。続けますか？</string>
-    <string name="restore_tabs_hint_settings">シークレットモードになったため、タブは復元されません。</string>
-    <string name="block_popup_message">ポップアップをブロックしました</string>
-    <string name="allow_popup">今回のみ許可</string>
-
     <string name="action_play_with">&#8230;で再生する</string>
     <string name="open_file_failed">このファイルを開くためのアプリがありません</string>
-    <string name="cloud_data_server">クラウドデータサーバー</string>
-    <string name="chinese_server">中国</string>
-    <string name="global_server">グローバル</string>
-    <string name="server_message">このサーバーではデータの同期はされていません。再度ログインする必要があります。</string>
-    <string name="action_new">新規作成</string>
-    <string name="block_hint">ブロック済み: %1$s\n再読み込みして有効化します。</string>
-    <string name="unblock_hint">ブロック解除済み: %1$s\n再読み込みして有効化します。</string>
     <string name="enable_site_conf">\"%1$s\"のサイト別設定を有効にする</string>
     <string name="site_conf">サイト別設定</string>
     <string name="file_does_not_exist">ファイルがありません</string>
     <string name="dialog_message_from">%1$sからのメッセージ</string>
-    <string name="filter_subscriptions">購読フィルターリスト</string>
-    <string name="filter_subscriptions_description">登録されているAdblock Plusフィルターのリストです</string>
-    <string name="filter_subscription_exist">このフィルターは既に登録されています</string>
-    <string name="custom_filters">カスタムフィルター</string>
-    <string name="custom_filters_description">マークされた広告を含むフィルター</string>
-    <string name="custom_filter">カスタムフィルター</string>
-    <string name="add_filter_subscription">購読するフィルターを登録します</string>
-    <string name="edit_filter_subscription">購読中のフィルターを編集します</string>
-    <string name="updating_filter_subscriptions">購読中のフィルターを更新しています</string>
-    <string name="update_filter_subscriptions_completed">購読中のフィルターの更新が完了しました</string>
-    <string name="update_filter_subscription_failed">フィルター「\n%1$s」の更新に失敗しました</string>
-    <string name="has_not_been_updated">更新されていません</string>
-    <string name="long_ago">かなり前</string>
-    <string name="just_now">たった今</string>
-    <plurals name="minutes_ago">
-        <item quantity="other">%d 分前</item>
-    </plurals>
-    <plurals name="hours_ago">
-        <item quantity="other">%d 時間前</item>
-    </plurals>
-    <plurals name="days_ago">
-        <item quantity="other">%d 日前</item>
-    </plurals>
     <string name="url_is_invalid">URLが無効です</string>
-    <string name="simple_guide_of_writing_rule">ViaはほとんどのAdblock Plusフィルターに対応しています。
-        \n次のように設定することで、「example.com」をブロックする任意のフィルターを作成することができます。
-        \n||example.com^ (もしくはシンプルにexample.com)
-        \n\nワイルドカードは次のように使用できます。:
-        \n||example.com/js/ads_*.js
-        \n\nホワイトリストに登録したい場合は次のように設定を行います。:
-        \n@@||example.com^
-        \n\n次のようなWEBページ上の要素の場合:
-        \nexample.com###ad</string>
-    <string name="help">ヘルプ</string>
-    <string name="learn_more">さらに詳しく（英語サイト）</string>
-    <plurals name="filters">
-        <item quantity="other">%d フィルター</item>
-    </plurals>
-    <string name="updated_">%1$s をアップデートしました</string>
-    <string name="filter_subscription_info">%1$s, %2$s</string>
-    <string name="enable_built_in_filters">デフォルトのブロックフィルターを適用する</string>
-    <string name="enable_built_in_filters_description">デフォルトのフィルターは一般的な広告のみをブロックします。</string>
-    <string name="update">アップデート</string>
-    
+
     <string name="require_javascript_enabled">JavaScriptが有効になってないと有効になりません。</string>
-    <string name="allow_website_to_open_app_message">ウェブサイトを %1$s で開きますか？</string>
+
 </resources>
