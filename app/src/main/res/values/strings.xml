@@ -343,20 +343,7 @@
     <string name="update_filter_subscriptions_completed">Filter subscriptions update completed.</string>
     <string name="update_filter_subscription_failed">Filter subscriptions update failed.\n%1$s</string>
     <string name="has_not_been_updated">has not been updated</string>
-    <string name="long_ago">a long time ago</string>
     <string name="just_now">just now</string>
-    <plurals name="minutes_ago">
-        <item quantity="one">1 minute ago</item>
-        <item quantity="other">%d minutes ago</item>
-    </plurals>
-    <plurals name="hours_ago">
-        <item quantity="one">1 hour ago</item>
-        <item quantity="other">%d hours ago</item>
-    </plurals>
-    <plurals name="days_ago">
-        <item quantity="one">1 day ago</item>
-        <item quantity="other">%d days ago</item>
-    </plurals>
     <string name="url_is_invalid">The URL is invalid.</string>
     <string name="simple_guide_of_writing_rule">Via supports almost all Adblock Plus filters.
         \nYou can block requests from example.com with a filter such as:
@@ -479,5 +466,35 @@
     <string name="need_shortcut_permission">Permission denied. Please go to settings and turn on \"Create home screen shortcuts\" permission for this app.</string>
     <string name="create_shortcut_successfully">Create shortcut for %1$s successfully</string>
     <string name="update_shortcut_successfully">Update shortcut for %1$s successfully</string>
+    <string name="today">Today</string>
+    <string name="yesterday">Yesterday</string>
+    <!--  The date format pattern is difficult to remember, please refer to: https://docs.oracle.com/javase/7/docs/api/java/text/SimpleDateFormat.html  -->
+    <string name="same_year_date_format">EEE, MMM dd</string>
+    <string name="default_date_format">EEE, MMM dd, yyyy</string>
+    <string name="view_certificate">View certificate</string>
+    <string name="certificate_info">Certificate information</string>
+    <!-- The b tag means bold, And the br tag means line break.  -->
+    <string name="certificate_detail"><![CDATA[
+        <b>ISSUED TO</b><br />
+        <b>Common Name (CN)</b><br />
+        %1$s
+        <br /><b>Organization (O)</b><br />
+        %2$s
+        <br /><b>Organizational Unit (OU)</b><br />
+        %3$s
+        <br /><br /><b>ISSUED BY</b><br />
+        <b>Common Name (CN)</b><br />
+        %4$s
+        <br /><b>Organization (O)</b><br />
+        %5$s
+        <br /><br /><b>VALIDITY PERIOD</b><br />
+        <b>Issued On</b><br />
+        %6$s
+        <br /><b>Expires On</b><br />
+        %7$s
+        <br />
+    ]]></string>
+    <string name="no_certificate">The website does not have a certificate.</string>
+    <string name="site_conf_enabled">Site configuration (Enabled)</string>
 
 </resources>

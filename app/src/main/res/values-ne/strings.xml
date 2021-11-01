@@ -324,20 +324,7 @@
     <string name="update_filter_subscriptions_completed">फिल्टर सदस्यता अपडेट पूरा भयो।</string>
     <string name="update_filter_subscription_failed">फिल्टर सदस्यता अपडेट असफल। \n %1$s</string>
     <string name="has_not_been_updated">अद्यावधिक गरिएको छैन</string>
-    <string name="long_ago">धेरै पहिले</string>
     <string name="just_now">भर्खरै</string>
-    <plurals name="minutes_ago">
-        <item quantity="one">1 minute ago</item>
-        <item quantity="other">%d minutes ago</item>
-    </plurals>
-    <plurals name="hours_ago">
-        <item quantity="one">1 hour ago</item>
-        <item quantity="other">%d hours ago</item>
-    </plurals>
-    <plurals name="days_ago">
-        <item quantity="one">1 day ago</item>
-        <item quantity="other">%d days ago</item>
-    </plurals>
     <string name="url_is_invalid">URL अवैध छ।</string>
     <string name="simple_guide_of_writing_rule">Via लगभग सबै एडब्लॉक प्लस फिल्टर समर्थन गर्दछ। \n  तपाइँ यस फिल्टरको साथ example.com बाट अनुरोधहरूलाई ब्लक गर्न सक्नुहुन्छ: \n|| example.com ^ (वा केवल, example.com) \n\n वाइल्डकार्ड स्वीकार्य छ, जस्तो: \n || example.com/js/ads _ *। js \n\n तपाइँ फिल्टरहरू को साथ विशेष अनुरोधहरू अनब्लक गर्न सक्नुहुन्छ: \n@@||example.com^ \n\nवेब पृष्ठ तत्व फिल्टरको लागि, जस्तै: \nexample.com###ad</string>
     <string name="help">मद्दत</string>

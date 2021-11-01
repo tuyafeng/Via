@@ -329,20 +329,7 @@
     <string name="update_filter_subscriptions_completed">Aggiornamento delle liste completato.</string>
     <string name="update_filter_subscription_failed">Aggiornamento delle liste fallito.\n%1$s</string>
     <string name="has_not_been_updated">non aggiornata</string>
-    <string name="long_ago">molto tempo fa</string>
     <string name="just_now">ora</string>
-    <plurals name="minutes_ago">
-        <item quantity="one">1 minuto fa</item>
-        <item quantity="other">%d minuti fa</item>
-    </plurals>
-    <plurals name="hours_ago">
-        <item quantity="one">1 ora fa</item>
-        <item quantity="other">%d ore fa</item>
-    </plurals>
-    <plurals name="days_ago">
-        <item quantity="one">1 giorno fa</item>
-        <item quantity="other">%d giorni fa</item>
-    </plurals>
     <string name="url_is_invalid">L\'URL non è valido.</string>
     <string name="simple_guide_of_writing_rule">Via supporta quasi tutti i filtri di Adblock Plus.\nPuoi bloccare le richieste verso il dominio example.com con il seguente filtro:\n||example.com^ (o più semplicemente example.com)\n\nI caratteri wildcard sono accettati, come nel seguente esempio:\n||example.com/js/ads_*.js\n\nPuoi escludere delle specifiche richieste dal blocco con un filtro come questo:\n@@||example.com^\n\nPer bloccare degli elementi specifici nella pagina:\nexample.com###ad</string>
     <string name="help">Aiuto</string>

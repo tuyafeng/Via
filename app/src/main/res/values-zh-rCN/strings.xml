@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources tools:ignore="MissingTranslation" xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name">Via</string>
+    <!-- 翻译时，请使用「你」而不是「您」。用户与 Via 是相互尊重的关系，请不要刻意营造距离感 -->
     <string name="action_new_tab">新建标签</string>
     <string name="action_open_in_new">新窗口打开</string>
     <string name="action_save_img">保存图片</string>
@@ -15,7 +16,7 @@
     <string name="location">允许站点访问地理位置</string>
     <string name="password">保存密码</string>
     <string name="donate">捐助我们</string>
-    <string name="donate_details">我们利用有限的业余时间设计了 Via，虽然它并不那么美好，但正努力前行。\n如果您喜欢我们的作品，可以捐赠来支持我们。\n\n所有的捐赠都将用来：提升我们的环境配置以及积极性。\n\n支付宝: 2376688759@qq.com\nPayPal: wiar1824@gmail.com</string>
+    <string name="donate_details">我们利用有限的业余时间设计了 Via，虽然它并不那么美好，但正努力前行。\n如果你喜欢我们的作品，可以捐赠来支持我们。\n\n所有的捐赠都将用来：提升我们的环境配置以及积极性。\n\n支付宝: 2376688759@qq.com\nPayPal: wiar1824@gmail.com</string>
     <string name="orientation">屏幕方向</string>
     <string name="follow_system">跟随系统</string>
     <string name="orientation_auto">自动</string>
@@ -37,9 +38,8 @@
     <string name="agent_iphone">iPhone</string>
     <string name="agent_symbian">塞班 (Symbian)</string>
     <string name="agent_custom">自定义</string>
-    <string name="dialog_download">您想要下载此文件吗？</string>
+    <string name="dialog_download">你想要下载此文件吗？</string>
     <string name="title_warning">警告</string>
-    <!--<string name="dialog_adobe_unsupported">Adobe Flash 无法正常支持 Android 4.2 以及更高版本并且可能导致浏览器崩溃，若您启用后出现浏览器崩溃的问题请勿对此问题进行反馈。</string>-->
     <string name="title_custom_homepage">自定义主页</string>
     <string name="action_webpage">网页</string>
     <string name="size_largest">最大</string>
@@ -71,8 +71,8 @@
     <string name="message_invalid_certificate">当前站点证书无效，是否继续?</string>
     <string name="message_not_yet_valid_certificate">当前站点证书还未生效，是否继续?</string>
     <string name="title_form_resubmission">表格提交</string>
-    <string name="message_form_resubmission">您确定发送数据吗？</string>
-    <string name="message_location">\n想使用您的位置信息</string>
+    <string name="message_form_resubmission">你确定发送数据吗？</string>
+    <string name="message_location">\n想使用你的位置信息</string>
     <string name="action_allow">允许</string>
     <string name="title_sign_in">登录</string>
     <string name="hint_username">用户名</string>
@@ -123,15 +123,15 @@
     <string name="desc_menu">菜单</string>
     <string name="desc_filedic">文件</string>
     <string name="title_edit_folder">编辑文件夹</string>
-    <string name="msg_delete_folder">您想要删除此文件夹吗?</string>
+    <string name="msg_delete_folder">你想要删除此文件夹吗?</string>
     <string name="action_translate">翻译网页</string>
-    <string name="msg_intent">该站点请求打开您的应用，是否继续？</string>
+    <string name="msg_intent">该站点请求打开你的应用，是否继续？</string>
     <string name="action_mark">标记广告</string>
     <string name="dialog_confirm_mark">确定将其标记为广告？</string>
     <string name="do_not_track">不跟踪</string>
     <string name="add_rule">添加规则</string>
     <string name="color_mode">色彩模式</string>
-    <string name="dialog_sure">您确定继续吗？</string>
+    <string name="dialog_sure">你确定继续吗？</string>
     <string name="toast_operation_done">操作完成</string>
     <string name="action_send_to_launcher">发至桌面</string>
     <string name="settings_cloud">云同步</string>
@@ -181,20 +181,20 @@
     <string name="conn_timeout">连接超时</string>
     <string name="already_default">已是默认浏览器</string>
     <string name="set_to_default">为了顺利完成设置将打开一个链接(%1$s), 请选择用 Via 打开。</string>
-    <string name="sync_prompt">这将覆盖掉您当前的书签和设置，是否继续？</string>
-    <string name="upload_prompt">将您当前的书签和设置上传到云端，是否继续？</string>
+    <string name="sync_prompt">这将覆盖掉你当前的书签和设置，是否继续？</string>
+    <string name="upload_prompt">将你当前的书签和设置上传到云端，是否继续？</string>
     <string name="none">无</string>
     <string name="check_permission">没有权限。现在去设置它们吗？</string>
     <string name="need_permission_hint">Via 需要下列权限保证运行。\n\n</string>
     <string name="storage_permission">存储空间: 为了下载文件及导入导出书签等。\n\n</string>
     <string name="location_permission">位置信息: 为了一些站点例如天气网站获取地理位置, 设置里默认是关闭的, 如果开启会弹出对话框提示是否允许站点访问位置。\n\n</string>
     <string name="force_cancel">强制取消</string>
-    <string name="restore_tabs_hint">您想要恢复上次会话未关闭的标签页吗？</string>
+    <string name="restore_tabs_hint">你想要恢复上次会话未关闭的标签页吗？</string>
     <string name="sougou_url">搜狗</string>
     <string name="restore_tabs">启动时恢复未关闭标签</string>
     <string name="install_success">安装成功!</string>
     <string name="uninstall_success">卸载成功!</string>
-    <string name="log_page_hint">所有拦截规则存储在 %1$s\n您可以手动编辑它来修改规则, 或长按下列任一条目来选择是否拦截。</string>
+    <string name="log_page_hint">所有拦截规则存储在 %1$s\n你可以手动编辑它来修改规则, 或长按下列任一条目来选择是否拦截。</string>
     <string name="fullscreen_1">滑动来显示/隐藏</string>
     <string name="fullscreen_2">点击来显示/隐藏</string>
     <string name="settings_script">脚本</string>
@@ -209,7 +209,7 @@
     <string name="skin_logo">Logo</string>
     <string name="skin_bg">背景</string>
     <string name="skin_style">风格</string>
-    <string name="set_it_as_homepage">您想要将它设置为首页吗？</string>
+    <string name="set_it_as_homepage">你想要将它设置为首页吗？</string>
     <string name="missing_webview">Android System WebView 未正确安装。现在去安装？</string>
     <string name="install">安装</string>
     <string name="crash_hint">真的非常非常抱歉, 应用发生了闪退。</string>
@@ -247,10 +247,10 @@
     <string name="no_network_log">这个页面没有网络日志。</string>
     <string name="action_download">下载</string>
     <string name="action_tools">工具箱</string>
-    <string name="empty_username_info">请填写您的用户名。</string>
-    <string name="empty_password_info">请填写您的密码。</string>
-    <string name="offline_page_hint">下列为保存的网页，无论手机是否联网您都可以浏览它们。</string>
-    <string name="history_page_hint_when_incognito">您处于隐身模式时浏览将不会被记录。</string>
+    <string name="empty_username_info">请填写你的用户名。</string>
+    <string name="empty_password_info">请填写你的密码。</string>
+    <string name="offline_page_hint">下列为保存的网页，无论手机是否联网你都可以浏览它们。</string>
+    <string name="history_page_hint_when_incognito">你处于隐身模式时浏览将不会被记录。</string>
     <string name="action_preview">预览</string>
     <string name="action_page_info">页面信息</string>
     <string name="page_info_title">标题：</string>
@@ -284,13 +284,13 @@
     <string name="restore_tabs_hint_settings">开启\"隐身模式\"时不会恢复未关闭标签。</string>
     <string name="ignore_secondary_ssl_error">忽略次要的 SSL 证书错误</string>
     <string name="web_page_debug">允许调试网页</string>
-    <string name="web_page_debug_info">现在您可以将手机连上电脑, 然后在 Chrome 电脑版上通过 \"chrome://inspect\" 来调试网页。别忘了先开启设置中开发者选项里的 USB 调试。</string>
+    <string name="web_page_debug_info">现在你可以将手机连上电脑, 然后在 Chrome 电脑版上通过 \"chrome://inspect\" 来调试网页。别忘了先开启设置中开发者选项里的 USB 调试。</string>
     <string name="no_download_tasks">没有下载任务。</string>
     <string name="action_re_download">重新下载</string>
     <string name="action_copy_download_link">复制下载链接</string>
     <string name="download_failed">下载失败</string>
     <string name="view_downloads">查看</string>
-    <string name="message_delete_downloading_task">这会同时删除文件，您确定吗？</string>
+    <string name="message_delete_downloading_task">这会同时删除文件，你确定吗？</string>
     <string name="message_delete_downloaded_task">删除这个下载任务吗？</string>
     <string name="message_delete_downloaded_file">同时删除已下载的文件</string>
     <string name="block_popup_message">已拦截弹出式窗口</string>
@@ -326,23 +326,13 @@
     <string name="update_filter_subscription_failed">订阅规则更新失败。\n%1$s</string>
     <string name="has_not_been_updated">从未更新</string>
     <string name="just_now">刚刚</string>
-    <string name="long_ago">很久以前</string>
-    <plurals name="minutes_ago">
-        <item quantity="other">%d 分钟前</item>
-    </plurals>
-    <plurals name="hours_ago">
-        <item quantity="other">%d 小时前</item>
-    </plurals>
-    <plurals name="days_ago">
-        <item quantity="other">%d 天前</item>
-    </plurals>
     <string name="url_is_invalid">链接无效。</string>
     <string name="simple_guide_of_writing_rule">Via 几乎支持所有的 Adblock Plus 规则。
-        \n您可以这样拦截 example.com 的所有请求：
+        \n你可以这样拦截 example.com 的所有请求：
         \n||example.com^（或 example.com）
         \n\n通配符也是支持的，比如：
         \n||example.com/js/ads_*.js
-        \n\n您也可以允许指定的请求，例如：
+        \n\n你也可以允许指定的请求，例如：
         \n@@||example.com^
         \n\n对于网页的元素，规则类似：
         \nexample.com###ad
@@ -363,8 +353,8 @@
     <string name="privacy_policy">隐私政策</string>
     <string name="terms_of_use">使用协议</string>
     <string name="welcome">欢迎</string>
-    <string name="agreement_message">欢迎使用 Via。在使用 Via 前，请认真阅读下列协议。您需要同意并接受全部条款后才能开始使用我们的服务。</string>
-    <string name="agreement_message_short">您需要同意并接受全部条款后才能开始使用我们的服务。</string>
+    <string name="agreement_message">欢迎使用 Via。在使用 Via 前，请认真阅读下列协议。你需要同意并接受全部条款后才能开始使用我们的服务。</string>
+    <string name="agreement_message_short">你需要同意并接受全部条款后才能开始使用我们的服务。</string>
     <string name="agree_and_continue">同意并继续</string>
     <string name="disagree">不同意</string>
     <string name="exit">退出应用</string>
@@ -394,7 +384,7 @@
     <string name="keyboard_shortcuts">键盘快捷键</string>
     <string name="export_data_description">导出书签、设置、脚本和广告规则</string>
     <string name="language">语言</string>
-    <string name="restart_to_take_effect">这将在下次启动应用时生效，您希望立即重启应用以生效吗？</string>
+    <string name="restart_to_take_effect">这将在下次启动应用时生效，你希望立即重启应用以生效吗？</string>
     <string name="more">更多</string>
     <string name="sort_order">排序方式</string>
     <string name="sort_by_oldest_first">最旧的优先</string>
@@ -405,7 +395,7 @@
     <string name="bookmarks_history">书签/历史</string>
     <string name="done">完成</string>
     <string name="root_folder">根目录</string>
-    <string name="delete_item_message">您确认删除 %1$s 吗？</string>
+    <string name="delete_item_message">你确认删除 %1$s 吗？</string>
     <string name="item_has_been_deleted">\"%1$s\" 已删除</string>
     <string name="undo">撤销</string>
     <string name="can_not_sort_list_when_sorting_alphabetically">名称顺序时无法排序列表</string>
@@ -427,7 +417,7 @@
     <string name="bold">粗体</string>
     <string name="italics">斜体</string>
     <string name="clear_website_icon_cache">清除网站图标缓存</string>
-    <string name="clear_website_icon_cache_message">请注意，这会清除所有首页收藏的图标。图标会在您下次访问该网站时下载。</string>
+    <string name="clear_website_icon_cache_message">请注意，这会清除所有首页收藏的图标。图标会在你下次访问该网站时下载。</string>
     <string name="use_blur_instead_of_transparency">使用模糊效果代替透明</string>
     <string name="desc_favorite_icon">收藏的图标</string>
     <string name="script_remarks">备注</string>
@@ -456,5 +446,33 @@
     <string name="need_shortcut_permission">权限被拒绝。请前往系统设置为此应用打开 \"添加桌面快捷方式\" 权限。</string>
     <string name="create_shortcut_successfully">已为 %1$s 创建桌面快捷方式</string>
     <string name="update_shortcut_successfully">已为 %1$s 更新桌面快捷方式</string>
+    <string name="today">今天</string>
+    <string name="yesterday">昨天</string>
+    <string name="same_year_date_format">MM月dd日 EEE</string>
+    <string name="default_date_format">yyyy年MM月dd日 EEE</string>
+    <string name="view_certificate">查看证书</string>
+    <string name="certificate_info">证书信息</string>
+    <string name="certificate_detail"><![CDATA[
+        <b>颁发对象</b><br />
+        <b>公用名 (CN)</b><br />
+        %1$s
+        <br /><b>组织 (O)</b><br />
+        %2$s
+        <br /><b>组织单位 (OU)</b><br />
+        %3$s
+        <br /><br /><b>颁发者</b><br />
+        <b>公用名 (CN)</b><br />
+        %4$s
+        <br /><b>组织 (O)</b><br />
+        %5$s
+        <br /><br /><b>有效期</b><br />
+        <b>颁发日期</b><br />
+        %6$s
+        <br /><b>截止日期</b><br />
+        %7$s
+        <br />
+    ]]></string>
+    <string name="no_certificate">该站点无证书。</string>
+    <string name="site_conf_enabled">网站设定 (已启用)</string>
 
 </resources>

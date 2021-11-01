@@ -343,20 +343,7 @@
     <string name="update_filter_subscriptions_completed">Langganan filter berhasil diperbarui.</string>
     <string name="update_filter_subscription_failed">Langganan filter gagal diperbarui.\n%1$s</string>
     <string name="has_not_been_updated">belum diperbarui</string>
-    <string name="long_ago">Terdahulu</string>
     <string name="just_now">Sekarang</string>
-    <plurals name="minutes_ago">
-        <item quantity="one">semenit yang lalu</item>
-        <item quantity="other">%d menit yang lalu</item>
-    </plurals>
-    <plurals name="hours_ago">
-        <item quantity="one">Sejam yang lalu</item>
-        <item quantity="other">%d jam yang lalu</item>
-    </plurals>
-    <plurals name="days_ago">
-        <item quantity="one">Sehari yang lalu</item>
-        <item quantity="other">%d hari yang lalu</item>
-    </plurals>
     <string name="url_is_invalid">URL tidak valid.</string>
     <string name="simple_guide_of_writing_rule">Via mendukung hampir semua filter Adblock Plus.
         \nAnda bisa memblokir permintaan dari contoh.com dengan filter seperti:

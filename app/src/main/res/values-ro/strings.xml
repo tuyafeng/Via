@@ -60,8 +60,8 @@
     <string name="title_edit_bookmark">Editare preferință</string>
     <string name="action_edit">Editare</string>
     <string name="action_incognito">Mod Incognito</string>
-    <string name="action_find">Găsire în pagină/string>
-    <string name="download_pending">Începere descărcare...\u2026</string>
+    <string name="action_find">Găsire în pagină</string>
+    <string name="download_pending">Începere descărcare…\u2026</string>
     <string name="cannot_download">Poate fi descărcat doar de la adrese \"http\" sau \"https\".</string>
     <string name="bookmarks_imported">%1$d preferințe importate</string>
     <string name="custom_url">URL particularizat</string>
@@ -165,7 +165,7 @@
     <string name="addon_download">Manager de descărcări</string>
     <string name="quick_back">Mergeți înapoi fără reîncărcare</string>
     <string name="open_with">Deschidere cu&#8230;</string>
-    <string name="download_completed">Descărcare finalizată;/string>
+    <string name="download_completed">Descărcare finalizată;</string>
     <string name="toast_fullscreen_off">Ieșire din modul Ecran complet</string>
 
     <string name="clear_data">Ștergere date</string>
@@ -339,24 +339,11 @@
     <string name="custom_filter">Filtru particularizat</string>
     <string name="add_filter_subscription">Adăugare abonament</string>
     <string name="edit_filter_subscription">Editare abonament</string>
-    <string name="updating_filter_subscriptions">Actualizare abonamente...</string>
+    <string name="updating_filter_subscriptions">Actualizare abonamente…</string>
     <string name="update_filter_subscriptions_completed">Actualizare abonamente completă.</string>
     <string name="update_filter_subscription_failed">Actualizare abonamente eșuată.\n%1$s</string>
     <string name="has_not_been_updated">nu a fost actualizat</string>
-    <string name="long_ago">acum mult timp</string>
     <string name="just_now">chiar acum</string>
-    <plurals name="minutes_ago">
-        <item quantity="one">acum un minut</item>
-        <item quantity="other">acum %d minute</item>
-    </plurals>
-    <plurals name="hours_ago">
-        <item quantity="one">acum o oră</item>
-        <item quantity="other">acum %d ore</item>
-    </plurals>
-    <plurals name="days_ago">
-        <item quantity="one">acum o zi</item>
-        <item quantity="other">acum %d zile</item>
-    </plurals>
     <string name="url_is_invalid">URL-ul este invalid.</string>
     <string name="simple_guide_of_writing_rule">Via suportă aproape toate filtrele Adblock Plus.
         \nPuteți bloca cererile de la example.com așa:
@@ -370,8 +357,8 @@
     <string name="help">Ajutor</string>
     <string name="learn_more">Vezi mai mult</string>
     <plurals name="filters">
-        <item quantity="zero">0 filtre</item>
         <item quantity="one">1 filtru</item>
+        <item quantity="few">%d filtre</item>
         <item quantity="other">%d filtre</item>
     </plurals>
     <string name="updated_">actualizat %1$s</string>
@@ -398,8 +385,8 @@
     <string name="select_all">Selectați tot</string>
     <string name="multi_choice">Multi-choice</string>
     <plurals name="delete_download_tasks">
-        <item quantity="zero">0 descărcări șterse</item>
         <item quantity="one">O descărcare ștearsă</item>
+        <item quantity="few">%d descărcări șterse</item>
         <item quantity="other">%d descărcări șterse</item>
     </plurals>
     <string name="open_source_licenses">Licențe open source</string>
@@ -467,7 +454,7 @@
     <string name="toast_script_added">Script adăugat cu succes</string>
     <string name="action_manage_favorites">Manager de favorite</string>
     <string name="check_for_updates">Căutare actualizări</string>
-    <string name="checking_for_updates">Se caută actualizări...</string>
+    <string name="checking_for_updates">Se caută actualizări…</string>
     <string name="latest_version_already_installed">Cea mai recentă versiune este deja instalată</string>
     <string name="new_version_available">Versiune nouă disponibilă</string>
     <string name="action_download_file">Descărcare</string>

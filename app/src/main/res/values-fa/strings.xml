@@ -343,20 +343,7 @@
     <string name="update_filter_subscriptions_completed">بروزرسانی اشتراک های فیلتر انجام شد.</string>
     <string name="update_filter_subscription_failed">بروزرسانی اشتراک های فیلتر انجام نشد.\n%1$s</string>
     <string name="has_not_been_updated">بروزرسانی نشده</string>
-    <string name="long_ago">خیلی وفت پیش</string>
     <string name="just_now">به تازگی</string>
-    <plurals name="minutes_ago">
-        <item quantity="one">یک دقیقه پیش</item>
-        <item quantity="other">%d دقیقه پیش</item>
-    </plurals>
-    <plurals name="hours_ago">
-        <item quantity="one">یک ساعت پیش</item>
-        <item quantity="other">%d ساعت پیش</item>
-    </plurals>
-    <plurals name="days_ago">
-        <item quantity="one">یک روز پیش</item>
-        <item quantity="other">%d روز پیش</item>
-    </plurals>
     <string name="url_is_invalid">نشانی اینترنتی نامعتبر است.</string>
     <string name="simple_guide_of_writing_rule">ویا تقریبا همه فیلترهای مسدود کننده تبلیغ پلاس را پشتیبانی میکند.
         \nمیتوانید درخواست ها از سایت example.com را با این فیلتر مسدود کنید مثل:

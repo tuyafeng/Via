@@ -343,26 +343,7 @@
     <string name="update_filter_subscriptions_completed">Posodobitev naročnin s filtri je končana.</string>
     <string name="update_filter_subscription_failed">Posodobitev naročnin s filtri ni uspela.\n%1$s</string>
     <string name="has_not_been_updated">ni posodobljeno</string>
-    <string name="long_ago">dolgo časa nazaj</string>
     <string name="just_now">pravkar</string>
-    <plurals name="minutes_ago">
-        <item quantity="one">pred %d minuto</item>
-        <item quantity="two">pred %d minutama</item>
-        <item quantity="few">pred %d minutami</item>
-        <item quantity="other">pred %d minutami</item>
-    </plurals>
-    <plurals name="hours_ago">
-        <item quantity="one">pred %d uro</item>
-        <item quantity="two">pred %d urama</item>
-        <item quantity="few">pred %d urami</item>
-        <item quantity="other">pred %d urami</item>
-    </plurals>
-    <plurals name="days_ago">
-        <item quantity="one">pred %d dnevom</item>
-        <item quantity="two">pred %d dnevoma</item>
-        <item quantity="few">pred %d dnevi</item>
-        <item quantity="other">pred %d dnevi</item>
-    </plurals>
     <string name="url_is_invalid">URL ni veljaven.</string>
     <string name="simple_guide_of_writing_rule">Via podpira večino filtrov Adblock Plus.
         \nZahteve iz example.com blokirate s filtri, kot je:

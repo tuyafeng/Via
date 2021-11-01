@@ -330,20 +330,7 @@
     <string name="update_filter_subscriptions_completed">Actualización de suscripciones de filtros completada.</string>
     <string name="update_filter_subscription_failed">Error al actualizar las suscripciones de filtros.\n%1$s</string>
     <string name="has_not_been_updated">no ha sido actualizado</string>
-    <string name="long_ago">hace mucho tiempo</string>
     <string name="just_now">justo ahora</string>
-    <plurals name="minutes_ago">
-        <item quantity="one">hace 1 minuto</item>
-        <item quantity="other">hace %d minutos</item>
-    </plurals>
-    <plurals name="hours_ago">
-        <item quantity="one">hace 1 hora</item>
-        <item quantity="other">hace %d horas</item>
-    </plurals>
-    <plurals name="days_ago">
-        <item quantity="one">hace 1 día</item>
-        <item quantity="other">hace %d días</item>
-    </plurals>
     <string name="url_is_invalid">La URL no es válida.</string>
     <string name="simple_guide_of_writing_rule">Via admite casi todos los filtros Adblock Plus.
         \nPuedes bloquear las solicitudes de example.com con este filtro:
