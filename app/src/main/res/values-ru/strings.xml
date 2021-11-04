@@ -467,4 +467,34 @@
     <string name="need_shortcut_permission">Отсутствует разрешение. Перейдите в настройки этого приложения и включите разрешение \"Создавать ярлыки на главном экране\".</string>
     <string name="create_shortcut_successfully">Ярлык для %1$s создан</string>
     <string name="update_shortcut_successfully">Ярлык для %1$s обновлён</string>
+    <string name="today">Сегодня</string>
+    <string name="yesterday">Вчера</string>
+    <!--  The date format pattern is difficult to remember, please refer to: https://docs.oracle.com/javase/7/docs/api/java/text/SimpleDateFormat.html  -->
+    <string name="same_year_date_format">EE, dd MMMM</string>
+    <string name="default_date_format">dd.MM.yyyy</string>
+    <string name="view_certificate">Просмотр сертификата</string>
+    <string name="certificate_info">Данные сертификата</string>
+    <!-- The b tag means bold, And the br tag means line break.  -->
+    <string name="certificate_detail"><![CDATA[
+        <b>ВЫДАН</b><br />
+        <b>Название (CN)</b><br />
+        %1$s
+        <br /><b>Организация (O)</b><br />
+        %2$s
+        <br /><b>Подразделение (OU)</b><br />
+        %3$s
+        <br /><br /><b>ВЫДАЛ</b><br />
+        <b>Название (CN)</b><br />
+        %4$s
+        <br /><b>Организация (O)</b><br />
+        %5$s
+        <br /><br /><b>СРОК ДЕЙСТВИЯ</b><br />
+        <b>Выдан</b><br />
+        %6$s
+        <br /><b>Истекает</b><br />
+        %7$s
+        <br />
+    ]]></string>
+    <string name="no_certificate">Сайт не имеет сертификата.</string>
+    <string name="site_conf_enabled">Настройки сайта (включено)</string>
 </resources>
