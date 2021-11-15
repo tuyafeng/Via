@@ -442,7 +442,7 @@
     <string name="simple_guide_of_writing_script">O script escrito entrará em vigor automaticamente quando o site for carregado.
      \n\ nSites (obrigatório): O site com script suporta o caractere curinga \"*\" e vários sites são separados por \",\", por exemplo: *.foo.com,bar.*/list.
      \n\ nObservações (opcional): Usado como o título da exibição.
-     \n\ nCódigo (obrigatório): Recomenda-se usar JavaScript nativo. Você também pode usar a sintaxe jqeury ou vue.js se o site usar essas estruturas.</string>
+     \n\ nCódigo (obrigatório): Recomenda-se usar JavaScript nativo. Você também pode usar a sintaxe jquery ou vue.js se o site usar essas estruturas.</string>
     <string name="save_data">Guardar dados</string>
     <string name="save_data_description">Ative o modo de economia de dados em sites compatíveis</string>
     <string name="use_line_style_search_box">Use a caixa de pesquisa de estilo de linha</string>

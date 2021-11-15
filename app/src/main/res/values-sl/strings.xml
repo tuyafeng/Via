@@ -450,7 +450,7 @@
     <string name="simple_guide_of_writing_script">Napisana skripta se bo pričela samodejno izvajati, ko bo spletna stran naložena.
     \n\nStrani (zahtevano): stran s skripto podpira nadomestni znak \"*\". Različne strani se ločijo z nadomestnim znakom \",\". Primer: *.foo.com,bar.*/list.
     \n\nPripombe (izbirno): uporabljene so kot naslov zaslona.
-    \n\nKoda (zahtevano): priporočljivo je uporabljati nativni JavaScript. Uporabita se lahko tudi sintaksi jqeury ali vue.js, če ju spletna stran koristi.</string>
+    \n\nKoda (zahtevano): priporočljivo je uporabljati nativni JavaScript. Uporabita se lahko tudi sintaksi jquery ali vue.js, če ju spletna stran koristi.</string>
     <string name="save_data">Shrani podatke</string>
     <string name="save_data_description">Vklopi način varčevanja s podatki na združljivih spletnih straneh</string>
     <string name="use_line_style_search_box">Za iskalno polje uporabi črto namesto okvirja</string>

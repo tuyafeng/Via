@@ -70,7 +70,7 @@
     <string name="message_hostname_mismatch_certificate">当前站点证书与主机名不匹配，是否继续?</string>
     <string name="message_invalid_certificate">当前站点证书无效，是否继续?</string>
     <string name="message_not_yet_valid_certificate">当前站点证书还未生效，是否继续?</string>
-    <string name="title_form_resubmission">表格提交</string>
+    <string name="title_form_resubmission">表单提交</string>
     <string name="message_form_resubmission">你确定发送数据吗？</string>
     <string name="message_location">\n想使用你的位置信息</string>
     <string name="action_allow">允许</string>
@@ -474,5 +474,7 @@
     ]]></string>
     <string name="no_certificate">该站点无证书。</string>
     <string name="site_conf_enabled">网站设定 (已启用)</string>
+    <string name="do_not_sell_or_share">不出售或分享数据</string>
+    <string name="do_not_sell_or_share_description">请求网站不出售或分享我的数据以保护隐私 (实验性)</string>
 
 </resources>

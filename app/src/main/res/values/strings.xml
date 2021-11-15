@@ -447,7 +447,7 @@
     <string name="simple_guide_of_writing_script">The script written will take effect automatically when the website loads.
     \n\nSites(required): The scripted site supports the \"*\" wildcard, and multiple sites are separated by \",\", for example: *.foo.com,bar.*/list.
     \n\nRemarks(optional): Used as the title of the display.
-    \n\nCode(required): It is recommended to use native JavaScript. You can also use jqeury or vue.js syntax if the website uses those frameworks.</string>
+    \n\nCode(required): It is recommended to use native JavaScript. You can also use jquery or vue.js syntax if the website uses those frameworks.</string>
     <string name="save_data">Save data</string>
     <string name="save_data_description">Enable data-savings mode on compatible websites</string>
     <string name="use_line_style_search_box">Use line style search box</string>
@@ -496,5 +496,7 @@
     ]]></string>
     <string name="no_certificate">The website does not have a certificate.</string>
     <string name="site_conf_enabled">Site configuration (Enabled)</string>
+    <string name="do_not_sell_or_share">Do not sell or share data</string>
+    <string name="do_not_sell_or_share_description">Require the website not to sell or share my data to protect privacy (experimental)</string>
 
 </resources>

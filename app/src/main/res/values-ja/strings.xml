@@ -264,7 +264,7 @@
     <string name="simple_guide_of_writing_script">書き込まれたスクリプトは、ウェブサイトの読み込み時に自動的に有効になります。
     \n\nサイト(必須)：ワイルドカード「*」に対応しており、複数のサイトを「,」で区切って記述します。例：*.foo.com,bar.*/list.
     \n\n備考（任意）：表示のタイトルとして使用します。
-    \n\nコード(必須)：ネイティブJavaScriptを使用することをお勧めします。ウェブサイトがこれらのフレームワークを使用している場合は、jqeuryやvue.jsの構文を使用することもできます。</string>
+    \n\nコード(必須)：ネイティブJavaScriptを使用することをお勧めします。ウェブサイトがこれらのフレームワークを使用している場合は、jqueryやvue.jsの構文を使用することもできます。</string>
     
     <!-- 設定｜Via について -->
     <string name="settings_about">Via について</string>
