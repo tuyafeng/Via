@@ -60,5 +60,5 @@ You can contact me on [Twitter](https://twitter.com/Yafeng78600505) and I will r
 
 You can also [open an issue](https://github.com/tuyafeng/Via/issues/new) on GitHub, and I will check and reply to issues about once a week.
 
-You can email me [here](mailto:lakor@foxmail.com) if must, but I'm sorry I may not respond.
+You can email me [here](mailto:yafengtu@gmail.com) if must, but I'm sorry I may not respond.
 

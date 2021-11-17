@@ -59,4 +59,4 @@ Você pode entrar em contato comigo no [Twitter](https://twitter.com/Yafeng78600
 
 Você tambem pode [abrir um problema](https://github.com/tuyafeng/Via/issues/new) no GitHub, e eu irei verificar e responder às questões uma vez por semana.
 
-Você tambem pode me enviar um email [aqui](mailto:lakor@foxmail.com) se necessário, mas me desculpe se eu não responder.
+Você tambem pode me enviar um email [aqui](mailto:yafengtu@gmail.com) se necessário, mas me desculpe se eu não responder.
