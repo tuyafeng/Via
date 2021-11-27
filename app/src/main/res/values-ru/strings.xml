@@ -467,10 +467,10 @@
     <string name="need_shortcut_permission">Отсутствует разрешение. Перейдите в настройки этого приложения и включите разрешение \"Создавать ярлыки на главном экране\".</string>
     <string name="create_shortcut_successfully">Ярлык для %1$s создан</string>
     <string name="update_shortcut_successfully">Ярлык для %1$s обновлён</string>
-    <string name="today">Сегодня</string>
-    <string name="yesterday">Вчера</string>
+    <string name="today">сегодня</string>
+    <string name="yesterday">вчера</string>
     <!--  The date format pattern is difficult to remember, please refer to: https://docs.oracle.com/javase/7/docs/api/java/text/SimpleDateFormat.html  -->
-    <string name="same_year_date_format">EE, dd MMMM</string>
+    <string name="same_year_date_format">EEE, d MMMMM</string>
     <string name="default_date_format">dd.MM.yyyy</string>
     <string name="view_certificate">Просмотр сертификата</string>
     <string name="certificate_info">Данные сертификата</string>
@@ -497,4 +497,8 @@
     ]]></string>
     <string name="no_certificate">Сайт не имеет сертификата.</string>
     <string name="site_conf_enabled">Настройки сайта (включено)</string>
+    <string name="do_not_sell_or_share">Не передавать данные</string>
+    <string name="do_not_sell_or_share_description">Требовать от сайта не продавать и не передавать мои данные для защиты конфиденциальности (экспериментально)</string>
+    <string name="email_me">Написать мне</string>
+
 </resources>
