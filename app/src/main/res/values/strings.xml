@@ -498,5 +498,6 @@
     <string name="site_conf_enabled">Site configuration (Enabled)</string>
     <string name="do_not_sell_or_share">Do not sell or share data</string>
     <string name="do_not_sell_or_share_description">Require the website not to sell or share my data to protect privacy (experimental)</string>
+    <string name="email_me">Email me</string>
 
 </resources>
