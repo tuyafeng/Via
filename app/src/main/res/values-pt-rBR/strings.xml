@@ -495,5 +495,6 @@
     <string name="site_conf_enabled">Configuração do site (habilitado)</string>
     <string name="do_not_sell_or_share">Não venda ou compartilhe dados</string>
     <string name="do_not_sell_or_share_description">Exigir que o site não venda ou compartilhe meus dados para proteger a privacidade (experimental)</string>
+    <string name="email_me">Me envie um e-mail</string>
 
 </resources>
