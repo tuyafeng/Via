@@ -476,5 +476,6 @@
     <string name="site_conf_enabled">网站设定 (已启用)</string>
     <string name="do_not_sell_or_share">不出售或分享数据</string>
     <string name="do_not_sell_or_share_description">请求网站不出售或分享我的数据以保护隐私 (实验性)</string>
+    <string name="email_me">通过邮件联系我</string>
 
 </resources>
