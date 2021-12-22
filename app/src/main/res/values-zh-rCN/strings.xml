@@ -159,7 +159,7 @@
     <string name="data_form_data">表单数据</string>
     <string name="data_history">历史</string>
     <string name="data_storage">网页存储</string>
-    <string name="data_cookies">Cookies</string>
+    <string name="data_cookies">Cookies (登录状态)</string>
     <string name="data_cleared">数据已清除</string>
     <string name="sync_desc">账号不存在将自动创建</string>
     <string name="settings_skin">定制</string>
@@ -477,5 +477,17 @@
     <string name="do_not_sell_or_share">不出售或分享数据</string>
     <string name="do_not_sell_or_share_description">请求网站不出售或分享我的数据以保护隐私 (实验性)</string>
     <string name="email_me">通过邮件联系我</string>
+    <string name="scan_qr_code">扫描二维码</string>
+    <string name="scan_qr_code_from_image">扫描图片中的二维码</string>
+    <string name="switch_flash">开关闪光灯</string>
+    <string name="qr_code_scan_result">二维码扫描结果</string>
+    <string name="qr_code_not_detected">未检测到二维码</string>
+    <string name="save_qr_code_successfully">二维码已保存到相册</string>
+    <string name="description_with_number">%1$s (%2$d)</string>
+    <string name="last_hour">过去一小时</string>
+    <string name="today_and_yesterday">今天和昨天</string>
+    <string name="last_seven_days">过去 7 天</string>
+    <string name="all_time">所有时间</string>
+    <string name="delete_history_from">清除浏览历史</string>
 
 </resources>
