@@ -447,7 +447,7 @@
     <string name="save_data_description">Ative o modo de economia de dados em sites compatíveis</string>
     <string name="use_line_style_search_box">Use a caixa de pesquisa de estilo de linha</string>
     <string name="toast_script_added">Script adicionado com sucesso</string>
-    <string name="action_manage_favorites">Gerente favorito</string>
+    <string name="action_manage_favorites">Gerenciar favoritos</string>
     <string name="check_for_updates">Verifique se há atualizações</string>
     <string name="checking_for_updates">Verificando atualizações</string>
     <string name="latest_version_already_installed">Última versão já instalada</string>
@@ -495,5 +495,6 @@
     <string name="site_conf_enabled">Configuração do site (habilitado)</string>
     <string name="do_not_sell_or_share">Não venda ou compartilhe dados</string>
     <string name="do_not_sell_or_share_description">Exigir que o site não venda ou compartilhe meus dados para proteger a privacidade (experimental)</string>
+    <string name="email_me">Me envie um e-mail</string>
 
 </resources>

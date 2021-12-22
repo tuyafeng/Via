@@ -14,6 +14,32 @@
     <string name="donate">Via を支援</string>
     <string name="donate_details">私たちは仕事の余暇を利用してViaを開発し、維持し続けています。\nViaはまだ大いに改善の余地があります。Viaには広告がないので、収入もありません。\nもしこのアプリが気に入りましたら、下記の連絡先に寄付してくださいね。\n\nすべての支援金を開発に充てます。\n\nAlipay: 2376688759@qq.com\nPayPal: wiar1824@gmail.com</string>
    
+    <!-- トップ | 証明書 -->    
+    <string name="view_certificate">サーバ証明書を見る</string>
+    <string name="certificate_info">サーバ証明書情報</string>
+    <string name="certificate_detail"><![CDATA[
+        <b>発行元</b><br />
+        <b>コモンネーム (CN)</b><br />
+        %1$s
+        <br /><b>組織名 (O)</b><br />
+        %2$s
+        <br /><b>部門名 (OU)</b><br />
+        %3$s
+        <br /><br /><b>発行者</b><br />
+        <b>コモンネーム (CN)</b><br />
+        %4$s
+        <br /><b>組織名 (O)</b><br />
+        %5$s
+        <br /><br /><b>有効期間</b><br />
+        <b>発行日</b><br />
+        %6$s
+        <br /><b>有効期限</b><br />
+        %7$s
+        <br />
+    ]]></string>
+    <string name="no_certificate">このウェブサイトにはサーバ証明書が有りません</string>
+    <string name="site_conf_enabled">Site configuration (Enabled)</string>
+    
     <!-- 設定｜一般｜アカウント -->    
     <string name="settings_cloud">アカウント</string>
     <string name="user">ログイン及び登録</string>
@@ -239,6 +265,8 @@
     <string name="location">位置情報へのアクセスを許可する</string>
     <string name="do_not_track">Do Not Track（トラッキング拒否）</string>
     <string name="block_3rd_party_cookies">サードパーティーCookieをブロック</string>
+    <string name="do_not_sell_or_share">個人のデータを販売及び共有することを拒否する</string>
+    <string name="do_not_sell_or_share_description">プライバシー保護のため、個人のデータを販売したり共有したりしないようにウェブサイトに要求する（試験中）</string>
     
     <!-- 設定｜高度な設定 -->
     <string name="settings_advanced">高度な設定</string>
@@ -270,6 +298,7 @@
     <string name="settings_about">Via について</string>
     <string name="version">バージョン情報</string>
     <string name="join_telegram_group">Telegramグループに参加する</string>
+    <string name="email_me">メールを送る</string>
     <string name="follow_me_on_twitter">Twitterをフォローする</string>
     <string name="debugging_info">デバッグ情報</string>
     <string name="join_qq_group">QQグループに参加する</string>
@@ -297,10 +326,18 @@
     <string name="action_add_to_homepage">スピードダイヤルに追加</string>
     <string name="added_favorite_hint">スピードダイヤルに追加しました。</string>
     <string name="title_edit_favorite">ブックマークを編集</string>
+    <string name="delete_hint">削除(%1$d)</string>
+    
+    <!-- 履歴 -->
+    <string name="today">今日</string>
+    <string name="yesterday">昨日</string>
+    <!--  日付の書き方は右のサイトを参照してください: https://docs.oracle.com/javase/7/docs/api/java/text/SimpleDateFormat.html  -->
+    <string name="same_year_date_format">MMM dd日, EEE</string>
+    <string name="default_date_format">yyyy, MMM dd日, EEE</string>
     
     <!-- ダウンロード --> 
     <string name="no_download_tasks">ダウンロードアイテムがありません</string>
-    <string name="action_re_download">再度ダウンロード</string>
+    <string name="action_re_download">再ダウンロード</string>
     <string name="action_copy_download_link">アドレスをコピー</string>
     <string name="download_failed">ダウンロードに失敗しました</string>
     <string name="view_downloads">開く</string>
