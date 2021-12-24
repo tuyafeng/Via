@@ -34,7 +34,7 @@ Alentamos a todo el mundo a ayudarnos con la localización/traducción. A contin
 
 **¿Qué motor de renderizado utiliza Via?**
 
-Via utiliza el procesador WebView integrado en la plataforma Android. En dispositivos Android 5.0+, la implementación de WebView usualmente es `Android System WebView (com.google.android.webview)`, puedes actualizarla en la Play Store para una mejor experiencia de navegación. Si quieres saber cuál es la implementación actual de WebView y la versión de tu dispositivo, en Via puedes ir a "Ajustes - Acerca de" y presionar el logo de Via para ver la información de debugging, la cual contiene la información de WebView.
+Via utiliza el procesador WebView integrado en la plataforma Android. En dispositivos Android 5.0+, la implementación de WebView usualmente es `Android System WebView (com.google.android.webview)`, puedes actualizarla en la Play Store para una mejor experiencia de navegación. Si quieres saber cuál es la implementación actual de WebView y la versión de tu dispositivo, en Via puedes ir a "Ajustes - Acerca de" y presionar el logo de Via para ver la información de depuración, la cual contiene la información de WebView.
 
 **¿Cómo se desactiva el JavaScript o se ajusta un agente de usuario para un sitio en específico?**
 
