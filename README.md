@@ -34,7 +34,7 @@ We encourage everyone to help with localization. The following is how to do.
 
 **Which rendering engine does Via use?**
 
-Via uses the built-in WebView renderer included on the Android platform. On Android 5.0+ devices, the WebView implementation is usually `Android System WebView (com.google.android.webview)`, you can update it in the Play Store for a better browsing experience. If you want to know the current WebView implementation and version of your device, you can click "Settings - About - Version" of Via to get the debugging information which contains the WebView information.
+Via uses the built-in WebView renderer included on the Android platform. On Android 5.0+ devices, the WebView implementation is usually `Android System WebView (com.google.android.webview)`, you can update it in the Play Store for a better browsing experience. If you want to know the current WebView implementation and version of your device, you can click "Settings - About" in Via and tap on the Via logo to get the debugging information which contains the WebView information.
 
 **How to disable JavaScript or set a special user agent for a website?**
 
