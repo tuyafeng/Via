@@ -2,7 +2,7 @@
 
 <div align="center"><img src="http://viayoo.com/en/images/logo.png" alt="Via Logo" height="100"/></div>
 
-English | [简体中文](https://github.com/tuyafeng/Via/blob/master/README_zh_CN.md) | [繁體中文](https://github.com/tuyafeng/Via/blob/master/README_zh_TW.md) | [Português](https://github.com/tuyafeng/Via/blob/master/README_pt_BR.md)
+English | [简体中文](https://github.com/tuyafeng/Via/blob/master/README_zh_CN.md) | [繁體中文](https://github.com/tuyafeng/Via/blob/master/README_zh_TW.md) | [Português](https://github.com/tuyafeng/Via/blob/master/README_pt_BR.md) | [Español](https://github.com/tuyafeng/Via/blob/master/README_es.md)
 
 ### Introduction
 
@@ -52,7 +52,9 @@ Unfortunately, Google removed this particular feature from WebView. You can try 
 
 **Why can't Via scan the QR code?**
 
-There are too many applications that can scan QR codes, and I don’t want to add such a repetitive function. You can scan the QR code with your phone's camera app.
+~~There are too many applications that can scan QR codes, and I don’t want to add such a repetitive function. You can scan the QR code with your phone's camera app.~~
+
+Starting from version 4.3.4, Via has added a built-in QR code scanner.
 
 **How to contact you?**
 
