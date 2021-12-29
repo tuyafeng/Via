@@ -173,7 +173,7 @@
     <string name="data_form_data">Данные форм</string>
     <string name="data_history">История</string>
     <string name="data_storage">Web-хранилище</string>
-    <string name="data_cookies">Cookies</string>
+    <string name="data_cookies">Cookies (статус входа)</string>
     <string name="data_cleared">Данные очищены</string>
 
     <string name="sync_desc">Если учётная запись не существует, она будет создана.</string>
@@ -282,8 +282,8 @@
     <string name="no_network">Нет сетевого подключения!</string>
     <string name="title_app_chooser">Выбор приложения</string>
     <string name="clear_data_on_exit">Очищать данные при выходе</string>
-    <string name="action_add_to_homepage">Добавить в быстрый набор</string>
-    <string name="added_favorite_hint">Успешно добавлено в быстрый набор</string>
+    <string name="action_add_to_homepage">Добавить в избранное</string>
+    <string name="added_favorite_hint">Успешно добавлено в избранное на домашнюю страницу</string>
     <string name="title_edit_favorite">Редактирование</string>
     <string name="custom_css_special">Добавить свой CSS</string>
     <string name="force_enable_zoom">Принудительное масштабирование</string>
@@ -438,7 +438,7 @@
     <string name="bold">Жирный</string>
     <string name="italics">Курсив</string>
     <string name="clear_website_icon_cache">Очистить кеш значков сайтов</string>
-    <string name="clear_website_icon_cache_message">Обратите внимание, что будут очищены все значки избранного на главной странице. Значок будет загружен при следующем посещении соответствующего сайта.</string>
+    <string name="clear_website_icon_cache_message">Обратите внимание, что будут очищены все значки избранного на домашней странице. Значок будет загружен при следующем посещении соответствующего сайта.</string>
     <string name="use_blur_instead_of_transparency">Эффект размытия вместо прозрачности</string>
     <string name="desc_favorite_icon">Значок избранного</string>
     <string name="script_remarks">Примечание</string>
@@ -462,15 +462,15 @@
     <string name="entered_full_screen_mode">Используется полноэкранный режим</string>
     <string name="delete_hint">Удалить (%1$d)</string>
     <string name="follow_system_dark_mode_on">Использовать тёмный режим системы, если включено</string>
-    <string name="scoped_search">Поиск %1$s</string>
+    <string name="scoped_search">Поиск в \"%1$s\"</string>
     <string name="add_shortcut">Добавить ярлык</string>
     <string name="need_shortcut_permission">Отсутствует разрешение. Перейдите в настройки этого приложения и включите разрешение \"Создавать ярлыки на главном экране\".</string>
     <string name="create_shortcut_successfully">Ярлык для %1$s создан</string>
     <string name="update_shortcut_successfully">Ярлык для %1$s обновлён</string>
-    <string name="today">Сегодня</string>
-    <string name="yesterday">Вчера</string>
+    <string name="today">сегодня</string>
+    <string name="yesterday">вчера</string>
     <!--  The date format pattern is difficult to remember, please refer to: https://docs.oracle.com/javase/7/docs/api/java/text/SimpleDateFormat.html  -->
-    <string name="same_year_date_format">EE, dd MMMM</string>
+    <string name="same_year_date_format">EEE, d MMMMM</string>
     <string name="default_date_format">dd.MM.yyyy</string>
     <string name="view_certificate">Просмотр сертификата</string>
     <string name="certificate_info">Данные сертификата</string>
@@ -497,4 +497,20 @@
     ]]></string>
     <string name="no_certificate">Сайт не имеет сертификата.</string>
     <string name="site_conf_enabled">Настройки сайта (включено)</string>
+    <string name="do_not_sell_or_share">Не передавать данные</string>
+    <string name="do_not_sell_or_share_description">Требовать от сайта не продавать и не передавать мои данные для защиты конфиденциальности (экспериментально)</string>
+    <string name="email_me">Написать мне письмо</string>
+    <string name="scan_qr_code">Сканировать QR-код</string>
+    <string name="scan_qr_code_from_image">Сканировать QR-код с изображения</string>
+    <string name="switch_flash">Переключить вспышку</string>
+    <string name="qr_code_scan_result">Результат сканирования</string>
+    <string name="qr_code_not_detected">QR-код не обнаружен</string>
+    <string name="save_qr_code_successfully">QR-код сохранён в галерее</string>
+    <string name="description_with_number">%1$s (%2$d)</string>
+    <string name="last_hour">За последний час</string>
+    <string name="today_and_yesterday">За сегодня и вчера</string>
+    <string name="last_seven_days">За последние 7 дней</string>
+    <string name="all_time">За всё время</string>
+    <string name="delete_history_from">Удалить историю</string>
+
 </resources>
