@@ -507,10 +507,10 @@
     <string name="qr_code_not_detected">QR-код не обнаружен</string>
     <string name="save_qr_code_successfully">QR-код сохранён в галерее</string>
     <string name="description_with_number">%1$s (%2$d)</string>
-    <string name="last_hour">За последний час</string>
-    <string name="today_and_yesterday">За сегодня и вчера</string>
-    <string name="last_seven_days">За последние 7 дней</string>
-    <string name="all_time">За всё время</string>
-    <string name="delete_history_from">Удалить историю</string>
+    <string name="last_hour">последний час</string>
+    <string name="today_and_yesterday">сегодня и вчера</string>
+    <string name="last_seven_days">последние 7 дней</string>
+    <string name="all_time">всё время</string>
+    <string name="delete_history_from">Удалить историю за…</string>
 
 </resources>
