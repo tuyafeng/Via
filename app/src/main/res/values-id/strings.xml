@@ -453,4 +453,63 @@
     <string name="use_line_style_search_box">Gunakan garis untuk kotak pencarian</string>
     <string name="toast_script_added">Skrip berhasil ditambahkan</string>
     <string name="action_manage_favorites">Kelola favorit</string>
+    <string name="check_for_updates">Periksa pembaruan</string>
+    <string name="checking_for_updates">Pemerisaan untuk pembaruan</string>
+    <string name="latest_version_already_installed">Versi terakhir telah terpasang</string>
+    <string name="new_version_available">Versi baru tersedia</string>
+    <string name="action_download_file">Unduh</string>
+    <string name="entered_full_screen_mode">Masuk mode layah penuh</string>
+    <string name="delete_hint">Hapus(%1$d)</string>
+    <string name="follow_system_dark_mode_on">Mengikuti sistem mode gelap diaktifkan</string>
+    <string name="scoped_search">Cari %1$s</string>
+    <string name="add_shortcut">Tambah pintasan</string>
+    <string name="need_shortcut_permission">Akses ditolak. Silahkan pergi ke pengaturan dan aktifkan \"Buat pintasan layar utama\" izin untuk aplikasi ini.</string>
+    <string name="create_shortcut_successfully">Membuat pintasan untuk %1$s berhasil</string>
+    <string name="update_shortcut_successfully">Pembaruan pintasan untuk %1$s berhasil</string>
+    <string name="today">Hari ini</string>
+    <string name="yesterday">Kemarin</string>
+    <!--  The date format pattern is difficult to remember, please refer to: https://docs.oracle.com/javase/7/docs/api/java/text/SimpleDateFormat.html  -->
+    <string name="same_year_date_format">EEE, MMM dd</string>
+    <string name="default_date_format">EEE, MMM dd, yyyy</string>
+    <string name="view_certificate">Lihat sertifikat</string>
+    <string name="certificate_info">Informasi sertifikat</string>
+    <!-- The b tag means bold, And the br tag means line break.  -->
+    <string name="certificate_detail"><![CDATA[
+        <b>DITERBITKAN KEPADA</b><br />
+        <b>Nama Umum (CN)</b><br />
+        %1$s
+        <br /><b>Organisasi (O)</b><br />
+        %2$s
+        <br /><b>Unit Organisasi (OU)</b><br />
+        %3$s
+        <br /><br /><b>Diterbitkan</b><br />
+        <b>Nama umum (CN)</b><br />
+        %4$s
+        <br /><b>Organisasi (O)</b><br />
+        %5$s
+        <br /><br /><b>MASA BERLAKU</b><br />
+        <b>Diterbitkan pada</b><br />
+        %6$s
+        <br /><b>Kadaluarsa pada</b><br />
+        %7$s
+        <br />
+    ]]></string>
+    <string name="no_certificate">Situs ini tidak memiliki sertifikat.</string>
+    <string name="site_conf_enabled">Konfigurasi situs (diaktifkan)</string>
+    <string name="do_not_sell_or_share">Jangan menjual dan membagikan data</string>
+    <string name="do_not_sell_or_share_description">Memerlukan situs yang tidak menjual atau membagikan data saya untuk mejaga privasi (percobaan)</string>
+    <string name="email_me">Email saya</string>
+    <string name="scan_qr_code">Pindai kode QR</string>
+    <string name="scan_qr_code_from_image">Pindai kode QR dari gambar</string>
+    <string name="switch_flash">Ubah senter</string>
+    <string name="qr_code_scan_result">Hasil pemindaian kode QR</string>
+    <string name="qr_code_not_detected">Kode QR tidak terdeteksi</string>
+    <string name="save_qr_code_successfully">Kode QR telah disimpan ke galeri</string>
+    <string name="description_with_number">%1$s (%2$d)</string>
+    <string name="last_hour">Sejam terakhir</string>
+    <string name="today_and_yesterday">Hari ini dan kemarin</string>
+    <string name="last_seven_days">7 hari terakhir</string>
+    <string name="all_time">Semua waktu</string>
+    <string name="delete_history_from">Hapus riwayat mulai dari</string>
+
 </resources>
