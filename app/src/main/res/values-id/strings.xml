@@ -454,7 +454,7 @@
     <string name="toast_script_added">Skrip berhasil ditambahkan</string>
     <string name="action_manage_favorites">Kelola favorit</string>
     <string name="check_for_updates">Periksa pembaruan</string>
-    <string name="checking_for_updates">Pemerisaan untuk pembaruan</string>
+    <string name="checking_for_updates">Pemeriksaan untuk pembaruan</string>
     <string name="latest_version_already_installed">Versi terakhir telah terpasang</string>
     <string name="new_version_available">Versi baru tersedia</string>
     <string name="action_download_file">Unduh</string>
