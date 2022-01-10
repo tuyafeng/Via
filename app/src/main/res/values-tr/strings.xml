@@ -7,7 +7,7 @@
     <string name="action_save_img">Resmi Kaydet</string>
     <string name="action_share">Paylaş</string>
     <string name="action_history">Geçmiş</string>
-    <string name="action_bookmarks">Yer işaretleri</string>
+    <string name="action_bookmarks">Yer İşaretleri</string>
     <string name="bookmarks_file">Bookmarks export</string>
     <string name="action_add_bookmark">Yer İşareti Ekle</string>
     <string name="action_night">Gece Modu</string>
@@ -326,9 +326,9 @@
     <string name="unblock_hint">Engelleme kaldırıldı: %1$s\nEtkili olması için yenileyin.</string>
     <string name="block_3rd_party_cookies">Üçüncü taraf çerezlerini engelle</string>
     <string name="enable_site_conf">%1$s için site yapılandırmasını etkinleştir</string>
-    <string name="site_conf">Site yapılandırması</string>
-    <string name="ui_simple_top">Araç çubuğu üstte</string>
-    <string name="ui_simple_bottom">Araç çubuğu altta</string>
+    <string name="site_conf">Site Yapılandırması</string>
+    <string name="ui_simple_top">Üstte</string>
+    <string name="ui_simple_bottom">Altta</string>
     <string name="file_does_not_exist">Dosya yok</string>
     <string name="dialog_message_from">Bildirim şuradan %1$s</string>
     <string name="filter_subscriptions">Filtre Kaynakları</string>
@@ -411,7 +411,7 @@
     <string name="sort_by_newest_first">Önce en yeni</string>
     <string name="sort_by_alphabetical_order">Alfabetik sıra</string>
     <string name="select_folder">Dosya Seç</string>
-    <string name="move">Daha</string>
+    <string name="move">Taşı</string>
     <string name="bookmarks_history">Yer işaretleri/Geçmiş</string>
     <string name="done">Tamamlandı</string>
     <string name="root_folder">Ana klasör</string>
@@ -498,7 +498,7 @@
     <string name="site_conf_enabled">Site yapılandırması (Etkin)</string>
     <string name="do_not_sell_or_share">Veri satmayın veya paylaşmayın</string>
     <string name="do_not_sell_or_share_description">Gizliliği korumak için web sitesinin verilerimi satmamasını veya paylaşmamasını zorunlu kıl (deneysel)</string>
-    <string name="email_me">Bana Email</string>
+    <string name="email_me">Bana email gönder</string>
     <string name="scan_qr_code">QR kodunu tarayın</string>
     <string name="scan_qr_code_from_image">Resimden QR kodunu tarayın</string>
     <string name="switch_flash">Flaş Aç/Kapat</string>
