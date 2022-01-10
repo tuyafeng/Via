@@ -15,13 +15,13 @@ Deneyin ve asla pişman olmayacaksınız :)
 
 [Google Play'den indirin](https://play.google.com/store/apps/details?id=mark.via.gp)
 
-[Global Sürümü İndirin](https://res.viayoo.com/v1/via-release.apk)
+[Global Versiyonu İndirin](https://res.viayoo.com/v1/via-release.apk)
 
 [Çince Versiyonu İndir](https://res.viayoo.com/v1/via-release-cn.apk)
 
 ### Yerelleştirme ile ilgili yardım
 
-Herkesi yerelleştirme konusunda yardım etmeye davet ediyoruz. Aşağıdaki nasıl yapılır.
+Herkesi yerelleştirme konusunda yardım etmeye davet ediyoruz. Aşağıdaki adımları takip edin.
 
 1. Bu depoyu forkla
 2. "app/src/main/res/values/strings.xml" dosyasını "app/src/main/res/values-%(lang)/" gibi bir yola kopyalayın, "%(lang)" yerine [*ISO 639-1 dil kodu*](http://www.loc.gov/standards/iso639-2/php/code_list.php)
@@ -38,7 +38,7 @@ Via, Android platformunda bulunan yerleşik WebView oluşturucuyu kullanır. And
 
 Siteyi açın, adres çubuğunun sol tarafındaki büyüteç veya kalkan simgesine tıklayın ve ardından ayrı olarak yapılandırabilirsiniz.
 
-Veya yapılandırmayı manuel olarak eklemek için "Ayarlar-Genel-Site Yapılandırması"nı açın.
+Veya yapılandırmayı manuel olarak eklemek için "Ayarlar - Genel - Site Yapılandırması"nı açın.
 
 **Belirli bir sitedeki reklamları engellemek istemiyorum.**
 
@@ -60,4 +60,4 @@ Ne yazık ki, Google bu özelliği WebView'dan kaldırdı. Cihazınızın Androi
 
 Ayrıca GitHub'da [bir issue açabilirsiniz](https://github.com/tuyafeng/Via/issues/new) ve sorunları haftada bir kez kontrol edip yanıtlayacağım.
 
-Gerekirse bana [buradan](mailto:yafengtu@gmail.com) e-posta gönderebilirsiniz, ancak üzgünüm yanıt veremeyebilirim.
+Gerekirse bana [buradan](mailto:yafengtu@gmail.com) e-mail gönderebilirsiniz, ancak üzgünüm yanıt veremeyebilirim.
