@@ -365,7 +365,7 @@
     <string name="filter_subscription_info">%1$s, %2$s</string>
     <string name="enable_built_in_filters">Yerleşik filtreleri etkinleştir</string>
     <string name="enable_built_in_filters_description">Yerleşik filtreler yalnızca yaygın reklamları engeller</string>
-    <string name="update">Update</string>
+    <string name="update">Güncelle</string>
     <string name="bookmarks_exported_successfully">Yer işaretleri başarıyla dışa aktarıldı</string>
     <string name="data_exported_successfully">Veriler başarıyla dışa aktarıldı</string>
     <string name="privacy_policy">Gizlilik Politikası</string>
@@ -413,7 +413,7 @@
     <string name="select_folder">Dosya Seç</string>
     <string name="move">Taşı</string>
     <string name="bookmarks_history">Yer işaretleri/Geçmiş</string>
-    <string name="done">Tamamlandı</string>
+    <string name="done">Bitti</string>
     <string name="root_folder">Ana klasör</string>
     <string name="delete_item_message">%1$s silmek istediğinizden emin misiniz?</string>
     <string name="item_has_been_deleted">\"%1$s\" silindi</string>
@@ -475,22 +475,22 @@
     <string name="certificate_info">Sertifika bilgisi</string>
     <!-- The b tag means bold, And the br tag means line break.  -->
     <string name="certificate_detail"><![CDATA[
-        <b>ISSUED TO</b><br />
-        <b>Common Name (CN)</b><br />
+        <b>ADINA YAYINLANAN</b><br />
+        <b>Yaygın İsim (CN)</b><br />
         %1$s
-        <br /><b>Organization (O)</b><br />
+        <br /><b>Organizasyon (O)</b><br />
         %2$s
-        <br /><b>Organizational Unit (OU)</b><br />
+        <br /><b>Organizasyon Birimi (OU)</b><br />
         %3$s
-        <br /><br /><b>ISSUED BY</b><br />
-        <b>Common Name (CN)</b><br />
+        <br /><br /><b>VEREN KURULUŞ</b><br />
+        <b>Yaygın İsim (CN)</b><br />
         %4$s
-        <br /><b>Organization (O)</b><br />
+        <br /><b>Organizasyon (O)</b><br />
         %5$s
-        <br /><br /><b>VALIDITY PERIOD</b><br />
-        <b>Issued On</b><br />
+        <br /><br /><b>GEÇERLİLİK SÜRESİ</b><br />
+        <b>Yayınlanma</b><br />
         %6$s
-        <br /><b>Expires On</b><br />
+        <br /><b>Bitiş</b><br />
         %7$s
         <br />
     ]]></string>
