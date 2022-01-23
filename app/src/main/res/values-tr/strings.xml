@@ -237,7 +237,7 @@
     <string name="set_it_as_homepage">Anasayfa olarak ayarla?</string>
     <string name="missing_webview">Android System WebView yüklenmedi. Şimdi yüklemek ister misiniz?</string>
     <string name="install">Yükle</string>
-    <string name="crash_hint">Hata için çok çok üzgünüz.</string>
+    <string name="crash_hint">Hata için çok üzgünüz.</string>
     <string name="glean">Derle</string>
     <string name="contact_us">Bize ulaşın</string>
     <string name="official_website">Resmi site</string>
@@ -345,8 +345,8 @@
     <string name="has_not_been_updated">güncellenmedi</string>
     <string name="just_now">şu anda</string>
     <string name="url_is_invalid">Bağlantı geçersiz</string>
-    <string name="simple_guide_of_writing_rule">Via, hemen hemen tüm Adblock Plus filtrelerini destekler.
-         \nornek.com'dan gelen istekleri aşağıdaki gibi bir filtreyle engelleyebilirsiniz:
+    <string name="simple_guide_of_writing_rule">Via, hemen tüm Adblock Plus filtrelerini destekler.
+         \nornek.com\'dan gelen istekleri aşağıdaki gibi bir filtreyle engelleyebilirsiniz:
          \n||ornek.com^ (veya basitçe: ornek.com)
          \n\nJoker karakter aşağıdakiler gibi kabul edilebilir:
          \n||ornek.com/js/ads_*.js
@@ -371,7 +371,7 @@
     <string name="privacy_policy">Gizlilik Politikası</string>
     <string name="terms_of_use">Kullanım Şartları</string>
     <string name="welcome">Merhaba</string>
-    <string name="agreement_message">Via'ya hoş geldiniz. Via'yı kullanmadan önce lütfen aşağıdaki sözleşmeyi dikkatlice okuyunuz. Hizmetimizi kullanmaya başlamadan önce tüm hüküm ve koşulları kabul etmeniz ve kabul etmeniz gerekir.</string>
+    <string name="agreement_message">Via\'ya hoş geldiniz. Via\'yı kullanmadan önce lütfen aşağıdaki sözleşmeyi dikkatlice okuyunuz. Hizmetimizi kullanmaya başlamadan önce tüm hüküm ve koşulları kabul etmeniz ve kabul etmeniz gerekir.</string>
     <string name="agreement_message_short">Hizmetimizi kullanmaya başlamadan önce tüm şartları kabul etmeniz ve kabul etmeniz gerekir.</string>
     <string name="agree_and_continue">Kabul et</string>
     <string name="disagree">Reddet</string>
@@ -393,8 +393,8 @@
     <string name="debugging_info">Hata ayıklama bilgisi</string>
     <string name="join_qq_group">QQ grubuna katıl</string>
     <string name="join_telegram_group">Telegram grubuna katıl</string>
-    <string name="follow_me_on_twitter">Twitter'da beni takip et</string>
-    <string name="follow_me_on_weibo">Weibo'da beni takip et</string>
+    <string name="follow_me_on_twitter">Twitter\'da beni takip et</string>
+    <string name="follow_me_on_weibo">Weibo\'da beni takip et</string>
     <string name="version">Versiyon</string>
     <string name="paste_and_go">Yapıştır &amp; Git</string>
     <string name="night_filter_for_web_contents">Web içerikleri için gece filtresi</string>
