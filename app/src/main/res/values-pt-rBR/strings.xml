@@ -173,7 +173,7 @@
     <string name="data_form_data">Dados do formulário</string>
     <string name="data_history">Histórico</string>
     <string name="data_storage">Armazenamento da web</string>
-    <string name="data_cookies">Cookies</string>
+    <string name="data_cookies">Cookies (status de login)</string>
     <string name="data_cleared">Dados limpos</string>
 
     <string name="sync_desc">Uma conta será criada se ela não existir.</string>
@@ -496,5 +496,17 @@
     <string name="do_not_sell_or_share">Não venda ou compartilhe dados</string>
     <string name="do_not_sell_or_share_description">Exigir que o site não venda ou compartilhe meus dados para proteger a privacidade (experimental)</string>
     <string name="email_me">Me envie um e-mail</string>
+    <string name="scan_qr_code">Ler QR code</string>
+    <string name="scan_qr_code_from_image">Ler QR code da imagem</string>
+    <string name="switch_flash">Mudar de flash</string>
+    <string name="qr_code_scan_result">Resultado da verificação do QR code</string>
+    <string name="qr_code_not_detected">QR code não detectado</string>
+    <string name="save_qr_code_successfully">O QR code foi salvo na galeria</string>
+    <string name="description_with_number">%1$s (%2$d)</string>
+    <string name="last_hour">Última hora</string>
+    <string name="today_and_yesterday">Hoje e ontem</string>
+    <string name="last_seven_days">Últimos 7 dias</string>
+    <string name="all_time">Todo o tempo</string>
+    <string name="delete_history_from">Excluir histórico de</string>
 
 </resources>
