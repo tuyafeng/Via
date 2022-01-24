@@ -508,5 +508,16 @@
     <string name="last_seven_days">Últimos 7 dias</string>
     <string name="all_time">Todo o tempo</string>
     <string name="delete_history_from">Excluir histórico de</string>
+    <string name="save_as_pdf">Save as PDF</string>
+    <string name="export">Exportar</string>
+    <string name="export_successfully">Exportado com sucesso</string>
+    <string name="stop_loading_description">Via impediu o carregamento da seguinte página:</string>
+    <string name="stop_loading_reason">Por causa do seguinte filtro:</string>
+    <string name="continue_loading">Continua carregamento</string>
+    <string name="allow_webpage_access_to_clipboard">Permitir o acesso da página da Web à área de transferência</string>
+    <string name="ask_to_allow_webpage_to_copy_text">Tem certeza de que deseja copiar o texto de %DOMAIN%?</string>
+    <string name="ask_to_allow_webpage_to_paste_text">Tem certeza de que deseja colar o texto em %DOMAIN%?</string>
+    <string name="option_allow">Permitir</string>
+    <string name="option_deny">Negar</string>
 
 </resources>
