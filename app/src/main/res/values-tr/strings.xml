@@ -1,17 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources tools:ignore="MissingTranslation" xmlns:tools="http://schemas.android.com/tools">
+
     <string name="app_name">Via</string>
     <string name="action_new_tab">Yeni Sekme</string>
     <string name="action_open_in_new">Yeni Sekmede Aç</string>
     <string name="action_save_img">Resmi Kaydet</string>
     <string name="action_share">Paylaş</string>
     <string name="action_history">Geçmiş</string>
-    <string name="action_bookmarks">Yer işaretleri</string>
-    <string name="bookmarks_file">Yer İşaretlerini Dışa Aktar</string>
+    <string name="action_bookmarks">Yer İşaretleri</string>
+    <string name="bookmarks_file">Bookmarks export</string>
     <string name="action_add_bookmark">Yer İşareti Ekle</string>
     <string name="action_night">Gece Modu</string>
     <string name="action_copy">Bağlantıyı Kopyala</string>
+    <string name="action_block_domain">Alan adını engelle</string>
+    <string name="action_unblock_domain">Alan adı engelini kaldır</string>
+    <string name="action_unblock_url">Bağlantı engelini kaldır</string>
+    <string name="action_block_url">Bağlantıyı engelle</string>
     <string name="action_copy_text">Metni Kopyala</string>
+    <string name="action_copy_link_text">Bağlantı metnini kopyala</string>
     <string name="action_tools">Araçlar</string>
     <string name="settings">Ayarlar</string>
     <string name="location">Konum Erişimi</string>
@@ -19,13 +25,13 @@
     <string name="donate">Bağış Yap</string>
     <string name="donate_details">Via tarayıcıyı beğendiyseniz bağışlarınızla bize destek olabilirsiniz.\nAlipay: 2376688759@qq.com\nPayPal: wiar1824@gmail.com</string>
     <string name="orientation">Ekran Yönü</string>
-    <string name="follow_system">Varsayılan</string>
+    <string name="follow_system">Sistem</string>
     <string name="orientation_auto">Otomatik</string>
     <string name="orientation_portrait">Dikey</string>
     <string name="orientation_landscape">Yatay</string>
     <string name="agent">Kullanıcı Aracısı</string>
     <string name="home">Anasayfa</string>
-    <string name="fullscreen">Başlık Çubuğunu Gizle</string>
+    <string name="fullscreen">Araç Çubuğunu Gizle</string>
     <string name="java">JavaScript\'i Etkinleştir</string>
     <string name="download">İndirme Konumu</string>
     <string name="size">Metin Boyutu</string>
@@ -49,16 +55,16 @@
     <string name="size_small">Küçük</string>
     <string name="size_smallest">Çok Küçük</string>
     <string name="hint_title">Başlık</string>
-    <string name="hint_url">URL</string>
+    <string name="hint_url">Bağlantı</string>
     <string name="hint_folder">Klasör</string>
     <string name="title_edit_bookmark">Düzenle</string>
     <string name="action_edit">Düzenle</string>
     <string name="action_incognito">Gizli Mod</string>
     <string name="action_find">Sayfada Bul</string>
     <string name="download_pending">İndirme Başlıyor \u2026</string>
-    <string name="cannot_download">Sadece \"http\" veya \"https\" URL leri indirebilirsiniz.</string>
+    <string name="cannot_download">Sadece \"http\" veya \"https\" bağlantılarından indirebilirsiniz.</string>
     <string name="bookmarks_imported">%1$d yer işaretleri içe aktarıldı.</string>
-    <string name="custom_url">Özel URL</string>
+    <string name="custom_url">Özel Bağlantı</string>
     <string name="baidu_url">Baidu</string>
     <string name="shenma_url">ShenMa</string>
     <string name="bing_url">Bing</string>
@@ -71,6 +77,11 @@
     <string name="sougou_url">Sougou</string>
     <string name="block_ads">Reklamları Engelle</string>
     <string name="message_untrusted_certificate">Sitenin sertifikası güvenli değil. Devam etmek istiyor musunuz?</string>
+    <string name="message_date_invalid_certificate">Sitenin sertifika tarihi geçersiz. Devam etmek istiyor musunuz?</string>
+    <string name="message_expired_certificate">Sitenin sertifikasının süresi doldu. Devam etmek istiyor musunuz?</string>
+    <string name="message_hostname_mismatch_certificate">Sitenin sertifikası ana bilgisayar adıyla eşleşmiyor. Devam etmek istiyor musunuz?</string>
+    <string name="message_invalid_certificate">Sitenin sertifikası geçersiz. Devam etmek istiyor musunuz?</string>
+    <string name="message_not_yet_valid_certificate">Sitenin sertifikası henüz geçerli değil. Devam etmek istiyor musunuz?</string>
     <string name="title_form_resubmission">Formu tekrar gönder</string>
     <string name="message_form_resubmission">Verileri tekrar göndermek istiyor musunuz?</string>
     <string name="message_location">\nKonum bilginizi kullanmak ister misiniz?</string>
@@ -80,7 +91,7 @@
     <string name="hint_username">Kullanıcı Adı</string>
     <string name="hint_password">Şifre</string>
     <string name="untitled">Adsız</string>
-    <string name="image_auto">Resimleri Wi-Fi üzerinde göster</string>
+    <string name="image_auto">Sadece Wi-Fi</string>
     <string name="image_off">Resimleri Gizle</string>
     <string name="image_on">Resimleri Göster</string>
     <string name="title_file_chooser">Dosya Seç</string>
@@ -92,9 +103,9 @@
     <string name="dialog_message">Mesaj</string>
     <string name="wait_a_moment">Lütfen bekleyin&#8230;</string>
     <string name="toast_operation_failed">İşlem başarısız.</string>
-    <string name="toast_operation_done">İşlem tamam.</string>
+    <string name="toast_operation_done">İşlem tamamlandı.</string>
     <string name="volume">Kaydırmak için ses düğmelerini kullan</string>
-    <string name="msg_intent">Uygulamanızın açılmasını ister misiniz?</string>
+    <string name="msg_intent">Web sitesinin uygulamanızı açmasına izin verilsin mi?</string>
     <string name="setting_default">Varsayılan tarayıcı olarak ayarla</string>
     <string name="toast_clear_defaults">Lütfen varsayılanları temizleyin</string>
     <string name="toast_copy_url_successful">Bağlantı başarıyla kopyalandı</string>
@@ -105,8 +116,8 @@
     <string name="operation_reload">Yeniden Yükle</string>
     <string name="operation_top">Başa Kaydır</string>
     <string name="operation_bottom">Sona Kaydır</string>
-    <string name="operation_input">httpUrl Girin</string>
-    <string name="operation_openbookmark">Yer işaretini Aç</string>
+    <string name="operation_input">Bağlantı Girin</string>
+    <string name="operation_openbookmark">Yer İşaretini Aç</string>
     <string name="operation_openhistory">Geçmişi Aç</string>
     <string name="operation_closetab">Sekmeyi Kapat</string>
     <string name="operation_lasttab">Son Sekme</string>
@@ -117,13 +128,13 @@
     <string name="settings_privacy">Gizlilik</string>
     <string name="settings_advanced">Gelişmiş</string>
     <string name="settings_about">Hakkında</string>
-    <string name="url_box">Url kutusu içeriği</string>
-    <string name="url_box_domain">Etki Alanı</string>
-    <string name="action_pcview">Masaüstü site</string>
+    <string name="url_box">Bağlantı kutusu içeriği</string>
+    <string name="url_box_domain">Alan Adı</string>
+    <string name="action_pcview">Masaüstü Sitesi</string>
     <string name="action_source">Kaynağı Görüntüle</string>
-    <string name="action_translate">Sayfa Çevirisi</string>
-    <string name="title_edit_folder">Klasörü Düzenle</string>
-    <string name="msg_delete_folder">Klasörü Sil</string>
+    <string name="action_translate">Çeviri</string>
+    <string name="title_edit_folder">Klasörü düzenle</string>
+    <string name="msg_delete_folder">Bu klasörü silmek istiyor musunuz?</string>
     <string name="desc_suggestion">Öneri</string>
     <string name="desc_home">Anasayfa</string>
     <string name="desc_tab">Sekme</string>
@@ -132,24 +143,24 @@
     <string name="action_mark">Reklam olarak işaretle</string>
     <string name="dialog_confirm_mark">Reklam olarak işaretlemek istiyor musunuz?</string>
     <string name="do_not_track">Takip etme</string>
-    <string name="add_rule">Kural Ekle</string>
+    <string name="add_rule">Filtre ekle</string>
     <string name="color_mode">Renkli Mod</string>
     <string name="dialog_sure">Bunu yapmak istediğinizden emin misiniz?</string>
     <string name="action_send_to_launcher">Ana ekrana gönder</string>
     <string name="settings_cloud">Hesap</string>
     <string name="user">Giriş yap/Kayıt ol</string>
     <string name="user_syns">Senkronizasyon</string>
-    <string name="user_update">Yükle</string>
-    <string name="wrong_psw">Yanlış Şifre.</string>
+    <string name="user_update">Yedekle</string>
+    <string name="wrong_psw">Yanlış şifre.</string>
     <string name="sign_up_success">Kayıt başarılı.</string>
     <string name="code_500">Hizmet dışı.</string>
-    <string name="syns_success">Senkronizasyon Tamamlandı</string>
-    <string name="upload_success">Yükleme Tamamlandı</string>
-    <string name="log_out">Çıkış yap?</string>
-    <string name="crash_info">Bir şeyler ters gitti :( </string>
+    <string name="syns_success">Senkronizasyon tamamlandı</string>
+    <string name="upload_success">Yedekleme tamamlandı</string>
+    <string name="log_out">Çıkış yapılsın mı?</string>
+    <string name="crash_info">Bir şeyler ters gitti :(</string>
     <string name="crash_restart">Yeniden Başlat</string>
     <string name="crash_close">Uygulamayı Kapat</string>
-    <string name="upload_completed">Yükleme tamamlandı :)</string>
+    <string name="upload_completed">Yedekleme tamamlandı :)</string>
     <string name="ui_mode">Arayüz Modu</string>
     <string name="addon_download">İndirme Yöneticisi</string>
     <string name="quick_back">Yeniden yüklemeden geri dön</string>
@@ -176,14 +187,14 @@
     <string name="action_view_image">Resmi Görüntüle</string>
 
     <string name="skin_colorful">Renkli</string>
-    <string name="skin_fruity">Meyve</string>
+    <string name="skin_fruity">Tatlı</string>
     <string name="skin_transparent">Şeffaf</string>
 
     <string name="block_popup">Popup engelle</string>
 
     <string name="action_save_web_page">Sayfayı Kaydet</string>
     <string name="action_saved_pages">Kaydedilmiş Sayfalar</string>
-    <string name="saved_page_successfully">Başarıyla kaydedildi, anasayfa menüde Kaydedilmiş Sayfalar altında bulabilirsiniz</string>
+    <string name="saved_page_successfully">Web sayfası şuraya kaydedildi: Yer İşaretleri > Kaydedilmiş Sayfalar</string>
     <string name="deleted_failed">Silme başarısız. Dosya indirme yolu: </string>
 
     <string name="empty_hint">Gösterilecek bir şey yok&#8230;</string>
@@ -194,27 +205,27 @@
 
     <string name="already_default">Zaten varsayılan olarak ayarlandı</string>
 
-    <string name="set_to_default">Bağlantıyı (%1$s) açtıktan sonra varsayılan olarak ayarlanacaktır, lütfen bağlantıyı açmak için Via yı seçin.</string>
+    <string name="set_to_default">Bağlantıyı (%1$s) açtıktan sonra varsayılan olarak ayarlanacaktır. Bağlantıyı açmak için lütfen Via\'yı seçin.</string>
 
     <string name="sync_prompt">Yerel ayarlarınız ve yer işaretleriniz kaybolacak. Devam etmek istiyor musunuz?</string>
     <string name="upload_prompt">Yerel ayarlarınız ve yer işaretleriniz yedeklenecek. Devam etmek istiyor musunuz?</string>
     <string name="none">Hiçbiri</string>
     <string name="check_permission">Erişim engellendi. Şimdi ayarlamak ister misiniz?</string>
     <string name="need_permission_hint">Via şu izinlere ihtiyaç duyuyor.\n\n</string>
-    <string name="storage_permission">Depolama: Dosya indirme ve yer işaretleri içe/dışa aktarma.\n\n</string>
+    <string name="storage_permission">Depolama: Dosya indirme ve yer işaretleri içe/dışa aktarma vb. için\n\n</string>
     <string name="location_permission">Konum: Google Haritalar gibi konum bilginizi kullanmak isteyen siteler için açılır pencere ile konum bilginizi kullanma bilgisi gösterilir. Varsayılan olarak devre dışıdır.\n\n</string>
-    <string name="force_cancel">İptal etmeye zorla</string>
-    <string name="restore_tabs_hint">Açık sekmeler geri yüklensin mi?</string>
+    <string name="force_cancel">Kapatmaya zorla</string>
+    <string name="restore_tabs_hint">Son oturumdan kapatılmamış sekmeleri geri yüklemek ister misiniz?</string>
     <string name="restore_tabs">Başlangıçta sekmeleri geri yükle</string>
-    <string name="install_success">Kurulum Başarılı!!!</string>
-    <string name="uninstall_success">Kaldırma Başarılı!!!</string>
-    <string name="log_page_hint">Bağlantıyı veya etki alanını kopyalayıp, özel blok ile blok yüklemek için %1$s e yapıştırabilirsiniz.</string>
+    <string name="install_success">Kurulum Başarılı!</string>
+    <string name="uninstall_success">Kaldırma Başarılı!</string>
+    <string name="log_page_hint">Engellenenler listesi %1$s içinde.\nListeyi düzenleyebilir veya engellemeyi etkinleştirmek/devre dışı bırakmak için aşağıdaki öğeye uzun basabilirsiniz.</string>
     <string name="fullscreen_1">Kaydırıldığında Göster/Gizle</string>
     <string name="fullscreen_2">Tıklandığında Göster/Gizle</string>
     <string name="settings_script">Script</string>
     <string name="get_more_script">Daha fazla Script</string>
     <string name="add_script">Script ekle</string>
-    <string name="script_url">Etki alanı veya * (tümü için * kullanın)</string>
+    <string name="script_url">Alan adı veya * (tümü için * kullanın)</string>
     <string name="script_code">Kod (Javascript)</string>
     <string name="help_us_translate">Çeviriye yardımcı olun</string>
     <string name="confirm_to_leave">Ayrılmak için onayla</string>
@@ -226,7 +237,7 @@
     <string name="set_it_as_homepage">Anasayfa olarak ayarla?</string>
     <string name="missing_webview">Android System WebView yüklenmedi. Şimdi yüklemek ister misiniz?</string>
     <string name="install">Yükle</string>
-    <string name="crash_hint">Hata için çok çok üzgünüz.</string>
+    <string name="crash_hint">Hata için çok üzgünüz.</string>
     <string name="glean">Derle</string>
     <string name="contact_us">Bize ulaşın</string>
     <string name="official_website">Resmi site</string>
@@ -235,38 +246,270 @@
     <string name="find_next">Sonraki</string>
     <string name="find_pre">Önceki</string>
     <string name="action_open_in_background">Arka planda aç</string>
-    <string name="cannot_work">Sadece \"http\" veya \"https\" URL lerde çalışır.</string>
-    <string name="action_fullscreen">Tam ekran</string>
+    <string name="cannot_work">Sadece \"http\" veya \"https\" bağlantılarıyla çalışır.</string>
+    <string name="action_fullscreen">Tam Ekran</string>
     <string name="settings_general">Genel</string>
-    <string name="no_bookmark">Yer işareti yok~</string>
-    <string name="import_or_export_bookmarks">Yer işareti İçe/Dışa aktar</string>
-    <string name="export_bookmarks">Yer işareti dışa aktar</string>
+    <string name="no_bookmark">Yer işareti yok</string>
+    <string name="import_or_export_bookmarks">Yer işaretlerini İçe/Dışa aktar</string>
+    <string name="export_bookmarks">Yer işaretlerini dışa aktar</string>
     <string name="pull_to_refresh_gesture">Yenilemek için aşağı çekin</string>
     <string name="back_forward_gesture">İleri Geri Parmak Hareketleri</string>
-    <string name="toolbar_settings_hint">Basılı tutma (kaydırma) görevleri için aşağıdaki butonlara dokunun (kaydırın). Ayarlanan değeri görmek için basılı tutun.</string>
+    <string name="toolbar_settings_hint">Uzun basma eylemini ayarlamak için butonlara basın veya hangi eylemin ayarlandığını kontrol etmek için uzun basın. Kaydırma eylemini ayarlamak için alttaki araç çubuğunu sağ/sol\'a kaydırın.</string>
     <string name="action_modify">Değiştir</string>
-    <string name="operation_hint">Parmak hareketleri, İşlev alışkanlıkları, vb</string>
+    <string name="operation_hint">Parmak hareketleri, kısayollar, fonksiyon tuşları</string>
     <string name="adblock_info">%1$d reklam engellendi, %2$s tasarruf edildi</string>
     <string name="disable">Devre dışı</string>
     <string name="ui_traditional">Geleneksel</string>
-    <string name="color_mode_hint">Renkli başlık çubuğu</string>
-    <string name="skin_hide_search_part">Arama Kutusunu Gizle</string>
+    <string name="color_mode_hint">Renkli araç çubuğu</string>
+    <string name="skin_hide_search_part">Arama kutusunu gizle</string>
     <string name="file_size">Dosya boyutu: %1$s</string>
-    <string name="search_by_pic">Resim ile Arama</string>
+    <string name="search_by_pic">Resim ile arama</string>
     <string name="resource_sniffer">Kaynak Algılayıcı</string>
     <string name="res_log_hint">Görüntülemek için öğeyi tıklayın, indirmek veya başka bir şey için basılı tutun.</string>
     <string name="no_resource">Sayfada hiç kaynak yok.</string>
     <string name="no_network_log">Sayfada hiç ağ günlüğü yok.</string>
-    <string name="resource_sniffer_hint">\nNot: Müzik veya video oynatılırken daha kolaydır.</string>
+    <string name="resource_sniffer_hint">\nNot: Müzik veya video oynatılırken medya dosyalarını algılamak daha kolaydır. Kaynak dinleyicisi bazı web sitelerinde çalışmayabilir.</string>
     <string name="action_download">İndir</string>
     <string name="empty_username_info">Lütfen kullanıcı adınızı girin.</string>
     <string name="empty_password_info">Lütfen şifrenizi girin.</string>
     <string name="offline_page_hint">Aşağıdakiler Kaydedilmiş Sayfalardır. Ağ bağlantısı olsun veya olmasın okunabilirler.</string>
-    <string name="history_page_hint_when_incognito">Gizli moda geçtiniz. Geçmiş kaydedilmeyecek.</string>
+    <string name="history_page_hint_when_incognito">\"Gizli mod\"da olduğunuzda geçmiş kaydedilmez.</string>
     <string name="action_preview">Önizleme</string>
     <string name="action_page_info">Sayfa Bilgisi</string>
     <string name="page_info_title">Başlık:</string>
-    <string name="page_info_url">Sayfa URL si:</string>
-    <string name="page_info_link">Bağlantı URL si:</string>
+    <string name="page_info_url">Sayfa bağlantısı:</string>
+    <string name="page_info_link">Bağlantı adresi:</string>
     <string name="no_network">Ağ bağlantısı mevcut değil</string>
+    <string name="title_app_chooser">Uygulama seçici</string>
+    <string name="clear_data_on_exit">Çıkışta verileri temizle</string>
+    <string name="action_add_to_homepage">Anasayfaya Ekle</string>
+    <string name="added_favorite_hint">Anasayfaya eklendi</string>
+    <string name="title_edit_favorite">Favorileri Düzenle</string>
+    <string name="custom_css_special">Özel CSS ekle</string>
+    <string name="force_enable_zoom">Zorla yakınlaştırmayı etkinleştir</string>
+    <string name="set_ua_as">Kullanıcı aracısı şu şekilde ayarlandı: %1$s</string>
+    <string name="import_data">Verileri içe aktar</string>
+    <string name="import_data_failed">Verileri içe aktarma başarısız :(</string>
+    <string name="import_data_succeed">Verileri içe aktarma başarılı.</string>
+    <string name="export_data">Verileri dışa aktar</string>
+    <string name="export_data_to">Verileri şuraya aktar: %1$s</string>
+    <string name="always_restore">Her zaman geri yükle</string>
+    <string name="ask_first">Önce sor</string>
+    <string name="disable_restore">Geri yükleme</string>
+    <string name="data_file">Data export</string>
+    <string name="bookmarks_data_to_long">Yer işaretleri verileri yüklenemeyecek kadar büyük, ancak diğer veriler normal şekilde yüklenecek. Devam etmek istiyor musunuz?</string>
+    <string name="restore_tabs_hint_settings">\"Gizli mod\"dayken sekmeler geri yüklenmeyecek.</string>
+    <string name="ignore_secondary_ssl_error">Sonraki SSL hatasını yoksay</string>
+    <string name="web_page_debug">Web sayfası hata ayıklamasını etkinleştir</string>
+    <string name="web_page_debug_info">Artık telefonunuzu bilgisayara bağlayabilir, ardından \"chrome://inspect\" web sayfasında Chrome (PC) ile hata ayıklayabilirsiniz. Önce USB Hata Ayıklamayı etkinleştirmeyi unutmayın: Diğer Araçlar > Geliştirici Seçenekler.</string>
+    <string name="no_download_tasks">Hiçbir şey yok</string>
+    <string name="action_re_download">Yeniden indir</string>
+    <string name="action_copy_download_link">İndirme bağlantısını kopyala</string>
+    <string name="download_failed">İndirme başarısız</string>
+    <string name="view_downloads">Görüntüle</string>
+    <string name="message_delete_downloading_task">İndirme işlemi siliniyor. Emin misin?</string>
+    <string name="message_delete_downloaded_task">İndirilmiş işlem silinsin mi?</string>
+    <string name="message_delete_downloaded_file">Cihazdan da sil</string>
+    <string name="block_popup_message">Engellenen pop-up pencere</string>
+    <string name="allow_popup">Bir kez izin ver</string>
+    <string name="system_download_manager">Sistem indirme yöneticisi</string>
+    <string name="action_play_with">Şununla oynat&#8230;</string>
+    <string name="show_sniffer_btn_automatically">Kaynak algılayıcı düğmesini otomatik olarak göster</string>
+    <string name="open_file_failed">Dosyayı açmak için ilişkili uygulama bulunamadı</string>
+    <string name="cloud_data_server">Bulut veri sunucusu</string>
+    <string name="chinese_server">Çin</string>
+    <string name="global_server">Global</string>
+    <string name="server_message">Bu sunucuların verileri senkronize edilmez. Tekrar giriş yapmanız istenecektir.</string>
+    <string name="delete_bookmark_folder_message">%1$s klasöründeki yer işaretleri de silinecek. Emin misin?</string>
+    <string name="action_new">Yeni</string>
+    <string name="block_hint">Engellendi: %1$s\nEtkili olması için yenileyin.</string>
+    <string name="unblock_hint">Engelleme kaldırıldı: %1$s\nEtkili olması için yenileyin.</string>
+    <string name="block_3rd_party_cookies">Üçüncü taraf çerezlerini engelle</string>
+    <string name="enable_site_conf">%1$s için site yapılandırmasını etkinleştir</string>
+    <string name="site_conf">Site Yapılandırması</string>
+    <string name="ui_simple_top">Üstte</string>
+    <string name="ui_simple_bottom">Altta</string>
+    <string name="file_does_not_exist">Dosya yok</string>
+    <string name="dialog_message_from">Bildirim şuradan %1$s</string>
+    <string name="filter_subscriptions">Filtre Kaynakları</string>
+    <string name="filter_subscriptions_description">Adblock Plus filtre listelerini ekleyin</string>
+    <string name="filter_subscription_exist">Filtre zaten var.</string>
+    <string name="custom_filters">Özel filtreler</string>
+    <string name="custom_filters_description">Özel filtreler ve işaretli reklamlar dahil</string>
+    <string name="custom_filter">Özel filtre</string>
+    <string name="add_filter_subscription">Filtre kaynağı Ekle</string>
+    <string name="edit_filter_subscription">Filtre kaynağını düzenle</string>
+    <string name="updating_filter_subscriptions">Filtre kaynaklarını güncelle</string>
+    <string name="update_filter_subscriptions_completed">Filtre kaynakları güncellendi.</string>
+    <string name="update_filter_subscription_failed">Filtre kaynakları güncelleme başarısız.\n%1$s</string>
+    <string name="has_not_been_updated">güncellenmedi</string>
+    <string name="just_now">şu anda</string>
+    <string name="url_is_invalid">Bağlantı geçersiz</string>
+    <string name="simple_guide_of_writing_rule">Via, hemen tüm Adblock Plus filtrelerini destekler.
+         \nornek.com\'dan gelen istekleri aşağıdaki gibi bir filtreyle engelleyebilirsiniz:
+         \n||ornek.com^ (veya basitçe: ornek.com)
+         \n\nJoker karakter aşağıdakiler gibi kabul edilebilir:
+         \n||ornek.com/js/ads_*.js
+         \n\nWeb sayfası öğeleri için aşağıdaki gibi bir filtre kullanın:
+         \nornek.com###ad
+         \n\nAşağıdaki gibi bir filtreyle özel isteklerin engellemesini kaldırabilirsiniz:
+         \n@@||ornek.com^</string>
+    <string name="help">Yardım</string>
+    <string name="learn_more">Daha fazla bilgi edin</string>
+    <plurals name="filters">
+        <item quantity="zero">0 filtre</item>
+        <item quantity="one">1 filtre</item>
+        <item quantity="other">%d filtre</item>
+    </plurals>
+    <string name="updated_">%1$s güncellendi</string>
+    <string name="filter_subscription_info">%1$s, %2$s</string>
+    <string name="enable_built_in_filters">Yerleşik filtreleri etkinleştir</string>
+    <string name="enable_built_in_filters_description">Yerleşik filtreler yalnızca yaygın reklamları engeller</string>
+    <string name="update">Güncelle</string>
+    <string name="bookmarks_exported_successfully">Yer işaretleri başarıyla dışa aktarıldı</string>
+    <string name="data_exported_successfully">Veriler başarıyla dışa aktarıldı</string>
+    <string name="privacy_policy">Gizlilik Politikası</string>
+    <string name="terms_of_use">Kullanım Şartları</string>
+    <string name="welcome">Merhaba</string>
+    <string name="agreement_message">Via\'ya hoş geldiniz. Via\'yı kullanmadan önce lütfen aşağıdaki sözleşmeyi dikkatlice okuyunuz. Hizmetimizi kullanmaya başlamadan önce tüm hüküm ve koşulları kabul etmeniz ve kabul etmeniz gerekir.</string>
+    <string name="agreement_message_short">Hizmetimizi kullanmaya başlamadan önce tüm şartları kabul etmeniz ve kabul etmeniz gerekir.</string>
+    <string name="agree_and_continue">Kabul et</string>
+    <string name="disagree">Reddet</string>
+    <string name="exit">Çıkış</string>
+    <string name="delete_account">Hesabı sil</string>
+    <string name="delete_account_request_submitted">Hesap silme talebi gönderildi.</string>
+    <string name="delete_account_hint">Hesabı sunucudan silin</string>
+    <string name="delete_account_message">Silme talebini gönderdikten sonra hesaptan çıkış yapılacak ve 15 günlük bir silme bekleme süresi girilecektir. Hesaba tekrar giriş yapar ve bekleme süresi boyunca veri yüklerseniz, silme talebiniz geri çekilir. Bekleme süresi sona erdikten sonra hesap ve ilgili veriler sunucudan tamamen silinecektir.\nTalebi göndermek için lütfen şifrenizi girin.</string>
+    <string name="confirm_to_delete">Silmek için onaylayın</string>
+    <string name="items_selected">%1d seçildi</string>
+    <string name="select_all">Hepsini seç</string>
+    <string name="multi_choice">Çoklu seçim</string>
+    <plurals name="delete_download_tasks">
+        <item quantity="zero">0 indirme işlemi silindi</item>
+        <item quantity="one">1 indirme işlemi silindi</item>
+        <item quantity="other">%d indirme işlemi silindi</item>
+    </plurals>
+    <string name="open_source_licenses">Açık kaynak lisansları</string>
+    <string name="debugging_info">Hata ayıklama bilgisi</string>
+    <string name="join_qq_group">QQ grubuna katıl</string>
+    <string name="join_telegram_group">Telegram grubuna katıl</string>
+    <string name="follow_me_on_twitter">Twitter\'da beni takip et</string>
+    <string name="follow_me_on_weibo">Weibo\'da beni takip et</string>
+    <string name="version">Versiyon</string>
+    <string name="paste_and_go">Yapıştır &amp; Git</string>
+    <string name="night_filter_for_web_contents">Web içerikleri için gece filtresi</string>
+    <string name="force_dark_mode_for_web_contents">Web içerikleri için karanlık moda zorla</string>
+    <string name="force_dark_mode_for_web_contents_description">Etkinleştirildiğinde, web sayfaları karanlık moda zorlanacak ve bu da bazı sayfaların anormal şekilde davranmasına neden olabilir.</string>
+    <string name="require_javascript_enabled">JavaScript etkinleştirilirse bu geçerli olacaktır.</string>
+    <string name="keyboard_shortcuts">Klavye kısayolları</string>
+    <string name="export_data_description">Yer işaretlerini, ayarları, komut dosyalarını ve reklam filtrelerini dışa aktarın</string>
+    <string name="language">Dil</string>
+    <string name="restart_to_take_effect">Bu, uygulamayı bir sonraki açışınızda etkili olacaktır. Hemen etkili olması için şimdi yeniden başlatmak ister misiniz?</string>
+    <string name="more">Daha</string>
+    <string name="sort_order">Sıralama düzeni</string>
+    <string name="sort_by_oldest_first">Önce en eski</string>
+    <string name="sort_by_newest_first">Önce en yeni</string>
+    <string name="sort_by_alphabetical_order">Alfabetik sıra</string>
+    <string name="select_folder">Dosya Seç</string>
+    <string name="move">Taşı</string>
+    <string name="bookmarks_history">Yer işaretleri/Geçmiş</string>
+    <string name="done">Bitti</string>
+    <string name="root_folder">Ana klasör</string>
+    <string name="delete_item_message">%1$s silmek istediğinizden emin misiniz?</string>
+    <string name="item_has_been_deleted">\"%1$s\" silindi</string>
+    <string name="undo">Geri al</string>
+    <string name="can_not_sort_list_when_sorting_alphabetically">Alfabetik olarak sıralarken liste sıralanamıyor</string>
+    <string name="opened_in_background_message">Arka planda yeni sekme açıldı</string>
+    <string name="bookmark_added">Yer işareti eklendi</string>
+    <string name="allow_website_to_open_app_message">Web sitesinin %1$s açmasına izin verilsin mi?</string>
+    <string name="width">Genişlik</string>
+    <string name="height">Yükseklik</string>
+    <string name="corner_radius">Köşe yarıçapı</string>
+    <string name="adaptive">Uyarlanabilir</string>
+    <string name="action_favorites">Favoriler</string>
+    <string name="skin_search_bar">Arama çubuğu</string>
+    <string name="stroke_width">Kenarlık genişliği</string>
+    <string name="stroke_opacity">Kenarlık opaklığı</string>
+    <string name="opacity">Opaklık</string>
+    <string name="disable_website_icons">Web sitesi simgelerini devre dışı bırak</string>
+    <string name="disable_icon_color">Simge rengini devre dışı bırak</string>
+    <string name="font_style">Yazı stili</string>
+    <string name="bold">Kalın</string>
+    <string name="italics">İtalik</string>
+    <string name="clear_website_icon_cache">Web sitesi simgesi önbelleğini temizle</string>
+    <string name="clear_website_icon_cache_message">Bunun ana sayfadaki tüm favori simgeleri temizleyeceğini unutmayın. Her simge, ilgili web sitesini bir sonraki ziyaretinizde indirilecektir.</string>
+    <string name="use_blur_instead_of_transparency">Şeffaflık yerine bulanıklık efekti kullanın</string>
+    <string name="desc_favorite_icon">Favori simgesi</string>
+    <string name="script_remarks">Açıklamalar</string>
+    <string name="action_save">Kaydet</string>
+    <string name="reset_to_default_settings">Varsayılan ayarlara sıfırla</string>
+    <string name="script_sites">Siteler (*.foo.com,bar.*/list gibi)</string>
+    <string name="simple_guide_of_writing_script">Yazılan script, web sitesi yüklendiğinde otomatik olarak çalışır.
+     \n\nSiteler(gerekli): Script yazılan site \"*\" joker karakterini destekler ve birden çok site \",\" ile ayrılır, örneğin: *.foo.com,bar.*/list.
+     \n\nAçıklamalar(isteğe bağlı): Ekranın başlığı olarak kullanılır.
+     \n\nKod(gerekli): Yerel JavaScript kullanılması önerilir. Ayrıca jquery veya vue kullanabilirsiniz. Web sitesi Js syntaxında bu frameworkleri kullanıyorsa.</string>
+    <string name="save_data">Veri kaydet</string>
+    <string name="save_data_description">Uyumlu web sitelerinde veri tasarrufu modunu etkinleştirin</string>
+    <string name="use_line_style_search_box">Arama kutusunda çizgi stili kullan</string>
+    <string name="toast_script_added">Script başarıyla eklendi</string>
+    <string name="action_manage_favorites">Favoriler Yönetici</string>
+    <string name="check_for_updates">Güncellemeleri kontrol et</string>
+    <string name="checking_for_updates">Güncellemeler kontrol ediliyor</string>
+    <string name="latest_version_already_installed">En son sürüm zaten yüklü</string>
+    <string name="new_version_available">Yeni sürüm mevcut</string>
+    <string name="action_download_file">İndir</string>
+    <string name="entered_full_screen_mode">Tam ekran moduna girildi</string>
+    <string name="delete_hint">Sil(%1$d)</string>
+    <string name="follow_system_dark_mode_on">Sistem karanlık modunu takip et etkin</string>
+    <string name="scoped_search">Arama %1$s</string>
+    <string name="add_shortcut">Kısayol ekle</string>
+    <string name="need_shortcut_permission">İzin reddedildi. Lütfen ayarlara gidin ve bu uygulama için \"Ana ekran kısayolları oluştur\" iznini açın.</string>
+    <string name="create_shortcut_successfully">%1$s için kısayol oluşturuldu</string>
+    <string name="update_shortcut_successfully">%1$s için kısayol güncellendi</string>
+    <string name="today">Bugün</string>
+    <string name="yesterday">Dün</string>
+    <!--  The date format pattern is difficult to remember, please refer to: https://docs.oracle.com/javase/7/docs/api/java/text/SimpleDateFormat.html  -->
+    <string name="same_year_date_format">EEE, MMM dd</string>
+    <string name="default_date_format">EEE, MMM dd, yyyy</string>
+    <string name="view_certificate">Sertifikayı görüntüle</string>
+    <string name="certificate_info">Sertifika bilgisi</string>
+    <!-- The b tag means bold, And the br tag means line break.  -->
+    <string name="certificate_detail"><![CDATA[
+        <b>ADINA YAYINLANAN</b><br />
+        <b>Yaygın İsim (CN)</b><br />
+        %1$s
+        <br /><b>Organizasyon (O)</b><br />
+        %2$s
+        <br /><b>Organizasyon Birimi (OU)</b><br />
+        %3$s
+        <br /><br /><b>VEREN KURULUŞ</b><br />
+        <b>Yaygın İsim (CN)</b><br />
+        %4$s
+        <br /><b>Organizasyon (O)</b><br />
+        %5$s
+        <br /><br /><b>GEÇERLİLİK SÜRESİ</b><br />
+        <b>Yayınlanma</b><br />
+        %6$s
+        <br /><b>Bitiş</b><br />
+        %7$s
+        <br />
+    ]]></string>
+    <string name="no_certificate">Web sitesinin sertifikası yoktur.</string>
+    <string name="site_conf_enabled">Site yapılandırması (Etkin)</string>
+    <string name="do_not_sell_or_share">Veri satmayın veya paylaşmayın</string>
+    <string name="do_not_sell_or_share_description">Gizliliği korumak için web sitesinin verilerimi satmamasını veya paylaşmamasını zorunlu kıl (deneysel)</string>
+    <string name="email_me">Bana email gönder</string>
+    <string name="scan_qr_code">QR kodunu tarayın</string>
+    <string name="scan_qr_code_from_image">Resimden QR kodunu tarayın</string>
+    <string name="switch_flash">Flaş Aç/Kapat</string>
+    <string name="qr_code_scan_result">QR kod tarama sonucu</string>
+    <string name="qr_code_not_detected">QR kodu algılanmadı</string>
+    <string name="save_qr_code_successfully">QR kodu galeriye kaydedildi</string>
+    <string name="description_with_number">%1$s (%2$d)</string>
+    <string name="last_hour">Son saat</string>
+    <string name="today_and_yesterday">Bugün ve dün</string>
+    <string name="last_seven_days">Son 7 gün</string>
+    <string name="all_time">Tüm zamanlar</string>
+    <string name="delete_history_from">Geçmişi şuradan sil</string>
+    
 </resources>

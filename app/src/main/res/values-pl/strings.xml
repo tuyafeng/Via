@@ -458,4 +458,55 @@
     <string name="latest_version_already_installed">Korzystasz z najnowszej wersji</string>
     <string name="new_version_available">Dostępna nowa wersja</string>
     <string name="action_download_file">Pobierz</string>
+    <string name="entered_full_screen_mode">Przejście do trybu pełnoekranowego</string>
+    <string name="delete_hint">Usuń(%1$d)</string>
+    <string name="follow_system_dark_mode_on">Ciemny motyw w systemie - tryb nocny tutaj</string>
+    <string name="scoped_search">Wyszukaj %1$s</string>
+    <string name="add_shortcut">Dodaj skrót</string>
+    <string name="need_shortcut_permission">Odmowa dostępu. Zezwól aplikacji na tworzenie skrótów na ekranie głównym.</string>
+    <string name="create_shortcut_successfully">Utworzono skrót dla %1$s</string>
+    <string name="update_shortcut_successfully">Zaktualizowano skrót dla %1$s</string>
+    <string name="today">Dzisiaj</string>
+    <string name="yesterday">Wczoraj</string>
+    <string name="same_year_date_format">EEEE, dd.MM</string>
+    <string name="default_date_format">EEEE, dd.MM.yyyy</string>
+    <string name="view_certificate">Pokaż certyfikat</string>
+    <string name="certificate_info">Informacje o certyfikacie</string>
+    <string name="certificate_detail"><![CDATA[
+        <b>WYSTAWIONY DLA</b><br />
+        <b>Domena (CN)</b><br />
+        %1$s
+        <br /><b>Organizacja (O)</b><br />
+        %2$s
+        <br /><b>Jednostka organizacyjna (OU)</b><br />
+        %3$s
+        <br /><br /><b>WYSTAWIONY PRZEZ</b><br />
+        <b>Nazwa podmiotu (CN)</b><br />
+        %4$s
+        <br /><b>Organizacja (O)</b><br />
+        %5$s
+        <br /><br /><b>OKRES WAŻNOŚCI</b><br />
+        <b>Wystawiony</b><br />
+        %6$s
+        <br /><b>Wygasa</b><br />
+        %7$s
+        <br />
+    ]]></string>
+    <string name="no_certificate">Ta strona nie posiada certyfikatu.</string>
+    <string name="site_conf_enabled">Konfiguracja strony (wł.)</string>
+    <string name="do_not_sell_or_share">Nie sprz. ani nie udost. danych</string>
+    <string name="do_not_sell_or_share_description">Wymagaj od stron, aby nie sprzedawały, ani nie udostępniały twoich danych w celu ochrony prywatności (opcja eksperymentalna).</string>
+    <string name="email_me">Napisz do mnie e-maila</string>
+    <string name="scan_qr_code">Zeskanuj kod QR</string>
+    <string name="scan_qr_code_from_image">Zeskanuj kod QR z obrazka</string>
+    <string name="switch_flash">Wł./wył. latarkę</string>
+    <string name="qr_code_scan_result">Wynik skanowania</string>
+    <string name="qr_code_not_detected">Nie wykryto kodu QR</string>
+    <string name="save_qr_code_successfully">Kod QR został zapisany w galerii</string>
+    <string name="description_with_number">%1$s (%2$d)</string>
+    <string name="last_hour">Ost. godzina</string>
+    <string name="today_and_yesterday">Ost. 2 dni</string>
+    <string name="last_seven_days">Ost. tydzień</string>
+    <string name="all_time">Wszystko</string>
+    <string name="delete_history_from">Usuń historię</string>
 </resources>

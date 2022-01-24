@@ -511,5 +511,16 @@
     <string name="last_seven_days">Last 7 days</string>
     <string name="all_time">All time</string>
     <string name="delete_history_from">Delete history from</string>
+    <string name="save_as_pdf">Save as PDF</string>
+    <string name="export">Export</string>
+    <string name="export_successfully">Export successfully</string>
+    <string name="stop_loading_description">Via has prevented the following page from loading:</string>
+    <string name="stop_loading_reason">Because of the following filter:</string>
+    <string name="continue_loading">Continue loading</string>
+    <string name="allow_webpage_access_to_clipboard">Allow webpage access to clipboard</string>
+    <string name="ask_to_allow_webpage_to_copy_text">Are you sure you want to copy text from %DOMAIN%?</string>
+    <string name="ask_to_allow_webpage_to_paste_text">Are you sure you want to paste text for %DOMAIN%?</string>
+    <string name="option_allow">Allow</string>
+    <string name="option_deny">Deny</string>
 
 </resources>
