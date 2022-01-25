@@ -470,7 +470,7 @@
     <string name="today">сегодня</string>
     <string name="yesterday">вчера</string>
     <!--  The date format pattern is difficult to remember, please refer to: https://docs.oracle.com/javase/7/docs/api/java/text/SimpleDateFormat.html  -->
-    <string name="same_year_date_format">EEE, d MMMMM</string>
+    <string name="same_year_date_format">E, d MMM</string>
     <string name="default_date_format">dd.MM.yyyy</string>
     <string name="view_certificate">Просмотр сертификата</string>
     <string name="certificate_info">Данные сертификата</string>
@@ -512,5 +512,15 @@
     <string name="last_seven_days">последние 7 дней</string>
     <string name="all_time">всё время</string>
     <string name="delete_history_from">Удалить историю за…</string>
-
+    <string name="save_as_pdf">Сохранить как PDF</string>
+    <string name="export">Экспорт</string>
+    <string name="export_successfully">Экспорт выполнен успешно</string>
+    <string name="stop_loading_description">Via запретил загрузку страницы:</string>
+    <string name="stop_loading_reason">Руководствуясь фильтром:</string>
+    <string name="continue_loading">Продолжить загрузку</string>
+    <string name="allow_webpage_access_to_clipboard">Разрешить сайту доступ к буферу обмена</string>
+    <string name="ask_to_allow_webpage_to_copy_text">Копировать текст с %DOMAIN%?</string>
+    <string name="ask_to_allow_webpage_to_paste_text">Вставлять текст на %DOMAIN%?</string>
+    <string name="option_allow">Разрешить</string>
+    <string name="option_deny">Запретить</string>
 </resources>
