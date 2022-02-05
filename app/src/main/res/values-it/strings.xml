@@ -24,12 +24,12 @@
     <string name="donate">Dona</string>
     <string name="donate_details">Se ti piace Via Browser puoi donare per supportarne lo sviluppo.\nAlipay: 2376688759@qq.com\nPayPal: wiar1824@gmail.com</string>
     <string name="orientation">Orientamento</string>
-    <string name="follow_system">Sistema</string>
+    <string name="follow_system">Uguale al sistema</string>
     <string name="orientation_auto">Automatico</string>
     <string name="orientation_portrait">Verticale</string>
     <string name="orientation_landscape">Orizzontale</string>
     <string name="agent">User agent</string>
-    <string name="home">Homepage</string>
+    <string name="home">Pagina iniziale</string>
     <string name="fullscreen">Nascondi automaticamente le barre</string>
     <string name="java">Abilita JavaScript</string>
     <string name="download">Cartella dei download</string>
@@ -46,7 +46,7 @@
     <string name="agent_custom">Personalizzato</string>
     <string name="dialog_download">Vuoi scaricare questo file?</string>
     <string name="title_warning">Attenzione</string>
-    <string name="title_custom_homepage">Homepage personalizzata</string>
+    <string name="title_custom_homepage">Pagina iniziale personalizzata</string>
     <string name="action_webpage">Pagina web</string>
     <string name="size_largest">Massima</string>
     <string name="size_large">Grande</string>
@@ -186,7 +186,7 @@
     <string name="block_popup">Blocca i pop-up</string>
     <string name="action_save_web_page">Salva pagina web</string>
     <string name="action_saved_pages">Pagine salvate</string>
-    <string name="saved_page_successfully">La pagina è stata salvata</string>
+    <string name="saved_page_successfully">La pagina è stata salvata in: Segnalibri > Pagine salvate</string>
     <string name="deleted_failed">Rimozione fallita. Il file si trova nella cartella:</string>
     <string name="empty_hint">Vuoto</string>
     <string name="network_log">Log richieste</string>
@@ -220,7 +220,7 @@
     <string name="skin_logo">Logo</string>
     <string name="skin_bg">Sfondo</string>
     <string name="skin_style">Stile</string>
-    <string name="set_it_as_homepage">Vuoi impostarlo come homepage?</string>
+    <string name="set_it_as_homepage">Vuoi impostarlo come pagina iniziale?</string>
     <string name="missing_webview">Android System WebView non è installato correttamente. Vuoi installarlo ora?</string>
     <string name="install">Installa</string>
     <string name="crash_hint">Ci scusiamo per l\'inconveniente.</string>
@@ -236,7 +236,7 @@
     <string name="action_fullscreen">Schermo intero</string>
     <string name="settings_general">Generale</string>
     <string name="no_bookmark">Nessun segnalibro</string>
-    <string name="import_or_export_bookmarks">Importa/Esporta segnalibri</string>
+    <string name="import_or_export_bookmarks">Importa/esporta segnalibri</string>
     <string name="export_bookmarks">Esporta segnalibri</string>
     <string name="pull_to_refresh_gesture">Trascina verso il basso per aggiornare</string>
     <string name="back_forward_gesture">Scorri per andare avanti/indietro</string>
@@ -259,7 +259,7 @@
     <string name="empty_username_info">Inserisci il tuo nome utente</string>
     <string name="empty_password_info">Inserisci la tua password</string>
     <string name="offline_page_hint">Queste sono le pagine salvate. Puoi aprirle anche quando sei offline.</string>
-    <string name="history_page_hint_when_incognito">Sei in modalità Incognito. La cronologia non verrà salvata.</string>
+    <string name="history_page_hint_when_incognito">La cronologia non verrà salvata quando sei in modalità Incognito.</string>
     <string name="action_preview">Anteprima</string>
     <string name="action_page_info">Informazioni sulla pagina</string>
     <string name="page_info_title">Titolo:</string>
@@ -268,10 +268,10 @@
     <string name="no_network">Connessione di rete non disponibile</string>
     <string name="title_app_chooser">Scegli un\'app</string>
     <string name="clear_data_on_exit">Cancella i dati all\'uscita</string>
-    <string name="action_add_to_homepage">Aggiungi alla homepage</string>
-    <string name="added_favorite_hint">Aggiunto alla homepage correttamente</string>
+    <string name="action_add_to_homepage">Aggiungi alla pagina iniziale</string>
+    <string name="added_favorite_hint">Aggiunto alla pagina iniziale correttamente</string>
     <string name="title_edit_favorite">Modifica scorciatoia</string>
-    <string name="custom_css_special">Aggiungi un CSS personalizzato</string>
+    <string name="custom_css_special">Aggiungi CSS personalizzato</string>
     <string name="force_enable_zoom">Attiva lo zoom forzato</string>
     <string name="set_ua_as">User agent selezionato: %1$s</string>
     <string name="import_data">Importa dati</string>
@@ -312,7 +312,7 @@
     <string name="unblock_hint">Sbloccato: %1$s\nRicarica la pagina affinché lo sblocco abbia effetto.</string>
     <string name="block_3rd_party_cookies">Blocca i cookie di terze parti</string>
     <string name="enable_site_conf">Abilita configurazione per il sito %1$s</string>
-    <string name="site_conf">Configurazioni dei siti</string>
+    <string name="site_conf">Configurazione dei siti</string>
     <string name="ui_simple_top">Barra in alto</string>
     <string name="ui_simple_bottom">Barra in basso</string>
     <string name="file_does_not_exist">Il file non esiste</string>
@@ -331,7 +331,7 @@
     <string name="has_not_been_updated">non aggiornata</string>
     <string name="just_now">ora</string>
     <string name="url_is_invalid">L\'URL non è valido.</string>
-    <string name="simple_guide_of_writing_rule">Via supporta quasi tutti i filtri di Adblock Plus.\nPuoi bloccare le richieste verso il dominio example.com con il seguente filtro:\n||example.com^ (o più semplicemente example.com)\n\nI caratteri wildcard sono accettati, come nel seguente esempio:\n||example.com/js/ads_*.js\n\nPuoi escludere delle specifiche richieste dal blocco con un filtro come questo:\n@@||example.com^\n\nPer bloccare degli elementi specifici nella pagina:\nexample.com###ad</string>
+    <string name="simple_guide_of_writing_rule">Via supporta quasi tutti i filtri di Adblock Plus.\nPuoi bloccare le richieste verso il dominio example.com con il seguente filtro:\n||example.com^ (o più semplicemente: example.com)\n\nI caratteri wildcard sono accettati, come nel seguente esempio:\n||example.com/js/ads_*.js\n\nPer bloccare degli elementi specifici nella pagina:\nexample.com###ad\n\nPuoi escludere delle specifiche richieste dal blocco con un filtro come questo:\n@@||example.com^</string>
     <string name="help">Aiuto</string>
     <string name="learn_more">Maggiori informazioni</string>
     <plurals name="filters">
@@ -350,13 +350,13 @@
     <string name="welcome">Benvenuto</string>
     <string name="agreement_message">Benvenuto in Via. Leggi attentamente i seguenti termini. Devi accettarli tutti prima di poter utilizzare il servizio.</string>
     <string name="agreement_message_short">Devi accettare tutti i termini prima di poter utilizzare il servizio.</string>
-    <string name="agree_and_continue">Accetta e continua</string>
+    <string name="agree_and_continue">Accetta</string>
     <string name="disagree">Rifiuta</string>
     <string name="exit">Esci</string>
     <string name="delete_account">Elimina account</string>
     <string name="delete_account_request_submitted">La richiesta di eliminazione dell\'account è stata inviata.</string>
     <string name="delete_account_hint">Elimina l\'account dal server</string>
-    <string name="delete_account_message">Una volta inviata la richiesta di eliminazione, l\'account verrà scollegato ed entrerà in un periodo di attesa di 15 giorni. Se durante questo periodo accederai all\'account e caricherai dei dati, la richiesta verrà annullata. Altrimenti, al termine dei 30 giorni l\'account e i relativi dati verranno completamente rimossi dal server.\nInserisci la tua password per inviare la richiesta.</string>
+    <string name="delete_account_message">Una volta inviata la richiesta di eliminazione, l\'account verrà scollegato ed entrerà in un periodo di attesa di 15 giorni. Se durante questo periodo accederai all\'account e caricherai dei dati, la richiesta verrà annullata. Altrimenti, al termine del periodo di attesa l\'account e i relativi dati verranno completamente rimossi dal server.\nInserisci la tua password per inviare la richiesta.</string>
     <string name="confirm_to_delete">Conferma eliminazione</string>
     <string name="items_selected">%1d selezionati</string>
     <string name="select_all">Seleziona tutti</string>
@@ -375,8 +375,8 @@
     <string name="paste_and_go">Incolla e vai</string>
     <string name="night_filter_for_web_contents">Filtro notturno per il contenuto della pagina</string>
     <string name="force_dark_mode_for_web_contents">Attiva il tema scuro per le pagine web</string>
-    <string name="force_dark_mode_for_web_contents_description">Se abilitata, costringe le pagine ad utilizzare il tema scuro. Alcune pagine potrebbero non funzionare correttamente</string>
-    <string name="require_javascript_enabled">Non avrà effetto se JavaScript non è abilitato.</string>
+    <string name="force_dark_mode_for_web_contents_description">Se abilitata, costringe le pagine ad utilizzare il tema scuro. Alcune pagine potrebbero non funzionare correttamente.</string>
+    <string name="require_javascript_enabled">Avrà effetto soltanto se JavaScript è abilitato.</string>
     <string name="keyboard_shortcuts">Scorciatoie da tastiera</string>
     <string name="export_data_description">Esporta segnalibri, impostazioni, script e filtri per gli annunci</string>
     <string name="language">Lingua</string>
@@ -398,4 +398,102 @@
     <string name="opened_in_background_message">Scheda aperta in background</string>
     <string name="bookmark_added">Segnalibro aggiunto</string>
     <string name="allow_website_to_open_app_message">Vuoi permettere al sito di aprire %1$s?</string>
+    <string name="width">Larghezza</string>
+    <string name="height">Altezza</string>
+    <string name="corner_radius">Arrotondamento degli angoli</string>
+    <string name="adaptive">Adattiva</string>
+    <string name="action_favorites">Preferiti</string>
+    <string name="skin_search_bar">Barra di ricerca</string>
+    <string name="stroke_width">Larghezza del bordo</string>
+    <string name="stroke_opacity">Opacità del bordo</string>
+    <string name="opacity">Opacità</string>
+    <string name="disable_website_icons">Disabilita le icone dei siti</string>
+    <string name="disable_icon_color">Disabilita il colore delle icone</string>
+    <string name="font_style">Stile del carattere</string>
+    <string name="bold">Grassetto</string>
+    <string name="italics">Corsivo</string>
+    <string name="clear_website_icon_cache">Svuota la cache delle icone dei siti</string>
+    <string name="clear_website_icon_cache_message">Tutte le icone dei preferiti nella pagina iniziale verranno rimosse. Ciascuna icona verrà scaricata la prossima volta che visiterai il sito corrispondente.</string>
+    <string name="use_blur_instead_of_transparency">Usa l\'effetto sfocatura invece della trasparenza</string>
+    <string name="desc_favorite_icon">Icona di un preferito</string>
+    <string name="script_remarks">Titolo</string>
+    <string name="action_save">Salva</string>
+    <string name="reset_to_default_settings">Ripristina le impostazioni predefinite</string>
+    <string name="script_sites">Siti (es. *.foo.com,bar.*/list)</string>
+    <string name="simple_guide_of_writing_script">Gli script verranno eseguiti automaticamente al caricamento del sito.\n\nSiti (richiesto): il campo supporta il carattere wildcard \"*\" e i siti vanno separati con una virgola, per esempio: *.foo.com,bar.*/list.\n\nTitolo (opzionale): usato come titolo dello script nella lista.\n\nCodice (richiesto): si consiglia di utilizzare JavaScript nativo. È possibile anche usare la sintassi di JQuery o VueJS se il sito usa questi framework.</string>
+    <string name="save_data">Risparmia dati</string>
+    <string name="save_data_description">Abilita la modalità di risparmio dati per i siti compatibili</string>
+    <string name="use_line_style_search_box">Usa lo stile minimale della casella di ricerca</string>
+    <string name="toast_script_added">Script aggiunto correttamente</string>
+    <string name="action_manage_favorites">Gestisci preferiti</string>
+    <string name="check_for_updates">Controlla aggiornamenti</string>
+    <string name="checking_for_updates">Controllo degli aggiornamenti in corso</string>
+    <string name="latest_version_already_installed">L\'ultima versione è già installata</string>
+    <string name="new_version_available">Nuova versione disponibile</string>
+    <string name="action_download_file">Scarica</string>
+    <string name="entered_full_screen_mode">Sei passato alla modalità a schermo intero</string>
+    <string name="delete_hint">Rimuovi (%1$d)</string>
+    <string name="scoped_search">Cerca %1$s</string>
+    <string name="add_shortcut">Aggiungi scorciatoia</string>
+    <string name="need_shortcut_permission">Permesso negato. Vai nelle impostazioni e concedi a quest\'app il permesso di creare scorciatoie nella schermata home.</string>
+    <string name="create_shortcut_successfully">Scorciatoia per %1$s creata correttamente</string>
+    <string name="update_shortcut_successfully">Scorciatoia per %1$s aggiornata correttamente</string>
+    <string name="today">Oggi</string>
+    <string name="yesterday">Ieri</string>
+
+    <!-- The date format pattern is difficult to remember, please refer to: https://docs.oracle.com/javase/7/docs/api/java/text/SimpleDateFormat.html -->
+    <string name="same_year_date_format">EEE dd MMM</string>
+    <string name="default_date_format">EEE dd MMM yyyy</string>
+    <string name="view_certificate">Mostra certificato</string>
+    <string name="certificate_info">Informazioni del certificato</string>
+
+    <!-- The b tag means bold, And the br tag means line break. -->
+    <string name="certificate_detail"><![CDATA[
+        <b>RILASCIATO A</b><br />
+        <b>Nome comune (CN)</b><br />
+        %1$s
+        <br /><b>Organizzazione (O)</b><br />
+        %2$s
+        <br /><b>Unità organizzativa (OU)</b><br />
+        %3$s
+        <br /><br /><b>RILASCIATO DA</b><br />
+        <b>Nome comune (CN)</b><br />
+        %4$s
+        <br /><b>Organizzazione (O)</b><br />
+        %5$s
+        <br /><br /><b>PERIODO DI VALIDITÀ</b><br />
+        <b>Data di rilascio</b><br />
+        %6$s
+        <br /><b>Data di scadenza</b><br />
+        %7$s
+        <br />
+    ]]></string>
+    <string name="no_certificate">Il sito non possiede un certificato.</string>
+    <string name="site_conf_enabled">Configurazione del sito (Abilitata)</string>
+    <string name="do_not_sell_or_share">Non vendere o condividere i miei dati</string>
+    <string name="do_not_sell_or_share_description">Richiedi ai siti di non vendere o condividere i tuoi dati per proteggere la privacy (sperimentale)</string>
+    <string name="email_me">Mandami un\'email</string>
+    <string name="scan_qr_code">Scansiona codice QR</string>
+    <string name="scan_qr_code_from_image">Scansiona codice QR da un\'immagine</string>
+    <string name="switch_flash">Attiva/disattiva flash</string>
+    <string name="qr_code_scan_result">Risultato scansione codice QR</string>
+    <string name="qr_code_not_detected">Codice QR non rilevato</string>
+    <string name="save_qr_code_successfully">Il codice QR è stato salvato nella galleria</string>
+    <string name="description_with_number">%1$s (%2$d)</string>
+    <string name="last_hour">L\'ultima ora</string>
+    <string name="today_and_yesterday">Ieri e oggi</string>
+    <string name="last_seven_days">Gli ultimi 7 giorni</string>
+    <string name="all_time">Tutti i periodi</string>
+    <string name="delete_history_from">Rimuovi la cronologia per</string>
+    <string name="save_as_pdf">Salva in PDF</string>
+    <string name="export">Esporta</string>
+    <string name="export_successfully">Esportazione riuscita</string>
+    <string name="stop_loading_description">Via ha impedito alla seguente pagina di caricarsi:</string>
+    <string name="stop_loading_reason">A causa di questo filtro:</string>
+    <string name="continue_loading">Continua il caricamento</string>
+    <string name="allow_webpage_access_to_clipboard">Permetti ai siti di accedere al contenuto degli appunti</string>
+    <string name="ask_to_allow_webpage_to_copy_text">Sei sicuro di voler copiare il testo da %DOMAIN%?</string>
+    <string name="ask_to_allow_webpage_to_paste_text">Sei sicuro di voler incollare il testo in %DOMAIN%?</string>
+    <string name="option_allow">Permetti</string>
+    <string name="option_deny">Nega</string>
 </resources>
