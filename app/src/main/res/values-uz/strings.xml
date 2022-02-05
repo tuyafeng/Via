@@ -4,8 +4,8 @@
     <string name="app_name">Via</string>
     <string name="action_new_tab">Yangi varaq</string>
     <string name="action_open_in_new">Yangi varaqda ochish</string>
-    <string name="action_save_img">Save image</string>
-    <string name="action_share">Share</string>
+    <string name="action_save_img">Rasmni saqlash</string>
+    <string name="action_share">Ulashish</string>
     <string name="action_history">History</string>
     <string name="action_bookmarks">Bookmarks</string>
     <string name="bookmarks_file">Bookmarks export</string>
