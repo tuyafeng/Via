@@ -2,8 +2,8 @@
 <resources tools:ignore="MissingTranslation" xmlns:tools="http://schemas.android.com/tools">
 
     <string name="app_name">Via</string>
-    <string name="action_new_tab">New tab</string>
-    <string name="action_open_in_new">Open in new tab</string>
+    <string name="action_new_tab">Yangi varaq</string>
+    <string name="action_open_in_new">Yangi varaqda ochish</string>
     <string name="action_save_img">Save image</string>
     <string name="action_share">Share</string>
     <string name="action_history">History</string>
