@@ -416,11 +416,11 @@
     <string name="clear_website_icon_cache_message">Tutte le icone dei preferiti nella pagina iniziale verranno rimosse. Ciascuna icona verrà scaricata la prossima volta che visiterai il sito corrispondente.</string>
     <string name="use_blur_instead_of_transparency">Usa l\'effetto sfocatura invece della trasparenza</string>
     <string name="desc_favorite_icon">Icona di un preferito</string>
-    <string name="script_remarks">Titolo</string>
+    <string name="script_remarks">Nota</string>
     <string name="action_save">Salva</string>
     <string name="reset_to_default_settings">Ripristina le impostazioni predefinite</string>
     <string name="script_sites">Siti (es. *.foo.com,bar.*/list)</string>
-    <string name="simple_guide_of_writing_script">Gli script verranno eseguiti automaticamente al caricamento del sito.\n\nSiti (richiesto): il campo supporta il carattere wildcard \"*\" e i siti vanno separati con una virgola, per esempio: *.foo.com,bar.*/list.\n\nTitolo (opzionale): usato come titolo dello script nella lista.\n\nCodice (richiesto): si consiglia di utilizzare JavaScript nativo. È possibile anche usare la sintassi di JQuery o VueJS se il sito usa questi framework.</string>
+    <string name="simple_guide_of_writing_script">Gli script verranno eseguiti automaticamente al caricamento del sito.\n\nSiti (richiesto): il campo supporta il carattere wildcard \"*\" e i siti vanno separati con una virgola, per esempio: *.foo.com,bar.*/list.\n\nNota (opzionale): usata come titolo dello script nella lista.\n\nCodice (richiesto): si consiglia di utilizzare JavaScript nativo. È possibile anche usare la sintassi di JQuery o VueJS se il sito usa questi framework.</string>
     <string name="save_data">Risparmia dati</string>
     <string name="save_data_description">Abilita la modalità di risparmio dati per i siti compatibili</string>
     <string name="use_line_style_search_box">Usa lo stile minimale della casella di ricerca</string>
