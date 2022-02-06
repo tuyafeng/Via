@@ -59,7 +59,7 @@
     <string name="hint_folder">Jild</string>
     <string name="title_edit_bookmark">Bukmarkni tahrirlash</string>
     <string name="action_edit">Tahrirlash</string>
-    <string name="action_incognito">Inkognito rejim</string>
+    <string name="action_incognito">Inkognito rejimi</string>
     <string name="action_find">Sahifadan izlash</string>
     <string name="download_pending">Yuklash boshlanmoqda\u2026</string>
     <string name="cannot_download">Uni faqat \"http\" yoki \"https\" URL manzillaridan yuklab olish mumkin.</string>
@@ -437,33 +437,33 @@
     <string name="bold">Qalin</string>
     <string name="italics">Kursiv</string>
     <string name="clear_website_icon_cache">Veb-sayt belgi keshini tozalash</string>
-    <string name="clear_website_icon_cache_message">Note that this will clear all the favorite icons on the homepage. Each icon will be downloaded the next time you visit the corresponding website.</string>
-    <string name="use_blur_instead_of_transparency">Use blur effect instead of transparency</string>
-    <string name="desc_favorite_icon">Icon of a favorite</string>
-    <string name="script_remarks">Remarks</string>
-    <string name="action_save">Save</string>
-    <string name="reset_to_default_settings">Reset to default settings</string>
-    <string name="script_sites">Sites (like *.foo.com,bar.*/list)</string>
-    <string name="simple_guide_of_writing_script">The script written will take effect automatically when the website loads.
-    \n\nSites(required): The scripted site supports the \"*\" wildcard, and multiple sites are separated by \",\", for example: *.foo.com,bar.*/list.
-    \n\nRemarks(optional): Used as the title of the display.
-    \n\nCode(required): It is recommended to use native JavaScript. You can also use jquery or vue.js syntax if the website uses those frameworks.</string>
-    <string name="save_data">Save data</string>
-    <string name="save_data_description">Enable data-savings mode on compatible websites</string>
-    <string name="use_line_style_search_box">Use line style search box</string>
-    <string name="toast_script_added">Script added successfully</string>
-    <string name="action_manage_favorites">Favorite manager</string>
-    <string name="check_for_updates">Check for updates</string>
-    <string name="checking_for_updates">Checking for updates</string>
-    <string name="latest_version_already_installed">Latest version already installed</string>
-    <string name="new_version_available">New version available</string>
-    <string name="action_download_file">Download</string>
-    <string name="entered_full_screen_mode">Entered full screen mode</string>
-    <string name="delete_hint">Delete(%1$d)</string>
-    <string name="follow_system_dark_mode_on">Follow system dark mode is enabled</string>
-    <string name="scoped_search">Search %1$s</string>
-    <string name="add_shortcut">Add shortcut</string>
-    <string name="need_shortcut_permission">Permission denied. Please go to settings and turn on \"Create home screen shortcuts\" permission for this app.</string>
+    <string name="clear_website_icon_cache_message">E’tibor bering, bu bosh sahifadagi barcha sevimli belgilarni o‘chiradi. Har bir belgi keyingi safar tegishli veb-saytga tashrif buyurganingizda yuklab olinadi.</string>
+    <string name="use_blur_instead_of_transparency">Shaffoflik o‘rniga loyqalik effektidan foydalanish</string>
+    <string name="desc_favorite_icon">Sevimli belgisi</string>
+    <string name="script_remarks">Izohlar</string>
+    <string name="action_save">Saqlash</string>
+    <string name="reset_to_default_settings">Birlamchi sozlamalarni tiklash</string>
+    <string name="script_sites">Saytlar (like *.foo.com,bar.*/list)</string>
+    <string name="simple_guide_of_writing_script">Yozilgan skript veb-sayt yuklanganda avtomatik ravishda kuchga kiradi.
+    \n\nSaytlar(talab qilinadi): Skriptlangan sayt \"*\" joker belgisini qo‘llab-quvvatlaydi va bir nechta saytlar \",\", bilan ajratiladi, masalan: *.foo.com,bar.*/list.
+    \n\nIzohlar(ixtiyoriy): Ekran sarlavha sifatida ishlatiladi.
+    \n\nKod(talab qilinadi): Mahalliy JavaScript’dan foydalanish tavsiya etiladi. Agar veb-sayt ushbu ramkalardan foydalansa, jquery yoki vue.js sintaksisidan ham foydalanishingiz mumkin.</string>
+    <string name="save_data">Ma’lumotlarni saqlash</string>
+    <string name="save_data_description">Mos veb-saytlarda maʼlumotlarni tejash rejimini yoqish</string>
+    <string name="use_line_style_search_box">Chiziq uslubidagi qidiruv maydonidan foydalanish</string>
+    <string name="toast_script_added">Skript muvaffaqiyatli qo‘shildi</string>
+    <string name="action_manage_favorites">Sevimli menejeri</string>
+    <string name="check_for_updates">Yangilanishlarni tekshirish</string>
+    <string name="checking_for_updates">Yangilanishlar tekshirilmoqda</string>
+    <string name="latest_version_already_installed">Oxirgi versiya allaqachon o‘rnatilgan</string>
+    <string name="new_version_available">Yangi versiya mavjud</string>
+    <string name="action_download_file">Yuklab olish</string>
+    <string name="entered_full_screen_mode">To‘liq ekran rejimiga kirdi</string>
+    <string name="delete_hint">O‘chirish(%1$d)</string>
+    <string name="follow_system_dark_mode_on">Kuzatish tizimi qorong‘i rejimi yoqilgan</string>
+    <string name="scoped_search">Qidiruv %1$s</string>
+    <string name="add_shortcut">Yorliq qo‘shish</string>
+    <string name="need_shortcut_permission">Ruxsat berilmadi. Please go to settings and turn on \"Create home screen shortcuts\" permission for this app.</string>
     <string name="create_shortcut_successfully">Create shortcut for %1$s successfully</string>
     <string name="update_shortcut_successfully">Update shortcut for %1$s successfully</string>
     <string name="today">Today</string>
