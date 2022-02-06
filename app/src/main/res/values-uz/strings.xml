@@ -463,64 +463,64 @@
     <string name="follow_system_dark_mode_on">Kuzatish tizimi qorong‘i rejimi yoqilgan</string>
     <string name="scoped_search">Qidiruv %1$s</string>
     <string name="add_shortcut">Yorliq qo‘shish</string>
-    <string name="need_shortcut_permission">Ruxsat berilmadi. Please go to settings and turn on \"Create home screen shortcuts\" permission for this app.</string>
-    <string name="create_shortcut_successfully">Create shortcut for %1$s successfully</string>
-    <string name="update_shortcut_successfully">Update shortcut for %1$s successfully</string>
-    <string name="today">Today</string>
-    <string name="yesterday">Yesterday</string>
+    <string name="need_shortcut_permission">Ruxsat berilmadi. Iltimos, sozlamalarga o‘ting va ushbu ilova uchun \"Bosh ekran yorliqlarini yaratish\" ruxsatini yoqing.</string>
+    <string name="create_shortcut_successfully">%1$s uchun yorliq yaratildi</string>
+    <string name="update_shortcut_successfully">%1$s uchun yorliq muvaffaqiyatli yangilandi</string>
+    <string name="today">Bugun</string>
+    <string name="yesterday">Kecha</string>
     <!--  The date format pattern is difficult to remember, please refer to: https://docs.oracle.com/javase/7/docs/api/java/text/SimpleDateFormat.html  -->
     <string name="same_year_date_format">EEE, MMM dd</string>
     <string name="default_date_format">EEE, MMM dd, yyyy</string>
-    <string name="view_certificate">View certificate</string>
-    <string name="certificate_info">Certificate information</string>
+    <string name="view_certificate">Sertifikatni ko‘rish</string>
+    <string name="certificate_info">Sertifikat ma’lumotlari</string>
     <!-- The b tag means bold, And the br tag means line break.  -->
     <string name="certificate_detail"><![CDATA[
-        <b>ISSUED TO</b><br />
-        <b>Common Name (CN)</b><br />
+        <b>BERILGAN</b><br />
+        <b>Umumiy ism (UI)</b><br />
         %1$s
-        <br /><b>Organization (O)</b><br />
+        <br /><b>Tashkilot (T)</b><br />
         %2$s
-        <br /><b>Organizational Unit (OU)</b><br />
+        <br /><b>Tashkiliy birlik (TB)</b><br />
         %3$s
-        <br /><br /><b>ISSUED BY</b><br />
-        <b>Common Name (CN)</b><br />
+        <br /><br /><b>TOMONIDAN BERILGAN</b><br />
+        <b>Umumiy ism (UI)</b><br />
         %4$s
-        <br /><b>Organization (O)</b><br />
+        <br /><b>Tashkilot (T)</b><br />
         %5$s
-        <br /><br /><b>VALIDITY PERIOD</b><br />
-        <b>Issued On</b><br />
+        <br /><br /><b>YARALISH MUDDATI</b><br />
+        <b>Chiqarilgan</b><br />
         %6$s
-        <br /><b>Expires On</b><br />
+        <br /><b>Muddati tugaydi</b><br />
         %7$s
         <br />
     ]]></string>
-    <string name="no_certificate">The website does not have a certificate.</string>
-    <string name="site_conf_enabled">Site configuration (Enabled)</string>
-    <string name="do_not_sell_or_share">Do not sell or share data</string>
-    <string name="do_not_sell_or_share_description">Require the website not to sell or share my data to protect privacy (experimental)</string>
-    <string name="email_me">Email me</string>
-    <string name="scan_qr_code">Scan QR code</string>
-    <string name="scan_qr_code_from_image">Scan QR code from image</string>
-    <string name="switch_flash">Switch flash</string>
-    <string name="qr_code_scan_result">QR code scan result</string>
-    <string name="qr_code_not_detected">QR code not detected</string>
-    <string name="save_qr_code_successfully">The QR code has been saved to the gallery</string>
+    <string name="no_certificate">Veb-saytda sertifikat yo‘q.</string>
+    <string name="site_conf_enabled">Sayt konfiguratsiyasi (yoqilgan)</string>
+    <string name="do_not_sell_or_share">Ma’lumotlarni sotmang yoki almashmang</string>
+    <string name="do_not_sell_or_share_description">Maxfiylikni himoya qilish uchun veb-saytdan meni ma’lumotlarimni sotmaslik yoki ulashmaslikni talab qilish (eksperimental)</string>
+    <string name="email_me">Menga email</string>
+    <string name="scan_qr_code">QR kodini skanerlash</string>
+    <string name="scan_qr_code_from_image">Rasmdan QR kodini skanerlash</string>
+    <string name="switch_flash">Chiroqni almashtirish</string>
+    <string name="qr_code_scan_result">QR kodni skanerlash natijasi</string>
+    <string name="qr_code_not_detected">QR kodi aniqlanmadi</string>
+    <string name="save_qr_code_successfully">QR kodi galereyaga saqlandi</string>
     <string name="description_with_number">%1$s (%2$d)</string>
-    <string name="last_hour">The last hour</string>
-    <string name="today_and_yesterday">Today and yesterday</string>
-    <string name="last_seven_days">Last 7 days</string>
-    <string name="all_time">All time</string>
-    <string name="delete_history_from">Delete history from</string>
-    <string name="save_as_pdf">Save as PDF</string>
+    <string name="last_hour">Oxirgi soat</string>
+    <string name="today_and_yesterday">Bugun va kecha</string>
+    <string name="last_seven_days">Oxirgi 7 kun</string>
+    <string name="all_time">Hamma vaqt</string>
+    <string name="delete_history_from">Tarixni o‘chirish</string>
+    <string name="save_as_pdf">PDF sifatida saqlash</string>
     <string name="export">Export</string>
-    <string name="export_successfully">Export successfully</string>
-    <string name="stop_loading_description">Via has prevented the following page from loading:</string>
-    <string name="stop_loading_reason">Because of the following filter:</string>
-    <string name="continue_loading">Continue loading</string>
-    <string name="allow_webpage_access_to_clipboard">Allow webpage access to clipboard</string>
-    <string name="ask_to_allow_webpage_to_copy_text">Are you sure you want to copy text from %DOMAIN%?</string>
-    <string name="ask_to_allow_webpage_to_paste_text">Are you sure you want to paste text for %DOMAIN%?</string>
-    <string name="option_allow">Allow</string>
-    <string name="option_deny">Deny</string>
+    <string name="export_successfully">Export muvaffaqiyatli</string>
+    <string name="stop_loading_description">Via quyidagi sahifani yuklanishiga to‘sqinlik qildi:</string>
+    <string name="stop_loading_reason">Quyidagi filtr tufayli:</string>
+    <string name="continue_loading">Yuklashni davom etish</string>
+    <string name="allow_webpage_access_to_clipboard">Veb-sahifaga vaqtinchalik xotiraga kirishga ruxsat berish</string>
+    <string name="ask_to_allow_webpage_to_copy_text">Haqiqatan ham %DOMAIN% dan matndan nusxa olish xohlaysizmi?</string>
+    <string name="ask_to_allow_webpage_to_paste_text">Haqiqatan ham %DOMAIN% uchun matn joylashni xohlaysizmi?</string>
+    <string name="option_allow">Ruxsat berish</string>
+    <string name="option_deny">Rad etish</string>
 
 </resources>
