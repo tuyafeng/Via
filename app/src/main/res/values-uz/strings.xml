@@ -45,7 +45,7 @@
     <string name="agent_iphone">Safari (iPhone)</string>
     <string name="agent_symbian">Nokia Brauzer</string>
     <string name="agent_custom">Maxsus</string>
-    <string name="dialog_download">Bu faylni yuklab olishni xohlaysizmi?</string>
+    <string name="dialog_download">Bu faylni yuklab olishni istaysizmi?</string>
     <string name="title_warning">Ogohlantirish</string>
     <string name="title_custom_homepage">Maxsus bosh sahifa</string>
     <string name="action_webpage">Veb-sahifa</string>
@@ -59,7 +59,7 @@
     <string name="hint_folder">Jild</string>
     <string name="title_edit_bookmark">Bukmarkni tahrirlash</string>
     <string name="action_edit">Tahrirlash</string>
-    <string name="action_incognito">Inkognito rejimi</string>
+    <string name="action_incognito">Inkognito rejim</string>
     <string name="action_find">Sahifadan izlash</string>
     <string name="download_pending">Yuklash boshlanmoqda\u2026</string>
     <string name="cannot_download">Uni faqat \"http\" yoki \"https\" URL manzillaridan yuklab olish mumkin.</string>
@@ -84,11 +84,11 @@
     <string name="message_not_yet_valid_certificate">Sayt sertifikati hali haqiqiy emas. Baribir davom etasizmi?</string>
     <string name="title_form_resubmission">Shaklni qayta topshirish</string>
     <string name="message_form_resubmission">Ma’lumotlarni qayta yuborishni xohlaysizmi?</string>
-    <string name="message_location">\nJoylashuvingizdan foydalanishni xohlaysizmi</string>
+    <string name="message_location">\nJoylashuvingizdan foydalanishni istaysizmi</string>
     <string name="action_allow">Ruxsat berish</string>
     <string name="action_dont_allow">Rad etish</string>
     <string name="title_sign_in">Kirish</string>
-    <string name="hint_username">Foydalanuvchi nom</string>
+    <string name="hint_username">Foydalanuvchi nomi</string>
     <string name="hint_password">Parol</string>
     <string name="untitled">Sarlavhasiz</string>
     <string name="image_auto">Rasmlarni faqat Wi-Fi orqali ko‘rsatish</string>
