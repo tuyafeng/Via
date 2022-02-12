@@ -26,7 +26,7 @@ Biz hammani mahalliylashtirish bo‘yicha yordam berishga chaqiramiz. Qanday qil
 1. Fork bo‘limini oching
 2. `app/src/main/res/values/strings.xml` faylidan `app/src/main/res/values-%(lang)/` kabi yo‘lga nusxa oling, `%(lang)` uni [*the ISO 639-1 language code*](http://www.loc.gov/standards/iso639-2/php/code_list.php) bilan almashtiring
 3. Tarjima qiling `app/src/main/res/values-%(lang)/strings.xml`
-4. Pull Request tugmasini bosing
+4. Pull Request qiling
 
 ### Ko‘p beriladigan savollar
 
@@ -36,9 +36,9 @@ Via Android platformasiga kiritilgan o‘rnatilgan WebView renderidan foydalanad
 
 **Qanday qilib JavaScript’ni o‘chirish yoki veb-sayt uchun maxsus foydalanuvchi agentini o‘rnatish mumkin?**
 
-Saytni oching, manzil satrining chap tomonidagi kattalashtiruvchi oyna yoki qalqon belgisini bosing va keyin uni alohida sozlashingiz mumkin.
+Saytni oching, manzil satrining chap tomonidagi kattalashtiruvchi oyna yoki qalqon belgisini bosing, keyin uni alohida sozlashingiz mumkin.
 
-yoki konfiguratsiyani qo‘lda qo‘shish uchun "Sozlamalar-Umumiy-Sayt konfiguratsiyasi" bo‘limini oching.
+Boshqa usuli konfiguratsiyani qo‘lda qo‘shish uchun "Sozlamalar - Umumiy - Sayt konfiguratsiyasi" bo‘limini oching.
 
 **Men ma’lum bir saytdagi reklamalarni bloklashni xohlamayman.**
 
@@ -58,7 +58,7 @@ Afsuski, Google bu xususiyatni WebView ilovasidan olib tashladi. Agar qurilmangi
 
 Siz men bilan [Twitter](https://twitter.com/Yafeng78600505) orqali aloqaga chiqishingiz mumkin va men imkon qadar tezroq javob beraman.
 
-Shuningdek, siz GitHub saytida [muammo ochish](https://github.com/tuyafeng/Via/issues/new)ingiz mumkin va men haftada bir marta tekshirib, savollarga javob beraman.
+Shuningdek, GitHub saytida [muammo ochish](https://github.com/tuyafeng/Via/issues/new)ingiz mumkin va haftada bir marta tekshirib, savollarga javob beraman.
 
-Agar kerak bo‘lsa, [menga email](mailto:yafengtu@gmail.com) orqali xabar yuborishingiz mumkin, lekin javob bermasligimdan afsusdaman.
+Agar kerak bo‘lsa, menga [E-mail](mailto:yafengtu@gmail.com) orqali ham xabar yuborishingiz mumkin, ammo javob bera olmasam bundan afsusdaman.
 
