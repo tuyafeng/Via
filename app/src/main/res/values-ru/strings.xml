@@ -281,7 +281,7 @@
     <string name="page_info_link">Адрес ссылки:</string>
     <string name="no_network">Нет сетевого подключения!</string>
     <string name="title_app_chooser">Выбор приложения</string>
-    <string name="clear_data_on_exit">Очищать данные при выходе</string>
+    <string name="clear_data_on_exit">Очистка данных при выходе</string>
     <string name="action_add_to_homepage">Добавить в избранное</string>
     <string name="added_favorite_hint">Успешно добавлено в избранное на домашнюю страницу</string>
     <string name="title_edit_favorite">Редактирование</string>
@@ -309,7 +309,7 @@
     <string name="view_downloads">Просмотр</string>
     <string name="message_delete_downloading_task">Загруженный файл также будет удалён. Вы уверены?</string>
     <string name="message_delete_downloaded_task">Удалить загрузку?</string>
-    <string name="message_delete_downloaded_file">Также удалить загруженный файл</string>
+    <string name="message_delete_downloaded_file">…также удалить загруженный файл</string>
     <string name="block_popup_message">Заблокировано всплывающее окно</string>
     <string name="allow_popup">Разрешить сейчас</string>
     <string name="system_download_manager">Системный</string>
@@ -476,14 +476,14 @@
     <string name="certificate_info">Данные сертификата</string>
     <!-- The b tag means bold, And the br tag means line break.  -->
     <string name="certificate_detail"><![CDATA[
-        <b>ВЫДАН</b><br />
+        <b>КОМУ ВЫДАН</b><br />
         <b>Название (CN)</b><br />
         %1$s
         <br /><b>Организация (O)</b><br />
         %2$s
         <br /><b>Подразделение (OU)</b><br />
         %3$s
-        <br /><br /><b>ВЫДАЛ</b><br />
+        <br /><br /><b>КЕМ ВЫДАН</b><br />
         <b>Название (CN)</b><br />
         %4$s
         <br /><b>Организация (O)</b><br />
@@ -491,7 +491,7 @@
         <br /><br /><b>СРОК ДЕЙСТВИЯ</b><br />
         <b>Выдан</b><br />
         %6$s
-        <br /><b>Истекает</b><br />
+        <br /><b>Окончание</b><br />
         %7$s
         <br />
     ]]></string>
@@ -523,4 +523,28 @@
     <string name="ask_to_allow_webpage_to_paste_text">Вставлять текст на %DOMAIN%?</string>
     <string name="option_allow">Разрешить</string>
     <string name="option_deny">Запретить</string>
+    <string name="search_bar_style">Вид панели</string>
+    <string name="search_bar_style_line">Линия</string>
+    <string name="search_bar_style_rectangle">Прямоугольник</string>
+    <string name="favorites_icon_style">Вид значков</string>
+    <string name="favorites_icon_style_text">Текст</string>
+    <string name="favorites_icon_style_icon_first">Сначала значок</string>
+    <string name="favorites_icon_color">Цвет значков</string>
+    <string name="favorites_icon_color_colorful">Цветные</string>
+    <string name="favorites_icon_color_transparent">Прозрачные</string>
+    <string name="search_bar_effect">Эффект панели</string>
+    <string name="search_bar_effect_blur">Размытие</string>
+    <string name="search_bar_effect_transparent">Прозрачность</string>
+    <string name="search_part">Панель поиска</string>
+    <string name="search_part_hide">Скрыта</string>
+    <string name="search_part_show">Видна</string>
+    <string name="image_preference">Параметры изображения</string>
+    <string name="background_color">Цвет</string>
+    <string name="background_image">Изображение</string>
+    <string name="favorites_clear_icons">Очистить значки</string>
+    <string name="customization_reset">Сброс</string>
+    <string name="theme_color">Цвет темы</string>
+    <string name="theme_color_dark">Тёмный</string>
+    <string name="theme_color_light">Светлый</string>
+
 </resources>
