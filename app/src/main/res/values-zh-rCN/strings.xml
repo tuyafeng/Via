@@ -264,7 +264,7 @@
     <string name="action_add_to_homepage">添加到主页</string>
     <string name="added_favorite_hint">已添加到主页</string>
     <string name="title_edit_favorite">编辑收藏</string>
-    <string name="custom_css_special">添加自定义 CSS</string>
+    <string name="custom_css_special">自定义 CSS</string>
     <string name="force_enable_zoom">强制缩放</string>
     <string name="set_ua_as">已设置当前浏览器标识为%1$s</string>
     <string name="import_data">导入数据</string>
@@ -500,5 +500,28 @@
     <string name="ask_to_allow_webpage_to_paste_text">是否为 %DOMAIN% 粘贴文本？</string>
     <string name="option_allow">允许</string>
     <string name="option_deny">拒绝</string>
+    <string name="search_bar_style">搜索框样式</string>
+    <string name="search_bar_style_line">线条</string>
+    <string name="search_bar_style_rectangle">矩形</string>
+    <string name="favorites_icon_style">图标样式</string>
+    <string name="favorites_icon_style_text">文字</string>
+    <string name="favorites_icon_style_icon_first">图标优先</string>
+    <string name="favorites_icon_color">图标色彩</string>
+    <string name="favorites_icon_color_colorful">多彩</string>
+    <string name="favorites_icon_color_transparent">透明</string>
+    <string name="search_bar_effect">搜索框效果</string>
+    <string name="search_bar_effect_blur">模糊</string>
+    <string name="search_bar_effect_transparent">透明</string>
+    <string name="search_part">搜索区域</string>
+    <string name="search_part_hide">隐藏</string>
+    <string name="search_part_show">展示</string>
+    <string name="image_preference">图像偏好</string>
+    <string name="background_color">色彩</string>
+    <string name="background_image">图片</string>
+    <string name="favorites_clear_icons">清除图标</string>
+    <string name="customization_reset">重置</string>
+    <string name="theme_color">主题色</string>
+    <string name="theme_color_dark">暗色</string>
+    <string name="theme_color_light">亮色</string>
 
 </resources>

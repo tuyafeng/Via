@@ -285,7 +285,7 @@
     <string name="action_add_to_homepage">Add to homepage</string>
     <string name="added_favorite_hint">Added to homepage successfully</string>
     <string name="title_edit_favorite">Edit favorite</string>
-    <string name="custom_css_special">Add custom CSS</string>
+    <string name="custom_css_special">Custom CSS</string>
     <string name="force_enable_zoom">Enable force zoom</string>
     <string name="set_ua_as">User-agent is set as: %1$s</string>
     <string name="import_data">Import data</string>
@@ -522,5 +522,28 @@
     <string name="ask_to_allow_webpage_to_paste_text">Are you sure you want to paste text for %DOMAIN%?</string>
     <string name="option_allow">Allow</string>
     <string name="option_deny">Deny</string>
+    <string name="search_bar_style">Bar style</string>
+    <string name="search_bar_style_line">Line</string>
+    <string name="search_bar_style_rectangle">Rectangle</string>
+    <string name="favorites_icon_style">Icon style</string>
+    <string name="favorites_icon_style_text">Text</string>
+    <string name="favorites_icon_style_icon_first">Icon first</string>
+    <string name="favorites_icon_color">Icon color</string>
+    <string name="favorites_icon_color_colorful">Colorful</string>
+    <string name="favorites_icon_color_transparent">Transparent</string>
+    <string name="search_bar_effect">Bar effect</string>
+    <string name="search_bar_effect_blur">Blur</string>
+    <string name="search_bar_effect_transparent">Transparent</string>
+    <string name="search_part">Search part</string>
+    <string name="search_part_hide">Hide</string>
+    <string name="search_part_show">Show</string>
+    <string name="image_preference">Image preference</string>
+    <string name="background_color">Color</string>
+    <string name="background_image">Image</string>
+    <string name="favorites_clear_icons">Clear icons</string>
+    <string name="customization_reset">Reset</string>
+    <string name="theme_color">Theme color</string>
+    <string name="theme_color_dark">Dark</string>
+    <string name="theme_color_light">Light</string>
 
 </resources>
