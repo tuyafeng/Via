@@ -509,4 +509,15 @@
     <string name="last_seven_days">Ost. tydzień</string>
     <string name="all_time">Wszystko</string>
     <string name="delete_history_from">Usuń historię</string>
+    <string name="save_as_pdf">Zapisz jako PDF</string>
+    <string name="export">Eksportuj</string>
+    <string name="export_successfully">Wyeskportowano.</string>
+    <string name="stop_loading_description">Via zapobiegła załadowaniu się poniższej strony:</string>
+    <string name="stop_loading_reason">Przez poniższy filtr:</string>
+    <string name="continue_loading">Kontynuuj ładowanie</string>
+    <string name="allow_webpage_access_to_clipboard">Dostęp stron do schowka</string>
+    <string name="ask_to_allow_webpage_to_copy_text">Skopiować tekst z %DOMAIN%?</string>
+    <string name="ask_to_allow_webpage_to_paste_text">Wkleić tekst do %DOMAIN%?</string>
+    <string name="option_allow">Zezwól</string>
+    <string name="option_deny">Odmów</string>
 </resources>

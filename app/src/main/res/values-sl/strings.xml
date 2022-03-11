@@ -106,7 +106,7 @@
     <string name="toast_operation_done">Operacija je končana</string>
     <string name="volume">Tipke za glasnost uporabi za drsenje</string>
     <string name="msg_intent">Dovolite spletni strani, da odpre vašo aplikacijo?</string>
-    <string name="setting_default">Nastavi za privzeti brskalnik</string>
+    <string name="setting_default">Nastavitev privzetega brskalnika</string>
     <string name="toast_clear_defaults">Počisti privzeto</string>
     <string name="toast_copy_url_successful">Povezava uspešno kopirana</string>
     <string name="toast_copy_text_successful">Besedilo uspešno kopirano</string>
@@ -168,12 +168,12 @@
     <string name="download_completed">Prenos je končan</string>
     <string name="toast_fullscreen_off">Izhod iz celozaslonskega načina</string>
 
-    <string name="clear_data">Počisti podatke</string>
+    <string name="clear_data">Čiščenje podatkov</string>
     <string name="data_cache">Predpomnilnik</string>
     <string name="data_form_data">Podatki</string>
     <string name="data_history">Zgodovina</string>
     <string name="data_storage">Spletna shramba</string>
-    <string name="data_cookies">Piškotki</string>
+    <string name="data_cookies">Piškotki (status prijave)</string>
     <string name="data_cleared">Podatki so izbrisani</string>
 
     <string name="sync_desc">Račun bo ustvarjen, če ne obstaja.</string>
@@ -227,7 +227,7 @@
     <string name="add_script">Dodaj skript</string>
     <string name="script_url">Domena ali * (* pomeni vse)</string>
     <string name="script_code">Koda (JavaScript)</string>
-    <string name="help_us_translate">Pomagajte nam prevesti</string>
+    <string name="help_us_translate">Pomagajte nam pri prevodu</string>
     <string name="confirm_to_leave">Potrdi opustitev</string>
     <string name="leave">Opusti</string>
     <string name="stay">Ostani</string>
@@ -250,7 +250,7 @@
     <string name="action_fullscreen">Celozaslonski način</string>
     <string name="settings_general">Splošno</string>
     <string name="no_bookmark">Ni zaznamkov</string>
-    <string name="import_or_export_bookmarks">Uvozi/izvozi zaznamke</string>
+    <string name="import_or_export_bookmarks">Uvoz/izvoz zaznamkov</string>
     <string name="export_bookmarks">Izvozi zaznamke</string>
     <string name="pull_to_refresh_gesture">Povleci za osvežitev</string>
     <string name="back_forward_gesture">Podrsni za Nazaj/Naprej</string>
@@ -281,17 +281,17 @@
     <string name="page_info_link">URL povezave:</string>
     <string name="no_network">Omrežne povezave niso na voljo</string>
     <string name="title_app_chooser">Izbirnik aplikacij</string>
-    <string name="clear_data_on_exit">Počisti podatke ob izhodu</string>
+    <string name="clear_data_on_exit">Čiščenje podatkov ob izhodu</string>
     <string name="action_add_to_homepage">Dodaj na začetno stran</string>
     <string name="added_favorite_hint">Uspešno dodano na začetno stran</string>
     <string name="title_edit_favorite">Urejanje priljubljenih</string>
     <string name="custom_css_special">Dodaj CSS po meri</string>
     <string name="force_enable_zoom">Omogoči prisilno povečavo</string>
     <string name="set_ua_as">Uporabniški agent je nastavljen kot: %1$s</string>
-    <string name="import_data">Uvozi podatke</string>
+    <string name="import_data">Uvoz podatkov</string>
     <string name="import_data_failed">Uvoz podatkov ni uspel!</string>
     <string name="import_data_succeed">Podatki so uspešno uvoženi!</string>
-    <string name="export_data">Izvozi podatke</string>
+    <string name="export_data">Izvoz podatkov</string>
     <string name="export_data_to">Izvozi podatke v: %1$s</string>
     <string name="always_restore">Vedno obnovi</string>
     <string name="ask_first">Najprej vprašaj</string>
@@ -396,12 +396,12 @@
     <string name="debugging_info">Informacije za razhroščevanje</string>
     <string name="join_qq_group">Pridružite se QQ skupini</string>
     <string name="join_telegram_group">Pridružite se Telegram skupini</string>
-    <string name="follow_me_on_twitter">Sledite mi na Twitterju</string>
+    <string name="follow_me_on_twitter">Sledite nam na Twitterju</string>
     <string name="follow_me_on_weibo">Sledite mi na Weiboju</string>
     <string name="version">Različica</string>
     <string name="paste_and_go">Prilepi &amp; pojdi</string>
     <string name="night_filter_for_web_contents">Nočni filter za spletne vsebine</string>
-    <string name="force_dark_mode_for_web_contents">Vsili temno delovanje za spletne vsebine</string>
+    <string name="force_dark_mode_for_web_contents">Vsili temni način za spletne vsebine</string>
     <string name="force_dark_mode_for_web_contents_description">Ob vklopu prisili spletne strani, da se zatemnijo, kar lahko povzroči neobičajno delovanje nekaterih strani.</string>
     <string name="require_javascript_enabled">To bo začelo učinkovati, ko bo omogočen JavaScript.</string>
     <string name="keyboard_shortcuts">Bližnjice na tipkovnici</string>
@@ -443,13 +443,13 @@
     <string name="clear_website_icon_cache_message">S tem bodo počiščene vse ikone priljubljenih strani na začetni strani. Vsaka ikona bo prenesena naslednjič, ko boste obiskali pripadajočo spletno stran.</string>
     <string name="use_blur_instead_of_transparency">Uporabi učinek zameglitve namesto prosojnosti</string>
     <string name="desc_favorite_icon">Ikona priljubljene strani</string>
-    <string name="script_remarks">Pripombe</string>
+    <string name="script_remarks">Opomba</string>
     <string name="action_save">Shrani</string>
     <string name="reset_to_default_settings">Ponastavi na privzete nastavitve</string>
     <string name="script_sites">Strani (kot je *.foo.com,bar.*/list)</string>
     <string name="simple_guide_of_writing_script">Napisana skripta se bo pričela samodejno izvajati, ko bo spletna stran naložena.
     \n\nStrani (zahtevano): stran s skripto podpira nadomestni znak \"*\". Različne strani se ločijo z nadomestnim znakom \",\". Primer: *.foo.com,bar.*/list.
-    \n\nPripombe (izbirno): uporabljene so kot naslov zaslona.
+    \n\nOpomba (izbirno): uporabljena je kot naslov skripte.
     \n\nKoda (zahtevano): priporočljivo je uporabljati nativni JavaScript. Uporabita se lahko tudi sintaksi jquery ali vue.js, če ju spletna stran koristi.</string>
     <string name="save_data">Shrani podatke</string>
     <string name="save_data_description">Vklopi način varčevanja s podatki na združljivih spletnih straneh</string>
@@ -461,4 +461,69 @@
     <string name="latest_version_already_installed">Najnovejša različica je že nameščena</string>
     <string name="new_version_available">Na voljo je nova različica</string>
     <string name="action_download_file">Prenos</string>
+    <string name="entered_full_screen_mode">Ste v celozaslonskem načinu</string>
+    <string name="delete_hint">Izbriši (%1$d)</string>
+    <string name="follow_system_dark_mode_on">Vklopljeno je sledenje temnemu načinu sistema</string>
+    <string name="scoped_search">Išči %1$s</string>
+    <string name="add_shortcut">Dodaj bližnjico</string>
+    <string name="need_shortcut_permission">Dovoljenje zavrnjeno. Prosimo odprite nastavitve in vključite dovoljenje \"Ustvarite bližnjice na začetnem zaslonu\" za to aplikacijo.</string>
+    <string name="create_shortcut_successfully">Bližnjica za %1$s je uspešno ustvarjena</string>
+    <string name="update_shortcut_successfully">Bližnjica za %1$s je uspešno posodobljena</string>
+    <string name="today">Danes</string>
+    <string name="yesterday">Včeraj</string>
+    <!--  The date format pattern is difficult to remember, please refer to: https://docs.oracle.com/javase/7/docs/api/java/text/SimpleDateFormat.html  -->
+    <string name="same_year_date_format">EEE., d. MMMMM</string>
+    <string name="default_date_format">EEE., d. MMMMM yyyy</string>
+    <string name="view_certificate">Ogled certifikata</string>
+    <string name="certificate_info">Informacije o certifikatu</string>
+    <!-- The b tag means bold, And the br tag means line break.  -->
+    <string name="certificate_detail"><![CDATA[
+        <b>IZDANO ZA</b><br />
+        <b>Skupno ime</b><br />
+        %1$s
+        <br /><b>Organizacija</b><br />
+        %2$s
+        <br /><b>Organizacijska enota</b><br />
+        %3$s
+        <br /><br /><b>IZDANO OD</b><br />
+        <b>Skupno ime</b><br />
+        %4$s
+        <br /><b>Organizacija</b><br />
+        %5$s
+        <br /><br /><b>OBDOBJE VELJAVNOSTI</b><br />
+        <b>Izdano</b><br />
+        %6$s
+        <br /><b>Poteče</b><br />
+        %7$s
+        <br />
+    ]]></string>
+    <string name="no_certificate">Spletna stran nima certifikata.</string>
+    <string name="site_conf_enabled">Konfiguracija spletnega mesta (omogočeno)</string>
+    <string name="do_not_sell_or_share">Ne prodajaj ali deli podatkov</string>
+    <string name="do_not_sell_or_share_description">Zahteva spletnemu mestu, naj ne prodaja ali deli mojih podatkov z namenom zaščite zasebnosti (eksperimentalno)</string>
+    <string name="email_me">Pošljite nam e-pošto</string>
+    <string name="scan_qr_code">Branje kode QR</string>
+    <string name="scan_qr_code_from_image">Branje kode QR iz slike</string>
+    <string name="switch_flash">Stikalo svetilke</string>
+    <string name="qr_code_scan_result">Rezultat branja kode QR</string>
+    <string name="qr_code_not_detected">Koda QR ni zaznana</string>
+    <string name="save_qr_code_successfully">Koda QR je shranjena v galerijo</string>
+    <string name="description_with_number">%1$s (%2$d)</string>
+    <string name="last_hour">Zadnja ura</string>
+    <string name="today_and_yesterday">Danes in včeraj</string>
+    <string name="last_seven_days">Zadnjih 7 dni</string>
+    <string name="all_time">Ves čas</string>
+    <string name="delete_history_from">Brisanje zgodovine za</string>
+    <string name="save_as_pdf">Shrani kot PDF</string>
+    <string name="export">Izvozi</string>
+    <string name="export_successfully">Uspešno izvoženo</string>
+    <string name="stop_loading_description">Brskalnik Via je preprečil nalaganje naslednje strani:</string>
+    <string name="stop_loading_reason">Zaradi sledečega filtra:</string>
+    <string name="continue_loading">Nadaljuj z nalaganjem</string>
+    <string name="allow_webpage_access_to_clipboard">Dostopanje spletne strani do odložišča</string>
+    <string name="ask_to_allow_webpage_to_copy_text">Ali res želite kopirati besedilo iz %DOMAIN%?</string>
+    <string name="ask_to_allow_webpage_to_paste_text">Ali res želite prilepiti besedilo v %DOMAIN%?</string>
+    <string name="option_allow">Dovoljeno</string>
+    <string name="option_deny">Zavrnjeno</string>
+
 </resources>

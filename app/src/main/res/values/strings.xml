@@ -285,7 +285,7 @@
     <string name="action_add_to_homepage">Add to homepage</string>
     <string name="added_favorite_hint">Added to homepage successfully</string>
     <string name="title_edit_favorite">Edit favorite</string>
-    <string name="custom_css_special">Add custom CSS</string>
+    <string name="custom_css_special">Custom CSS</string>
     <string name="force_enable_zoom">Enable force zoom</string>
     <string name="set_ua_as">User-agent is set as: %1$s</string>
     <string name="import_data">Import data</string>
@@ -440,14 +440,14 @@
     <string name="clear_website_icon_cache_message">Note that this will clear all the favorite icons on the homepage. Each icon will be downloaded the next time you visit the corresponding website.</string>
     <string name="use_blur_instead_of_transparency">Use blur effect instead of transparency</string>
     <string name="desc_favorite_icon">Icon of a favorite</string>
-    <string name="script_remarks">Remarks</string>
+    <string name="script_remarks">Note</string>
     <string name="action_save">Save</string>
     <string name="reset_to_default_settings">Reset to default settings</string>
     <string name="script_sites">Sites (like *.foo.com,bar.*/list)</string>
     <string name="simple_guide_of_writing_script">The script written will take effect automatically when the website loads.
-    \n\nSites(required): The scripted site supports the \"*\" wildcard, and multiple sites are separated by \",\", for example: *.foo.com,bar.*/list.
-    \n\nRemarks(optional): Used as the title of the display.
-    \n\nCode(required): It is recommended to use native JavaScript. You can also use jquery or vue.js syntax if the website uses those frameworks.</string>
+    \n\nSites (required): The scripted site supports the \"*\" wildcard, and multiple sites are separated by \",\", for example: *.foo.com,bar.*/list.
+    \n\nNote (optional): Used as the title of the script.
+    \n\nCode (required): It is recommended to use native JavaScript. You can also use jquery or vue.js syntax if the website uses those frameworks.</string>
     <string name="save_data">Save data</string>
     <string name="save_data_description">Enable data-savings mode on compatible websites</string>
     <string name="use_line_style_search_box">Use line style search box</string>
@@ -459,7 +459,7 @@
     <string name="new_version_available">New version available</string>
     <string name="action_download_file">Download</string>
     <string name="entered_full_screen_mode">Entered full screen mode</string>
-    <string name="delete_hint">Delete(%1$d)</string>
+    <string name="delete_hint">Delete (%1$d)</string>
     <string name="follow_system_dark_mode_on">Follow system dark mode is enabled</string>
     <string name="scoped_search">Search %1$s</string>
     <string name="add_shortcut">Add shortcut</string>
@@ -497,7 +497,7 @@
     <string name="no_certificate">The website does not have a certificate.</string>
     <string name="site_conf_enabled">Site configuration (Enabled)</string>
     <string name="do_not_sell_or_share">Do not sell or share data</string>
-    <string name="do_not_sell_or_share_description">Require the website not to sell or share my data to protect privacy (experimental)</string>
+    <string name="do_not_sell_or_share_description">Request the website not to sell or share my data to protect privacy (experimental)</string>
     <string name="email_me">Email me</string>
     <string name="scan_qr_code">Scan QR code</string>
     <string name="scan_qr_code_from_image">Scan QR code from image</string>
@@ -513,7 +513,7 @@
     <string name="delete_history_from">Delete history from</string>
     <string name="save_as_pdf">Save as PDF</string>
     <string name="export">Export</string>
-    <string name="export_successfully">Export successfully</string>
+    <string name="export_successfully">Exported successfully</string>
     <string name="stop_loading_description">Via has prevented the following page from loading:</string>
     <string name="stop_loading_reason">Because of the following filter:</string>
     <string name="continue_loading">Continue loading</string>
@@ -522,5 +522,28 @@
     <string name="ask_to_allow_webpage_to_paste_text">Are you sure you want to paste text for %DOMAIN%?</string>
     <string name="option_allow">Allow</string>
     <string name="option_deny">Deny</string>
+    <string name="search_bar_style">Bar style</string>
+    <string name="search_bar_style_line">Line</string>
+    <string name="search_bar_style_rectangle">Rectangle</string>
+    <string name="favorites_icon_style">Icon style</string>
+    <string name="favorites_icon_style_text">Text</string>
+    <string name="favorites_icon_style_icon_first">Icon first</string>
+    <string name="favorites_icon_color">Icon color</string>
+    <string name="favorites_icon_color_colorful">Colorful</string>
+    <string name="favorites_icon_color_transparent">Transparent</string>
+    <string name="search_bar_effect">Bar effect</string>
+    <string name="search_bar_effect_blur">Blur</string>
+    <string name="search_bar_effect_transparent">Transparent</string>
+    <string name="search_part">Search part</string>
+    <string name="search_part_hide">Hide</string>
+    <string name="search_part_show">Show</string>
+    <string name="image_preference">Image preference</string>
+    <string name="background_color">Color</string>
+    <string name="background_image">Image</string>
+    <string name="favorites_clear_icons">Clear icons</string>
+    <string name="customization_reset">Reset</string>
+    <string name="theme_color">Theme color</string>
+    <string name="theme_color_dark">Dark</string>
+    <string name="theme_color_light">Light</string>
 
 </resources>
