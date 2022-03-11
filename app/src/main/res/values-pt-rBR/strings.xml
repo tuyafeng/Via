@@ -519,5 +519,28 @@
     <string name="ask_to_allow_webpage_to_paste_text">Tem certeza de que deseja colar o texto em %DOMAIN%?</string>
     <string name="option_allow">Permitir</string>
     <string name="option_deny">Negar</string>
+    <string name="search_bar_style">Estilo da barra</string>
+    <string name="search_bar_style_line">Linha</string>
+    <string name="search_bar_style_rectangle">Retangulo</string>
+    <string name="favorites_icon_style">Estilo do Ícone</string>
+    <string name="favorites_icon_style_text">Texto</string>
+    <string name="favorites_icon_style_icon_first">Primeiro Ícone</string>
+    <string name="favorites_icon_color">Cor do Ícone</string>
+    <string name="favorites_icon_color_colorful">Colorido</string>
+    <string name="favorites_icon_color_transparent">Transparente</string>
+    <string name="search_bar_effect">Efeito da barra</string>
+    <string name="search_bar_effect_blur">Borrado</string>
+    <string name="search_bar_effect_transparent">Transparente</string>
+    <string name="search_part">Parte de pesquisa</string>
+    <string name="search_part_hide">Ocultar</string>
+    <string name="search_part_show">Mostrar</string>
+    <string name="image_preference">Preferencia de imagem</string>
+    <string name="background_color">Cor</string>
+    <string name="background_image">Imagem</string>
+    <string name="favorites_clear_icons">Limpar Ícones</string>
+    <string name="customization_reset">Resetar</string>
+    <string name="theme_color">Cor do tema</string>
+    <string name="theme_color_dark">Escuro</string>
+    <string name="theme_color_light">Claro</string>
 
 </resources>
