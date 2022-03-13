@@ -23,7 +23,7 @@
     <string name="location">Joylashuvga kirish</string>
     <string name="password">Parollarni saqlash</string>
     <string name="donate">Xayriya</string>
-    <string name="donate_details">Agar sizga Via brauzer yoqsa, bizni qo‘llab-quvvatlash uchun xayriya qilishingiz mumkin.\nAlipay: 2376688759@qq.com\nPayPal: wiar1824@gmail.com</string>
+    <string name="donate_details">Agar sizga ilova yoqsa, bizni qo‘llab-quvvatlash uchun xayriya qilishingiz mumkin.\nAlipay: 2376688759@qq.com\nPayPal: wiar1824@gmail.com</string>
     <string name="orientation">Ekran aylanishi</string>
     <string name="follow_system">Tizim</string>
     <string name="orientation_auto">Avtomatik</string>
@@ -39,7 +39,7 @@
     <string name="search_hint">Qidirish</string>
     <string name="action_delete">O‘chirish</string>
     <string name="action_delete_all">Hammasini o‘chirish</string>
-    <string name="action_blank">Bo‘sh sahifa</string>
+    <string name="action_blank">Bo‘sh</string>
     <string name="agent_chrome">Chrome (ShK)</string>
     <string name="agent_ie">IE 11 (ShK)</string>
     <string name="agent_iphone">Safari (iPhone)</string>
@@ -48,7 +48,7 @@
     <string name="dialog_download">Fayl yuklab olinsinmi?</string>
     <string name="title_warning">Ogohlantirish</string>
     <string name="title_custom_homepage">Maxsus bosh sahifa</string>
-    <string name="action_webpage">Veb-sahifa</string>
+    <string name="action_webpage">Sahifa</string>
     <string name="size_largest">Juda katta</string>
     <string name="size_large">Katta</string>
     <string name="size_normal">O‘rta</string>
@@ -91,9 +91,9 @@
     <string name="hint_username">Ism</string>
     <string name="hint_password">Parol</string>
     <string name="untitled">Sarlavhasiz</string>
-    <string name="image_auto">Rasmlarni faqat Wi-Fi orqali ko‘rsatish</string>
-    <string name="image_off">Rasmlarni bloklash</string>
-    <string name="image_on">Rasmlarni ko‘rsatish</string>
+    <string name="image_auto">Rasmlar faqat Wi-Fi orqali ko‘rsatilsin</string>
+    <string name="image_off">Rasmlar berkitilsin</string>
+    <string name="image_on">Rasmlar ko‘rsatilsin</string>
     <string name="title_file_chooser">Fayl tanlash</string>
     <string name="import_bookmarks">Bukmarklarni import qilish</string>
     <string name="export_bookmarks_to">Bukmarklarni eksport qilish: %1$s</string>
@@ -107,7 +107,7 @@
     <string name="volume">O‘tkazish u-n ovoz tugmalaridan foydalaning</string>
     <string name="msg_intent">Saytga ilovani ochishga ruxsat berilsinmi?</string>
     <string name="setting_default">Birlamchi brauzer sifatida o‘rnatish</string>
-    <string name="toast_clear_defaults">Iltimos, birlamchi sozlamalarni tozalang</string>
+    <string name="toast_clear_defaults">Birlamchi sozlamalarni tozalash</string>
     <string name="toast_copy_url_successful">Havoladan nusxa olindi</string>
     <string name="toast_copy_text_successful">Matndan nusxa olindi</string>
     <string name="incognito_on">Inkognito rejimiga o‘tdingiz</string>
@@ -128,7 +128,7 @@
     <string name="settings_privacy">Maxfiylik</string>
     <string name="settings_advanced">Qo‘shimcha</string>
     <string name="settings_about">Ilova haqida</string>
-    <string name="url_box">Manzili panel tarkibi</string>
+    <string name="url_box">Manzilning panel tarkibi</string>
     <string name="url_box_domain">Domen</string>
     <string name="action_pcview">Desktop versiya</string>
     <string name="action_source">Manbani ko‘rish</string>
@@ -194,7 +194,7 @@
 
     <string name="action_save_web_page">Sahifani saqlash</string>
     <string name="action_saved_pages">Saqlangan sahifalar</string>
-    <string name="saved_page_successfully">Veb-sahifa bu yerga saqlandi: Bukmarklar > Saqlangan sahifalar</string>
+    <string name="saved_page_successfully">Sahifa bu yerga saqlandi: Bukmarklar > Saqlangan sahifalar</string>
     <string name="deleted_failed">O‘chirishda xatolik yuz berdi. Fayl joylashgan yo‘l: </string>
 
     <string name="empty_hint">Bo‘sh</string>
@@ -208,9 +208,9 @@
     <string name="set_to_default">%1$s havolasi ochilgandan so‘ng u birlamchi sifatida o‘rnatiladi. Havolani ochish uchun Via brauzerini tanlang.</string>
 
     <string name="sync_prompt">Joriy mahalliy bukmarklar va sozlamalar ustiga yoziladi. Davom etasizmi?</string>
-    <string name="upload_prompt">Joriy mahalliy bukmarklar va sozlamalar yuboriladi. Davom etasizmi?</string>
+    <string name="upload_prompt">Joriy mahalliy bukmarklar va sozlamalar yuklanadi. Davom etasizmi?</string>
     <string name="none">Yo‘q</string>
-    <string name="check_permission">Ruxsat berilmadi. Uni hoziroq sozlamalarda o‘rnatasizmi?</string>
+    <string name="check_permission">Ruxsat berilmadi. Hoziroq sozlamalarda o‘rnatilsinmi?</string>
     <string name="need_permission_hint">Via ishlashi uchun quyidagi ruxsatlar kerak:\n\n</string>
     <string name="storage_permission">Xotira: brauzerdan fayllarni yuklab olish va bukmarklarni import/eksport qilish va h.k.\n\n</string>
     <string name="location_permission">Joylashuv: Google Xaritalar kabi saytlar uchun sukut bo‘yicha o‘chirilgan. Agar yoqilgan bo‘lsa, sayt joylashuvingizdan foydalanishi mumkinligini so‘rab qalquvchi oyna ko‘rsatadi.\n\n</string>
@@ -219,7 +219,7 @@
     <string name="restore_tabs">Ishga tushganda varaqlarni tiklash</string>
     <string name="install_success">Muvaffaqiyatli o‘rnatildi!</string>
     <string name="uninstall_success">Muvaffaqiyatli o‘chirildi!</string>
-    <string name="log_page_hint">Bloklangan ro‘yxat %1$s.\nSiz ro‘yxatni tahrirlashingiz yoki bloklashdan yoqish/o‘chirish uchun quyidagi elementni uzoq bosib turishingiz mumkin.</string>
+    <string name="log_page_hint">Bloklangan ro‘yxat %1$s.\nRo‘yxatni tahrirlashingiz yoki blokni yoqish/o‘chirish uchun quyidagi elementni uzoq bosib turishingiz mumkin.</string>
     <string name="fullscreen_1">Yashirish/ko‘rsatish uchun o‘tkazish</string>
     <string name="fullscreen_2">Yashirish/ko‘rsatish uchun bosish</string>
     <string name="settings_script">Skriptlar</string>
@@ -268,12 +268,12 @@
     <string name="res_log_hint">Ko‘rish uchun bosing, yuklab olish uchun ushlab turing yoki yana ko‘p.</string>
     <string name="no_resource">Sahifada manba yo‘q.</string>
     <string name="no_network_log">Sahifada tarmoq jurnali yo‘q.</string>
-    <string name="resource_sniffer_hint">\nMusiqa yoki videoni ijro etishda resurslarni tahlil qilish osonroq, lekin ba’zi saytlarda hali ham ishlamasligi mumkin.</string>
+    <string name="resource_sniffer_hint">\nMusiqa yoki videoni ijro etishda resurslarni tahlil qilish osonroq, lekin ba’zi bir saytlarda ishlamasligi mumkin.</string>
     <string name="action_download">Yuklanmalar</string>
     <string name="empty_username_info">Iltimos, ismingizni kiriting</string>
     <string name="empty_password_info">Iltimos, parolingizni kiriting</string>
-    <string name="offline_page_hint">Bu saqlangan veb-sahifalar. Siz ularni oflayn bo‘lganingizda ham ochishingiz mumkin.</string>
-    <string name="history_page_hint_when_incognito">\"Inkognito rejimi\" bilan kirsangiz tarix yozib olinmaydi.</string>
+    <string name="offline_page_hint">Bu saqlangan sahifalar. Siz ularni oflayn bo‘lganingizda ham ochishingiz mumkin.</string>
+    <string name="history_page_hint_when_incognito">\"Inkognito rejimi\" bilan kirsangiz tarix saqlanmaydi.</string>
     <string name="action_preview">Ko‘rib chiqish</string>
     <string name="action_page_info">Sahifa haqida</string>
     <string name="page_info_title">Sarlavha:</string>
@@ -297,8 +297,8 @@
     <string name="ask_first">Avval so‘ralsin</string>
     <string name="disable_restore">Tiklanmasin</string>
     <string name="data_file">Ma’lumotlarni eksport qilish</string>
-    <string name="bookmarks_data_to_long">Bukmark ma’lumotlari yuklash uchun juda katta, lekin boshqa ma’lumotlar odatdagidek yuklanadi. Davom etasizmi?</string>
-    <string name="restore_tabs_hint_settings">\"Inkognito rejimi\" bilan kirsangiz varaqlarni tiklab bo‘lmaydi.</string>
+    <string name="bookmarks_data_to_long">Bukmarkdagi ma’lumotlar yuklash uchun juda katta, lekin boshqa ma’lumotlar odatdagidek yuklanadi. Davom etasizmi?</string>
+    <string name="restore_tabs_hint_settings">\"Inkognito rejimi\" bilan kirsangiz varaqlar tiklanmaydi.</string>
     <string name="ignore_secondary_ssl_error">Ikkilamchi SSL xatosiga e’tibor berilmasin</string>
     <string name="web_page_debug">Nosozlikni tuzatish sahifalari</string>
     <string name="web_page_debug_info">Endi siz telefoningizni kompyuterga ulashingiz, keyin \"chrome://inspect\" yordamida veb-sahifani Chrome (ShK) yordamida tuzatishingiz mumkin. Menyuda avval USB nosozlikni tuzatishni yoqishni unutmang: Qo‘shimcha sozlamalar > Dasturchi sozlamalari.</string>
@@ -319,7 +319,7 @@
     <string name="cloud_data_server">Bulutli ma’lumotlar serveri</string>
     <string name="chinese_server">Xitoy</string>
     <string name="global_server">Global</string>
-    <string name="server_message">Bu serverlarning ma’lumotlari sinxronlashtirilmaydi. Siz yana tizimga kirishingiz kerak.</string>
+    <string name="server_message">Serverdagi ma’lumotlar sinxronlashtirilmagan. Buning uchun tizimga yana kirishingiz kerak.</string>
     <string name="delete_bookmark_folder_message">%1$s jildidagi bukmarklar ham o‘chirib tashlanadi. Ishonchingiz komilmi?</string>
     <string name="action_new">Yangi</string>
     <string name="block_hint">Bloklangan: %1$s\nKuchga kirishi uchun yangilang.</string>
@@ -348,7 +348,7 @@
     <string name="simple_guide_of_writing_rule">Via deyarli barcha Adblock Plus filtrlarini qo‘llab-quvvatlaydi.
         \nQuyidagi filtr yordamida example.com so‘rovlarini bloklashingiz mumkin:
         \n||example.com^ (yoki oddiy: example.com)
-        \n\nJoker belgilarga ruxsat beriladi, masalan:
+        \n\nJoker belgilariga ruxsat beriladi, masalan:
         \n||example.com/js/ads_*.js
         \n\nSahifa elementini filtrlash misoli:
         \nexample.com###ad
@@ -363,11 +363,11 @@
     </plurals>
     <string name="updated_">%1$s yangilandi</string>
     <string name="filter_subscription_info">%1$s, %2$s</string>
-    <string name="enable_built_in_filters">O‘rnatilgan filtrlarni yoqish</string>
+    <string name="enable_built_in_filters">O‘rnatilgan filtrlardan foydalanish</string>
     <string name="enable_built_in_filters_description">O‘rnatilgan filtrlar faqat umumiy reklamalarni bloklaydi</string>
     <string name="update">Yangilash</string>
-    <string name="bookmarks_exported_successfully">Bukmarklar muvaffaqiyatli eksport qilindi</string>
-    <string name="data_exported_successfully">Maʼlumotlar muvaffaqiyatli eksport qilindi</string>
+    <string name="bookmarks_exported_successfully">Bukmarklar eksport qilindi</string>
+    <string name="data_exported_successfully">Maʼlumotlar eksport qilindi</string>
     <string name="privacy_policy">Maxfiylik siyosati</string>
     <string name="terms_of_use">Foydalanish shartlari</string>
     <string name="welcome">Xush kelibsiz</string>
@@ -379,7 +379,7 @@
     <string name="delete_account">Hisobni o‘chirish</string>
     <string name="delete_account_request_submitted">Hisobni o‘chirish so‘rovi yuborildi.</string>
     <string name="delete_account_hint">Hisob serverdan o‘chirib tashlanadi</string>
-    <string name="delete_account_message">O‘chirish so‘rovi yuborilganidan so‘ng, hisob tizimdan chiqadi va 15 kunlik o‘chirish muddatini kiritadi. Agar shu vaqt ichida qaytadan kirsangiz va ma’lumotlarni yuklasangiz, o‘chirish so‘rovi bekor qilinadi. Kutish muddati tugagandan so‘ng, hisob va tegishli ma’lumotlar serverdan butunlay o‘chiriladi.\nSo‘rovni yuborish uchun parolingizni kiriting.</string>
+    <string name="delete_account_message">O‘chirish so‘rovi yuborilganidan so‘ng, hisob tizimdan chiqariladi va 15 kunlik o‘chirish muddatini kiritadi. Agar shu vaqt ichida qaytadan kirsangiz va ma’lumotlarni yuklasangiz, o‘chirish so‘rovi bekor qilinadi. Kutish muddati tugagandan so‘ng, hisob va tegishli ma’lumotlar serverdan butunlay o‘chiriladi.\nSo‘rovni yuborish uchun parolingizni kiriting.</string>
     <string name="confirm_to_delete">O‘chirishni tasdiqlash</string>
     <string name="items_selected">%1d tanlandi</string>
     <string name="select_all">Hammasini tanlash</string>
@@ -397,14 +397,14 @@
     <string name="follow_me_on_weibo">Weiboda kuzatish</string>
     <string name="version">Versiya</string>
     <string name="paste_and_go">Joylash &amp; o‘tish</string>
-    <string name="night_filter_for_web_contents">Kontentlar uchun tungi filtr</string>
+    <string name="night_filter_for_web_contents">Tarkiblar uchun tungi filtr</string>
     <string name="force_dark_mode_for_web_contents">Qorong‘i sahifa rejimini majburlash</string>
-    <string name="force_dark_mode_for_web_contents_description">Agar yoqilgan bo‘lsa, sahifa kontenti uchun qorong‘i rejim qo‘llaniladi, bu ba’zi sahifalarni g‘ayritabiiy ishlashiga olib kelishi mumkin.</string>
+    <string name="force_dark_mode_for_web_contents_description">Agar yoqilsa, sahifa tarkibi u-n qorong‘i rejim qo‘llaniladi, bu ba’zi sahifalarni g‘ayritabiiy ishlashiga olib kelishi mumkin.</string>
     <string name="require_javascript_enabled">Faqat JavaScript yoqilgan bo‘lsa, ishlaydi.</string>
-    <string name="keyboard_shortcuts">Tezkor klaviatura</string>
+    <string name="keyboard_shortcuts">Tezkor klaviaturalar</string>
     <string name="export_data_description">Bukmarklar, sozlamalar, skriptlar va reklama filtrlarini eksport qilish</string>
     <string name="language">Til</string>
-    <string name="restart_to_take_effect">Bu keyingi safar ilovani ochganingizda kuchga kiradi. Hozir qayta ishga tushirilsinmi?</string>
+    <string name="restart_to_take_effect">Bu keyingi safar ilovani ochganingizda kuchga kiradi. Hoziroq qayta ishga tushirilsinmi?</string>
     <string name="more">Yana</string>
     <string name="sort_order">Saralash</string>
     <string name="sort_by_oldest_first">Eskisi birinchi</string>
@@ -444,14 +444,14 @@
     <string name="action_save">Saqlash</string>
     <string name="reset_to_default_settings">Birlamchi sozmalarga qaytarish</string>
     <string name="script_sites">Saytlar (misol *.foo.com,bar.*/list)</string>
-    <string name="simple_guide_of_writing_script">Sayt yuklanganda skript avtomatik ravishda ishlay boshlaydi..
+    <string name="simple_guide_of_writing_script">Sayt yuklanganda skript avtomatik ravishda ishlay boshlaydi.
     \n\nSaytlar (zarur): Sayt skriptlari \"*\" joker belgisini qo‘llab-quvvatlaydi va bir nechta saytlar \",\", bilan ajratiladi, masalan: *.foo.com,bar.*/list.
-    \n\nIzoh (ixtiyoriy): sarlavhasi sifatida ishlatiladi.
-    \n\nKode (zarur): Sof JavaScriptdan foydalanish tavsiya etiladi. Agar veb-sayt bu ramkalardan foydalansa, jquery yoki vue.js sintaksisidan ham foydalanishingiz mumkin.</string>
+    \n\nIzoh (ixtiyoriy): sarlavha sifatida ishlatiladi.
+    \n\nKod (zarur): Sof JavaScriptdan foydalanish tavsiya etiladi. Agar sayt bu ramkalardan foydalansa, jquery yoki vue.js sintaksisidan ham foydalanishingiz mumkin.</string>
     <string name="save_data">Trafik tejash</string>
-    <string name="save_data_description">Mos veb-saytlarda trafik tejash rejiminidan foydalanish</string>
+    <string name="save_data_description">Mos saytlarda trafik tejash rejimidan foydalanish</string>
     <string name="use_line_style_search_box">Qidiruv maydoni qator sifatida</string>
-    <string name="toast_script_added">Skript muvaffaqiyatli qo‘shildi</string>
+    <string name="toast_script_added">Skript qo‘shildi</string>
     <string name="action_manage_favorites">Sevimlilar menejeri</string>
     <string name="check_for_updates">Yangilanishlarni tekshirish</string>
     <string name="checking_for_updates">Yangilanishlar tekshirilmoqda</string>
@@ -518,8 +518,8 @@
     <string name="stop_loading_reason">Quyidagi filtr tufayli:</string>
     <string name="continue_loading">Yuklashni davom etish</string>
     <string name="allow_webpage_access_to_clipboard">Saytga vaqtinchalik xotiraga kirishga ruxsat berish</string>
-    <string name="ask_to_allow_webpage_to_copy_text">%DOMAIN%dan matnni nusxalansinmi?</string>
-    <string name="ask_to_allow_webpage_to_paste_text">%DOMAIN% uchun matnni joylansinmi?</string>
+    <string name="ask_to_allow_webpage_to_copy_text">%DOMAIN%dan matn nusxalansinmi?</string>
+    <string name="ask_to_allow_webpage_to_paste_text">%DOMAIN% uchun matn joylansinmi?</string>
     <string name="option_allow">Ruxsat berish</string>
     <string name="option_deny">Rad etish</string>
     <string name="search_bar_style">Panel uslubi</string>
@@ -537,7 +537,7 @@
     <string name="search_part">Qidiruv qismi</string>
     <string name="search_part_hide">Yashirish</string>
     <string name="search_part_show">Ko‘rsatish</string>
-    <string name="image_preference">Rasm afzalligi</string>
+    <string name="image_preference">Afzal rejim</string>
     <string name="background_color">Rang</string>
     <string name="background_image">Rasm</string>
     <string name="favorites_clear_icons">Belgilarni tozalash</string>
