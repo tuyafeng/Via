@@ -31,7 +31,7 @@
     <string name="orientation_landscape">Manzara</string>
     <string name="agent">User-agent</string>
     <string name="home">Bosh sahifa</string>
-    <string name="fullscreen">Vositalar panelini avtomatik yashirish</string>
+    <string name="fullscreen">Panelni avtomatik yashirish</string>
     <string name="java">JavaScriptni yoqish</string>
     <string name="download">Yuklanmalar joylashuvi</string>
     <string name="size">Matn o‘lchami</string>
@@ -145,7 +145,7 @@
     <string name="do_not_track">Kuzatilmasin</string>
     <string name="add_rule">Filtr qo‘shish</string>
     <string name="color_mode">Rang rejimi</string>
-    <string name="dialog_sure">Ishonchingiz komilmi?</string>
+    <string name="dialog_sure">Davom etish?</string>
     <string name="action_send_to_launcher">Ekran yorlig‘i</string>
     <string name="settings_cloud">Hisob</string>
     <string name="user">Kirish/Ro‘yxatdan o‘tish</string>
@@ -195,7 +195,7 @@
     <string name="action_save_web_page">Sahifani saqlash</string>
     <string name="action_saved_pages">Saqlangan sahifalar</string>
     <string name="saved_page_successfully">Veb-sahifa bu yerga saqlandi: Bukmarklar > Saqlangan sahifalar</string>
-    <string name="deleted_failed">O‘chirishda xatolik yuz berdi. Fayl joylashuvgan yo‘l: </string>
+    <string name="deleted_failed">O‘chirishda xatolik yuz berdi. Fayl joylashgan yo‘l: </string>
 
     <string name="empty_hint">Bo‘sh</string>
 
@@ -205,7 +205,7 @@
 
     <string name="already_default">Via allaqachon birlamchi sifatida o‘rnatilgan</string>
 
-    <string name="set_to_default">%1$s havolasi ochilgandan so‘ng u birlamchi sifatida o‘rnatiladi. Iltimos, havolani ochish uchun Via brauzerini tanlang.</string>
+    <string name="set_to_default">%1$s havolasi ochilgandan so‘ng u birlamchi sifatida o‘rnatiladi. Havolani ochish uchun Via brauzerini tanlang.</string>
 
     <string name="sync_prompt">Joriy mahalliy bukmarklar va sozlamalar ustiga yoziladi. Davom etasizmi?</string>
     <string name="upload_prompt">Joriy mahalliy bukmarklar va sozlamalar yuboriladi. Davom etasizmi?</string>
