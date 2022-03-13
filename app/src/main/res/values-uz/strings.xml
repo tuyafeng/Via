@@ -400,11 +400,11 @@
     <string name="night_filter_for_web_contents">Kontentlar uchun tungi filtr</string>
     <string name="force_dark_mode_for_web_contents">Qorong‘i sahifa rejimini majburlash</string>
     <string name="force_dark_mode_for_web_contents_description">Agar yoqilgan bo‘lsa, sahifa kontenti uchun qorong‘i rejim qo‘llaniladi, bu ba’zi sahifalarni g‘ayritabiiy ishlashiga olib kelishi mumkin.</string>
-    <string name="require_javascript_enabled">Agar JavaScript yoqilgan bo‘lsa, bu kuchga kiradi.</string>
-    <string name="keyboard_shortcuts">Klaviatura yorliqlari</string>
+    <string name="require_javascript_enabled">Faqat JavaScript yoqilgan bo‘lsa, ishlaydi.</string>
+    <string name="keyboard_shortcuts">Tezkor klaviatura</string>
     <string name="export_data_description">Bukmarklar, sozlamalar, skriptlar va reklama filtrlarini eksport qilish</string>
     <string name="language">Til</string>
-    <string name="restart_to_take_effect">Bu keyingi safar ilovani ochganingizda kuchga kiradi. Darhol kuchga kirishi uchun uni qayta ishga tushirishni istaysizmi?</string>
+    <string name="restart_to_take_effect">Bu keyingi safar ilovani ochganingizda kuchga kiradi. Hozir qayta ishga tushirilsinmi?</string>
     <string name="more">Yana</string>
     <string name="sort_order">Saralash</string>
     <string name="sort_by_oldest_first">Eskisi birinchi</string>
@@ -418,10 +418,10 @@
     <string name="delete_item_message">Haqiqatan ham %1$s o‘chirilsinmi?</string>
     <string name="item_has_been_deleted">\"%1$s\" o‘chirildi</string>
     <string name="undo">Bekor qilish</string>
-    <string name="can_not_sort_list_when_sorting_alphabetically">Alifbo bo‘yicha saralashda ro‘yxatni tartiblab bo‘lmaydi</string>
+    <string name="can_not_sort_list_when_sorting_alphabetically">Ro‘yxatni alifbo tartibida saralab bo‘lmaydi</string>
     <string name="opened_in_background_message">Fonda yangi varaq ochildi</string>
     <string name="bookmark_added">Bukmark qo‘shildi</string>
-    <string name="allow_website_to_open_app_message">Veb-saytga %1$s ilovasini ochishga ruxsat berilsinmi?</string>
+    <string name="allow_website_to_open_app_message">Saytga %1$s ilovasini ochishga ruxsat berilsinmi?</string>
     <string name="width">Kenglik</string>
     <string name="height">Balandlik</string>
     <string name="corner_radius">Burchak radiusi</string>
@@ -431,26 +431,26 @@
     <string name="stroke_width">Chegara kengligi</string>
     <string name="stroke_opacity">Chegara shaffofligi</string>
     <string name="opacity">Shaffoflik</string>
-    <string name="disable_website_icons">Veb-sayt belgilarini o‘chirish</string>
+    <string name="disable_website_icons">Sayt belgilarini o‘chirish</string>
     <string name="disable_icon_color">Belgi rangini o‘chirish</string>
     <string name="font_style">Shrift uslubi</string>
     <string name="bold">Qalin</string>
     <string name="italics">Qiya</string>
-    <string name="clear_website_icon_cache">Veb-sayt belgi keshini tozalash</string>
-    <string name="clear_website_icon_cache_message">Unutmang, bu bosh sahifadagi barcha sevimli belgilarni tozalaydi. Har bir belgi keyingi safar tegishli veb-saytga tashrif buyurganingizda yuklab olinadi.</string>
+    <string name="clear_website_icon_cache">Veb-sayt belgisi keshini tozalash</string>
+    <string name="clear_website_icon_cache_message">Bosh sahifadagi barcha sevimli belgilarni tozalashni unutmang. Har bir belgi keyingi safar tegishli veb-saytga tashrif buyurganingizda yuklab olinadi.</string>
     <string name="use_blur_instead_of_transparency">Shaffoflik o‘rniga xiralashtirish effektidan foydalanish</string>
     <string name="desc_favorite_icon">Sevimli belgi</string>
     <string name="script_remarks">Izoh</string>
     <string name="action_save">Saqlash</string>
     <string name="reset_to_default_settings">Birlamchi sozmalarga qaytarish</string>
     <string name="script_sites">Saytlar (misol *.foo.com,bar.*/list)</string>
-    <string name="simple_guide_of_writing_script">Yozilgan skript veb-sayt yuklanganda avtomatik ravishda kuchga kiradi.
-    \n\nSaytlar (talab qilinadi): Skriptlangan sayt \"*\" joker belgisini qo‘llab-quvvatlaydi va bir nechta saytlar \",\", bilan ajratiladi, masalan: *.foo.com,bar.*/list.
-    \n\nIzoh (ixtiyoriy): Skript sarlavhasi sifatida ishlatiladi.
-    \n\nCode (talab qilinadi): Mahalliy JavaScriptdan foydalanish tavsiya etiladi. Agar veb-sayt bu ramkalardan foydalansa, jquery yoki vue.js sintaksisidan ham foydalanishingiz mumkin.</string>
+    <string name="simple_guide_of_writing_script">Sayt yuklanganda skript avtomatik ravishda ishlay boshlaydi..
+    \n\nSaytlar (zarur): Sayt skriptlari \"*\" joker belgisini qo‘llab-quvvatlaydi va bir nechta saytlar \",\", bilan ajratiladi, masalan: *.foo.com,bar.*/list.
+    \n\nIzoh (ixtiyoriy): sarlavhasi sifatida ishlatiladi.
+    \n\nKode (zarur): Sof JavaScriptdan foydalanish tavsiya etiladi. Agar veb-sayt bu ramkalardan foydalansa, jquery yoki vue.js sintaksisidan ham foydalanishingiz mumkin.</string>
     <string name="save_data">Trafik tejash</string>
-    <string name="save_data_description">Mos veb-saytlarda trafik tejash rejimini yoqish</string>
-    <string name="use_line_style_search_box">Chiziq uslubidagi qidiruv maydonidan foydalanish</string>
+    <string name="save_data_description">Mos veb-saytlarda trafik tejash rejiminidan foydalanish</string>
+    <string name="use_line_style_search_box">Qidiruv maydoni qator sifatida</string>
     <string name="toast_script_added">Skript muvaffaqiyatli qo‘shildi</string>
     <string name="action_manage_favorites">Sevimlilar menejeri</string>
     <string name="check_for_updates">Yangilanishlarni tekshirish</string>
@@ -460,7 +460,7 @@
     <string name="action_download_file">Yuklab olish</string>
     <string name="entered_full_screen_mode">To‘liq ekran rejimiga kirdi</string>
     <string name="delete_hint">O‘chirish (%1$d)</string>
-    <string name="follow_system_dark_mode_on">Kuzatish tizimi qorong‘i rejimi yoqilgan</string>
+    <string name="follow_system_dark_mode_on">Agar yoqilgan bo‘lsa, tizimning qorong‘i rejimidan foydalaning</string>
     <string name="scoped_search">Qidiruv %1$s</string>
     <string name="add_shortcut">Yorliq qo‘shish</string>
     <string name="need_shortcut_permission">Ruxsat berilmadi. Iltimos, sozlamalarga o‘ting va ushbu ilova uchun \"Bosh ekran yorliqlarini yaratish\" ruxsatini yoqing.</string>
@@ -490,19 +490,19 @@
         <br /><br /><b>AMAL QILISH MUDDATI</b><br />
         <b>Berilgan vaqti</b><br />
         %6$s
-        <br /><b>Amal qilish muddati</b><br />
+        <br /><b>Muddati tugaydi</b><br />
         %7$s
         <br />
     ]]></string>
-    <string name="no_certificate">Veb-saytda sertifikat yo‘q.</string>
+    <string name="no_certificate">Saytda sertifikat yo‘q.</string>
     <string name="site_conf_enabled">Sayt konfiguratsiyasi (yoqilgan)</string>
-    <string name="do_not_sell_or_share">Ma’lumotlar sotilmasin yoki ulashilmasin</string>
-    <string name="do_not_sell_or_share_description">Veb-saytdan maxfiylikni himoya qilish u-n ma’lumotlarimni sotmaslik yoki ulashmaslik talab qilinadi</string>
-    <string name="email_me">Email</string>
-    <string name="scan_qr_code">QR kodni skanerlash</string>
-    <string name="scan_qr_code_from_image">Rasmdan QR kodni skanerlash</string>
+    <string name="do_not_sell_or_share">Ma’lumotlar uzatilmasin</string>
+    <string name="do_not_sell_or_share_description">Maxfiyligimni himoya qilish u-n saytdan ma’lumotlarimni sotmaslik yoki ulashmaslik talab qilinadi</string>
+    <string name="email_me">Menga xat yozish</string>
+    <string name="scan_qr_code">QR kodini skanerlash</string>
+    <string name="scan_qr_code_from_image">Rasmdan QR kodini skanerlash</string>
     <string name="switch_flash">Chiroqni almashtirish</string>
-    <string name="qr_code_scan_result">QR kodni skanerlash natijasi</string>
+    <string name="qr_code_scan_result">Skanerlash natijasi</string>
     <string name="qr_code_not_detected">QR kod aniqlanmadi</string>
     <string name="save_qr_code_successfully">QR kod galereyaga saqlandi</string>
     <string name="description_with_number">%1$s (%2$d)</string>
@@ -517,9 +517,9 @@
     <string name="stop_loading_description">Via quyidagi sahifani yuklanishiga to‘sqinlik qildi:</string>
     <string name="stop_loading_reason">Quyidagi filtr tufayli:</string>
     <string name="continue_loading">Yuklashni davom etish</string>
-    <string name="allow_webpage_access_to_clipboard">Veb-sahifaga vaqtinchalik xotiraga kirishga ruxsat berish</string>
-    <string name="ask_to_allow_webpage_to_copy_text">%DOMAIN%dan matnni nusxalashga ishonchingiz komilmi?</string>
-    <string name="ask_to_allow_webpage_to_paste_text">%DOMAIN% uchun matnni joylashingizga ishonchingiz komilmi?</string>
+    <string name="allow_webpage_access_to_clipboard">Saytga vaqtinchalik xotiraga kirishga ruxsat berish</string>
+    <string name="ask_to_allow_webpage_to_copy_text">%DOMAIN%dan matnni nusxalansinmi?</string>
+    <string name="ask_to_allow_webpage_to_paste_text">%DOMAIN% uchun matnni joylansinmi?</string>
     <string name="option_allow">Ruxsat berish</string>
     <string name="option_deny">Rad etish</string>
     <string name="search_bar_style">Panel uslubi</string>
