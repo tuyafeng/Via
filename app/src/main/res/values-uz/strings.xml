@@ -59,7 +59,7 @@
     <string name="hint_folder">Jild</string>
     <string name="title_edit_bookmark">Bukmarkni tahrirlash</string>
     <string name="action_edit">Tahrirlash</string>
-    <string name="action_incognito">Inkognito</string>
+    <string name="action_incognito">Inkognito rejimi</string>
     <string name="action_find">Sahifadan izlash</string>
     <string name="download_pending">Yuklanmoqda\u2026</string>
     <string name="cannot_download">Faqat \"http\" yoki \"https\" manzillaridan yuklab olish mumkin.</string>
