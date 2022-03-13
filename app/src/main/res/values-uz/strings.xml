@@ -24,12 +24,12 @@
     <string name="password">Parollarni saqlash</string>
     <string name="donate">Xayriya</string>
     <string name="donate_details">Agar sizga Via brauzer yoqsa, bizni qo‘llab-quvvatlash uchun xayriya qilishingiz mumkin.\nAlipay: 2376688759@qq.com\nPayPal: wiar1824@gmail.com</string>
-    <string name="orientation">Orientatsiya</string>
+    <string name="orientation">Ekran aylanishi</string>
     <string name="follow_system">Tizim</string>
     <string name="orientation_auto">Avtomatik</string>
     <string name="orientation_portrait">Portret</string>
     <string name="orientation_landscape">Manzara</string>
-    <string name="agent">Foydalanuvchi-agent</string>
+    <string name="agent">User-agent</string>
     <string name="home">Bosh sahifa</string>
     <string name="fullscreen">Vositalar panelini avtomatik yashirish</string>
     <string name="java">JavaScriptni yoqish</string>
@@ -88,7 +88,7 @@
     <string name="action_allow">Ruxsat berish</string>
     <string name="action_dont_allow">Rad etish</string>
     <string name="title_sign_in">Kirish</string>
-    <string name="hint_username">Foydalanuvchi nomi</string>
+    <string name="hint_username">Ism</string>
     <string name="hint_password">Parol</string>
     <string name="untitled">Sarlavhasiz</string>
     <string name="image_auto">Rasmlarni faqat Wi-Fi orqali ko‘rsatish</string>
@@ -104,7 +104,7 @@
     <string name="wait_a_moment">Biroz kuting&#8230;</string>
     <string name="toast_operation_failed">Operatsiya bajarilmadi</string>
     <string name="toast_operation_done">Operatsiya tugallandi</string>
-    <string name="volume">O‘tkazish uchun ovoz tugmalaridan foydalaning</string>
+    <string name="volume">O‘tkazish u-n ovoz tugmalaridan foydalaning</string>
     <string name="msg_intent">Veb-saytga ilovangizni ochishga ruxsat berilsinmi?</string>
     <string name="setting_default">Birlamchi brauzer sifatida o‘rnatish</string>
     <string name="toast_clear_defaults">Iltimos, birlamchi sozlamalarni tozalang</string>
@@ -154,7 +154,7 @@
     <string name="wrong_psw">Parol noto‘g‘ri.</string>
     <string name="sign_up_success">Ro‘yxatdan o‘tish muvaffaqiyatli</string>
     <string name="code_500">Xizmat mavjud emas.</string>
-    <string name="syns_success">Sinxronlash tugallandi</string>
+    <string name="syns_success">Sinxronlash tugadi</string>
     <string name="upload_success">Yuklash tugallandi</string>
     <string name="log_out">Chiqish?</string>
     <string name="crash_info">Nimadir noto‘g‘ri ketdi. :(</string>
@@ -163,7 +163,7 @@
     <string name="upload_completed">Yuklash tugallandi</string>
     <string name="ui_mode">Vositalar paneli UI rejim</string>
     <string name="addon_download">Yuklab olish menejeri</string>
-    <string name="quick_back">Qayta yuklamasdan orqaga qaytish</string>
+    <string name="quick_back">Qayta yuklamasdan ortga qaytish</string>
     <string name="open_with">Ochish&#8230;</string>
     <string name="download_completed">Yuklab olindi</string>
     <string name="toast_fullscreen_off">To‘liq ekran rejimidan chiqish</string>
@@ -213,7 +213,7 @@
     <string name="check_permission">Ruxsat berilmadi. Uni hoziroq sozlamalarda o‘rnatishni xohlaysizmi?</string>
     <string name="need_permission_hint">Via ishlashi uchun quyidagi ruxsatlar kerak:\n\n</string>
     <string name="storage_permission">Xotira: brauzerdan fayllarni yuklab olish va bukmarklarni import/eksport qilish va h.k.\n\n</string>
-    <string name="location_permission">Joylashuv: Google Xaritalar kabi saytlar uchun u sukut bo‘yicha o‘chirilgan. U yoqilganda, sayt joylashuvingizdan foydalanishi mumkinligini so‘rab qalquvchi oyna ko‘rsatadi.\n\n</string>
+    <string name="location_permission">Joylashuv: Google Xaritalar kabi saytlar uchun sukut bo‘yicha o‘chirilgan. U yoqilganda, sayt joylashuvingizdan foydalanishi mumkinligini so‘rab qalquvchi oyna ko‘rsatadi.\n\n</string>
     <string name="force_cancel">Majburan yopish</string>
     <string name="restore_tabs_hint">Oxirgi seansdagi yopilmagan varaqlar tiklansinmi?</string>
     <string name="restore_tabs">Ishga tushgach varaqlarni tiklash</string>
@@ -259,7 +259,7 @@
     <string name="operation_hint">Imo-ishoralar, yorliqlar, funksional kalitlar</string>
     <string name="adblock_info">Yoqilgan: %1$d reklama bloklandi, %2$s tejaldi</string>
     <string name="disable">O‘chirilgan</string>
-    <string name="ui_traditional">Sendvich</string>
+    <string name="ui_traditional">Sandwich</string>
     <string name="color_mode_hint">Vositalar panel rangini avto-sozlash</string>
     <string name="skin_hide_search_part">Qidiruv qismini yashirish</string>
     <string name="file_size">Fayl o‘lchami: %1$s</string>
@@ -287,10 +287,10 @@
     <string name="title_edit_favorite">Sevimlilarni tahrirlash</string>
     <string name="custom_css_special">Maxsus CSS</string>
     <string name="force_enable_zoom">Majburiy masshtabni yoqish</string>
-    <string name="set_ua_as">Foydalanuvchi-agent quyidagicha o‘rnatiladi: %1$s</string>
+    <string name="set_ua_as">User-agent quyidagicha o‘rnatiladi: %1$s</string>
     <string name="import_data">Ma’lumotlarni import qilish</string>
     <string name="import_data_failed">Maʼlumotlarni import qilib bo‘lmadi!</string>
-    <string name="import_data_succeed">Maʼlumotlar muvaffaqiyatli import qilindi!</string>
+    <string name="import_data_succeed">Maʼlumotlar import qilindi!</string>
     <string name="export_data">Ma’lumotlarni eksport qilish</string>
     <string name="export_data_to">Ma’lumotlarni eksport qilish: %1$s</string>
     <string name="always_restore">Har doim tiklash</string>
@@ -298,7 +298,7 @@
     <string name="disable_restore">Tiklanmasin</string>
     <string name="data_file">Ma’lumotlarni eksport qilish</string>
     <string name="bookmarks_data_to_long">Bukmark ma’lumotlari yuklash uchun juda katta, lekin boshqa ma’lumotlar odatdagidek yuklanadi. Davom etasizmi?</string>
-    <string name="restore_tabs_hint_settings">\"Inkognito rejimi\" bilan kirsangiz varaqlar tiklanmaydi.</string>
+    <string name="restore_tabs_hint_settings">\"Inkognito rejimi\" bilan kirsangiz varaqlarni tiklab bo‘lmaydi.</string>
     <string name="ignore_secondary_ssl_error">Ikkilamchi SSL xatosiga e’tibor berilmasin</string>
     <string name="web_page_debug">Veb-sahifada nosozlikni tuzatishni yoqish</string>
     <string name="web_page_debug_info">Endi siz telefoningizni kompyuterga ulashingiz, keyin \"chrome://inspect\" yordamida veb-sahifani Chrome (ShK) yordamida tuzatishingiz mumkin. Menyuda avval USB nosozlikni tuzatishni yoqishni unutmang: Qo‘shimcha sozlamalar > Dasturchi sozlamalari.</string>
@@ -398,7 +398,7 @@
     <string name="version">Versiya</string>
     <string name="paste_and_go">Joylash &amp; o‘tish</string>
     <string name="night_filter_for_web_contents">Veb tarkiblar uchun tungi filtr</string>
-    <string name="force_dark_mode_for_web_contents">Veb tarkiblar uchun qorong‘i ishlashni majburlash</string>
+    <string name="force_dark_mode_for_web_contents">Veb tarkiblar u-n qorong‘i ishlashni majburlash</string>
     <string name="force_dark_mode_for_web_contents_description">Yoqilganda, veb-sahifalar qorayishga majbur bo‘ladi, bu esa ba’zi sahifalarning g‘ayritabiiy ishlashiga olib kelishi mumkin.</string>
     <string name="require_javascript_enabled">Agar JavaScript yoqilgan bo‘lsa, bu kuchga kiradi.</string>
     <string name="keyboard_shortcuts">Klaviatura yorliqlari</string>
@@ -443,7 +443,7 @@
     <string name="script_remarks">Izoh</string>
     <string name="action_save">Saqlash</string>
     <string name="reset_to_default_settings">Birlamchi sozmalarga qaytarish</string>
-    <string name="script_sites">Saytlar (*.foo.com,bar.*/list kabi)</string>
+    <string name="script_sites">Saytlar (misol *.foo.com,bar.*/list)</string>
     <string name="simple_guide_of_writing_script">Yozilgan skript veb-sayt yuklanganda avtomatik ravishda kuchga kiradi.
     \n\nSaytlar (talab qilinadi): Skriptlangan sayt \"*\" joker belgisini qo‘llab-quvvatlaydi va bir nechta saytlar \",\", bilan ajratiladi, masalan: *.foo.com,bar.*/list.
     \n\nIzoh (ixtiyoriy): Skript sarlavhasi sifatida ishlatiladi.
@@ -497,7 +497,7 @@
     <string name="no_certificate">Veb-saytda sertifikat yo‘q.</string>
     <string name="site_conf_enabled">Sayt konfiguratsiyasi (yoqilgan)</string>
     <string name="do_not_sell_or_share">Ma’lumotlar sotilmasin yoki ulashilmasin</string>
-    <string name="do_not_sell_or_share_description">Veb-saytdan maxfiylikni himoya qilish uchun ma’lumotlarimni sotmaslik yoki ulashmaslik talab qilinadi</string>
+    <string name="do_not_sell_or_share_description">Veb-saytdan maxfiylikni himoya qilish u-n ma’lumotlarimni sotmaslik yoki ulashmaslik talab qilinadi</string>
     <string name="email_me">Email</string>
     <string name="scan_qr_code">QR kodni skanerlash</string>
     <string name="scan_qr_code_from_image">Rasmdan QR kodni skanerlash</string>
@@ -541,7 +541,7 @@
     <string name="background_color">Rang</string>
     <string name="background_image">Rasm</string>
     <string name="favorites_clear_icons">Belgilarni tozalash</string>
-    <string name="customization_reset">Asliga qaytarish</string>
+    <string name="customization_reset">Tiklash</string>
     <string name="theme_color">Mavzu rangi</string>
     <string name="theme_color_dark">Qorong‘i</string>
     <string name="theme_color_light">Yorqin</string>
