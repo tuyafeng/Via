@@ -59,7 +59,7 @@
     <string name="hint_folder">Jild</string>
     <string name="title_edit_bookmark">Bukmarkni tahrirlash</string>
     <string name="action_edit">Tahrirlash</string>
-    <string name="action_incognito">Inkognito rejimi</string>
+    <string name="action_incognito">Inkognito rejim</string>
     <string name="action_find">Sahifadan izlash</string>
     <string name="download_pending">Yuklanmoqda\u2026</string>
     <string name="cannot_download">Faqat \"http\" yoki \"https\" manzillaridan yuklab olish mumkin.</string>
@@ -111,7 +111,7 @@
     <string name="toast_copy_url_successful">Havoladan nusxa olindi</string>
     <string name="toast_copy_text_successful">Matndan nusxa olindi</string>
     <string name="incognito_on">Inkognito rejimiga o‘tdingiz</string>
-    <string name="incognito_off">Inkognito rejimi o‘chirildi</string>
+    <string name="incognito_off">Inkognito o‘chirildi</string>
     <string name="operation_none">Yo‘q</string>
     <string name="operation_reload">Qayta yuklash</string>
     <string name="operation_top">Yuqoriga o‘tkazish</string>
@@ -128,7 +128,7 @@
     <string name="settings_privacy">Maxfiylik</string>
     <string name="settings_advanced">Qo‘shimcha</string>
     <string name="settings_about">Ilova haqida</string>
-    <string name="url_box">Manzil tarkibi</string>
+    <string name="url_box">Manzilning panel tarkibi</string>
     <string name="url_box_domain">Domen</string>
     <string name="action_pcview">Desktop versiya</string>
     <string name="action_source">Manbani ko‘rish</string>
@@ -145,13 +145,13 @@
     <string name="do_not_track">Kuzatilmasin</string>
     <string name="add_rule">Filtr qo‘shish</string>
     <string name="color_mode">Rang rejimi</string>
-    <string name="dialog_sure">Davom etasizmi?</string>
+    <string name="dialog_sure">Davom etish?</string>
     <string name="action_send_to_launcher">Ekran yorlig‘i</string>
     <string name="settings_cloud">Hisob</string>
     <string name="user">Kirish/Ro‘yxatdan o‘tish</string>
     <string name="user_syns">Sinxronlash</string>
     <string name="user_update">Yuklash</string>
-    <string name="wrong_psw">Parol noto‘g‘ri</string>
+    <string name="wrong_psw">Parol noto‘g‘ri.</string>
     <string name="sign_up_success">Ro‘yxatdan o‘tish yakunlandi</string>
     <string name="code_500">Xizmat mavjud emas.</string>
     <string name="syns_success">Sinxronlash yakunlandi</string>
@@ -173,13 +173,13 @@
     <string name="data_form_data">Shakl ma’lumotlar</string>
     <string name="data_history">Tarix</string>
     <string name="data_storage">Veb-xotira</string>
-    <string name="data_cookies">Cookie fayllar</string>
+    <string name="data_cookies">Cookie fayllar (kirish holati)</string>
     <string name="data_cleared">Maʼlumotlar tozalandi</string>
 
     <string name="sync_desc">Agar hisob mavjud bo‘lmasa, yaratiladi.</string>
 
     <string name="settings_skin">Tashqi ko‘rinish</string>
-    <string name="default_set">Odatiy</string>
+    <string name="default_set">Birlamchi</string>
     <string name="picture">Rasm</string>
     <string name="text">Matn</string>
     <string name="html_code">HTML kod</string>
@@ -257,8 +257,8 @@
     <string name="toolbar_settings_hint">Harakatingizni o‘rnatish uchun quyidagi tugmani bosing, belgilangan amalni ko‘rish uchun uzoq bosib turing.</string>
     <string name="action_modify">O‘zgartirish</string>
     <string name="operation_hint">Imo-ishoralar, tugmalar va h.k.</string>
-    <string name="adblock_info">Yoqilgan: %1$d reklama bloklandi, %2$s tejadi</string>
-    <string name="disable">O‘chiq</string>
+    <string name="adblock_info">Yoqilgan: %1$d reklama bloklandi, %2$s tejab qolindi</string>
+    <string name="disable">O‘chirilgan</string>
     <string name="ui_traditional">Sandwich</string>
     <string name="color_mode_hint">Panel rangini avto-sozlash</string>
     <string name="skin_hide_search_part">Qidiruv qismini yashirish</string>
@@ -337,8 +337,8 @@
     <string name="custom_filters">Maxsus filtrlar</string>
     <string name="custom_filters_description">Filtrlaringiz va reklama teglaridan foydalaning</string>
     <string name="custom_filter">Maxsus filtr</string>
-    <string name="add_filter_subscription">Obuna qo‘shish</string>
-    <string name="edit_filter_subscription">Obunani tahrirlash</string>
+    <string name="add_filter_subscription">Obunani qo‘shish</string>
+    <string name="edit_filter_subscription">Obunani o‘zgartirish</string>
     <string name="updating_filter_subscriptions">Obunani yangilash</string>
     <string name="update_filter_subscriptions_completed">Filtr obunalarini yangilash tugallandi.</string>
     <string name="update_filter_subscription_failed">Filtr obunasini yangilashda xatolik yuz berdi.\n%1$s</string>
@@ -436,18 +436,18 @@
     <string name="font_style">Shrift uslubi</string>
     <string name="bold">Qalin</string>
     <string name="italics">Qiya</string>
-    <string name="clear_website_icon_cache">Belgilar keshini tozalash</string>
-    <string name="clear_website_icon_cache_message">Bosh sahifadagi barcha sevimli belgilarni tozalashni unutmang. Belgilar keyingi safar tegishli veb-saytga tashrif buyurganingizda yuklab olinadi.</string>
+    <string name="clear_website_icon_cache">Veb-sayt belgisi keshini tozalash</string>
+    <string name="clear_website_icon_cache_message">Bosh sahifadagi barcha sevimli belgilarni tozalashni unutmang. Har bir belgi keyingi safar tegishli veb-saytga tashrif buyurganingizda yuklab olinadi.</string>
     <string name="use_blur_instead_of_transparency">Shaffoflik o‘rniga xiralashtirish effektidan foydalanish</string>
-    <string name="desc_favorite_icon">Sevimlilar belgisi</string>
+    <string name="desc_favorite_icon">Sevimli belgi</string>
     <string name="script_remarks">Izoh</string>
     <string name="action_save">Saqlash</string>
-    <string name="reset_to_default_settings">Asliga qaytarish</string>
+    <string name="reset_to_default_settings">Birlamchi sozmalarga qaytarish</string>
     <string name="script_sites">Saytlar (misol *.foo.com,bar.*/list)</string>
     <string name="simple_guide_of_writing_script">Sayt yuklanganda skript avtomatik ravishda ishlay boshlaydi.
-    \n\nSaytlar (talab etiladi): Sayt skriptlari \"*\" joker belgisini qo‘llab-quvvatlaydi va bir nechta saytlar \",\", bilan ajratiladi, masalan: *.foo.com,bar.*/list.
+    \n\nSaytlar (zarur): Sayt skriptlari \"*\" joker belgisini qo‘llab-quvvatlaydi va bir nechta saytlar \",\", bilan ajratiladi, masalan: *.foo.com,bar.*/list.
     \n\nIzoh (ixtiyoriy): sarlavha sifatida ishlatiladi.
-    \n\nKod (talab etiladi): Mahalliy JavaScriptdan foydalanish tavsiya etiladi. Agar sayt bu ramkalardan foydalansa, jquery yoki vue.js sintaksisidan ham foydalanishingiz mumkin.</string>
+    \n\nKod (zarur): Sof JavaScriptdan foydalanish tavsiya etiladi. Agar sayt bu ramkalardan foydalansa, jquery yoki vue.js sintaksisidan ham foydalanishingiz mumkin.</string>
     <string name="save_data">Trafik tejash</string>
     <string name="save_data_description">Mos saytlarda trafik tejash rejimidan foydalanish</string>
     <string name="use_line_style_search_box">Qidiruv maydoni qator sifatida</string>
