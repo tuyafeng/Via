@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources tools:ignore="MissingTranslation" xmlns:tools="http://schemas.android.com/tools">
-
     <string name="app_name">Via</string>
     <string name="action_new_tab">New tab</string>
     <string name="action_open_in_new">Open in new tab</string>
@@ -167,7 +166,6 @@
     <string name="open_with">Open with&#8230;</string>
     <string name="download_completed">Download completed</string>
     <string name="toast_fullscreen_off">Exit full-screen mode</string>
-
     <string name="clear_data">Clear data</string>
     <string name="data_cache">Cache</string>
     <string name="data_form_data">Form data</string>
@@ -175,38 +173,26 @@
     <string name="data_storage">Web storage</string>
     <string name="data_cookies">Cookies (Login status)</string>
     <string name="data_cleared">Data cleared</string>
-
     <string name="sync_desc">An account will be created if it doesn\'t exist.</string>
-
     <string name="settings_skin">Customization</string>
     <string name="default_set">Default</string>
     <string name="picture">Picture</string>
     <string name="text">Text</string>
     <string name="html_code">HTML code</string>
-
     <string name="action_view_image">View image</string>
-
     <string name="skin_colorful">Colorful</string>
     <string name="skin_fruity">Fruity</string>
     <string name="skin_transparent">Transparent</string>
-
     <string name="block_popup">Block pop-up</string>
-
     <string name="action_save_web_page">Save page</string>
     <string name="action_saved_pages">Saved pages</string>
     <string name="saved_page_successfully">Webpage has been saved to: Bookmarks > Saved pages</string>
     <string name="deleted_failed">Failed to delete. The file is located in download path: </string>
-
     <string name="empty_hint">Empty</string>
-
     <string name="network_log">Network log</string>
-
     <string name="conn_timeout">Connection timed out</string>
-
     <string name="already_default">It has already been set as default</string>
-
     <string name="set_to_default">It will be set as default after opening link %1$s. Please choose Via to open the link.</string>
-
     <string name="sync_prompt">Your current local bookmarks and settings will be overwritten. Continue?</string>
     <string name="upload_prompt">Your current local bookmarks and settings will be uploaded. Continue?</string>
     <string name="none">None</string>
@@ -553,5 +539,4 @@
     <string name="tineye_url">TinEye</string>
     <string name="login_username">Username (the account will be created if not exist)</string>
     <string name="read_and_agree">Please read and agree to %1$s and %2$s</string>
-
 </resources>

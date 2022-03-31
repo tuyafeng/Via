@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources tools:ignore="MissingTranslation" xmlns:tools="http://schemas.android.com/tools">
-
     <string name="app_name">Via</string>
     <string name="action_new_tab">新分頁</string>
     <string name="action_open_in_new">開啟新視窗</string>
@@ -167,7 +166,6 @@
     <string name="open_with">透過應用程式開啟&#8230;</string>
     <string name="download_completed">下載已完成</string>
     <string name="toast_fullscreen_off">結束全螢幕模式</string>
-
     <string name="clear_data">清除資料</string>
     <string name="data_cache">快取</string>
     <string name="data_form_data">表單資料</string>
@@ -175,38 +173,26 @@
     <string name="data_storage">網頁儲存區</string>
     <string name="data_cookies">Cookies</string>
     <string name="data_cleared">資料已清除</string>
-
     <string name="sync_desc">若此帳號不存在將被建立</string>
-
     <string name="settings_skin">自訂外觀</string>
     <string name="default_set">預設值</string>
     <string name="picture">圖片</string>
     <string name="text">文字</string>
     <string name="html_code">HTML 代碼</string>
-
     <string name="action_view_image">檢視圖片</string>
-
     <string name="skin_colorful">繽紛</string>
     <string name="skin_fruity">果味</string>
     <string name="skin_transparent">透明</string>
-
     <string name="block_popup">封鎖彈出式視窗</string>
-
     <string name="action_save_web_page">儲存網頁</string>
     <string name="action_saved_pages">已儲存網頁</string>
-    <string name="saved_page_successfully">網頁已保存到\"書籤 > 儲存網頁\"中</string>
+    <string name="saved_page_successfully">網頁已儲存到\"書籤 > 儲存網頁\"中</string>
     <string name="deleted_failed">刪除失敗，此檔案位於下載路徑: </string>
-
     <string name="empty_hint">空空如也&#8230;</string>
-
     <string name="network_log">網路記錄檔</string>
-
     <string name="conn_timeout">連線逾時</string>
-
     <string name="already_default">已設為預設瀏覽器</string>
-
     <string name="set_to_default">開啟連結(%1$s)後將被設為預設瀏覽器，請選擇以 Via 開啟此連結。</string>
-
     <string name="sync_prompt">這將覆寫你目前的本機書籤與設定，繼續嗎？</string>
     <string name="upload_prompt">這將上傳你目前的本機書籤與設定，繼續嗎？</string>
     <string name="none">無</string>
@@ -348,9 +334,9 @@
     <string name="simple_guide_of_writing_rule">Via 幾乎支援所有的 Adblock Plus 篩選條件。
         \n你可以這樣封鎖 example.com 的所有要求：
         \n||example.com^（或 example.com）
-        \n\n萬用字元也可接受，例如：
+        \n\n萬用字元也可接受，如：
         \n||example.com/js/ads_*.js
-        \n\n你也可以解除封鎖特殊的要求，例如：
+        \n\n你也可以解除封鎖特殊的要求，如：
         \n@@||example.com^
         \n\n對於網頁的元素，篩選條件類似：
         \nexample.com###ad
@@ -358,11 +344,11 @@
     <string name="help">說明</string>
     <string name="learn_more">了解更多</string>
     <plurals name="filters">
-        <item quantity="zero">0 filter</item>
-        <item quantity="one">1 filter</item>
+        <item quantity="zero">0 條篩選條件</item>
+        <item quantity="one">1 條篩選條件</item>
         <item quantity="other">%d 條篩選條件</item>
     </plurals>
-    <string name="updated_">%1$s 更新</string>
+    <string name="updated_">%1$s 已更新</string>
     <string name="filter_subscription_info">%1$s，%2$s</string>
     <string name="enable_built_in_filters">啟用內建篩選條件</string>
     <string name="enable_built_in_filters_description">內建篩選條件僅封鎖常見廣告</string>
@@ -376,16 +362,18 @@
     <string name="agreement_message_short">你需要同意並接受全部條款後才能開始使用我們的服務。</string>
     <string name="agree_and_continue">同意並繼續</string>
     <string name="disagree">不同意</string>
-    <string name="exit">退出應用</string>
+    <string name="exit">結束應用</string>
     <string name="delete_account">登出賬號</string>
     <string name="delete_account_hint">從伺服器刪除賬號</string>
-    <string name="delete_account_request_submitted">賬號刪除申請已提交。</string>
-    <string name="delete_account_message">提交刪除申請後，賬號將退出，進入 15 天的刪除等待期，登出期間如你再次登入賬號並上傳了資料，將導致刪除申請被撤回。等待期滿後，該賬號及相關資料將從伺服器完全刪除。\n請輸入密碼繼續。</string>
-    <string name="confirm_to_delete">確認刪除</string>
+    <string name="delete_account_request_submitted">賬號刪除申請已送出。</string>
+    <string name="delete_account_message">送出刪除申請後，賬號將登出，進入 15 天的刪除等待期，登出期間如你再次登入賬號並上傳了資料，將導致刪除申請被撤回。等待期滿後，該賬號及相關資料將從伺服器完全刪除。\n請輸入密碼繼續。</string>
+    <string name="confirm_to_delete">確定刪除</string>
     <string name="items_selected">已選中 %1$d 項</string>
     <string name="select_all">全選</string>
     <string name="multi_choice">多選</string>
     <plurals name="delete_download_tasks">
+        <item quantity="zero">已刪除 0 項下載任務</item>
+        <item quantity="one">已刪除 1 項下載任務</item>
         <item quantity="other">已刪除 %d 項下載任務</item>
     </plurals>
     <string name="open_source_licenses">開源許可協議</string>
@@ -401,9 +389,9 @@
     <string name="force_dark_mode_for_web_contents_description">為網頁啟用強制暗色，這可能會導致部分頁面表現異常</string>
     <string name="require_javascript_enabled">這將僅在啟用 JavaScript 時生效。</string>
     <string name="keyboard_shortcuts">鍵盤快捷鍵</string>
-    <string name="export_data_description">匯出書籤、設定、指令碼和廣告規則</string>
+    <string name="export_data_description">匯出書籤、設定、指令碼和廣告篩選條件</string>
     <string name="language">語言</string>
-    <string name="restart_to_take_effect">這將在下次啟動應用時生效，你希望立即重啟應用以生效嗎？</string>
+    <string name="restart_to_take_effect">這將在下次啟動應用時生效，你希望立即重新啟動應用以生效嗎？</string>
     <string name="more">更多</string>
     <string name="sort_order">排序方式</string>
     <string name="sort_by_oldest_first">最舊的優先</string>
@@ -413,53 +401,53 @@
     <string name="move">移動</string>
     <string name="bookmarks_history">書籤/歷史</string>
     <string name="done">完成</string>
-    <string name="root_folder">根目錄</string>
-    <string name="delete_item_message">你確認刪除 %1$s 嗎？</string>
+    <string name="root_folder">根路徑</string>
+    <string name="delete_item_message">你確定刪除 %1$s 嗎？</string>
     <string name="item_has_been_deleted">\"%1$s\" 已刪除</string>
     <string name="undo">撤銷</string>
     <string name="can_not_sort_list_when_sorting_alphabetically">名稱順序時無法排序列表</string>
-    <string name="opened_in_background_message">已在後臺開啟</string>
+    <string name="opened_in_background_message">已在背景開啟</string>
     <string name="bookmark_added">已新增</string>
     <string name="allow_website_to_open_app_message">允許網站開啟 %1$s 嗎？</string>
     <string name="width">寬度</string>
     <string name="height">高度</string>
     <string name="corner_radius">圓角值</string>
-    <string name="adaptive">自適應</string>
-    <string name="action_favorites">收藏</string>
+    <string name="adaptive">自動調整</string>
+    <string name="action_favorites">最愛</string>
     <string name="skin_search_bar">搜尋框</string>
     <string name="stroke_width">描邊粗細</string>
     <string name="stroke_opacity">描邊不透明度</string>
     <string name="opacity">不透明度</string>
     <string name="disable_website_icons">禁用網站圖示</string>
     <string name="disable_icon_color">禁用圖示顏色</string>
-    <string name="font_style">字型風格</string>
+    <string name="font_style">字型樣式</string>
     <string name="bold">粗體</string>
     <string name="italics">斜體</string>
     <string name="clear_website_icon_cache">清除網站圖示快取</string>
-    <string name="clear_website_icon_cache_message">請注意，這會清除所有首頁收藏的圖示。圖示會在你下次訪問該網站時下載。</string>
+    <string name="clear_website_icon_cache_message">請注意，這會清除所有首頁最愛的圖示。圖示會在你下次訪問該網站時下載。</string>
     <string name="use_blur_instead_of_transparency">使用模糊效果代替透明</string>
-    <string name="desc_favorite_icon">收藏的圖示</string>
+    <string name="desc_favorite_icon">最愛的圖示</string>
     <string name="script_remarks">備註</string>
     <string name="action_save">儲存</string>
     <string name="reset_to_default_settings">重置為預設設定</string>
-    <string name="script_sites">站點 (例如 *.foo.com,bar.*/list)</string>
+    <string name="script_sites">網站 (如 *.foo.com,bar.*/list)</string>
     <string name="simple_guide_of_writing_script">編寫的指令碼將在網站載入時自動生效。
-        \n\n站點(必填)：指令碼作用的網站，支援 \"*\" 萬用字元，多個站點使用 \",\" 隔開，例如：*.foo.com,bar.*/list。
+        \n\n網站(必填)：指令碼作用的網站，支援 \"*\" 萬用字元，多個網站使用 \",\" 隔開，如：*.foo.com,bar.*/list。
         \n\n備註(可選)：用作展示的標題。
         \n\n程式碼(必填)：通常建議使用原生 JavaScript 編寫。如若網站使用 jquery 或 vue.js 亦可使用其語法程式碼。</string>
     <string name="save_data">流量節省</string>
     <string name="save_data_description">請求網站節省流量</string>
-    <string name="use_line_style_search_box">使用線條風格的搜尋框</string>
+    <string name="use_line_style_search_box">使用線條樣式的搜尋框</string>
     <string name="toast_script_added">已新增指令碼</string>
-    <string name="action_manage_favorites">管理收藏</string>
+    <string name="action_manage_favorites">管理最愛</string>
     <string name="check_for_updates">檢查更新</string>
     <string name="checking_for_updates">正在檢查更新</string>
     <string name="latest_version_already_installed">已是最新版本</string>
     <string name="new_version_available">新版本可用</string>
     <string name="action_download_file">下載</string>
-    <string name="entered_full_screen_mode">已進入全屏模式</string>
+    <string name="entered_full_screen_mode">已進入全螢幕模式</string>
     <string name="delete_hint">刪除(%1$d)</string>
-    <string name="follow_system_dark_mode_on">跟隨系統暗模式已啟用</string>
+    <string name="follow_system_dark_mode_on">系統預設值暗模式已啟用</string>
     <string name="scoped_search">搜尋 %1$s</string>
     <string name="add_shortcut">新增桌面快捷方式</string>
     <string name="need_shortcut_permission">許可權被拒絕。請前往系統設定為此應用開啟 \"新增桌面快捷方式\" 許可權。</string>
@@ -511,8 +499,8 @@
     <string name="save_as_pdf">儲存為 PDF</string>
     <string name="export">匯出</string>
     <string name="export_successfully">匯出成功</string>
-    <string name="stop_loading_description">Via 阻止了以下頁面載入:</string>
-    <string name="stop_loading_reason">因為如下過濾規則:</string>
+    <string name="stop_loading_description">Via 封鎖了以下頁面載入:</string>
+    <string name="stop_loading_reason">因為如下過濾篩選條件:</string>
     <string name="continue_loading">繼續載入</string>
     <string name="allow_webpage_access_to_clipboard">允許網頁訪問剪貼簿</string>
     <string name="ask_to_allow_webpage_to_copy_text">是否從 %DOMAIN% 複製文字？</string>
@@ -526,7 +514,7 @@
     <string name="favorites_icon_style_text">文字</string>
     <string name="favorites_icon_style_icon_first">圖示優先</string>
     <string name="favorites_icon_color">圖示色彩</string>
-    <string name="favorites_icon_color_colorful">多彩</string>
+    <string name="favorites_icon_color_colorful">繽紛</string>
     <string name="favorites_icon_color_transparent">透明</string>
     <string name="search_bar_effect">搜尋框效果</string>
     <string name="search_bar_effect_blur">模糊</string>
@@ -543,12 +531,11 @@
     <string name="theme_color_dark">暗色</string>
     <string name="theme_color_light">亮色</string>
     <string name="uninstall_script">解除安裝指令碼</string>
-    <string name="uninstall_script_message">你確認解除安裝指令碼 \"%1$s\" 嗎？</string>
+    <string name="uninstall_script_message">你確定解除安裝指令碼 \"%1$s\" 嗎？</string>
     <string name="install_script">安裝指令碼</string>
-    <string name="install_script_message">你確認安裝指令碼 \"%1$s\" 嗎？</string>
+    <string name="install_script_message">你確定安裝指令碼 \"%1$s\" 嗎？</string>
     <string name="processing_blob_data">處理 blob 資料中…</string>
     <string name="tineye_url">TinEye</string>
     <string name="login_username">使用者名稱 (賬號不存在將自動建立)</string>
     <string name="read_and_agree">請閱讀並同意 %1$s 與 %2$s</string>
-
 </resources>

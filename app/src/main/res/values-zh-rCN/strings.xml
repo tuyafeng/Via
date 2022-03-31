@@ -12,6 +12,13 @@
     <string name="action_add_bookmark">添加书签</string>
     <string name="action_night">夜间模式</string>
     <string name="action_copy">复制链接</string>
+    <string name="action_block_domain">拦截域名</string>
+    <string name="action_unblock_domain">放行域名</string>
+    <string name="action_unblock_url">放行链接</string>
+    <string name="action_block_url">拦截链接</string>
+    <string name="action_copy_text">复制文本</string>
+    <string name="action_copy_link_text">复制链接文本</string>
+    <string name="action_tools">工具箱</string>
     <string name="settings">设置</string>
     <string name="location">允许站点访问地理位置</string>
     <string name="password">保存密码</string>
@@ -62,7 +69,12 @@
     <string name="shenma_url">神马</string>
     <string name="bing_url">必应</string>
     <string name="haosou_url">好搜</string>
+    <string name="duckduckgo_url">DuckDuckGo</string>
+    <string name="startpage_url">StartPage</string>
+    <string name="yahoo_url">雅虎</string>
+    <string name="yandex_url">Yandex</string>
     <string name="google_url">谷歌</string>
+    <string name="sougou_url">搜狗</string>
     <string name="block_ads">广告拦截</string>
     <string name="message_untrusted_certificate">当前站点证书不被信任，是否继续？</string>
     <string name="message_date_invalid_certificate">当前站点证书日期无效，是否继续?</string>
@@ -74,6 +86,7 @@
     <string name="message_form_resubmission">你确定发送数据吗？</string>
     <string name="message_location">\n想使用你的位置信息</string>
     <string name="action_allow">允许</string>
+    <string name="action_dont_allow">拒绝</string>
     <string name="title_sign_in">登录</string>
     <string name="hint_username">用户名</string>
     <string name="hint_password">密码</string>
@@ -90,17 +103,15 @@
     <string name="dialog_message">提示</string>
     <string name="wait_a_moment">稍等片刻&#8230;</string>
     <string name="toast_operation_failed">操作失败</string>
+    <string name="toast_operation_done">操作完成</string>
     <string name="volume">使用音量键翻页</string>
+    <string name="msg_intent">该站点请求打开你的应用，是否继续？</string>
     <string name="setting_default">设置默认浏览器</string>
     <string name="toast_clear_defaults">请清除原先默认设置</string>
     <string name="toast_copy_url_successful">已复制链接</string>
     <string name="toast_copy_text_successful">已复制文本</string>
     <string name="incognito_on">已进入隐身浏览</string>
     <string name="incognito_off">退出隐身浏览</string>
-    <string name="settings_privacy">隐私</string>
-    <string name="settings_advanced">高级</string>
-    <string name="settings_about">关于</string>
-    <string name="settings_operation">操作设定</string>
     <string name="operation_none">无操作</string>
     <string name="operation_reload">刷新网页</string>
     <string name="operation_top">返回顶部</string>
@@ -113,26 +124,28 @@
     <string name="operation_nexttab">下一个标签</string>
     <string name="operation_goback">网页后退</string>
     <string name="operation_goforward">网页前进</string>
+    <string name="settings_operation">操作设定</string>
+    <string name="settings_privacy">隐私</string>
+    <string name="settings_advanced">高级</string>
+    <string name="settings_about">关于</string>
     <string name="url_box">地址栏内容</string>
     <string name="url_box_domain">域名</string>
     <string name="action_pcview">电脑模式</string>
     <string name="action_source">源码</string>
+    <string name="action_translate">翻译网页</string>
+    <string name="title_edit_folder">编辑文件夹</string>
+    <string name="msg_delete_folder">你想要删除此文件夹吗?</string>
     <string name="desc_suggestion">建议</string>
     <string name="desc_home">主页</string>
     <string name="desc_tab">标签</string>
     <string name="desc_menu">菜单</string>
     <string name="desc_filedic">文件</string>
-    <string name="title_edit_folder">编辑文件夹</string>
-    <string name="msg_delete_folder">你想要删除此文件夹吗?</string>
-    <string name="action_translate">翻译网页</string>
-    <string name="msg_intent">该站点请求打开你的应用，是否继续？</string>
     <string name="action_mark">标记广告</string>
     <string name="dialog_confirm_mark">确定将其标记为广告？</string>
     <string name="do_not_track">不跟踪</string>
     <string name="add_rule">添加规则</string>
     <string name="color_mode">色彩模式</string>
     <string name="dialog_sure">你确定继续吗？</string>
-    <string name="toast_operation_done">操作完成</string>
     <string name="action_send_to_launcher">发至桌面</string>
     <string name="settings_cloud">云同步</string>
     <string name="user">登录/注册</string>
@@ -190,7 +203,6 @@
     <string name="location_permission">位置信息: 为了一些站点例如天气网站获取地理位置, 设置里默认是关闭的, 如果开启会弹出对话框提示是否允许站点访问位置。\n\n</string>
     <string name="force_cancel">强制取消</string>
     <string name="restore_tabs_hint">你想要恢复上次会话未关闭的标签页吗？</string>
-    <string name="sougou_url">搜狗</string>
     <string name="restore_tabs">启动时恢复未关闭标签</string>
     <string name="install_success">安装成功!</string>
     <string name="uninstall_success">卸载成功!</string>
@@ -236,17 +248,15 @@
     <string name="disable">未启用</string>
     <string name="ui_traditional">传统</string>
     <string name="color_mode_hint">浏览网页时操作栏自适应色彩</string>
-    <string name="action_dont_allow">拒绝</string>
     <string name="skin_hide_search_part">隐藏搜索部分</string>
     <string name="file_size">文件大小: %1$s</string>
     <string name="search_by_image">以图搜图</string>
     <string name="resource_sniffer">资源嗅探</string>
     <string name="res_log_hint">点击项目来预览, 长按项目来下载或进行其它操作。</string>
-    <string name="resource_sniffer_hint">\n注: 音乐或视频在播放时更容易被获取。资源嗅探不支持部分网站。</string>
     <string name="no_resource">这个页面没有资源。</string>
     <string name="no_network_log">这个页面没有网络日志。</string>
+    <string name="resource_sniffer_hint">\n注: 音乐或视频在播放时更容易被获取。资源嗅探不支持部分网站。</string>
     <string name="action_download">下载</string>
-    <string name="action_tools">工具箱</string>
     <string name="empty_username_info">请填写你的用户名。</string>
     <string name="empty_password_info">请填写你的密码。</string>
     <string name="offline_page_hint">下列为保存的网页，无论手机是否联网你都可以浏览它们。</string>
@@ -256,8 +266,6 @@
     <string name="page_info_title">标题：</string>
     <string name="page_info_url">页面链接：</string>
     <string name="page_info_link">选中链接：</string>
-    <string name="action_copy_text">复制文本</string>
-    <string name="action_copy_link_text">复制链接文本</string>
     <string name="no_network">无网络连接</string>
     <string name="title_app_chooser">选择程序打开</string>
     <string name="clear_data_on_exit">退出时清除数据</string>
@@ -277,10 +285,6 @@
     <string name="disable_restore">禁用恢复</string>
     <string name="data_file">导出数据</string>
     <string name="bookmarks_data_to_long">书签数据达到了服务器不能承受之重, 将不会上传, 但其他数据可以正常上传。继续上传吗?</string>
-    <string name="action_block_domain">拦截域名</string>
-    <string name="action_unblock_domain">放行域名</string>
-    <string name="action_unblock_url">放行链接</string>
-    <string name="action_block_url">拦截链接</string>
     <string name="restore_tabs_hint_settings">开启\"隐身模式\"时不会恢复未关闭标签。</string>
     <string name="ignore_secondary_ssl_error">忽略次要的 SSL 证书错误</string>
     <string name="web_page_debug">允许调试网页</string>
@@ -321,6 +325,7 @@
     <string name="custom_filters_description">包括拦截的规则、标记的广告</string>
     <string name="custom_filter">自定义规则</string>
     <string name="add_filter_subscription">添加规则订阅</string>
+    <string name="edit_filter_subscription">编辑规则订阅</string>
     <string name="updating_filter_subscriptions">更新规则订阅中…</string>
     <string name="update_filter_subscriptions_completed">订阅规则更新完成。</string>
     <string name="update_filter_subscription_failed">订阅规则更新失败。\n%1$s</string>
@@ -340,12 +345,13 @@
     <string name="help">帮助</string>
     <string name="learn_more">了解更多</string>
     <plurals name="filters">
+        <item quantity="zero">0 条规则</item>
+        <item quantity="one">1 条规则</item>
         <item quantity="other">%d 条规则</item>
     </plurals>
-    <string name="updated_">%1$s更新</string>
+    <string name="updated_">%1$s 已更新</string>
     <string name="filter_subscription_info">%1$s，%2$s</string>
     <string name="enable_built_in_filters">启用内建规则</string>
-    <string name="edit_filter_subscription">编辑规则订阅</string>
     <string name="enable_built_in_filters_description">内建规则仅拦截常见广告</string>
     <string name="update">更新</string>
     <string name="bookmarks_exported_successfully">书签导出成功</string>
@@ -367,6 +373,8 @@
     <string name="select_all">全选</string>
     <string name="multi_choice">多选</string>
     <plurals name="delete_download_tasks">
+        <item quantity="zero">已删除 0 项下载任务</item>
+        <item quantity="one">已删除 1 项下载任务</item>
         <item quantity="other">已删除 %d 项下载任务</item>
     </plurals>
     <string name="open_source_licenses">开源许可协议</string>
@@ -531,5 +539,4 @@
     <string name="tineye_url">TinEye</string>
     <string name="login_username">用户名 (账号不存在将自动创建)</string>
     <string name="read_and_agree">请阅读并同意 %1$s 与 %2$s</string>
-
 </resources>
