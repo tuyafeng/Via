@@ -263,7 +263,7 @@
     <string name="color_mode_hint">Auto-adjust color of toolbars</string>
     <string name="skin_hide_search_part">Hide search part</string>
     <string name="file_size">File size: %1$s</string>
-    <string name="search_by_pic">Search by picture</string>
+    <string name="search_by_image">Search by image</string>
     <string name="resource_sniffer">Resource sniffer</string>
     <string name="res_log_hint">Press an item to preview, or long-press it to download or do something else.</string>
     <string name="no_resource">The page has no resource.</string>
@@ -545,5 +545,13 @@
     <string name="theme_color">Theme color</string>
     <string name="theme_color_dark">Dark</string>
     <string name="theme_color_light">Light</string>
+    <string name="uninstall_script">Uninstall script</string>
+    <string name="uninstall_script_message">Are you sure you want to uninstall script \"%1$s\"?</string>
+    <string name="install_script">Install script</string>
+    <string name="install_script_message">Are you sure you want to install script \"%1$s\"?</string>
+    <string name="processing_blob_data">Processing blob data…</string>
+    <string name="tineye_url">TinEye</string>
+    <string name="login_username">Username (the account will be created if not exist)</string>
+    <string name="read_and_agree">Please read and agree to %1$s and %2$s</string>
 
 </resources>

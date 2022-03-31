@@ -253,7 +253,7 @@
     <string name="color_mode_hint">Állapotsor színezése böngészéskor</string>
     <string name="skin_hide_search_part">Keresési Részleg Elrejtése</string>
     <string name="file_size">Fájl mérete: %1$s</string>
-    <string name="search_by_pic">Keresés kép alapján</string>
+    <string name="search_by_image">Keresés kép alapján</string>
     <string name="resource_sniffer">Erőforrás nézegető</string>
     <string name="res_log_hint">Előnézethez kattints egy elemre, hosszú kattintással letöltés vagy egyéb művelet.</string>
     <string name="no_resource">Ennek az oldalnak nincsenek forrásai.</string>

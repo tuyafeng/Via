@@ -263,7 +263,7 @@
     <string name="color_mode_hint">Автоматически изменять цвета панелей</string>
     <string name="skin_hide_search_part">Скрыть панель поиска</string>
     <string name="file_size">Размер файла: %1$s</string>
-    <string name="search_by_pic">Поиск по изображению</string>
+    <string name="search_by_image">Поиск по изображению</string>
     <string name="resource_sniffer">Анализ ресурсов</string>
     <string name="res_log_hint">Нажмите для просмотра, удерживайте для загрузки или других действий.</string>
     <string name="no_resource">Ресурсы отсутствуют</string>

@@ -254,7 +254,7 @@
     <string name="color_mode_hint">Auto-adjust color of operation bars</string>
     <string name="skin_hide_search_part">Hide Search Part</string>
     <string name="file_size">File size: %1$s</string>
-    <string name="search_by_pic">Search by Picture</string>
+    <string name="search_by_image">Search by Picture</string>
     <string name="resource_sniffer">Resource sniffer</string>
     <string name="res_log_hint">Click item to preview, long clicked item to download or do something else.</string>
     <string name="no_resource">The page has no resources</string>

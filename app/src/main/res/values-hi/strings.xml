@@ -262,7 +262,7 @@
     <string name="color_mode_hint">ऑपरेशन सलाखों के ऑटो-समायोजित रंग</string>
     <string name="skin_hide_search_part">खोज भाग छिपाएँ</string>
     <string name="file_size">फाइल का आकार: %1$s</string>
-    <string name="search_by_pic">चित्र द्वारा खोजें</string>
+    <string name="search_by_image">चित्र द्वारा खोजें</string>
     <string name="resource_sniffer">संसाधन स्निफर</string>
     <string name="res_log_hint">पूर्वावलोकन करने के लिए आइटम पर क्लिक करें, डाउनलोड करने या कुछ और करने के लिए आइटम पर क्लिक करें।</string>
     <string name="no_resource">पृष्ठ के पास कोई संसाधन नहीं है।</string>

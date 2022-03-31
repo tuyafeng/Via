@@ -262,7 +262,7 @@
     <string name="color_mode_hint">조작 바 색상 자동 조절</string>
     <string name="skin_hide_search_part">검색 영역 숨기기</string>
     <string name="file_size">파일 크기: %1$s</string>
-    <string name="search_by_pic">이미지로 검색</string>
+    <string name="search_by_image">이미지로 검색</string>
     <string name="resource_sniffer">리소스 가로채기</string>
     <string name="res_log_hint">항목을 짧게 눌러 미리보고, 길게 눌러 다운로드 등의 옵션을 봅니다.</string>
     <string name="no_resource">이 페이지에는 리소스가 없습니다.</string>

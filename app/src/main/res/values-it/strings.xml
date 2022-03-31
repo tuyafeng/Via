@@ -249,7 +249,7 @@
     <string name="color_mode_hint">Colora automaticamente le barre degli strumenti</string>
     <string name="skin_hide_search_part">Nascondi la ricerca</string>
     <string name="file_size">Dimensione del file: %1$s</string>
-    <string name="search_by_pic">Cerca per immagine</string>
+    <string name="search_by_image">Cerca per immagine</string>
     <string name="resource_sniffer">Intercetta risorse</string>
     <string name="res_log_hint">Tocca un elemento per visualizzarne l\'anteprima, oppure premilo a lungo per scaricarlo o effettuare altre azioni.</string>
     <string name="no_resource">La pagina non ha risorse.</string>

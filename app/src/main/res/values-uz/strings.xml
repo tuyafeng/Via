@@ -263,7 +263,7 @@
     <string name="color_mode_hint">Panel rangini avto-sozlash</string>
     <string name="skin_hide_search_part">Qidiruv qismini yashirish</string>
     <string name="file_size">Fayl o‘lchami: %1$s</string>
-    <string name="search_by_pic">Rasm bo‘yicha qidirish</string>
+    <string name="search_by_image">Rasm bo‘yicha qidirish</string>
     <string name="resource_sniffer">Resurs tahlili</string>
     <string name="res_log_hint">Ko‘rish uchun bosing, yuklab olish uchun ushlab turing yoki yana ko‘p.</string>
     <string name="no_resource">Sahifada manba yo‘q.</string>

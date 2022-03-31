@@ -239,7 +239,7 @@
     <string name="action_dont_allow">拒绝</string>
     <string name="skin_hide_search_part">隐藏搜索部分</string>
     <string name="file_size">文件大小: %1$s</string>
-    <string name="search_by_pic">以图搜图</string>
+    <string name="search_by_image">以图搜图</string>
     <string name="resource_sniffer">资源嗅探</string>
     <string name="res_log_hint">点击项目来预览, 长按项目来下载或进行其它操作。</string>
     <string name="resource_sniffer_hint">\n注: 音乐或视频在播放时更容易被获取。资源嗅探不支持部分网站。</string>
@@ -523,5 +523,13 @@
     <string name="theme_color">主题色</string>
     <string name="theme_color_dark">暗色</string>
     <string name="theme_color_light">亮色</string>
+    <string name="uninstall_script">卸载脚本</string>
+    <string name="uninstall_script_message">你确认卸载脚本 \"%1$s\" 吗？</string>
+    <string name="install_script">安装脚本</string>
+    <string name="install_script_message">你确认安装脚本 \"%1$s\" 吗？</string>
+    <string name="processing_blob_data">处理 blob 数据中…</string>
+    <string name="tineye_url">TinEye</string>
+    <string name="login_username">用户名 (账号不存在将自动创建)</string>
+    <string name="read_and_agree">请阅读并同意 %1$s 与 %2$s</string>
 
 </resources>

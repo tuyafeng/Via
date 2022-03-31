@@ -263,7 +263,7 @@
     <string name="color_mode_hint">Samodejno prilagajanje barve orodnih vrstic</string>
     <string name="skin_hide_search_part">Skrij predel za iskanje</string>
     <string name="file_size">Velikost datoteke: %1$s</string>
-    <string name="search_by_pic">Iskanje po sliki</string>
+    <string name="search_by_image">Iskanje po sliki</string>
     <string name="resource_sniffer">Vohljač virov</string>
     <string name="res_log_hint">Pritisnite element za predogled ali ga dalj časa pridržite za prenos in prikaz ostalih možnosti.</string>
     <string name="no_resource">Stran nima vira.</string>

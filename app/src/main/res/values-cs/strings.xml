@@ -252,7 +252,7 @@
     <string name="color_mode_hint">Nastavení barev panelu při prohlížení</string>
     <string name="skin_hide_search_part">Skrýt část vyhledávání</string>
     <string name="file_size">Velikost souboru: %1$s</string>
-    <string name="search_by_pic">Vyhledávání podle obrázku</string>
+    <string name="search_by_image">Vyhledávání podle obrázku</string>
     <string name="resource_sniffer">Resource sniffer</string>
     <string name="res_log_hint">Klepnutím na položku zobrazíte náhled, dlouhým klepnutím na položku stáhnete nebo uděláte něco jiného.</string>
     <string name="no_resource">Stránka nemá žádný zdroj.</string>

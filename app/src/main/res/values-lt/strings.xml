@@ -262,7 +262,7 @@
     <string name="color_mode_hint">Prie spalvų prisitaikančios funkcijų eilutės</string>
     <string name="skin_hide_search_part">Slėpti paieškos eilutę</string>
     <string name="file_size">Failo dydis: %1$s</string>
-    <string name="search_by_pic">Ieškoti paveikslėliu</string>
+    <string name="search_by_image">Ieškoti paveikslėliu</string>
     <string name="resource_sniffer">Media atsisiuntimas</string>
     <string name="res_log_hint">Paspauskite daiktą, kad jį peržiūrėtumėte, ilgai paspauskite daiktą, kad jį atsisiųstumėte ar dar ką padarytumėte</string>
     <string name="no_resource">Šiame puslapyje nesuradome media failų</string>

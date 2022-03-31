@@ -261,7 +261,7 @@
     <string name="color_mode_hint">Automatski prilagodi boju operacija na rešetci</string>
     <string name="skin_hide_search_part">Hide Search Part</string>
     <string name="file_size">Veličina datoteke: %1$s</string>
-    <string name="search_by_pic">Traži po Slici</string>
+    <string name="search_by_image">Traži po Slici</string>
     <string name="resource_sniffer">Resource sniffer</string>
     <string name="res_log_hint">Klikni predmet za pregled, kliknite i držite predmet za preuzimanje ili nešto drugo.</string>
     <string name="no_resource">Stranica nema izvore.</string>

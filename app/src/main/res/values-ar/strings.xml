@@ -238,8 +238,8 @@
   <string name="ui_traditional">التقليدية</string>
   <string name="color_mode_hint">اللون العملية والشريط عند التصفح</string>
     <string name="skin_hide_search_part">إخفاء جزء البحث</string>
-  <string name="file_size">حجم الملف: %1$s</string>
-  <string name="search_by_pic">البحث عن طريق الصورة</string>
+  <string name="file_size">%1$s :حجم الملف</string>
+  <string name="search_by_image">البحث عن طريق الصورة</string>
   <string name="resource_sniffer">فحص ملفات الميديا</string>
   <string name="res_log_hint">انقر فوق العنصر للمعاينة ، انقر فوق عنصر طويل لتنزيل أو القيام بشيء آخر.</string>
   <string name="no_resource">الصفحة لا يوجد بها ملفات ميديا</string>

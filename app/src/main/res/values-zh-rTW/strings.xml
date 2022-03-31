@@ -263,7 +263,7 @@
     <string name="color_mode_hint">工具列自動調整色彩</string>
     <string name="skin_hide_search_part">隱藏搜尋部分</string>
     <string name="file_size">檔案大小: %1$s</string>
-    <string name="search_by_pic">透過圖片搜尋</string>
+    <string name="search_by_image">透過圖片搜尋</string>
     <string name="resource_sniffer">資源監聽</string>
     <string name="res_log_hint">按下項目進行預覽，或者長按此項目下載或進行其他操作。</string>
     <string name="no_resource">此頁面無資源。</string>
@@ -370,4 +370,185 @@
     <string name="bookmarks_exported_successfully">書籤匯出成功</string>
     <string name="data_exported_successfully">資料匯出成功</string>
     <string name="privacy_policy">隱私權原則</string>
+    <string name="terms_of_use">使用協議</string>
+    <string name="welcome">歡迎</string>
+    <string name="agreement_message">歡迎使用 Via。在使用 Via 前，請認真閱讀下列協議。你需要同意並接受全部條款後才能開始使用我們的服務。</string>
+    <string name="agreement_message_short">你需要同意並接受全部條款後才能開始使用我們的服務。</string>
+    <string name="agree_and_continue">同意並繼續</string>
+    <string name="disagree">不同意</string>
+    <string name="exit">退出應用</string>
+    <string name="delete_account">登出賬號</string>
+    <string name="delete_account_hint">從伺服器刪除賬號</string>
+    <string name="delete_account_request_submitted">賬號刪除申請已提交。</string>
+    <string name="delete_account_message">提交刪除申請後，賬號將退出，進入 15 天的刪除等待期，登出期間如你再次登入賬號並上傳了資料，將導致刪除申請被撤回。等待期滿後，該賬號及相關資料將從伺服器完全刪除。\n請輸入密碼繼續。</string>
+    <string name="confirm_to_delete">確認刪除</string>
+    <string name="items_selected">已選中 %1$d 項</string>
+    <string name="select_all">全選</string>
+    <string name="multi_choice">多選</string>
+    <plurals name="delete_download_tasks">
+        <item quantity="other">已刪除 %d 項下載任務</item>
+    </plurals>
+    <string name="open_source_licenses">開源許可協議</string>
+    <string name="debugging_info">除錯資訊</string>
+    <string name="join_qq_group">加入 QQ 群組</string>
+    <string name="join_telegram_group">加入 Telegram 群組</string>
+    <string name="follow_me_on_twitter">在 Twitter 上關注我</string>
+    <string name="follow_me_on_weibo">在微博上關注我</string>
+    <string name="version">版本</string>
+    <string name="paste_and_go">貼上並前往</string>
+    <string name="night_filter_for_web_contents">網頁蒙版濾鏡</string>
+    <string name="force_dark_mode_for_web_contents">強制網頁暗色</string>
+    <string name="force_dark_mode_for_web_contents_description">為網頁啟用強制暗色，這可能會導致部分頁面表現異常</string>
+    <string name="require_javascript_enabled">這將僅在啟用 JavaScript 時生效。</string>
+    <string name="keyboard_shortcuts">鍵盤快捷鍵</string>
+    <string name="export_data_description">匯出書籤、設定、指令碼和廣告規則</string>
+    <string name="language">語言</string>
+    <string name="restart_to_take_effect">這將在下次啟動應用時生效，你希望立即重啟應用以生效嗎？</string>
+    <string name="more">更多</string>
+    <string name="sort_order">排序方式</string>
+    <string name="sort_by_oldest_first">最舊的優先</string>
+    <string name="sort_by_newest_first">最新的優先</string>
+    <string name="sort_by_alphabetical_order">名稱順序</string>
+    <string name="select_folder">選擇資料夾</string>
+    <string name="move">移動</string>
+    <string name="bookmarks_history">書籤/歷史</string>
+    <string name="done">完成</string>
+    <string name="root_folder">根目錄</string>
+    <string name="delete_item_message">你確認刪除 %1$s 嗎？</string>
+    <string name="item_has_been_deleted">\"%1$s\" 已刪除</string>
+    <string name="undo">撤銷</string>
+    <string name="can_not_sort_list_when_sorting_alphabetically">名稱順序時無法排序列表</string>
+    <string name="opened_in_background_message">已在後臺開啟</string>
+    <string name="bookmark_added">已新增</string>
+    <string name="allow_website_to_open_app_message">允許網站開啟 %1$s 嗎？</string>
+    <string name="width">寬度</string>
+    <string name="height">高度</string>
+    <string name="corner_radius">圓角值</string>
+    <string name="adaptive">自適應</string>
+    <string name="action_favorites">收藏</string>
+    <string name="skin_search_bar">搜尋框</string>
+    <string name="stroke_width">描邊粗細</string>
+    <string name="stroke_opacity">描邊不透明度</string>
+    <string name="opacity">不透明度</string>
+    <string name="disable_website_icons">禁用網站圖示</string>
+    <string name="disable_icon_color">禁用圖示顏色</string>
+    <string name="font_style">字型風格</string>
+    <string name="bold">粗體</string>
+    <string name="italics">斜體</string>
+    <string name="clear_website_icon_cache">清除網站圖示快取</string>
+    <string name="clear_website_icon_cache_message">請注意，這會清除所有首頁收藏的圖示。圖示會在你下次訪問該網站時下載。</string>
+    <string name="use_blur_instead_of_transparency">使用模糊效果代替透明</string>
+    <string name="desc_favorite_icon">收藏的圖示</string>
+    <string name="script_remarks">備註</string>
+    <string name="action_save">儲存</string>
+    <string name="reset_to_default_settings">重置為預設設定</string>
+    <string name="script_sites">站點 (例如 *.foo.com,bar.*/list)</string>
+    <string name="simple_guide_of_writing_script">編寫的指令碼將在網站載入時自動生效。
+        \n\n站點(必填)：指令碼作用的網站，支援 \"*\" 萬用字元，多個站點使用 \",\" 隔開，例如：*.foo.com,bar.*/list。
+        \n\n備註(可選)：用作展示的標題。
+        \n\n程式碼(必填)：通常建議使用原生 JavaScript 編寫。如若網站使用 jquery 或 vue.js 亦可使用其語法程式碼。</string>
+    <string name="save_data">流量節省</string>
+    <string name="save_data_description">請求網站節省流量</string>
+    <string name="use_line_style_search_box">使用線條風格的搜尋框</string>
+    <string name="toast_script_added">已新增指令碼</string>
+    <string name="action_manage_favorites">管理收藏</string>
+    <string name="check_for_updates">檢查更新</string>
+    <string name="checking_for_updates">正在檢查更新</string>
+    <string name="latest_version_already_installed">已是最新版本</string>
+    <string name="new_version_available">新版本可用</string>
+    <string name="action_download_file">下載</string>
+    <string name="entered_full_screen_mode">已進入全屏模式</string>
+    <string name="delete_hint">刪除(%1$d)</string>
+    <string name="follow_system_dark_mode_on">跟隨系統暗模式已啟用</string>
+    <string name="scoped_search">搜尋 %1$s</string>
+    <string name="add_shortcut">新增桌面快捷方式</string>
+    <string name="need_shortcut_permission">許可權被拒絕。請前往系統設定為此應用開啟 \"新增桌面快捷方式\" 許可權。</string>
+    <string name="create_shortcut_successfully">已為 %1$s 建立桌面快捷方式</string>
+    <string name="update_shortcut_successfully">已為 %1$s 更新桌面快捷方式</string>
+    <string name="today">今天</string>
+    <string name="yesterday">昨天</string>
+    <string name="same_year_date_format">MM月dd日 EEE</string>
+    <string name="default_date_format">yyyy年MM月dd日 EEE</string>
+    <string name="view_certificate">檢視證書</string>
+    <string name="certificate_info">證書資訊</string>
+    <string name="certificate_detail"><![CDATA[
+        <b>頒發物件</b><br />
+        <b>公用名 (CN)</b><br />
+        %1$s
+        <br /><b>組織 (O)</b><br />
+        %2$s
+        <br /><b>組織單位 (OU)</b><br />
+        %3$s
+        <br /><br /><b>頒發者</b><br />
+        <b>公用名 (CN)</b><br />
+        %4$s
+        <br /><b>組織 (O)</b><br />
+        %5$s
+        <br /><br /><b>有效期</b><br />
+        <b>頒發日期</b><br />
+        %6$s
+        <br /><b>截止日期</b><br />
+        %7$s
+        <br />
+    ]]></string>
+    <string name="no_certificate">該站點無證書。</string>
+    <string name="site_conf_enabled">網站設定 (已啟用)</string>
+    <string name="do_not_sell_or_share">不出售或分享資料</string>
+    <string name="do_not_sell_or_share_description">請求網站不出售或分享我的資料以保護隱私 (實驗性)</string>
+    <string name="email_me">透過郵件聯絡我</string>
+    <string name="scan_qr_code">掃描二維碼</string>
+    <string name="scan_qr_code_from_image">掃描圖片中的二維碼</string>
+    <string name="switch_flash">開關閃光燈</string>
+    <string name="qr_code_scan_result">二維碼掃描結果</string>
+    <string name="qr_code_not_detected">未檢測到二維碼</string>
+    <string name="save_qr_code_successfully">二維碼已儲存到相簿</string>
+    <string name="description_with_number">%1$s (%2$d)</string>
+    <string name="last_hour">過去一小時</string>
+    <string name="today_and_yesterday">今天和昨天</string>
+    <string name="last_seven_days">過去 7 天</string>
+    <string name="all_time">所有時間</string>
+    <string name="delete_history_from">清除瀏覽歷史</string>
+    <string name="save_as_pdf">儲存為 PDF</string>
+    <string name="export">匯出</string>
+    <string name="export_successfully">匯出成功</string>
+    <string name="stop_loading_description">Via 阻止了以下頁面載入:</string>
+    <string name="stop_loading_reason">因為如下過濾規則:</string>
+    <string name="continue_loading">繼續載入</string>
+    <string name="allow_webpage_access_to_clipboard">允許網頁訪問剪貼簿</string>
+    <string name="ask_to_allow_webpage_to_copy_text">是否從 %DOMAIN% 複製文字？</string>
+    <string name="ask_to_allow_webpage_to_paste_text">是否為 %DOMAIN% 貼上文字？</string>
+    <string name="option_allow">允許</string>
+    <string name="option_deny">拒絕</string>
+    <string name="search_bar_style">搜尋框樣式</string>
+    <string name="search_bar_style_line">線條</string>
+    <string name="search_bar_style_rectangle">矩形</string>
+    <string name="favorites_icon_style">圖示樣式</string>
+    <string name="favorites_icon_style_text">文字</string>
+    <string name="favorites_icon_style_icon_first">圖示優先</string>
+    <string name="favorites_icon_color">圖示色彩</string>
+    <string name="favorites_icon_color_colorful">多彩</string>
+    <string name="favorites_icon_color_transparent">透明</string>
+    <string name="search_bar_effect">搜尋框效果</string>
+    <string name="search_bar_effect_blur">模糊</string>
+    <string name="search_bar_effect_transparent">透明</string>
+    <string name="search_part">搜尋區域</string>
+    <string name="search_part_hide">隱藏</string>
+    <string name="search_part_show">展示</string>
+    <string name="image_preference">影象偏好</string>
+    <string name="background_color">色彩</string>
+    <string name="background_image">圖片</string>
+    <string name="favorites_clear_icons">清除圖示</string>
+    <string name="customization_reset">重置</string>
+    <string name="theme_color">主題色</string>
+    <string name="theme_color_dark">暗色</string>
+    <string name="theme_color_light">亮色</string>
+    <string name="uninstall_script">解除安裝指令碼</string>
+    <string name="uninstall_script_message">你確認解除安裝指令碼 \"%1$s\" 嗎？</string>
+    <string name="install_script">安裝指令碼</string>
+    <string name="install_script_message">你確認安裝指令碼 \"%1$s\" 嗎？</string>
+    <string name="processing_blob_data">處理 blob 資料中…</string>
+    <string name="tineye_url">TinEye</string>
+    <string name="login_username">使用者名稱 (賬號不存在將自動建立)</string>
+    <string name="read_and_agree">請閱讀並同意 %1$s 與 %2$s</string>
+
 </resources>
