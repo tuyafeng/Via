@@ -262,8 +262,8 @@
     <string name="ui_traditional">ساندویچ</string>
     <string name="color_mode_hint">تنظیم خودکار رنگ نوار ابزارها</string>
     <string name="skin_hide_search_part">پنهان کردن قسمت جستجو</string>
-    <string name="file_size">s$1% :سایز فایل</string>
-    <string name="search_by_pic">جستجو با تصویر</string>
+    <string name="file_size">%1$s :سایز فایل</string>
+    <string name="search_by_image">جستجو با تصویر</string>
     <string name="resource_sniffer">منبع فروش</string>
     <string name="res_log_hint">یک آیتم را انتخاب کنید تا پیش نمایش آن را ببینید, یا به مدت طولانی فشار دهید تا دانلود یا کار دیگری کنید.</string>
     <string name="no_resource">این صفحه هیچ منایعی ندارد.</string>

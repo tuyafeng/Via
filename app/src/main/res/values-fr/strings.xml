@@ -262,7 +262,7 @@
     <string name="color_mode_hint">Ajustement automatique de la couleur de la barre d\'action lors de la navigation</string>
     <string name="skin_hide_search_part">Masquer la barre de recherche</string>
     <string name="file_size">Taille du fichier: %1$s</string>
-    <string name="search_by_pic">Recherche par image</string>
+    <string name="search_by_image">Recherche par image</string>
     <string name="resource_sniffer">Renifleur de ressources</string>
     <string name="res_log_hint">Clic sur un élément pour le prévisualiser, appui long sur un élément pour afficher le menu des actions possibles.</string>
     <string name="no_resource">La page n\'a pas de ressource.</string>

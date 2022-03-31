@@ -263,7 +263,7 @@
     <string name="color_mode_hint">கருவிப்பட்டிகளின் வண்ணத்தை தானாக சரிசெய்</string>
     <string name="skin_hide_search_part">தேடல் பகுதியை மறை</string>
     <string name="file_size">கோப்பின் அளவு: %1$s</string>
-    <string name="search_by_pic">படம் மூலம் தேடு</string>
+    <string name="search_by_image">படம் மூலம் தேடு</string>
     <string name="resource_sniffer">வள மோப்பான்</string>
     <string name="res_log_hint">முன்னோட்டமிட ஒரு உருப்படியை அழுத்தவும் அல்லது பதிவிறக்க அல்லது வேறு ஏதாவது செய்ய நீண்ட நேரம் அழுத்தவும்.</string>
     <string name="no_resource">பக்கத்திற்கு வளம் இல்லை.</string>

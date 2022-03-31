@@ -254,7 +254,7 @@
     <string name="skin_hide_search_part">Ẩn khung Tìm kiếm</string>
     <string name="file_size">Kích thước tệp: %1$s</string>
     Nhấp để Xem
-    <string name="search_by_pic">Tìm kiếm hình ảnh</string>
+    <string name="search_by_image">Tìm kiếm hình ảnh</string>
     <string name="resource_sniffer">Tải về tài nguyên</string>
     <string name="res_log_hint">Nhấp vào mục để xem trước, nhấn giữ để tải xuống hoặc làm điều khác.</string>
     <string name="no_resource">Trang không có tài nguyên.</string>

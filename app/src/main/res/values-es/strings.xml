@@ -263,7 +263,7 @@
     <string name="color_mode_hint">Auto-ajustar el color de las barras de herramientas</string>
     <string name="skin_hide_search_part">Ocultar parte de búsqueda</string>
     <string name="file_size">Tamaño del archivo: %1$s</string>
-    <string name="search_by_pic">Buscar por imagen</string>
+    <string name="search_by_image">Buscar por imagen</string>
     <string name="resource_sniffer">Detector de recursos</string>
     <string name="res_log_hint">Pulse un elemento para obtener una vista previa, o manténgalo pulsado para descargar o hacer otra cosa.</string>
     <string name="no_resource">La página no tiene recursos.</string>

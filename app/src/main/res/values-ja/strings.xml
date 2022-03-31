@@ -528,7 +528,7 @@
     <string name="adblock_info">%1$d件の広告がブロックされ、%2$s節約しました</string>
 
     <string name="cannot_work">「http(s)」で始まるURLのみで動作します。</string>
-    <string name="search_by_pic">画像で検索</string>
+    <string name="search_by_image">画像で検索</string>
 
     <string name="res_log_hint">アイテムを表示するにはタップ、ダウンロードするには長押ししてください。</string>
 

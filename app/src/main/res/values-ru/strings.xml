@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources tools:ignore="MissingTranslation" xmlns:tools="http://schemas.android.com/tools">
-
     <string name="app_name">Via</string>
     <string name="action_new_tab">Новая вкладка</string>
     <string name="action_open_in_new">Открыть в новой вкладке</string>
@@ -167,7 +166,6 @@
     <string name="open_with">Открыть в…</string>
     <string name="download_completed">Загрузка завершена</string>
     <string name="toast_fullscreen_off">Выход из полноэкранного режима</string>
-
     <string name="clear_data">Очистить данные</string>
     <string name="data_cache">Кеш</string>
     <string name="data_form_data">Данные форм</string>
@@ -175,38 +173,26 @@
     <string name="data_storage">Web-хранилище</string>
     <string name="data_cookies">Cookies (статус входа)</string>
     <string name="data_cleared">Данные очищены</string>
-
     <string name="sync_desc">Если учётная запись не существует, она будет создана.</string>
-
     <string name="settings_skin">Внешний вид</string>
     <string name="default_set">По умолчанию</string>
     <string name="picture">Изображение</string>
     <string name="text">Текст</string>
     <string name="html_code">HTML-код</string>
-
     <string name="action_view_image">Просмотр изображения</string>
-
     <string name="skin_colorful">Прямоугольный</string>
     <string name="skin_fruity">Круглый</string>
     <string name="skin_transparent">Прозрачный</string>
-
     <string name="block_popup">Блокировать всплывающие окна</string>
-
     <string name="action_save_web_page">Сохранить страницу</string>
     <string name="action_saved_pages">Архив страниц</string>
     <string name="saved_page_successfully">Страница успешно сохранена в \"Закладки\" → \"Архив страниц\"</string>
     <string name="deleted_failed">Ошибка при удалении. Путь нахождения файла: </string>
-
     <string name="empty_hint">Пусто…</string>
-
     <string name="network_log">Сетевой журнал</string>
-
     <string name="conn_timeout">Истекло время ожидания подключения</string>
-
     <string name="already_default">Via уже установлен браузером по умолчанию</string>
-
     <string name="set_to_default">Via будет установлен браузером по умолчанию после использования его для открытия ссылки %1$s. Выберите Via для её открытия.</string>
-
     <string name="sync_prompt">Будут перезаписаны текущие локальные закладки и настройки. Продолжить?</string>
     <string name="upload_prompt">Будут отправлены текущие локальные закладки и настройки. Продолжить?</string>
     <string name="none">Нет</string>
@@ -263,7 +249,7 @@
     <string name="color_mode_hint">Автоматически изменять цвета панелей</string>
     <string name="skin_hide_search_part">Скрыть панель поиска</string>
     <string name="file_size">Размер файла: %1$s</string>
-    <string name="search_by_pic">Поиск по изображению</string>
+    <string name="search_by_image">Поиск по изображению</string>
     <string name="resource_sniffer">Анализ ресурсов</string>
     <string name="res_log_hint">Нажмите для просмотра, удерживайте для загрузки или других действий.</string>
     <string name="no_resource">Ресурсы отсутствуют</string>
@@ -281,7 +267,7 @@
     <string name="page_info_link">Адрес ссылки:</string>
     <string name="no_network">Нет сетевого подключения!</string>
     <string name="title_app_chooser">Выбор приложения</string>
-    <string name="clear_data_on_exit">Очищать данные при выходе</string>
+    <string name="clear_data_on_exit">Очистка данных при выходе</string>
     <string name="action_add_to_homepage">Добавить в избранное</string>
     <string name="added_favorite_hint">Успешно добавлено в избранное на домашнюю страницу</string>
     <string name="title_edit_favorite">Редактирование</string>
@@ -309,7 +295,7 @@
     <string name="view_downloads">Просмотр</string>
     <string name="message_delete_downloading_task">Загруженный файл также будет удалён. Вы уверены?</string>
     <string name="message_delete_downloaded_task">Удалить загрузку?</string>
-    <string name="message_delete_downloaded_file">Также удалить загруженный файл</string>
+    <string name="message_delete_downloaded_file">…также удалить загруженный файл</string>
     <string name="block_popup_message">Заблокировано всплывающее окно</string>
     <string name="allow_popup">Разрешить сейчас</string>
     <string name="system_download_manager">Системный</string>
@@ -476,14 +462,14 @@
     <string name="certificate_info">Данные сертификата</string>
     <!-- The b tag means bold, And the br tag means line break.  -->
     <string name="certificate_detail"><![CDATA[
-        <b>ВЫДАН</b><br />
+        <b>КОМУ ВЫДАН</b><br />
         <b>Название (CN)</b><br />
         %1$s
         <br /><b>Организация (O)</b><br />
         %2$s
         <br /><b>Подразделение (OU)</b><br />
         %3$s
-        <br /><br /><b>ВЫДАЛ</b><br />
+        <br /><br /><b>КЕМ ВЫДАН</b><br />
         <b>Название (CN)</b><br />
         %4$s
         <br /><b>Организация (O)</b><br />
@@ -491,7 +477,7 @@
         <br /><br /><b>СРОК ДЕЙСТВИЯ</b><br />
         <b>Выдан</b><br />
         %6$s
-        <br /><b>Истекает</b><br />
+        <br /><b>Окончание</b><br />
         %7$s
         <br />
     ]]></string>
@@ -523,4 +509,35 @@
     <string name="ask_to_allow_webpage_to_paste_text">Вставлять текст на %DOMAIN%?</string>
     <string name="option_allow">Разрешить</string>
     <string name="option_deny">Запретить</string>
+    <string name="search_bar_style">Вид панели</string>
+    <string name="search_bar_style_line">Линия</string>
+    <string name="search_bar_style_rectangle">Прямоугольник</string>
+    <string name="favorites_icon_style">Вид значков</string>
+    <string name="favorites_icon_style_text">Текст</string>
+    <string name="favorites_icon_style_icon_first">Сначала значок</string>
+    <string name="favorites_icon_color">Цвет значков</string>
+    <string name="favorites_icon_color_colorful">Цветные</string>
+    <string name="favorites_icon_color_transparent">Прозрачные</string>
+    <string name="search_bar_effect">Эффект панели</string>
+    <string name="search_bar_effect_blur">Размытие</string>
+    <string name="search_bar_effect_transparent">Прозрачность</string>
+    <string name="search_part">Панель поиска</string>
+    <string name="search_part_hide">Скрыта</string>
+    <string name="search_part_show">Видна</string>
+    <string name="image_preference">Параметры изображения</string>
+    <string name="background_color">Цвет</string>
+    <string name="background_image">Изображение</string>
+    <string name="favorites_clear_icons">Очистить значки</string>
+    <string name="customization_reset">Сброс</string>
+    <string name="theme_color">Цвет темы</string>
+    <string name="theme_color_dark">Тёмный</string>
+    <string name="theme_color_light">Светлый</string>
+    <string name="uninstall_script">Удалить скрипт</string>
+    <string name="uninstall_script_message">Удалить скрипт \"%1$s\"?</string>
+    <string name="install_script">Установить скрипт</string>
+    <string name="install_script_message">Установить скрипт \"%1$s\"?</string>
+    <string name="processing_blob_data">Обработка данных большого двоичного объекта…</string>
+    <string name="tineye_url">TinEye</string>
+    <string name="login_username">Пользователь (будет создан при отсутствии)</string>
+    <string name="read_and_agree">Необходимо прочитать и принять %1$s и %2$s</string>
 </resources>

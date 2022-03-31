@@ -239,7 +239,7 @@
     <string name="color_mode_hint">Зміна кольору панелей як на сайті</string>
     <string name="skin_hide_search_part">Приховати панель пошуку</string>
     <string name="file_size">Розмір файла: %1$s</string>
-    <string name="search_by_pic">Пошук за зображенням</string>
+    <string name="search_by_image">Пошук за зображенням</string>
     <string name="resource_sniffer">Ресурси сніфера</string>
     <string name="res_log_hint">Натисніть на елемент, щоб переглянути. Довге натискання на елемент, щоб завантажити або зробити щось інше.</string>
     <string name="no_resource">Сторінка не має ресурсів.</string>

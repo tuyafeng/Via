@@ -263,7 +263,7 @@
     <string name="color_mode_hint">Ajustare automată culoare bară de instrumente</string>
     <string name="skin_hide_search_part">Ascundere Căutare</string>
     <string name="file_size">Dimensiune fișier: %1$s</string>
-    <string name="search_by_pic">Căutare după fotografie</string>
+    <string name="search_by_image">Căutare după fotografie</string>
     <string name="resource_sniffer">Resource sniffer</string>
     <string name="res_log_hint">Apăsați pentru un element pentru previzualizare, sau țineți apăsat pentru a-l descărca sau a face altceva cu el.</string>
     <string name="no_resource">Pagina nu are resurse.</string>

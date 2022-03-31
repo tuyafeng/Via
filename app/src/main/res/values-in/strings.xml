@@ -263,7 +263,7 @@
     <string name="color_mode_hint">Warnai toolbar otomatis</string>
     <string name="skin_hide_search_part">Sembunyikan bagian pencarian</string>
     <string name="file_size">Ukuran file: %1$s</string>
-    <string name="search_by_pic">Cari dengan gambar</string>
+    <string name="search_by_image">Cari dengan gambar</string>
     <string name="resource_sniffer">Deteksi sumber daya</string>
     <string name="res_log_hint">Tekan item untuk melihat, atau tekan lama untuk mengunduh atau lakukan hal lain.</string>
     <string name="no_resource">Halaman ini tidak mempunyai sumber daya.</string>

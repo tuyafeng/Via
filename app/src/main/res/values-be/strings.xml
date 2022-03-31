@@ -239,7 +239,7 @@
    <string name="color_mode_hint">UI ў колер сайту</string>
    <string name="skin_hide_search_part">Схаваць частку пошуку</string>
    <string name="file_size">Памер файлу: %1$s</string>
-   <string name="search_by_pic">Пошук па выяве</string>
+   <string name="search_by_image">Пошук па выяве</string>
    <string name="resource_sniffer">Аналіз рэсурсаў</string>
    <string name="res_log_hint">Націсніце, каб праглядзець, утрымлівайце, каб спампаваць або зрабіць яшчэ што-небудзь.</string>
    <string name="no_resource">Гэтая старонка не мае рэсурсаў.</string>

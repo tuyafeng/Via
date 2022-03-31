@@ -263,7 +263,7 @@
     <string name="color_mode_hint">Toolbar beim Browsen färben</string>
     <string name="skin_hide_search_part">Suchteil ausblenden</string>
     <string name="file_size">Dateigröße: %1$s</string>
-    <string name="search_by_pic">Nach Bild suchen</string>
+    <string name="search_by_image">Nach Bild suchen</string>
     <string name="resource_sniffer">Ressource-Sniffer</string>
     <string name="res_log_hint">Zur Vorschau drücken, oder gedrückt halten zum Herunterladen.</string>
     <string name="no_resource">Die Seite hat keine Quelle.</string>

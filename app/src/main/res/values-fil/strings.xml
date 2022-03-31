@@ -263,7 +263,7 @@
     <string name="color_mode_hint">Awtomatikong i-adjust color ng mga toolbar</string>
     <string name="skin_hide_search_part">Itago ang search part</string>
     <string name="file_size">File size: %1$s</string>
-    <string name="search_by_pic">Hanapin gamit picture</string>
+    <string name="search_by_image">Hanapin gamit picture</string>
     <string name="resource_sniffer">Resource sniffer</string>
     <string name="res_log_hint">Pindutin ang item para mapreview, or i-long press para i-download o gumawa ng kahit ano.</string>
     <string name="no_resource">Ang page na ito ay walang resource.</string>

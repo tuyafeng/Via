@@ -263,7 +263,7 @@
     <string name="color_mode_hint">Renkli araç çubuğu</string>
     <string name="skin_hide_search_part">Arama bölümünü gizle</string>
     <string name="file_size">Dosya boyutu: %1$s</string>
-    <string name="search_by_pic">Resim ile arama</string>
+    <string name="search_by_image">Resim ile arama</string>
     <string name="resource_sniffer">Kaynak algılayıcı</string>
     <string name="res_log_hint">Görüntülemek için öğeyi tıklayın, indirmek veya başka bir şey için basılı tutun.</string>
     <string name="no_resource">Sayfada hiç kaynak yok.</string>

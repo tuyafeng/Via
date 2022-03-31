@@ -261,7 +261,7 @@
     <string name="color_mode_hint">অপারেশন বারগুলির রঙ স্বয়ংক্রিয়ভাবে সমন্বয় করুন</string>
     <string name="skin_hide_search_part">অনুসন্ধানের অংশটি লুকান</string>
     <string name="file_size">ফাইলের আকার: %1$s</string>
-    <string name="search_by_pic">ছবি অনুসারে অনুসন্ধান করুন</string>
+    <string name="search_by_image">ছবি অনুসারে অনুসন্ধান করুন</string>
     <string name="resource_sniffer">রিসোর্স স্নিফার</string>
     <string name="res_log_hint">পূর্বরূপ দেখতে আইটেমটি ক্লিক করুন, ডাউনলোড করতে বা অন্য কিছু করতে আইটেম দীর্ঘ ক্লিক করুন</string>
     <string name="no_resource">পৃষ্ঠার কোনও সংস্থান নেই.</string>

@@ -263,7 +263,7 @@
     <string name="color_mode_hint">Ajustar automaticamente a cor das barras de operação</string>
     <string name="skin_hide_search_part">Ocultar parte da pesquisa</string>
     <string name="file_size">Tamanho do arquivo: %1$s</string>
-    <string name="search_by_pic">Pesquisa por imagem</string>
+    <string name="search_by_image">Pesquisa por imagem</string>
     <string name="resource_sniffer">Botão recurso</string>
     <string name="res_log_hint">Clique em um item para visualizar, clique nele para fazer o download ou faça outra coisa.</string>
     <string name="no_resource">A página não possui recurso.</string>
