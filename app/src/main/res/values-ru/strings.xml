@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources tools:ignore="MissingTranslation" xmlns:tools="http://schemas.android.com/tools">
-
     <string name="app_name">Via</string>
     <string name="action_new_tab">Новая вкладка</string>
     <string name="action_open_in_new">Открыть в новой вкладке</string>
@@ -167,7 +166,6 @@
     <string name="open_with">Открыть в…</string>
     <string name="download_completed">Загрузка завершена</string>
     <string name="toast_fullscreen_off">Выход из полноэкранного режима</string>
-
     <string name="clear_data">Очистить данные</string>
     <string name="data_cache">Кеш</string>
     <string name="data_form_data">Данные форм</string>
@@ -175,38 +173,26 @@
     <string name="data_storage">Web-хранилище</string>
     <string name="data_cookies">Cookies (статус входа)</string>
     <string name="data_cleared">Данные очищены</string>
-
     <string name="sync_desc">Если учётная запись не существует, она будет создана.</string>
-
     <string name="settings_skin">Внешний вид</string>
     <string name="default_set">По умолчанию</string>
     <string name="picture">Изображение</string>
     <string name="text">Текст</string>
     <string name="html_code">HTML-код</string>
-
     <string name="action_view_image">Просмотр изображения</string>
-
     <string name="skin_colorful">Прямоугольный</string>
     <string name="skin_fruity">Круглый</string>
     <string name="skin_transparent">Прозрачный</string>
-
     <string name="block_popup">Блокировать всплывающие окна</string>
-
     <string name="action_save_web_page">Сохранить страницу</string>
     <string name="action_saved_pages">Архив страниц</string>
     <string name="saved_page_successfully">Страница успешно сохранена в \"Закладки\" → \"Архив страниц\"</string>
     <string name="deleted_failed">Ошибка при удалении. Путь нахождения файла: </string>
-
     <string name="empty_hint">Пусто…</string>
-
     <string name="network_log">Сетевой журнал</string>
-
     <string name="conn_timeout">Истекло время ожидания подключения</string>
-
     <string name="already_default">Via уже установлен браузером по умолчанию</string>
-
     <string name="set_to_default">Via будет установлен браузером по умолчанию после использования его для открытия ссылки %1$s. Выберите Via для её открытия.</string>
-
     <string name="sync_prompt">Будут перезаписаны текущие локальные закладки и настройки. Продолжить?</string>
     <string name="upload_prompt">Будут отправлены текущие локальные закладки и настройки. Продолжить?</string>
     <string name="none">Нет</string>
@@ -546,5 +532,12 @@
     <string name="theme_color">Цвет темы</string>
     <string name="theme_color_dark">Тёмный</string>
     <string name="theme_color_light">Светлый</string>
-
+    <string name="uninstall_script">Удалить скрипт</string>
+    <string name="uninstall_script_message">Удалить скрипт \"%1$s\"?</string>
+    <string name="install_script">Установить скрипт</string>
+    <string name="install_script_message">Установить скрипт \"%1$s\"?</string>
+    <string name="processing_blob_data">Обработка данных большого двоичного объекта…</string>
+    <string name="tineye_url">TinEye</string>
+    <string name="login_username">Пользователь (будет создан при отсутствии)</string>
+    <string name="read_and_agree">Необходимо прочитать и принять %1$s и %2$s</string>
 </resources>
