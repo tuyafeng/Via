@@ -542,5 +542,13 @@
     <string name="theme_color">Cor do tema</string>
     <string name="theme_color_dark">Escuro</string>
     <string name="theme_color_light">Claro</string>
+    <string name="uninstall_script">Desinstalar script</string>
+    <string name="uninstall_script_message">Tem certeza que deseja desinstalar esse script \"%1$s\"?</string>
+    <string name="install_script">Instalar script</string>
+    <string name="install_script_message">Tem certeza que deseja instalar esse script \"%1$s\"?</string>
+    <string name="processing_blob_data">Processando dados de blob…</string>
+    <string name="tineye_url">TinEye</string>
+    <string name="login_username">Nome de usuário (caso a conta não exista ela será criada)</string>
+    <string name="read_and_agree">Por favor, leia e concorde com %1$s e %2$s</string>
 
 </resources>
