@@ -55,7 +55,7 @@
   <string name="size_smallest">Найменший</string>
   <string name="hint_title">Заголовок</string>
   <string name="hint_url">Адреса</string>
-  <string name="hint_folder">Папка</string>
+  <string name="hint_folder">Тека</string>
   <string name="title_edit_bookmark">Редагування закладки</string>
   <string name="action_edit">Змінити</string>
   <string name="action_incognito">Інкогніто</string>
@@ -132,8 +132,8 @@
   <string name="action_pcview">Версія для ПК</string>
   <string name="action_source">Вихідний код</string>
   <string name="action_translate">Переклад</string>
-  <string name="title_edit_folder">Редагування папки</string>
-  <string name="msg_delete_folder">Видалити папку?</string>
+  <string name="title_edit_folder">Редагування теки</string>
+  <string name="msg_delete_folder">Видалити теку?</string>
   <string name="desc_suggestion">Пропозиція</string>
   <string name="desc_home">Додому</string>
   <string name="desc_tab">Вкладка</string>
@@ -245,7 +245,7 @@
   <string name="operation_hint">Керування жестами, кнопками, тощо</string>
   <string name="adblock_info">Увімкнено: %1$d рекламних оголошень заблоковано, %2$s зекономлено</string>
   <string name="disable">Вимкнено</string>
-  <string name="ui_traditional">Роздільний</string>
+  <string name="ui_traditional">Традиційний</string>
   <string name="color_mode_hint">Автоматично змінювати кольори панелей</string>
   <string name="skin_hide_search_part">Приховати панель пошуку</string>
   <string name="file_size">Розмір файлу: %1$s</string>
@@ -273,7 +273,7 @@
   <string name="title_edit_favorite">Редагування</string>
   <string name="custom_css_special">Додати свій CSS</string>
   <string name="force_enable_zoom">Примусове масштабування</string>
-  <string name="set_ua_as">Встановлено User Agent: %1$s</string>
+  <string name="set_ua_as">Агент користувача: %1$s</string>
   <string name="import_data">Імпорт даних</string>
   <string name="import_data_failed">Помилка при імпортуванні даних!</string>
   <string name="import_data_succeed">Імпорт даних виконано успішно</string>
@@ -306,7 +306,7 @@
   <string name="chinese_server">Китайський</string>
   <string name="global_server">Глобальний</string>
   <string name="server_message">Дані цих серверів не синхронізовано. Вам потрібно знову увійти в систему.</string>
-  <string name="delete_bookmark_folder_message">Всі закладки в папці \"%1$s\" також будуть видалені. Ви упевнені?</string>
+  <string name="delete_bookmark_folder_message">Всі закладки в теці \"%1$s\" також будуть видалені. Ви упевнені?</string>
   <string name="action_new">Нове</string>
   <string name="block_hint">Заблоковано: %1$s\nОновіть для застосування.</string>
   <string name="unblock_hint">Розблоковано: %1$s\nОновіть для застосування.</string>
@@ -330,7 +330,7 @@
   <string name="update_filter_subscription_failed">Помилка при оновленні підписки на фільтри.\n%1$s</string>
   <string name="has_not_been_updated">не оновлено</string>
   <string name="just_now">щойно</string>
-  <string name="url_is_invalid">Невірний URL</string>
+  <string name="url_is_invalid">Невірна адреса URL</string>
   <string name="simple_guide_of_writing_rule">Via підтримує майже всі фільтри Adblock Plus.
         \nБлокувати запити від example.com можна за допомогою такого фільтра:
         \n||example.com^ (чи просто: example.com)
@@ -386,7 +386,7 @@
   <string name="paste_and_go">Вставити та перейти</string>
   <string name="night_filter_for_web_contents">Нічний фільтр вмісту сторінок</string>
   <string name="force_dark_mode_for_web_contents">Примусовий темний режим сторінок</string>
-  <string name="force_dark_mode_for_web_contents_description">Якщо увімкнено, буде примусово використовуватися темний режим для вмісту сторінок, що може призвести до ненормальної роботи деяких з них</string>
+  <string name="force_dark_mode_for_web_contents_description">Використовуватиметься темний режим для вмісту сторінок (може призвести до ненормальної роботи деяких з них)</string>
   <string name="require_javascript_enabled">Буде працювати тільки при увімкненому JavaScript</string>
   <string name="keyboard_shortcuts">Гарячі клавіші</string>
   <string name="export_data_description">Експорт закладок, налаштувань, скриптів та фільтрів реклами</string>
@@ -397,11 +397,11 @@
   <string name="sort_by_oldest_first">Старі → нові</string>
   <string name="sort_by_newest_first">Нові → старі</string>
   <string name="sort_by_alphabetical_order">За алфавітом</string>
-  <string name="select_folder">Вибір папки</string>
+  <string name="select_folder">Вибір теки</string>
   <string name="move">Перемістити</string>
   <string name="bookmarks_history">Закладки/Історія</string>
   <string name="done">Готово</string>
-  <string name="root_folder">Коренева папка</string>
+  <string name="root_folder">Коренева тека</string>
   <string name="delete_item_message">Видалити %1$s?</string>
   <string name="item_has_been_deleted">Видалено: \"%1$s\"</string>
   <string name="undo">Скасувати</string>
@@ -445,7 +445,7 @@
   <string name="latest_version_already_installed">Встановлено останню версію</string>
   <string name="new_version_available">Доступна нова версія</string>
   <string name="action_download_file">Завантажити</string>
-  <string name="entered_full_screen_mode">Використовується повноекранний режим</string>
+  <string name="entered_full_screen_mode">Повноекранний режим</string>
   <string name="delete_hint">Видалити (%1$d)</string>
   <string name="follow_system_dark_mode_on">Використовувати темний режим системи, якщо увімкнено</string>
   <string name="scoped_search">Пошук в \"%1$s\"</string>
@@ -539,5 +539,5 @@
   <string name="processing_blob_data">Обробка даних великого двійкового об\'єкту…</string>
   <string name="tineye_url">TinEye</string>
   <string name="login_username">Користувач (буде створений, якщо відсутній)</string>
-  <string name="read_and_agree">Необхідно прочитати та прийняти %1$s и %2$s</string>
+  <string name="read_and_agree">Необхідно прочитати і прийняти %1$s та %2$s</string>
 </resources>
