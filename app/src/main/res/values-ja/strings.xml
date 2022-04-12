@@ -40,6 +40,14 @@
     <string name="no_certificate">このウェブサイトにはサーバ証明書が有りません</string>
     <string name="site_conf_enabled">Site configuration (Enabled)</string>
     
+    <!-- トップ | QRコード -->    
+    <string name="scan_qr_code">QRコード（二次元バーコード）をスキャン</string>
+    <string name="scan_qr_code_from_image">画像からQRコードをスキャンします</string>
+    <string name="switch_flash">フラッシュ</string>
+    <string name="qr_code_scan_result">QRコードのスキャン結果</string>
+    <string name="qr_code_not_detected">QRコードが見つかりませんでした</string>
+    <string name="save_qr_code_successfully">QRコードのデータをギャラリーに保存しました</string>
+    
     <!-- 設定｜一般｜アカウント -->    
     <string name="settings_cloud">アカウント</string>
     <string name="user">ログイン及び登録</string>
@@ -200,6 +208,7 @@
     <string name="import_bookmark_error">読み込めませんでした</string>
     <string name="message_add_bookmark">追加しました</string>
     <string name="bookmarks_imported">%1d つのブックマークを読み込みました</string>
+    <string name="bookmarks_exported_successfully">ブックマークのエクスポートが完了しました</string>
     
     <!-- 設定｜一般｜設定のインポート -->    
     <string name="import_data">設定のインポート</string>
@@ -211,6 +220,7 @@
     <string name="export_data_description">ブックマーク、設定、スクリプト及び広告ブロックフィルターをエクスポートします</string>
     <string name="export_data_to">エクスポート先: %1$s</string>
     <string name="data_file">データエクスポート</string>
+    <string name="data_exported_successfully">データのエクスポートが完了しました</string>
     
     <!-- 設定｜一般｜前回開いていたページを開く -->
     <string name="restore_tabs">前回開いていたページを開く</string>
@@ -279,6 +289,11 @@
     <string name="quick_back">戻る時に再読み込みをしない</string>
     <string name="web_page_debug">ウェブページのデバッグを有効にする</string>
     <string name="web_page_debug_info">開発者オプションにてUSBデバッグを有効にした状態でPCに接続し、PCのChromeで\"chrome://inspect\"を開いてください。</string>
+    <string name="allow_webpage_access_to_clipboard">ウェブページにクリップボードへのアクセスを許可する</string>
+    <string name="ask_to_allow_webpage_to_copy_text">%DOMAIN% からテキストをコピーしますか？</string>
+    <string name="ask_to_allow_webpage_to_paste_text">%DOMAIN% へテキストをペーストしますか？</string>
+    <string name="option_allow">許可</string>
+    <string name="option_deny">拒否</string>
     
     <!-- 設定｜スクリプト -->
     <string name="settings_script">スクリプト</string>
