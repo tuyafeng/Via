@@ -550,5 +550,35 @@
     <string name="tineye_url">TinEye</string>
     <string name="login_username">Nome de usuário (caso a conta não exista ela será criada)</string>
     <string name="read_and_agree">Por favor, leia e concorde com %1$s e %2$s</string>
-
+    <string name="wechat_official_account">Conta oficial Wechat </string>
+    <string name="notification_channel_downloads">Baixar conteúdos</string>
+    <string name="notification_channel_foreground">Notificações em primeiro plano</string>
+    <string name="download_progress">%1$s/%2$s</string>
+    <string name="download_progress_indeterminate">%1$s</string>
+    <string name="download_progress_status">%1$s • %2$s</string>
+    <string name="download_status_paused">Pausado</string>
+    <string name="download_action_pause">Pausar</string>
+    <string name="download_action_resume">Resumir</string>
+    <string name="app_downloading_files">Via está baixando arquivos</string>
+    <string name="app_downloading_files_subtitle">Toque para ver os downloads</string>
+    <string name="download_failed_with_code">Download falhou: %1$s (%2$d)</string>
+    <string name="built_in_download_manager">Gerenciador de arquivos integrado</string>
+    <string name="cancel_all">Cancelar tudo</string>
+    <string name="message_delete_selected_download_tasks">Excluir estas tarefas de download (%1$d no total)?</string>
+    <string name="file_name">Nome do arquivo</string>
+    <string name="rename">Renomear</string>
+    <string name="download_error_file_io">I/O error</string>
+    <string name="download_error_network">Erro de internet</string>
+    <string name="download_error_unknown">Erro desconhecido</string>
+    <string name="message_re_download">Você tem certeza que deseja excluir o arquivo e refazer o download %1$s?</string>
+    <string name="share_image">Compartilhar imagem</string>
+    <string name="ssl_warning_insecure_connection_message">Conexão com %1$s não é segura:\n%2$s\nProsseguir mesmo assim?</string>
+    <string name="ssl_warning_dont_ask_again">Não pergunte novamente por essa sessão</string>
+    <string name="ssl_warning_certificate_untrusted">O certificado não é confiável</string>
+    <string name="ssl_warning_certificate_date_invalid">Data do certificado é inválida</string>
+    <string name="ssl_warning_certificate_expired">O certificado expirou</string>
+    <string name="ssl_warning_certificate_domain_mismatch">O domínio do certificado não corresponde ao domínio do site</string>
+    <string name="ssl_warning_certificate_invalid">O certificado é inválido</string>
+    <string name="ssl_warning_certificate_not_yet_valid">O certificado ainda não é válido</string>
+    <string name="the_site">O site</string>
 </resources>
