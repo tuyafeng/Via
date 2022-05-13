@@ -245,7 +245,7 @@
   <string name="no_resource">الصفحة لا يوجد بها ملفات ميديا</string>
   <string name="no_network_log">لا تحتوي الصفحة على سجل شبكة.</string>
   <string name="resource_sniffer_hint">\nPS: من الأسهل الحصول عليه عند تشغيل الموسيقى أو الفيديو.</string>
-  <string name="action_download">تحميل</string>
+  <string name="action_downloads">تحميل</string>
     <string name="empty_username_info">يرجى إدخال اسم المستخدم الخاص بك.</string>
   <string name="empty_password_info">يرجى إدخال كلمة المرور الخاصة بك.</string>
   <string name="offline_page_hint">فيما يلي هي الصفحات المحفوظة. يمكنك قراءتها في أي وقت بغض النظر عما إذا كان هناك اتصال بالشبكة.</string>

@@ -255,7 +255,7 @@
     <string name="no_resource">Ресурсы отсутствуют</string>
     <string name="no_network_log">Сетевой журнал пуст</string>
     <string name="resource_sniffer_hint">\nАнализ ресурсов упрощается при воспроизведении музыки или видео, но всё равно может не работать на некоторых сайтах.</string>
-    <string name="action_download">Загрузки</string>
+    <string name="action_downloads">Загрузки</string>
     <string name="empty_username_info">Введите имя пользователя</string>
     <string name="empty_password_info">Введите пароль</string>
     <string name="offline_page_hint">Автономно сохранённые страницы. Вы можете читать их независимо от наличия подключение к сети.</string>

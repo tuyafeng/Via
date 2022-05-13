@@ -268,7 +268,7 @@
     <string name="no_resource">पृष्ठ के पास कोई संसाधन नहीं है।</string>
     <string name="no_network_log">पृष्ठ में कोई नेटवर्क लॉग नहीं है।</string>
     <string name="resource_sniffer_hint">\nजब संगीत या वीडियो चलाया जा रहा है तो मीडिया फ़ाइलों का पता लगाना आसान है। संसाधन स्निफर कुछ वेबसाइटों पर काम नहीं करता है</string>
-    <string name="action_download">डाउनलोड</string>
+    <string name="action_downloads">डाउनलोड</string>
     <string name="empty_username_info">कृपया अपना उपयोगकर्ता नाम इनपुट करें</string>
     <string name="empty_password_info">कृपया अपना पासवर्ड डालें</string>
     <string name="offline_page_hint">ये सहेजे गए पृष्ठ हैं। आप ऑफ़लाइन होने पर भी उन्हें खोल सकते हैं।</string>

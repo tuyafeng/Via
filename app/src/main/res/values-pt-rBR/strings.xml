@@ -269,7 +269,7 @@
     <string name="no_resource">A página não possui recurso.</string>
     <string name="no_network_log">A página não possui log de rede.</string>
     <string name="resource_sniffer_hint">\nÉ mais fácil detectar arquivos de mídia enquanto a música ou o vídeo está sendo reproduzido. O botão de recursos não funciona em determinados sites.</string>
-    <string name="action_download">Downloads</string>
+    <string name="action_downloads">Downloads</string>
     <string name="empty_username_info">Por favor insira seu nome de usuário</string>
     <string name="empty_password_info">Por favor insira sua senha</string>
     <string name="offline_page_hint">Estas são páginas da Web salvas. Você pode abri-los mesmo quando estiver offline.</string>

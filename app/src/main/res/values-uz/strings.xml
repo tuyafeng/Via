@@ -269,7 +269,7 @@
     <string name="no_resource">Sahifada manba yo‘q.</string>
     <string name="no_network_log">Sahifada tarmoq jurnali yo‘q.</string>
     <string name="resource_sniffer_hint">\nMusiqa yoki videoni ijro etishda resurslarni tahlil qilish osonroq, lekin ba’zi bir saytlarda ishlamasligi mumkin.</string>
-    <string name="action_download">Yuklanmalar</string>
+    <string name="action_downloads">Yuklanmalar</string>
     <string name="empty_username_info">Iltimos, ismingizni kiriting</string>
     <string name="empty_password_info">Iltimos, parolingizni kiriting</string>
     <string name="offline_page_hint">Bu saqlangan sahifalar. Siz ularni oflayn bo‘lganingizda ham ochishingiz mumkin.</string>

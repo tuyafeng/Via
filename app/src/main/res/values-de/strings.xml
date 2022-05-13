@@ -269,7 +269,7 @@
     <string name="no_resource">Die Seite hat keine Quelle.</string>
     <string name="no_network_log">Die Seite hat kein Netzwerk-Log.</string>
     <string name="resource_sniffer_hint">\nEs ist einfacher, Mediendateien zu erkennen, während Musik oder Videos abgespielt werden. Ressource-Sniffer funktioniert nicht auf bestimmten Webseiten.</string>
-    <string name="action_download">Download</string>
+    <string name="action_downloads">Download</string>
     <string name="empty_username_info">Bitte Benutzername eingeben</string>
     <string name="empty_password_info">Bitte Passwort eingeben</string>
     <string name="offline_page_hint">Dies sind gespeicherte Seiten. Sie können sie unabhängig vom Netzwerk lesen.</string>

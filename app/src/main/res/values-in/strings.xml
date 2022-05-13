@@ -269,7 +269,7 @@
     <string name="no_resource">Halaman ini tidak mempunyai sumber daya.</string>
     <string name="no_network_log">Halaman ini tidak mempunyai log jaringan.</string>
     <string name="resource_sniffer_hint">\nLebih mudah mendeteksi file media saat dimainkan. Pendeteksi sumber daya tidak bekerja pada beberapa situs.</string>
-    <string name="action_download">Unduhan</string>
+    <string name="action_downloads">Unduhan</string>
     <string name="empty_username_info">Harap masukkan nama pengguna</string>
     <string name="empty_password_info">Harap masukkan kata sandi</string>
     <string name="offline_page_hint">Ini adalah halaman tersimpan. Anda bisa membukanya bahkan saat tidak ada jaringan.</string>

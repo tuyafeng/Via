@@ -267,7 +267,7 @@
     <string name="no_resource">Stranica nema izvore.</string>
     <string name="no_network_log">Stranica nema log mreže.</string>
     <string name="resource_sniffer_hint">\nLakše je otkriti medijske datoteke kada je pokrenut video ili glazba. Njuškalo izvora ne radi na pojedinim stranicama.</string>
-    <string name="action_download">Preuzimanja</string>
+    <string name="action_downloads">Preuzimanja</string>
     <string name="empty_username_info">Molimo Vas unesite vaše korisničko ime</string>
     <string name="empty_password_info">Molimo Vas unesite vašu lozinku</string>
     <string name="offline_page_hint">Ovo su spremljene stranice. Možete ih otvoriti kada ste izvan mreže.</string>

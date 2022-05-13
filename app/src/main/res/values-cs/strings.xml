@@ -258,7 +258,7 @@
     <string name="no_resource">Stránka nemá žádný zdroj.</string>
     <string name="no_network_log">Stránka nemá žádný síťový protokol.</string>
     <string name="resource_sniffer_hint">\nPS: Je snadnější se dostat, když se hraje hudba nebo video.</string>
-    <string name="action_download">Stažení</string>
+    <string name="action_downloads">Stažení</string>
     <string name="empty_username_info">Prosím zadejte uživatelské jméno.</string>
     <string name="empty_password_info">Prosím zadejte heslo.</string>
     <string name="offline_page_hint">Následují uložené stránky. Můžete si je přečíst bez ohledu na to, zda jste připojení k síti.</string>

@@ -260,7 +260,7 @@
     <string name="no_resource">Trang không có tài nguyên.</string>
     <string name="no_network_log">Trang không có nhật ký mạng.</string>
     <string name="resource_sniffer_hint">\nPS: dễ dàng hơn khi nghe nhạc hoặc video.</string>
-    <string name="action_download">Download</string>
+    <string name="action_downloads">Download</string>
     <string name="empty_username_info">Hãy nhập vào tên người dùng của bạn.</string>
     <string name="empty_password_info">Hãy nhập vào mật khẩu của bạn.</string>
     <string name="offline_page_hint">Dưới đây là các Trang đã lưu. Bạn có thể xem nó khi không có mạng.</string>

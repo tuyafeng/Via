@@ -269,7 +269,7 @@
     <string name="no_resource">این صفحه هیچ منایعی ندارد.</string>
     <string name="no_network_log">این صفحه هیچ گزارش شبکه ای ندارد.</string>
     <string name="resource_sniffer_hint">\nحذف کردن موسیفی یا فیلم زمان پخش شدن آسان تر است. منبع فروش در برخی از وب سایت ها کار نمی کند.</string>
-    <string name="action_download">دانلود ها</string>
+    <string name="action_downloads">دانلود ها</string>
     <string name="empty_username_info">لطفا نام کاربری خود را وارد کنید</string>
     <string name="empty_password_info">لطفا رمزعبور خود را وارد کنید</string>
     <string name="offline_page_hint">این ها صفحات وب ذخیره شده هستند. میتونید اون ها رو حتی زمانی که آفلاین هستید باز کنید.</string>

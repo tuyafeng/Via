@@ -255,7 +255,7 @@
     <string name="no_resource">La pagina non ha risorse.</string>
     <string name="no_network_log">La pagina non ha effettuato richieste.</string>
     <string name="resource_sniffer_hint">\nIndividuare file multimediali è più facile quando vengono riprodotti musica o video. L\'intercettazione delle risorse non funziona su alcuni siti.</string>
-    <string name="action_download">Download</string>
+    <string name="action_downloads">Download</string>
     <string name="empty_username_info">Inserisci il tuo nome utente</string>
     <string name="empty_password_info">Inserisci la tua password</string>
     <string name="offline_page_hint">Queste sono le pagine salvate. Puoi aprirle anche quando sei offline.</string>

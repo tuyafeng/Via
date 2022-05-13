@@ -269,7 +269,7 @@
     <string name="no_resource">Pagina nu are resurse.</string>
     <string name="no_network_log">Pagina nu are istoric de rețea.</string>
     <string name="resource_sniffer_hint">\nDetectarea fișierelor media este mai ușoară când se redă audio sau video. Resource sniffer nu funcționează pe unele site-uri.</string>
-    <string name="action_download">Descărcări</string>
+    <string name="action_downloads">Descărcări</string>
     <string name="empty_username_info">Vă rugăm introduceți-vă numele de utilizator.</string>
     <string name="empty_password_info">Vă rugăm introduceți-vă parola.</string>
     <string name="offline_page_hint">Aceste sunt pagini salvate. Le poți deschide și când ești offline.</string>

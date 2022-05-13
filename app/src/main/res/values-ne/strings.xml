@@ -250,7 +250,7 @@
     <string name="no_resource">पृष्ठसँग कुनै स्रोत छैन।</string>
     <string name="no_network_log">पृष्ठमा कुनै नेटवर्क लग छैन।</string>
     <string name="resource_sniffer_hint">\n यो मिडिया फाइलहरू पत्ता लगाउन सजिलो छ जबकि संगीत वा भिडियो प्ले भइरहेको छ। रिसोर्स स्निफरले केहि वेबसाइटहरूमा काम गर्दैन।</string>
-    <string name="action_download">डाउनलोडहरू</string>
+    <string name="action_downloads">डाउनलोडहरू</string>
     <string name="empty_username_info">कृपया तपाईको प्रयोगकर्ता नाम इनपुट गर्नुहोस्</string>
     <string name="empty_password_info">कृपया तपाईको पासवर्ड इनपुट गर्नुहोस्</string>
     <string name="offline_page_hint">यी वेब पृष्ठहरू बचत गरियो। तपाईं तिनीहरूलाई अफलाईन हुँदा पनि खोल्न सक्नुहुन्छ।</string>

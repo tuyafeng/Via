@@ -268,7 +268,7 @@
     <string name="no_resource">Šiame puslapyje nesuradome media failų</string>
     <string name="no_network_log">Puslapis neturi ryšio sąrašų</string>
     <string name="resource_sniffer_hint">\nSurasti media failus yra daug leingviau, kai jie yra paleisti. Kai kuriose svetainėse media failų atsisiųsti neįmanoma.</string>
-    <string name="action_download">Atsisiuntimai</string>
+    <string name="action_downloads">Atsisiuntimai</string>
     <string name="empty_username_info">Prašome įvesti savo vartotojo vardą</string>
     <string name="empty_password_info">Prašome įvesti savo slaptažodį</string>
     <string name="offline_page_hint">Čia yra išsaugoti puslapiai. Juos juos galite naudoti be inteneto.</string>

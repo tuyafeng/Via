@@ -268,7 +268,7 @@
     <string name="no_resource">이 페이지에는 리소스가 없습니다.</string>
     <string name="no_network_log">이 페이지에는 네트워크 로그가 없습니다.</string>
     <string name="resource_sniffer_hint">\n음악이나 영상 재생 중 미디어 파일을 감지합니다. 특정 웹사이트에서는 작동하지 않습니다.</string>
-    <string name="action_download">다운로드</string>
+    <string name="action_downloads">다운로드</string>
     <string name="empty_username_info">사용자 이름을 입력하세요.</string>
     <string name="empty_password_info">비밀번호를 입력하세요.</string>
     <string name="offline_page_hint">저장된 페이지는 네트워크에 연결되어 있지 않아도 열 수 있습니다.</string>
