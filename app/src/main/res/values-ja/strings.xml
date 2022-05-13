@@ -532,7 +532,7 @@
 
     <string name="res_log_hint">アイテムを表示するにはタップ、ダウンロードするには長押ししてください。</string>
 
-    <string name="action_download">ダウンロード</string>
+    <string name="action_downloads">ダウンロード</string>
     <string name="empty_username_info">ユーザー名を入力してください。</string>
     <string name="empty_password_info">パスワードを入力してください。</string>
     <string name="offline_page_hint">以下は保存済みページです。インターネット接続が無くても閲覧可能です。</string>

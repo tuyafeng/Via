@@ -268,7 +268,7 @@
     <string name="no_resource">La page n\'a pas de ressource.</string>
     <string name="no_network_log">La page n\'a pas de journal réseau.</string>
     <string name="resource_sniffer_hint">\nLa capture est plus facile quand la lecture de son ou de vidéo est en cours. PS: certains sites ne sont pas compatibles avec cette fonctionnalité.</string>
-    <string name="action_download">Téléchargements</string>
+    <string name="action_downloads">Téléchargements</string>
     <string name="empty_username_info">Entrez votre nom d\'utilisateur.</string>
     <string name="empty_password_info">Entrez votre mot de passe.</string>
     <string name="offline_page_hint">Ce sont les pages sauvegardées. Vous pouvez les consulter sans connexion réseau.</string>

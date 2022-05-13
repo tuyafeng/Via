@@ -255,7 +255,7 @@
     <string name="no_resource">此頁面無資源。</string>
     <string name="no_network_log">此頁面無網路記錄檔。</string>
     <string name="resource_sniffer_hint">\n在播放音樂或影片時，更容易偵測媒體檔案。在部分網站資源監聽無法運作。</string>
-    <string name="action_download">下載</string>
+    <string name="action_downloads">下載</string>
     <string name="empty_username_info">請輸入你的使用者名稱</string>
     <string name="empty_password_info">請輸入你的密碼</string>
     <string name="offline_page_hint">這些是儲存的網頁。甚至離線時，你也可以開啟。</string>

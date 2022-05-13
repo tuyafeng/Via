@@ -269,7 +269,7 @@
     <string name="no_resource">Sayfada hiç kaynak yok.</string>
     <string name="no_network_log">Sayfada hiç ağ günlüğü yok.</string>
     <string name="resource_sniffer_hint">\nMüzik veya video oynatılırken medya dosyalarını algılamak daha kolaydır. Kaynak algılayıcı bazı web sitelerinde çalışmayabilir.</string>
-    <string name="action_download">İndirilenler</string>
+    <string name="action_downloads">İndirilenler</string>
     <string name="empty_username_info">Lütfen kullanıcı adınızı girin.</string>
     <string name="empty_password_info">Lütfen şifrenizi girin.</string>
     <string name="offline_page_hint">Aşağıdakiler kaydedilmiş sayfalardır. Bunları çevrimdışıyken bile açabilirsiniz.</string>

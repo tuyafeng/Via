@@ -260,7 +260,7 @@
     <string name="no_resource">The page has no resources</string>
     <string name="no_network_log">The page has no network log.</string>
     <string name="resource_sniffer_hint">\nIt is easier to be captured when music or video is being played. PS: some websites don\'t support this feature.</string>
-    <string name="action_download">Downloads</string>
+    <string name="action_downloads">Downloads</string>
     <string name="empty_username_info">Please input your username.</string>
     <string name="empty_password_info">Please input your password.</string>
     <string name="offline_page_hint">The following are Saved Pages. You can read them no matter whether there is a network connect.</string>

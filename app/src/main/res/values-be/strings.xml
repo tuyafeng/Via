@@ -245,7 +245,7 @@
    <string name="no_resource">Гэтая старонка не мае рэсурсаў.</string>
    <string name="no_network_log">Старонка не мае сеткавых логаў.</string>
    <string name="resource_sniffer_hint">\nГэта лягчэй зрабіць з відэа або музыкай. Пасляслоўе: некаторыя сайты не падтрымліваюць гэту функцыю.</string>
-   <string name="action_download">Спампоўкі</string>
+   <string name="action_downloads">Спампоўкі</string>
    <string name="empty_username_info">Калі ласка, увядзіце мянушку.</string>
    <string name="empty_password_info">Калі ласка, увядзіце пароль.</string>
    <string name="offline_page_hint">Ніжэй вашы захаваныя старонкі. Вы можаце чытаць іх нават калі не маеце Інтэрнэту.</string>

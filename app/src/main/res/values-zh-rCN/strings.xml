@@ -3,7 +3,7 @@
     <string name="app_name">Via</string>
     <!-- 翻译时，请使用「你」而不是「您」。用户与 Via 是相互尊重的关系，请不要刻意营造距离感 -->
     <string name="action_new_tab">新建标签</string>
-    <string name="action_open_in_new">新窗口打开</string>
+    <string name="action_open_in_new">新标签打开</string>
     <string name="action_save_img">保存图片</string>
     <string name="action_share">分享</string>
     <string name="action_history">历史</string>
@@ -256,7 +256,7 @@
     <string name="no_resource">这个页面没有资源。</string>
     <string name="no_network_log">这个页面没有网络日志。</string>
     <string name="resource_sniffer_hint">\n注: 音乐或视频在播放时更容易被获取。资源嗅探不支持部分网站。</string>
-    <string name="action_download">下载</string>
+    <string name="action_downloads">下载</string>
     <string name="empty_username_info">请填写你的用户名。</string>
     <string name="empty_password_info">请填写你的密码。</string>
     <string name="offline_page_hint">下列为保存的网页，无论手机是否联网你都可以浏览它们。</string>
@@ -539,4 +539,35 @@
     <string name="tineye_url">TinEye</string>
     <string name="login_username">用户名 (账号不存在将自动创建)</string>
     <string name="read_and_agree">请阅读并同意 %1$s 与 %2$s</string>
+    <string name="wechat_official_account">微信公众号</string>
+    <string name="notification_channel_downloads">下载内容</string>
+    <string name="notification_channel_foreground">前台通知</string>
+    <string name="download_progress">%1$s/%2$s</string>
+    <string name="download_progress_indeterminate">%1$s</string>
+    <string name="download_progress_status">%1$s • %2$s</string>
+    <string name="download_status_paused">已暂停</string>
+    <string name="download_action_pause">暂停</string>
+    <string name="download_action_resume">恢复</string>
+    <string name="app_downloading_files">Via 正在下载文件</string>
+    <string name="app_downloading_files_subtitle">点按即可查看下载内容</string>
+    <string name="download_failed_with_code">下载失败：%1$s (%2$d)</string>
+    <string name="built_in_download_manager">内建下载器</string>
+    <string name="cancel_all">取消全选</string>
+    <string name="message_delete_selected_download_tasks">你确认删除这些下载任务吗 (总共 %1$d 个任务)?</string>
+    <string name="file_name">文件名</string>
+    <string name="rename">重命名</string>
+    <string name="download_error_file_io">I/O 错误</string>
+    <string name="download_error_network">网络错误</string>
+    <string name="download_error_unknown">未知错误</string>
+    <string name="message_re_download">你确认删除已下载的文件并重新下载 %1$s 吗？</string>
+    <string name="share_image">分享图片</string>
+    <string name="ssl_warning_insecure_connection_message">与 %1$s 的连接不安全：\n%2$s\n是否继续？</string>
+    <string name="ssl_warning_dont_ask_again">本次浏览过程中不再询问</string>
+    <string name="ssl_warning_certificate_untrusted">证书不受信任</string>
+    <string name="ssl_warning_certificate_date_invalid">证书日期无效</string>
+    <string name="ssl_warning_certificate_expired">证书已过期</string>
+    <string name="ssl_warning_certificate_domain_mismatch">证书域名与站点域名不匹配</string>
+    <string name="ssl_warning_certificate_invalid">证书无效</string>
+    <string name="ssl_warning_certificate_not_yet_valid">证书尚未生效</string>
+    <string name="the_site">该站点</string>
 </resources>

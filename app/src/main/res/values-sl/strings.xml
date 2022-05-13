@@ -269,7 +269,7 @@
     <string name="no_resource">Stran nima vira.</string>
     <string name="no_network_log">Stran nima omrežnega dnevnika.</string>
     <string name="resource_sniffer_hint">\nMedijske datoteke je lažje zaznati med predvajanjem glasbe ali videa. Vohljač virov na določenih spletnih straneh ne deluje.</string>
-    <string name="action_download">Prenosi</string>
+    <string name="action_downloads">Prenosi</string>
     <string name="empty_username_info">Vnesi uporabniško ime</string>
     <string name="empty_password_info">Vnesi geslo</string>
     <string name="offline_page_hint">To so shranjene spletne strani. Odprete jih lahko tudi, ko ste brez povezave.</string>

@@ -259,7 +259,7 @@
     <string name="no_resource">Ennek az oldalnak nincsenek forrásai.</string>
     <string name="no_network_log">Az oldalnak nincs hálózati naplója.</string>
     <string name="resource_sniffer_hint">\nMegjegyzés: könnyebb úgy megszerezni, ha zene vagy videó lejátszódik.</string>
-    <string name="action_download">Letöltés</string>
+    <string name="action_downloads">Letöltés</string>
     <string name="empty_username_info">Kérlek add meg a felhasználóneved.</string>
     <string name="empty_password_info">Kérlek add meg a jelszavad.</string>
     <string name="offline_page_hint">Itt láthatók a Mentett Oldalak. Bármikor olvashatóak, hálózati kapcsolattól függetlenül.</string>

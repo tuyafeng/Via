@@ -267,7 +267,7 @@
     <string name="no_resource">Nie wykryto zasobów na tej stronie.</string>
     <string name="no_network_log">Ta strona nie ma dziennika sieci.</string>
     <string name="resource_sniffer_hint">\nOdtwórz w niej jakiś film lub muzykę. Uwaga: wykrywacz nie wszędzie działa.</string>
-    <string name="action_download">Pobrane pliki</string>
+    <string name="action_downloads">Pobrane pliki</string>
     <string name="empty_username_info">Wprowadź nazwę użytkownika</string>
     <string name="empty_password_info">Wprowadź hasło</string>
     <string name="offline_page_hint">Oto Twoje zapisane strony. Możesz je przeglądać, gdy nie masz połączenia z siecią.</string>

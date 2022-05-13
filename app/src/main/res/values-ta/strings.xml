@@ -269,7 +269,7 @@
     <string name="no_resource">பக்கத்திற்கு வளம் இல்லை.</string>
     <string name="no_network_log">பக்கத்திற்கு பிணைய பதிவு இல்லை.</string>
     <string name="resource_sniffer_hint">\nஇசை அல்லது வீடியோ இயக்கப்படும் போது மீடியா கோப்புகளைக் கண்டறிவது எளிது. சில வலைத்தளங்களில் வள மோப்பான் வேலை செய்யாது.</string>
-    <string name="action_download">பதிவிறக்கங்கள்</string>
+    <string name="action_downloads">பதிவிறக்கங்கள்</string>
     <string name="empty_username_info">உங்கள் பயனர்பெயரை உள்ளிடவும்</string>
     <string name="empty_password_info">உங்கள் கடவுச்சொல்லை உள்ளிடவும்</string>
     <string name="offline_page_hint">இவை சேமிக்கப்பட்ட வலைப்பக்கங்கள். நீங்கள் ஆஃப்லைனில் இருக்கும்போது கூட அவற்றைத் திறக்கலாம்.</string>

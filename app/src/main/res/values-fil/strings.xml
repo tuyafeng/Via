@@ -269,7 +269,7 @@
     <string name="no_resource">Ang page na ito ay walang resource.</string>
     <string name="no_network_log">Ang page na ito ay walang network log.</string>
     <string name="resource_sniffer_hint">\nIto ay mas madali na makadetect ng media files habang ang music o video ay nakaplay.</string>
-    <string name="action_download">Mga Download</string>
+    <string name="action_downloads">Mga Download</string>
     <string name="empty_username_info">Pakiusap ilagay ang username</string>
     <string name="empty_password_info">Pakiusap ilagay ang password</string>
     <string name="offline_page_hint">Ito ang mga nasaved na webpage. Pwede mong buksan ito kahit naka-offline.</string>

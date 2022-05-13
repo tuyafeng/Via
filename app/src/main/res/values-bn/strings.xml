@@ -267,7 +267,7 @@
     <string name="no_resource">পৃষ্ঠার কোনও সংস্থান নেই.</string>
     <string name="no_network_log">পৃষ্ঠায় কোনও নেটওয়ার্ক লগ নেই</string>
     <string name="resource_sniffer_hint">\nসংগীত বা ভিডিও বাজানো হচ্ছে তখন মিডিয়া ফাইলগুলি সনাক্ত করা সহজ। রিসোর্স স্নিফার নির্দিষ্ট ওয়েবসাইটগুলিতে কাজ করে না</string>
-    <string name="action_download">ডাউনলোডগুলি</string>
+    <string name="action_downloads">ডাউনলোডগুলি</string>
     <string name="empty_username_info">দয়া করে আপনার ব্যবহারকারীর নাম</string>
     <string name="empty_password_info">দয়া করে আপনার পাসওয়ার্ড ইনপুট করুন</string>
     <string name="offline_page_hint">এগুলি সংরক্ষিত পৃষ্ঠা। আপনি অফলাইনে থাকা অবস্থায়ও এগুলি খুলতে পারেন</string>

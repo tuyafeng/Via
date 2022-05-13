@@ -269,7 +269,7 @@
     <string name="no_resource">La página no tiene recursos.</string>
     <string name="no_network_log">La página no tiene registro de red.</string>
     <string name="resource_sniffer_hint">\nEs más fácil detectar archivos multimedia mientras se reproduce música o video. El detector de recursos no funciona en ciertos sitios web.</string>
-    <string name="action_download">Descargas</string>
+    <string name="action_downloads">Descargas</string>
     <string name="empty_username_info">Ingrese su nombre de usuario</string>
     <string name="empty_password_info">Ingrese su contraseña</string>
     <string name="offline_page_hint">Estas son páginas web guardadas. Puede abrirlas incluso cuando no esté conectado.</string>

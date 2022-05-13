@@ -245,7 +245,7 @@
     <string name="no_resource">Сторінка не має ресурсів.</string>
     <string name="no_network_log">Сторінка не має журналу мережі.</string>
     <string name="resource_sniffer_hint">\nPS: це легше отримати, коли грає музика або відео.</string>
-    <string name="action_download">Завантажити</string>
+    <string name="action_downloads">Завантажити</string>
     <string name="empty_username_info">Будь ласка, введіть ім\'я користувача.</string>
     <string name="empty_password_info">Будь ласка, введіть пароль.</string>
     <string name="offline_page_hint">Нижче наведені Збережені сторінки. Ви можете прочитати їх незалежно від того, чи є підключення до мережі.</string>
