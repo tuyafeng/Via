@@ -2,6 +2,8 @@
 
 <div align="center"><img src="http://viayoo.com/en/images/logo.png" alt="Via Logo" height="100"/></div>
 
+[English](./README.md) | 简体中文 | [繁體中文](./README_zh_TW.md) | [Português](./README_pt_BR.md) | [Español](./README_es_ES.md) | [Türkçe](./README_tr_TR.md)
+
 ### 简介
 
 Via 浏览器是一个有着如下特点的强大浏览器:

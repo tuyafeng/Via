@@ -2,6 +2,8 @@
 
 <div align="center"><img src="http://viayoo.com/en/images/logo.png" alt="Via Logo" height="100"/></div>
 
+[English](./README.md) | [简体中文](./README_zh_CN.md) | [繁體中文](./README_zh_TW.md) | [Português](./README_pt_BR.md) | [Español](./README_es_ES.md) | Türkçe
+
 ### Tanıtım
 
 Via Browser, aşağıdaki özelliklere sahip güçlü bir tarayıcıdır:
