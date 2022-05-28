@@ -570,4 +570,25 @@
     <string name="ssl_warning_certificate_invalid">证书无效</string>
     <string name="ssl_warning_certificate_not_yet_valid">证书尚未生效</string>
     <string name="the_site">该站点</string>
+    <string name="navigation_up">向上导航</string>
+    <string name="hide_popup_window">隐藏弹出式窗口</string>
+    <plurals name="open_tabs">
+        <item quantity="other">%d 个打开的标签</item>
+    </plurals>
+    <string name="qr_code">二维码</string>
+    <string name="download_progress_speed">%1$s • %2$s</string>
+    <string name="download_progress_speed_eta">%1$s • %2$s • %3$s</string>
+    <string name="download_speed_unknown">N/A</string>
+    <string name="download_eta_unknown">-</string>
+    <plurals name="hours_left">
+        <item quantity="other">剩余 %d 小时</item>
+    </plurals>
+    <plurals name="mins_left">
+        <item quantity="other">剩余 %d 分钟</item>
+    </plurals>
+    <plurals name="secs_left">
+        <item quantity="other">剩余 %d 秒</item>
+    </plurals>
+    <string name="translation_engine_google">谷歌翻译</string>
+    <string name="translation_engine_baidu">百度翻译</string>
 </resources>

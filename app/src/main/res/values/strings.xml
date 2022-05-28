@@ -570,4 +570,33 @@
     <string name="ssl_warning_certificate_invalid">Certificate is invalid</string>
     <string name="ssl_warning_certificate_not_yet_valid">Certificate is not yet valid</string>
     <string name="the_site">The site</string>
+    <string name="navigation_up">Navigation up</string>
+    <string name="hide_popup_window">Hide popup window</string>
+    <plurals name="open_tabs">
+        <item quantity="zero">0 tab</item>
+        <item quantity="one">1 tab</item>
+        <item quantity="other">%d tabs</item>
+    </plurals>
+    <string name="qr_code">QR code</string>
+    <string name="download_progress_speed">%1$s • %2$s</string>
+    <string name="download_progress_speed_eta">%1$s • %2$s • %3$s</string>
+    <string name="download_speed_unknown">N/A</string>
+    <string name="download_eta_unknown">-</string>
+    <plurals name="hours_left">
+        <item quantity="zero">0 hour left</item>
+        <item quantity="one">1 hour left</item>
+        <item quantity="other">%d hours left</item>
+    </plurals>
+    <plurals name="mins_left">
+        <item quantity="zero">0 min left</item>
+        <item quantity="one">1 min left</item>
+        <item quantity="other">%d mins left</item>
+    </plurals>
+    <plurals name="secs_left">
+        <item quantity="zero">0 sec left</item>
+        <item quantity="one">1 sec left</item>
+        <item quantity="other">%d secs left</item>
+    </plurals>
+    <string name="translation_engine_google">Google translate</string>
+    <string name="translation_engine_baidu">Baidu translate</string>
 </resources>

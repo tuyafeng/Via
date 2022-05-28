@@ -346,8 +346,8 @@
     <item quantity="one">%d фільтр</item>
     <item quantity="few">%d фільтра</item>
     <item quantity="many">%d фільтрів</item>
-    <string name="updated_">оновлено %1$s</string>
   </plurals>
+  <string name="updated_">оновлено %1$s</string>
   <string name="filter_subscription_info">%1$s, %2$s</string>
   <string name="enable_built_in_filters">Використовувати вбудовані фільтри</string>
   <string name="enable_built_in_filters_description">Вбудовані фільтри блокують тільки звичайну рекламу</string>
@@ -370,13 +370,12 @@
   <string name="items_selected">Вибрано: %1d</string>
   <string name="select_all">Вибрати все</string>
   <string name="multi_choice">Множинний вибір</string>
-  <plurals name="delete_download_tasks">
+  <plurals name="delete_download_tasks" tools:ignore="MissingQuantity,UnusedQuantity">
     <item quantity="zero">Видалено 0 завдань завантаження</item>
-    <item quantity="one">Видалено 1 завдання завантаження</item>
     <item quantity="few">Видалено %d завдання завантаження</item>
     <item quantity="many">Видалено %d завдань завантаження</item>
-    <string name="open_source_licenses">Ліцензії відкритого вихідного коду</string>
   </plurals>
+  <string name="open_source_licenses">Ліцензії відкритого вихідного коду</string>
   <string name="debugging_info">Відлагоджувальна інформація</string>
   <string name="join_qq_group">Приєднатися до спільноти в QQ</string>
   <string name="join_telegram_group">Приєднатися до спільноти в Telegram</string>
