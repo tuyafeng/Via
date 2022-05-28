@@ -372,7 +372,7 @@
     <string name="multi_choice">Множественный выбор</string>
     <plurals name="delete_download_tasks">
         <item quantity="zero">Удалено 0 заданий загрузки</item>
-        <item quantity="one">Удалено 1 задание загрузки</item>
+        <item quantity="one">Удалено %d задание загрузки</item>
         <item quantity="few">Удалены %d задания загрузки</item>
         <item quantity="many">Удалено %d заданий загрузки</item>
     </plurals>
@@ -571,4 +571,29 @@
     <string name="ssl_warning_certificate_invalid">Сертификат недействителен</string>
     <string name="ssl_warning_certificate_not_yet_valid">Срок действия сертификата ещё не наступил</string>
     <string name="the_site">Сайт</string>
+    <string name="navigation_up">Перейти вверх</string>
+    <string name="hide_popup_window">Скрыть всплывающее окно</string>
+    <plurals name="open_tabs">
+        <item quantity="zero">0 вкладок</item>
+        <item quantity="one">%d вкладка</item>
+        <item quantity="few">%d вкладки</item>
+        <item quantity="many">%d вкладок</item>
+    </plurals>
+    <string name="qr_code">QR-код</string>
+    <string name="download_progress_speed">%1$s • %2$s</string>
+    <string name="download_progress_speed_eta">%1$s • %2$s • %3$s</string>
+    <string name="download_speed_unknown">н/д</string>
+    <string name="download_eta_unknown">—</string>
+    <plurals name="hours_left">
+        <item quantity="one">ещё %d час</item>
+        <item quantity="other">ещё %d час.</item>
+    </plurals>
+    <plurals name="mins_left">
+        <item quantity="other">ещё %d мин.</item>
+    </plurals>
+    <plurals name="secs_left">
+        <item quantity="other">ещё %d сек.</item>
+    </plurals>
+    <string name="translation_engine_google">Переводчик Google</string>
+    <string name="translation_engine_baidu">Переводчик Baidu</string>
 </resources>
