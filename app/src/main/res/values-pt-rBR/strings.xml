@@ -581,4 +581,34 @@
     <string name="ssl_warning_certificate_invalid">O certificado é inválido</string>
     <string name="ssl_warning_certificate_not_yet_valid">O certificado ainda não é válido</string>
     <string name="the_site">O site</string>
+    <string name="navigation_up">Navegar para cima</string>
+    <string name="hide_popup_window">Ocultar janela pop-up</string>
+    <plurals name="open_tabs">
+        <item quantity="zero">Aba 0</item>
+        <item quantity="one">Aba 1</item>
+        <item quantity="other">Abas %d</item>
+    </plurals>
+    <string name="qr_code">QR code</string>
+    <string name="download_progress_speed">%1$s • %2$s</string>
+    <string name="download_progress_speed_eta">%1$s • %2$s • %3$s</string>
+    <string name="download_speed_unknown">N/A</string>
+    <string name="download_eta_unknown">-</string>
+    <plurals name="hours_left">
+        <item quantity="zero">0 horas restando</item>
+        <item quantity="one">1 hora restando</item>
+        <item quantity="other">%d horas restando</item>
+    </plurals>
+    <plurals name="mins_left">
+        <item quantity="zero">0 minutos restando</item>
+        <item quantity="one">1 minuto restando</item>
+        <item quantity="other">%d minutos restando</item>
+    </plurals>
+    <plurals name="secs_left">
+        <item quantity="zero">0 segundos restando</item>
+        <item quantity="one">1 segundo restando</item>
+        <item quantity="other">%d segundos restando</item>
+    </plurals>
+    <string name="translation_engine_google">Google tradutor</string>
+    <string name="translation_engine_baidu">Baidu tradutor</string>
+
 </resources>
