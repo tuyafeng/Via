@@ -342,7 +342,7 @@
         \nexample.com###ad
     </string>
     <string name="help">說明</string>
-    <string name="learn_more">了解更多</string>
+    <string name="learn_more">瞭解更多</string>
     <plurals name="filters">
         <item quantity="zero">0 條篩選條件</item>
         <item quantity="one">1 條篩選條件</item>
@@ -479,7 +479,7 @@
         %7$s
         <br />
     ]]></string>
-    <string name="no_certificate">該站點無證書。</string>
+    <string name="no_certificate">該網站無證書。</string>
     <string name="site_conf_enabled">網站設定 (已啟用)</string>
     <string name="do_not_sell_or_share">不出售或分享資料</string>
     <string name="do_not_sell_or_share_description">請求網站不出售或分享我的資料以保護隱私 (實驗性)</string>
@@ -538,4 +538,35 @@
     <string name="tineye_url">TinEye</string>
     <string name="login_username">使用者名稱 (賬號不存在將自動建立)</string>
     <string name="read_and_agree">請閱讀並同意 %1$s 與 %2$s</string>
+    <string name="wechat_official_account">微信公眾號</string>
+    <string name="notification_channel_downloads">下載內容</string>
+    <string name="notification_channel_foreground">前臺通知</string>
+    <string name="download_progress">%1$s/%2$s</string>
+    <string name="download_progress_indeterminate">%1$s</string>
+    <string name="download_progress_status">%1$s • %2$s</string>
+    <string name="download_status_paused">已暫停</string>
+    <string name="download_action_pause">暫停</string>
+    <string name="download_action_resume">恢復</string>
+    <string name="app_downloading_files">Via 正在下載檔案</string>
+    <string name="app_downloading_files_subtitle">點按即可檢視下載內容</string>
+    <string name="download_failed_with_code">下載失敗：%1$s (%2$d)</string>
+    <string name="built_in_download_manager">內建下載器</string>
+    <string name="cancel_all">取消全選</string>
+    <string name="message_delete_selected_download_tasks">你確定刪除這些下載任務嗎 (總共 %1$d 個任務)?</string>
+    <string name="file_name">檔名</string>
+    <string name="rename">重新命名</string>
+    <string name="download_error_file_io">I/O 錯誤</string>
+    <string name="download_error_network">網路錯誤</string>
+    <string name="download_error_unknown">未知錯誤</string>
+    <string name="message_re_download">你確定刪除已下載的檔案並重新下載 %1$s 嗎？</string>
+    <string name="share_image">分享圖片</string>
+    <string name="ssl_warning_insecure_connection_message">與 %1$s 的連線不安全：\n%2$s\n是否繼續？</string>
+    <string name="ssl_warning_dont_ask_again">本次瀏覽過程中不再詢問</string>
+    <string name="ssl_warning_certificate_untrusted">證書不受信任</string>
+    <string name="ssl_warning_certificate_date_invalid">證書日期無效</string>
+    <string name="ssl_warning_certificate_expired">證書已過期</string>
+    <string name="ssl_warning_certificate_domain_mismatch">證書域名與網站域名不匹配</string>
+    <string name="ssl_warning_certificate_invalid">證書無效</string>
+    <string name="ssl_warning_certificate_not_yet_valid">證書尚未生效</string>
+    <string name="the_site">該網站</string>
 </resources>

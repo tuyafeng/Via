@@ -2,7 +2,7 @@
 
 <div align="center"><img src="http://viayoo.com/en/images/logo.png" alt="Via Logo" height="100"/></div>
 
-English | [简体中文](https://github.com/tuyafeng/Via/blob/master/README_zh_CN.md) | [繁體中文](https://github.com/tuyafeng/Via/blob/master/README_zh_TW.md) | [Português](https://github.com/tuyafeng/Via/blob/master/README_pt_BR.md) | [Español](https://github.com/tuyafeng/Via/blob/master/README_es.md) | [Türkçe](https://github.com/tuyafeng/Via/blob/master/README_tr.md)
+English | [简体中文](./README_zh_CN.md) | [繁體中文](./README_zh_TW.md) | [Português](./README_pt_BR.md) | [Español](./README_es_ES.md) | [Türkçe](./README_tr_TR.md)
 
 ### Introduction
 
