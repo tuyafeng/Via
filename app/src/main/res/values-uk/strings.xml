@@ -22,7 +22,7 @@
   <string name="location">Повідомляти місцезнаходження</string>
   <string name="password">Зберігати паролі</string>
   <string name="donate">Пожертвування</string>
-  <string name="donate_details">Якщо вам сподобався додаток, ви можете пожертвувати:\nAlipay: 2376688759@qq.com\nPayPal: wiar1824@gmail.com</string>
+  <string name="donate_details">Якщо вам сподобався застосунок, ви можете пожертвувати:\nAlipay: 2376688759@qq.com\nPayPal: wiar1824@gmail.com</string>
   <string name="orientation">Орієнтація екрану</string>
   <string name="follow_system">Системна</string>
   <string name="orientation_auto">Автоповорот</string>
@@ -31,7 +31,7 @@
   <string name="agent">Агент користувача</string>
   <string name="home">Домашня сторінка</string>
   <string name="fullscreen">Автоприховування панелей</string>
-  <string name="java">Використовувати JavaScript</string>
+  <string name="java">Використовування JavaScript</string>
   <string name="download">Шлях завантаження</string>
   <string name="size">Розмір тексту</string>
   <string name="search">Пошукова система</string>
@@ -58,7 +58,7 @@
   <string name="hint_folder">Тека</string>
   <string name="title_edit_bookmark">Редагування закладки</string>
   <string name="action_edit">Змінити</string>
-  <string name="action_incognito">Інкогніто</string>
+  <string name="action_incognito">Режим \"інкогніто\"</string>
   <string name="action_find">Пошук</string>
   <string name="download_pending">Завантаження…</string>
   <string name="cannot_download">Завантаження можливе тільки за http(s)-посиланням</string>
@@ -104,7 +104,7 @@
   <string name="toast_operation_failed">Помилка при виконанні операції</string>
   <string name="toast_operation_done">Операція виконана успішно</string>
   <string name="volume">Прокручування кнопками гучності</string>
-  <string name="msg_intent">Дозволити сайту відкрити додаток?</string>
+  <string name="msg_intent">Дозволити сайту відкрити застосунок?</string>
   <string name="setting_default">Зробити браузером за замовчуванням</string>
   <string name="toast_clear_defaults">Очистити значення за замовчуванням</string>
   <string name="toast_copy_url_successful">Адресу скопійовано</string>
@@ -126,7 +126,7 @@
   <string name="settings_operation">Жести</string>
   <string name="settings_privacy">Конфіденційність</string>
   <string name="settings_advanced">Додатково</string>
-  <string name="settings_about">Про додаток</string>
+  <string name="settings_about">Про застосунок</string>
   <string name="url_box">Вміст рядка адреси</string>
   <string name="url_box_domain">Домен</string>
   <string name="action_pcview">Версія для ПК</string>
@@ -175,7 +175,7 @@
   <string name="data_cleared">Дані очищені</string>
   <string name="sync_desc">Якщо облікового запису не існує, його буде створено.</string>
   <string name="settings_skin">Зовнішній вигляд</string>
-  <string name="default_set">Звичайний</string>
+  <string name="default_set">За замовчуванням</string>
   <string name="picture">Зображення</string>
   <string name="text">Текст</string>
   <string name="html_code">HTML-код</string>
@@ -195,7 +195,7 @@
   <string name="set_to_default">Via буде встановлено браузером за замовчуванням після використання його для відкриття посилання %1$s. Оберіть Via для відкриття.</string>
   <string name="sync_prompt">Будуть перезаписані поточні локальні закладки та налаштування. Продовжити?</string>
   <string name="upload_prompt">Будуть надіслані поточні локальні закладки та налаштування. Продовжити?</string>
-  <string name="none">Ні</string>
+  <string name="none">Немає</string>
   <string name="check_permission">Дозвіл відсутній. Надати його в налаштуваннях зараз?</string>
   <string name="need_permission_hint">Via необхідні наступні дозволи для роботи:\n\n</string>
   <string name="storage_permission">Сховище: для завантаження файлів через браузер, імпорту/експорту закладок, тощо.\n\n</string>
@@ -247,7 +247,7 @@
   <string name="disable">Вимкнено</string>
   <string name="ui_traditional">Традиційний</string>
   <string name="color_mode_hint">Автоматично змінювати кольори панелей</string>
-  <string name="skin_hide_search_part">Приховати панель пошуку</string>
+  <string name="skin_hide_search_part">Приховати поле пошуку</string>
   <string name="file_size">Розмір файлу: %1$s</string>
   <string name="search_by_image">Пошук за зображенням</string>
   <string name="resource_sniffer">Аналіз ресурсів</string>
@@ -266,12 +266,12 @@
   <string name="page_info_url">Адреса сторінки:</string>
   <string name="page_info_link">Адреса посилання:</string>
   <string name="no_network">Мережеве підключення відсутнє!</string>
-  <string name="title_app_chooser">Вибір додатка</string>
+  <string name="title_app_chooser">Вибір застосунка</string>
   <string name="clear_data_on_exit">Очищення даних при виході</string>
   <string name="action_add_to_homepage">Додати в обране</string>
   <string name="added_favorite_hint">Успішно додано в обране на домашню сторінку</string>
   <string name="title_edit_favorite">Редагування</string>
-  <string name="custom_css_special">Додати свій CSS</string>
+  <string name="custom_css_special">Користувацький CSS</string>
   <string name="force_enable_zoom">Примусове масштабування</string>
   <string name="set_ua_as">Агент користувача: %1$s</string>
   <string name="import_data">Імпорт даних</string>
@@ -287,7 +287,7 @@
   <string name="restore_tabs_hint_settings">Вкладки не будуть відновлені, коли ви знаходитеся в режимі \"інкогніто\"</string>
   <string name="ignore_secondary_ssl_error">Ігнорувати вторинну помилку SSL</string>
   <string name="web_page_debug">Відлагодження сторінок</string>
-  <string name="web_page_debug_info">Тепер ви можете підключити свій пристрій до комп\'ютера та відлагодити сторінку за допомогою Chrome (ПК), використовуючи \"chrome://inspect\". Не забудьте попередньо увімкнути налагодження по USB в меню \"Налаштування\" → \"Для розробників\".</string>
+  <string name="web_page_debug_info">Тепер ви можете підключити свій пристрій до комп\'ютера та відлагодити сторінку за допомогою Chrome (ПК), використовуючи \"chrome://inspect\". Не забудьте попередньо увімкнути відлагодження по USB в меню \"Налаштування\" → \"Для розробників\".</string>
   <string name="no_download_tasks">Порожньо…</string>
   <string name="action_re_download">Повторне завантаження</string>
   <string name="action_copy_download_link">Копіювати посилання завантаження</string>
@@ -301,7 +301,7 @@
   <string name="system_download_manager">Системний</string>
   <string name="action_play_with">Відтворити в…</string>
   <string name="show_sniffer_btn_automatically">Автовідображення кнопки аналізу</string>
-  <string name="open_file_failed">Не знайдено відповідний додаток для відкриття даного файлу</string>
+  <string name="open_file_failed">Не знайдено відповідний застосунок для відкриття даного файлу</string>
   <string name="cloud_data_server">Хмарний сервер даних</string>
   <string name="chinese_server">Китайський</string>
   <string name="global_server">Глобальний</string>
@@ -311,7 +311,7 @@
   <string name="block_hint">Заблоковано: %1$s\nОновіть для застосування.</string>
   <string name="unblock_hint">Розблоковано: %1$s\nОновіть для застосування.</string>
   <string name="block_3rd_party_cookies">Блокувати сторонні cookie-файли</string>
-  <string name="enable_site_conf">Свої налаштування для сайту \"%1$s\"</string>
+  <string name="enable_site_conf">Окремі налаштування для сайту \"%1$s\"</string>
   <string name="site_conf">Налаштування сайту</string>
   <string name="ui_simple_top">Все вгорі</string>
   <string name="ui_simple_bottom">Все знизу</string>
@@ -320,9 +320,9 @@
   <string name="filter_subscriptions">Підписка на фільтри</string>
   <string name="filter_subscriptions_description">Підписка на списки фільтрів Adblock Plus</string>
   <string name="filter_subscription_exist">Підписка на фільтри вже використовується</string>
-  <string name="custom_filters">Свої фільтри</string>
-  <string name="custom_filters_description">Використовувати свої фільтри та позначки реклами</string>
-  <string name="custom_filter">Свій фільтр</string>
+  <string name="custom_filters">Користувацькі фільтри</string>
+  <string name="custom_filters_description">Використання фільтрів та позначок реклами, які створено користувачем</string>
+  <string name="custom_filter">Користувацький фільтр</string>
   <string name="add_filter_subscription">Додати підписку</string>
   <string name="edit_filter_subscription">Змінити підписку</string>
   <string name="updating_filter_subscriptions">Оновлення підписок</string>
@@ -372,6 +372,7 @@
   <string name="multi_choice">Множинний вибір</string>
   <plurals name="delete_download_tasks" tools:ignore="MissingQuantity,UnusedQuantity">
     <item quantity="zero">Видалено 0 завдань завантаження</item>
+    <item quantity="one">Видалено %d завдання завантаження</item>
     <item quantity="few">Видалено %d завдання завантаження</item>
     <item quantity="many">Видалено %d завдань завантаження</item>
   </plurals>
@@ -379,8 +380,8 @@
   <string name="debugging_info">Відлагоджувальна інформація</string>
   <string name="join_qq_group">Приєднатися до спільноти в QQ</string>
   <string name="join_telegram_group">Приєднатися до спільноти в Telegram</string>
-  <string name="follow_me_on_twitter">Підписатися на мій Twitter</string>
-  <string name="follow_me_on_weibo">Підписатися на мій Weibo</string>
+  <string name="follow_me_on_twitter">Підписатися в Twitter на розробника</string>
+  <string name="follow_me_on_weibo">Підписатися в Weibo на розробника</string>
   <string name="version">Версія</string>
   <string name="paste_and_go">Вставити та перейти</string>
   <string name="night_filter_for_web_contents">Нічний фільтр вмісту сторінок</string>
@@ -390,8 +391,8 @@
   <string name="keyboard_shortcuts">Гарячі клавіші</string>
   <string name="export_data_description">Експорт закладок, налаштувань, скриптів та фільтрів реклами</string>
   <string name="language">Мова</string>
-  <string name="restart_to_take_effect">Зміни наберуть чинності при наступному запуску додатка. Перезавантажити його зараз?</string>
-  <string name="more">Ще</string>
+  <string name="restart_to_take_effect">Зміни наберуть чинності при наступному запуску застосунка. Перезавантажити його зараз?</string>
+  <string name="more">Додатково</string>
   <string name="sort_order">Порядок сортування</string>
   <string name="sort_by_oldest_first">Старі → нові</string>
   <string name="sort_by_newest_first">Нові → старі</string>
@@ -413,7 +414,7 @@
   <string name="corner_radius">Кутовий радіус</string>
   <string name="adaptive">Адаптивно</string>
   <string name="action_favorites">Обране</string>
-  <string name="skin_search_bar">Панель пошуку</string>
+  <string name="skin_search_bar">Поле пошуку</string>
   <string name="stroke_width">Ширина рамки</string>
   <string name="stroke_opacity">Прозорість рамки</string>
   <string name="opacity">Прозорість</string>
@@ -428,8 +429,8 @@
   <string name="desc_favorite_icon">Значок обраного</string>
   <string name="script_remarks">Примітка</string>
   <string name="action_save">Зберегти</string>
-  <string name="reset_to_default_settings">Скидання налаштувань за замовчуванням</string>
-  <string name="script_sites">Сайти (наприклад: *.foo.com,bar.*/list)</string>
+  <string name="reset_to_default_settings">Скидання налаштувань</string>
+  <string name="script_sites">Сайти (наприклад: *.foo.com, bar.*/list)</string>
   <string name="simple_guide_of_writing_script">Скрипт почне діяти автоматично при завантаженні сайту.
     \n\nСайти (обов\'язково): скрипти для сайтів підтримують знак підстановки \"*\" та вказування декількох сайтів через \",\", наприклад: *.foo.com,bar.*/list.
     \n\nПримітка (необов\'язково): використовується в якості назви.
@@ -449,7 +450,7 @@
   <string name="follow_system_dark_mode_on">Використовувати темний режим системи, якщо увімкнено</string>
   <string name="scoped_search">Пошук в \"%1$s\"</string>
   <string name="add_shortcut">Додати ярлик</string>
-  <string name="need_shortcut_permission">Дозвіл відсутній. Перейдіть в налаштування цього додатка та увімкніть дозвіл \"Створювати ярлики на головному екрані\".</string>
+  <string name="need_shortcut_permission">Дозвіл відсутній. Перейдіть в налаштування цього застосунка та увімкніть дозвіл \"Створювати ярлики на головному екрані\".</string>
   <string name="create_shortcut_successfully">Ярлик для %1$s створено</string>
   <string name="update_shortcut_successfully">Ярлик для %1$s оновлено</string>
   <string name="today">сьогодні</string>
@@ -484,8 +485,8 @@
   <string name="site_conf_enabled">Налаштування сайту (увімкнено)</string>
   <string name="do_not_sell_or_share">Не передавати дані</string>
   <string name="do_not_sell_or_share_description">Вимагати від сайта не продавати та не передавати мої дані для захисту конфіденційності (експериментально)</string>
-  <string name="email_me">Написати мені листа</string>
-  <string name="scan_qr_code">Сканувати QR-код</string>
+  <string name="email_me">Написати розробнику</string>
+  <string name="scan_qr_code">Сканер QR-коду</string>
   <string name="scan_qr_code_from_image">Сканувати QR-код із зображення</string>
   <string name="switch_flash">Спалах</string>
   <string name="qr_code_scan_result">Результат сканування</string>
@@ -508,26 +509,26 @@
   <string name="ask_to_allow_webpage_to_paste_text">Вставляти текст на %DOMAIN%?</string>
   <string name="option_allow">Дозволити</string>
   <string name="option_deny">Заборонити</string>
-  <string name="search_bar_style">Вигляд панелі</string>
+  <string name="search_bar_style">Вигляд</string>
   <string name="search_bar_style_line">Лінія</string>
   <string name="search_bar_style_rectangle">Прямокутник</string>
   <string name="favorites_icon_style">Вигляд значків</string>
   <string name="favorites_icon_style_text">Текст</string>
-  <string name="favorites_icon_style_icon_first">Спочатку значок</string>
+  <string name="favorites_icon_style_icon_first">Зображення</string>
   <string name="favorites_icon_color">Колір значків</string>
   <string name="favorites_icon_color_colorful">Кольорові</string>
   <string name="favorites_icon_color_transparent">Прозорі</string>
-  <string name="search_bar_effect">Ефект панелі</string>
+  <string name="search_bar_effect">Ефект поля пошуку</string>
   <string name="search_bar_effect_blur">Розмиття</string>
   <string name="search_bar_effect_transparent">Прозорість</string>
-  <string name="search_part">Панель пошуку</string>
+  <string name="search_part">Поле пошуку</string>
   <string name="search_part_hide">Прихована</string>
   <string name="search_part_show">Видима</string>
   <string name="image_preference">Параметри зображення</string>
   <string name="background_color">Колір</string>
   <string name="background_image">Зображення</string>
   <string name="favorites_clear_icons">Очистити значки</string>
-  <string name="customization_reset">Скидання</string>
+  <string name="customization_reset">Скинути налаштування</string>
   <string name="theme_color">Колір теми</string>
   <string name="theme_color_dark">Темний</string>
   <string name="theme_color_light">Світлий</string>
@@ -535,14 +536,14 @@
   <string name="uninstall_script_message">Видалити скрипт \"%1$s\"?</string>
   <string name="install_script">Встановити скрипт</string>
   <string name="install_script_message">Встановити скрипт \"%1$s\"?</string>
-  <string name="processing_blob_data">Обробка даних великого двійкового об\'єкту…</string>
+  <string name="processing_blob_data">Обробка даних двійкового об\'єкту…</string>
   <string name="tineye_url">TinEye</string>
-  <string name="login_username">Користувач (буде створений, якщо відсутній)</string>
-  <string name="read_and_agree">Необхідно прочитати і прийняти %1$s та %2$s</string>
+  <string name="login_username">Користувач (буде створено, якщо відсутній)</string>
+  <string name="read_and_agree">Необхідно прочитати і прийняти: %1$s та %2$s</string>
       <string name="wechat_official_account">Офіційний обліковий запис Wechat</string>
     <string name="notification_channel_downloads">Завантажити вміст</string>
     <string name="notification_channel_foreground">Сповіщення на передньому плані</string>
-    <string name="download_progress">%1$s/%2$s</string>
+    <string name="download_progress">%1$s з %2$s</string>
     <string name="download_progress_indeterminate">%1$s</string>
     <string name="download_progress_status">%1$s • %2$s</string>
     <string name="download_status_paused">Призупинено</string>
@@ -553,10 +554,10 @@
     <string name="download_failed_with_code">Невдале завантаження: %1$s (%2$d)</string>
     <string name="built_in_download_manager">Вбудований менеджер завантажень</string>
     <string name="cancel_all">Скасувати все</string>
-    <string name="message_delete_selected_download_tasks">Видалити ці завантаження (%1$d загалом)?</string>
+    <string name="message_delete_selected_download_tasks">Видалити ці завантаження (вибрано: %1$d)?</string>
     <string name="file_name">Ім\'я файлу</string>
     <string name="rename">Перейменувати</string>
-    <string name="download_error_file_io">Помилка I/O</string>
+    <string name="download_error_file_io">Помилка введення/виведення</string>
     <string name="download_error_network">Помилка мережі</string>
     <string name="download_error_unknown">Невідома помилка</string>
     <string name="message_re_download">Ви впевнені, що хочете видалити завантажений файл і завантажити повторно %1$s?</string>
@@ -570,4 +571,32 @@
     <string name="ssl_warning_certificate_invalid">Сертифікат недійсний</string>
     <string name="ssl_warning_certificate_not_yet_valid">Сертифікат ще не дійсний</string>
     <string name="the_site">Сайт</string>
+	<string name="navigation_up">Перейти вгору</string>
+    <string name="hide_popup_window">Приховати спливне вікно</string>
+    <plurals name="open_tabs">
+        <item quantity="zero">0 вкладок</item>
+        <item quantity="one">%d вкладка</item>
+        <item quantity="few">%d вкладки</item>
+        <item quantity="many">%d вкладок</item>
+    </plurals>
+    <string name="qr_code">QR-код</string>
+    <string name="download_progress_speed">%1$s • %2$s</string>
+    <string name="download_progress_speed_eta">%1$s • %2$s • %3$s</string>
+    <string name="download_speed_unknown">Н/Д</string>
+    <string name="download_eta_unknown">-</string>
+    <plurals name="hours_left">
+        <item quantity="one">залишилась 1 год.</item>
+        <item quantity="other">залишилось %d год.</item>
+    </plurals>
+    <plurals name="mins_left">
+        <item quantity="one">залишилась 1 хв.</item>
+        <item quantity="other">залишилось %d хв.</item>
+    </plurals>
+    <plurals name="secs_left">
+        <item quantity="zero">залишилось 0 с.</item>
+        <item quantity="one">залишилась 1 с.</item>
+        <item quantity="other">залишилось %d с.</item>
+    </plurals>
+    <string name="translation_engine_google">Перекладач Google</string>
+    <string name="translation_engine_baidu">Перекладач Baidu</string>
 </resources>
