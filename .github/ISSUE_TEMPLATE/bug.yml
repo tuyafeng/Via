@@ -1,0 +1,24 @@
+name: 反馈漏洞-Bug Report
+description: 向我们提交漏洞
+title: "[漏洞]:漏洞名称"
+labels: ["bug"]
+assignees:
+body:
+  - type: markdown
+    attributes:
+      value: |
+        感谢您能向我们提交漏洞。
+  - type: input
+    id: version
+    attributes:
+      label: Via 版本号
+      description: 页面加载异常时还需提供 webview 和系统的版本号。
+    validations:
+      required: true
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: 漏洞描述
+      description: 请告诉我们复现方式
+    validations:
+      required: true
