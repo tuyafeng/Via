@@ -591,4 +591,18 @@
     </plurals>
     <string name="translation_engine_google">谷歌翻译</string>
     <string name="translation_engine_baidu">百度翻译</string>
+    <string name="ignore_site_message_for_a_minute">忽略此站点消息一分钟</string>
+    <string name="download_status_waiting_for_network">等待网络连接</string>
+    <string name="download_failed_with_message">下载失败: %1$s</string>
+    <string name="remove_identifying_headers">移除标识头</string>
+    <string name="remove_identifying_headers_description">启用后将置空 X-Requested-With 和 X-Wap-Profile 头信息，这可能会导致部分页面表现异常</string>
+    <string name="agent_windows_chrome">Windows (Chrome)</string>
+    <string name="agent_windows_ie11">Windows (IE 11)</string>
+    <string name="agent_android_phone">Android (手机)</string>
+    <string name="agent_android_tablet">Android (平板)</string>
+    <string name="agent_ipad">iPad</string>
+    <string name="agent_osx">macOS</string>
+    <string name="toutiao_url">头条</string>
+    <string name="title_can_not_be_empty">标题不能为空</string>
+    <string name="user_agent_can_not_be_empty">浏览器标识不能为空</string>
 </resources>

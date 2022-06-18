@@ -40,9 +40,9 @@
     <string name="action_delete_all">Delete all</string>
     <string name="action_blank">Blank page</string>
     <string name="agent_chrome">Chrome (PC)</string>
-    <string name="agent_ie">IE 11 (PC)</string>
-    <string name="agent_iphone">Safari (iPhone)</string>
-    <string name="agent_symbian">Nokia Browser</string>
+    <string name="agent_ie">Windows (IE 11)</string>
+    <string name="agent_iphone">iPhone</string>
+    <string name="agent_symbian">Symbian</string>
     <string name="agent_custom">Custom</string>
     <string name="dialog_download">Would you like to download this file?</string>
     <string name="title_warning">Warning</string>
@@ -599,4 +599,18 @@
     </plurals>
     <string name="translation_engine_google">Google translate</string>
     <string name="translation_engine_baidu">Baidu translate</string>
+    <string name="ignore_site_message_for_a_minute">Ignore this site message for a minute</string>
+    <string name="download_status_waiting_for_network">Waiting for network</string>
+    <string name="download_failed_with_message">Download failed: %1$s</string>
+    <string name="remove_identifying_headers">Remove identifying headers</string>
+    <string name="remove_identifying_headers_description">When enabled, the X-Requested-With and X-Wap-Profile headers will be empty, which may cause some pages to behave abnormally</string>
+    <string name="agent_windows_chrome">Windows (Chrome)</string>
+    <string name="agent_windows_ie11">Windows (IE 11)</string>
+    <string name="agent_android_phone">Android (Phone)</string>
+    <string name="agent_android_tablet">Android (Tablet)</string>
+    <string name="agent_ipad">iPad</string>
+    <string name="agent_osx">macOS</string>
+    <string name="toutiao_url">Toutiao</string>
+    <string name="title_can_not_be_empty">The title can not be empty</string>
+    <string name="user_agent_can_not_be_empty">The user-agent can not be empty</string>
 </resources>
