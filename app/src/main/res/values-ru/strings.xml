@@ -28,7 +28,7 @@
     <string name="orientation_auto">Автоповорот</string>
     <string name="orientation_portrait">Портретная</string>
     <string name="orientation_landscape">Альбомная</string>
-    <string name="agent">User Agent</string>
+    <string name="agent">UserAgent</string>
     <string name="home">Домашняя страница</string>
     <string name="fullscreen">Автоскрытие панелей</string>
     <string name="java">Использовать JavaScript</string>
@@ -41,8 +41,8 @@
     <string name="action_blank">Пустая страница</string>
     <string name="agent_chrome">Chrome (ПК)</string>
     <string name="agent_ie">IE 11 (ПК)</string>
-    <string name="agent_iphone">Safari (iPhone)</string>
-    <string name="agent_symbian">Nokia Browser</string>
+    <string name="agent_iphone">iPhone</string>
+    <string name="agent_symbian">Symbian</string>
     <string name="agent_custom">Своё</string>
     <string name="dialog_download">Загрузить этот файл?</string>
     <string name="title_warning">Внимание!</string>
@@ -273,7 +273,7 @@
     <string name="title_edit_favorite">Редактирование</string>
     <string name="custom_css_special">Добавить свой CSS</string>
     <string name="force_enable_zoom">Принудительное масштабирование</string>
-    <string name="set_ua_as">Установлен User Agent: %1$s</string>
+    <string name="set_ua_as">Установлен UserAgent: %1$s</string>
     <string name="import_data">Импорт данных</string>
     <string name="import_data_failed">Ошибка при импортировании данных!</string>
     <string name="import_data_succeed">Импорт данных выполнен успешно</string>
@@ -371,7 +371,6 @@
     <string name="select_all">Выбрать все</string>
     <string name="multi_choice">Множественный выбор</string>
     <plurals name="delete_download_tasks">
-        <item quantity="zero">Удалено 0 заданий загрузки</item>
         <item quantity="one">Удалено %d задание загрузки</item>
         <item quantity="few">Удалены %d задания загрузки</item>
         <item quantity="many">Удалено %d заданий загрузки</item>
@@ -386,7 +385,7 @@
     <string name="paste_and_go">Вставить и перейти</string>
     <string name="night_filter_for_web_contents">Ночной фильтр содержимого страниц</string>
     <string name="force_dark_mode_for_web_contents">Принудительный тёмный режим страниц</string>
-    <string name="force_dark_mode_for_web_contents_description">Если включено, будет принудительно использоваться тёмный режим для содержимого страниц, что может привести к ненормальной работе некоторых из них</string>
+    <string name="force_dark_mode_for_web_contents_description">Если включено, страницы будут принудительно затемнены, что может привести к ненормальной работе некоторых из них</string>
     <string name="require_javascript_enabled">Будет работать только при включённом JavaScript</string>
     <string name="keyboard_shortcuts">Горячие клавиши</string>
     <string name="export_data_description">Экспорт закладок, настроек, скриптов и фильтров рекламы</string>
@@ -574,7 +573,6 @@
     <string name="navigation_up">Перейти вверх</string>
     <string name="hide_popup_window">Скрыть всплывающее окно</string>
     <plurals name="open_tabs">
-        <item quantity="zero">0 вкладок</item>
         <item quantity="one">%d вкладка</item>
         <item quantity="few">%d вкладки</item>
         <item quantity="many">%d вкладок</item>
@@ -596,4 +594,18 @@
     </plurals>
     <string name="translation_engine_google">Переводчик Google</string>
     <string name="translation_engine_baidu">Переводчик Baidu</string>
+    <string name="ignore_site_message_for_a_minute">Игнорировать сообщение сайта в течение минуты</string>
+    <string name="download_status_waiting_for_network">Ожидание подключения к сети</string>
+    <string name="download_failed_with_message">Ошибка загрузки: %1$s</string>
+    <string name="remove_identifying_headers">Удалять идентифицирующие заголовки</string>
+    <string name="remove_identifying_headers_description">Если включено, заголовки X-Requested-With и X-Wap-Profile будут пустыми, что может привести к ненормальной работе некоторых страниц</string>
+    <string name="agent_windows_chrome">Windows (Chrome)</string>
+    <string name="agent_windows_ie11">Windows (IE 11)</string>
+    <string name="agent_android_phone">Android (смартфон)</string>
+    <string name="agent_android_tablet">Android (планшет)</string>
+    <string name="agent_ipad">iPad</string>
+    <string name="agent_osx">macOS</string>
+    <string name="toutiao_url">Toutiao</string>
+    <string name="title_can_not_be_empty">Заголовок не может быть пустым</string>
+    <string name="user_agent_can_not_be_empty">Значение UserAgent не может быть пустым</string>
 </resources>
