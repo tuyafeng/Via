@@ -345,8 +345,6 @@
     <string name="help">帮助</string>
     <string name="learn_more">了解更多</string>
     <plurals name="filters">
-        <item quantity="zero">0 条规则</item>
-        <item quantity="one">1 条规则</item>
         <item quantity="other">%d 条规则</item>
     </plurals>
     <string name="updated_">%1$s 已更新</string>
@@ -373,8 +371,6 @@
     <string name="select_all">全选</string>
     <string name="multi_choice">多选</string>
     <plurals name="delete_download_tasks">
-        <item quantity="zero">已删除 0 项下载任务</item>
-        <item quantity="one">已删除 1 项下载任务</item>
         <item quantity="other">已删除 %d 项下载任务</item>
     </plurals>
     <string name="open_source_licenses">开源许可协议</string>
@@ -593,7 +589,7 @@
     <string name="translation_engine_baidu">百度翻译</string>
     <string name="ignore_site_message_for_a_minute">忽略此站点消息一分钟</string>
     <string name="download_status_waiting_for_network">等待网络连接</string>
-    <string name="download_failed_with_message">下载失败: %1$s</string>
+    <string name="download_failed_with_message">下载失败：%1$s</string>
     <string name="remove_identifying_headers">移除标识头</string>
     <string name="remove_identifying_headers_description">启用后将置空 X-Requested-With 和 X-Wap-Profile 头信息，这可能会导致部分页面表现异常</string>
     <string name="agent_windows_chrome">Windows (Chrome)</string>
