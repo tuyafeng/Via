@@ -572,8 +572,6 @@
     <string name="navigation_up">向上導航</string>
     <string name="hide_popup_window">隱藏彈出式視窗</string>
     <plurals name="open_tabs">
-        <item quantity="zero">0 個開啟的分頁</item>
-        <item quantity="one">1 個開啟的分頁</item>
         <item quantity="other">%d 個開啟的分頁</item>
     </plurals>
     <string name="qr_code">二維碼</string>
@@ -582,18 +580,12 @@
     <string name="download_speed_unknown">N/A</string>
     <string name="download_eta_unknown">-</string>
     <plurals name="hours_left">
-        <item quantity="zero">剩餘 0 小時</item>
-        <item quantity="one">剩餘 1 小時</item>
         <item quantity="other">剩餘 %d 小時</item>
     </plurals>
     <plurals name="mins_left">
-        <item quantity="zero">剩餘 0 分鐘</item>
-        <item quantity="one">剩餘 1 分鐘</item>
         <item quantity="other">剩餘 %d 分鐘</item>
     </plurals>
     <plurals name="secs_left">
-        <item quantity="zero">剩餘 0 秒</item>
-        <item quantity="one">剩餘 1 秒</item>
         <item quantity="other">剩餘 %d 秒</item>
     </plurals>
     <string name="translation_engine_google">谷歌翻譯</string>
