@@ -7,7 +7,7 @@
   <string name="action_share">Поділитися</string>
   <string name="action_history">Історія</string>
   <string name="action_bookmarks">Закладки</string>
-  <string name="bookmarks_file">Via_експорт_закладок</string>
+  <string name="bookmarks_file">_експорт_закладок</string>
   <string name="action_add_bookmark">Додати закладку</string>
   <string name="action_night">Нічний режим</string>
   <string name="action_copy">Копіювати посилання</string>
@@ -18,7 +18,7 @@
   <string name="action_copy_text">Копіювати текст</string>
   <string name="action_copy_link_text">Копіювати текст посилання</string>
   <string name="action_tools">Інструменти</string>
-  <string name="settings">Налаштування</string>
+  <string name="settings">Параметри</string>
   <string name="location">Повідомляти місцезнаходження</string>
   <string name="password">Зберігати паролі</string>
   <string name="donate">Пожертвування</string>
@@ -31,8 +31,8 @@
   <string name="agent">Агент користувача</string>
   <string name="home">Домашня сторінка</string>
   <string name="fullscreen">Автоприховування панелей</string>
-  <string name="java">Використовування JavaScript</string>
-  <string name="download">Шлях завантаження</string>
+  <string name="java">Використовувати JavaScript</string>
+  <string name="download">Шлях до завантаження</string>
   <string name="size">Розмір тексту</string>
   <string name="search">Пошукова система</string>
   <string name="search_hint">Пошук</string>
@@ -40,9 +40,9 @@
   <string name="action_delete_all">Видалити все</string>
   <string name="action_blank">Порожня сторінка</string>
   <string name="agent_chrome">Chrome (ПК)</string>
-  <string name="agent_ie">IE 11 (ПК)</string>
-  <string name="agent_iphone">Safari (iPhone)</string>
-  <string name="agent_symbian">Nokia Browser</string>
+  <string name="agent_ie">Windows (IE 11)</string>
+  <string name="agent_iphone">iPhone</string>
+  <string name="agent_symbian">Symbian</string>
   <string name="agent_custom">Користувацький</string>
   <string name="dialog_download">Завантажити цей файл?</string>
   <string name="title_warning">Увага!</string>
@@ -60,7 +60,7 @@
   <string name="action_edit">Змінити</string>
   <string name="action_incognito">Режим \"інкогніто\"</string>
   <string name="action_find">Пошук</string>
-  <string name="download_pending">Завантаження…</string>
+  <string name="download_pending">Завантаження почалось</string>
   <string name="cannot_download">Завантаження можливе тільки за http(s)-посиланням</string>
   <string name="bookmarks_imported">Імпортовано закладок: %1d</string>
   <string name="custom_url">Користувацька URL-адреса</string>
@@ -105,7 +105,7 @@
   <string name="toast_operation_done">Операція виконана успішно</string>
   <string name="volume">Прокручування кнопками гучності</string>
   <string name="msg_intent">Дозволити сайту відкрити застосунок?</string>
-  <string name="setting_default">Зробити браузером за замовчуванням</string>
+  <string name="setting_default">Зробити переглядачем за замовчуванням</string>
   <string name="toast_clear_defaults">Очистити значення за замовчуванням</string>
   <string name="toast_copy_url_successful">Адресу скопійовано</string>
   <string name="toast_copy_text_successful">Текст скопійовано</string>
@@ -162,7 +162,7 @@
   <string name="upload_completed">Відвантаження завершено</string>
   <string name="ui_mode">Вигляд інтерфейсу</string>
   <string name="addon_download">Менеджер завантажень</string>
-  <string name="quick_back">Повернення без перезавантаження сторінки</string>
+  <string name="quick_back">Повернення назад без перезавантаження сторінки</string>
   <string name="open_with">Відкрити в…</string>
   <string name="download_completed">Завантаження завершено</string>
   <string name="toast_fullscreen_off">Вихід з повноекранного режиму</string>
@@ -183,7 +183,7 @@
   <string name="skin_colorful">Прямокутний</string>
   <string name="skin_fruity">Круглий</string>
   <string name="skin_transparent">Прозорий</string>
-  <string name="block_popup">Блокувати спливаючі вікна</string>
+  <string name="block_popup">Блокувати спливні вікна</string>
   <string name="action_save_web_page">Зберегти сторінку</string>
   <string name="action_saved_pages">Архів сторінок</string>
   <string name="saved_page_successfully">Сторінку успішно збережено в \"Закладки\" → \"Архів сторінок\"</string>
@@ -191,15 +191,15 @@
   <string name="empty_hint">Порожньо…</string>
   <string name="network_log">Мережевий журнал</string>
   <string name="conn_timeout">Час очікування підключення збіг</string>
-  <string name="already_default">Via вже встановлено браузером за замовчуванням</string>
-  <string name="set_to_default">Via буде встановлено браузером за замовчуванням після використання його для відкриття посилання %1$s. Оберіть Via для відкриття.</string>
+  <string name="already_default">Via вже встановлено переглядачем за замовчуванням</string>
+  <string name="set_to_default">Via буде встановлено переглядачем за замовчуванням після використання його для відкриття посилання %1$s. Оберіть Via для відкриття.</string>
   <string name="sync_prompt">Будуть перезаписані поточні локальні закладки та налаштування. Продовжити?</string>
   <string name="upload_prompt">Будуть надіслані поточні локальні закладки та налаштування. Продовжити?</string>
   <string name="none">Немає</string>
   <string name="check_permission">Дозвіл відсутній. Надати його в налаштуваннях зараз?</string>
   <string name="need_permission_hint">Via необхідні наступні дозволи для роботи:\n\n</string>
-  <string name="storage_permission">Сховище: для завантаження файлів через браузер, імпорту/експорту закладок, тощо.\n\n</string>
-  <string name="location_permission">Місцезнаходження: для таких сайтів, як Карти Google; за замовчуванням вимкнено. Якщо увімкнути, відобразиться спливаюче вікно із запитом, чи може сайт використовувати ваше місцезнаходження.\n\n</string>
+  <string name="storage_permission">Сховище: для завантаження файлів через переглядач, імпорту/експорту закладок, тощо.\n\n</string>
+  <string name="location_permission">Місцезнаходження: для таких сайтів, як Карти Google; за замовчуванням вимкнено. Якщо увімкнути, відобразиться спливне вікно із запитом, чи може сайт використовувати ваше місцезнаходження.\n\n</string>
   <string name="force_cancel">Примусово закрити</string>
   <string name="restore_tabs_hint">Відновити не закриті минулого разу вкладки?</string>
   <string name="restore_tabs">Відновлення вкладок при запуску</string>
@@ -246,7 +246,7 @@
   <string name="adblock_info">Увімкнено: %1$d рекламних оголошень заблоковано, %2$s зекономлено</string>
   <string name="disable">Вимкнено</string>
   <string name="ui_traditional">Традиційний</string>
-  <string name="color_mode_hint">Автоматично змінювати кольори панелей</string>
+  <string name="color_mode_hint">Автоматична зміна кольорів панелей</string>
   <string name="skin_hide_search_part">Приховати поле пошуку</string>
   <string name="file_size">Розмір файлу: %1$s</string>
   <string name="search_by_image">Пошук за зображенням</string>
@@ -255,7 +255,7 @@
   <string name="no_resource">Ресурси відсутні</string>
   <string name="no_network_log">Мережевий журнал порожній</string>
   <string name="resource_sniffer_hint">\nАналіз ресурсів спрощується при відтворенні музики чи відео, але може не працювати на деяких сайтах.</string>
-  <string name="action_downloads">Завантаження</string>
+  <string name="action_downloads">Менеджер завантажень</string>
   <string name="empty_username_info">Введіть ім\'я користувача</string>
   <string name="empty_password_info">Введіть пароль</string>
   <string name="offline_page_hint">Автономно збережені сторінки. Ви можете переглядати їх незалежно від наявності підключення до мережі.</string>
@@ -271,7 +271,7 @@
   <string name="action_add_to_homepage">Додати в обране</string>
   <string name="added_favorite_hint">Успішно додано в обране на домашню сторінку</string>
   <string name="title_edit_favorite">Редагування</string>
-  <string name="custom_css_special">Користувацький CSS</string>
+  <string name="custom_css_special">Додати CSS</string>
   <string name="force_enable_zoom">Примусове масштабування</string>
   <string name="set_ua_as">Агент користувача: %1$s</string>
   <string name="import_data">Імпорт даних</string>
@@ -282,7 +282,7 @@
   <string name="always_restore">Відновлювати</string>
   <string name="ask_first">Питати</string>
   <string name="disable_restore">Не відновлювати</string>
-  <string name="data_file">Via_експорт_даних</string>
+  <string name="data_file">_експорт_даних</string>
   <string name="bookmarks_data_to_long">Об\'єм даних закладок надто великий, але інші дані будуть передані нормально. Продовжити?</string>
   <string name="restore_tabs_hint_settings">Вкладки не будуть відновлені, коли ви знаходитеся в режимі \"інкогніто\"</string>
   <string name="ignore_secondary_ssl_error">Ігнорувати вторинну помилку SSL</string>
@@ -296,7 +296,7 @@
   <string name="message_delete_downloading_task">Завантажений файл також буде видалено. Ви упевнені?</string>
   <string name="message_delete_downloaded_task">Видалити завантаження?</string>
   <string name="message_delete_downloaded_file">…разом із завантаженим файлом</string>
-  <string name="block_popup_message">Заблоковано спливаюче вікно</string>
+  <string name="block_popup_message">Заблоковано спливне вікно</string>
   <string name="allow_popup">Дозволити зараз</string>
   <string name="system_download_manager">Системний</string>
   <string name="action_play_with">Відтворити в…</string>
@@ -349,7 +349,7 @@
   </plurals>
   <string name="updated_">оновлено %1$s</string>
   <string name="filter_subscription_info">%1$s, %2$s</string>
-  <string name="enable_built_in_filters">Використовувати вбудовані фільтри</string>
+  <string name="enable_built_in_filters">Вбудовані фільтри</string>
   <string name="enable_built_in_filters_description">Вбудовані фільтри блокують тільки звичайну рекламу</string>
   <string name="update">Оновити</string>
   <string name="bookmarks_exported_successfully">Закладки успішно експортовано</string>
@@ -414,7 +414,7 @@
   <string name="corner_radius">Кутовий радіус</string>
   <string name="adaptive">Адаптивно</string>
   <string name="action_favorites">Обране</string>
-  <string name="skin_search_bar">Поле пошуку</string>
+  <string name="skin_search_bar">Пошук</string>
   <string name="stroke_width">Ширина рамки</string>
   <string name="stroke_opacity">Прозорість рамки</string>
   <string name="opacity">Прозорість</string>
@@ -504,11 +504,11 @@
   <string name="stop_loading_description">Via заборонив завантаження сторінки:</string>
   <string name="stop_loading_reason">Керуючись фільтром:</string>
   <string name="continue_loading">Продовжити завантаження</string>
-  <string name="allow_webpage_access_to_clipboard">Дозволити сайту доступ до буфера обміну</string>
+  <string name="allow_webpage_access_to_clipboard">Доступ сайту до буфера обміну</string>
   <string name="ask_to_allow_webpage_to_copy_text">Копіювати текст з %DOMAIN%?</string>
   <string name="ask_to_allow_webpage_to_paste_text">Вставляти текст на %DOMAIN%?</string>
-  <string name="option_allow">Дозволити</string>
-  <string name="option_deny">Заборонити</string>
+  <string name="option_allow">Дозволяти</string>
+  <string name="option_deny">Забороняти</string>
   <string name="search_bar_style">Вигляд</string>
   <string name="search_bar_style_line">Лінія</string>
   <string name="search_bar_style_rectangle">Прямокутник</string>
@@ -522,8 +522,8 @@
   <string name="search_bar_effect_blur">Розмиття</string>
   <string name="search_bar_effect_transparent">Прозорість</string>
   <string name="search_part">Поле пошуку</string>
-  <string name="search_part_hide">Прихована</string>
-  <string name="search_part_show">Видима</string>
+  <string name="search_part_hide">Приховане</string>
+  <string name="search_part_show">Видиме</string>
   <string name="image_preference">Параметри зображення</string>
   <string name="background_color">Колір</string>
   <string name="background_image">Зображення</string>
@@ -599,4 +599,18 @@
     </plurals>
     <string name="translation_engine_google">Перекладач Google</string>
     <string name="translation_engine_baidu">Перекладач Baidu</string>
+	<string name="ignore_site_message_for_a_minute">Ігнорувати повідомлення цього сайту впродовж хвилини</string>
+    <string name="download_status_waiting_for_network">Очікування на з\'єднання з мережею</string>
+    <string name="download_failed_with_message">Збій завантаження: %1$s</string>
+    <string name="remove_identifying_headers">Видалити ідентифікаційні заголовки</string>
+    <string name="remove_identifying_headers_description">Якщо увімкнено, то заголовки X-Requested-With і X-Wap-Profile будуть порожніми, що може спричинити до неправильної роботи деяких сторінок</string>
+    <string name="agent_windows_chrome">Windows (Chrome)</string>
+    <string name="agent_windows_ie11">Windows (IE 11)</string>
+    <string name="agent_android_phone">Android (телефон)</string>
+    <string name="agent_android_tablet">Android (планшет)</string>
+    <string name="agent_ipad">iPad</string>
+    <string name="agent_osx">macOS</string>
+    <string name="toutiao_url">Toutiao</string>
+    <string name="title_can_not_be_empty">Заголовок не може бути порожнім</string>
+    <string name="user_agent_can_not_be_empty">Агент користувача не може бути порожнім</string>
 </resources>
