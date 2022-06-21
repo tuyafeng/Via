@@ -41,9 +41,9 @@
     <string name="action_delete_all">Excluir tudo</string>
     <string name="action_blank">Página em branco</string>
     <string name="agent_chrome">Chrome (PC)</string>
-    <string name="agent_ie">IE 11 (PC)</string>
-    <string name="agent_iphone">Safari (iPhone)</string>
-    <string name="agent_symbian">Nokia Browser</string>
+    <string name="agent_ie">Windows (IE 11)</string>
+    <string name="agent_iphone">iPhone</string>
+    <string name="agent_symbian">Symbian</string>
     <string name="agent_custom">Personalizado</string>
     <string name="dialog_download">Deseja baixar este arquivo?</string>
     <string name="title_warning">Atenção</string>
@@ -610,5 +610,19 @@
     </plurals>
     <string name="translation_engine_google">Google tradutor</string>
     <string name="translation_engine_baidu">Baidu tradutor</string>
-
+    <string name="ignore_site_message_for_a_minute">Ignore essa mensagem do site por 1 minuto</string>
+    <string name="download_status_waiting_for_network">Aguardando rede</string>
+    <string name="download_failed_with_message">Download falhou: %1$s</string>
+    <string name="remove_identifying_headers">Remover cabeçalhos de identificação</string>
+    <string name="remove_identifying_headers_description">Quando ativado, os cabeçalhos X-Requested-With e X-Wap-Profile ficarão vazios, o que pode fazer com que algumas páginas se comportem de forma anormal
+    </string>
+    <string name="agent_windows_chrome">Windows (Chrome)</string>
+    <string name="agent_windows_ie11">Windows (IE 11)</string>
+    <string name="agent_android_phone">Android (Celular)</string>
+    <string name="agent_android_tablet">Android (Tablet)</string>
+    <string name="agent_ipad">iPad</string>
+    <string name="agent_osx">macOS</string>
+    <string name="toutiao_url">Toutiao</string>
+    <string name="title_can_not_be_empty">O titulo não pode ficar vazio</string>
+    <string name="user_agent_can_not_be_empty">O agente de usuário não pode ficar vazio</string>
 </resources>
