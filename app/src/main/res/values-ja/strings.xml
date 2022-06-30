@@ -249,6 +249,9 @@
     <string name="clear_website_icon_cache_message">この操作を行うと、ホームページ上のお気に入りのアイコンがすべて消去されますのでご注意ください。各アイコンは、次回、対応するウェブサイトにアクセスしたときにダウンロードされます。</string>
     <string name="reset_to_default_settings">設定を初期化する</string>
     <string name="use_line_style_search_box">検索ボックスをライン状にする</string>
+    <string name="search_bar_style">バースタイル</string>
+    <string name="search_bar_style_line">線</string>
+    <string name="search_bar_style_rectangle">長方形</string>
     
     <!-- 設定｜カスタマイズ｜ロゴ -->
     <string name="skin_logo">ロゴ</string>
@@ -265,16 +268,32 @@
     <string name="skin_colorful">長方形</string>
     <string name="skin_fruity">楕円形</string>
 
-    <!-- 設定｜カスタマイズ｜設定 -->
-    <string name="skin_hide_search_part">検索ボックスを非表示にする</string>
+    <!-- 設定｜カスタマイズ｜ブックマーク -->
+    <string name="favorites_icon_style">アイコン</string>
+    <string name="favorites_icon_style_text">テキスト</string>
+    <string name="favorites_icon_style_icon_first">サイトアイコン</string>
+    <string name="favorites_icon_color">アイコン色</string>
+    <string name="favorites_icon_color_colorful">カラー</string>
+    <string name="favorites_icon_color_transparent">透明</string>
+    
+    <!-- 設定｜カスタマイズ｜高度な設定 -->
+    <string name="search_bar_effect">バーのエフェクト</string>
+    <string name="search_bar_effect_blur">ぼかし</string>
+    <string name="search_bar_effect_transparent">透明</string>
+    <string name="search_part">サーチボックス</string>
+    <string name="search_part_hide">非表示</string>
+    <string name="search_part_show">表示</string>
     <string name="custom_css_special">カスタムCSSを追加</string>
-    <string name="background_opacity">背景の不透明度</string>
+    <string name="favorites_clear_icons">アイコンをリセット</string>
+    <string name="customization_reset">リセット</string>
 
     <!-- 設定｜プライバシー -->
     <string name="settings_privacy">プライバシー</string>    
     <string name="location">位置情報へのアクセスを許可する</string>
     <string name="do_not_track">Do Not Track（トラッキング拒否）</string>
     <string name="block_3rd_party_cookies">サードパーティーCookieをブロック</string>
+    <string name="remove_identifying_headers">認識HTTPヘッダーを削除する</string>
+    <string name="remove_identifying_headers_description">有効にすると、「X-Requested-With」ヘッダーと「X-Wap-Profile」ヘッダーが削除され、一部のページで正常に表示されない場合があります。</string>
     <string name="do_not_sell_or_share">個人のデータを販売及び共有することを拒否する</string>
     <string name="do_not_sell_or_share_description">プライバシー保護のため、個人のデータを販売したり共有したりしないようにウェブサイトに要求する（試験中）</string>
     
@@ -368,6 +387,15 @@
         <item quantity="one">1 アイテムを削除しました</item>
         <item quantity="other">%d アイテムを削除しました</item>
     </plurals>
+    <string name="file_name">ファイル名</string>
+    <string name="action_download_file">ダウンロード</string>
+    <string name="rename">リネーム</string>
+    <string name="download_error_file_io">I/O エラー</string>
+    <string name="download_error_network">ネットワークエラー</string>
+    <string name="download_error_unknown">不明なエラー</string>
+    <string name="message_re_download">ダウンロード済みの %1$s を削除して再ダウンロードしますか？</string>
+    <string name="app_downloading_files">Viaがファイルをダウンロード中です</string>
+    <string name="app_downloading_files_subtitle">タップしてダウンロードを表示</string>
 
     <!-- ポップアップ -->     
     <string name="entered_full_screen_mode">フルスクリーンモードに切り替えました</string>
@@ -531,6 +559,7 @@
     <string name="glean">落穂拾い</string>
     <string name="missing_webview">WebViewが正常にインストールしていません。インストールしますか？</string>
     <string name="action_pic_mode">画像のみ表示</string>
+    <string name="share_image">画像を共有</string>
     <string name="find_pre">前へ</string>
     <string name="find_next">次へ</string>
     <string name="action_modify">編集</string>
