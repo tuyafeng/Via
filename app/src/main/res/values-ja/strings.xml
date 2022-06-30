@@ -292,7 +292,7 @@
     <string name="location">位置情報へのアクセスを許可する</string>
     <string name="do_not_track">Do Not Track（トラッキング拒否）</string>
     <string name="block_3rd_party_cookies">サードパーティーCookieをブロック</string>
-    <string name="remove_identifying_headers">認識HTTPヘッダーを削除する</string>
+    <string name="remove_identifying_headers">識別用HTTPヘッダーを削除する</string>
     <string name="remove_identifying_headers_description">有効にすると、「X-Requested-With」ヘッダーと「X-Wap-Profile」ヘッダーが削除され、一部のページで正常に表示されない場合があります。</string>
     <string name="do_not_sell_or_share">個人のデータを販売及び共有することを拒否する</string>
     <string name="do_not_sell_or_share_description">プライバシー保護のため、個人のデータを販売したり共有したりしないようにウェブサイトに要求する（試験中）</string>
