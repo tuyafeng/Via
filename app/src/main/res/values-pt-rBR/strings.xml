@@ -30,7 +30,7 @@
     <string name="orientation_landscape">Paisagem</string>
     <string name="agent">Agente de usuário</string>
     <string name="home">Página inicial</string>
-    <string name="fullscreen">Ocultar barras automaticamente</string>
+    <string name="fullscreen">Ocultar as barras automaticamente</string>
     <string name="java">Ativar JavaScript</string>
     <string name="download">Local de download</string>
     <string name="size">Tamanho do texto</string>
@@ -106,7 +106,7 @@
     <string name="volume">Usar os botões de volume para rolar</string>
     <string name="msg_intent">Permitir que o site abra seu aplicativo?</string>
     <string name="setting_default">Definir como navegador padrão</string>
-    <string name="toast_clear_defaults">Por favor, limpe o abrir por padrão</string>
+    <string name="toast_clear_defaults">Limpe para as configurações padrão</string>
     <string name="toast_copy_url_successful">Link copiado com sucesso</string>
     <string name="toast_copy_text_successful">Texto copiado com sucesso</string>
     <string name="incognito_on">Modo anônimo ativado</string>
@@ -150,9 +150,9 @@
     <string name="user">Entrar/Registrar-se</string>
     <string name="user_syns">Sincronizar</string>
     <string name="user_update">Enviar</string>
-    <string name="wrong_psw">Senha incorreta.</string>
+    <string name="wrong_psw">Senha incorreta</string>
     <string name="sign_up_success">Cadastro concluído</string>
-    <string name="code_500">Serviço indisponível.</string>
+    <string name="code_500">Erro no servidor</string>
     <string name="syns_success">Sincronização concluída</string>
     <string name="upload_success">Envio concluído</string>
     <string name="log_out">Sair?</string>
@@ -160,7 +160,7 @@
     <string name="crash_restart">Reiniciar</string>
     <string name="crash_close">Fechar</string>
     <string name="upload_completed">Envio concluído</string>
-    <string name="ui_mode">Modo de IU da barra de ferramentas</string>
+    <string name="ui_mode">Posição da barra de ferramentas</string>
     <string name="addon_download">Gerenciador de download</string>
     <string name="quick_back">Voltar sem recarregar</string>
     <string name="open_with">Abrir com&#8230;</string>
@@ -173,7 +173,7 @@
     <string name="data_storage">Armazenamento da web</string>
     <string name="data_cookies">Cookies (status de login)</string>
     <string name="data_cleared">Dados limpos</string>
-    <string name="sync_desc">Uma conta será criada se ela não existir.</string>
+    <string name="sync_desc">Uma conta será criada se não existir.</string>
     <string name="settings_skin">Aparência</string>
     <string name="default_set">Padrão</string>
     <string name="picture">Imagem</string>
@@ -225,14 +225,14 @@
     <string name="install">Instalar</string>
     <string name="crash_hint">Lamentamos que o aplicativo tenha travado.</string>
     <string name="glean">Coletar</string>
-    <string name="contact_us">Contate-nos</string>
+    <string name="contact_us">Fale conosco</string>
     <string name="official_website">Site oficial</string>
     <string name="background_opacity">Opacidade do fundo</string>
-    <string name="action_pic_mode">Modo de imagem</string>
+    <string name="action_pic_mode">Modo imagem</string>
     <string name="find_next">Localizar próximo</string>
     <string name="find_pre">Localizar anterior</string>
     <string name="action_open_in_background">Abrir em segundo plano</string>
-    <string name="cannot_work">Só funciona com URLs \"http\" ou \"https\"</string>
+    <string name="cannot_work">Pode funcionar somente com URLs \"http\" ou \"https\".</string>
     <string name="action_fullscreen">Tela cheia</string>
     <string name="settings_general">Geral</string>
     <string name="no_bookmark">Sem favoritos</string>
@@ -249,12 +249,12 @@
     <string name="color_mode_hint">Ajustar automaticamente a cor das barras ao navegar na web</string>
     <string name="skin_hide_search_part">Ocultar parte da pesquisa</string>
     <string name="file_size">Tamanho do arquivo: %1$s</string>
-    <string name="search_by_image">Pesquisa por imagem</string>
+    <string name="search_by_image">Pesquisar por imagem</string>
     <string name="resource_sniffer">Botão de recursos</string>
     <string name="res_log_hint">Toque em um item para visualizar ou mantenha pressionado para baixar ou fazer outra coisa.</string>
     <string name="no_resource">A página não possui recursos.</string>
     <string name="no_network_log">A página não possui log de rede.</string>
-    <string name="resource_sniffer_hint">\nÉ mais fácil detectar arquivos de mídia enquanto a música ou o vídeo está sendo reproduzido. O botão de recurso não funciona em certos sites.</string>
+    <string name="resource_sniffer_hint">\nÉ mais fácil detectar arquivos de mídia enquanto a música ou o vídeo está sendo reproduzido. O botão de recursos não funciona em certos sites.</string>
     <string name="action_downloads">Downloads</string>
     <string name="empty_username_info">Por favor, insira seu nome de usuário</string>
     <string name="empty_password_info">Por favor, insira sua senha</string>
@@ -265,7 +265,7 @@
     <string name="page_info_title">Título:</string>
     <string name="page_info_url">URL da página:</string>
     <string name="page_info_link">URL do link:</string>
-    <string name="no_network">As conexões de rede estão indisponíveis</string>
+    <string name="no_network">Sem conexão de rede</string>
     <string name="title_app_chooser">Seletor de aplicativos</string>
     <string name="clear_data_on_exit">Limpar dados ao sair</string>
     <string name="action_add_to_homepage">Adicionar à página inicial</string>
@@ -288,7 +288,7 @@
     <string name="ignore_secondary_ssl_error">Ignorar erro SSL secundário</string>
     <string name="web_page_debug">Ativar depuração de página da web</string>
     <string name="web_page_debug_info">Agora você pode conectar seu telefone ao computador e depurar a página da web com o Chrome (PC) usando \"chrome://inspect\". Lembre-se de primeiro ativar a Depuração USB no menu: Mais ferramentas > Ferramentas do desenvolvedor.</string>
-    <string name="no_download_tasks">Vazio</string>
+    <string name="no_download_tasks">Nenhum download</string>
     <string name="action_re_download">Refazer download</string>
     <string name="action_copy_download_link">Copiar link de download</string>
     <string name="download_failed">Download falhou</string>
@@ -319,7 +319,7 @@
     <string name="dialog_message_from">Mensagem de %1$s</string>
     <string name="filter_subscriptions">Filtros assinados</string>
     <string name="filter_subscriptions_description">Assine as listas de filtros do Adblock Plus</string>
-    <string name="filter_subscription_exist">O filtro assinado já existe.</string>
+    <string name="filter_subscription_exist">O filtro assinado já existe</string>
     <string name="custom_filters">Filtros personalizados</string>
     <string name="custom_filters_description">Incluindo filtros personalizados e anúncios marcados</string>
     <string name="custom_filter">Filtro personalizado</string>
@@ -332,14 +332,14 @@
     <string name="just_now">Agora mesmo</string>
     <string name="url_is_invalid">A URL é inválida.</string>
     <string name="simple_guide_of_writing_rule">O Via suporta quase todos os filtros do Adblock Plus.
-        \nVocê pode bloquear solicitações de example.com com um filtro como:
-        \n||example.com^ (ou simplesmente: example.com)
+        \nVocê pode bloquear solicitações de exemplo.com com um filtro como:
+        \n||exemplo.com^ (ou simplesmente: exemplo.com)
         \n\nO curinga é aceitável como:
-        \n||example.com/js/ads_*.js
+        \n||exemplo.com/js/ads_*.js
         \n\nPara os elementos de página da web, use um filtro como:
-        \nexample.com###ad
+        \nexemplo.com###ad
         \n\nVocê pode desbloquear solicitações especiais com um filtro como:
-        \n@@||example.com^</string>
+        \n@@||exemplo.com^</string>
     <string name="help">Ajuda</string>
     <string name="learn_more">Saiba mais</string>
     <plurals name="filters">
@@ -357,7 +357,7 @@
     <string name="privacy_policy">Política de privacidade</string>
     <string name="terms_of_use">Termos de uso</string>
     <string name="welcome">Boas-vindas</string>
-    <string name="agreement_message">Bem-vindo ao Via. Por favor, leie atentamente o seguinte acordo antes de utilizar o Via. Você precisa concordar e aceitar todos os termos e condições antes de começar a usar nosso serviço.</string>
+    <string name="agreement_message">Bem-vindo ao Via. Por favor, leia o seguinte acordo cuidadosamente antes de utilizar o Via. Você precisa concordar e aceitar todos os termos e condições antes de começar a usar nosso serviço.</string>
     <string name="agreement_message_short">Você precisa concordar e aceitar todos os termos antes de começar a usar nosso serviço.</string>
     <string name="agree_and_continue">Concordar e continuar</string>
     <string name="disagree">Discordar</string>
@@ -369,11 +369,11 @@
     <string name="confirm_to_delete">Confirme para excluir</string>
     <string name="items_selected">%1d selecionado(s)</string>
     <string name="select_all">Selecionar tudo</string>
-    <string name="multi_choice">Multi-escolha</string>
+    <string name="multi_choice">Múltipla escolha</string>
     <plurals name="delete_download_tasks">
         <item quantity="zero">Nenhum download excluído</item>
         <item quantity="one">1 download excluído</item>
-        <item quantity="other">%d download excluídos</item>
+        <item quantity="other">%d downloads excluídos</item>
     </plurals>
     <string name="open_source_licenses">Licenças de código aberto</string>
     <string name="debugging_info">Informações de depuração</string>
@@ -410,7 +410,7 @@
     <string name="allow_website_to_open_app_message">Permitir que o site abra %1$s?</string>
     <string name="width">Largura</string>
     <string name="height">Altura</string>
-    <string name="corner_radius">Raio de canto</string>
+    <string name="corner_radius">Raio do canto</string>
     <string name="adaptive">Adaptativo</string>
     <string name="action_favorites">Favoritos</string>
     <string name="skin_search_bar">Barra de pesquisa</string>
@@ -418,7 +418,7 @@
     <string name="stroke_opacity">Opacidade da borda</string>
     <string name="opacity">Opacidade</string>
     <string name="disable_website_icons">Desativar ícones de sites</string>
-    <string name="disable_icon_color">Desativar cor de ícones</string>
+    <string name="disable_icon_color">Desativar cor dos ícones</string>
     <string name="font_style">Estilo da fonte</string>
     <string name="bold">Negrito</string>
     <string name="italics">Itálico</string>
@@ -431,9 +431,9 @@
     <string name="reset_to_default_settings">Redefinir para as configurações padrão</string>
     <string name="script_sites">Sites (como *.foo.com,bar.*/list)</string>
     <string name="simple_guide_of_writing_script">O script escrito terá efeito automaticamente quando o site for carregado.
-     \n\ nSites (obrigatório): O site com script suporta o curinga \"*\" e vários sites são separados por \",\", por exemplo: *.foo.com,bar.*/list.
-     \n\ nObservações (opcional): Usado como o título do script.
-     \n\ nCódigo (obrigatório): Recomenda-se usar JavaScript nativo. Você também pode usar a sintaxe jquery ou vue.js se o site usar esses frameworks.</string>
+    \n\nSites (obrigatório): O site com script suporta o curinga \"*\" e vários sites são separados por \",\", por exemplo: *.foo.com,bar.*/list.
+    \n\nObservações (opcional): Usado como o título do script.
+    \n\nCódigo (obrigatório): Recomenda-se usar JavaScript nativo. Você também pode usar a sintaxe jquery ou vue.js se o site usar esses frameworks.</string>
     <string name="save_data">Economizar dados</string>
     <string name="save_data_description">Ativar o modo de economia de dados em sites compatíveis</string>
     <string name="use_line_style_search_box">Usar a caixa de pesquisa em estilo linha</string>
@@ -474,14 +474,14 @@
         <br /><b>Organização (O)</b><br />
         %5$s
         <br /><br /><b>PERÍODO DE VALIDADE</b><br />
-        <b>Emitida em</b><br />
+        <b>Emitido em</b><br />
         %6$s
         <br /><b>Expira em</b><br />
         %7$s
         <br />
     ]]></string>
     <string name="no_certificate">O site não possui um certificado.</string>
-    <string name="site_conf_enabled">Configurações do site (ativada)</string>
+    <string name="site_conf_enabled">Configurações do site (ativado)</string>
     <string name="do_not_sell_or_share">Não vender ou compartilhar dados</string>
     <string name="do_not_sell_or_share_description">Solicitar o site para não vender ou compartilhar meus dados para proteger a privacidade (experimental)</string>
     <string name="email_me">Envie-me um e-mail</string>
@@ -496,14 +496,14 @@
     <string name="today_and_yesterday">Hoje e ontem</string>
     <string name="last_seven_days">Últimos 7 dias</string>
     <string name="all_time">Desde o início</string>
-    <string name="delete_history_from">Intervalo de tempo</string>
+    <string name="delete_history_from">Limpar histórico</string>
     <string name="save_as_pdf">Salvar como PDF</string>
     <string name="export">Exportar</string>
     <string name="export_successfully">Exportado com sucesso</string>
     <string name="stop_loading_description">O Via impediu o carregamento da seguinte página:</string>
     <string name="stop_loading_reason">Por causa do seguinte filtro:</string>
     <string name="continue_loading">Continuar carregamento</string>
-    <string name="allow_webpage_access_to_clipboard">Permitir que a página da web acesse à área de transferência</string>
+    <string name="allow_webpage_access_to_clipboard">Permitir o acesso da página da web à área de transferência</string>
     <string name="ask_to_allow_webpage_to_copy_text">Tem certeza de que deseja copiar o texto de %DOMAIN%?</string>
     <string name="ask_to_allow_webpage_to_paste_text">Tem certeza de que deseja colar o texto em %DOMAIN%?</string>
     <string name="option_allow">Permitir</string>
@@ -540,7 +540,7 @@
     <string name="login_username">Nome de usuário (a conta será criada se não existir)</string>
     <string name="read_and_agree">Por favor, leia e concorde com %1$s e %2$s</string>
     <string name="wechat_official_account">Conta oficial do WeChat </string>
-    <string name="notification_channel_downloads">Baixar conteúdos</string>
+    <string name="notification_channel_downloads">Download de conteúdo</string>
     <string name="notification_channel_foreground">Notificações em primeiro plano</string>
     <string name="download_progress">%1$s/%2$s</string>
     <string name="download_progress_indeterminate">%1$s</string>
@@ -603,7 +603,7 @@
     <string name="download_status_waiting_for_network">Aguardando rede</string>
     <string name="download_failed_with_message">Download falhou: %1$s</string>
     <string name="remove_identifying_headers">Remover cabeçalhos de identificação</string>
-    <string name="remove_identifying_headers_description">Quando ativado, os cabeçalhos X-Requested-With e X-Wap-Profile ficarão vazios, o que pode fazer com que algumas páginas se comportem de forma anormal</string>
+    <string name="remove_identifying_headers_description">Quando ativado, os cabeçalhos X-Requested-With e X-Wap-Profile estarão vazios, o que pode fazer com que algumas páginas se comportem de forma anormal</string>
     <string name="agent_windows_chrome">Windows (Chrome)</string>
     <string name="agent_windows_ie11">Windows (IE 11)</string>
     <string name="agent_android_phone">Android (Celular)</string>
