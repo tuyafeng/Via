@@ -127,7 +127,7 @@
     <string name="settings_privacy">Privacidade</string>
     <string name="settings_advanced">Avançado</string>
     <string name="settings_about">Sobre</string>
-    <string name="url_box">Conteúdo da barra de endereço</string>
+    <string name="url_box">Conteúdo da barra de endereços</string>
     <string name="url_box_domain">Domínio</string>
     <string name="action_pcview">Site em desktop</string>
     <string name="action_source">Ver código-fonte</string>
@@ -156,7 +156,7 @@
     <string name="syns_success">Sincronização concluída</string>
     <string name="upload_success">Envio concluído</string>
     <string name="log_out">Sair?</string>
-    <string name="crash_info">Algo deu errado. :(</string>
+    <string name="crash_info">Ocorreu algum erro. :(</string>
     <string name="crash_restart">Reiniciar</string>
     <string name="crash_close">Fechar</string>
     <string name="upload_completed">Envio concluído</string>
@@ -165,7 +165,7 @@
     <string name="quick_back">Voltar sem recarregar</string>
     <string name="open_with">Abrir com&#8230;</string>
     <string name="download_completed">Download concluído</string>
-    <string name="toast_fullscreen_off">Sair do modo tela cheia</string>
+    <string name="toast_fullscreen_off">Saiu do modo tela cheia</string>
     <string name="clear_data">Limpar dados</string>
     <string name="data_cache">Cache</string>
     <string name="data_form_data">Dados de formulário</string>
@@ -184,13 +184,13 @@
     <string name="skin_fruity">Frutado</string>
     <string name="skin_transparent">Transparente</string>
     <string name="block_popup">Bloquear pop-ups</string>
-    <string name="action_save_web_page">Salvar página</string>
+    <string name="action_save_web_page">Salvar página da web</string>
     <string name="action_saved_pages">Páginas salvas</string>
     <string name="saved_page_successfully">A página da web foi salva em: Favoritos > Páginas salvas.</string>
     <string name="deleted_failed">Falha ao excluir. O arquivo está localizado no caminho do download: </string>
     <string name="empty_hint">Vazio</string>
     <string name="network_log">Log de rede</string>
-    <string name="conn_timeout">A conexão expirou</string>
+    <string name="conn_timeout">Tempo limite de conexão</string>
     <string name="already_default">Já foi definido como padrão</string>
     <string name="set_to_default">Será definido como padrão após a abertura do link %1$s, Por favor, escolha o Via para abrir o link.</string>
     <string name="sync_prompt">Seus favoritos e configurações locais atuais serão substituídos. Continuar?</string>
@@ -205,7 +205,7 @@
     <string name="restore_tabs">Restaurar abas na inicialização</string>
     <string name="install_success">Instalação concluída!</string>
     <string name="uninstall_success">Desinstalação concluída!</string>
-    <string name="log_page_hinat">A lista de bloqueados está em %1$s.\nVocê pode editar a lista ou manter pressionado um item a seguir para ativar/desativar seu bloqueio.</string>
+    <string name="log_page_hint">A lista de bloqueados está em %1$s.\nVocê pode editar a lista ou manter pressionado um item a segui para ativar/desativar seu bloqueio.</string>
     <string name="fullscreen_1">Role para ocultar/mostrar</string>
     <string name="fullscreen_2">Toque para ocultar/mostrar</string>
     <string name="settings_script">Scripts</string>
@@ -239,10 +239,10 @@
     <string name="import_or_export_bookmarks">Importar/exportar favoritos</string>
     <string name="export_bookmarks">Exportar favoritos</string>
     <string name="pull_to_refresh_gesture">Gesto de puxar para atualizar</string>
-    <string name="back_forward_gesture">Gesto de voltar/avançar</string>
+    <string name="back_forward_gesture">Gesto de voltar/avançar na tela</string>
     <string name="toolbar_settings_hint">Toque ou mantenha pressionado um botão abaixo para definir sua ação. Você também pode deslizar a barra de ferramentas para definir a ação.</string>
     <string name="action_modify">Modificar</string>
-    <string name="operation_hint">Gestos, atalhos, função dos botões</string>
+    <string name="operation_hint">Gestos, atalhos, funções dos botões</string>
     <string name="adblock_info">Ativado: %1$d anúncios bloqueados, %2$s economizados</string>
     <string name="disable">Desativado</string>
     <string name="ui_traditional">Padrão</string>
@@ -258,8 +258,8 @@
     <string name="action_downloads">Downloads</string>
     <string name="empty_username_info">Por favor, insira seu nome de usuário</string>
     <string name="empty_password_info">Por favor, insira sua senha</string>
-    <string name="offline_page_hint">Estas são páginas da web salvas. Você pode abri-las mesmo quando você estiver offline.</string>
-    <string name="history_page_hint_when_incognito">O histórico não será salvo quando você estiver no \"Modo anônimo\".</string>
+    <string name="offline_page_hint">Estas são páginas da web salvas. Você pode vê-las mesmo quando você estiver offline.</string>
+    <string name="history_page_hint_when_incognito">O histórico não será salvo enquanto você estiver no \"Modo anônimo\".</string>
     <string name="action_preview">Prévia</string>
     <string name="action_page_info">Informações da página</string>
     <string name="page_info_title">Título:</string>
@@ -284,7 +284,7 @@
     <string name="disable_restore">Não restaurar</string>
     <string name="data_file">Exportação de dados</string>
     <string name="bookmarks_data_to_long">Os dados dos favoritos são muito grandes para enviar, mas outros dados serão enviados normalmente. Continuar?</string>
-    <string name="restore_tabs_hint_settings">As abas não serão restauradas quando você estiver no \"Modo anônimo\".</string>
+    <string name="restore_tabs_hint_settings">As abas não serão restauradas enquanto você estiver no \"Modo anônimo\".</string>
     <string name="ignore_secondary_ssl_error">Ignorar erro SSL secundário</string>
     <string name="web_page_debug">Ativar depuração de página da web</string>
     <string name="web_page_debug_info">Agora você pode conectar seu telefone ao computador e depurar a página da web com o Chrome (PC) usando \"chrome://inspect\". Lembre-se de primeiro ativar a Depuração USB no menu: Mais ferramentas > Ferramentas do desenvolvedor.</string>
@@ -305,7 +305,7 @@
     <string name="cloud_data_server">Servidor de dados em nuvem</string>
     <string name="chinese_server">Chinês</string>
     <string name="global_server">Global</string>
-    <string name="server_message">Os dados desses servidores não são sincronizados. Você será solicitado a entrar novamente.</string>
+    <string name="server_message">Os dados desses servidores não são sincronizados. Será necessário entrar novamente.</string>
     <string name="delete_bookmark_folder_message">Os favoritos na pasta %1$s também serão excluídos. Você tem certeza?</string>
     <string name="action_new">Novo(a)</string>
     <string name="block_hint">Bloqueado: %1$s\nAtualize para ter efeito.</string>
@@ -357,15 +357,15 @@
     <string name="privacy_policy">Política de privacidade</string>
     <string name="terms_of_use">Termos de uso</string>
     <string name="welcome">Boas-vindas</string>
-    <string name="agreement_message">Bem-vindo ao Via. Por favor, leia o seguinte acordo cuidadosamente antes de utilizar o Via. Você precisa concordar e aceitar todos os termos e condições antes de começar a usar nosso serviço.</string>
+    <string name="agreement_message">Bem-vindo(a) ao Via. Por favor, leia atentamente o seguinte contrato antes de utilizar o Via. Você precisa concordar e aceitar todos os termos e condições antes de começar a usar nosso serviço.</string>
     <string name="agreement_message_short">Você precisa concordar e aceitar todos os termos antes de começar a usar nosso serviço.</string>
     <string name="agree_and_continue">Concordar e continuar</string>
     <string name="disagree">Discordar</string>
     <string name="exit">Sair</string>
     <string name="delete_account">Excluir conta</string>
-    <string name="delete_account_request_submitted">A solitação de exclusão da conta foi enviado</string>
+    <string name="delete_account_request_submitted">A solitação de exclusão da conta foi enviada</string>
     <string name="delete_account_hint">Excluir a conta do servidor</string>
-    <string name="delete_account_message">Após enviar a solicitação de exclusão, a conta será desconectada e entrará em um período de espera para exclusão de 15 dias. Se você entrar na conta novamente e enviar os dados durante o período de espera, sua solitação de exclusão será retirada. Após o período de espera expirar, a conta e os dados relacionados serão excluídos completamente do servidor.\nPor favor, digite sua senha para enviar a solicitação.</string>
+    <string name="delete_account_message">Após enviar a solicitação de exclusão, a conta será desconectada e entrará em um período de espera de 15 dias para exclusão. Se você entrar na conta novamente e enviar os dados durante o período de espera, sua solicitação de exclusão será retirada. Após o período de espera expirar, a conta e os dados relacionados serão completamente excluídos do servidor.\nPor favor, digite sua senha para enviar a solicitação.</string>
     <string name="confirm_to_delete">Confirme para excluir</string>
     <string name="items_selected">%1d selecionado(s)</string>
     <string name="select_all">Selecionar tudo</string>
@@ -407,7 +407,7 @@
     <string name="can_not_sort_list_when_sorting_alphabetically">Não é possível ordenar a lista ao classificar em ordem alfabética</string>
     <string name="opened_in_background_message">Nova aba aberta em segundo plano</string>
     <string name="bookmark_added">Favorito adicionado</string>
-    <string name="allow_website_to_open_app_message">Permitir que o site abra %1$s?</string>
+    <string name="allow_website_to_open_app_message">Permitir que o site abra o(a) %1$s?</string>
     <string name="width">Largura</string>
     <string name="height">Altura</string>
     <string name="corner_radius">Raio do canto</string>
@@ -424,7 +424,7 @@
     <string name="italics">Itálico</string>
     <string name="clear_website_icon_cache">Limpar os ícones de sites em cache</string>
     <string name="clear_website_icon_cache_message">Note que isto irá limpar todos os ícones favoritos na página inicial. Cada ícone será baixado na próxima vez que você visitar o site correspondente.</string>
-    <string name="use_blur_instead_of_transparency">Usar efeito de desfoque em vez de transparência</string>
+    <string name="use_blur_instead_of_transparency">Usar efeito de desfoque ao invés de transparência</string>
     <string name="desc_favorite_icon">Ícone de um favorito</string>
     <string name="script_remarks">Observações</string>
     <string name="action_save">Salvar</string>
@@ -444,7 +444,7 @@
     <string name="latest_version_already_installed">Última versão já instalada</string>
     <string name="new_version_available">Nova versão disponível</string>
     <string name="action_download_file">Baixar</string>
-    <string name="entered_full_screen_mode">Entrou em modo tela cheia</string>
+    <string name="entered_full_screen_mode">Entrou no modo tela cheia</string>
     <string name="delete_hint">Excluir (%1$d)</string>
     <string name="follow_system_dark_mode_on">Seguir o modo escuro do sistema está ativado</string>
     <string name="scoped_search">Pesquisar %1$s</string>
@@ -481,7 +481,7 @@
         <br />
     ]]></string>
     <string name="no_certificate">O site não possui um certificado.</string>
-    <string name="site_conf_enabled">Configurações do site (ativado)</string>
+    <string name="site_conf_enabled">Configurações do site (ativada)</string>
     <string name="do_not_sell_or_share">Não vender ou compartilhar dados</string>
     <string name="do_not_sell_or_share_description">Solicitar o site para não vender ou compartilhar meus dados para proteger a privacidade (experimental)</string>
     <string name="email_me">Envie-me um e-mail</string>
@@ -540,7 +540,7 @@
     <string name="login_username">Nome de usuário (a conta será criada se não existir)</string>
     <string name="read_and_agree">Por favor, leia e concorde com %1$s e %2$s</string>
     <string name="wechat_official_account">Conta oficial do WeChat </string>
-    <string name="notification_channel_downloads">Download de conteúdo</string>
+    <string name="notification_channel_downloads">Download de conteúdos</string>
     <string name="notification_channel_foreground">Notificações em primeiro plano</string>
     <string name="download_progress">%1$s/%2$s</string>
     <string name="download_progress_indeterminate">%1$s</string>
