@@ -30,7 +30,7 @@
     <string name="orientation_landscape">Paisagem</string>
     <string name="agent">Agente de usuário</string>
     <string name="home">Página inicial</string>
-    <string name="fullscreen">Ocultar as barras automaticamente</string>
+    <string name="fullscreen">Ocultar barras automaticamente</string>
     <string name="java">Ativar JavaScript</string>
     <string name="download">Local de download</string>
     <string name="size">Tamanho do texto</string>
@@ -70,7 +70,7 @@
     <string name="haosou_url">Haosou</string>
     <string name="duckduckgo_url">DuckDuckGo</string>
     <string name="startpage_url">StartPage</string>
-    <string name="yahoo_url">Yahoo</string>
+    <string name="yahoo_url">Yahoo!</string>
     <string name="yandex_url">Yandex</string>
     <string name="google_url">Google</string>
     <string name="sougou_url">Sogou</string>
@@ -103,10 +103,10 @@
     <string name="wait_a_moment">Aguarde um momento&#8230;</string>
     <string name="toast_operation_failed">Operação falhou</string>
     <string name="toast_operation_done">Operação concluída</string>
-    <string name="volume">Usar os botões de volume para rolar</string>
+    <string name="volume">Use os botões de volume para rolar</string>
     <string name="msg_intent">Permitir que o site abra seu aplicativo?</string>
     <string name="setting_default">Definir como navegador padrão</string>
-    <string name="toast_clear_defaults">Limpe para as configurações padrão</string>
+    <string name="toast_clear_defaults">Por favor, limpe as configurações</string>
     <string name="toast_copy_url_successful">Link copiado com sucesso</string>
     <string name="toast_copy_text_successful">Texto copiado com sucesso</string>
     <string name="incognito_on">Modo anônimo ativado</string>
@@ -142,12 +142,12 @@
     <string name="action_mark">Marcar como anúncio</string>
     <string name="dialog_confirm_mark">Deseja marcar isto como anúncio?</string>
     <string name="do_not_track">Não rastrear</string>
-    <string name="add_rule">Adicionar regra</string>
+    <string name="add_rule">Adicionar filtro</string>
     <string name="color_mode">Modo cor</string>
     <string name="dialog_sure">Tem certeza de que deseja continuar?</string>
-    <string name="action_send_to_launcher">Enviar para o launcher</string>
+    <string name="action_send_to_launcher">Enviar para a tela inicial</string>
     <string name="settings_cloud">Conta</string>
-    <string name="user">Entrar/Registrar-se</string>
+    <string name="user">Entrar/Cadastrar-se</string>
     <string name="user_syns">Sincronizar</string>
     <string name="user_update">Enviar</string>
     <string name="wrong_psw">Senha incorreta</string>
@@ -159,7 +159,7 @@
     <string name="crash_info">Ocorreu algum erro. :(</string>
     <string name="crash_restart">Reiniciar</string>
     <string name="crash_close">Fechar</string>
-    <string name="upload_completed">Envio concluído</string>
+    <string name="upload_completed">Envio completo</string>
     <string name="ui_mode">Posição da barra de ferramentas</string>
     <string name="addon_download">Gerenciador de download</string>
     <string name="quick_back">Voltar sem recarregar</string>
@@ -184,28 +184,28 @@
     <string name="skin_fruity">Frutado</string>
     <string name="skin_transparent">Transparente</string>
     <string name="block_popup">Bloquear pop-ups</string>
-    <string name="action_save_web_page">Salvar página da web</string>
+    <string name="action_save_web_page">Salvar página</string>
     <string name="action_saved_pages">Páginas salvas</string>
     <string name="saved_page_successfully">A página da web foi salva em: Favoritos > Páginas salvas.</string>
-    <string name="deleted_failed">Falha ao excluir. O arquivo está localizado no caminho do download: </string>
+    <string name="deleted_failed">Falha ao excluir. O arquivo está localizado no caminho de download: </string>
     <string name="empty_hint">Vazio</string>
     <string name="network_log">Log de rede</string>
-    <string name="conn_timeout">Tempo limite de conexão</string>
+    <string name="conn_timeout">A conexão expirou</string>
     <string name="already_default">Já foi definido como padrão</string>
-    <string name="set_to_default">Será definido como padrão após a abertura do link %1$s, Por favor, escolha o Via para abrir o link.</string>
-    <string name="sync_prompt">Seus favoritos e configurações locais atuais serão substituídos. Continuar?</string>
-    <string name="upload_prompt">Seus favoritos e configurações locais atuais serão enviados. Continuar?</string>
+    <string name="set_to_default">Será definido como padrão depois de abrir o link %1$s, Por favor, escolha o Via para abrir o link.</string>
+    <string name="sync_prompt">Seus favoritos e configurações atuais serão substituídos. Continuar?</string>
+    <string name="upload_prompt">Seus favoritos e configurações atuais serão enviados. Continuar?</string>
     <string name="none">Nenhum</string>
     <string name="check_permission">Permissão negada. Gostaria de defini-la nas configurações agora?</string>
     <string name="need_permission_hint">O Via precisa das seguintes permissões para funcionar:\n\n</string>
     <string name="storage_permission">Armazenamento: para baixar arquivos do navegador e importar/exportar favoritos, etc.\n\n</string>
-    <string name="location_permission">Localização: para sites como o Google Maps, está desativado por padrão. Quando é ativado, um pop-up é exibido perguntando se o site pode usar sua localização.\n\n</string>
+    <string name="location_permission">Localização: para sites como o Google Maps, está desativado por padrão. Quando ativado, um pop-up é exibido perguntando se o site pode usar sua localização.\n\n</string>
     <string name="force_cancel">Forçar fechamento</string>
     <string name="restore_tabs_hint">Deseja restaurar as abas não fechadas da última sessão?</string>
     <string name="restore_tabs">Restaurar abas na inicialização</string>
     <string name="install_success">Instalação concluída!</string>
     <string name="uninstall_success">Desinstalação concluída!</string>
-    <string name="log_page_hint">A lista de bloqueados está em %1$s.\nVocê pode editar a lista ou manter pressionado um item a segui para ativar/desativar seu bloqueio.</string>
+    <string name="log_page_hint">A lista de bloqueados está em %1$s.\nVocê pode editar a lista ou manter pressionado um itens a seguir para ativar/desativar seu bloqueio.</string>
     <string name="fullscreen_1">Role para ocultar/mostrar</string>
     <string name="fullscreen_2">Toque para ocultar/mostrar</string>
     <string name="settings_script">Scripts</string>
@@ -240,26 +240,26 @@
     <string name="export_bookmarks">Exportar favoritos</string>
     <string name="pull_to_refresh_gesture">Gesto de puxar para atualizar</string>
     <string name="back_forward_gesture">Gesto de voltar/avançar na tela</string>
-    <string name="toolbar_settings_hint">Toque ou mantenha pressionado um botão abaixo para definir sua ação. Você também pode deslizar a barra de ferramentas para definir a ação.</string>
+    <string name="toolbar_settings_hint">Pressione um botão selecionando abaixo para definir sua ação ou mantenha-o pressionado para verificar qual ação foi definia. Você também pode deslizar a barra de ferramentas para definir a ação.</string>
     <string name="action_modify">Modificar</string>
     <string name="operation_hint">Gestos, atalhos, funções dos botões</string>
     <string name="adblock_info">Ativado: %1$d anúncios bloqueados, %2$s economizados</string>
     <string name="disable">Desativado</string>
     <string name="ui_traditional">Padrão</string>
-    <string name="color_mode_hint">Ajustar automaticamente a cor das barras ao navegar na web</string>
+    <string name="color_mode_hint">Ajuste automaticamente a cor das barras ao navegar na web</string>
     <string name="skin_hide_search_part">Ocultar parte da pesquisa</string>
     <string name="file_size">Tamanho do arquivo: %1$s</string>
     <string name="search_by_image">Pesquisar por imagem</string>
-    <string name="resource_sniffer">Botão de recursos</string>
-    <string name="res_log_hint">Toque em um item para visualizar ou mantenha pressionado para baixar ou fazer outra coisa.</string>
+    <string name="resource_sniffer">Detector de recursos</string>
+    <string name="res_log_hint">A seguir é o log de recursos na página carregada.</string>
     <string name="no_resource">A página não possui recursos.</string>
     <string name="no_network_log">A página não possui log de rede.</string>
-    <string name="resource_sniffer_hint">\nÉ mais fácil detectar arquivos de mídia enquanto a música ou o vídeo está sendo reproduzido. O botão de recursos não funciona em certos sites.</string>
+    <string name="resource_sniffer_hint">\nÉ mais fácil detectar arquivos de mídia enquanto a música ou o vídeo está sendo reproduzido. O detector de recursos não funciona em certos sites.</string>
     <string name="action_downloads">Downloads</string>
     <string name="empty_username_info">Por favor, insira seu nome de usuário</string>
     <string name="empty_password_info">Por favor, insira sua senha</string>
     <string name="offline_page_hint">Estas são páginas da web salvas. Você pode vê-las mesmo quando você estiver offline.</string>
-    <string name="history_page_hint_when_incognito">O histórico não será salvo enquanto você estiver no \"Modo anônimo\".</string>
+    <string name="history_page_hint_when_incognito">O histórico não será salvo quando você estiver no \"Modo anônimo\".</string>
     <string name="action_preview">Prévia</string>
     <string name="action_page_info">Informações da página</string>
     <string name="page_info_title">Título:</string>
@@ -284,15 +284,15 @@
     <string name="disable_restore">Não restaurar</string>
     <string name="data_file">Exportação de dados</string>
     <string name="bookmarks_data_to_long">Os dados dos favoritos são muito grandes para enviar, mas outros dados serão enviados normalmente. Continuar?</string>
-    <string name="restore_tabs_hint_settings">As abas não serão restauradas enquanto você estiver no \"Modo anônimo\".</string>
+    <string name="restore_tabs_hint_settings">As abas não serão restauradas quando você estiver no \"Modo anônimo\".</string>
     <string name="ignore_secondary_ssl_error">Ignorar erro SSL secundário</string>
     <string name="web_page_debug">Ativar depuração de página da web</string>
     <string name="web_page_debug_info">Agora você pode conectar seu telefone ao computador e depurar a página da web com o Chrome (PC) usando \"chrome://inspect\". Lembre-se de primeiro ativar a Depuração USB no menu: Mais ferramentas > Ferramentas do desenvolvedor.</string>
-    <string name="no_download_tasks">Nenhum download</string>
-    <string name="action_re_download">Refazer download</string>
-    <string name="action_copy_download_link">Copiar link de download</string>
+    <string name="no_download_tasks">Vazio</string>
+    <string name="action_re_download">Baixar novamente</string>
+    <string name="action_copy_download_link">Copiar link do download</string>
     <string name="download_failed">Download falhou</string>
-    <string name="view_downloads">Visualizar</string>
+    <string name="view_downloads">Vizualizar</string>
     <string name="message_delete_downloading_task">O arquivo baixado também será excluído. Você tem certeza?</string>
     <string name="message_delete_downloaded_task">Deseja excluir este download?</string>
     <string name="message_delete_downloaded_file">Incluindo o arquivo baixado</string>
@@ -300,8 +300,8 @@
     <string name="allow_popup">Permitir uma vez</string>
     <string name="system_download_manager">Gerenciador do sistema</string>
     <string name="action_play_with">Reproduzir com&#8230;</string>
-    <string name="show_sniffer_btn_automatically">Mostrar botão de recursos automaticamente</string>
-    <string name="open_file_failed">Não foi possível encontrar o aplicativo associado para abrir o arquivo</string>
+    <string name="show_sniffer_btn_automatically">Mostrar botão do detector automaticamente</string>
+    <string name="open_file_failed">Não foi possível encontrar o app associado para abrir o arquivo</string>
     <string name="cloud_data_server">Servidor de dados em nuvem</string>
     <string name="chinese_server">Chinês</string>
     <string name="global_server">Global</string>
@@ -350,7 +350,7 @@
     <string name="updated_">atualizado(s) %1$s</string>
     <string name="filter_subscription_info">%1$s, %2$s</string>
     <string name="enable_built_in_filters">Ativar filtros integrados</string>
-    <string name="enable_built_in_filters_description">Filtros integrados bloqueiam apenas anúncios comuns</string>
+    <string name="enable_built_in_filters_description">Filtros integrados só bloqueiam anúncios comuns</string>
     <string name="update">Atualizar</string>
     <string name="bookmarks_exported_successfully">Favoritos exportados com sucesso</string>
     <string name="data_exported_successfully">Dados exportados com sucesso</string>
@@ -365,7 +365,7 @@
     <string name="delete_account">Excluir conta</string>
     <string name="delete_account_request_submitted">A solitação de exclusão da conta foi enviada</string>
     <string name="delete_account_hint">Excluir a conta do servidor</string>
-    <string name="delete_account_message">Após enviar a solicitação de exclusão, a conta será desconectada e entrará em um período de espera de 15 dias para exclusão. Se você entrar na conta novamente e enviar os dados durante o período de espera, sua solicitação de exclusão será retirada. Após o período de espera expirar, a conta e os dados relacionados serão completamente excluídos do servidor.\nPor favor, digite sua senha para enviar a solicitação.</string>
+    <string name="delete_account_message">Após enviar a solicitação de exclusão, a conta será desconectada e entrará em um período de espera de exclusão de 15 dias. Se você entrar na conta novamente e enviar os dados durante o período de espera, sua solicitação de exclusão será retirada. Após o período de espera expirar, a conta e os dados relacionados serão completamente excluídos do servidor.\nPor favor, digite sua senha para enviar a solicitação.</string>
     <string name="confirm_to_delete">Confirme para excluir</string>
     <string name="items_selected">%1d selecionado(s)</string>
     <string name="select_all">Selecionar tudo</string>
@@ -385,12 +385,12 @@
     <string name="paste_and_go">Colar e ir</string>
     <string name="night_filter_for_web_contents">Filtro noturno para conteúdo da web</string>
     <string name="force_dark_mode_for_web_contents">Forçar modo escuro para conteúdo da web</string>
-    <string name="force_dark_mode_for_web_contents_description">Quando ativado, as páginas da web serão forçadas a escurecer, o que pode fazer com que algumas páginas se comportem de forma anormal.</string>
-    <string name="require_javascript_enabled">Isto terá efeito se o JavaScript estiver ativado.</string>
+    <string name="force_dark_mode_for_web_contents_description">Quando ativado, páginas da web serão forçadas a escurecer, o que pode fazer algumas páginas se comportarem de forma anormal.</string>
+    <string name="require_javascript_enabled">Isso terá efeito se o JavaScript estiver ativado.</string>
     <string name="keyboard_shortcuts">Atalhos de teclado</string>
     <string name="export_data_description">Exportar favoritos, configurações, scripts e filtros de anúncios</string>
     <string name="language">Idioma</string>
-    <string name="restart_to_take_effect">Isto terá efeito na próxima vez que você abrir o aplicativo. Gostaria de reiniciá-lo agora?</string>
+    <string name="restart_to_take_effect">Isso terá efeito na próxima vez que você abrir o app. Gostaria de reiniciá-lo agora?</string>
     <string name="more">Mais</string>
     <string name="sort_order">Ordenar por</string>
     <string name="sort_by_oldest_first">Mais antigos</string>
@@ -410,7 +410,7 @@
     <string name="allow_website_to_open_app_message">Permitir que o site abra o(a) %1$s?</string>
     <string name="width">Largura</string>
     <string name="height">Altura</string>
-    <string name="corner_radius">Raio do canto</string>
+    <string name="corner_radius">Raio de canto</string>
     <string name="adaptive">Adaptativo</string>
     <string name="action_favorites">Favoritos</string>
     <string name="skin_search_bar">Barra de pesquisa</string>
@@ -423,20 +423,20 @@
     <string name="bold">Negrito</string>
     <string name="italics">Itálico</string>
     <string name="clear_website_icon_cache">Limpar os ícones de sites em cache</string>
-    <string name="clear_website_icon_cache_message">Note que isto irá limpar todos os ícones favoritos na página inicial. Cada ícone será baixado na próxima vez que você visitar o site correspondente.</string>
-    <string name="use_blur_instead_of_transparency">Usar efeito de desfoque ao invés de transparência</string>
+    <string name="clear_website_icon_cache_message">Note que isto irá limpar todos os ícones de favoritos na página inicial. Cada ícone será baixado na próxima vez que você visitar o site correspondente.</string>
+    <string name="use_blur_instead_of_transparency">Use o efeito de desfoque em vez de transparência</string>
     <string name="desc_favorite_icon">Ícone de um favorito</string>
     <string name="script_remarks">Observações</string>
     <string name="action_save">Salvar</string>
     <string name="reset_to_default_settings">Redefinir para as configurações padrão</string>
-    <string name="script_sites">Sites (como *.foo.com,bar.*/list)</string>
+    <string name="script_sites">Sites (como *.foo.com,bar.*/lista)</string>
     <string name="simple_guide_of_writing_script">O script escrito terá efeito automaticamente quando o site for carregado.
-    \n\nSites (obrigatório): O site com script suporta o curinga \"*\" e vários sites são separados por \",\", por exemplo: *.foo.com,bar.*/list.
+    \n\nSites (obrigatório): O site com script suporta o curinga \"*\" e vários sites são separados por \",\", por exemplo: *.foo.com,bar.*/lista.
     \n\nObservações (opcional): Usado como o título do script.
     \n\nCódigo (obrigatório): Recomenda-se usar JavaScript nativo. Você também pode usar a sintaxe jquery ou vue.js se o site usar esses frameworks.</string>
     <string name="save_data">Economizar dados</string>
-    <string name="save_data_description">Ativar o modo de economia de dados em sites compatíveis</string>
-    <string name="use_line_style_search_box">Usar a caixa de pesquisa em estilo linha</string>
+    <string name="save_data_description">Ative o modo de economia de dados em sites compatíveis</string>
+    <string name="use_line_style_search_box">Use a caixa de pesquisa em estilo linha</string>
     <string name="toast_script_added">Script adicionado com sucesso</string>
     <string name="action_manage_favorites">Gerenciar favoritos</string>
     <string name="check_for_updates">Verificar por atualizações</string>
@@ -481,9 +481,9 @@
         <br />
     ]]></string>
     <string name="no_certificate">O site não possui um certificado.</string>
-    <string name="site_conf_enabled">Configurações do site (ativada)</string>
+    <string name="site_conf_enabled">Configurações do site (ativado)</string>
     <string name="do_not_sell_or_share">Não vender ou compartilhar dados</string>
-    <string name="do_not_sell_or_share_description">Solicitar o site para não vender ou compartilhar meus dados para proteger a privacidade (experimental)</string>
+    <string name="do_not_sell_or_share_description">Solicite que o site não venda ou compartilhe meus dados para proteger a privacidade (experimental)</string>
     <string name="email_me">Envie-me um e-mail</string>
     <string name="scan_qr_code">Ler QR code</string>
     <string name="scan_qr_code_from_image">Ler QR code da imagem</string>
@@ -494,9 +494,9 @@
     <string name="description_with_number">%1$s (%2$d)</string>
     <string name="last_hour">Última hora</string>
     <string name="today_and_yesterday">Hoje e ontem</string>
-    <string name="last_seven_days">Últimos 7 dias</string>
-    <string name="all_time">Desde o início</string>
-    <string name="delete_history_from">Limpar histórico</string>
+    <string name="last_seven_days">Última semana</string>
+    <string name="all_time">Todo o período</string>
+    <string name="delete_history_from">Excluir histórico de(a)</string>
     <string name="save_as_pdf">Salvar como PDF</string>
     <string name="export">Exportar</string>
     <string name="export_successfully">Exportado com sucesso</string>
@@ -537,8 +537,8 @@
     <string name="install_script_message">Tem certeza de que deseja instalar o script \"%1$s\"?</string>
     <string name="processing_blob_data">Processando dados de blob…</string>
     <string name="tineye_url">TinEye</string>
-    <string name="login_username">Nome de usuário (a conta será criada se não existir)</string>
-    <string name="read_and_agree">Por favor, leia e concorde com %1$s e %2$s</string>
+    <string name="login_username">Nome de usuário (será criado se não existir)</string>
+    <string name="read_and_agree">Por favor, leia e concorde com os %1$s e %2$s</string>
     <string name="wechat_official_account">Conta oficial do WeChat </string>
     <string name="notification_channel_downloads">Download de conteúdos</string>
     <string name="notification_channel_foreground">Notificações em primeiro plano</string>
@@ -559,7 +559,7 @@
     <string name="download_error_file_io">Erro de E/S</string>
     <string name="download_error_network">Erro de rede</string>
     <string name="download_error_unknown">Erro desconhecido</string>
-    <string name="message_re_download">Tem certeza de que deseja excluir o arquivo e refazer o download %1$s?</string>
+    <string name="message_re_download">Tem certeza de que deseja excluir o arquivo e baixar novamente o(a) %1$s?</string>
     <string name="share_image">Compartilhar imagem</string>
     <string name="ssl_warning_insecure_connection_message">A conexão com %1$s não é segura:\n%2$s\nContinuar mesmo assim?</string>
     <string name="ssl_warning_dont_ask_again">Não pergunte novamente para esta sessão</string>
@@ -573,7 +573,7 @@
     <string name="navigation_up">Navegar para cima</string>
     <string name="hide_popup_window">Ocultar janela pop-up</string>
     <plurals name="open_tabs">
-        <item quantity="zero">0 aba</item>
+        <item quantity="zero">Sem abas</item>
         <item quantity="one">1 aba</item>
         <item quantity="other">%d abas</item>
     </plurals>
@@ -599,18 +599,86 @@
     </plurals>
     <string name="translation_engine_google">Google Tradutor</string>
     <string name="translation_engine_baidu">Baidu Tradutor</string>
-    <string name="ignore_site_message_for_a_minute">Ignore esta mensagem do site por um minuto</string>
+    <string name="ignore_site_message_for_a_minute">Ignore esta mensagem do site por 1 minuto</string>
     <string name="download_status_waiting_for_network">Aguardando rede</string>
     <string name="download_failed_with_message">Download falhou: %1$s</string>
     <string name="remove_identifying_headers">Remover cabeçalhos de identificação</string>
     <string name="remove_identifying_headers_description">Quando ativado, os cabeçalhos X-Requested-With e X-Wap-Profile estarão vazios, o que pode fazer com que algumas páginas se comportem de forma anormal</string>
     <string name="agent_windows_chrome">Windows (Chrome)</string>
     <string name="agent_windows_ie11">Windows (IE 11)</string>
-    <string name="agent_android_phone">Android (Celular)</string>
+    <string name="agent_android_phone">Android (Telefone)</string>
     <string name="agent_android_tablet">Android (Tablet)</string>
     <string name="agent_ipad">iPad</string>
     <string name="agent_osx">macOS</string>
     <string name="toutiao_url">Toutiao</string>
     <string name="title_can_not_be_empty">O titulo não pode estar vazio</string>
     <string name="user_agent_can_not_be_empty">O agente de usuário não pode estar vazio</string>
+    <string name="download_filter_all">Todos</string>
+    <string name="download_filter_others">Outros</string>
+    <string name="download_filter_documents">Documentos</string>
+    <string name="download_filter_images">Imagens</string>
+    <string name="download_filter_video">Vídeo</string>
+    <string name="download_filter_apk">APK</string>
+    <string name="download_filter_audio">Áudio</string>
+    <string name="download_filter_archives">Arquivos</string>
+    <string name="simple_guide_of_writing_userscript"><![CDATA[
+        <b>Bloco de metadados</b><br />
+        Os metadados devem seguir o formato:<br />
+        <tt>
+        // ==UserScript==<br />
+        // @key valor<br />
+        // ==/UserScript==
+        </tt>
+        <br /><br />
+        <b><tt>@name</tt></b>: O nome do userscript.
+        <br /><br />
+        <b><tt>@namespace</tt></b>: A combinação de <tt>@namespace</tt> e <tt>@name</tt> é o identificador único de um userscript.
+        <br /><br />
+        <b><tt>@match/@exclude-match</tt></b>: Define regras para decidir se um script deve ser executado. Recomenda-se usar <tt>@match</tt> em vez de <tt>@include</tt>.
+        <br /><br />
+        <b><tt>@include/@exclude</tt></b>: A maneira antiga de decidir se um script deve ser executado.
+        <br /><br />
+        <b><tt>@version</tt></b>: A versão do userscript.
+        <br /><br />
+        <b><tt>@description</tt></b>: A descrição do userscript.
+        <br /><br />
+        <b><tt>@author</tt></b>: O autor(a) do userscript.
+        <br /><br />
+        <b><tt>@require</tt></b>: O requisito do userscript. Por exemplo, <br /><tt>// @require https://my.cdn.com/jquery.js</tt>.
+        <br /><br />
+        <b><tt>@run-at</tt></b>: Decide quando o script será executado. <tt>document-start</tt> é usado para injetar scripts antes que a página carrege, o <tt>document-end</tt> é usado para injetar scripts após a página carregar.
+        <br /><br />
+        <b><tt>@grant</tt></b>: Específica quais APIs GM_* especiais devem ser concedidas e podem ser usadas quando o script é executado.<br />
+        <br /><br />
+        <b><tt>@downloadURL</tt></b>: A URL que o script pode ser baixado.
+        <br /><br />
+        <b><tt>@supportURL</tt></b>: A URL de suporte do script.
+        <br /><br />
+        <b><tt>@homepageURL</tt></b>: A URL da página inicial do script.
+        <br /><br />
+        <b>APIs GM_*</b><br />
+        <tt>GM_*</tt> são um grupo de APIs especiais fornecidas pelo Via. APIs especiais atualmente suportadas incluem: <br/>
+        <tt>GM_getValue/GM_setValue/GM_deleteValue/GM_listValues/GM_getResourceText/GM_getResourceURL/GM_addElement/GM_addStyle/GM_setClipboard/GM_xmlhttpRequest/GM_download</tt>.
+        <br /><br />
+        <b>Correspondência</b><br />
+        <tt>@match</tt> define uma regra de correspondência de URL. <tt>@exclude-match</tt> define uma regra de correspondência, mas é usado para excluir as URLs correspondentes, similar ao <tt>@exclude</tt>.
+        <br /><br />
+        Por exemplo:<br />
+        <tt>
+        // @match https://www.google.com/algo <br />
+        // @match https://www.google.com/algo/* <br />
+        // @exclude-match https://www.google.com/algo/eu_não
+        </tt>
+        <br /><br />
+    ]]></string>
+    <string name="toast_install_script_successfully">\"%1$s\" instalado com sucesso!</string>
+    <string name="toast_install_script_failed_unknown">Falha ao instalar \"%1$s\"!</string>
+    <string name="toast_install_script_failed_dependency_error">Falha ao baixar dependências para \"%1$s\"!</string>
+    <string name="title_install_script">Instalar script</string>
+    <string name="message_install_script">Tem certeza de que deseja instalar \"%1$s\"(%2$s)?</string>
+    <string name="title_reinstall_script">Reinstalar script</string>
+    <string name="message_reinstall_script">Tem certeza de que deseja reinstalar \"%1$s\"(%2$s)?</string>
+    <string name="title_update_script">Atualizar script</string>
+    <string name="message_update_script">Tem certeza de que deseja atualizar \"%1$s\"(%2$s -> %3$s)?</string>
+    <string name="toast_parsing_script">Analisando script…</string>
 </resources>
