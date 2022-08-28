@@ -77,11 +77,11 @@
     <string name="sougou_url">搜狗</string>
     <string name="block_ads">广告拦截</string>
     <string name="message_untrusted_certificate">当前站点证书不被信任，是否继续？</string>
-    <string name="message_date_invalid_certificate">当前站点证书日期无效，是否继续?</string>
-    <string name="message_expired_certificate">当前站点证书已过期，是否继续?</string>
-    <string name="message_hostname_mismatch_certificate">当前站点证书与主机名不匹配，是否继续?</string>
-    <string name="message_invalid_certificate">当前站点证书无效，是否继续?</string>
-    <string name="message_not_yet_valid_certificate">当前站点证书还未生效，是否继续?</string>
+    <string name="message_date_invalid_certificate">当前站点证书日期无效，是否继续？</string>
+    <string name="message_expired_certificate">当前站点证书已过期，是否继续？</string>
+    <string name="message_hostname_mismatch_certificate">当前站点证书与主机名不匹配，是否继续？</string>
+    <string name="message_invalid_certificate">当前站点证书无效，是否继续？</string>
+    <string name="message_not_yet_valid_certificate">当前站点证书还未生效，是否继续？</string>
     <string name="title_form_resubmission">表单提交</string>
     <string name="message_form_resubmission">你确定发送数据吗？</string>
     <string name="message_location">\n想使用你的位置信息</string>
@@ -134,7 +134,7 @@
     <string name="action_source">源码</string>
     <string name="action_translate">翻译网页</string>
     <string name="title_edit_folder">编辑文件夹</string>
-    <string name="msg_delete_folder">你想要删除此文件夹吗?</string>
+    <string name="msg_delete_folder">你想要删除此文件夹吗？</string>
     <string name="desc_suggestion">建议</string>
     <string name="desc_home">主页</string>
     <string name="desc_tab">标签</string>
@@ -204,8 +204,8 @@
     <string name="force_cancel">强制取消</string>
     <string name="restore_tabs_hint">你想要恢复上次会话未关闭的标签页吗？</string>
     <string name="restore_tabs">启动时恢复未关闭标签</string>
-    <string name="install_success">安装成功!</string>
-    <string name="uninstall_success">卸载成功!</string>
+    <string name="install_success">安装成功！</string>
+    <string name="uninstall_success">卸载成功！</string>
     <string name="log_page_hint">所有拦截规则存储在 %1$s\n你可以手动编辑它来修改规则, 或长按下列任一条目来选择是否拦截。</string>
     <string name="fullscreen_1">滑动来显示/隐藏</string>
     <string name="fullscreen_2">点击来显示/隐藏</string>
@@ -276,15 +276,15 @@
     <string name="force_enable_zoom">强制缩放</string>
     <string name="set_ua_as">已设置当前浏览器标识为%1$s</string>
     <string name="import_data">导入数据</string>
-    <string name="import_data_failed">导入数据失败!</string>
-    <string name="import_data_succeed">导入数据成功!</string>
+    <string name="import_data_failed">导入数据失败！</string>
+    <string name="import_data_succeed">导入数据成功！</string>
     <string name="export_data">导出数据</string>
     <string name="export_data_to">导出数据到: %1$s</string>
     <string name="always_restore">总是恢复</string>
     <string name="ask_first">优先询问</string>
     <string name="disable_restore">禁用恢复</string>
     <string name="data_file">导出数据</string>
-    <string name="bookmarks_data_to_long">书签数据达到了服务器不能承受之重, 将不会上传, 但其他数据可以正常上传。继续上传吗?</string>
+    <string name="bookmarks_data_to_long">书签数据达到了服务器不能承受之重, 将不会上传, 但其他数据可以正常上传。继续上传吗？</string>
     <string name="restore_tabs_hint_settings">开启\"隐身模式\"时不会恢复未关闭标签。</string>
     <string name="ignore_secondary_ssl_error">忽略次要的 SSL 证书错误</string>
     <string name="web_page_debug">允许调试网页</string>
@@ -549,7 +549,7 @@
     <string name="download_failed_with_code">下载失败：%1$s (%2$d)</string>
     <string name="built_in_download_manager">内建下载器</string>
     <string name="cancel_all">取消全选</string>
-    <string name="message_delete_selected_download_tasks">你确认删除这些下载任务吗 (总共 %1$d 个任务)?</string>
+    <string name="message_delete_selected_download_tasks">你确认删除这些下载任务吗 (总共 %1$d 个任务)？</string>
     <string name="file_name">文件名</string>
     <string name="rename">重命名</string>
     <string name="download_error_file_io">I/O 错误</string>
@@ -659,9 +659,9 @@
         </tt>
         <br /><br />
     ]]></string>
-    <string name="toast_install_script_successfully">安装 \"%1$s\" 成功!</string>
-    <string name="toast_install_script_failed_unknown">安装 \"%1$s\" 失败!</string>
-    <string name="toast_install_script_failed_dependency_error">下载 \"%1$s\" 依赖失败!</string>
+    <string name="toast_install_script_successfully">安装 \"%1$s\" 成功！</string>
+    <string name="toast_install_script_failed_unknown">安装 \"%1$s\" 失败！</string>
+    <string name="toast_install_script_failed_dependency_error">下载 \"%1$s\" 依赖失败！</string>
     <string name="title_install_script">安装脚本</string>
     <string name="message_install_script">你确认安装 \"%1$s\"(%2$s) 吗？</string>
     <string name="title_reinstall_script">重新安装脚本</string>
