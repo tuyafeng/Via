@@ -205,7 +205,7 @@
     <string name="restore_tabs">Restaurar abas na inicialização</string>
     <string name="install_success">Instalação concluída!</string>
     <string name="uninstall_success">Desinstalação concluída!</string>
-    <string name="log_page_hint">A lista de bloqueados está em %1$s.\nVocê pode editar a lista ou manter pressionado um itens a seguir para ativar/desativar seu bloqueio.</string>
+    <string name="log_page_hint">A lista de bloqueados está em %1$s.\nVocê pode editar a lista ou manter pressionado um item a seguir para ativar/desativar seu bloqueio.</string>
     <string name="fullscreen_1">Role para ocultar/mostrar</string>
     <string name="fullscreen_2">Toque para ocultar/mostrar</string>
     <string name="settings_script">Scripts</string>
@@ -385,7 +385,7 @@
     <string name="paste_and_go">Colar e ir</string>
     <string name="night_filter_for_web_contents">Filtro noturno para conteúdo da web</string>
     <string name="force_dark_mode_for_web_contents">Forçar modo escuro para conteúdo da web</string>
-    <string name="force_dark_mode_for_web_contents_description">Quando ativado, páginas da web serão forçadas a escurecer, o que pode fazer algumas páginas se comportarem de forma anormal.</string>
+    <string name="force_dark_mode_for_web_contents_description">Quando ativado, as páginas da web serão forçadas a escurecer, o que pode fazer algumas páginas se comportarem de forma anormal.</string>
     <string name="require_javascript_enabled">Isso terá efeito se o JavaScript estiver ativado.</string>
     <string name="keyboard_shortcuts">Atalhos de teclado</string>
     <string name="export_data_description">Exportar favoritos, configurações, scripts e filtros de anúncios</string>
@@ -595,7 +595,7 @@
     <plurals name="secs_left">
         <item quantity="zero">0 segundo restante</item>
         <item quantity="one">1 segundo restante</item>
-        <item quantity="other">%d segundos restantes</item>
+        <item quantity="other">%d segundo restantes</item>
     </plurals>
     <string name="translation_engine_google">Google Tradutor</string>
     <string name="translation_engine_baidu">Baidu Tradutor</string>
