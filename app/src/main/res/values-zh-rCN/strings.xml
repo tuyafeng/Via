@@ -252,7 +252,7 @@
     <string name="file_size">文件大小: %1$s</string>
     <string name="search_by_image">以图搜图</string>
     <string name="resource_sniffer">资源嗅探</string>
-    <string name="res_log_hint">点击项目来预览, 长按项目来下载或进行其它操作。</string>
+    <string name="res_log_hint">下列是网页加载中的资源日志。</string>
     <string name="no_resource">这个页面没有资源。</string>
     <string name="no_network_log">这个页面没有网络日志。</string>
     <string name="resource_sniffer_hint">\n注: 音乐或视频在播放时更容易被获取。资源嗅探不支持部分网站。</string>
@@ -601,4 +601,72 @@
     <string name="toutiao_url">头条</string>
     <string name="title_can_not_be_empty">标题不能为空</string>
     <string name="user_agent_can_not_be_empty">浏览器标识不能为空</string>
+    <string name="download_filter_all">全部</string>
+    <string name="download_filter_others">其它</string>
+    <string name="download_filter_documents">文档</string>
+    <string name="download_filter_images">图片</string>
+    <string name="download_filter_video">视频</string>
+    <string name="download_filter_apk">安装包</string>
+    <string name="download_filter_audio">音频</string>
+    <string name="download_filter_archives">压缩包</string>
+    <string name="simple_guide_of_writing_userscript"><![CDATA[
+        <b>Metadata 块</b><br />
+        Metadata 必须使用如下格式:<br />
+        <tt>
+        // ==UserScript==<br />
+        // @key value<br />
+        // ==/UserScript==
+        </tt>
+        <br /><br />
+        <b><tt>@name</tt></b>: 脚本名称。
+        <br /><br />
+        <b><tt>@namespace</tt></b>: <tt>@namespace</tt> 和 <tt>@name</tt> 是脚本的唯一 ID。
+        <br /><br />
+        <b><tt>@match/@exclude-match</tt></b>: 定义了脚本的作用域。推荐使用 <tt>@match</tt> 而不是 <tt>@include</tt>。
+        <br /><br />
+        <b><tt>@include/@exclude</tt></b>: 旧版本中定义作用域的方式。
+        <br /><br />
+        <b><tt>@version</tt></b>: 脚本版本。
+        <br /><br />
+        <b><tt>@description</tt></b>: 脚本描述。
+        <br /><br />
+        <b><tt>@author</tt></b>: 脚本作者。
+        <br /><br />
+        <b><tt>@require</tt></b>: 脚本的前置依赖，例如： <br /><tt>// @require https://my.cdn.com/jquery.js</tt>。
+        <br /><br />
+        <b><tt>@run-at</tt></b>: 脚本的运行时机。 <tt>document-start</tt> 用于在页面加载前注入脚本， <tt>document-end</tt> 用于在页面加载完成后注入脚本。
+        <br /><br />
+        <b><tt>@grant</tt></b>: 定义脚本所使用和应被授权的特殊 GM_* API。<br />
+        <br /><br />
+        <b><tt>@downloadURL</tt></b>: 脚本的下载地址。
+        <br /><br />
+        <b><tt>@supportURL</tt></b>: 脚本的支持地址。
+        <br /><br />
+        <b><tt>@homepageURL</tt></b>: 脚本的主页。
+        <br /><br />
+        <b>GM_* API</b><br />
+        <tt>GM_*</tt> 是一组 Via 提供的特殊 API 集合。当前支持的特殊 API 包括：<br/>
+        <tt>GM_getValue/GM_setValue/GM_deleteValue/GM_listValues/GM_getResourceText/GM_getResourceURL/GM_addElement/GM_addStyle/GM_setClipboard/GM_xmlhttpRequest/GM_download</tt>.
+        <br /><br />
+        <b>匹配</b><br />
+        <tt>@match</tt> 定义了脚本生效的作用域。 <tt>@exclude-match</tt> 定义了脚本不应生效的作用域，类似 <tt>@exclude</tt>。
+        <br /><br />
+        例如:<br />
+        <tt>
+        // @match https://www.google.com/something <br />
+        // @match https://www.google.com/any/* <br />
+        // @exclude-match https://www.google.com/any/not_me
+        </tt>
+        <br /><br />
+    ]]></string>
+    <string name="toast_install_script_successfully">安装 \"%1$s\" 成功!</string>
+    <string name="toast_install_script_failed_unknown">安装 \"%1$s\" 失败!</string>
+    <string name="toast_install_script_failed_dependency_error">下载 \"%1$s\" 依赖失败!</string>
+    <string name="title_install_script">安装脚本</string>
+    <string name="message_install_script">你确认安装 \"%1$s\"(%2$s) 吗？</string>
+    <string name="title_reinstall_script">重新安装脚本</string>
+    <string name="message_reinstall_script">你确认重新安装 \"%1$s\"(%2$s) 吗？</string>
+    <string name="title_update_script">更新脚本</string>
+    <string name="message_update_script">你确认更新脚本 \"%1$s\"(%2$s -> %3$s) 吗？</string>
+    <string name="toast_parsing_script">解析脚本中…</string>
 </resources>
