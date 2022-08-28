@@ -595,7 +595,7 @@
     <plurals name="secs_left">
         <item quantity="zero">0 segundo restante</item>
         <item quantity="one">1 segundo restante</item>
-        <item quantity="other">%d segundo restantes</item>
+        <item quantity="other">%d segundos restantes</item>
     </plurals>
     <string name="translation_engine_google">Google Tradutor</string>
     <string name="translation_engine_baidu">Baidu Tradutor</string>
