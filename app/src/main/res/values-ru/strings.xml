@@ -674,6 +674,6 @@
     <string name="title_reinstall_script">Переустановить скрипт</string>
     <string name="message_reinstall_script">Переустановить \"%1$s\" (%2$s)?</string>
     <string name="title_update_script">Обновить скрипт</string>
-    <string name="message_update_script">Обновить \"%1$s\" (%2$s →%3$s)?</string>
+    <string name="message_update_script">Обновить \"%1$s\" (%2$s→%3$s)?</string>
     <string name="toast_parsing_script">Анализ скрипта…</string>
 </resources>
