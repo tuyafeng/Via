@@ -251,7 +251,7 @@
   <string name="file_size">Розмір файлу: %1$s</string>
   <string name="search_by_image">Пошук за зображенням</string>
   <string name="resource_sniffer">Аналіз ресурсів</string>
-  <string name="res_log_hint">Натисніть для перегляду, утримуйте для завантаження чи інших дій.</string>
+  <string name="res_log_hint">Нижче наведено журнал ресурсів під час завантаження сторінки.</string>
   <string name="no_resource">Ресурси відсутні</string>
   <string name="no_network_log">Мережевий журнал порожній</string>
   <string name="resource_sniffer_hint">\nАналіз ресурсів спрощується при відтворенні музики чи відео, але може не працювати на деяких сайтах.</string>
@@ -613,4 +613,72 @@
     <string name="toutiao_url">Toutiao</string>
     <string name="title_can_not_be_empty">Заголовок не може бути порожнім</string>
     <string name="user_agent_can_not_be_empty">Агент користувача не може бути порожнім</string>
+	<string name="download_filter_all">Всі</string>
+    <string name="download_filter_others">Інші</string>
+    <string name="download_filter_documents">Документи</string>
+    <string name="download_filter_images">Зображення</string>
+    <string name="download_filter_video">Відео</string>
+    <string name="download_filter_apk">APK</string>
+    <string name="download_filter_audio">Аудіо</string>
+    <string name="download_filter_archives">Архіви</string>
+    <string name="simple_guide_of_writing_userscript"><![CDATA[
+        <b>Блок метаданих</b><br />
+        Метадані мають відповідати формату:<br />
+        <tt>
+        // ==UserScript==<br />
+        // @key value<br />
+        // ==/UserScript==
+        </tt>
+        <br /><br />
+        <b><tt>@name</tt></b>: Ім'я  користувацького скрипту.
+        <br /><br />
+        <b><tt>@namespace</tt></b>: Поєднання <tt>@namespace</tt> та <tt>@name</tt> є унікальним ідентифікатором користувацького скрипту.
+        <br /><br />
+        <b><tt>@match/@exclude-match</tt></b>: Визначте правила, щоб вирішити, чи слід виконувати скрипт. Рекомендується до використання <tt>@match</tt> instead з <tt>@include</tt>.
+        <br /><br />
+        <b><tt>@include/@exclude</tt></b>: Старий спосіб вирішення, чи слід виконувати скрипт.
+        <br /><br />
+        <b><tt>@version</tt></b>: Версія користувацького скрипту.
+        <br /><br />
+        <b><tt>@description</tt></b>: Опис користувацького скрипту.
+        <br /><br />
+        <b><tt>@author</tt></b>: Автор користувацького скрипту.
+        <br /><br />
+        <b><tt>@require</tt></b>: Вимагається користувацький скрипт. Наприклад, <br /><tt>// @require https://my.cdn.com/jquery.js</tt>.
+        <br /><br />
+        <b><tt>@run-at</tt></b>: Вирішіть, коли буде виконано скрипт. <tt>document-start</tt> використовується для введення скриптів перед завантаженням сторінки, <tt>document-end</tt> використовується для введення скриптів після завантаження сторінки.
+        <br /><br />
+        <b><tt>@grant</tt></b>: Вкажіть, який спеціальний GM_* APIs має бути надано та може використовуватися під час виконання скрипту.<br />
+        <br /><br />
+        <b><tt>@downloadURL</tt></b>: URL-адреса, з якої можна завантажити скрипт.
+        <br /><br />
+        <b><tt>@supportURL</tt></b>: URL-адреса підтримки користувацького скрипту.
+        <br /><br />
+        <b><tt>@homepageURL</tt></b>: URL-адреса головної сторінки користувацького скрипту.
+        <br /><br />
+        <b>GM_* APIs</b><br />
+        <tt>GM_*</tt> це група спеціальних API, наданих Via. Наразі спеціальні API, що підтримуються включають: <br/>
+        <tt>GM_getValue/GM_setValue/GM_deleteValue/GM_listValues/GM_getResourceText/GM_getResourceURL/GM_addElement/GM_addStyle/GM_setClipboard/GM_xmlhttpRequest/GM_download</tt>.
+        <br /><br />
+        <b>Зіставлення</b><br />
+        <tt>@match</tt> визначає правило відповідності URL. <tt>@exclude-match</tt> визначає правило відповідності, але використовується для виключення відповідних URL-адрес, подібних до <tt>@exclude</tt>.
+        <br /><br />
+        Наприклад:<br />
+        <tt>
+        // @match https://www.google.com/something <br />
+        // @match https://www.google.com/any/* <br />
+        // @exclude-match https://www.google.com/any/not_me
+        </tt>
+        <br /><br />
+    ]]></string>
+    <string name="toast_install_script_successfully">\"%1$s\" успішно встановлено!</string>
+    <string name="toast_install_script_failed_unknown">\"%1$s\" не вдалося встановити!</string>
+    <string name="toast_install_script_failed_dependency_error">Завантаження \"%1$s\" залежності невдале!</string>
+    <string name="title_install_script">Встановити скрипт</string>
+    <string name="message_install_script">Ви впевнені, що хочете встановити \"%1$s\"(%2$s)?</string>
+    <string name="title_reinstall_script">Перевстановлення скрипту</string>
+    <string name="message_reinstall_script">Ви впевнені, що хочете перевстановити \"%1$s\"(%2$s)?</string>
+    <string name="title_update_script">Оновити скрипт</string>
+    <string name="message_update_script">Ви впевнені, що хочете оновити \"%1$s\"(%2$s -> %3$s)?</string>
+    <string name="toast_parsing_script">Розбір скрипту…</string>
 </resources>
