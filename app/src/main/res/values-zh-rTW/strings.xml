@@ -75,12 +75,12 @@
     <string name="google_url">Google</string>
     <string name="sougou_url">搜狗</string>
     <string name="block_ads">封鎖廣告</string>
-    <string name="message_untrusted_certificate">此網站的憑證不受信任，是否仍要繼續?</string>
-    <string name="message_date_invalid_certificate">此網站的憑證日期無效，是否仍要繼續?</string>
-    <string name="message_expired_certificate">此網站的憑證已過期，是否仍要繼續?</string>
-    <string name="message_hostname_mismatch_certificate">此網站的憑證與主機名稱不匹配，是否仍要繼續?</string>
-    <string name="message_invalid_certificate">此網站的憑證無效，是否仍要繼續?</string>
-    <string name="message_not_yet_valid_certificate">此網站的憑證未生效，是否仍要繼續?</string>
+    <string name="message_untrusted_certificate">此網站的憑證不受信任，是否仍要繼續？</string>
+    <string name="message_date_invalid_certificate">此網站的憑證日期無效，是否仍要繼續？</string>
+    <string name="message_expired_certificate">此網站的憑證已過期，是否仍要繼續？</string>
+    <string name="message_hostname_mismatch_certificate">此網站的憑證與主機名稱不匹配，是否仍要繼續？</string>
+    <string name="message_invalid_certificate">此網站的憑證無效，是否仍要繼續？</string>
+    <string name="message_not_yet_valid_certificate">此網站的憑證未生效，是否仍要繼續？</string>
     <string name="title_form_resubmission">重新送出表單</string>
     <string name="message_form_resubmission">你確定重新傳送資料嗎？</string>
     <string name="message_location">\n想使用你的位置資訊</string>
@@ -251,7 +251,7 @@
     <string name="file_size">檔案大小: %1$s</string>
     <string name="search_by_image">透過圖片搜尋</string>
     <string name="resource_sniffer">資源監聽</string>
-    <string name="res_log_hint">按下項目進行預覽，或者長按此項目下載或進行其他操作。</string>
+    <string name="res_log_hint">下列是網頁載入中的資源記錄檔。</string>
     <string name="no_resource">此頁面無資源。</string>
     <string name="no_network_log">此頁面無網路記錄檔。</string>
     <string name="resource_sniffer_hint">\n在播放音樂或影片時，更容易偵測媒體檔案。在部分網站資源監聽無法運作。</string>
@@ -366,7 +366,7 @@
     <string name="delete_account_request_submitted">賬號刪除申請已送出。</string>
     <string name="delete_account_message">送出刪除申請後，賬號將登出，進入 15 天的刪除等待期，登出期間如你再次登入賬號並上傳了資料，將導致刪除申請被撤回。等待期滿後，該賬號及相關資料將從伺服器完全刪除。\n請輸入密碼繼續。</string>
     <string name="confirm_to_delete">確定刪除</string>
-    <string name="items_selected">已選中 %1$d 項</string>
+    <string name="items_selected">已選中 %1d 項</string>
     <string name="select_all">全選</string>
     <string name="multi_choice">多選</string>
     <plurals name="delete_download_tasks">
@@ -548,7 +548,7 @@
     <string name="download_failed_with_code">下載失敗：%1$s (%2$d)</string>
     <string name="built_in_download_manager">內建下載器</string>
     <string name="cancel_all">取消全選</string>
-    <string name="message_delete_selected_download_tasks">你確定刪除這些下載任務嗎 (總共 %1$d 個任務)?</string>
+    <string name="message_delete_selected_download_tasks">你確定刪除這些下載任務嗎 (總共 %1$d 個任務)？</string>
     <string name="file_name">檔名</string>
     <string name="rename">重新命名</string>
     <string name="download_error_file_io">I/O 錯誤</string>
@@ -586,4 +586,86 @@
     </plurals>
     <string name="translation_engine_google">谷歌翻譯</string>
     <string name="translation_engine_baidu">百度翻譯</string>
+    <string name="ignore_site_message_for_a_minute">忽略此網站訊息一分鐘</string>
+    <string name="download_status_waiting_for_network">等待網路連線</string>
+    <string name="download_failed_with_message">下載失敗：%1$s</string>
+    <string name="remove_identifying_headers">移除代理頭</string>
+    <string name="remove_identifying_headers_description">啟用後將置空 X-Requested-With 和 X-Wap-Profile 頭資訊，這可能會導致部分頁面表現異常</string>
+    <string name="agent_windows_chrome">Windows (Chrome)</string>
+    <string name="agent_windows_ie11">Windows (IE 11)</string>
+    <string name="agent_android_phone">Android (手機)</string>
+    <string name="agent_android_tablet">Android (平板)</string>
+    <string name="agent_ipad">iPad</string>
+    <string name="agent_osx">macOS</string>
+    <string name="toutiao_url">頭條</string>
+    <string name="title_can_not_be_empty">標題不能為空</string>
+    <string name="user_agent_can_not_be_empty">使用者代理不能為空</string>
+    <string name="download_filter_all">全部</string>
+    <string name="download_filter_others">其它</string>
+    <string name="download_filter_documents">文件</string>
+    <string name="download_filter_images">圖片</string>
+    <string name="download_filter_video">影片</string>
+    <string name="download_filter_apk">安裝包</string>
+    <string name="download_filter_audio">音訊</string>
+    <string name="download_filter_archives">壓縮包</string>
+    <string name="simple_guide_of_writing_userscript"><![CDATA[
+        <b>Metadata 框</b><br />
+        Metadata 必須使用如下格式:<br />
+        <tt>
+        // ==UserScript==<br />
+        // @key value<br />
+        // ==/UserScript==
+        </tt>
+        <br /><br />
+        <b><tt>@name</tt></b>: 指令碼名稱。
+        <br /><br />
+        <b><tt>@namespace</tt></b>: <tt>@namespace</tt> 和 <tt>@name</tt> 是指令碼的唯一 ID。
+        <br /><br />
+        <b><tt>@match/@exclude-match</tt></b>: 定義了指令碼的作用域。推薦使用 <tt>@match</tt> 而不是 <tt>@include</tt>。
+        <br /><br />
+        <b><tt>@include/@exclude</tt></b>: 舊版本中定義作用域的方式。
+        <br /><br />
+        <b><tt>@version</tt></b>: 指令碼版本。
+        <br /><br />
+        <b><tt>@description</tt></b>: 指令碼描述。
+        <br /><br />
+        <b><tt>@author</tt></b>: 指令碼作者。
+        <br /><br />
+        <b><tt>@require</tt></b>: 指令碼的前置依賴，例如： <br /><tt>// @require https://my.cdn.com/jquery.js</tt>。
+        <br /><br />
+        <b><tt>@run-at</tt></b>: 指令碼的執行時機。 <tt>document-start</tt> 用於在頁面載入前注入指令碼， <tt>document-end</tt> 用於在頁面載入完成後注入指令碼。
+        <br /><br />
+        <b><tt>@grant</tt></b>: 定義指令碼所使用和應被授權的特殊 GM_* API。<br />
+        <br /><br />
+        <b><tt>@downloadURL</tt></b>: 指令碼的下載地址。
+        <br /><br />
+        <b><tt>@supportURL</tt></b>: 指令碼的支援地址。
+        <br /><br />
+        <b><tt>@homepageURL</tt></b>: 指令碼的主頁。
+        <br /><br />
+        <b>GM_* API</b><br />
+        <tt>GM_*</tt> 是一組 Via 提供的特殊 API 集合。當前支援的特殊 API 包括：<br/>
+        <tt>GM_getValue/GM_setValue/GM_deleteValue/GM_listValues/GM_getResourceText/GM_getResourceURL/GM_addElement/GM_addStyle/GM_setClipboard/GM_xmlhttpRequest/GM_download</tt>.
+        <br /><br />
+        <b>匹配</b><br />
+        <tt>@match</tt> 定義了指令碼生效的作用域。 <tt>@exclude-match</tt> 定義了指令碼不應生效的作用域，類似 <tt>@exclude</tt>。
+        <br /><br />
+        例如:<br />
+        <tt>
+        // @match https://www.google.com/something <br />
+        // @match https://www.google.com/any/* <br />
+        // @exclude-match https://www.google.com/any/not_me
+        </tt>
+        <br /><br />
+    ]]></string>
+    <string name="toast_install_script_successfully">安裝 \"%1$s\" 成功！</string>
+    <string name="toast_install_script_failed_unknown">安裝 \"%1$s\" 失敗！</string>
+    <string name="toast_install_script_failed_dependency_error">下載 \"%1$s\" 依賴失敗！</string>
+    <string name="title_install_script">安裝指令碼</string>
+    <string name="message_install_script">你確定安裝 \"%1$s\"(%2$s) 嗎？</string>
+    <string name="title_reinstall_script">重新安裝指令碼</string>
+    <string name="message_reinstall_script">你確定重新安裝 \"%1$s\"(%2$s) 嗎？</string>
+    <string name="title_update_script">更新指令碼</string>
+    <string name="message_update_script">你確定更新指令碼 \"%1$s\"(%2$s -> %3$s) 嗎？</string>
+    <string name="toast_parsing_script">解析指令碼中…</string>
 </resources>

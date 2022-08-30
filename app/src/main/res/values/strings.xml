@@ -251,7 +251,7 @@
     <string name="file_size">File size: %1$s</string>
     <string name="search_by_image">Search by image</string>
     <string name="resource_sniffer">Resource sniffer</string>
-    <string name="res_log_hint">Press an item to preview, or long-press it to download or do something else.</string>
+    <string name="res_log_hint">The following is the resource log on page load.</string>
     <string name="no_resource">The page has no resource.</string>
     <string name="no_network_log">The page has no network log.</string>
     <string name="resource_sniffer_hint">\nIt is easier to detect media files while music or video is being played. Resource sniffer doesn\'t work on certain websites.</string>
@@ -613,4 +613,72 @@
     <string name="toutiao_url">Toutiao</string>
     <string name="title_can_not_be_empty">The title can not be empty</string>
     <string name="user_agent_can_not_be_empty">The user-agent can not be empty</string>
+    <string name="download_filter_all">All</string>
+    <string name="download_filter_others">Others</string>
+    <string name="download_filter_documents">Documents</string>
+    <string name="download_filter_images">Images</string>
+    <string name="download_filter_video">Video</string>
+    <string name="download_filter_apk">APK</string>
+    <string name="download_filter_audio">Audio</string>
+    <string name="download_filter_archives">Archives</string>
+    <string name="simple_guide_of_writing_userscript"><![CDATA[
+        <b>Metadata block</b><br />
+        The metadata must follow the format:<br />
+        <tt>
+        // ==UserScript==<br />
+        // @key value<br />
+        // ==/UserScript==
+        </tt>
+        <br /><br />
+        <b><tt>@name</tt></b>: The name of the userscript.
+        <br /><br />
+        <b><tt>@namespace</tt></b>: The combination of <tt>@namespace</tt> and <tt>@name</tt> is the unique identifier for a userscript.
+        <br /><br />
+        <b><tt>@match/@exclude-match</tt></b>: Define rules to decide whether a script should be executed. It is recommended to use <tt>@match</tt> instead of <tt>@include</tt>.
+        <br /><br />
+        <b><tt>@include/@exclude</tt></b>: The old way to decide whether a script should be executed.
+        <br /><br />
+        <b><tt>@version</tt></b>: The version of the userscript.
+        <br /><br />
+        <b><tt>@description</tt></b>: The description of the userscript.
+        <br /><br />
+        <b><tt>@author</tt></b>: The author of the userscript.
+        <br /><br />
+        <b><tt>@require</tt></b>: The require of the userscript. For example, <br /><tt>// @require https://my.cdn.com/jquery.js</tt>.
+        <br /><br />
+        <b><tt>@run-at</tt></b>: Decide when the script will execute. <tt>document-start</tt> is used to inject scripts before the page loads, <tt>document-end</tt> is used to inject scripts after page load.
+        <br /><br />
+        <b><tt>@grant</tt></b>: Specify which special GM_* APIs should be granted and can be used when the script executes.<br />
+        <br /><br />
+        <b><tt>@downloadURL</tt></b>: The URL the script can be downloaded from.
+        <br /><br />
+        <b><tt>@supportURL</tt></b>: The support URL of the userscript.
+        <br /><br />
+        <b><tt>@homepageURL</tt></b>: The homepage URL of the userscript.
+        <br /><br />
+        <b>GM_* APIs</b><br />
+        <tt>GM_*</tt> are a group of special APIs provided by Via. Currently supported special APIs include: <br/>
+        <tt>GM_getValue/GM_setValue/GM_deleteValue/GM_listValues/GM_getResourceText/GM_getResourceURL/GM_addElement/GM_addStyle/GM_setClipboard/GM_xmlhttpRequest/GM_download</tt>.
+        <br /><br />
+        <b>Matching</b><br />
+        <tt>@match</tt> defines a URL matching rule. <tt>@exclude-match</tt> defines a match rule but used to exclude the matched URLs, similar to <tt>@exclude</tt>.
+        <br /><br />
+        For example:<br />
+        <tt>
+        // @match https://www.google.com/something <br />
+        // @match https://www.google.com/any/* <br />
+        // @exclude-match https://www.google.com/any/not_me
+        </tt>
+        <br /><br />
+    ]]></string>
+    <string name="toast_install_script_successfully">Install \"%1$s\" successfully!</string>
+    <string name="toast_install_script_failed_unknown">Install \"%1$s\" failed!</string>
+    <string name="toast_install_script_failed_dependency_error">Download \"%1$s\" dependency failed!</string>
+    <string name="title_install_script">Install script</string>
+    <string name="message_install_script">Are you sure you want to install \"%1$s\"(%2$s)?</string>
+    <string name="title_reinstall_script">Re-install script</string>
+    <string name="message_reinstall_script">Are you sure you want to re-install \"%1$s\"(%2$s)?</string>
+    <string name="title_update_script">Update script</string>
+    <string name="message_update_script">Are you sure you want to update \"%1$s\"(%2$s -> %3$s)?</string>
+    <string name="toast_parsing_script">Parsing script…</string>
 </resources>

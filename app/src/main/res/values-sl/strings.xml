@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources tools:ignore="MissingTranslation" xmlns:tools="http://schemas.android.com/tools">
-
     <string name="app_name">Via</string>
     <string name="action_new_tab">Nov zavihek</string>
     <string name="action_open_in_new">Odpri v novem zavihku</string>
@@ -40,10 +39,10 @@
     <string name="action_delete">Izbriši</string>
     <string name="action_delete_all">Izbriši vse</string>
     <string name="action_blank">Prazna stran</string>
-    <string name="agent_chrome">Chrome (PC)</string>
-    <string name="agent_ie">IE 11 (PC)</string>
-    <string name="agent_iphone">Safari (iPhone)</string>
-    <string name="agent_symbian">Nokia Browser</string>
+    <string name="agent_chrome">Windows (Chrome)</string>
+    <string name="agent_ie">Windows (IE 11)</string>
+    <string name="agent_iphone">iPhone</string>
+    <string name="agent_symbian">Symbian</string>
     <string name="agent_custom">Po meri</string>
     <string name="dialog_download">Želite prenesti to datoteko?</string>
     <string name="title_warning">Opozorilo</string>
@@ -167,7 +166,6 @@
     <string name="open_with">Odpri z&#8230;</string>
     <string name="download_completed">Prenos je končan</string>
     <string name="toast_fullscreen_off">Izhod iz celozaslonskega načina</string>
-
     <string name="clear_data">Čiščenje podatkov</string>
     <string name="data_cache">Predpomnilnik</string>
     <string name="data_form_data">Podatki</string>
@@ -175,38 +173,26 @@
     <string name="data_storage">Spletna shramba</string>
     <string name="data_cookies">Piškotki (status prijave)</string>
     <string name="data_cleared">Podatki so izbrisani</string>
-
     <string name="sync_desc">Račun bo ustvarjen, če ne obstaja.</string>
-
     <string name="settings_skin">Prilagoditev</string>
     <string name="default_set">Privzeto</string>
     <string name="picture">Slika</string>
     <string name="text">Besedilo</string>
     <string name="html_code">HTML koda</string>
-
     <string name="action_view_image">Ogled slike</string>
-
     <string name="skin_colorful">Barvit</string>
     <string name="skin_fruity">Saden</string>
     <string name="skin_transparent">Prosojen</string>
-
     <string name="block_popup">Blokiraj pojavna okna</string>
-
     <string name="action_save_web_page">Shrani stran</string>
     <string name="action_saved_pages">Shramba strani</string>
     <string name="saved_page_successfully">Spletna stran je shranjena v: Prenosi > Shramba strani</string>
     <string name="deleted_failed">Brisanje ni uspelo. Datoteka se nahaja na poti: </string>
-
     <string name="empty_hint">Prazno</string>
-
     <string name="network_log">Omrežni dnevnik</string>
-
     <string name="conn_timeout">Povezava je potekla</string>
-
     <string name="already_default">Je že nastavljeno kot privzeto</string>
-
     <string name="set_to_default">Kot privzeto bo nastavljeno po odprtju povezave (%1$s). Prosimo, izberite brskalnik Via za odprtje povezave.</string>
-
     <string name="sync_prompt">Obstoječi lokalni zaznamki in nastavitve bodo prepisani. Želite nadaljevati?</string>
     <string name="upload_prompt">Obstoječi lokalni zaznamki in nastavitve bodo naloženi. Želite nadaljevati?</string>
     <string name="none">Nič</string>
@@ -285,7 +271,7 @@
     <string name="action_add_to_homepage">Dodaj na začetno stran</string>
     <string name="added_favorite_hint">Uspešno dodano na začetno stran</string>
     <string name="title_edit_favorite">Urejanje priljubljenih</string>
-    <string name="custom_css_special">Dodaj CSS po meri</string>
+    <string name="custom_css_special">CSS po meri</string>
     <string name="force_enable_zoom">Omogoči prisilno povečavo</string>
     <string name="set_ua_as">Uporabniški agent je nastavljen kot: %1$s</string>
     <string name="import_data">Uvoz podatkov</string>
@@ -409,7 +395,7 @@
     <string name="language">Jezik</string>
     <string name="restart_to_take_effect">To bo začelo učinkovati, ko boste naslednjič zagnali aplikacijo. Jo želite ponovno zagnati za takojšnje učinkovanje?</string>
     <string name="more">Več</string>
-    <string name="sort_order">Vrstni red</string>
+    <string name="sort_order">Razvrščenost</string>
     <string name="sort_by_oldest_first">Najstarejši najprej</string>
     <string name="sort_by_newest_first">Najnovejši najprej</string>
     <string name="sort_by_alphabetical_order">Po abecedi</string>
@@ -427,7 +413,7 @@
     <string name="allow_website_to_open_app_message">Dovolite spletnemu mestu, da odpre %1$s?</string>
     <string name="width">Širina</string>
     <string name="height">Višina</string>
-    <string name="corner_radius">Polmer kota</string>
+    <string name="corner_radius">Polmer kotov</string>
     <string name="adaptive">Prilagodljivo</string>
     <string name="action_favorites">Priljubljene</string>
     <string name="skin_search_bar">Iskalna vrstica</string>
@@ -500,7 +486,7 @@
     <string name="no_certificate">Spletna stran nima certifikata.</string>
     <string name="site_conf_enabled">Konfiguracija spletnega mesta (omogočeno)</string>
     <string name="do_not_sell_or_share">Ne prodajaj ali deli podatkov</string>
-    <string name="do_not_sell_or_share_description">Zahteva spletnemu mestu, naj ne prodaja ali deli mojih podatkov z namenom zaščite zasebnosti (eksperimentalno)</string>
+    <string name="do_not_sell_or_share_description">Od spletnega mesta zahteva, naj ne prodaja ali deli mojih podatkov z namenom zaščite zasebnosti (eksperimentalno)</string>
     <string name="email_me">Pošljite nam e-pošto</string>
     <string name="scan_qr_code">Branje kode QR</string>
     <string name="scan_qr_code_from_image">Branje kode QR iz slike</string>
@@ -525,5 +511,109 @@
     <string name="ask_to_allow_webpage_to_paste_text">Ali res želite prilepiti besedilo v %DOMAIN%?</string>
     <string name="option_allow">Dovoljeno</string>
     <string name="option_deny">Zavrnjeno</string>
-
+    <string name="search_bar_style">Slog vrstice</string>
+    <string name="search_bar_style_line">Črta</string>
+    <string name="search_bar_style_rectangle">Pravokotnik</string>
+    <string name="favorites_icon_style">Slog ikon</string>
+    <string name="favorites_icon_style_text">Tekst</string>
+    <string name="favorites_icon_style_icon_first">Slika</string>
+    <string name="favorites_icon_color">Barva ikon</string>
+    <string name="favorites_icon_color_colorful">Barvno</string>
+    <string name="favorites_icon_color_transparent">Prosojno</string>
+    <string name="search_bar_effect">Učinek vrstice</string>
+    <string name="search_bar_effect_blur">Motno</string>
+    <string name="search_bar_effect_transparent">Prosojno</string>
+    <string name="search_part">Iskalni predel</string>
+    <string name="search_part_hide">Skrito</string>
+    <string name="search_part_show">Prikazano</string>
+    <string name="image_preference">Nastavitev slik</string>
+    <string name="background_color">Barva</string>
+    <string name="background_image">Slika</string>
+    <string name="favorites_clear_icons">Počisti ikone</string>
+    <string name="customization_reset">Ponastavi</string>
+    <string name="theme_color">Barva teme</string>
+    <string name="theme_color_dark">Temna</string>
+    <string name="theme_color_light">Svetla</string>
+    <string name="uninstall_script">Odstrani skripto</string>
+    <string name="uninstall_script_message">Ste prepričani da želite odstraniti skripto \"%1$s\"?</string>
+    <string name="install_script">Namesti skripto</string>
+    <string name="install_script_message">Ste prepričani da želite namestiti skripto \"%1$s\"?</string>
+    <string name="processing_blob_data">Obdelovanje zbirke binarnih podatkov…</string>
+    <string name="tineye_url">TinEye</string>
+    <string name="login_username">Uporabniško ime (račun bo ustvarjen, če ne obstaja)</string>
+    <string name="read_and_agree">Prosimo preberite in potrdite strinjanje z %1$s in %2$s</string>
+    <string name="wechat_official_account">WeChat uradni račun</string>
+    <string name="notification_channel_downloads">Prenos vsebin</string>
+    <string name="notification_channel_foreground">Obvestilo v ospredju</string>
+    <string name="download_progress">%1$s/%2$s</string>
+    <string name="download_progress_indeterminate">%1$s</string>
+    <string name="download_progress_status">%1$s • %2$s</string>
+    <string name="download_status_paused">Začasno zaustavljeno</string>
+    <string name="download_action_pause">Premor</string>
+    <string name="download_action_resume">Nadaljuj</string>
+    <string name="app_downloading_files">Via prenaša datoteke</string>
+    <string name="app_downloading_files_subtitle">Pritisni za ogled prenosov</string>
+    <string name="download_failed_with_code">Prenos ni uspel: %1$s (%2$d)</string>
+    <string name="built_in_download_manager">Vgrajeni upravitelj prenosov</string>
+    <string name="cancel_all">Prekliči vse</string>
+    <string name="message_delete_selected_download_tasks">Želite izbrisati te prenose (skupaj %1$d)?</string>
+    <string name="file_name">Ime datoteke</string>
+    <string name="rename">Preimenuj</string>
+    <string name="download_error_file_io">I/O napaka</string>
+    <string name="download_error_network">Omrežna napaka</string>
+    <string name="download_error_unknown">Neznana napaka</string>
+    <string name="message_re_download">Ste prepričani da želite izbrisati preneseno datoteko in ponovno prenesti %1$s?</string>
+    <string name="share_image">Deli sliko</string>
+    <string name="ssl_warning_insecure_connection_message">Povezava do %1$s ni varna:\n%2$s\nVseeno nadaljujem?</string>
+    <string name="ssl_warning_dont_ask_again">Ne sprašuj ponovno za to sejo brskanja</string>
+    <string name="ssl_warning_certificate_untrusted">Certifikat ni vreden zaupanja</string>
+    <string name="ssl_warning_certificate_date_invalid">Datum certifikata ni veljaven</string>
+    <string name="ssl_warning_certificate_expired">Certifikat je potekel</string>
+    <string name="ssl_warning_certificate_domain_mismatch">Domena v certifikatu se ne ujema z domeno spletnega mesta</string>
+    <string name="ssl_warning_certificate_invalid">Certifikat ni veljaven</string>
+    <string name="ssl_warning_certificate_not_yet_valid">Certifikat še ni veljaven</string>
+    <string name="the_site">Spletno mesto</string>
+    <string name="navigation_up">Pomik navzgor</string>
+    <string name="hide_popup_window">Skrij pojavno okno</string>
+    <plurals name="open_tabs">
+        <item quantity="zero">0 zavihkov</item>
+        <item quantity="one">1 zavihek</item>
+        <item quantity="other">%d zavihkov</item>
+    </plurals>
+    <string name="qr_code">QR koda</string>
+    <string name="download_progress_speed">%1$s • %2$s</string>
+    <string name="download_progress_speed_eta">%1$s • %2$s • %3$s</string>
+    <string name="download_speed_unknown">hitrost: –</string>
+    <string name="download_eta_unknown">čas: –</string>
+    <plurals name="hours_left">
+        <item quantity="zero">še 0 ur</item>
+        <item quantity="one">še 1 ura</item>
+        <item quantity="other">še %d ur</item>
+    </plurals>
+    <plurals name="mins_left">
+        <item quantity="zero">še 0 min</item>
+        <item quantity="one">še 1 min</item>
+        <item quantity="other">še %d min</item>
+    </plurals>
+    <plurals name="secs_left">
+        <item quantity="zero">še 0 sek</item>
+        <item quantity="one">še 1 sek</item>
+        <item quantity="other">še %d sek</item>
+    </plurals>
+    <string name="translation_engine_google">Google Prevajalnik</string>
+    <string name="translation_engine_baidu">Baidu Prevajalnik</string>
+    <string name="ignore_site_message_for_a_minute">Ignoriraj to sporočilo za trenutek</string>
+    <string name="download_status_waiting_for_network">Čakanje na omrežje</string>
+    <string name="download_failed_with_message">Prenos ni uspel: %1$s</string>
+    <string name="remove_identifying_headers">Odstrani identifikacijo glave</string>
+    <string name="remove_identifying_headers_description">Ob vklopu bodo glave X-Requested-With in X-Wap-Profile prazne, kar lahko povzroči nepravilno delovanje nekaterih strani.</string>
+    <string name="agent_windows_chrome">Windows (Chrome)</string>
+    <string name="agent_windows_ie11">Windows (IE 11)</string>
+    <string name="agent_android_phone">Android (telefon)</string>
+    <string name="agent_android_tablet">Android (tablica)</string>
+    <string name="agent_ipad">iPad</string>
+    <string name="agent_osx">macOS</string>
+    <string name="toutiao_url">Toutiao</string>
+    <string name="title_can_not_be_empty">Naslov ne sme biti prazen</string>
+    <string name="user_agent_can_not_be_empty">Uporabniški agent ne sme biti prazen</string>
 </resources>
