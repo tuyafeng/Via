@@ -454,8 +454,8 @@
     <string name="update_shortcut_successfully">Atalho %1$s atualizado com sucesso</string>
     <string name="today">Hoje</string>
     <string name="yesterday">Ontem</string>
-    <string name="same_year_date_format">EEE, dd de MMM </string>
-    <string name="default_date_format">EEE, dd de MMM de yyyy</string>
+    <string name="same_year_date_format">EEE, dd \'de\' MMM</string>
+    <string name="default_date_format">EEE, dd \'de\' MMM \'de\' yyyy</string>
     <string name="view_certificate">Ver certificado</string>
     <string name="certificate_info">Informações do certificado</string>
     <string name="certificate_detail"><![CDATA[
