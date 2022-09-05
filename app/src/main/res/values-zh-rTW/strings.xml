@@ -95,7 +95,7 @@
     <string name="image_on">顯示圖片</string>
     <string name="title_file_chooser">檔案選擇</string>
     <string name="import_bookmarks">匯入書籤</string>
-    <string name="export_bookmarks_to">書籤已匯出至: %1$s</string>
+    <string name="export_bookmarks_to">書籤已匯出至：%1$s</string>
     <string name="import_bookmark_error">無法自檔案匯入書籤</string>
     <string name="message_add_bookmark">已成功新增書籤</string>
     <string name="message_exit">再按一次結束</string>
@@ -187,7 +187,7 @@
     <string name="action_save_web_page">儲存網頁</string>
     <string name="action_saved_pages">已儲存網頁</string>
     <string name="saved_page_successfully">網頁已儲存到\"書籤 > 儲存網頁\"中</string>
-    <string name="deleted_failed">刪除失敗，此檔案位於下載路徑: </string>
+    <string name="deleted_failed">刪除失敗，此檔案位於下載路徑：</string>
     <string name="empty_hint">空空如也&#8230;</string>
     <string name="network_log">網路記錄檔</string>
     <string name="conn_timeout">連線逾時</string>
@@ -205,7 +205,7 @@
     <string name="restore_tabs">啟動時還原上次未關閉的分頁</string>
     <string name="install_success">安裝成功！</string>
     <string name="uninstall_success">解除安裝成功！</string>
-    <string name="log_page_hint">封鎖清單在 %1$s\n你可以編輯這個清單, 或長按下列項目以選擇是否封鎖。</string>
+    <string name="log_page_hint">封鎖清單在 %1$s\n你可以編輯這個清單，或長按下列項目以選擇是否封鎖。</string>
     <string name="fullscreen_1">捲動以顯示/隱藏</string>
     <string name="fullscreen_2">按下以顯示/隱藏</string>
     <string name="settings_script">指令碼</string>
@@ -248,7 +248,7 @@
     <string name="ui_traditional">傳統</string>
     <string name="color_mode_hint">工具列自動調整色彩</string>
     <string name="skin_hide_search_part">隱藏搜尋部分</string>
-    <string name="file_size">檔案大小: %1$s</string>
+    <string name="file_size">檔案大小：%1$s</string>
     <string name="search_by_image">透過圖片搜尋</string>
     <string name="resource_sniffer">資源監聽</string>
     <string name="res_log_hint">下列是網頁載入中的資源記錄檔。</string>
@@ -308,8 +308,8 @@
     <string name="server_message">伺服器間的資料不同步，切換後將需要重新登入。</string>
     <string name="delete_bookmark_folder_message">這將同時刪除 %1$s 資料夾裡的書籤，確定要刪除嗎？</string>
     <string name="action_new">新增</string>
-    <string name="block_hint">封鎖了: %1$s\n重新整理網頁生效。</string>
-    <string name="unblock_hint">解封了: %1$s\n重新整理網頁生效。</string>
+    <string name="block_hint">封鎖了：%1$s\n重新整理網頁生效。</string>
+    <string name="unblock_hint">解封了：%1$s\n重新整理網頁生效。</string>
     <string name="block_3rd_party_cookies">封鎖第三方 Cookie</string>
     <string name="enable_site_conf">啟用 \"%1$s\" 網站設定</string>
     <string name="site_conf">網站設定</string>
@@ -609,7 +609,7 @@
     <string name="download_filter_audio">音訊</string>
     <string name="download_filter_archives">壓縮包</string>
     <string name="simple_guide_of_writing_userscript"><![CDATA[
-        <b>Metadata 框</b><br />
+        <b>Metadata 塊</b><br />
         Metadata 必須使用如下格式:<br />
         <tt>
         // ==UserScript==<br />
@@ -617,31 +617,31 @@
         // ==/UserScript==
         </tt>
         <br /><br />
-        <b><tt>@name</tt></b>: 指令碼名稱。
+        <b><tt>@name</tt></b>：指令碼名稱。
         <br /><br />
-        <b><tt>@namespace</tt></b>: <tt>@namespace</tt> 和 <tt>@name</tt> 是指令碼的唯一 ID。
+        <b><tt>@namespace</tt></b>：<tt>@namespace</tt> 和 <tt>@name</tt> 是指令碼的唯一 ID。
         <br /><br />
-        <b><tt>@match/@exclude-match</tt></b>: 定義了指令碼的作用域。推薦使用 <tt>@match</tt> 而不是 <tt>@include</tt>。
+        <b><tt>@match/@exclude-match</tt></b>：定義了指令碼的作用域。推薦使用 <tt>@match</tt> 而不是 <tt>@include</tt>。
         <br /><br />
-        <b><tt>@include/@exclude</tt></b>: 舊版本中定義作用域的方式。
+        <b><tt>@include/@exclude</tt></b>：舊版本中定義作用域的方式。
         <br /><br />
-        <b><tt>@version</tt></b>: 指令碼版本。
+        <b><tt>@version</tt></b>：指令碼版本。
         <br /><br />
-        <b><tt>@description</tt></b>: 指令碼描述。
+        <b><tt>@description</tt></b>：指令碼描述。
         <br /><br />
-        <b><tt>@author</tt></b>: 指令碼作者。
+        <b><tt>@author</tt></b>：指令碼作者。
         <br /><br />
-        <b><tt>@require</tt></b>: 指令碼的前置依賴，例如： <br /><tt>// @require https://my.cdn.com/jquery.js</tt>。
+        <b><tt>@require</tt></b>：指令碼的前置依賴，例如： <br /><tt>// @require https://my.cdn.com/jquery.js</tt>。
         <br /><br />
-        <b><tt>@run-at</tt></b>: 指令碼的執行時機。 <tt>document-start</tt> 用於在頁面載入前注入指令碼， <tt>document-end</tt> 用於在頁面載入完成後注入指令碼。
+        <b><tt>@run-at</tt></b>：指令碼的執行時機。 <tt>document-start</tt> 用於在頁面載入前注入指令碼， <tt>document-end</tt> 用於在頁面載入完成後注入指令碼。
         <br /><br />
-        <b><tt>@grant</tt></b>: 定義指令碼所使用和應被授權的特殊 GM_* API。<br />
+        <b><tt>@grant</tt></b>：定義指令碼所使用和應被授權的特殊 GM_* API。<br />
         <br /><br />
-        <b><tt>@downloadURL</tt></b>: 指令碼的下載地址。
+        <b><tt>@downloadURL</tt></b>：指令碼的下載地址。
         <br /><br />
-        <b><tt>@supportURL</tt></b>: 指令碼的支援地址。
+        <b><tt>@supportURL</tt></b>：指令碼的支援地址。
         <br /><br />
-        <b><tt>@homepageURL</tt></b>: 指令碼的主頁。
+        <b><tt>@homepageURL</tt></b>：指令碼的主頁。
         <br /><br />
         <b>GM_* API</b><br />
         <tt>GM_*</tt> 是一組 Via 提供的特殊 API 集合。當前支援的特殊 API 包括：<br/>
@@ -668,4 +668,12 @@
     <string name="title_update_script">更新指令碼</string>
     <string name="message_update_script">你確定更新指令碼 \"%1$s\"(%2$s -> %3$s) 嗎？</string>
     <string name="toast_parsing_script">解析指令碼中…</string>
+    <string name="title_add_metadata_block">新增 Metadata 塊</string>
+    <string name="message_add_metadata_block">此指令碼沒有 Metadata 塊所以無法儲存。您想要為其新增一個預設的 Metadata 塊嗎？</string>
+    <string name="title_disable_safe_browsing">禁用安全瀏覽</string>
+    <string name="title_close_all_tabs">關閉所有分頁</string>
+    <string name="message_close_all_tabs_before_disabling_incognito_mode">你想要在退出無痕模式前，關閉所有分頁嗎？</string>
+    <string name="action_close">關閉</string>
+    <string name="action_keep">保留</string>
+    <string name="desc_bookmark_folder">%1$s 資料夾</string>
 </resources>
