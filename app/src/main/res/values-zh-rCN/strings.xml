@@ -669,4 +669,12 @@
     <string name="title_update_script">更新脚本</string>
     <string name="message_update_script">你确认更新脚本 \"%1$s\"(%2$s -> %3$s) 吗？</string>
     <string name="toast_parsing_script">解析脚本中…</string>
+    <string name="title_add_metadata_block">添加 Metadata 块</string>
+    <string name="message_add_metadata_block">此脚本没有 Metadata 块所以无法保存。您想要为其添加一个默认的 Metadata 块吗？</string>
+    <string name="title_disable_safe_browsing">禁用安全浏览</string>
+    <string name="title_close_all_tabs">关闭所有标签</string>
+    <string name="message_close_all_tabs_before_disabling_incognito_mode">你想要在退出隐身模式前，关闭所有标签吗?</string>
+    <string name="action_close">关闭</string>
+    <string name="action_keep">保留</string>
+    <string name="desc_bookmark_folder">%1$s 文件夹</string>
 </resources>
