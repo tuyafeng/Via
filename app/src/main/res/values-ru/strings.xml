@@ -251,7 +251,7 @@
     <string name="file_size">Размер файла: %1$s</string>
     <string name="search_by_image">Поиск по изображению</string>
     <string name="resource_sniffer">Анализ ресурсов</string>
-    <string name="res_log_hint">Нажмите для просмотра, удерживайте для загрузки или других действий.</string>
+    <string name="res_log_hint">Ниже представлен перечень ресурсов загруженной страницы.</string>
     <string name="no_resource">Ресурсы отсутствуют</string>
     <string name="no_network_log">Сетевой журнал пуст</string>
     <string name="resource_sniffer_hint">\nАнализ ресурсов упрощается при воспроизведении музыки или видео, но всё равно может не работать на некоторых сайтах.</string>
@@ -551,7 +551,7 @@
     <string name="app_downloading_files">Via загружает файлы</string>
     <string name="app_downloading_files_subtitle">Нажмите для просмотра загрузок</string>
     <string name="download_failed_with_code">Ошибка загрузки: %1$s (%2$d)</string>
-    <string name="built_in_download_manager">Встроенный менеджер загрузок</string>
+    <string name="built_in_download_manager">Встроенный</string>
     <string name="cancel_all">Отменить все</string>
     <string name="message_delete_selected_download_tasks">Удалить загрузки (всего: %1$d)?</string>
     <string name="file_name">Имя файла</string>
@@ -608,4 +608,72 @@
     <string name="toutiao_url">Toutiao</string>
     <string name="title_can_not_be_empty">Заголовок не может быть пустым</string>
     <string name="user_agent_can_not_be_empty">Значение UserAgent не может быть пустым</string>
+    <string name="download_filter_all">Все</string>
+    <string name="download_filter_others">Другие</string>
+    <string name="download_filter_documents">Документы</string>
+    <string name="download_filter_images">Изображения</string>
+    <string name="download_filter_video">Видео</string>
+    <string name="download_filter_apk">APK</string>
+    <string name="download_filter_audio">Аудио</string>
+    <string name="download_filter_archives">Архивы</string>
+    <string name="simple_guide_of_writing_userscript"><![CDATA[
+        <b>Блок метаданных</b><br />
+        Метаданные должны соответствовать формату:<br />
+        <tt>
+        // ==UserScript==<br />
+        // @ключ значение<br />
+        // ==/UserScript==
+        </tt>
+        <br /><br />
+        <b><tt>@name</tt></b>: название пользовательского скрипта.
+        <br /><br />
+        <b><tt>@namespace</tt></b>: комбинация <tt>@namespace</tt> и <tt>@name</tt> является уникальным идентификатором пользовательского скрипта.
+        <br /><br />
+        <b><tt>@match/@exclude-match</tt></b>: правила, определяющие, следует ли выполнять скрипт. Рекомендуется использовать <tt>@match</tt> вместо <tt>@include</tt>.
+        <br /><br />
+        <b><tt>@include/@exclude</tt></b>: старый способ определения необходимости выполнения скрипта.
+        <br /><br />
+        <b><tt>@version</tt></b>: версия пользовательского скрипта.
+        <br /><br />
+        <b><tt>@description</tt></b>: описание пользовательского скрипта.
+        <br /><br />
+        <b><tt>@author</tt></b>: автор пользовательского скрипта.
+        <br /><br />
+        <b><tt>@require</tt></b>: зависимости пользовательского скрипта. Например, <br /><tt>// @require https://my.cdn.com/jquery.js</tt>.
+        <br /><br />
+        <b><tt>@run-at</tt></b>: определяет момент запуска скрипта. <tt>document-start</tt> используется для встраивания скриптов перед загрузкой страницы, <tt>document-end</tt> используется для встраивания скриптов после загрузки страницы.
+        <br /><br />
+        <b><tt>@grant</tt></b>: определяет, какие специальные API GM_* должны быть предоставлены и могут быть использованы при выполнении скрипта.<br />
+        <br /><br />
+        <b><tt>@downloadURL</tt></b>: URL загрузки пользовательского скрипта.
+        <br /><br />
+        <b><tt>@supportURL</tt></b>: URL поддержки пользовательского скрипта.
+        <br /><br />
+        <b><tt>@homepageURL</tt></b>: URL домашней страницы пользовательского скрипта.
+        <br /><br />
+        <b>API GM_*</b><br />
+        <tt>GM_*</tt> — это группа специальных API, предоставляемая Via. В настоящий момент специальные API включают в себя: <br/>
+        <tt>GM_getValue/GM_setValue/GM_deleteValue/GM_listValues/GM_getResourceText/GM_getResourceURL/GM_addElement/GM_addStyle/GM_setClipboard/GM_xmlhttpRequest/GM_download</tt>.
+        <br /><br />
+        <b>Сопоставление</b><br />
+        <tt>@match</tt> определяет правило сопоставления URL. <tt>@exclude-match</tt> определяет правило сопоставления, но используется для исключения совпадающих URL, аналогично <tt>@exclude</tt>.
+        <br /><br />
+        Например:<br />
+        <tt>
+        // @match https://www.google.com/something <br />
+        // @match https://www.google.com/any/* <br />
+        // @exclude-match https://www.google.com/any/not_me
+        </tt>
+        <br /><br />
+    ]]></string>
+    <string name="toast_install_script_successfully">\"%1$s\" успешно установлен!</string>
+    <string name="toast_install_script_failed_unknown">Невозможно установить \"%1$s\"!</string>
+    <string name="toast_install_script_failed_dependency_error">Невозможно загрузить зависимость для \"%1$s\"!</string>
+    <string name="title_install_script">Установить скрипт</string>
+    <string name="message_install_script">Установить \"%1$s\" (%2$s)?</string>
+    <string name="title_reinstall_script">Переустановить скрипт</string>
+    <string name="message_reinstall_script">Переустановить \"%1$s\" (%2$s)?</string>
+    <string name="title_update_script">Обновить скрипт</string>
+    <string name="message_update_script">Обновить \"%1$s\" (%2$s→%3$s)?</string>
+    <string name="toast_parsing_script">Анализ скрипта…</string>
 </resources>
