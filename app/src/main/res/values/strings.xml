@@ -681,4 +681,12 @@
     <string name="title_update_script">Update script</string>
     <string name="message_update_script">Are you sure you want to update \"%1$s\"(%2$s -> %3$s)?</string>
     <string name="toast_parsing_script">Parsing script…</string>
+    <string name="title_add_metadata_block">Add metadata block</string>
+    <string name="message_add_metadata_block">This script has no metadata block so it cannot be saved. Do you want to add a default metadata block to it?</string>
+    <string name="title_disable_safe_browsing">Disable safe browsing</string>
+    <string name="title_close_all_tabs">Close all tabs</string>
+    <string name="message_close_all_tabs_before_disabling_incognito_mode">Do you want to close all tabs before disabling incognito mode?</string>
+    <string name="action_close">Close</string>
+    <string name="action_keep">Keep</string>
+    <string name="desc_bookmark_folder">%1$s folder</string>
 </resources>
