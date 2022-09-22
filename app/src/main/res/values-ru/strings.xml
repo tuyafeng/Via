@@ -684,4 +684,5 @@
     <string name="action_close">Закрыть</string>
     <string name="action_keep">Оставить</string>
     <string name="desc_bookmark_folder">Папка %1$s</string>
+    <string name="message_splash_agreement">Используя Via, вы соглашаетесь с %1$s и %2$s.</string>
 </resources>
