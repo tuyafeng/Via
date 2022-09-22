@@ -634,7 +634,7 @@
         <br /><br />
         <b><tt>@namespace</tt></b>: Поєднання <tt>@namespace</tt> та <tt>@name</tt> є унікальним ідентифікатором користувацького скрипту.
         <br /><br />
-        <b><tt>@match/@exclude-match</tt></b>: Визначте правила, щоб вирішити, чи слід виконувати скрипт. Рекомендується до використання <tt>@match</tt> instead з <tt>@include</tt>.
+        <b><tt>@match/@exclude-match</tt></b>: Правила, що визначають, чи слід виконувати скрипт. Рекомендується до використання <tt>@match</tt> замість <tt>@include</tt>.
         <br /><br />
         <b><tt>@include/@exclude</tt></b>: Старий спосіб вирішення, чи слід виконувати скрипт.
         <br /><br />
@@ -644,11 +644,11 @@
         <br /><br />
         <b><tt>@author</tt></b>: Автор користувацького скрипту.
         <br /><br />
-        <b><tt>@require</tt></b>: Вимагається користувацький скрипт. Наприклад, <br /><tt>// @require https://my.cdn.com/jquery.js</tt>.
+        <b><tt>@require</tt></b>: Вимоги користувацького скрипту. Наприклад, <br /><tt>// @require https://my.cdn.com/jquery.js</tt>.
         <br /><br />
-        <b><tt>@run-at</tt></b>: Вирішіть, коли буде виконано скрипт. <tt>document-start</tt> використовується для введення скриптів перед завантаженням сторінки, <tt>document-end</tt> використовується для введення скриптів після завантаження сторінки.
+        <b><tt>@run-at</tt></b>: Визначає, коли буде виконано скрипт. <tt>document-start</tt> використовується для введення скриптів перед завантаженням сторінки, <tt>document-end</tt> використовується для введення скриптів після завантаження сторінки.
         <br /><br />
-        <b><tt>@grant</tt></b>: Вкажіть, який спеціальний GM_* APIs має бути надано та може використовуватися під час виконання скрипту.<br />
+        <b><tt>@grant</tt></b>: Вказує, який спеціальний GM_* APIs має бути надано та може використовуватися під час виконання скрипту.<br />
         <br /><br />
         <b><tt>@downloadURL</tt></b>: URL-адреса, з якої можна завантажити скрипт.
         <br /><br />
@@ -657,7 +657,7 @@
         <b><tt>@homepageURL</tt></b>: URL-адреса головної сторінки користувацького скрипту.
         <br /><br />
         <b>GM_* APIs</b><br />
-        <tt>GM_*</tt> це група спеціальних API, наданих Via. Наразі спеціальні API, що підтримуються включають: <br/>
+        <tt>GM_*</tt> це група спеціальних API, наданих Via. Наразі спеціальні API, що підтримуються, включають: <br/>
         <tt>GM_getValue/GM_setValue/GM_deleteValue/GM_listValues/GM_getResourceText/GM_getResourceURL/GM_addElement/GM_addStyle/GM_setClipboard/GM_xmlhttpRequest/GM_download</tt>.
         <br /><br />
         <b>Зіставлення</b><br />
@@ -681,4 +681,12 @@
     <string name="title_update_script">Оновити скрипт</string>
     <string name="message_update_script">Ви впевнені, що хочете оновити \"%1$s\"(%2$s -> %3$s)?</string>
     <string name="toast_parsing_script">Розбір скрипту…</string>
+	<string name="title_add_metadata_block">Додати блок метаданих</string>
+    <string name="message_add_metadata_block">Цей скрипт не має блоку метаданих, тому його неможливо зберегти. Бажаєте додати до нього стандартний блок метаданих?</string>
+    <string name="title_disable_safe_browsing">Вимкнути безпечний перегляд</string>
+    <string name="title_close_all_tabs">Закрити всі вкладки</string>
+    <string name="message_close_all_tabs_before_disabling_incognito_mode">Бажаєте закрити всі вкладки, перш ніж вимкнути режим інкогніто?</string>
+    <string name="action_close">Закрити</string>
+    <string name="action_keep">Залишити</string>
+    <string name="desc_bookmark_folder">Тека %1$s</string>
 </resources>
