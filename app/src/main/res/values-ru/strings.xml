@@ -676,4 +676,12 @@
     <string name="title_update_script">Обновить скрипт</string>
     <string name="message_update_script">Обновить \"%1$s\" (%2$s→%3$s)?</string>
     <string name="toast_parsing_script">Анализ скрипта…</string>
+    <string name="title_add_metadata_block">Добавить блок метаданных</string>
+    <string name="message_add_metadata_block">Скрипт не содержит блока метаданных, поэтому его нельзя сохранить. Добавить стандартный блок метаданных?</string>
+    <string name="title_disable_safe_browsing">Отключить безопасный просмотр</string>
+    <string name="title_close_all_tabs">Закрыть все вкладки</string>
+    <string name="message_close_all_tabs_before_disabling_incognito_mode">Закрыть все вкладки перед отключением режима инкогнито?</string>
+    <string name="action_close">Закрыть</string>
+    <string name="action_keep">Оставить</string>
+    <string name="desc_bookmark_folder">Папка %1$s</string>
 </resources>
