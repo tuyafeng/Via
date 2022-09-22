@@ -689,4 +689,5 @@
     <string name="action_close">Close</string>
     <string name="action_keep">Keep</string>
     <string name="desc_bookmark_folder">%1$s folder</string>
+    <string name="message_splash_agreement">By using Via, you agree to our %1$s and %2$s.</string>
 </resources>
