@@ -676,4 +676,5 @@
     <string name="action_close">關閉</string>
     <string name="action_keep">保留</string>
     <string name="desc_bookmark_folder">%1$s 資料夾</string>
+    <string name="message_splash_agreement">在使用 Via 前，你需要認真閱讀並同意我們的 %1$s 和 %2$s。</string>
 </resources>
