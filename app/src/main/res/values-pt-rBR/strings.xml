@@ -240,7 +240,7 @@
     <string name="export_bookmarks">Exportar favoritos</string>
     <string name="pull_to_refresh_gesture">Gesto de puxar para atualizar</string>
     <string name="back_forward_gesture">Gesto de voltar/avançar na tela</string>
-    <string name="toolbar_settings_hint">Pressione um botão selecionando abaixo para definir sua ação ou mantenha-o pressionado para verificar qual ação foi definia. Você também pode deslizar a barra de ferramentas para definir a ação de deslizar.</string>
+    <string name="toolbar_settings_hint">Pressione um botão selecionado abaixo para definir sua ação ou mantenha-o pressionado para verificar qual ação foi definia. Você também pode deslizar a barra de ferramentas para definir a ação de deslizar.</string>
     <string name="action_modify">Modificar</string>
     <string name="operation_hint">Gestos, atalhos, função dos botões</string>
     <string name="adblock_info">Ativado: %1$d anúncios bloqueados, %2$s economizados</string>
@@ -601,7 +601,7 @@
     <string name="download_status_waiting_for_network">Aguardando rede</string>
     <string name="download_failed_with_message">Falha ao baixar: %1$s</string>
     <string name="remove_identifying_headers">Remover os cabeçalhos de identificação</string>
-    <string name="remove_identifying_headers_description">Quando ativado, os cabeçalhos X-Requested-With e X-Wap-Profile estarão vazios, algumas sites podem não funcionar corretamente.</string>
+    <string name="remove_identifying_headers_description">Quando ativado, os cabeçalhos X-Requested-With e X-Wap-Profile estarão vazios, alguns sites podem não funcionar corretamente.</string>
     <string name="agent_windows_chrome">Windows (Chrome)</string>
     <string name="agent_windows_ie11">Windows (IE 11)</string>
     <string name="agent_android_phone">Android (Telefone)</string>
