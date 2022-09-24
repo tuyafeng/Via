@@ -125,7 +125,7 @@
     <string name="operation_goforward">Uzatish</string>
     <string name="settings_operation">Imo-ishoralar</string>
     <string name="settings_privacy">Maxfiylik</string>
-    <string name="settings_advanced">Qo‘shimcha</string>
+    <string name="settings_advanced">Kengaytirilgan</string>
     <string name="settings_about">Ilova haqida</string>
     <string name="url_box">Manzil tarkibi</string>
     <string name="url_box_domain">Domen</string>
@@ -169,7 +169,7 @@
 
     <string name="clear_data">Ma’lumotlarni tozalash</string>
     <string name="data_cache">Kesh</string>
-    <string name="data_form_data">Shakl ma’lumotlar</string>
+    <string name="data_form_data">Shakl ma’lumotlari</string>
     <string name="data_history">Tarix</string>
     <string name="data_storage">Xotira</string>
     <string name="data_cookies">Cookie fayllar</string>
@@ -626,4 +626,81 @@
     <string name="toutiao_url">Toutiao</string>
     <string name="title_can_not_be_empty">Sarlavha bo‘sh bo‘lishi mumkin emas</string>
     <string name="user_agent_can_not_be_empty">User-agent bo‘sh bo‘lishi mumkin emas</string>
+    <string name="download_filter_all">Hammasi</string>
+    <string name="download_filter_others">Boshqalar</string>
+    <string name="download_filter_documents">Hujjatlar</string>
+    <string name="download_filter_images">Rasmlar</string>
+    <string name="download_filter_video">Video</string>
+    <string name="download_filter_apk">APK</string>
+    <string name="download_filter_audio">Audio</string>
+    <string name="download_filter_archives">Arxivlar</string>
+    <string name="simple_guide_of_writing_userscript"><![CDATA[
+        <b>Meta ma’lumotlar bloki</b><br />
+        Meta ma’lumotlar formatga mos kelishi kerak:<br />
+        <tt>
+        // ==UserScript==<br />
+        // @asosiy qiymat<br />
+        // ==/UserScript==
+        </tt>
+        <br /><br />
+        <b><tt>@name</tt></b>: Foydalanuvchi skriptining nomi.
+        <br /><br />
+        <b><tt>@namespace</tt></b>: <tt>@namespace</tt> va <tt>@name</tt> kombinatsiyasi foydalanuvchi skripti uchun yagona identifikator hisoblanadi.
+        <br /><br />
+        <b><tt>@match/@exclude-match</tt></b>: Skriptni bajarish kerak yoki yo‘qligini hal qilish uchun qoidalarni aniqlang. <tt>@include</tt> o‘rniga <tt>@match</tt> dan foydalanish tavsiya etiladi.
+        <br /><br />
+        <b><tt>@include/@exclude</tt></b>: Skriptni bajarish kerak yoki yo‘qligini hal qilishning eski usuli.
+        <br /><br />
+        <b><tt>@version</tt></b>: Foydalanuvchi skriptining versiyasi.
+        <br /><br />
+        <b><tt>@description</tt></b>: Foydalanuvchi skriptining tavsifi.
+        <br /><br />
+        <b><tt>@author</tt></b>: Foydalanuvchi skriptining muallifi.
+        <br /><br />
+        <b><tt>@require</tt></b>: Foydalanuvchi skripti talabi. Misol uchun, <br /><tt>// @require https://my.cdn.com/jquery.js</tt>.
+        <br /><br />
+        <b><tt>@run-at</tt></b>: Skript qachon bajarilishini hal qiling. <tt>document-start</tt> sahifa yuklanishidan oldin skriptlarni kiritish uchun ishlatiladi, <tt>document-end</tt> sahifa yuklangandan keyin skriptlarni kiritish uchun ishlatiladi.
+        <br /><br />
+        <b><tt>@grant</tt></b>: Qaysi maxsus GM_* API berilishi kerakligini va skript bajarilganda foydalanish mumkinligini belgilang.<br />
+        <br /><br />
+        <b><tt>@downloadURL</tt></b>: Skriptni yuklab olish mumkin bo‘lgan URL.
+        <br /><br />
+        <b><tt>@supportURL</tt></b>: Foydalanuvchi skriptini qo‘llab-quvvatlovchi URL.
+        <br /><br />
+        <b><tt>@homepageURL</tt></b>: Foydalanuvchi skriptining bosh sahifasi URL manzili.
+        <br /><br />
+        <b>GM_* APIs</b><br />
+        <tt>GM_*</tt> - bu Via tomonidan taqdim etilgan maxsus API guruh. Hozirda qo‘llab-quvvatlanadigan maxsus API quyidagilarni o‘z ichiga oladi: <br/>
+        <tt>GM_getValue/GM_setValue/GM_deleteValue/GM_listValues/GM_getResourceText/GM_getResourceURL/GM_addElement/GM_addStyle/GM_setClipboard/GM_xmlhttpRequest/GM_download</tt>.
+        <br /><br />
+        <b>Moslash</b><br />
+        <tt>@match</tt> URL moslik qoidasini belgilaydi. <tt>@exclude-match</tt> moslik qoidasini belgilaydi, lekin <tt>@exclude</tt>ga o‘xshash mos keladigan URL manzillarni chiqarib tashlash uchun ishlatiladi.
+        <br /><br />
+        Misol uchun:<br />
+        <tt>
+        // @match https://www.google.com/something <br />
+        // @match https://www.google.com/any/* <br />
+        // @exclude-match https://www.google.com/any/not_me
+        </tt>
+        <br /><br />
+    ]]></string>
+    <string name="toast_install_script_successfully">\"%1$s\" mavaffaqiyatli o‘rnatish!</string>
+    <string name="toast_install_script_failed_unknown">\"%1$s\" o‘rnatib bo‘lmadi!</string>
+    <string name="toast_install_script_failed_dependency_error">\"%1$s\" Ldrp bog‘liqligini yuklab olinmadi!</string>
+    <string name="title_install_script">Skript o‘rnatish</string>
+    <string name="message_install_script">\"%1$s\"(%2$s) o‘rnatilsinmi?</string>
+    <string name="title_reinstall_script">Skriptni qayta o‘rnatish</string>
+    <string name="message_reinstall_script">\"%1$s\"(%2$s) qayta o‘rnatilsinmi?</string>
+    <string name="title_update_script">Skriptni yangilash</string>
+    <string name="message_update_script">\"%1$s\"(%2$s -> %3$s) yangilaysizmi?</string>
+    <string name="toast_parsing_script">Skript tahlil qilinmoqda…</string>
+    <string name="title_add_metadata_block">Meta ma’lumotlar blokini qo‘shish</string>
+    <string name="message_add_metadata_block">Bu skriptda meta ma’lumotlar bloki yo‘q, shuning uchun uni saqlab bo‘lmaydi. Unga birlamchi meta ma’lumotlar bloki qo‘shilsinmi?</string>
+    <string name="title_disable_safe_browsing">Xavfsiz ko‘rishni o‘chirish</string>
+    <string name="title_close_all_tabs">Barcha varaqlarni yopish</string>
+    <string name="message_close_all_tabs_before_disabling_incognito_mode">Inkognito rejimini o‘chirishdan oldin barcha varaqlar yopilsinmi?</string>
+    <string name="action_close">Yopish</string>
+    <string name="action_keep">Saqlamoq</string>
+    <string name="desc_bookmark_folder">%1$s jildi</string>
+    <string name="message_splash_agreement">Via brauzeridan foydalanishdan oldin bizning %1$s va %2$sga rozilik bildiring.</string>
 </resources>
