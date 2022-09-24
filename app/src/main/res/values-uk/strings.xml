@@ -689,4 +689,5 @@
     <string name="action_close">Закрити</string>
     <string name="action_keep">Залишити</string>
     <string name="desc_bookmark_folder">Тека %1$s</string>
+    <string name="message_splash_agreement">Використовуючи Via, ви погоджуєтесь з нашими: %1$s та %2$s.</string>
 </resources>
