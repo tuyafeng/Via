@@ -60,7 +60,7 @@
     <string name="action_edit">Editar</string>
     <string name="action_incognito">Modo anônimo</string>
     <string name="action_find">Localizar na página</string>
-    <string name="download_pending">Iniciando o download\u2026</string>
+    <string name="download_pending">Iniciando download\u2026</string>
     <string name="cannot_download">Pode ser baixado somente das URLs \"http\" ou \"https\".</string>
     <string name="bookmarks_imported">%1$d favoritos importados</string>
     <string name="custom_url">URL personalizada</string>
@@ -101,7 +101,7 @@
     <string name="message_exit">Pressione mais uma vez para sair</string>
     <string name="dialog_message">Mensagem</string>
     <string name="wait_a_moment">Aguarde um momento&#8230;</string>
-    <string name="toast_operation_failed">Ação falhou</string>
+    <string name="toast_operation_failed">Falha na ação</string>
     <string name="toast_operation_done">Ação concluída</string>
     <string name="volume">Use os botões de volume para rolar</string>
     <string name="msg_intent">Permitir que o site abra seu aplicativo?</string>
@@ -147,7 +147,7 @@
     <string name="dialog_sure">Tem certeza de que deseja continuar?</string>
     <string name="action_send_to_launcher">Enviar para a tela inicial</string>
     <string name="settings_cloud">Conta</string>
-    <string name="user">Entrar/Registrar-se</string>
+    <string name="user">Entrar/Cadastre-se</string>
     <string name="user_syns">Sincronizar</string>
     <string name="user_update">Enviar</string>
     <string name="wrong_psw">Senha incorreta</string>
@@ -240,13 +240,13 @@
     <string name="export_bookmarks">Exportar favoritos</string>
     <string name="pull_to_refresh_gesture">Gesto de puxar para atualizar</string>
     <string name="back_forward_gesture">Gesto de voltar/avançar na tela</string>
-    <string name="toolbar_settings_hint">Pressione um botão selecionado abaixo para definir sua ação ou mantenha pressionado para verificar qual ação foi definida. Você também pode deslizar a barra de ferramentas para definir a ação de deslizar.</string>
+    <string name="toolbar_settings_hint">Pressione um botão selecionado abaixo para definir sua ação ou mantenha-o pressionado para verificar qual ação foi definia. Você também pode deslizar a barra de ferramentas para definir a ação de deslizar.</string>
     <string name="action_modify">Modificar</string>
     <string name="operation_hint">Gestos, atalhos, função dos botões</string>
     <string name="adblock_info">Ativado: %1$d anúncios bloqueados, %2$s economizados</string>
     <string name="disable">Desativado</string>
     <string name="ui_traditional">Padrão</string>
-    <string name="color_mode_hint">Ajuste automaticamente a cor das barras ao navegar na web</string>
+    <string name="color_mode_hint">Ajusta automaticamente a cor das barras ao navegar na web</string>
     <string name="skin_hide_search_part">Ocultar parte da pesquisa</string>
     <string name="file_size">Tamanho do arquivo: %1$s</string>
     <string name="search_by_image">Pesquisar por imagem</string>
@@ -291,7 +291,7 @@
     <string name="no_download_tasks">Vazio</string>
     <string name="action_re_download">Baixar novamente</string>
     <string name="action_copy_download_link">Copiar link do download</string>
-    <string name="download_failed">Download falhou</string>
+    <string name="download_failed">Falha ao baixar</string>
     <string name="view_downloads">Vizualizar</string>
     <string name="message_delete_downloading_task">O arquivo baixado também será excluído. Tem certeza?</string>
     <string name="message_delete_downloaded_task">Excluir este download feito?</string>
@@ -325,9 +325,9 @@
     <string name="custom_filter">Filtro personalizado</string>
     <string name="add_filter_subscription">Adicionar filtro assinado</string>
     <string name="edit_filter_subscription">Editar filtro assinado</string>
-    <string name="updating_filter_subscriptions">Atualizando filtro assinado</string>
+    <string name="updating_filter_subscriptions">Atualizando filtros assinados</string>
     <string name="update_filter_subscriptions_completed">Atualização de filtros assinados concluída.</string>
-    <string name="update_filter_subscription_failed">Atualização de filtros assinados falhou.\n%1$s</string>
+    <string name="update_filter_subscription_failed">Falha na atualização de filtros assinados.\n%1$s</string>
     <string name="has_not_been_updated">não foi atualizado</string>
     <string name="just_now">Agora mesmo</string>
     <string name="url_is_invalid">A URL é inválida.</string>
@@ -385,7 +385,7 @@
     <string name="paste_and_go">Colar e ir</string>
     <string name="night_filter_for_web_contents">Filtro noturno para conteúdo da web</string>
     <string name="force_dark_mode_for_web_contents">Forçar modo escuro para conteúdo da web</string>
-    <string name="force_dark_mode_for_web_contents_description">Quando ativado, as páginas da web serão forçadas a escurecer, algumas páginas podem se comportar de forma anormal.</string>
+    <string name="force_dark_mode_for_web_contents_description">Quando ativado, as páginas da web serão forçadas a escurecer, algumas sites podem não funcionar corretamente.</string>
     <string name="require_javascript_enabled">Isso terá efeito se o JavaScript estiver ativado.</string>
     <string name="keyboard_shortcuts">Atalhos de teclado</string>
     <string name="export_data_description">Exportar favoritos, configurações, scripts e filtros de anúncios</string>
@@ -431,7 +431,7 @@
     <string name="reset_to_default_settings">Redefinir para as configurações padrão</string>
     <string name="script_sites">Sites (como *.foo.com,bar.*/lista)</string>
     <string name="simple_guide_of_writing_script">O script escrito terá efeito automaticamente quando o site carregar.
-    \n\nSites (obrigatório): O site com script suporta o curinga \"*\" e vários sites são separados por \",\", por exemplo: *.foo.com,bar.*/lista.
+    \n\nSites (obrigatório): O site com script suporta o curinga \"*\", vários sites são separados por \",\", por exemplo: *.foo.com,bar.*/lista.
     \n\nObservações (opcional): Usado como o título do script.
     \n\nCódigo (obrigatório): Recomenda-se usar JavaScript nativo. Você também pode usar a sintaxe jquery ou vue.js se o site usar esses frameworks.</string>
     <string name="save_data">Economizar dados</string>
@@ -447,7 +447,7 @@
     <string name="entered_full_screen_mode">Entrou no modo tela cheia</string>
     <string name="delete_hint">Excluir (%1$d)</string>
     <string name="follow_system_dark_mode_on">Seguir o modo escuro do sistema está ativado</string>
-    <string name="scoped_search">Pesquisar %1$s</string>
+    <string name="scoped_search">Pesquisar em %1$s</string>
     <string name="add_shortcut">Adicionar atalho</string>
     <string name="need_shortcut_permission">Permissão negada. Por favor, vá para as configurações e ative a permissão \"Criar atalhos na tela inicial\" para este aplicativo.</string>
     <string name="create_shortcut_successfully">Atalho %1$s criado com sucesso</string>
@@ -548,7 +548,7 @@
     <string name="download_action_resume">Continuar</string>
     <string name="app_downloading_files">O Via está baixando arquivos</string>
     <string name="app_downloading_files_subtitle">Toque para ver os downloads</string>
-    <string name="download_failed_with_code">Download falhou: %1$s (%2$d)</string>
+    <string name="download_failed_with_code">Falha ao baixar: %1$s (%2$d)</string>
     <string name="built_in_download_manager">Gerenciador integrado</string>
     <string name="cancel_all">Cancelar tudo</string>
     <string name="message_delete_selected_download_tasks">Exclui estes downloads feitos (%1$d no total)?</string>
@@ -599,9 +599,9 @@
     <string name="translation_engine_baidu">Baidu Tradutor</string>
     <string name="ignore_site_message_for_a_minute">Ignore esta mensagem do site por 1 minuto</string>
     <string name="download_status_waiting_for_network">Aguardando rede</string>
-    <string name="download_failed_with_message">Download falhou: %1$s</string>
+    <string name="download_failed_with_message">Falha ao baixar: %1$s</string>
     <string name="remove_identifying_headers">Remover os cabeçalhos de identificação</string>
-    <string name="remove_identifying_headers_description">Quando ativado, os cabeçalhos X-Requested-With e X-Wap-Profile estarão vazios, algumas páginas podem se comportar de forma anormal.</string>
+    <string name="remove_identifying_headers_description">Quando ativado, os cabeçalhos X-Requested-With e X-Wap-Profile estarão vazios, alguns sites podem não funcionar corretamente.</string>
     <string name="agent_windows_chrome">Windows (Chrome)</string>
     <string name="agent_windows_ie11">Windows (IE 11)</string>
     <string name="agent_android_phone">Android (Telefone)</string>
@@ -630,7 +630,7 @@
         <br /><br />
         <b><tt>@name</tt></b>: O nome do userscript.
         <br /><br />
-        <b><tt>@namespace</tt></b>: A combinação de <tt>@namespace</tt> e <tt>@name</tt> é o identificador único de um userscript.
+        <b><tt>@namespace</tt></b>: A combinação de <tt>@namespace</tt> e <tt>@name</tt> é o identificador exclusivo de um userscript.
         <br /><br />
         <b><tt>@match/@exclude-match</tt></b>: Define regras para decidir se um script deve ser executado. Recomenda-se usar <tt>@match</tt> em vez de <tt>@include</tt>.
         <br /><br />
@@ -655,7 +655,7 @@
         <b><tt>@homepageURL</tt></b>: A URL da página inicial do script.
         <br /><br />
         <b>APIs GM_*</b><br />
-        <tt>GM_*</tt> são um grupo de APIs especiais fornecidas pelo Via. APIs especiais atualmente suportadas incluem: <br/>
+        <tt>GM_*</tt> são um grupo de APIs especiais fornecidas pelo Via. As APIs especiais suportadas atualmente incluem: <br/>
         <tt>GM_getValue/GM_setValue/GM_deleteValue/GM_listValues/GM_getResourceText/GM_getResourceURL/GM_addElement/GM_addStyle/GM_setClipboard/GM_xmlhttpRequest/GM_download</tt>.
         <br /><br />
         <b>Correspondência</b><br />
@@ -671,7 +671,7 @@
     ]]></string>
     <string name="toast_install_script_successfully">\"%1$s\" instalado com sucesso!</string>
     <string name="toast_install_script_failed_unknown">Falha ao instalar \"%1$s\"!</string>
-    <string name="toast_install_script_failed_dependency_error">Falha ao baixar dependências para \"%1$s\"!</string>
+    <string name="toast_install_script_failed_dependency_error">Falha ao baixar dependência de \"%1$s\"!</string>
     <string name="title_install_script">Instalar script</string>
     <string name="message_install_script">Tem certeza de que deseja instalar \"%1$s\"(%2$s)?</string>
     <string name="title_reinstall_script">Reinstalar script</string>
@@ -687,4 +687,5 @@
     <string name="action_close">Fechar</string>
     <string name="action_keep">Manter</string>
     <string name="desc_bookmark_folder">Pasta %1$s</string>
+    <string name="message_splash_agreement">Ao utilizar o Via, você concorda com nosso %1$s e a %2$s.</string>
 </resources>
