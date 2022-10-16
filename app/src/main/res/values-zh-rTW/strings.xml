@@ -677,4 +677,11 @@
     <string name="action_keep">保留</string>
     <string name="desc_bookmark_folder">%1$s 資料夾</string>
     <string name="message_splash_agreement">在使用 Via 前，你需要認真閱讀並同意我們的 %1$s 和 %2$s。</string>
+    <string name="translation_engine_google_in_page">谷歌頁內翻譯</string>
+    <string name="title_feedback">意見反饋</string>
+    <string name="action_view_cookies">檢視 Cookies</string>
+    <string name="title_cookies_for_site">%1$s 的 Cookies</string>
+    <string name="message_no_cookies">無 Cookies。</string>
+    <string name="toast_cookies_for_site_cleared">已置空 %1$s 的 Cookies</string>
+    <string name="toast_site_does_not_support_resource_sniffing">該網站不支援資源監聽</string>
 </resources>
