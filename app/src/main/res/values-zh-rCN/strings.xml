@@ -678,4 +678,11 @@
     <string name="action_keep">保留</string>
     <string name="desc_bookmark_folder">%1$s 文件夹</string>
     <string name="message_splash_agreement">在使用 Via 前，你需要认真阅读并同意我们的 %1$s 和 %2$s。</string>
+    <string name="translation_engine_google_in_page">谷歌页内翻译</string>
+    <string name="title_feedback">意见反馈</string>
+    <string name="action_view_cookies">查看 Cookies</string>
+    <string name="title_cookies_for_site">%1$s 的 Cookies</string>
+    <string name="message_no_cookies">无 Cookies。</string>
+    <string name="toast_cookies_for_site_cleared">已置空 %1$s 的 Cookies</string>
+    <string name="toast_site_does_not_support_resource_sniffing">该站点不支持资源嗅探</string>
 </resources>

@@ -690,4 +690,11 @@
     <string name="action_keep">Keep</string>
     <string name="desc_bookmark_folder">%1$s folder</string>
     <string name="message_splash_agreement">By using Via, you agree to our %1$s and %2$s.</string>
+    <string name="translation_engine_google_in_page">Google in-page translate</string>
+    <string name="title_feedback">Feedback</string>
+    <string name="action_view_cookies">View Cookies</string>
+    <string name="title_cookies_for_site">Cookies for %1$s</string>
+    <string name="message_no_cookies">No Cookies.</string>
+    <string name="toast_cookies_for_site_cleared">Cookies for %1$s have been set to empty</string>
+    <string name="toast_site_does_not_support_resource_sniffing">This site does not support resource sniffing</string>
 </resources>
