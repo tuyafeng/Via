@@ -674,7 +674,7 @@
     <string name="title_reinstall_script">Переустановить скрипт</string>
     <string name="message_reinstall_script">Переустановить \"%1$s\" (%2$s)?</string>
     <string name="title_update_script">Обновить скрипт</string>
-    <string name="message_update_script">Обновить \"%1$s\" (%2$s→%3$s)?</string>
+    <string name="message_update_script">Обновить \"%1$s\" (%2$s → %3$s)?</string>
     <string name="toast_parsing_script">Анализ скрипта…</string>
     <string name="title_add_metadata_block">Добавить блок метаданных</string>
     <string name="message_add_metadata_block">Скрипт не содержит блока метаданных, поэтому его нельзя сохранить. Добавить стандартный блок метаданных?</string>
@@ -685,4 +685,11 @@
     <string name="action_keep">Оставить</string>
     <string name="desc_bookmark_folder">Папка %1$s</string>
     <string name="message_splash_agreement">Используя Via, вы соглашаетесь с %1$s и %2$s.</string>
+    <string name="translation_engine_google_in_page">Переводчик страниц Google</string>
+    <string name="title_feedback">Обратная связь</string>
+    <string name="action_view_cookies">Просмотр cookies</string>
+    <string name="title_cookies_for_site">Cookies для %1$s</string>
+    <string name="message_no_cookies">Нет cookies.</string>
+    <string name="toast_cookies_for_site_cleared">Cookies для %1$s очищены</string>
+    <string name="toast_site_does_not_support_resource_sniffing">Этот сайт не поддерживает анализ ресурсов</string>
 </resources>
