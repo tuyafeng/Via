@@ -103,7 +103,7 @@
     <string name="wait_a_moment">Aguarde um momento&#8230;</string>
     <string name="toast_operation_failed">Falha na ação</string>
     <string name="toast_operation_done">Ação concluída</string>
-    <string name="volume">Use os botões de volume para rolar</string>
+    <string name="volume">Usar os botões de volume para rolar</string>
     <string name="msg_intent">Permitir que o site abra seu aplicativo?</string>
     <string name="setting_default">Definir como navegador padrão</string>
     <string name="toast_clear_defaults">Por favor, limpe as configurações</string>
@@ -240,7 +240,7 @@
     <string name="export_bookmarks">Exportar favoritos</string>
     <string name="pull_to_refresh_gesture">Gesto de puxar para atualizar</string>
     <string name="back_forward_gesture">Gesto de voltar/avançar na tela</string>
-    <string name="toolbar_settings_hint">Pressione um botão selecionado abaixo para definir sua ação ou mantenha-o pressionado para verificar qual ação foi definia. Você também pode deslizar a barra de ferramentas para definir a ação de deslizar.</string>
+    <string name="toolbar_settings_hint">Pressione um botão selecionado abaixo para definir sua ação ou mantenha-o pressionado para verificar qual ação foi definida. Você também pode deslizar a barra de ferramentas para definir a ação de deslizar.</string>
     <string name="action_modify">Modificar</string>
     <string name="operation_hint">Gestos, atalhos, função dos botões</string>
     <string name="adblock_info">Ativado: %1$d anúncios bloqueados, %2$s economizados</string>
@@ -385,7 +385,7 @@
     <string name="paste_and_go">Colar e ir</string>
     <string name="night_filter_for_web_contents">Filtro noturno para conteúdo da web</string>
     <string name="force_dark_mode_for_web_contents">Forçar modo escuro para conteúdo da web</string>
-    <string name="force_dark_mode_for_web_contents_description">Quando ativado, as páginas da web serão forçadas a escurecer, algumas sites podem não funcionar corretamente.</string>
+    <string name="force_dark_mode_for_web_contents_description">Quando ativado, as páginas da web serão forçadas a escurecer, alguns sites podem não funcionar corretamente.</string>
     <string name="require_javascript_enabled">Isso terá efeito se o JavaScript estiver ativado.</string>
     <string name="keyboard_shortcuts">Atalhos de teclado</string>
     <string name="export_data_description">Exportar favoritos, configurações, scripts e filtros de anúncios</string>
@@ -533,7 +533,7 @@
     <string name="uninstall_script_message">Tem certeza de que deseja desinstalar o script \"%1$s\"?</string>
     <string name="install_script">Instalar script</string>
     <string name="install_script_message">Tem certeza de que deseja instalar o script \"%1$s\"?</string>
-    <string name="processing_blob_data">Processando dados do blob…</string>
+    <string name="processing_blob_data">Processando dados de blob…</string>
     <string name="tineye_url">TinEye</string>
     <string name="login_username">Nome de usuário (será criado se não existir)</string>
     <string name="read_and_agree">Por favor, leia e concorde com os %1$s e a %2$s</string>
@@ -687,5 +687,12 @@
     <string name="action_close">Fechar</string>
     <string name="action_keep">Manter</string>
     <string name="desc_bookmark_folder">Pasta %1$s</string>
-    <string name="message_splash_agreement">Ao utilizar o Via, você concorda com nosso %1$s e a %2$s.</string>
+    <string name="message_splash_agreement">Ao utilizar o Via, você concorda com nossos %1$s e a %2$s.</string>
+    <string name="translation_engine_google_in_page">Tradução do Google na página</string>
+    <string name="title_feedback">Feedback</string>
+    <string name="action_view_cookies">Ver Cookies</string>
+    <string name="title_cookies_for_site">Cookies de %1$s</string>
+    <string name="message_no_cookies">Sem Cookies.</string>
+    <string name="toast_cookies_for_site_cleared">Cookies para %1$s foram definidos como vazios</string>
+    <string name="toast_site_does_not_support_resource_sniffing">Este site não suporta detecção de recursos</string>
 </resources>
