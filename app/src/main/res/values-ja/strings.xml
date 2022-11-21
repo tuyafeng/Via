@@ -40,6 +40,11 @@
     <string name="no_certificate">このウェブサイトにはサーバ証明書が有りません</string>
     <string name="site_conf_enabled">Site configuration (Enabled)</string>
     
+    <!-- トップ | Cookie -->  
+    <string name="action_view_cookies">Cookieを見る</string>
+    <string name="title_cookies_for_site">%1$s のCookie</string>
+    <string name="message_no_cookies">Cookieがありません</string>
+    
     <!-- トップ | QRコード -->    
     <string name="scan_qr_code">QRコード（二次元バーコード）をスキャン</string>
     <string name="scan_qr_code_from_image">画像からQRコードをスキャンします</string>
@@ -313,6 +318,7 @@
     <string name="ask_to_allow_webpage_to_paste_text">%DOMAIN% へテキストをペーストしますか？</string>
     <string name="option_allow">許可</string>
     <string name="option_deny">拒否</string>
+    <string name="title_disable_safe_browsing">セーフブラウジングを無効にします</string>
     
     <!-- 設定｜スクリプト -->
     <string name="settings_script">スクリプト</string>
@@ -371,7 +377,7 @@
     
     <!-- ダウンロード --> 
     <string name="no_download_tasks">ダウンロードアイテムがありません</string>
-    <string name="action_re_download">再ダウンロード</string>
+    <string name="action_re_download">再度ダウンロード</string>
     <string name="action_copy_download_link">アドレスをコピー</string>
     <string name="download_failed">ダウンロードに失敗しました</string>
     <string name="view_downloads">開く</string>
@@ -396,6 +402,16 @@
     <string name="message_re_download">ダウンロード済みの %1$s を削除して再ダウンロードしますか？</string>
     <string name="app_downloading_files">Viaがファイルをダウンロード中です</string>
     <string name="app_downloading_files_subtitle">タップしてダウンロードを表示</string>
+    <string name="download_status_waiting_for_network">ネットワークの待機中です</string>
+    <string name="download_failed_with_message">%1$s によりダウンロードが失敗しました</string>
+    <string name="download_filter_all">全て</string>
+    <string name="download_filter_others">その他</string>
+    <string name="download_filter_documents">ドキュメント</string>
+    <string name="download_filter_images">画像</string>
+    <string name="download_filter_video">動画</string>
+    <string name="download_filter_apk">APK</string>
+    <string name="download_filter_audio">音声</string>
+    <string name="download_filter_archives">圧縮ファイル</string>
 
     <!-- ポップアップ -->     
     <string name="entered_full_screen_mode">フルスクリーンモードに切り替えました</string>
