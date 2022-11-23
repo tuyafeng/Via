@@ -697,4 +697,26 @@
     <string name="message_no_cookies">Немає Cookies.</string>
     <string name="toast_cookies_for_site_cleared">Cookies для %1$s порожні</string>
     <string name="toast_site_does_not_support_resource_sniffing">Цей сайт не підтримує аналіз ресурсів</string>
+    <string name="desc_expand_text">Розгорнути текст</string>
+    <string name="desc_collapse_text">Згорнути текст</string>
+    <string name="desc_clear_text">Очистити текст</string>
+    <string name="title_search_suggestions">Пошукові пропозиції</string>
+    <string name="message_search_suggestions">Пропонувати при використанні адресного рядка</string>
+    <string name="title_open_tabs">Відкрити вкладки</string>
+    <string name="desc_fill_in_text">Заповнити текст</string>
+    <string name="directory_name">Ім\'я теки</string>
+    <string name="action_default_location">Тека за умовчанням</string>
+    <string name="action_choose_folder">Вибір теки…</string>
+    <string name="title_permission_denied">Відмовлено в дозволі</string>
+    <string name="message_reselect_download_location">Дозвіл до сховища для завантаження відкликано. Ще раз виберіть розташування папки для завантаження.</string>
+    <string name="detect_language">Визначити мову</string>
+    <string name="title_source_language">Мова оригіналу</string>
+    <string name="title_target_language">Мова перекладу</string>
+    <string name="desc_swap_language">Змінити мови</string>
+    <string name="desc_paste_text">Вставити текст</string>
+    <string name="translation_engine_google_text">Перекладач тексту Google</string>
+    <string name="title_scripts_for_site">Скрипти для %1$s</string>
+    <string name="disabled">Вимкнено</string>
+    <string name="enabled">Увімкнено</string>
+    <string name="action_view_in_settings">Переглянути в налаштуваннях</string>
 </resources>
