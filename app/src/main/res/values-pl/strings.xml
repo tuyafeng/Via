@@ -117,7 +117,7 @@
     <string name="operation_top">Przewiń na samą górę</string>
     <string name="operation_bottom">Przewiń na sam dół</string>
     <string name="operation_input">Wprowadź adres</string>
-   <string name="operation_openbookmark">Otwórz zakładkę</string>
+    <string name="operation_openbookmark">Otwórz zakładkę</string>
     <string name="operation_openhistory">Otwórz historię</string>
     <string name="operation_closetab">Zamknij kartę</string>
     <string name="operation_lasttab">Ostatnia karta</string>
@@ -308,7 +308,7 @@
     <string name="message_delete_downloading_task">Pobrany plik również zostanie usunięty. Kontynuować?</string>
     <string name="message_delete_downloaded_task">Usunąć zadanie?</string>
     <string name="message_delete_downloaded_file">Usunąć także pobrany plik?</string>
-    <string name="block_popup_message">Zablokowano Wyskakujące okno.</string>
+    <string name="block_popup_message">Zablokowano wyskakujące okno.</string>
     <string name="allow_popup">Zezwól tym razem</string>
     <string name="system_download_manager">Systemowy</string>
     <string name="action_play_with">Odtwórz w&#8230;</string>
@@ -329,8 +329,8 @@
     <string name="ui_simple_bottom">Tylko dół</string>
     <string name="file_does_not_exist">Plik nie istnieje.</string>
     <string name="dialog_message_from">Wiadomość z %1$s</string>
-    <string name="filter_subscriptions">Listy z Adblock Plusa</string>
-    <string name="filter_subscriptions_description">Zarządzaj listami filtrów z tegoż programu.</string>
+    <string name="filter_subscriptions">Listy z AdBlocka</string>
+    <string name="filter_subscriptions_description">Zarządzaj listami filtrów z tego programu.</string>
     <string name="filter_subscription_exist">Ta lista filtrów już istnieje.</string>
     <string name="custom_filters">Własne filtry</string>
     <string name="custom_filters_description">Wliczane są tu także elementy stron oznaczone jako reklamy.</string>
@@ -358,7 +358,6 @@
         <item quantity="one">1 filtr</item>
         <item quantity="few">%d filtry</item>
         <item quantity="other">%d filtrów</item>
-        <item quantity="many">%d filtrów</item>
     </plurals>
     <string name="updated_">ost. aktualizacja: %1$s</string>
     <string name="filter_subscription_info">%1$s, %2$s</string>
@@ -370,8 +369,8 @@
     <string name="privacy_policy">Polityka prywatności</string>    
     <string name="terms_of_use">Warunki korzystania</string>
     <string name="welcome">Witamy</string>
-    <string name="agreement_message">Zanim zaczniesz korzystać z aplikacji, zapoznaj się z poniższymi tekstami. Aby kontynuować, zaakceptuj to, co jest w nich zawarte.</string>
-    <string name="agreement_message_short">Zaakceptuj treść poniższych tekstów, aby kontynuować.</string>
+    <string name="agreement_message">Zanim zaczniesz korzystać z aplikacji, zapoznaj się z poniższymi dokumentami. Aby kontynuować, zaakceptuj to, co jest w nich zawarte.</string>
+    <string name="agreement_message_short">Zaakceptuj treść poniższych dokumentów, aby kontynuować.</string>
     <string name="agree_and_continue">Akceptuję</string>
     <string name="disagree">Nie akceptuję</string>
     <string name="exit">Wyjdź</string>
@@ -415,7 +414,7 @@
     <string name="bookmarks_history">Zakładki / historia</string>
     <string name="done">Zrobione</string>
     <string name="root_folder">Folder główny</string>
-    <string name="delete_item_message">Czy na pewno mam usunąć \"%1$s\"?</string>
+    <string name="delete_item_message">Usunąć \"%1$s\"?</string>
     <string name="item_has_been_deleted">Usunięto \"%1$s\".</string>
     <string name="undo">Cofnij</string>
     <string name="can_not_sort_list_when_sorting_alphabetically">Nie można posortować listy, gdy jest sortowana alfabetycznie</string>
@@ -459,7 +458,7 @@
     <string name="new_version_available">Dostępna nowa wersja</string>
     <string name="action_download_file">Pobierz</string>
     <string name="entered_full_screen_mode">Przejście do trybu pełnoekranowego</string>
-    <string name="delete_hint">Usuń(%1$d)</string>
+    <string name="delete_hint">Usuń (%1$d)</string>
     <string name="follow_system_dark_mode_on">Śledzenie systemowego trybu ciemnego włączone</string>
     <string name="scoped_search">Wyszukaj %1$s</string>
     <string name="add_shortcut">Dodaj skrót</string>
@@ -582,4 +581,162 @@
     <string name="ssl_warning_certificate_invalid">Certyfikat jest już nieważny</string>
     <string name="ssl_warning_certificate_not_yet_valid">Certyfikat jest jeszcze nieważny</string>
     <string name="the_site">Strona</string>
+    <string name="navigation_up">Do góry</string>
+    <string name="hide_popup_window">Ukryj wyskakujące okno</string>
+    <plurals name="open_tabs">
+        <item quantity="zero">0 kart</item>
+        <item quantity="one">1 karta</item>
+        <item quantity="few">%d karty</item>
+        <item quantity="other">%d kart</item>
+    </plurals>
+    <string name="qr_code">Kod QR</string>
+    <string name="download_progress_speed">%1$s • %2$s</string>
+    <string name="download_progress_speed_eta">%1$s • %2$s • %3$s</string>
+    <string name="download_speed_unknown">b/d</string>
+    <string name="download_eta_unknown">-</string>
+    <plurals name="hours_left">
+        <item quantity="zero">0 godzin do końca</item>
+        <item quantity="one">1 godzina do końca</item>
+        <item quantity="few">%d godziny do końca</item>
+        <item quantity="other">%d godzin do końca</item>
+    </plurals>
+    <plurals name="mins_left">
+        <item quantity="zero">0 minut do końca</item>
+        <item quantity="one">1 minuta do końca</item>
+        <item quantity="other">%d minuty do końca</item>
+        <item quantity="other">%d minut do końca</item>
+    </plurals>
+    <plurals name="secs_left">
+        <item quantity="zero">0 sekund do końca</item>
+        <item quantity="one">1 sekunda do końca</item>
+        <item quantity="few">%d sekundy do końca</item>
+        <item quantity="other">%d sekund do końca</item>
+    </plurals>
+    <string name="translation_engine_google">Tłumacz Google</string>
+    <string name="translation_engine_baidu">Tłumacz Baidu</string>
+    <string name="ignore_site_message_for_a_minute">Zignoruj tą wiadomość na jakiś czas</string>
+    <string name="download_status_waiting_for_network">Czekam na sieć</string>
+    <string name="download_failed_with_message">Pobieranie nie powiodło się: %1$s</string>
+    <string name="remove_identifying_headers">Usuwaj nagłówki identyfikujące</string>
+    <string name="remove_identifying_headers_description">Po włączeniu nagłówki X-Requested-With i X-Wap-Profile będą puste, co może powodować nieprawidłowe działanie stron.</string>
+    <string name="agent_windows_chrome">Windows (Chrome)</string>
+    <string name="agent_windows_ie11">Windows (IE 11)</string>
+    <string name="agent_android_phone">Android (Smartfon)</string>
+    <string name="agent_android_tablet">Android (Tablet)</string>
+    <string name="agent_ipad">iPad</string>
+    <string name="agent_osx">macOS</string>
+    <string name="toutiao_url">Toutiao</string>
+    <string name="title_can_not_be_empty">Tytuł nie może być pusty</string>
+    <string name="user_agent_can_not_be_empty">User-agent nie może być pusty</string>
+    <string name="download_filter_all">Wszystko</string>
+    <string name="download_filter_others">Inne</string>
+    <string name="download_filter_documents">Dokumenty</string>
+    <string name="download_filter_images">Obrazy</string>
+    <string name="download_filter_video">Wideo</string>
+    <string name="download_filter_apk">APK</string>
+    <string name="download_filter_audio">Audio</string>
+    <string name="download_filter_archives">Archiwa</string>
+    <string name="simple_guide_of_writing_userscript"><![CDATA[
+        <b>Blok metadanych</b><br />
+        Metadane muszą być w poniższym formacie:<br />
+        <tt>
+        // ==UserScript==<br />
+        // @klucz wartość<br />
+        // ==/UserScript==
+        </tt>
+        <br /><br />
+        <b><tt>@name</tt></b>: Nazwa skryptu.
+        <br /><br />
+        <b><tt>@namespace</tt></b>: Kombinacja klucza <tt>@namespace</tt> i <tt>@name</tt> stanowi unikatowy identyfikator skryptu.
+        <br /><br />
+        <b><tt>@match/@exclude-match</tt></b>: Określ czy skrypt powinien być wykonywany. Zalecane jest korzystanie z klucza <tt>@match</tt> zamiast <tt>@include</tt>.
+        <br /><br />
+        <b><tt>@include/@exclude</tt></b>: Stary sposób na określenie czy skrypt powinien być wykonywany.
+        <br /><br />
+        <b><tt>@version</tt></b>: Wersja skryptu.
+        <br /><br />
+        <b><tt>@description</tt></b>: Opis skryptu.
+        <br /><br />
+        <b><tt>@author</tt></b>: Autor(zy) skryptu.
+        <br /><br />
+        <b><tt>@require</tt></b>: Wymagania skryptu. Na przykład: <br /><tt>// @require https://my.cdn.com/jquery.js</tt>.
+        <br /><br />
+        <b><tt>@run-at</tt></b>: Określ kiedy skrypt ma być wykonywany. Klucz <tt>document-start</tt> jest używany do wstrzykiwania skryptów przed załadowaniem się strony, a <tt>document-end</tt> - po załadowaniu się strony.
+        <br /><br />
+        <b><tt>@grant</tt></b>: Określ które specjalne API GM_* powinny być dołączone i użyte przy wykonywaniu skryptu.<br />
+        <br /><br />
+        <b><tt>@downloadURL</tt></b>: Adres, z którego skrypt może zostać pobrany.
+        <br /><br />
+        <b><tt>@supportURL</tt></b>: Adres wsparcia dla skryptu.
+        <br /><br />
+        <b><tt>@homepageURL</tt></b>: Strona internetowa skryptu.
+        <br /><br />
+        <b>API GM_*</b><br />
+        <tt>GM_*</tt> to grupa specjalnych API dostępnych w aplikacji Via. Obecnie wspierane API: <br/>
+        <tt>GM_getValue/GM_setValue/GM_deleteValue/GM_listValues/GM_getResourceText/GM_getResourceURL/GM_addElement/GM_addStyle/GM_setClipboard/GM_xmlhttpRequest/GM_download</tt>.
+        <br /><br />
+        <b>Dopasowanie</b><br />
+        <tt>@match</tt> definiuje regułę dopasowania adresu. <tt>@exclude-match</tt> wyklucza dopasowane adresy, podobnie jak <tt>@exclude</tt>.
+        <br /><br />
+        Na przykład:<br />
+        <tt>
+        // @match https://www.google.com/cośtam <br />
+        // @match https://www.google.com/cokolwiek/* <br />
+        // @exclude-match https://www.google.com/cokolwiek/ale-nie-to
+        </tt>
+        <br /><br />
+    ]]></string>
+    <string name="toast_install_script_successfully">Skrypt \"%1$s\" został zainstalowany.</string>
+    <string name="toast_install_script_failed_unknown">Skrypt \"%1$s\" nie został zainstalowany.</string>
+    <string name="toast_install_script_failed_dependency_error">Pobieranie zależności \"%1$s\" nie powiodło się.</string>
+    <string name="title_install_script">Instalacja skryptu</string>
+    <string name="message_install_script">Zainstalować skrypt \"%1$s\"(%2$s)?</string>
+    <string name="title_reinstall_script">Reinstalacja skryptu</string>
+    <string name="message_reinstall_script">Zainstalować ponownie skrypt \"%1$s\"(%2$s)?</string>
+    <string name="title_update_script">Aktualizacja skryptu</string>
+    <string name="message_update_script">Zaktualizować skrypt \"%1$s\"(%2$s -> %3$s)?</string>
+    <string name="toast_parsing_script">Przetwarzanie skryptu…</string>
+    <string name="title_add_metadata_block">Dodawanie bloku metadanych</string>
+    <string name="message_add_metadata_block">Ten skrypt nie zawiera bloku metadanych, więc nie może zostać zapisany. Dodać domyślny blok metadanych?</string>
+    <string name="title_disable_safe_browsing">Wyłącz bezpieczne przeglądanie</string>
+    <string name="title_close_all_tabs">Zamknij wszystkie karty</string>
+    <string name="message_close_all_tabs_before_disabling_incognito_mode">Zamknąć wszystkie karty przed wyłączeniem trybu prywatnego?</string>
+    <string name="action_close">Zamknij</string>
+    <string name="action_keep">Zachowaj</string>
+    <string name="desc_bookmark_folder">%1$s folder</string>
+    <string name="message_splash_agreement">Korzystając z aplikacji Via, akceptujesz treść dokumentów: %1$s i %2$s.</string>
+    <string name="translation_engine_google_in_page">Tłumacz Google (strony)</string>
+    <string name="title_feedback">Opinia</string>
+    <string name="action_view_cookies">Pokaż ciasteczka</string>
+    <string name="title_cookies_for_site">Ciasteczka dla strony %1$s</string>
+    <string name="message_no_cookies">Brak ciasteczek.</string>
+    <string name="toast_cookies_for_site_cleared">Ciasteczka dla strony %1$s zostały wyczyszczone</string>
+    <string name="toast_site_does_not_support_resource_sniffing">Ta strona nie wspiera wykrywania zasobów</string>
+    <string name="desc_expand_text">Rozwiń tekst</string>
+    <string name="desc_collapse_text">Zwiń tekst</string>
+    <string name="desc_clear_text">Wyczyść tekst</string>
+    <string name="title_search_suggestions">Sugestie wyszukiwania</string>
+    <string name="message_search_suggestions">Sugeruj poniższą zawartość przy korzystaniu z paska adresu</string>
+    <string name="title_open_tabs">Otwarte karty</string>
+    <string name="desc_fill_in_text">Wypełnij tekst</string>
+    <string name="directory_name">Nazwa folderu</string>
+    <string name="action_default_location">Domyślne miejsce</string>
+    <string name="action_choose_folder">Wybierz folder…</string>
+    <string name="title_permission_denied">Odmowa uprawnień</string>
+    <string name="message_reselect_download_location">Uprawnienie do zapisu w tym miejscu zostało cofnięte. Ustaw ponownie miejsce do pobierania plików.</string>
+    <string name="detect_language">Wykryj język</string>
+    <string name="title_source_language">Język źródłowy</string>
+    <string name="title_target_language">Język docelowy</string>
+    <string name="desc_swap_language">Zamień</string>
+    <string name="desc_paste_text">Wklej tekst</string>
+    <string name="translation_engine_google_text">Tłumacz Google (tekst)</string>
+    <string name="sourcenao_url">SourceNAO</string>
+    <string name="iqdb_url">IQDB</string>
+    <string name="iqdb_3d_url">3D IQDB</string>
+    <string name="whatanime_url">WhatAnime</string>
+    <string name="ascii2d_url">Ascii2D</string>
+    <string name="title_scripts_for_site">Skrypty dla strony %1$s</string>
+    <string name="disabled">Wył.</string>
+    <string name="enabled">Wł.</string>
+    <string name="action_view_in_settings">Pokaż w ustawieniach</string>
 </resources>
