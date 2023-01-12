@@ -724,4 +724,18 @@
     <string name="disabled">Disabled</string>
     <string name="enabled">Enabled</string>
     <string name="action_view_in_settings">View in settings</string>
+    <string name="message_delete_following_items">Are you sure you want to delete the following items?</string>
+    <string name="list_item">• %1$s</string>
+    <string name="action_reset">Reset</string>
+    <string name="title_reset_site_conf">Reset site configuration</string>
+    <string name="message_reset_site_conf">Are you sure you want to reset site configuration for %1$s?</string>
+    <string name="title_ignore_ssl_warnings">Ignore SSL certificate warnings</string>
+    <string name="title_ignore_ssl_warnings_description">Be careful, ignoring ssl certificate warnings may make connection to website insecure</string>
+    <string name="message_ignore_ssl_warnings">SSL certificates are used to verify website identities and encrypt connection. It\'s like putting a letter in an envelope and posting it, only you and the website can open envelope and read the letter.\n\nOnce you ignore the SSL warnings, the connection to the website may be insecure, which means that the data transmitted with the website may be stolen. It\'s like putting the letter in a broken envelope and posting it, someone who forged the certificate could open it.</string>
+    <string name="title_ignore_ssl_warnings_confirmation">I know this may make connection insecure</string>
+    <string name="title_disable_safe_browsing_description">Safe browsing allows WebView to protect against malware and phishing attacks by verifying the links</string>
+    <string name="action_close_all_tabs">Close all tabs</string>
+    <string name="action_close_other_tabs">Close other tabs</string>
+    <string name="action_close_tabs_to_the_bottom">Close tabs to the bottom</string>
+    <string name="action_close_tabs_to_the_top">Close tabs to the top</string>
 </resources>
