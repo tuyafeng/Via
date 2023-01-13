@@ -722,4 +722,18 @@
     <string name="disabled">Desativado</string>
     <string name="enabled">Ativado</string>
     <string name="action_view_in_settings">Ver nas configurações</string>
+    <string name="message_delete_following_items">Tem certeza de que deseja excluir os seguintes itens?</string>
+    <string name="list_item">• %1$s</string>
+    <string name="action_reset">Redefinir</string>
+    <string name="title_reset_site_conf">Redefinir configuração do site</string>
+    <string name="message_reset_site_conf">Tem certeza que deseja redefinir a configuração do site para %1$s?</string>
+    <string name="title_ignore_ssl_warnings">Ignorar avisos de certificado SSL</string>
+    <string name="title_ignore_ssl_warnings_description">Cuidado, ignorando os avisos do certificado ssl pode tornar a conexão com o site insegura</string>
+    <string name="message_ignore_ssl_warnings">Os certificados SSL são usados para verificar as identidades do site e criptografar a conexão. É como colocar uma carta em um envelope e postá-la, somente você e o site podem abrir o envelope e ler a carta.\n\nUma vez que você ignorar os avisos SSL, a conexão com o site pode ser insegura, o que significa que os dados transmitidos com o site podem ser roubados. É como colocar a carta em um envelope rasgada e postá-la, alguém que pode consertar poderia ler.</string>
+    <string name="title_ignore_ssl_warnings_confirmation">Eu sei que isso pode tornar a conexão insegura</string>
+    <string name="title_disable_safe_browsing_description">Navegação segura permite que o WebView proteja contra ataques de malware e phishing, verificando os links</string>
+    <string name="action_close_all_tabs">Fechar todas as abas</string>
+    <string name="action_close_other_tabs">Fechar outras abas</string>
+    <string name="action_close_tabs_to_the_bottom">Fechar abas de baixo</string>
+    <string name="action_close_tabs_to_the_top">Fechar abas de cima</string>
 </resources>
