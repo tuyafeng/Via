@@ -719,4 +719,18 @@
     <string name="disabled">Вимкнено</string>
     <string name="enabled">Увімкнено</string>
     <string name="action_view_in_settings">Переглянути в налаштуваннях</string>
+	<string name="message_delete_following_items">Видалити наступні елементи?</string>
+    <string name="list_item">• %1$s</string>
+    <string name="action_reset">Скидання</string>
+    <string name="title_reset_site_conf">Скидання конфігурацій сайту</string>
+    <string name="message_reset_site_conf">Скинути конфігурації сайту для %1$s?</string>
+    <string name="title_ignore_ssl_warnings">Ігнорувати попередження SSL сертифікатів</string>
+    <string name="title_ignore_ssl_warnings_description">Будьте обережні, ігнорування попереджень SSL сертифікатів може зробити підключення до веб-сайту небезпечним</string>
+    <string name="message_ignore_ssl_warnings">SSL сертифікати використовуються для перевірки ідентичності веб-сайтів і шифрування з\'єднання. Це як покласти лист у конверт і надіслати його, тобто лише ви та веб-сайт зможете відкрити конверт і прочитати листа.\n\nЯкщо ви проігноруєте попередження SSL, з\'єднання з веб-сайтом може бути небезпечним, а це означає, що дані, які передаються з веб-сайту, можуть бути викрадені. Це все одно, що покласти лист у розірваний конверт і надіслати його, щоб хтось, хто підробив сертифікат, міг прочитати листа.</string>
+    <string name="title_ignore_ssl_warnings_confirmation">Я розумію, що це може зробити з\'єднання небезпечним</string>
+    <string name="title_disable_safe_browsing_description">Безпечний перегляд дозволяє WebView захищатися від шкідливих програм і фішингових атак, перевіряючи посилання</string>
+    <string name="action_close_all_tabs">Закрити всі вкладки</string>
+    <string name="action_close_other_tabs">Закрити інші вкладки</string>
+    <string name="action_close_tabs_to_the_bottom">Закрити вкладки нижче</string>
+    <string name="action_close_tabs_to_the_top">Закрити вкладки вище</string>
 </resources>
