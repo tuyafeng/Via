@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources tools:ignore="MissingTranslation" xmlns:tools="http://schemas.android.com/tools">
-
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
     <string name="app_name">Via</string>
     <string name="action_new_tab">Tab mới</string>
     <string name="action_open_in_new">Mở trong Tab mới</string>
@@ -12,7 +11,12 @@
     <string name="action_add_bookmark">Đánh dấu trang</string>
     <string name="action_night">Chế độ ban đêm</string>
     <string name="action_copy">Sao chép liên kết</string>
+    <string name="action_block_domain">Chặn tên miền</string>
+    <string name="action_unblock_domain">Bỏ chặn tên miền</string>
+    <string name="action_unblock_url">Bỏ chặn liên kết</string>
+    <string name="action_block_url">Chặn liên kết</string>
     <string name="action_copy_text">Sao chép văn bản</string>
+    <string name="action_copy_link_text">Sao chép văn bản liên kết</string>
     <string name="action_tools">Công cụ</string>
     <string name="settings">Cài Đặt</string>
     <string name="location">Truy cập Vị trí</string>
@@ -72,6 +76,11 @@
     <string name="sougou_url">Sougou</string>
     <string name="block_ads">Chặn Quảng cáo</string>
     <string name="message_untrusted_certificate">Chứng chỉ của trang web không đáng tin cậy. Bạn có muốn tiếp tục?</string>
+    <string name="message_date_invalid_certificate">Ngày chứng chỉ của trang web không hợp lệ. Vẫn tiếp tục?</string>
+    <string name="message_expired_certificate">Giấy chứng nhận của trang web đã hết hạn. Vẫn tiếp tục?</string>
+    <string name="message_hostname_mismatch_certificate">Chứng chỉ của trang web không khớp với tên máy chủ. Vẫn tiếp tục?</string>
+    <string name="message_invalid_certificate">Chứng chỉ của trang web không hợp lệ. Vẫn tiếp tục?</string>
+    <string name="message_not_yet_valid_certificate">Giấy chứng nhận của trang web vẫn chưa hợp lệ. Vẫn tiếp tục?</string>
     <string name="title_form_resubmission">Gửi lại Biểu mẫu</string>
     <string name="message_form_resubmission">Bạn có muốn gửi lại dữ liệu?</string>
     <string name="message_location">\nTrang web cần sử dụng vị trí của bạn</string>
@@ -157,7 +166,6 @@
     <string name="open_with">Mở bằng&#8230;</string>
     <string name="download_completed">Hoàn tất tải xuống</string>
     <string name="toast_fullscreen_off">Thoát khỏi chế độ toàn màn hình</string>
-
     <string name="clear_data">Xóa dữ liệu</string>
     <string name="data_cache">Cache</string>
     <string name="data_form_data">Dữ liệu biểu mẫu</string>
@@ -165,38 +173,26 @@
     <string name="data_storage">Bộ nhớ trang web</string>
     <string name="data_cookies">Cookies</string>
     <string name="data_cleared">Đã xóa dữ liệu</string>
-
     <string name="sync_desc">Tài khoản sẽ được tạo nếu không tồn tại</string>
-
     <string name="settings_skin">Tùy chỉnh</string>
     <string name="default_set">Mặc định</string>
     <string name="picture">Ảnh</string>
     <string name="text">Văn bản</string>
     <string name="html_code">Html Code</string>
-
     <string name="action_view_image">Xem ảnh</string>
-
     <string name="skin_colorful">Nhiều màu sắc</string>
     <string name="skin_fruity">Trái cây</string>
     <string name="skin_transparent">Trong suốt</string>
-
     <string name="block_popup">Chặn Popup</string>
-
     <string name="action_save_web_page">Lưu trang web</string>
     <string name="action_saved_pages">Trang đã lưu</string>
     <string name="saved_page_successfully">Lưu trang thành công, nó nằm trong hộp công cụ: Trang đã lưu</string>
     <string name="deleted_failed">Xóa bỏ thất bại. Tập tin nằm trong đường dẫn tải về: </string>
-
     <string name="empty_hint">Không có gì để hiển thị&#8230;</string>
-
     <string name="network_log">Nhật ký mạng</string>
-
     <string name="conn_timeout">Kết nối quá hạn</string>
-
     <string name="already_default">Đã được thiết lập về mặc định</string>
-
     <string name="set_to_default">Điều này sẽ được thiết lập thành mặc định sau khi mở liên kết(%1$s), hãy chọn Via để mở liên kết.</string>
-
     <string name="sync_prompt">Điều này sẽ ghi đè lên dấu trang và cài đặt hiện tại của bạn. Bạn có muốn tiếp tục?</string>
     <string name="upload_prompt">Điều này sẽ tải lên dấu trang và cài đặt hiện tại của bạn. Bạn có muốn tiếp tục?</string>
     <string name="none">Không có</string>
@@ -253,7 +249,6 @@
     <string name="color_mode_hint">Thanh địa chỉ màu sắc khi duyệt web</string>
     <string name="skin_hide_search_part">Ẩn khung Tìm kiếm</string>
     <string name="file_size">Kích thước tệp: %1$s</string>
-    Nhấp để Xem
     <string name="search_by_image">Tìm kiếm hình ảnh</string>
     <string name="resource_sniffer">Tải về tài nguyên</string>
     <string name="res_log_hint">Nhấp vào mục để xem trước, nhấn giữ để tải xuống hoặc làm điều khác.</string>
@@ -271,4 +266,462 @@
     <string name="page_info_url">URL trang:</string>
     <string name="page_info_link">Địa chỉ liên kết:</string>
     <string name="no_network">Kết nối mạng không khả dụng</string>
+    <string name="title_app_chooser">Chọn ứng dụng</string>
+    <string name="clear_data_on_exit">Xóa dữ liệu khi thoát</string>
+    <string name="action_add_to_homepage">Thêm vào trang chủ</string>
+    <string name="added_favorite_hint">Đã thêm vào trang chủ thành công</string>
+    <string name="title_edit_favorite">Chỉnh sửa yêu thích</string>
+    <string name="custom_css_special">Tuỳ chỉnh CSS</string>
+    <string name="force_enable_zoom">Bật buộc thu phóng</string>
+    <string name="set_ua_as">Tác nhân người dùng được đặt là: %1$s</string>
+    <string name="import_data">Nhập dữ liệu</string>
+    <string name="import_data_failed">Nhập dữ liệu thất bại!</string>
+    <string name="import_data_succeed">Nhập dữ liệu thành công!</string>
+    <string name="export_data">Xuất dữ liệu</string>
+    <string name="export_data_to">Xuất dữ liệu sang: %1$s</string>
+    <string name="always_restore">Luôn khôi phục</string>
+    <string name="ask_first">Hỏi trước</string>
+    <string name="disable_restore">Không khôi phục</string>
+    <string name="data_file">Xuất dữ liệu</string>
+    <string name="bookmarks_data_to_long">Dữ liệu dấu trang quá lớn để tải lên nhưng dữ liệu khác sẽ được tải lên bình thường. Tiếp tục?</string>
+    <string name="restore_tabs_hint_settings">Các tab sẽ không được khôi phục khi bạn ở \"Chế độ ẩn danh\".</string>
+    <string name="ignore_secondary_ssl_error">Bỏ qua lỗi SSL phụ</string>
+    <string name="web_page_debug">Bật gỡ lỗi trang web</string>
+    <string name="web_page_debug_info">Giờ đây, bạn có thể kết nối điện thoại của mình với máy tính, sau đó gỡ lỗi trang web bằng Chrome (PC) bằng cách sử dụng \"chrome://inspect\". Trước tiên hãy nhớ bật Gỡ lỗi USB trong menu: Công cụ khác &gt; Công cụ dành cho nhà phát triển.</string>
+    <string name="no_download_tasks">Trống</string>
+    <string name="action_re_download">Tải xuống lại</string>
+    <string name="action_copy_download_link">Sao chép liên kết tải xuống</string>
+    <string name="download_failed">Tải xuống thất bại</string>
+    <string name="view_downloads">Hiển thị</string>
+    <string name="message_delete_downloading_task">Tệp đã tải xuống cũng sẽ bị xóa. Bạn có chắc không?</string>
+    <string name="message_delete_downloaded_task">Xóa tác vụ đã tải xuống này?</string>
+    <string name="message_delete_downloaded_file">Bao gồm tệp đã tải xuống</string>
+    <string name="block_popup_message">Cửa sổ bật lên bị chặn</string>
+    <string name="allow_popup">Cho phép một lần</string>
+    <string name="system_download_manager">Trình quản lý tải xuống hệ thống</string>
+    <string name="action_play_with">Chơi với&#8230;</string>
+    <string name="show_sniffer_btn_automatically">Tự động hiển thị nút trình thám thính</string>
+    <string name="open_file_failed">Không thể tìm thấy ứng dụng được liên kết để mở tệp</string>
+    <string name="cloud_data_server">Máy chủ dữ liệu đám mây</string>
+    <string name="chinese_server">Trung Quốc</string>
+    <string name="global_server">Quốc tế</string>
+    <string name="server_message">Dữ liệu của các máy chủ này không được đồng bộ hóa. Bạn sẽ được yêu cầu đăng nhập lại.</string>
+    <string name="delete_bookmark_folder_message">Dấu trang trong thư mục %1$s cũng sẽ bị xóa. Bạn có chắc không?</string>
+    <string name="action_new">Tạo mới</string>
+    <string name="block_hint">Bị chặn: %1$s\nLàm mới để có hiệu lực.</string>
+    <string name="unblock_hint">Đã bỏ chặn: %1$s\nLàm mới để có hiệu lực.</string>
+    <string name="block_3rd_party_cookies">Chặn cookie của bên thứ ba</string>
+    <string name="enable_site_conf">Bật cấu hình trang web cho %1$s</string>
+    <string name="site_conf">Cấu hình trang web</string>
+    <string name="ui_simple_top">Thanh công cụ ở trên cùng</string>
+    <string name="ui_simple_bottom">Thanh công cụ ở phía dưới</string>
+    <string name="file_does_not_exist">Tập tin không tồn tại</string>
+    <string name="dialog_message_from">Tin nhắn từ %1$s</string>
+    <string name="filter_subscriptions">Bộ lọc</string>
+    <string name="filter_subscriptions_description">Danh sách bộ lọc Adblock Plus</string>
+    <string name="filter_subscription_exist">Đăng ký bộ lọc đã tồn tại.</string>
+    <string name="custom_filters">Bộ lọc tùy biến</string>
+    <string name="custom_filters_description">Bao gồm các bộ lọc tùy chỉnh và quảng cáo được đánh dấu</string>
+    <string name="custom_filter">Bộ lọc tùy chỉnh</string>
+    <string name="add_filter_subscription">Thêm bộ lọc</string>
+    <string name="edit_filter_subscription">Chỉnh sửa bộ lọc</string>
+    <string name="updating_filter_subscriptions">Cập nhật bộ lọc</string>
+    <string name="update_filter_subscriptions_completed">Đã hoàn tất cập nhật bộ lọc.</string>
+    <string name="update_filter_subscription_failed">Cập nhật bộ lọc không thành công.\n%1$s</string>
+    <string name="has_not_been_updated">chưa được cập nhật</string>
+    <string name="just_now">vừa xong</string>
+    <string name="url_is_invalid">URL không hợp lệ.</string>
+    <string name="simple_guide_of_writing_rule">Via hỗ trợ hầu hết tất cả các bộ lọc Adblock Plus.
+        \nYou can block requests from example.com with a filter such as:
+        \n||example.com^ (or simply: example.com)
+        \n\nWildcard is acceptable such as:
+        \n||example.com/js/ads_*.js
+        \n\nFor webpage elements use a filter such as:
+        \nexample.com###ad
+        \n\nYou can unblock special requests with a filter such as:
+        \n@@||example.com^</string>
+    <string name="help">Trợ giúp</string>
+    <string name="learn_more">Tìm hiểu thêm</string>
+    <plurals name="filters">
+        <item quantity="other">%d bộ lọc</item>
+    </plurals>
+    <string name="updated_">đã cập nhật %1$s</string>
+    <string name="filter_subscription_info">%1$s, %2$s</string>
+    <string name="enable_built_in_filters">Bật bộ lọc tích hợp</string>
+    <string name="enable_built_in_filters_description">Bộ lọc tích hợp chỉ chặn các quảng cáo phổ biến</string>
+    <string name="update">Cập nhật</string>
+    <string name="bookmarks_exported_successfully">Đã xuất dấu trang thành công</string>
+    <string name="data_exported_successfully">Đã xuất dữ liệu thành công</string>
+    <string name="privacy_policy">Chính sách bảo mật</string>
+    <string name="terms_of_use">Điều khoản sử dụng</string>
+    <string name="welcome">Chào mừng</string>
+    <string name="agreement_message">Chào mừng đến với Via. Vui lòng đọc kỹ các thỏa thuận sau đây trước khi sử dụng Via. Bạn cần đồng ý và chấp nhận tất cả các điều khoản và điều kiện trước khi bắt đầu sử dụng dịch vụ của chúng tôi.</string>
+    <string name="agreement_message_short">Bạn cần đồng ý và chấp nhận tất cả các điều khoản trước khi bắt đầu sử dụng dịch vụ của chúng tôi.</string>
+    <string name="agree_and_continue">Đồng ý</string>
+    <string name="disagree">Không đồng ý</string>
+    <string name="exit">Thoát</string>
+    <string name="delete_account">Xoá tài khoản</string>
+    <string name="delete_account_request_submitted">Yêu cầu xóa tài khoản đã được gửi.</string>
+    <string name="delete_account_hint">Xóa tài khoản khỏi máy chủ</string>
+    <string name="delete_account_message">Sau khi gửi yêu cầu xóa, tài khoản sẽ bị đăng xuất và bước vào thời gian chờ xóa 15 ngày. Nếu bạn đăng nhập lại vào tài khoản và tải dữ liệu lên trong thời gian chờ đợi, yêu cầu xóa của bạn sẽ bị rút lại. Sau khi hết thời gian chờ đợi, tài khoản và dữ liệu liên quan sẽ bị xóa hoàn toàn khỏi máy chủ.\nVui lòng nhập mật khẩu của bạn để gửi yêu cầu.</string>
+    <string name="confirm_to_delete">Xác nhận để xóa</string>
+    <string name="items_selected">%1d đã chọn</string>
+    <string name="select_all">Chọn tất cả</string>
+    <string name="multi_choice">Chọn nhiều đáp án</string>
+    <plurals name="delete_download_tasks">
+        <item quantity="other">Đã xóa %d tác vụ tải xuống</item>
+    </plurals>
+    <string name="open_source_licenses">Giấy phép nguồn mở</string>
+    <string name="debugging_info">Thông tin gỡ lỗi</string>
+    <string name="join_qq_group">Gia nhập nhóm QQ</string>
+    <string name="join_telegram_group">Tham gia nhóm Telegram</string>
+    <string name="follow_me_on_twitter">Theo dõi tôi trên Twitter</string>
+    <string name="follow_me_on_weibo">Theo dõi tôi trên Weibo</string>
+    <string name="version">Phiên bản</string>
+    <string name="paste_and_go">Dán &amp; Đi</string>
+    <string name="night_filter_for_web_contents">Bộ lọc ban đêm cho nội dung web</string>
+    <string name="force_dark_mode_for_web_contents">Buộc hoạt động tối cho nội dung web</string>
+    <string name="force_dark_mode_for_web_contents_description">Khi được bật, các trang web sẽ buộc phải tối đi, điều này có thể khiến một số trang hoạt động bất thường.</string>
+    <string name="require_javascript_enabled">Điều này sẽ có hiệu lực nếu JavaScript được bật.</string>
+    <string name="keyboard_shortcuts">Phím tắt</string>
+    <string name="export_data_description">Xuất dấu trang, cài đặt, tập lệnh và bộ lọc quảng cáo</string>
+    <string name="language">Ngôn ngữ</string>
+    <string name="restart_to_take_effect">Điều này sẽ có hiệu lực vào lần tiếp theo bạn mở ứng dụng. Bạn có muốn khởi động lại nó ngay bây giờ để có hiệu lực ngay lập tức?</string>
+    <string name="more">Thêm</string>
+    <string name="sort_order">Thứ tự sắp xêp</string>
+    <string name="sort_by_oldest_first">Cũ nhất trước</string>
+    <string name="sort_by_newest_first">Mới nhất trước</string>
+    <string name="sort_by_alphabetical_order">Thứ tự chữ cái</string>
+    <string name="select_folder">Chọn thư mục</string>
+    <string name="move">Di chuyển</string>
+    <string name="bookmarks_history">Dấu trang/Lịch sử</string>
+    <string name="done">Xong</string>
+    <string name="root_folder">Thư mục gốc</string>
+    <string name="delete_item_message">Bạn có chắc chắn muốn xóa %1$s?</string>
+    <string name="item_has_been_deleted">\"%1$s\" đã bị xóa</string>
+    <string name="undo">Hoàn tác</string>
+    <string name="can_not_sort_list_when_sorting_alphabetically">Không thể sắp xếp danh sách khi sắp xếp theo thứ tự bảng chữ cái</string>
+    <string name="opened_in_background_message">Tab mới được mở trong nền</string>
+    <string name="bookmark_added">Đã thêm dấu trang</string>
+    <string name="allow_website_to_open_app_message">Cho phép trang web mở %1$s?</string>
+    <string name="width">Chiều rộng</string>
+    <string name="height">Chiều cao</string>
+    <string name="corner_radius">Bán kính góc</string>
+    <string name="adaptive">Thích ứng</string>
+    <string name="action_favorites">Yêu thích</string>
+    <string name="skin_search_bar">Thanh tìm kiếm</string>
+    <string name="stroke_width">Chiều rộng viền</string>
+    <string name="stroke_opacity">Độ mờ viền</string>
+    <string name="opacity">Độ trong suốt</string>
+    <string name="disable_website_icons">Vô hiệu hóa các biểu tượng trang web</string>
+    <string name="disable_icon_color">Tắt màu biểu tượng</string>
+    <string name="font_style">Kiểu chữ</string>
+    <string name="bold">Đậm</string>
+    <string name="italics">Nghiêng</string>
+    <string name="clear_website_icon_cache">Xóa bộ đệm biểu tượng trang web</string>
+    <string name="clear_website_icon_cache_message">Lưu ý rằng điều này sẽ xóa tất cả các biểu tượng yêu thích trên trang chủ. Mỗi biểu tượng sẽ được tải xuống vào lần tới khi bạn truy cập trang web tương ứng.</string>
+    <string name="use_blur_instead_of_transparency">Sử dụng hiệu ứng mờ thay vì trong suốt</string>
+    <string name="desc_favorite_icon">Biểu tượng yêu thích</string>
+    <string name="script_remarks">Lưu ý</string>
+    <string name="action_save">Lưu</string>
+    <string name="reset_to_default_settings">Đặt lại về mặc định</string>
+    <string name="script_sites">Các trang web (như *.foo.com,bar.*/list)</string>
+    <string name="simple_guide_of_writing_script">Tập lệnh được viết sẽ tự động có hiệu lực khi trang web tải.
+    \n\nSites (required): The scripted site supports the \"*\" wildcard, and multiple sites are separated by \",\", for example: *.foo.com,bar.*/list.
+    \n\nNote (optional): Used as the title of the script.
+    \n\nCode (required): It is recommended to use native JavaScript. You can also use jquery or vue.js syntax if the website uses those frameworks.</string>
+    <string name="save_data">Lưu dữ liệu</string>
+    <string name="save_data_description">Bật chế độ tiết kiệm dữ liệu trên các trang web tương thích</string>
+    <string name="use_line_style_search_box">Sử dụng hộp tìm kiếm kiểu dòng</string>
+    <string name="toast_script_added">Đã thêm tập lệnh thành công</string>
+    <string name="action_manage_favorites">Quản lý yêu thích</string>
+    <string name="check_for_updates">Kiểm tra cập nhật</string>
+    <string name="checking_for_updates">Đang kiểm tra bản cập nhật</string>
+    <string name="latest_version_already_installed">Phiên bản mới nhất đã được cài đặt</string>
+    <string name="new_version_available">Đã có phiên bản mới</string>
+    <string name="action_download_file">Tải xuống</string>
+    <string name="entered_full_screen_mode">Đã vào chế độ toàn màn hình</string>
+    <string name="delete_hint">Xóa (%1$d)</string>
+    <string name="follow_system_dark_mode_on">Chế độ tối của hệ thống đã bật</string>
+    <string name="scoped_search">Tìm kiếm %1$s</string>
+    <string name="add_shortcut">Thêm lối tắt</string>
+    <string name="need_shortcut_permission">Quyền bị từ chối. Vui lòng chuyển đến cài đặt và bật quyền \"Tạo lối tắt trên màn hình chính\" cho ứng dụng này.</string>
+    <string name="create_shortcut_successfully">Tạo lối tắt cho %1$s thành công</string>
+    <string name="update_shortcut_successfully">Cập nhật lối tắt cho %1$s thành công</string>
+    <string name="today">Hôm nay</string>
+    <string name="yesterday">Hôm qua</string>
+    <!--  The date format pattern is difficult to remember, please refer to: https://docs.oracle.com/javase/7/docs/api/java/text/SimpleDateFormat.html  -->
+    <string name="same_year_date_format">EEE, MMM dd</string>
+    <string name="default_date_format">EEE, MMM dd, yyyy</string>
+    <string name="view_certificate">Xem chứng chỉ</string>
+    <string name="certificate_info">Thông tin chứng chỉ</string>
+    <!-- The b tag means bold, And the br tag means line break.  -->
+    <string name="certificate_detail"><![CDATA[        <b>ISSUED TO</b><br />
+        <b>Common Name (CN)</b><br />
+        %1$s
+        <br /><b>Organization (O)</b><br />
+        %2$s
+        <br /><b>Organizational Unit (OU)</b><br />
+        %3$s
+        <br /><br /><b>ISSUED BY</b><br />
+        <b>Common Name (CN)</b><br />
+        %4$s
+        <br /><b>Organization (O)</b><br />
+        %5$s
+        <br /><br /><b>VALIDITY PERIOD</b><br />
+        <b>Issued On</b><br />
+        %6$s
+        <br /><b>Expires On</b><br />
+        %7$s
+        <br />
+    ]]></string>
+    <string name="no_certificate">Trang web không có chứng chỉ.</string>
+    <string name="site_conf_enabled">Cấu hình trang web (Đã bật)</string>
+    <string name="do_not_sell_or_share">Không bán hoặc chia sẻ dữ liệu</string>
+    <string name="do_not_sell_or_share_description">Yêu cầu trang web không bán hoặc chia sẻ dữ liệu của tôi để bảo vệ quyền riêng tư (thử nghiệm)</string>
+    <string name="email_me">Gửi thư điện tử cho tôi</string>
+    <string name="scan_qr_code">Quét mã QR</string>
+    <string name="scan_qr_code_from_image">Quét mã QR từ hình ảnh</string>
+    <string name="switch_flash">Bật/tắt đèn flash</string>
+    <string name="qr_code_scan_result">Kết quả quét mã QR</string>
+    <string name="qr_code_not_detected">Mã QR không được phát hiện</string>
+    <string name="save_qr_code_successfully">Mã QR đã được lưu vào thư viện</string>
+    <string name="description_with_number">%1$s (%2$d)</string>
+    <string name="last_hour">Giờ cuối cùng</string>
+    <string name="today_and_yesterday">Hôm nay và hôm qua</string>
+    <string name="last_seven_days">7 ngày trước</string>
+    <string name="all_time">Tất cả thời gian</string>
+    <string name="delete_history_from">Xóa lịch sử khỏi</string>
+    <string name="save_as_pdf">Lưu thành PDF</string>
+    <string name="export">Xuất ra</string>
+    <string name="export_successfully">Đã xuất thành công</string>
+    <string name="stop_loading_description">Via đã ngăn tải trang sau:</string>
+    <string name="stop_loading_reason">Vì bộ lọc sau:</string>
+    <string name="continue_loading">Tiếp tục tải</string>
+    <string name="allow_webpage_access_to_clipboard">Cho phép trang web truy cập vào khay nhớ tạm</string>
+    <string name="ask_to_allow_webpage_to_copy_text">Bạn có chắc chắn muốn sao chép văn bản từ %DOMAIN% không?</string>
+    <string name="ask_to_allow_webpage_to_paste_text">Bạn có chắc chắn muốn dán văn bản cho %DOMAIN% không?</string>
+    <string name="option_allow">Cho phép</string>
+    <string name="option_deny">Từ chối</string>
+    <string name="search_bar_style">Kiểu thanh</string>
+    <string name="search_bar_style_line">Dòng</string>
+    <string name="search_bar_style_rectangle">Hình chữ nhật</string>
+    <string name="favorites_icon_style">Kiểu biểu tượng</string>
+    <string name="favorites_icon_style_text">Chữ</string>
+    <string name="favorites_icon_style_icon_first">Biểu tượng đầu tiên</string>
+    <string name="favorites_icon_color">Màu biểu tượng</string>
+    <string name="favorites_icon_color_colorful">Nhiều màu sắc</string>
+    <string name="favorites_icon_color_transparent">Trong suốt</string>
+    <string name="search_bar_effect">Hiệu ứng thanh</string>
+    <string name="search_bar_effect_blur">Mờ</string>
+    <string name="search_bar_effect_transparent">Trong suốt</string>
+    <string name="search_part">Phần tìm kiếm</string>
+    <string name="search_part_hide">Ẩn</string>
+    <string name="search_part_show">Hiển thị</string>
+    <string name="image_preference">Tùy chọn hình ảnh</string>
+    <string name="background_color">Màu</string>
+    <string name="background_image">Hình ảnh</string>
+    <string name="favorites_clear_icons">Xóa biểu tượng</string>
+    <string name="customization_reset">Đặt lại</string>
+    <string name="theme_color">Màu chủ đề</string>
+    <string name="theme_color_dark">Tối</string>
+    <string name="theme_color_light">Sáng</string>
+    <string name="uninstall_script">Gỡ cài đặt tập lệnh</string>
+    <string name="uninstall_script_message">Bạn có chắc chắn muốn gỡ cài đặt tập lệnh \"%1$s\" không?</string>
+    <string name="install_script">Cài đặt tập lệnh</string>
+    <string name="install_script_message">Bạn có chắc chắn muốn cài đặt tập lệnh \"%1$s\" không?</string>
+    <string name="processing_blob_data">Đang xử lý dữ liệu…</string>
+    <string name="tineye_url">TinEye</string>
+    <string name="login_username">Tên người dùng (tài khoản sẽ được tạo nếu không tồn tại)</string>
+    <string name="read_and_agree">Vui lòng đọc và đồng ý với %1$s và %2$s</string>
+    <string name="wechat_official_account">Tài khoản wechat chính thức</string>
+    <string name="notification_channel_downloads">Tải nội dung xuống</string>
+    <string name="notification_channel_foreground">Thông báo trên màn hình</string>
+    <string name="download_progress">%1$s/%2$s</string>
+    <string name="download_progress_indeterminate">%1$s</string>
+    <string name="download_progress_status">%1$s • %2$s</string>
+    <string name="download_status_paused">Đã tạm dừng</string>
+    <string name="download_action_pause">Tạm dừng</string>
+    <string name="download_action_resume">Tiếp tục</string>
+    <string name="app_downloading_files">Via đang tải tập tin</string>
+    <string name="app_downloading_files_subtitle">Nhấn để xem các bản tải xuống</string>
+    <string name="download_failed_with_code">Tải xuống không thành công: %1$s (%2$d)</string>
+    <string name="built_in_download_manager">Trình quản lý tải xuống tích hợp</string>
+    <string name="cancel_all">Hủy tất cả</string>
+    <string name="message_delete_selected_download_tasks">Xóa các tác vụ tải xuống này (tổng cộng %1$d)?</string>
+    <string name="file_name">Tên tệp</string>
+    <string name="rename">Đổi tên</string>
+    <string name="download_error_file_io">Lỗi I/O</string>
+    <string name="download_error_network">Lỗi mạng</string>
+    <string name="download_error_unknown">Lỗi không xác định</string>
+    <string name="message_re_download">Bạn có chắc chắn muốn xóa tệp đã tải xuống và tải xuống lại %1$s không?</string>
+    <string name="share_image">Chia sẻ ảnh</string>
+    <string name="ssl_warning_insecure_connection_message">Kết nối với %1$s không an toàn:\n%2$s\nVẫn tiếp tục?</string>
+    <string name="ssl_warning_dont_ask_again">Đừng hỏi lại phiên duyệt web này</string>
+    <string name="ssl_warning_certificate_untrusted">Chứng chỉ không đáng tin cậy</string>
+    <string name="ssl_warning_certificate_date_invalid">Ngày của chứng chỉ không hợp lệ</string>
+    <string name="ssl_warning_certificate_expired">Chứng chỉ đã hết hạn</string>
+    <string name="ssl_warning_certificate_domain_mismatch">Tên miền trong chứng chỉ không khớp với tên miền của trang web</string>
+    <string name="ssl_warning_certificate_invalid">Chứng chỉ không hợp lệ</string>
+    <string name="ssl_warning_certificate_not_yet_valid">Chứng chỉ chưa hợp lệ</string>
+    <string name="the_site">Trang web</string>
+    <string name="navigation_up">Điều hướng lên</string>
+    <string name="hide_popup_window">Ẩn cửa sổ bật lên</string>
+    <plurals name="open_tabs">
+        <item quantity="other">%d tabs</item>
+    </plurals>
+    <string name="qr_code">Mã QR</string>
+    <string name="download_progress_speed">%1$s • %2$s</string>
+    <string name="download_progress_speed_eta">%1$s • %2$s • %3$s</string>
+    <string name="download_speed_unknown">N/A</string>
+    <string name="download_eta_unknown">-</string>
+    <plurals name="hours_left">
+        <item quantity="other">%d giờ còn lại</item>
+    </plurals>
+    <plurals name="mins_left">
+        <item quantity="other">%d phút còn lại</item>
+    </plurals>
+    <plurals name="secs_left">
+        <item quantity="other">%d giây còn lại</item>
+    </plurals>
+    <string name="translation_engine_google">Google Dịch</string>
+    <string name="translation_engine_baidu">Baidu dịch</string>
+    <string name="ignore_site_message_for_a_minute">Bỏ qua tin nhắn trang web này trong một phút</string>
+    <string name="download_status_waiting_for_network">Đang chờ mạng</string>
+    <string name="download_failed_with_message">Tải xuống không thành công: %1$s</string>
+    <string name="remove_identifying_headers">Xoá các tiêu đề Http có tính nhận dạng</string>
+    <string name="remove_identifying_headers_description">Khi được bật, tiêu đề X-Requested-With và X-Wap-Profile sẽ trống, điều này có thể khiến một số trang hoạt động bất thường</string>
+    <string name="agent_windows_chrome">Windows (Chrome)</string>
+    <string name="agent_windows_ie11">Windows (IE 11)</string>
+    <string name="agent_android_phone">Android (Phone)</string>
+    <string name="agent_android_tablet">Android (Tablet)</string>
+    <string name="agent_ipad">iPad</string>
+    <string name="agent_osx">macOS</string>
+    <string name="toutiao_url">Toutiao</string>
+    <string name="title_can_not_be_empty">Tiêu đề không được để trống</string>
+    <string name="user_agent_can_not_be_empty">Người dùng không thể để trống</string>
+    <string name="download_filter_all">Tất cả</string>
+    <string name="download_filter_others">Khác</string>
+    <string name="download_filter_documents">Tài liệu</string>
+    <string name="download_filter_images">Ảnh</string>
+    <string name="download_filter_video">Phim ảnh</string>
+    <string name="download_filter_apk">APK</string>
+    <string name="download_filter_audio">Âm thanh</string>
+    <string name="download_filter_archives">Lưu trữ</string>
+    <string name="simple_guide_of_writing_userscript"><![CDATA[        <b>Metadata block</b><br />
+        The metadata must follow the format:<br />
+        <tt>
+        // ==UserScript==<br />
+        // @key value<br />
+        // ==/UserScript==
+        </tt>
+        <br /><br />
+        <b><tt>@name</tt></b>: The name of the userscript.
+        <br /><br />
+        <b><tt>@namespace</tt></b>: The combination of <tt>@namespace</tt> and <tt>@name</tt> is the unique identifier for a userscript.
+        <br /><br />
+        <b><tt>@match/@exclude-match</tt></b>: Define rules to decide whether a script should be executed. It is recommended to use <tt>@match</tt> instead of <tt>@include</tt>.
+        <br /><br />
+        <b><tt>@include/@exclude</tt></b>: The old way to decide whether a script should be executed.
+        <br /><br />
+        <b><tt>@version</tt></b>: The version of the userscript.
+        <br /><br />
+        <b><tt>@description</tt></b>: The description of the userscript.
+        <br /><br />
+        <b><tt>@author</tt></b>: The author of the userscript.
+        <br /><br />
+        <b><tt>@require</tt></b>: The require of the userscript. For example, <br /><tt>// @require https://my.cdn.com/jquery.js</tt>.
+        <br /><br />
+        <b><tt>@run-at</tt></b>: Decide when the script will execute. <tt>document-start</tt> is used to inject scripts before the page loads, <tt>document-end</tt> is used to inject scripts after page load.
+        <br /><br />
+        <b><tt>@grant</tt></b>: Specify which special GM_* APIs should be granted and can be used when the script executes.<br />
+        <br /><br />
+        <b><tt>@downloadURL</tt></b>: The URL the script can be downloaded from.
+        <br /><br />
+        <b><tt>@supportURL</tt></b>: The support URL of the userscript.
+        <br /><br />
+        <b><tt>@homepageURL</tt></b>: The homepage URL of the userscript.
+        <br /><br />
+        <b>GM_* APIs</b><br />
+        <tt>GM_*</tt> are a group of special APIs provided by Via. Currently supported special APIs include: <br/>
+        <tt>GM_getValue/GM_setValue/GM_deleteValue/GM_listValues/GM_getResourceText/GM_getResourceURL/GM_addElement/GM_addStyle/GM_setClipboard/GM_xmlhttpRequest/GM_download</tt>.
+        <br /><br />
+        <b>Matching</b><br />
+        <tt>@match</tt> defines a URL matching rule. <tt>@exclude-match</tt> defines a match rule but used to exclude the matched URLs, similar to <tt>@exclude</tt>.
+        <br /><br />
+        For example:<br />
+        <tt>
+        // @match https://www.google.com/something <br />
+        // @match https://www.google.com/any/* <br />
+        // @exclude-match https://www.google.com/any/not_me
+        </tt>
+        <br /><br />
+    ]]></string>
+    <string name="toast_install_script_successfully">Cài đặt \"%1$s\" thành công!</string>
+    <string name="toast_install_script_failed_unknown">Cài đặt \"%1$s\" không thành công!</string>
+    <string name="toast_install_script_failed_dependency_error">Tải xuống phần phụ thuộc \"%1$s\" không thành công!</string>
+    <string name="title_install_script">Cài đặt tập lệnh</string>
+    <string name="message_install_script">Bạn có chắc chắn muốn cài đặt \"%1$s\"(%2$s) không?</string>
+    <string name="title_reinstall_script">Cài đặt lại tập lệnh</string>
+    <string name="message_reinstall_script">Bạn có chắc chắn muốn cài đặt lại \"%1$s\"(%2$s) không?</string>
+    <string name="title_update_script">Cập nhật script</string>
+    <string name="message_update_script">Bạn có chắc chắn muốn cập nhật \"%1$s\"(%2$s -&gt; %3$s) không?</string>
+    <string name="toast_parsing_script">Đang phân tích cú pháp tập lệnh…</string>
+    <string name="title_add_metadata_block">Thêm khối siêu dữ liệu</string>
+    <string name="message_add_metadata_block">Tập lệnh này không có khối siêu dữ liệu nên không thể lưu tập lệnh. Bạn có muốn thêm một khối siêu dữ liệu mặc định vào nó không?</string>
+    <string name="title_disable_safe_browsing">Vô hiệu hóa duyệt web an toàn</string>
+    <string name="title_close_all_tabs">Đóng tất cả các thẻ</string>
+    <string name="message_close_all_tabs_before_disabling_incognito_mode">Bạn có muốn đóng tất cả các tab trước khi tắt chế độ ẩn danh không?</string>
+    <string name="action_close">Đóng</string>
+    <string name="action_keep">Giữ</string>
+    <string name="desc_bookmark_folder">%1$s thư mục</string>
+    <string name="message_splash_agreement">Bằng cách sử dụng Via, bạn đồng ý với %1$s và %2$s của chúng tôi.</string>
+    <string name="translation_engine_google_in_page">Google dịch trong trang</string>
+    <string name="title_feedback">Phản hồi</string>
+    <string name="action_view_cookies">Xem cookie</string>
+    <string name="title_cookies_for_site">Cookie cho %1$s</string>
+    <string name="message_no_cookies">Không có cookie.</string>
+    <string name="toast_cookies_for_site_cleared">Cookie cho %1$s đã được đặt thành trống</string>
+    <string name="toast_site_does_not_support_resource_sniffing">Trang web này không hỗ trợ đánh hơi tài nguyên</string>
+    <string name="desc_expand_text">Mở rộng văn bản</string>
+    <string name="desc_collapse_text">Thu gọn văn bản</string>
+    <string name="desc_clear_text">Xóa văn bản</string>
+    <string name="title_search_suggestions">Đề xuất tìm kiếm</string>
+    <string name="message_search_suggestions">Khi sử dụng thanh địa chỉ, hãy đề xuất</string>
+    <string name="title_open_tabs">Mở tab</string>
+    <string name="desc_fill_in_text">Điền vào văn bản</string>
+    <string name="directory_name">Tên thư mục</string>
+    <string name="action_default_location">Vị trí mặc định</string>
+    <string name="action_choose_folder">Chọn một thư mục…</string>
+    <string name="title_permission_denied">Quyền bị từ chối</string>
+    <string name="message_reselect_download_location">Quyền lưu trữ cho vị trí tải xuống đã bị thu hồi. Vui lòng chọn lại vị trí thư mục tải xuống.</string>
+    <string name="detect_language">Phát hiện ngôn ngữ</string>
+    <string name="title_source_language">Ngôn ngữ nguồn</string>
+    <string name="title_target_language">Ngôn ngữ đích</string>
+    <string name="desc_swap_language">Hoán đổi ngôn ngữ</string>
+    <string name="desc_paste_text">Dán văn bản</string>
+    <string name="translation_engine_google_text">Google dịch văn bản</string>
+    <string name="sourcenao_url">SourceNAO</string>
+    <string name="iqdb_url">IQDB</string>
+    <string name="iqdb_3d_url">3D IQDB</string>
+    <string name="whatanime_url">WhatAnime</string>
+    <string name="ascii2d_url">Ascii2D</string>
+    <string name="title_scripts_for_site">Tập lệnh cho %1$s</string>
+    <string name="disabled">Đã tắt</string>
+    <string name="enabled">Đã bật</string>
+    <string name="action_view_in_settings">Xem trong cài đặt</string>
+    <string name="message_delete_following_items">Bạn có chắc chắn muốn xóa các mục sau không?</string>
+    <string name="list_item">• %1$s</string>
+    <string name="action_reset">Đặt lại</string>
+    <string name="title_reset_site_conf">Đặt lại cấu hình trang web</string>
+    <string name="message_reset_site_conf">Bạn có chắc chắn muốn đặt lại cấu hình trang web cho %1$s không?</string>
+    <string name="title_ignore_ssl_warnings">Bỏ qua cảnh báo chứng chỉ SSL</string>
+    <string name="title_ignore_ssl_warnings_description">Hãy cẩn thận, bỏ qua các cảnh báo chứng chỉ ssl có thể khiến kết nối đến trang web không an toàn</string>
+    <string name="message_ignore_ssl_warnings">Chứng chỉ SSL được sử dụng để xác minh danh tính trang web và mã hóa kết nối. Nó giống như việc cho một lá thư vào phong bì và đăng lên, chỉ bạn và trang web mới có thể mở phong bì và đọc bức thư.\n\nKhi bạn bỏ qua các cảnh báo SSL, kết nối tới trang web có thể không an toàn, điều đó có nghĩa là dữ liệu được truyền đi với trang web có thể bị đánh cắp. Nó giống như việc cho bức thư vào trong một chiếc phong bì bị rách và gửi đi, một người nào đó làm giả giấy chứng nhận có thể mở nó ra.</string>
+    <string name="title_ignore_ssl_warnings_confirmation">Tôi biết điều này có thể khiến kết nối không an toàn</string>
+    <string name="title_disable_safe_browsing_description">Duyệt web an toàn cho phép WebView bảo vệ khỏi phần mềm độc hại và các cuộc tấn công lừa đảo bằng cách xác minh các liên kết</string>
+    <string name="action_close_all_tabs">Đóng tất cả các thẻ</string>
+    <string name="action_close_other_tabs">Đóng các thẻ khác</string>
+    <string name="action_close_tabs_to_the_bottom">Đóng các tab xuống dưới cùng</string>
+    <string name="action_close_tabs_to_the_top">Đóng các tab lên đầu</string>
 </resources>
