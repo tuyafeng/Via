@@ -603,7 +603,7 @@
     <plurals name="mins_left">
         <item quantity="zero">0 minut do końca</item>
         <item quantity="one">1 minuta do końca</item>
-        <item quantity="other">%d minuty do końca</item>
+        <item quantity="few">%d minuty do końca</item>
         <item quantity="other">%d minut do końca</item>
     </plurals>
     <plurals name="secs_left">
