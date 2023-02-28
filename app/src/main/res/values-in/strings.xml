@@ -1,7 +1,5 @@
-<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
-<!--Created by The Translator <https://play.google.com/store/apps/details?id=com.sunilpaulmathew.translator>-->
-
-<string name="app_name">"Via"</string>
+<?xml version="1.0" encoding="utf-8"?>
+<resources tools:ignore="MissingTranslation" xmlns:tools="http://schemas.android.com/tools"><string name="app_name">"Via"</string>
 <string name="action_new_tab">"Tab baru"</string>
 <string name="action_open_in_new">"Buka di tab baru"</string>
 <string name="action_save_img">"Simpan gambar"</string>
