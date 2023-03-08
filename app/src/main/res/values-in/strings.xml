@@ -22,7 +22,7 @@
     <string name="location">Akses lokasi</string> 
     <string name="password">Simpan kata sandi</string> 
     <string name="donate">Donasi</string> 
-    <string name="donate_details">Jika Anda menyukai Via browser, Anda dapat berdonasi untuk mendukung kami.\nAlipay: 2376688759@qq.com\nPayPal: wiar1824@gmail.com</string> 
+    <string name="donate_details">Jika anda menyukai Via browser, anda dapat berdonasi untuk mendukung kami.\nAlipay: 2376688759@qq.com\nPayPal: wiar1824@gmail.com</string> 
     <string name="orientation">Orientasi</string> 
     <string name="follow_system">Sistem</string> 
     <string name="orientation_auto">Otomatis</string> 
@@ -44,7 +44,7 @@
     <string name="agent_iphone">iPhone</string> 
     <string name="agent_symbian">Symbian</string> 
     <string name="agent_custom">Kostum</string> 
-    <string name="dialog_download">Apakah Anda ingin mendownload berkas ini?</string> 
+    <string name="dialog_download">Apakah anda ingin mendownload berkas ini?</string> 
     <string name="title_warning">Peringatan</string> 
     <string name="title_custom_homepage">Beranda kostum</string> 
     <string name="action_webpage">Halaman web</string> 
@@ -82,8 +82,8 @@
     <string name="message_invalid_certificate">Sertifikat situs tidak valid. Tetap melanjutkan?</string> 
     <string name="message_not_yet_valid_certificate">Sertifikat situs belum valid. Tetap melanjutkan?</string> 
     <string name="title_form_resubmission">Pengiriman ulang formulir</string> 
-    <string name="message_form_resubmission">Apakah Anda ingin mengirim ulang data?</string> 
-    <string name="message_location">\nIngin menggunakan lokasi Anda</string> 
+    <string name="message_form_resubmission">Apakah anda ingin mengirim ulang data?</string> 
+    <string name="message_location">\nIngin menggunakan lokasi anda</string> 
     <string name="action_allow">Izinkan</string> 
     <string name="action_dont_allow">Tolak</string> 
     <string name="title_sign_in">Masuk</string> 
@@ -133,18 +133,18 @@
     <string name="action_source">Lihat sumber</string> 
     <string name="action_translate">Terjemah</string> 
     <string name="title_edit_folder">Edit folder</string> 
-    <string name="msg_delete_folder">Apakah Anda ingin menghapus folder ini?</string> 
+    <string name="msg_delete_folder">Apakah anda ingin menghapus folder ini?</string> 
     <string name="desc_suggestion">Saran</string> 
     <string name="desc_home">Rumah</string> 
     <string name="desc_tab">Tab</string> 
     <string name="desc_menu">Menu</string> 
     <string name="desc_filedic">Berkas</string> 
     <string name="action_mark">Tandai sebagai iklan</string> 
-    <string name="dialog_confirm_mark">Apakah Anda ingin menandai ini sebagai iklan?</string> 
+    <string name="dialog_confirm_mark">Apakah anda ingin menandai ini sebagai iklan?</string> 
     <string name="do_not_track">Jangan lacak</string> 
     <string name="add_rule">Tambah filter</string> 
     <string name="color_mode">Mode warna</string> 
-    <string name="dialog_sure">Apakah Anda yakin ingin melanjutkan?</string> 
+    <string name="dialog_sure">Apakah anda yakin ingin melanjutkan?</string> 
     <string name="action_send_to_launcher">Kirim ke peluncur</string> 
     <string name="settings_cloud">Akun</string> 
     <string name="user">Masuk/Daftar</string> 
@@ -193,15 +193,15 @@
     <string name="conn_timeout">Waktu koneksi berakhir</string> 
     <string name="already_default">Sudah ditetapkan sebagai default</string> 
     <string name="set_to_default">Ini akan disetel sebagai default setelah membuka tautan %1$s. Silakan pilih Via untuk membuka tautan.</string> 
-    <string name="sync_prompt">Bookmark dan setelan lokal Anda saat ini akan ditimpa. Melanjutkan?</string> 
-    <string name="upload_prompt">Bookmark dan setelan lokal Anda saat ini akan diunggah. Melanjutkan?</string> 
+    <string name="sync_prompt">Bookmark dan setelan lokal anda saat ini akan ditimpa. Melanjutkan?</string> 
+    <string name="upload_prompt">Bookmark dan setelan lokal anda saat ini akan diunggah. Melanjutkan?</string> 
     <string name="none">Tidak ada</string> 
-    <string name="check_permission">Izin ditolak. Apakah Anda ingin menyetelnya di setelan sekarang?</string> 
+    <string name="check_permission">Izin ditolak. Apakah anda ingin menyetelnya di setelan sekarang?</string> 
     <string name="need_permission_hint">Via membutuhkan izin berikut untuk bekerja:\n\n</string> 
     <string name="storage_permission">Penyimpanan: untuk mengunduh berkas dari browser dan impor/ekspor bookmark, dll.\n\n</string> 
-    <string name="location_permission">Lokasi: untuk situs seperti Google Maps, ini dinonaktifkan secara default. Saat diaktifkan, pop-up ditampilkan menanyakan apakah situs tersebut dapat menggunakan lokasi Anda.\n\n</string> 
+    <string name="location_permission">Lokasi: untuk situs seperti Google Maps, ini dinonaktifkan secara default. Saat diaktifkan, pop-up ditampilkan menanyakan apakah situs tersebut dapat menggunakan lokasi anda.\n\n</string> 
     <string name="force_cancel">Paksa tutup</string> 
-    <string name="restore_tabs_hint">Apakah Anda ingin memulihkan tab yang belum ditutup dari sesi terakhir?</string> 
+    <string name="restore_tabs_hint">Apakah anda ingin memulihkan tab yang belum ditutup dari sesi terakhir?</string> 
     <string name="restore_tabs">Pulihkan tab saat memulai</string> 
     <string name="install_success">Pemasangan berhasil!</string> 
     <string name="uninstall_success">Pencopotan berhasil!</string> 
@@ -220,8 +220,8 @@
     <string name="skin_logo">Logo</string> 
     <string name="skin_bg">Latar belakang</string> 
     <string name="skin_style">Gaya</string> 
-    <string name="set_it_as_homepage">Apakah Anda ingin menjadikannya sebagai beranda?</string> 
-    <string name="missing_webview">Android System WebView tidak terpasang dengan benar. Apakah Anda ingin memasangnya sekarang?</string> 
+    <string name="set_it_as_homepage">Apakah anda ingin menjadikannya sebagai beranda?</string> 
+    <string name="missing_webview">Android System WebView tidak terpasang dengan benar. Apakah anda ingin memasangnya sekarang?</string> 
     <string name="install">Pasang</string> 
     <string name="crash_hint">Kami mohon maaf karena aplikasi mogok.</string> 
     <string name="glean">Kutipan</string> 
@@ -256,10 +256,10 @@
     <string name="no_network_log">Halaman tidak memiliki log jaringan.</string> 
     <string name="resource_sniffer_hint">\nLebih mudah melacak berkas media saat musik atau video diputar. Pelacak sumber daya tidak berfungsi di situs web tertentu.</string> 
     <string name="action_downloads">Unduhan</string> 
-    <string name="empty_username_info">Silakan masukkan nama pengguna Anda</string> 
-    <string name="empty_password_info">Silakan masukkan kata sandi Anda</string> 
+    <string name="empty_username_info">Silakan masukkan nama pengguna anda</string> 
+    <string name="empty_password_info">Silakan masukkan kata sandi anda</string> 
     <string name="offline_page_hint">Ini adalah halaman web yang disimpan. Anda dapat membukanya bahkan saat offline.</string> 
-    <string name="history_page_hint_when_incognito">Riwayat tidak akan direkam ketika Anda berada dalam "Mode penyamaran".</string> 
+    <string name="history_page_hint_when_incognito">Riwayat tidak akan direkam ketika anda berada dalam "Mode penyamaran".</string> 
     <string name="action_preview">Pratinjau</string> 
     <string name="action_page_info">Info halaman</string> 
     <string name="page_info_title">Judul:</string> 
@@ -284,10 +284,10 @@
     <string name="disable_restore">Jangan pulihkan</string> 
     <string name="data_file">Ekspor data</string> 
     <string name="bookmarks_data_to_long">Data bookmark terlalu besar untuk diunggah, tetapi data lain akan diunggah secara normal. Melanjutkan?</string> 
-    <string name="restore_tabs_hint_settings">Tab tidak akan dipulihkan saat Anda dalam \"mode Penyamaran\".</string> 
+    <string name="restore_tabs_hint_settings">Tab tidak akan dipulihkan saat anda dalam \"mode Penyamaran\".</string> 
     <string name="ignore_secondary_ssl_error">Abaikan kesalahan SSL sekunder</string> 
     <string name="web_page_debug">Aktifkan debugging halaman web</string> 
-    <string name="web_page_debug_info">Sekarang Anda dapat menyambungkan ponsel ke komputer, lalu men-debug halaman web dengan Chrome (PC) menggunakan \"chrome://inspect\". Ingatlah untuk terlebih dahulu mengaktifkan USB Debugging di menu: More Tools > Developer Tools.</string> 
+    <string name="web_page_debug_info">Sekarang anda dapat menyambungkan ponsel ke komputer, lalu men-debug halaman web dengan Chrome (PC) menggunakan \"chrome://inspect\". Ingatlah untuk terlebih dahulu mengaktifkan USB Debugging di menu: More Tools > Developer Tools.</string> 
     <string name="no_download_tasks">Kosong</string> 
     <string name="action_re_download">Unduh ulang</string> 
     <string name="action_copy_download_link">Salin tautan unduhan</string> 
@@ -331,13 +331,21 @@
     <string name="has_not_been_updated">belum diperbarui</string> 
     <string name="just_now">baru saja</string> 
     <string name="url_is_invalid">URL tidak valid.</string> 
-    <string name="simple_guide_of_writing_rule">Via mendukung hampir semua filter Adblock Plus. \nAnda dapat memblokir permintaan dari example.com dengan filter seperti: \n||example.com^ (atau cukup: example.com) \n\nWildcard dapat diterima seperti: \n||example.com/js/ ads_*.js \n\nUntuk elemen laman web, gunakan filter seperti: \nexample.com###ad \n\nAnda dapat membuka blokir permintaan khusus dengan filter seperti: \n@@||example.com^</string> 
+    <string name="simple_guide_of_writing_rule">Via mendukung hampir semua filter Adblock Plus.
+        \nAnda dapat memblokir permintaan dari example.com dengan filter seperti:
+        \n||example.com^ (atau cukup: example.com)
+        \n\nWildcard dapat diterima seperti:
+        \n||example.com/js/ ads_*.js
+        \n\nUntuk elemen laman web, gunakan filter seperti:
+        \nexample.com###ad
+        \n\nAnda dapat membuka blokir permintaan khusus dengan filter seperti:
+        \n@@||example.com^</string> 
     <string name="help">Bantuan</string> 
     <string name="learn_more">Pelajari lebih lanjut</string> 
     <plurals name="filters"> 
         <item quantity="zero">0 filter</item> 
         <item quantity="one">1 filter</item> 
-        <item quantity="other">%d filters</item> 
+        <item quantity="other">%d filter</item> 
     </plurals> 
     <string name="updated_">diperbarui %1$s</string> 
     <string name="filter_subscription_info">%1$s, %2$s</string> 
@@ -349,23 +357,23 @@
     <string name="privacy_policy">Kebijakan privasi</string> 
     <string name="terms_of_use">Syarat Penggunaan</string> 
     <string name="welcome">Selamat datang</string> 
-    <string name="agreement_message">Selamat datang di Via. Harap baca perjanjian berikut dengan seksama sebelum menggunakan Via. Anda harus menyetujui dan menerima semua syarat dan ketentuan sebelum Anda mulai menggunakan layanan kami.</string> 
-    <string name="agreement_message_short">Anda harus menyetujui dan menerima semua persyaratan sebelum Anda mulai menggunakan layanan kami.</string> 
+    <string name="agreement_message">Selamat datang di Via. Harap baca perjanjian berikut dengan seksama sebelum menggunakan Via. Anda harus menyetujui dan menerima semua syarat dan ketentuan sebelum anda mulai menggunakan layanan kami.</string> 
+    <string name="agreement_message_short">Anda harus menyetujui dan menerima semua persyaratan sebelum anda mulai menggunakan layanan kami.</string> 
     <string name="agree_and_continue">Setuju</string> 
     <string name="disagree">Tolak</string> 
     <string name="exit">Keluar</string> 
     <string name="delete_account">Hapus akun</string> 
     <string name="delete_account_request_submitted">Permintaan penghapusan akun telah diajukan.</string> 
     <string name="delete_account_hint">Hapus akun dari server</string> 
-    <string name="delete_account_message">Setelah mengirimkan permintaan penghapusan, akun akan keluar dan memasuki masa tunggu penghapusan selama 15 hari. Jika Anda masuk kembali ke akun dan mengunggah data selama masa tunggu, permintaan penghapusan Anda akan dibatalkan. Setelah masa tunggu berakhir, akun dan data terkait akan dihapus sepenuhnya dari server.\nSilakan masukkan kata sandi Anda untuk mengirimkan permintaan.</string> 
+    <string name="delete_account_message">Setelah mengirimkan permintaan penghapusan, akun akan keluar dan memasuki masa tunggu penghapusan selama 15 hari. Jika anda masuk kembali ke akun dan mengunggah data selama masa tunggu, permintaan penghapusan anda akan dibatalkan. Setelah masa tunggu berakhir, akun dan data terkait akan dihapus sepenuhnya dari server.\nSilakan masukkan kata sandi anda untuk mengirimkan permintaan.</string> 
     <string name="confirm_to_delete">Konfirmasi untuk menghapus</string> 
     <string name="items_selected">%1d dipilih</string> 
     <string name="select_all">Pilih Semua</string> 
     <string name="multi_choice">Pilih beberapa</string> 
     <plurals name="delete_download_tasks"> 
-        <item quantity="zero">Deleted 0 download task</item> 
-        <item quantity="one">Deleted 1 download task</item> 
-        <item quantity="other">Deleted %d download tasks</item> 
+        <item quantity="zero">Menghapus 0 tugas unduhan</item> 
+        <item quantity="one">Menghapus 1 tugas unduhan</item> 
+        <item quantity="other">%d tugas unduhan dihapus</item> 
     </plurals> 
     <string name="open_source_licenses">Lisensi sumber terbuka</string> 
     <string name="debugging_info">Info debug</string> 
@@ -382,7 +390,7 @@
     <string name="keyboard_shortcuts">Pintasan keyboard</string> 
     <string name="export_data_description">Ekspor bookmark, setelan, skrip, dan filter iklan</string> 
     <string name="language">Bahasa</string> 
-    <string name="restart_to_take_effect">Ini akan berlaku saat Anda membuka aplikasi lagi. Apakah Anda ingin memulai ulang sekarang untuk segera menerapkannya?</string> 
+    <string name="restart_to_take_effect">Ini akan berlaku saat anda membuka aplikasi lagi. Apakah anda ingin memulai ulang sekarang untuk segera menerapkannya?</string> 
     <string name="more">Lainnya</string> 
     <string name="sort_order">Urutkan menurut</string> 
     <string name="sort_by_oldest_first">Terlama</string> 
@@ -415,14 +423,17 @@
     <string name="bold">Tebal</string> 
     <string name="italics">Miring</string> 
     <string name="clear_website_icon_cache">Bersihkan cache ikon situs web</string> 
-    <string name="clear_website_icon_cache_message">Perhatikan bahwa ini akan menghapus semua ikon favorit di beranda. Setiap ikon akan diunduh saat Anda mengunjungi situs web terkait di lain waktu.</string> 
+    <string name="clear_website_icon_cache_message">Perhatikan bahwa ini akan menghapus semua ikon favorit di beranda. Setiap ikon akan diunduh saat anda mengunjungi situs web terkait di lain waktu.</string> 
     <string name="use_blur_instead_of_transparency">Gunakan efek buram alih-alih transparansi</string> 
     <string name="desc_favorite_icon">Ikon favorit</string> 
     <string name="script_remarks">Catatan</string> 
     <string name="action_save">Simpan</string> 
     <string name="reset_to_default_settings">Atur ulang ke pengaturan default</string> 
     <string name="script_sites">Situs (seperti *.foo.com,bar.*/list)</string> 
-    <string name="simple_guide_of_writing_script">Skrip yang ditulis akan berlaku secara otomatis saat situs web dimuat. \n\nSitus (wajib): Situs dengan skrip mendukung karakter pengganti \"*\", dan beberapa situs dipisahkan oleh \",\", misalnya: *.foo.com,bar.*/list. \n\nCatatan (opsional): Digunakan sebagai judul skrip. \n\nKode (wajib): Direkomendasikan untuk menggunakan JavaScript asli. Anda juga dapat menggunakan sintaks jquery atau vue.js jika situs web menggunakan kerangka kerja tersebut.</string> 
+    <string name="simple_guide_of_writing_script">Skrip yang ditulis akan berlaku secara otomatis saat situs web dimuat.
+    \n\nSitus (wajib): Situs dengan skrip mendukung karakter pengganti \"*\", dan beberapa situs dipisahkan oleh \",\", misalnya: *.foo.com,bar.*/list.
+    \n\nCatatan (opsional): Digunakan sebagai judul skrip.
+    \n\nKode (wajib): Direkomendasikan untuk menggunakan JavaScript asli. Anda juga dapat menggunakan sintaks jquery atau vue.js jika situs web menggunakan kerangka kerja tersebut.</string> 
     <string name="save_data">Hemat data</string> 
     <string name="save_data_description">Aktifkan mode hemat data di situs web yang kompatibel</string> 
     <string name="use_line_style_search_box">Gunakan kotak pencarian gaya garis</string> 
@@ -449,7 +460,26 @@
     <string name="view_certificate">Lihat sertifikat</string> 
     <string name="certificate_info">Informasi sertifikat</string> 
     <!-- The b tag means bold, And the br tag means line break.  --> 
-    <string name="certificate_detail"><![CDATA[  <b>DIBERIKAN KEPADA</b><br />  <b>Nama Umum (CN)</b><br />  %1$s  <br /><b>Organisasi (O)</b><br />  %2$s  <br /><b>Unit Organisasi (OU)</b><br />  %3$s  <br /><br /><b>DIBERIKAN OLEH</b><br />  <b>Nama Umum (CN)</b><br />  %4$s  <br /><b>Organisasi (O)</b><br />  %5$s  <br /><br /><b>MASA BERLAKU</b><br />  <b>Ditetapkan Pada</b><br />  %6$s  <br /><b>Berhenti Pada</b><br />  %7$s  <br />  ]]></string> 
+    <string name="certificate_detail"><![CDATA[
+        <b>DIBERIKAN KEPADA</b><br />
+        <b>Nama Umum (CN)</b><br />
+        %1$s
+        <br /><b>Organisasi (O)</b><br />
+        %2$s
+        <br /><b>Unit Organisasi (OU)</b><br />
+        %3$s
+        <br /><br /><b>DIBERIKAN OLEH</b><br />
+        <b>Nama Umum (CN)</b><br />
+        %4$s
+        <br /><b>Organisasi (O)</b><br />
+        %5$s
+        <br /><br /><b>MASA BERLAKU</b><br />
+        <b>Ditetapkan Pada</b><br />
+        %6$s
+        <br /><b>Berhenti Pada</b><br />
+        %7$s
+        <br />
+    ]]></string> 
     <string name="no_certificate">Situs web tidak memiliki sertifikat.</string> 
     <string name="site_conf_enabled">Konfigurasi situs (Diaktifkan)</string> 
     <string name="do_not_sell_or_share">Jangan menjual atau membagikan data</string> 
@@ -545,7 +575,7 @@
     <plurals name="open_tabs"> 
         <item quantity="zero">0 tab</item> 
         <item quantity="one">1 tab</item> 
-        <item quantity="other">%d tabs</item> 
+        <item quantity="other">%d tab</item> 
     </plurals> 
     <string name="qr_code">Kode QR</string> 
     <string name="download_progress_speed">%1$s • %2$s</string> 
@@ -553,19 +583,19 @@
     <string name="download_speed_unknown">N/A</string> 
     <string name="download_eta_unknown">-</string> 
     <plurals name="hours_left"> 
-        <item quantity="zero">0 hour left</item> 
-        <item quantity="one">1 hour left</item> 
-        <item quantity="other">%d hours left</item> 
+        <item quantity="zero">0 jam tersisa</item> 
+        <item quantity="one">1 jam tersisa</item> 
+        <item quantity="other">%d jam tersisa</item> 
     </plurals> 
     <plurals name="mins_left"> 
-        <item quantity="zero">0 min left</item> 
-        <item quantity="one">1 min left</item> 
-        <item quantity="other">%d mins left</item> 
+        <item quantity="zero">0 menit tersisa</item> 
+        <item quantity="one">1 menit tersisa</item> 
+        <item quantity="other">%d menit tersisa</item> 
     </plurals> 
     <plurals name="secs_left"> 
-        <item quantity="zero">0 sec left</item> 
-        <item quantity="one">1 sec left</item> 
-        <item quantity="other">%d secs left</item> 
+        <item quantity="zero">0 detik tersisa</item> 
+        <item quantity="one">1 detik tersisa</item> 
+        <item quantity="other">%d detik tersisa</item> 
     </plurals> 
     <string name="translation_engine_google">Penerjemah Google</string> 
     <string name="translation_engine_baidu">Penerjemah Baidu</string> 
@@ -591,7 +621,56 @@
     <string name="download_filter_apk">APK</string> 
     <string name="download_filter_audio">Audio</string> 
     <string name="download_filter_archives">Arsip</string> 
-    <string name="simple_guide_of_writing_userscript"><![CDATA[ <b>Blok metadata</b><br /> Metadata harus mengikuti format:<br /> <tt> // ==UserScript==<br /> // @nilai kunci<br /> // ==/UserScript== </tt> <br /><br /> <b><tt>@name</tt></b>: Nama skrip pengguna. <br /><br /> <b><tt>@namespace</tt></b>: Kombinasi <tt>@namespace</tt> dan <tt>@name</tt> adalah keunikan pengenal untuk skrip pengguna. <br /><br /> <b><tt>@match/@exclude-match</tt></b>: Menentukan aturan untuk memutuskan apakah skrip harus dijalankan. Sebaiknya gunakan <tt>@match</tt> daripada <tt>@include</tt>. <br /><br /> <b><tt>@include/@exclude</tt></b>: Cara lama untuk memutuskan apakah skrip harus dijalankan. <br /><br /> <b><tt>@version</tt></b>: Versi skrip pengguna. <br /><br /> <b><tt>@description</tt></b>: Deskripsi skrip pengguna. <br /><br /> <b><tt>@author</tt></b>: Penulis skrip pengguna. <br /><br /> <b><tt>@require</tt></b>: Persyaratan skrip pengguna. Misalnya, <br /><tt>// @require https://my.cdn.com/jquery.js</tt>. <br /><br /> <b><tt>@run-at</tt></b>: Memutuskan kapan skrip akan dieksekusi. <tt>document-start</tt> digunakan untuk menyuntikkan skrip sebelum halaman dimuat, <tt>document-end</tt> digunakan untuk menyuntikkan skrip setelah pemuatan halaman. <br /><br /> <b><tt>@grant</tt></b>: Tentukan API GM_* khusus mana yang harus diberikan dan dapat digunakan saat skrip dijalankan.<br /> <br / ><br /> <b><tt>@downloadURL</tt></b>: URL tempat skrip dapat diunduh. <br /><br /> <b><tt>@supportURL</tt></b>: URL dukungan skrip pengguna. <br /><br /> <b><tt>@homepageURL</tt></b>: URL beranda skrip pengguna. <br /><br /> <b>GM_* API</b><br /> <tt>GM_*</tt> adalah sekelompok API khusus yang disediakan oleh Via. API khusus yang saat ini didukung meliputi: <br/> <tt>GM_getValue/GM_setValue/GM_deleteValue/GM_listValues/GM_getResourceText/GM_getResourceURL/GM_addElement/GM_addStyle/GM_setClipboard/GM_xmlhttpRequest/GM_download</tt>. <br /><br /> <b>Matching</b><br /> <tt>@match</tt> menentukan aturan pencocokan URL. <tt>@exclude-match</tt> menentukan aturan kecocokan tetapi digunakan untuk mengecualikan URL yang cocok, mirip dengan <tt>@exclude</tt>. <br /><br /> Contoh:<br /> <tt> // @match https://www.google.com/something <br /> // @match https://www.google.com /any/* <br /> // @exclude-match https://www.google.com/any/not_me </tt> <br /><br /> ]]></string> 
+    <string name="simple_guide_of_writing_userscript"><![CDATA[
+        <b>Blok metadata</b><br />
+        Metadata harus mengikuti format:<br />
+        <tt>
+        // ==UserScript==<br />
+        // @key value<br />
+        // ==/UserScript==
+        </tt>
+        <br /><br />
+        <b><tt>@name</tt></b>: Nama skrip pengguna.
+        <br /><br />
+        <b><tt>@namespace</tt></b>: Kombinasi <tt>@namespace</tt> dan <tt>@name</tt> adalah pengenal unik untuk skrip pengguna.
+        <br /><br />
+        <b><tt>@match/@exclude-match</tt></b>: Menentukan aturan untuk memutuskan apakah skrip harus dijalankan. Sebaiknya gunakan <tt>@match</tt> daripada <tt>@include</tt>.
+        <br /><br />
+        <b><tt>@include/@exclude</tt></b>: Cara lama untuk memutuskan apakah skrip harus dijalankan.
+        <br /><br />
+        <b><tt>@version</tt></b>: Versi skrip pengguna.
+        <br /><br />
+        <b><tt>@description</tt></b>: Deskripsi skrip pengguna.
+        <br /><br />
+        <b><tt>@author</tt></b>: Penulis skrip pengguna.
+        <br /><br />
+        <b><tt>@require</tt></b>: Persyaratan skrip pengguna. Misalnya, <br /><tt>// @require https://my.cdn.com/jquery.js</tt>.
+        <br /><br />
+        <b><tt>@run-at</tt></b>: Putuskan kapan skrip akan dieksekusi. <tt>document-start</tt> digunakan untuk menyuntikkan skrip sebelum halaman dimuat, <tt>document-end</tt> digunakan untuk menyuntikkan skrip setelah pemuatan halaman.
+        <br /><br />
+        <b><tt>@grant</tt></b>: Tentukan GM_* APIs khusus mana yang harus diberikan dan dapat digunakan saat skrip dijalankan.<br />
+        <br /><br />
+        <b><tt>@downloadURL</tt></b>: URL tempat skrip dapat diunduh.
+        <br /><br />
+        <b><tt>@supportURL</tt></b>: URL dukungan skrip pengguna.
+        <br /><br />
+        <b><tt>@homepageURL</tt></b>: URL beranda skrip pengguna.
+        <br /><br />
+        <b>GM_* APIs</b><br />
+        <tt>GM_*</tt> adalah sekelompok API khusus yang disediakan oleh Via. API khusus yang saat ini didukung meliputi: <br/>
+        <tt>GM_getValue/GM_setValue/GM_deleteValue/GM_listValues/GM_getResourceText/GM_getResourceURL/GM_addElement/GM_addStyle/GM_setClipboard/GM_xmlhttpRequest/GM_download</tt>.
+        <br /><br />
+        <b>Pencocokan</b><br />
+        <tt>@match</tt> menentukan aturan pencocokan URL. <tt>@exclude-match</tt> menentukan aturan kecocokan tetapi digunakan untuk mengecualikan URL yang cocok, mirip dengan <tt>@exclude</tt>.
+        <br /><br />
+        Misalnya:<br />
+        <tt>
+        // @match https://www.google.com/something <br />
+        // @match https://www.google.com/any/* <br />
+        // @exclude-match https://www.google.com/any/not_me
+        </tt>
+        <br /><br />
+    ]]></string>
     <string name="toast_install_script_successfully">Pasang \"%1$s\" sukses!</string> 
     <string name="toast_install_script_failed_unknown">Pasang \"%1$s\" gagal!</string> 
     <string name="toast_install_script_failed_dependency_error">Unduh ketergantungan \"%1$s\" gagal!</string> 
@@ -603,14 +682,14 @@
     <string name="message_update_script">Yakin ingin memperbarui \"%1$s\"(%2$s -> %3$s)?</string> 
     <string name="toast_parsing_script">Mengurai skrip…</string> 
     <string name="title_add_metadata_block">Tambahkan blok metadata</string> 
-    <string name="message_add_metadata_block">Skrip ini tidak memiliki blok metadata sehingga tidak dapat disimpan. Apakah Anda ingin menambahkan blok metadata default ke dalamnya?</string> 
+    <string name="message_add_metadata_block">Skrip ini tidak memiliki blok metadata sehingga tidak dapat disimpan. Apakah anda ingin menambahkan blok metadata default ke dalamnya?</string> 
     <string name="title_disable_safe_browsing">Matikan penjelajahan aman</string> 
     <string name="title_close_all_tabs">Tutup semua tab</string> 
-    <string name="message_close_all_tabs_before_disabling_incognito_mode">Apakah Anda ingin menutup semua tab sebelum menonaktifkan mode penyamaran?</string> 
+    <string name="message_close_all_tabs_before_disabling_incognito_mode">Apakah anda ingin menutup semua tab sebelum menonaktifkan mode penyamaran?</string> 
     <string name="action_close">Tutup</string> 
     <string name="action_keep">Simpan</string> 
     <string name="desc_bookmark_folder">folder %1$s</string> 
-    <string name="message_splash_agreement">Dengan menggunakan Via, Anda menyetujui %1$s dan %2$s kami.</string> 
+    <string name="message_splash_agreement">Dengan menggunakan Via, anda menyetujui %1$s dan %2$s kami.</string> 
     <string name="translation_engine_google_in_page">Terjemahan dalam halaman Google</string> 
     <string name="title_feedback">Masukan</string> 
     <string name="action_view_cookies">Lihat Cookie</string> 
@@ -652,7 +731,7 @@
     <string name="message_reset_site_conf">Yakin ingin menyetel ulang konfigurasi situs untuk %1$s?</string> 
     <string name="title_ignore_ssl_warnings">Abaikan peringatan sertifikat SSL</string> 
     <string name="title_ignore_ssl_warnings_description">Hati-hati, mengabaikan peringatan sertifikat ssl dapat membuat koneksi ke situs web tidak aman</string> 
-    <string name="message_ignore_ssl_warnings">Sertifikat SSL digunakan untuk memverifikasi identitas situs web dan mengenkripsi koneksi. Ini seperti memasukkan surat ke dalam amplop dan mengeposkannya, hanya Anda dan situs web yang dapat membuka amplop dan membaca surat tersebut.\n\nSetelah Anda mengabaikan peringatan SSL, sambungan ke situs web mungkin tidak aman, yang artinya data yang dikirimkan melalui situs web dapat dicuri. Ini seperti memasukkan surat ke dalam amplop yang rusak dan mempostingnya, seseorang yang memalsukan sertifikat dapat membukanya.</string> 
+    <string name="message_ignore_ssl_warnings">Sertifikat SSL digunakan untuk memverifikasi identitas situs web dan mengenkripsi koneksi. Ini seperti memasukkan surat ke dalam amplop dan mengeposkannya, hanya anda dan situs web yang dapat membuka amplop dan membaca surat tersebut.\n\nSetelah anda mengabaikan peringatan SSL, sambungan ke situs web mungkin tidak aman, yang artinya data yang dikirimkan melalui situs web dapat dicuri. Ini seperti memasukkan surat ke dalam amplop yang rusak dan mempostingnya, seseorang yang memalsukan sertifikat dapat membukanya.</string> 
     <string name="title_ignore_ssl_warnings_confirmation">Saya tahu ini mungkin membuat koneksi tidak aman</string> 
     <string name="title_disable_safe_browsing_description">Penjelajahan aman memungkinkan WebView melindungi dari malware dan serangan phishing dengan memverifikasi tautan</string> 
     <string name="action_close_all_tabs">Tutup semua tab</string> 
@@ -696,15 +775,15 @@
     <string name="clipboard_allowed_description">Izinkan situs menggunakan papan klip anda</string> 
     <string name="clipboard_blocked_description">Blokir situs untuk menggunakan papan klip anda</string> 
     <string name="clipboard_add_site_exception_allow">Izinkan situs tertentu untuk menggunakan papan klip anda.</string> 
-    <string name="clipboard_add_site_exception_block">Blokir situs tertentu untuk menggunakan papan klip Anda.</string> 
+    <string name="clipboard_add_site_exception_block">Blokir situs tertentu untuk menggunakan papan klip anda.</string> 
     <string name="location1">Lokasi</string> 
-    <string name="location_ask_first_description">Tanyakan terlebih dahulu sebelum mengizinkan situs mengetahui lokasi Anda</string> 
+    <string name="location_ask_first_description">Tanyakan terlebih dahulu sebelum mengizinkan situs mengetahui lokasi anda</string> 
     <string name="camera">Kamera</string> 
-    <string name="camera_ask_first_description">Tanyakan terlebih dahulu sebelum mengizinkan situs menggunakan kamera Anda</string> 
+    <string name="camera_ask_first_description">Tanyakan terlebih dahulu sebelum mengizinkan situs menggunakan kamera anda</string> 
     <string name="microphone">Mikrofon</string> 
-    <string name="microphone_ask_first_description">Tanyakan terlebih dahulu sebelum mengizinkan situs menggunakan mikrofon Anda</string> 
+    <string name="microphone_ask_first_description">Tanyakan terlebih dahulu sebelum mengizinkan situs menggunakan mikrofon anda</string> 
     <string name="having_trouble_exporting_data">Kesulitan mengekspor data?</string> 
-    <string name="having_trouble_exporting_data_message">Anda dapat menyimpan data ke direktori %1$s jika Anda tidak dapat mengekspor data secara manual. Apakah Anda ingin melanjutkan?</string> 
+    <string name="having_trouble_exporting_data_message">Anda dapat menyimpan data ke direktori %1$s jika anda tidak dapat mengekspor data secara manual. Apakah anda ingin melanjutkan?</string> 
     <string name="on">Hidup</string> 
     <string name="off">Mati</string> 
     <string name="default_description">%1$s (bawaan)</string> 
@@ -715,5 +794,4 @@
     <string name="skin_changed">Kulit berubah</string> 
     <string name="desktop_mode_on">Mode desktop aktif</string> 
     <string name="desktop_mode_off">Mode desktop mati</string> 
-</resources> 
-
+</resources>
