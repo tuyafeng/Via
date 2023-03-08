@@ -22,7 +22,7 @@
     <string name="location">Akses lokasi</string> 
     <string name="password">Simpan kata sandi</string> 
     <string name="donate">Donasi</string> 
-    <string name="donate_details">Jika anda menyukai Via browser, anda dapat berdonasi untuk mendukung kami.\nAlipay: 2376688759@qq.com\nPayPal: wiar1824@gmail.com</string> 
+    <string name="donate_details">Jika anda menyukai Via browser, Anda dapat berdonasi untuk mendukung kami.\nAlipay: 2376688759@qq.com\nPayPal: wiar1824@gmail.com</string> 
     <string name="orientation">Orientasi</string> 
     <string name="follow_system">Sistem</string> 
     <string name="orientation_auto">Otomatis</string> 
@@ -689,7 +689,7 @@
     <string name="action_close">Tutup</string> 
     <string name="action_keep">Simpan</string> 
     <string name="desc_bookmark_folder">folder %1$s</string> 
-    <string name="message_splash_agreement">Dengan menggunakan Via, anda menyetujui %1$s dan %2$s kami.</string> 
+    <string name="message_splash_agreement">Dengan menggunakan Via, Anda menyetujui %1$s dan %2$s kami.</string> 
     <string name="translation_engine_google_in_page">Terjemahan dalam halaman Google</string> 
     <string name="title_feedback">Masukan</string> 
     <string name="action_view_cookies">Lihat Cookie</string> 
