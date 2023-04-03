@@ -717,9 +717,9 @@
     <string name="title_reset_site_conf">重設網站設定</string>
     <string name="message_reset_site_conf">你確定重設 %1$s 的網站設定嗎？</string>
     <string name="title_ignore_ssl_warnings">忽略 SSL 證書警告</string>
-    <string name="title_ignore_ssl_warnings_description">請小心，忽略 SSL 證書警告可能會使網站的連結不安全</string>
-    <string name="message_ignore_ssl_warnings">SSL 證書用於驗證網站身份和加密連結。這就像是把信放在信封中再寄出，只有你和網站可以拆開這封信。\n\n一旦你忽略 SSL 警告，則與網站的連結可能不安全，這意味著與網站傳輸的資料可能被人竊取。這就像把信放在一個破損的信封上然後寄出它，偽造證書的人可以拆開它。</string>
-    <string name="title_ignore_ssl_warnings_confirmation">我瞭解這可能導致連結不安全</string>
+    <string name="title_ignore_ssl_warnings_description">請小心，忽略 SSL 證書警告可能會使網站的連線不安全</string>
+    <string name="message_ignore_ssl_warnings">SSL 證書用於驗證網站身份和加密連線。這就像是把信放在信封中再寄出，只有你和網站可以拆開這封信。\n\n一旦你忽略 SSL 警告，則與網站的連線可能不安全，這意味著與網站傳輸的資料可能被人竊取。這就像把信放在一個破損的信封上然後寄出它，偽造證書的人可以拆開它。</string>
+    <string name="title_ignore_ssl_warnings_confirmation">我瞭解這可能導致連線不安全</string>
     <string name="title_disable_safe_browsing_description">安全瀏覽允許 WebView 透過驗證連結來防止惡意軟體和網路釣魚攻擊</string>
     <string name="action_close_all_tabs">關閉所有分頁</string>
     <string name="action_close_other_tabs">關閉其它分頁</string>
