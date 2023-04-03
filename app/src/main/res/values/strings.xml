@@ -210,7 +210,7 @@
     <string name="fullscreen_2">Press to hide/show</string>
     <string name="settings_script">Scripts</string>
     <string name="get_more_script">Get more scripts</string>
-    <string name="add_script">Add script</string>
+    <string name="add_script">New script</string>
     <string name="script_url">Domain or * (* means all)</string>
     <string name="script_code">Code (JavaScript)</string>
     <string name="help_us_translate">Help us translate</string>
@@ -794,4 +794,22 @@
     <string name="skin_changed">Skin changed</string>
     <string name="desktop_mode_on">Desktop mode is on</string>
     <string name="desktop_mode_off">Desktop mode is off</string>
+    <string name="import_script_from_url">Import script from URL</string>
+    <string name="import_script_from_file">Import script from file</string>
+    <string name="script_invalid">Script invalid</string>
+    <string name="open_app">Open app</string>
+    <string name="open_app_ask_first_description">Ask first before allowing sites to open your app</string>
+    <string name="open_app_allowed_description">Allow sites to open your app</string>
+    <string name="open_app_blocked_description">Block sites to open your app</string>
+    <string name="open_app_add_site_exception_allow">Allow a specific site to open your app.</string>
+    <string name="open_app_add_site_exception_block">Block a specific site to open your app.</string>
+    <string name="update_interval">Update interval</string>
+    <string name="never">Never</string>
+    <string name="every_day">Every day</string>
+    <string name="every_3_days">Every 3 days</string>
+    <string name="every_week">Every week</string>
+    <string name="every_15_days">Every 15 days</string>
+    <string name="adblock_add_site_exception_on">Enable ad blocking for a specific site.</string>
+    <string name="adblock_add_site_exception_off">Disable ad blocking for a specific site.</string>
+
 </resources>
