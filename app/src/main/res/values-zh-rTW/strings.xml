@@ -780,4 +780,21 @@
     <string name="skin_changed">面板已變更</string>
     <string name="desktop_mode_on">電腦模式已開啟</string>
     <string name="desktop_mode_off">電腦模式已關閉</string>
+    <string name="import_script_from_url">下載指令碼</string>
+    <string name="import_script_from_file">匯入指令碼</string>
+    <string name="script_invalid">無效指令碼</string>
+    <string name="open_app">開啟應用</string>
+    <string name="open_app_ask_first_description">網站需先詢問並得到權限才能開啟應用</string>
+    <string name="open_app_allowed_description">允許網站開啟應用</string>
+    <string name="open_app_blocked_description">禁止網站開啟應用</string>
+    <string name="open_app_add_site_exception_allow">允許特定網站開啟應用。</string>
+    <string name="open_app_add_site_exception_block">禁止特定網站開啟應用。</string>
+    <string name="update_interval">自動更新</string>
+    <string name="never">從不</string>
+    <string name="every_day">每天</string>
+    <string name="every_3_days">每 3 天</string>
+    <string name="every_week">每週</string>
+    <string name="every_15_days">每 15 天</string>
+    <string name="adblock_add_site_exception_on">為特定網站開啟封鎖廣告。</string>
+    <string name="adblock_add_site_exception_off">為特定網站關閉封鎖廣告。</string>
 </resources>
