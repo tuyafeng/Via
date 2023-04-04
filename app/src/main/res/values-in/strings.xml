@@ -210,7 +210,7 @@
     <string name="fullscreen_2">Tekan untuk menyembunyikan/menampilkan</string> 
     <string name="settings_script">Skrip</string> 
     <string name="get_more_script">Dapatkan lebih banyak skrip</string> 
-    <string name="add_script">Tambah skrip</string> 
+    <string name="add_script">Skrip baru</string> 
     <string name="script_url">Domain atau * (* berarti semua)</string> 
     <string name="script_code">Kode (JavaScript)</string> 
     <string name="help_us_translate">Bantu kami menerjemahkan</string> 
@@ -794,4 +794,22 @@
     <string name="skin_changed">Kulit berubah</string> 
     <string name="desktop_mode_on">Mode desktop aktif</string> 
     <string name="desktop_mode_off">Mode desktop mati</string> 
+    <string name="import_script_from_url">Impor skrip dari URL</string>
+    <string name="import_script_from_file">Impor skrip dari berkas</string>
+    <string name="script_invalid">Skrip tidak valid</string>
+    <string name="open_app">Buka aplikasi</string>
+    <string name="open_app_ask_first_description">Tanyakan terlebih dahulu sebelum mengizinkan situs membuka aplikasi Anda</string>
+    <string name="open_app_allowed_description">Izinkan situs membuka aplikasi Anda</string>
+    <string name="open_app_blocked_description">Blokir situs untuk membuka aplikasi Anda</string>
+    <string name="open_app_add_site_exception_allow">Izinkan situs tertentu untuk membuka aplikasi Anda.</string>
+    <string name="open_app_add_site_exception_block">Blokir situs tertentu untuk membuka aplikasi Anda.</string>
+    <string name="update_interval">Interval pembaruan</string>
+    <string name="never">Jangan pernah</string>
+    <string name="every_day">Setiap hari</string>
+    <string name="every_3_days">Setiap 3 hari</string>
+    <string name="every_week">Setiap minggu</string>
+    <string name="every_15_days">Setiap 15 hari</string>
+    <string name="adblock_add_site_exception_on">Aktifkan pemblokiran iklan untuk situs tertentu.</string>
+    <string name="adblock_add_site_exception_off">Nonaktifkan pemblokiran iklan untuk situs tertentu.</string>
+
 </resources>
