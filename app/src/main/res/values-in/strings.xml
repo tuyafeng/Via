@@ -74,7 +74,7 @@
     <string name="yandex_url">Yandex</string> 
     <string name="google_url">Google</string> 
     <string name="sougou_url">Sogou</string> 
-    <string name="block_ads">Pemblokir iklan</string> 
+    <string name="block_ads">Blokir iklan</string> 
     <string name="message_untrusted_certificate">Sertifikat situs tidak dipercaya. Tetap melanjutkan?</string> 
     <string name="message_date_invalid_certificate">Tanggal sertifikat situs tidak valid. Tetap melanjutkan?</string> 
     <string name="message_expired_certificate">Sertifikat situs telah kedaluwarsa. Tetap melanjutkan?</string> 
@@ -245,7 +245,7 @@
     <string name="operation_hint">Gerakan, pintasan, tombol fungsi</string> 
     <string name="adblock_info">Diaktifkan: %1$d iklan diblokir, %2$s dihemat</string> 
     <string name="disable">Dimatikan</string> 
-    <string name="ui_traditional">Sandwich</string> 
+    <string name="ui_traditional">Roti isi</string> 
     <string name="color_mode_hint">Menyesuaikan warna bilah alat secara otomatis</string> 
     <string name="skin_hide_search_part">Sembunyikan bagian pencarian</string> 
     <string name="file_size">Ukuran berkas: %1$s</string> 
@@ -406,7 +406,7 @@
     <string name="undo">Batalkan</string> 
     <string name="can_not_sort_list_when_sorting_alphabetically">Tidak dapat mengurutkan daftar saat mengurutkan menurut abjad</string> 
     <string name="opened_in_background_message">Tab baru dibuka di latar belakang</string> 
-    <string name="bookmark_added">Bookmark ditambahkan</string> 
+    <string name="bookmark_added">Telah di bookmark</string> 
     <string name="allow_website_to_open_app_message">Izinkan situs web untuk membuka %1$s?</string> 
     <string name="width">Lebar</string> 
     <string name="height">Tinggi</string> 
@@ -510,7 +510,7 @@
     <string name="option_deny">Tolak</string> 
     <string name="search_bar_style">Gaya Bilah</string> 
     <string name="search_bar_style_line">Garis</string> 
-    <string name="search_bar_style_rectangle">Persegi panjang</string> 
+    <string name="search_bar_style_rectangle">Balok</string> 
     <string name="favorites_icon_style">Gaya ikon</string> 
     <string name="favorites_icon_style_text">Teks</string> 
     <string name="favorites_icon_style_icon_first">Ikon pertama</string> 
