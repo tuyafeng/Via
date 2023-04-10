@@ -792,4 +792,21 @@
     <string name="skin_changed">Tema alterado</string>
     <string name="desktop_mode_on">Modo desktop ativado</string>
     <string name="desktop_mode_off">Modo desktop desativado</string>
+    <string name="import_script_from_url">Importar script de uma URL</string>
+    <string name="import_script_from_file">Importar script de um arquivo</string>
+    <string name="script_invalid">Script inválido</string>
+    <string name="open_app">Abrir aplicativo</string>
+    <string name="open_app_ask_first_description">Perguntar primeiro antes de permitir que os sites abram seu app</string>
+    <string name="open_app_allowed_description">Permitir que sites abram seu app</string>
+    <string name="open_app_blocked_description">Bloquear sites para abrir seu aplicativo</string>
+    <string name="open_app_add_site_exception_allow">Permite que um site específico abra seu aplicativo.</string>
+    <string name="open_app_add_site_exception_block">Bloqueie um site específico para abrir seu aplicativo.</string>
+    <string name="update_interval">Intervalo de atualização</string>
+    <string name="never">Nunca</string>
+    <string name="every_day">Todos os dias</string>
+    <string name="every_3_days">A cada 3 dias</string>
+    <string name="every_week">Toda semana</string>
+    <string name="every_15_days">A cada 15 dias</string>
+    <string name="adblock_add_site_exception_on">Ativar o bloqueio de anúncios para um site específico.</string>
+    <string name="adblock_add_site_exception_off">Desativar o bloqueio de anúncios para um site específico.</string>
 </resources>
