@@ -44,7 +44,7 @@
     <string name="agent_iphone">iPhone</string>
     <string name="agent_symbian">Symbian</string>
     <string name="agent_custom">自訂</string>
-    <string name="dialog_download">你想要下載此檔案吗？</string>
+    <string name="dialog_download">你想要下載此檔案嗎？</string>
     <string name="title_warning">警告</string>
     <string name="title_custom_homepage">自訂首頁</string>
     <string name="action_webpage">網頁</string>
@@ -361,10 +361,10 @@
     <string name="agree_and_continue">同意並繼續</string>
     <string name="disagree">不同意</string>
     <string name="exit">結束應用</string>
-    <string name="delete_account">登出賬號</string>
-    <string name="delete_account_hint">從伺服器刪除賬號</string>
-    <string name="delete_account_request_submitted">賬號刪除申請已送出。</string>
-    <string name="delete_account_message">送出刪除申請後，賬號將登出，進入 15 天的刪除等待期，登出期間如你再次登入賬號並上傳了資料，將導致刪除申請被撤回。等待期滿後，該賬號及相關資料將從伺服器完全刪除。\n請輸入密碼繼續。</string>
+    <string name="delete_account">登出帳號</string>
+    <string name="delete_account_hint">從伺服器刪除帳號</string>
+    <string name="delete_account_request_submitted">帳號刪除申請已送出。</string>
+    <string name="delete_account_message">送出刪除申請後，帳號將登出，進入 15 天的刪除等待期，登出期間如你再次登入帳號並上傳了資料，將導致刪除申請被撤回。等待期滿後，該帳號及相關資料將從伺服器完全刪除。\n請輸入密碼繼續。</string>
     <string name="confirm_to_delete">確定刪除</string>
     <string name="items_selected">已選中 %1d 項</string>
     <string name="select_all">全選</string>
@@ -380,7 +380,7 @@
     <string name="follow_me_on_weibo">在微博上關注我</string>
     <string name="version">版本</string>
     <string name="paste_and_go">貼上並前往</string>
-    <string name="night_filter_for_web_contents">網頁蒙版濾鏡</string>
+    <string name="night_filter_for_web_contents">網頁遮色片濾鏡</string>
     <string name="force_dark_mode_for_web_contents">強制網頁暗色</string>
     <string name="force_dark_mode_for_web_contents_description">為網頁啟用強制暗色，這可能會導致部分頁面表現異常</string>
     <string name="require_javascript_enabled">這將僅在啟用 JavaScript 時生效。</string>
@@ -425,7 +425,7 @@
     <string name="desc_favorite_icon">最愛的圖示</string>
     <string name="script_remarks">備註</string>
     <string name="action_save">儲存</string>
-    <string name="reset_to_default_settings">重置為預設設定</string>
+    <string name="reset_to_default_settings">重設為預設設定</string>
     <string name="script_sites">網站 (如 *.foo.com,bar.*/list)</string>
     <string name="simple_guide_of_writing_script">編寫的指令碼將在網站載入時自動生效。
         \n\n網站(必填)：指令碼作用的網站，支援 \"*\" 萬用字元，多個網站使用 \",\" 隔開，如：*.foo.com,bar.*/list。
@@ -445,10 +445,10 @@
     <string name="delete_hint">刪除(%1$d)</string>
     <string name="follow_system_dark_mode_on">系統預設值暗模式已啟用</string>
     <string name="scoped_search">搜尋 %1$s</string>
-    <string name="add_shortcut">新增桌面快捷方式</string>
-    <string name="need_shortcut_permission">權限被拒絕。請前往系統設定為此應用開啟 \"新增桌面快捷方式\" 權限。</string>
-    <string name="create_shortcut_successfully">已為 %1$s 建立桌面快捷方式</string>
-    <string name="update_shortcut_successfully">已為 %1$s 更新桌面快捷方式</string>
+    <string name="add_shortcut">新增桌面捷徑</string>
+    <string name="need_shortcut_permission">權限被拒絕。請前往系統設定為此應用開啟 \"新增桌面捷徑\" 權限。</string>
+    <string name="create_shortcut_successfully">已為 %1$s 建立桌面捷徑</string>
+    <string name="update_shortcut_successfully">已為 %1$s 更新桌面捷徑</string>
     <string name="today">今天</string>
     <string name="yesterday">昨天</string>
     <string name="same_year_date_format">MM月dd日 EEE</string>
@@ -518,11 +518,11 @@
     <string name="search_part">搜尋區域</string>
     <string name="search_part_hide">隱藏</string>
     <string name="search_part_show">展示</string>
-    <string name="image_preference">影象偏好</string>
+    <string name="image_preference">影像偏好</string>
     <string name="background_color">色彩</string>
     <string name="background_image">圖片</string>
     <string name="favorites_clear_icons">清除圖示</string>
-    <string name="customization_reset">重置</string>
+    <string name="customization_reset">重設</string>
     <string name="theme_color">主題色</string>
     <string name="theme_color_dark">暗色</string>
     <string name="theme_color_light">亮色</string>
@@ -532,7 +532,7 @@
     <string name="install_script_message">你確定安裝指令碼 \"%1$s\" 嗎？</string>
     <string name="processing_blob_data">處理 blob 資料中…</string>
     <string name="tineye_url">TinEye</string>
-    <string name="login_username">使用者名稱 (賬號不存在將自動建立)</string>
+    <string name="login_username">使用者名稱 (帳號不存在將自動建立)</string>
     <string name="read_and_agree">請閱讀並同意 %1$s 與 %2$s</string>
     <string name="wechat_official_account">微信公眾號</string>
     <string name="notification_channel_downloads">下載內容</string>
@@ -584,7 +584,7 @@
     <plurals name="secs_left">
         <item quantity="other">剩餘 %d 秒</item>
     </plurals>
-    <string name="translation_engine_google">谷歌翻譯</string>
+    <string name="translation_engine_google">Google翻譯</string>
     <string name="translation_engine_baidu">百度翻譯</string>
     <string name="ignore_site_message_for_a_minute">忽略此網站訊息一分鐘</string>
     <string name="download_status_waiting_for_network">等待網路連線</string>
@@ -637,11 +637,11 @@
         <br /><br />
         <b><tt>@grant</tt></b>：定義指令碼所使用和應被授權的特殊 GM_* API。<br />
         <br /><br />
-        <b><tt>@downloadURL</tt></b>：指令碼的下載地址。
+        <b><tt>@downloadURL</tt></b>：指令碼的下載網址。
         <br /><br />
         <b><tt>@supportURL</tt></b>：指令碼的支援地址。
         <br /><br />
-        <b><tt>@homepageURL</tt></b>：指令碼的主頁。
+        <b><tt>@homepageURL</tt></b>：指令碼的首頁。
         <br /><br />
         <b>GM_* API</b><br />
         <tt>GM_*</tt> 是一組 Via 提供的特殊 API 集合。當前支援的特殊 API 包括：<br/>
@@ -677,8 +677,8 @@
     <string name="action_keep">保留</string>
     <string name="desc_bookmark_folder">%1$s 資料夾</string>
     <string name="message_splash_agreement">在使用 Via 前，你需要認真閱讀並同意我們的 %1$s 和 %2$s。</string>
-    <string name="translation_engine_google_in_page">谷歌頁內翻譯</string>
-    <string name="title_feedback">意見反饋</string>
+    <string name="translation_engine_google_in_page">Google頁內翻譯</string>
+    <string name="title_feedback">意見回饋</string>
     <string name="action_view_cookies">檢視 Cookies</string>
     <string name="title_cookies_for_site">%1$s 的 Cookies</string>
     <string name="message_no_cookies">無 Cookies。</string>
@@ -701,7 +701,7 @@
     <string name="title_target_language">目標語言</string>
     <string name="desc_swap_language">交換語言</string>
     <string name="desc_paste_text">貼上文字</string>
-    <string name="translation_engine_google_text">谷歌文字翻譯</string>
+    <string name="translation_engine_google_text">Google文字翻譯</string>
     <string name="sourcenao_url">SourceNAO</string>
     <string name="iqdb_url">IQDB</string>
     <string name="iqdb_3d_url">3D IQDB</string>
@@ -713,13 +713,13 @@
     <string name="action_view_in_settings">在設定中檢視</string>
     <string name="message_delete_following_items">你確定刪除下列項目嗎？</string>
     <string name="list_item">• %1$s</string>
-    <string name="action_reset">重置</string>
-    <string name="title_reset_site_conf">重置網站設定</string>
-    <string name="message_reset_site_conf">你確定重置 %1$s 的網站設定嗎？</string>
+    <string name="action_reset">重設</string>
+    <string name="title_reset_site_conf">重設網站設定</string>
+    <string name="message_reset_site_conf">你確定重設 %1$s 的網站設定嗎？</string>
     <string name="title_ignore_ssl_warnings">忽略 SSL 證書警告</string>
-    <string name="title_ignore_ssl_warnings_description">請小心，忽略 SSL 證書警告可能會使網站的連結不安全</string>
-    <string name="message_ignore_ssl_warnings">SSL 證書用於驗證網站身份和加密連結。這就像是把信放在信封中再寄出，只有你和網站可以拆開這封信。\n\n一旦你忽略 SSL 警告，則與網站的連結可能不安全，這意味著與網站傳輸的資料可能被人竊取。這就像把信放在一個破損的信封上然後寄出它，偽造證書的人可以拆開它。</string>
-    <string name="title_ignore_ssl_warnings_confirmation">我瞭解這可能導致連結不安全</string>
+    <string name="title_ignore_ssl_warnings_description">請小心，忽略 SSL 證書警告可能會使網站的連線不安全</string>
+    <string name="message_ignore_ssl_warnings">SSL 證書用於驗證網站身份和加密連線。這就像是把信放在信封中再寄出，只有你和網站可以拆開這封信。\n\n一旦你忽略 SSL 警告，則與網站的連線可能不安全，這意味著與網站傳輸的資料可能被人竊取。這就像把信放在一個破損的信封上然後寄出它，偽造證書的人可以拆開它。</string>
+    <string name="title_ignore_ssl_warnings_confirmation">我瞭解這可能導致連線不安全</string>
     <string name="title_disable_safe_browsing_description">安全瀏覽允許 WebView 透過驗證連結來防止惡意軟體和網路釣魚攻擊</string>
     <string name="action_close_all_tabs">關閉所有分頁</string>
     <string name="action_close_other_tabs">關閉其它分頁</string>
@@ -729,7 +729,7 @@
     <string name="message_permission_request">%1$s 請求使用：</string>
     <string name="list_item_dash">- %1$s</string>
     <string name="permission_microphone">麥克風</string>
-    <string name="permission_camera">攝像頭</string>
+    <string name="permission_camera">攝影機</string>
     <string name="add_site_exception">新增例外網站</string>
     <string name="blocked">已禁止</string>
     <string name="allowed">允許</string>
@@ -741,12 +741,12 @@
     <string name="category_basics">基本</string>
     <string name="category_permissions">權限</string>
     <string name="agent_add_site_exception">為特定網站設定使用者代理。</string>
-    <string name="images">影象</string>
-    <string name="images_allowed_description">允許網站顯示影象</string>
-    <string name="images_allowed_via_wifi_description">僅在 Wi-Fi 連線時允許網頁顯示影象</string>
+    <string name="images">影像</string>
+    <string name="images_allowed_description">允許網站顯示影像</string>
+    <string name="images_allowed_via_wifi_description">僅在 Wi-Fi 連線時允許網頁顯示影像</string>
     <string name="images_allowed_via_wifi_description_short">僅在 Wi-Fi 連線時允許</string>
-    <string name="images_add_site_exception_allow">允許特定網站顯示影象。</string>
-    <string name="images_add_site_exception_block">禁止特定網站載入影象。</string>
+    <string name="images_add_site_exception_allow">允許特定網站顯示影像。</string>
+    <string name="images_add_site_exception_block">禁止特定網站載入影像。</string>
     <string name="javascript">JavaScript</string>
     <string name="javascript_allowed_description">允許網頁執行 JavaScript</string>
     <string name="javascript_add_site_exception_allow">允許特定網站執行 JavaScript。</string>
@@ -764,8 +764,8 @@
     <string name="clipboard_add_site_exception_block">禁止特定網站使用剪貼簿。</string>
     <string name="location1">位置資訊</string>
     <string name="location_ask_first_description">網站需先詢問並得到權限才能獲取你的位置資訊</string>
-    <string name="camera">攝像頭</string>
-    <string name="camera_ask_first_description">網站需先詢問並得到權限才能使用攝像頭</string>
+    <string name="camera">攝影機</string>
+    <string name="camera_ask_first_description">網站需先詢問並得到權限才能使用攝影機</string>
     <string name="microphone">麥克風</string>
     <string name="microphone_ask_first_description">網站需先詢問並得到權限才能使用麥克風</string>
     <string name="having_trouble_exporting_data">匯出資料時遇到了困難？</string>
@@ -780,4 +780,21 @@
     <string name="skin_changed">面板已變更</string>
     <string name="desktop_mode_on">電腦模式已開啟</string>
     <string name="desktop_mode_off">電腦模式已關閉</string>
+    <string name="import_script_from_url">下載指令碼</string>
+    <string name="import_script_from_file">匯入指令碼</string>
+    <string name="script_invalid">無效指令碼</string>
+    <string name="open_app">開啟應用</string>
+    <string name="open_app_ask_first_description">網站需先詢問並得到權限才能開啟應用</string>
+    <string name="open_app_allowed_description">允許網站開啟應用</string>
+    <string name="open_app_blocked_description">禁止網站開啟應用</string>
+    <string name="open_app_add_site_exception_allow">允許特定網站開啟應用。</string>
+    <string name="open_app_add_site_exception_block">禁止特定網站開啟應用。</string>
+    <string name="update_interval">自動更新</string>
+    <string name="never">從不</string>
+    <string name="every_day">每天</string>
+    <string name="every_3_days">每 3 天</string>
+    <string name="every_week">每週</string>
+    <string name="every_15_days">每 15 天</string>
+    <string name="adblock_add_site_exception_on">為特定網站開啟封鎖廣告。</string>
+    <string name="adblock_add_site_exception_off">為特定網站關閉封鎖廣告。</string>
 </resources>
