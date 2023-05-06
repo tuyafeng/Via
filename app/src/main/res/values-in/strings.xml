@@ -193,8 +193,8 @@
     <string name="conn_timeout">Waktu koneksi berakhir</string> 
     <string name="already_default">Sudah ditetapkan sebagai default</string> 
     <string name="set_to_default">Ini akan disetel sebagai default setelah membuka tautan %1$s. Silakan pilih Via untuk membuka tautan.</string> 
-    <string name="sync_prompt">Bookmark dan setelan lokal anda saat ini akan ditimpa. Melanjutkan?</string> 
-    <string name="upload_prompt">Bookmark dan setelan lokal anda saat ini akan diunggah. Melanjutkan?</string> 
+    <string name="sync_prompt">Bookmark dan setelan lokal anda saat ini akan ditimpa. Lanjutkan?</string> 
+    <string name="upload_prompt">Bookmark dan setelan lokal anda saat ini akan diunggah. Lanjutkan?</string> 
     <string name="none">Tidak ada</string> 
     <string name="check_permission">Izin ditolak. Apakah anda ingin menyetelnya di setelan sekarang?</string> 
     <string name="need_permission_hint">Via membutuhkan izin berikut untuk bekerja:\n\n</string> 
@@ -283,7 +283,7 @@
     <string name="ask_first">Tanyakan dulu</string> 
     <string name="disable_restore">Jangan pulihkan</string> 
     <string name="data_file">Ekspor data</string> 
-    <string name="bookmarks_data_to_long">Data bookmark terlalu besar untuk diunggah, tetapi data lain akan diunggah secara normal. Melanjutkan?</string> 
+    <string name="bookmarks_data_to_long">Data bookmark terlalu besar untuk diunggah, tetapi data lain akan diunggah secara normal. Lanjutkan?</string> 
     <string name="restore_tabs_hint_settings">Tab tidak akan dipulihkan saat anda dalam \"mode Penyamaran\".</string> 
     <string name="ignore_secondary_ssl_error">Abaikan kesalahan SSL sekunder</string> 
     <string name="web_page_debug">Aktifkan debugging halaman web</string> 
