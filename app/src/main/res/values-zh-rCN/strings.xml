@@ -822,5 +822,4 @@
     <string name="external_video_player_description">当选择外置播放器播放视频时，使用</string>
     <string name="player_system_sharing">系统分享</string>
     <string name="request_to_download_full_script">该脚本不完整且无法运行，你想要下载完整脚本吗？</string>
-
 </resources>
