@@ -28,7 +28,7 @@
     <string name="orientation_auto">Samodejna</string>
     <string name="orientation_portrait">Portret</string>
     <string name="orientation_landscape">Pokrajina</string>
-    <string name="agent">Uporabniški agent</string>
+    <string name="agent">Uporab. agent</string>
     <string name="home">Začetna stran</string>
     <string name="fullscreen">Samodejno skrivanje orodnih vrstic</string>
     <string name="java">Omogoči JavaScript</string>
@@ -129,7 +129,7 @@
     <string name="settings_about">O aplikaciji</string>
     <string name="url_box">Vsebina URL polja</string>
     <string name="url_box_domain">Domena</string>
-    <string name="action_pcview">Stran namizja</string>
+    <string name="action_pcview">Namizni način</string>
     <string name="action_source">Pokaži izvor</string>
     <string name="action_translate">Prevedi</string>
     <string name="title_edit_folder">Uredi mapo</string>
@@ -210,7 +210,7 @@
     <string name="fullscreen_2">Pritisni za skritje/prikaz</string>
     <string name="settings_script">Skripti</string>
     <string name="get_more_script">Pridobi več skriptov</string>
-    <string name="add_script">Dodaj skript</string>
+    <string name="add_script">Nov skript</string>
     <string name="script_url">Domena ali * (* pomeni vse)</string>
     <string name="script_code">Koda (JavaScript)</string>
     <string name="help_us_translate">Pomagajte nam pri prevodu</string>
@@ -233,7 +233,7 @@
     <string name="find_pre">Najdi prejšnjo ponovitev</string>
     <string name="action_open_in_background">Odpri v ozadju</string>
     <string name="cannot_work">Deluje lahko samo s \"http\" ali \"https\" URL-ji.</string>
-    <string name="action_fullscreen">Celozaslonski način</string>
+    <string name="action_fullscreen">Celozasl. način</string>
     <string name="settings_general">Splošno</string>
     <string name="no_bookmark">Ni zaznamkov</string>
     <string name="import_or_export_bookmarks">Uvoz/izvoz zaznamkov</string>
@@ -251,7 +251,7 @@
     <string name="file_size">Velikost datoteke: %1$s</string>
     <string name="search_by_image">Iskanje po sliki</string>
     <string name="resource_sniffer">Vohljač virov</string>
-    <string name="res_log_hint">Pritisnite element za predogled ali ga dalj časa pridržite za prenos in prikaz ostalih možnosti.</string>
+    <string name="res_log_hint">V nadaljevanju je dnevnik virov naložene strani.</string>
     <string name="no_resource">Stran nima vira.</string>
     <string name="no_network_log">Stran nima omrežnega dnevnika.</string>
     <string name="resource_sniffer_hint">\nMedijske datoteke je lažje zaznati med predvajanjem glasbe ali videa. Vohljač virov na določenih spletnih straneh ne deluje.</string>
@@ -311,7 +311,7 @@
     <string name="block_hint">Blokirano: %1$s\nOsvežite za uveljavitev sprememb.</string>
     <string name="unblock_hint">Odblokirano: %1$s\nOsvežite za uveljavitev sprememb.</string>
     <string name="block_3rd_party_cookies">Blokiraj piškotke tretjih oseb</string>
-    <string name="enable_site_conf">Omogoči konfiguracijo spletnega mesta %1$s</string>
+    <string name="enable_site_conf">Omogoči konfiguracijo za %1$s</string>
     <string name="site_conf">Konfiguracija spletnega mesta</string>
     <string name="ui_simple_top">Orodna vrstica na vrhu</string>
     <string name="ui_simple_bottom">Orodna vrstica na dnu</string>
@@ -387,7 +387,7 @@
     <string name="version">Različica</string>
     <string name="paste_and_go">Prilepi &amp; pojdi</string>
     <string name="night_filter_for_web_contents">Nočni filter za spletne vsebine</string>
-    <string name="force_dark_mode_for_web_contents">Vsili temni način za spletne vsebine</string>
+    <string name="force_dark_mode_for_web_contents">Vsiljen temni način za spletne vsebine</string>
     <string name="force_dark_mode_for_web_contents_description">Ob vklopu prisili spletne strani, da se zatemnijo, kar lahko povzroči neobičajno delovanje nekaterih strani.</string>
     <string name="require_javascript_enabled">To bo začelo učinkovati, ko bo omogočen JavaScript.</string>
     <string name="keyboard_shortcuts">Bližnjice na tipkovnici</string>
@@ -433,14 +433,14 @@
     <string name="action_save">Shrani</string>
     <string name="reset_to_default_settings">Ponastavi na privzete nastavitve</string>
     <string name="script_sites">Strani (kot je *.foo.com,bar.*/list)</string>
-    <string name="simple_guide_of_writing_script">Napisana skripta se bo pričela samodejno izvajati, ko bo spletna stran naložena.
-    \n\nStrani (zahtevano): stran s skripto podpira nadomestni znak \"*\". Različne strani se ločijo z nadomestnim znakom \",\". Primer: *.foo.com,bar.*/list.
-    \n\nOpomba (izbirno): uporabljena je kot naslov skripte.
+    <string name="simple_guide_of_writing_script">Napisan skript se bo pričel samodejno izvajati, ko bo spletna stran naložena.
+    \n\nStrani (zahtevano): stran s skriptom podpira nadomestni znak \"*\". Različne strani se ločijo z nadomestnim znakom \",\". Primer: *.foo.com,bar.*/list.
+    \n\nOpomba (izbirno): uporabljena je kot naslov skripta.
     \n\nKoda (zahtevano): priporočljivo je uporabljati nativni JavaScript. Uporabita se lahko tudi sintaksi jquery ali vue.js, če ju spletna stran koristi.</string>
-    <string name="save_data">Shrani podatke</string>
+    <string name="save_data">Varčevanje s podatki</string>
     <string name="save_data_description">Vklopi način varčevanja s podatki na združljivih spletnih straneh</string>
     <string name="use_line_style_search_box">Za iskalno polje uporabi črto namesto okvirja</string>
-    <string name="toast_script_added">Skripta uspešno dodana</string>
+    <string name="toast_script_added">Skript uspešno dodan</string>
     <string name="action_manage_favorites">Upravitelj priljubljenih</string>
     <string name="check_for_updates">Preveri posodobitve</string>
     <string name="checking_for_updates">Preverjanje posodobitev</string>
@@ -534,10 +534,10 @@
     <string name="theme_color">Barva teme</string>
     <string name="theme_color_dark">Temna</string>
     <string name="theme_color_light">Svetla</string>
-    <string name="uninstall_script">Odstrani skripto</string>
-    <string name="uninstall_script_message">Ste prepričani da želite odstraniti skripto \"%1$s\"?</string>
-    <string name="install_script">Namesti skripto</string>
-    <string name="install_script_message">Ste prepričani da želite namestiti skripto \"%1$s\"?</string>
+    <string name="uninstall_script">Odstrani skript</string>
+    <string name="uninstall_script_message">Ste prepričani, da želite odstraniti skript \"%1$s\"?</string>
+    <string name="install_script">Namesti skript</string>
+    <string name="install_script_message">Ste prepričani, da želite namestiti skript \"%1$s\"?</string>
     <string name="processing_blob_data">Obdelovanje zbirke binarnih podatkov…</string>
     <string name="tineye_url">TinEye</string>
     <string name="login_username">Uporabniško ime (račun bo ustvarjen, če ne obstaja)</string>
@@ -562,16 +562,16 @@
     <string name="download_error_file_io">I/O napaka</string>
     <string name="download_error_network">Omrežna napaka</string>
     <string name="download_error_unknown">Neznana napaka</string>
-    <string name="message_re_download">Ste prepričani da želite izbrisati preneseno datoteko in ponovno prenesti %1$s?</string>
+    <string name="message_re_download">Ste prepričani, da želite izbrisati preneseno datoteko in ponovno prenesti %1$s?</string>
     <string name="share_image">Deli sliko</string>
     <string name="ssl_warning_insecure_connection_message">Povezava do %1$s ni varna:\n%2$s\nVseeno nadaljujem?</string>
     <string name="ssl_warning_dont_ask_again">Ne sprašuj ponovno za to sejo brskanja</string>
-    <string name="ssl_warning_certificate_untrusted">Certifikat ni vreden zaupanja</string>
-    <string name="ssl_warning_certificate_date_invalid">Datum certifikata ni veljaven</string>
-    <string name="ssl_warning_certificate_expired">Certifikat je potekel</string>
-    <string name="ssl_warning_certificate_domain_mismatch">Domena v certifikatu se ne ujema z domeno spletnega mesta</string>
-    <string name="ssl_warning_certificate_invalid">Certifikat ni veljaven</string>
-    <string name="ssl_warning_certificate_not_yet_valid">Certifikat še ni veljaven</string>
+    <string name="ssl_warning_certificate_untrusted">certifikat ni vreden zaupanja</string>
+    <string name="ssl_warning_certificate_date_invalid">datum certifikata ni veljaven</string>
+    <string name="ssl_warning_certificate_expired">certifikat je potekel</string>
+    <string name="ssl_warning_certificate_domain_mismatch">domena v certifikatu se ne ujema z domeno spletnega mesta</string>
+    <string name="ssl_warning_certificate_invalid">certifikat ni veljaven</string>
+    <string name="ssl_warning_certificate_not_yet_valid">certifikat še ni veljaven</string>
     <string name="the_site">Spletno mesto</string>
     <string name="navigation_up">Pomik navzgor</string>
     <string name="hide_popup_window">Skrij pojavno okno</string>
@@ -616,4 +616,203 @@
     <string name="toutiao_url">Toutiao</string>
     <string name="title_can_not_be_empty">Naslov ne sme biti prazen</string>
     <string name="user_agent_can_not_be_empty">Uporabniški agent ne sme biti prazen</string>
+    <string name="download_filter_all">Vse</string>
+    <string name="download_filter_others">Ostalo</string>
+    <string name="download_filter_documents">Dokumenti</string>
+    <string name="download_filter_images">Slike</string>
+    <string name="download_filter_video">Videi</string>
+    <string name="download_filter_apk">APK-ji</string>
+    <string name="download_filter_audio">Zvok</string>
+    <string name="download_filter_archives">Arhiv</string>
+    <string name="simple_guide_of_writing_userscript"><![CDATA[
+        <b>Blok metapodatkov</b><br />
+        Metapodatki morajo biti skladni s formatom:<br />
+        <tt>
+        // ==Skript==<br />
+        // @ključna vrednost<br />
+        // ==/Skript==
+        </tt>
+        <br /><br />
+        <b><tt>@name</tt></b>: Ime skripta.
+        <br /><br />
+        <b><tt>@namespace</tt></b>: Kombinacija <tt>@namespace</tt> in <tt>@name</tt> je enolični identifikator skripta.
+        <br /><br />
+        <b><tt>@match/@exclude-match</tt></b>: Definira pravila za odločanje, ali naj se skript izvede. Priporočljivo je uporabiti <tt>@match</tt> namesto <tt>@include</tt>.
+        <br /><br />
+        <b><tt>@include/@exclude</tt></b>: Star način definiranja pravila za odločanje, ali naj se skript izvede.
+        <br /><br />
+        <b><tt>@version</tt></b>: Različica skripta.
+        <br /><br />
+        <b><tt>@description</tt></b>: Opis skripta.
+        <br /><br />
+        <b><tt>@author</tt></b>: Avtor skripta.
+        <br /><br />
+        <b><tt>@require</tt></b>: Zahteva skripta. Na primer: <br /><tt>// @require https://my.cdn.com/jquery.js</tt>.
+        <br /><br />
+        <b><tt>@run-at</tt></b>: Odloči, kdaj se skripta izvede. <tt>document-start</tt> se uporabi za vrivanje skriptov, preden se stran naloži. <tt>document-end</tt> se uporabi za vrivanje skriptov po tem, ko se stran naloži.
+        <br /><br />
+        <b><tt>@grant</tt></b>: Navede, kateri posebni GM_* API-ji morajo biti odobreni in so lahko uporabljeni, ko se skripta izvede.<br />
+        <br /><br />
+        <b><tt>@downloadURL</tt></b>: URL, iz katerega je lahko skript prenesen.
+        <br /><br />
+        <b><tt>@supportURL</tt></b>: Podporni URL skripta.
+        <br /><br />
+        <b><tt>@homepageURL</tt></b>: URL domače strani skripta.
+        <br /><br />
+        <b>GM_* APIs</b><br />
+        <tt>GM_*</tt> je skupina posebnih API-jev, ki jih ponuja Via. Trenutno podprti posebni API-ji vključujejo: <br/>
+        <tt>GM_getValue/GM_setValue/GM_deleteValue/GM_listValues/GM_getResourceText/GM_getResourceURL/GM_addElement/GM_addStyle/GM_setClipboard/GM_xmlhttpRequest/GM_download</tt>.
+        <br /><br />
+        <b>Prileganje</b><br />
+        <tt>@match</tt> definira pravilo ujemanja URL-jev. <tt>@exclude-match</tt> definira pravilo ujemanja, ampak izključi ujemajoče se URL-je, ki so podobni <tt>@exclude</tt>.
+        <br /><br />
+        Na primer:<br />
+        <tt>
+        // @match https://www.google.com/something <br />
+        // @match https://www.google.com/any/* <br />
+        // @exclude-match https://www.google.com/any/not_me
+        </tt>
+        <br /><br />
+    ]]></string>
+    <string name="toast_install_script_successfully">Namestitev \"%1$s\" je uspela!</string>
+    <string name="toast_install_script_failed_unknown">Namestitev \"%1$s\" ni uspela!</string>
+    <string name="toast_install_script_failed_dependency_error">Prenos odvisnosti \"%1$s\" ni uspela!</string>
+    <string name="title_install_script">Namestitev skripta</string>
+    <string name="message_install_script">Ste prepričani, da želite namestiti \"%1$s\"(%2$s)?</string>
+    <string name="title_reinstall_script">Ponovna namestitev skripta</string>
+    <string name="message_reinstall_script">Ste prepričani, da želite znova namestiti \"%1$s\"(%2$s)?</string>
+    <string name="title_update_script">Posodobitev skripta</string>
+    <string name="message_update_script">Ste prepričani, da želite posodobiti \"%1$s\"(%2$s -> %3$s)?</string>
+    <string name="toast_parsing_script">Razčlenjevanje skripta…</string>
+    <string name="title_add_metadata_block">Dodajanje bloka metapodatkov</string>
+    <string name="message_add_metadata_block">Ta skript nima bloka metapodatkov, zato ne more biti shranjen. Mu želite dodati privzeti blok metapodatkov?</string>
+    <string name="title_disable_safe_browsing">Izklop varnega brskanja</string>
+    <string name="title_close_all_tabs">Zapiranje vseh zavihkov</string>
+    <string name="message_close_all_tabs_before_disabling_incognito_mode">Želite zapreti vse zavihke pred izklopom zasebnega načina?</string>
+    <string name="action_close">Zapri</string>
+    <string name="action_keep">Obdrži</string>
+    <string name="desc_bookmark_folder">%1$s mapa</string>
+    <string name="message_splash_agreement">Z uporabo Via se strinjate s sledečim: %1$s in %2$s.</string>
+    <string name="translation_engine_google_in_page">Google prevajanje strani</string>
+    <string name="title_feedback">Povratne informacije</string>
+    <string name="action_view_cookies">Prikaži piškotke</string>
+    <string name="title_cookies_for_site">Piškotki za %1$s</string>
+    <string name="message_no_cookies">Ni piškotkov.</string>
+    <string name="toast_cookies_for_site_cleared">Piškotki za %1$s so počiščeni</string>
+    <string name="toast_site_does_not_support_resource_sniffing">Ta stran ne podpira vohljanja po virih</string>
+    <string name="desc_expand_text">Razširi besedilo</string>
+    <string name="desc_collapse_text">Strni besedilo</string>
+    <string name="desc_clear_text">Počisti besedilo</string>
+    <string name="title_search_suggestions">Predlogi za iskanje</string>
+    <string name="message_search_suggestions">Pri uporabi naslovne vrstice se predlaga:</string>
+    <string name="title_open_tabs">Odprti zavihki</string>
+    <string name="desc_fill_in_text">Izpolni besedilo</string>
+    <string name="directory_name">Ime mape</string>
+    <string name="action_default_location">Privzeta lokacija</string>
+    <string name="action_choose_folder">Izberi mapo…</string>
+    <string name="title_permission_denied">Zavrnitev dovoljenja</string>
+    <string name="message_reselect_download_location">Dovoljenje za shrambo je bilo zavrnjeno za to lokacijo prenosov. Ponovno izberite lokacijo mape za prenose.</string>
+    <string name="detect_language">Zaznaj jezik</string>
+    <string name="title_source_language">Izvorni jezik</string>
+    <string name="title_target_language">Ciljni jezik</string>
+    <string name="desc_swap_language">Zamenjaj jezik</string>
+    <string name="desc_paste_text">Prilepi besedilo</string>
+    <string name="translation_engine_google_text">Google prevajanje besedila</string>
+    <string name="sourcenao_url">SourceNAO</string>
+    <string name="iqdb_url">IQDB</string>
+    <string name="iqdb_3d_url">3D IQDB</string>
+    <string name="whatanime_url">WhatAnime</string>
+    <string name="ascii2d_url">Ascii2D</string>
+    <string name="title_scripts_for_site">Skripti za %1$s</string>
+    <string name="disabled">Onemogočeno</string>
+    <string name="enabled">Omogočeno</string>
+    <string name="action_view_in_settings">Ogled v nastavitvah</string>
+    <string name="message_delete_following_items">Ste prepričani, da želite izbrisati sledeče elemente?</string>
+    <string name="list_item">• %1$s</string>
+    <string name="action_reset">Ponastavi</string>
+    <string name="title_reset_site_conf">Ponastavitev konfiguracije spletnega mesta</string>
+    <string name="message_reset_site_conf">Ste prepričani, da želite ponastaviti konfiguracijo za %1$s?</string>
+    <string name="title_ignore_ssl_warnings">Ignoriranje opozoril SSL certifikatov</string>
+    <string name="title_ignore_ssl_warnings_description">Pozor: ignoriranje opozoril SSL certifikatov lahko povzroči, da povezava s spletnim mestom ne bo varna</string>
+    <string name="message_ignore_ssl_warnings">SSL certifikati se uporabljajo za preverjanje identitete spletnih mest in šifriranje povezave. S šifrirano povezavo imata dostop do vsebine komunikacije samo uporabnik z veljavnim certifikatom in šifrirano spletno mesto.\n\nČe se opozorila SSL certifikatov ignorira, je lahko povezava s spletnim mestom nezaščitena. To pomeni, da so lahko izmenjani podatki med uporabnikom in takšnim spletnim mestom ukradeni, v kolikor neka tretja oseba za namen prestrezanja teh podatkov uporabi ponarejeno potrdilo.</string>
+    <string name="title_ignore_ssl_warnings_confirmation">Seznanjen sem, da lahko to povzroči povezavo nezaščiteno</string>
+    <string name="title_disable_safe_browsing_description">Varno brskanje WebView-u na osnovi preverjanja povezav omogoča zaščito pred napadi zlonamerne programske opreme in ribarjenja (phishing)</string>
+    <string name="action_close_all_tabs">Zapri vse zavihke</string>
+    <string name="action_close_other_tabs">Zapri ostale zavihke</string>
+    <string name="action_close_tabs_to_the_bottom">Zapri zavihke proti dnu</string>
+    <string name="action_close_tabs_to_the_top">Zapri zavihke proti vrhu</string>
+    <string name="title_permission_request">Zahteva za dovoljenje</string>
+    <string name="message_permission_request">%1$s bi rad uporabil:</string>
+    <string name="list_item_dash">- %1$s</string>
+    <string name="permission_microphone">Mikrofon</string>
+    <string name="permission_camera">Kamera</string>
+    <string name="add_site_exception">Dodaj izjemo spletnega mesta</string>
+    <string name="blocked">Blokirano</string>
+    <string name="allowed">Dovoljeno</string>
+    <string name="exception">Izjema</string>
+    <string name="Exception">Izjema</string>
+    <string name="block">Blokiraj</string>
+    <string name="allow">Dovoli</string>
+    <string name="all_sites">Vse strani</string>
+    <string name="category_content">Vsebina</string>
+    <string name="category_basics">Osnovno</string>
+    <string name="category_permissions">Dovoljenja</string>
+    <string name="agent_add_site_exception">Nastavi uporabniškega agenta za določeno spletno mesto.</string>
+    <string name="images">Slike</string>
+    <string name="images_allowed_description">Spletnim mestom dovoli nalaganje slik</string>
+    <string name="images_allowed_via_wifi_description">Spletnim mestom dovoli nalaganje slik samo preko povezave Wi-Fi</string>
+    <string name="images_allowed_via_wifi_description_short">Dovoljeno samo preko Wi-Fi</string>
+    <string name="images_add_site_exception_allow">Prikaži slike samo za določeno spletno mesto.</string>
+    <string name="images_add_site_exception_block">Blokiraj slike za določeno spletno mesto.</string>
+    <string name="javascript">JavaScript</string>
+    <string name="javascript_allowed_description">Spletnim mestom dovoli izvajanje JavaScript-a</string>
+    <string name="javascript_add_site_exception_allow">Dovoli JavaScript za določeno spletno mesto.</string>
+    <string name="javascript_add_site_exception_block">Blokiraj JavaScript za določeno spletno mesto.</string>
+    <string name="cookies">Piškotki</string>
+    <string name="cookies_allowed_description">Spletnim mestom dovoli shranjevanje in branje piškotkov</string>
+    <string name="cookies_allowed_except_third_party_description_short">Dovoljeno, razen za tretje osebe</string>
+    <string name="popups">Pojavna okna</string>
+    <string name="popups_ask_first_description">Vprašaj, preden spletnim mestom dovolite prikazovanje pojavnih oken</string>
+    <string name="clipboard">Odložišče</string>
+    <string name="clipboard_ask_first_description">Vprašaj, preden spletnim mestom dovolite uporabo odložišča</string>
+    <string name="clipboard_allowed_description">Spletnim mestom dovoli uporabo odložišča</string>
+    <string name="clipboard_blocked_description">Spletnim mestom blokiraj uporabo odložišča</string>
+    <string name="clipboard_add_site_exception_allow">Dovoli določenemu spletnemu mestu, da uporabi vaše odložišče.</string>
+    <string name="clipboard_add_site_exception_block">Blokiraj določenemu spletnemu mestu, da uporabi vaše odložišče.</string>
+    <string name="location1">Lokacija</string>
+    <string name="location_ask_first_description">Vprašaj, preden spletnim mestom dovolite dostopati do podatkov o vaši lokaciji</string>
+    <string name="camera">Kamera</string>
+    <string name="camera_ask_first_description">Vprašaj, preden spletnim mestom dovolite uporabo kamere</string>
+    <string name="microphone">Mikrofon</string>
+    <string name="microphone_ask_first_description">Vprašaj, preden spletnim mestom dovolite uporabo mikrofona</string>
+    <string name="having_trouble_exporting_data">Imate težave pri izvozu podatkov?</string>
+    <string name="having_trouble_exporting_data_message">Podatke lahko shranite v mapo %1$s, če jih ne morete ročno izvoziti. Želite nadaljevati?</string>
+    <string name="on">Vklop</string>
+    <string name="off">Izklop</string>
+    <string name="default_description">%1$s (privzeto)</string>
+    <string name="grant">Dodelitev</string>
+    <string name="skins">Preobleke</string>
+    <string name="load_skin">Naloži preobleko</string>
+    <string name="load_skin_failed">Nalaganje preobleke ni uspelo</string>
+    <string name="skin_changed">Preobleka je spremenjena</string>
+    <string name="desktop_mode_on">Namizni način je vklopljen</string>
+    <string name="desktop_mode_off">Namizni način je izklopljen</string>
+    <string name="import_script_from_url">Uvozi skript iz URL-ja</string>
+    <string name="import_script_from_file">Uvozi skript iz datoteke</string>
+    <string name="script_invalid">Skript ni veljaven</string>
+    <string name="open_app">Odpri aplikacijo</string>
+    <string name="open_app_ask_first_description">Vprašaj, preden spletnim mestom dovolite odpiranje aplikacije</string>
+    <string name="open_app_allowed_description">Spletnim mestom dovoli, da odprejo aplikacijo</string>
+    <string name="open_app_blocked_description">Spletnim mestom blokiraj, da odprejo aplikacijo</string>
+    <string name="open_app_add_site_exception_allow">Dovoli določenemu spletnemu mestu, da odpre aplikacijo.</string>
+    <string name="open_app_add_site_exception_block">Blokiraj določenemu spletnemu mestu, da odpre aplikacijo.</string>
+    <string name="update_interval">Interval posodabljanja</string>
+    <string name="never">Nikoli</string>
+    <string name="every_day">Dnevno</string>
+    <string name="every_3_days">Vsake 3 dni</string>
+    <string name="every_week">Tedensko</string>
+    <string name="every_15_days">Vsakih 15 dni</string>
+    <string name="adblock_add_site_exception_on">Omogoči blokiranje oglasov za določeno spletno mesto.</string>
+    <string name="adblock_add_site_exception_off">Onemogoči blokiranje oglasov za določeno spletno mesto.</string>
+
 </resources>

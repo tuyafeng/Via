@@ -5,7 +5,7 @@
     <string name="action_open_in_new">নতুন ট্যাবে খুলুন</string>
     <string name="action_save_img">ছবি সংরক্ষন করুন</string>
     <string name="action_share">শেয়ার করুন</string>
-    <string name="action_history">ব্রাউজারিংয়ের ইতিহাস</string>
+    <string name="action_history">ব্রাউজিংয়ের ইতিহাস</string>
     <string name="action_bookmarks">বুকমার্ক</string>
     <string name="bookmarks_file">বুকমার্ক এক্সপোর্ট</string>
     <string name="action_add_bookmark">বুকমার্কে সংযুক্তকরন</string>
@@ -39,7 +39,7 @@
     <string name="action_delete_all">সব মুছে ফেলুন</string>
     <string name="action_blank">খালি পৃষ্ঠা</string>
     <string name="agent_chrome">ক্রোম (পিসি)</string>
-    <string name="agent_ie">আইই 11 (পিসি)</string>
+    <string name="agent_ie">আইই ১১ (পিসি)</string>
     <string name="agent_iphone">সাফারি (আইফোন)</string>
     <string name="agent_symbian">নোকিয়া ব্রাউজার</string>
     <string name="agent_custom">কাস্টম</string>
@@ -61,7 +61,7 @@
     <string name="action_find">পৃষ্ঠায় সন্ধান করুন</string>
     <string name="download_pending">ডাউনলোড শুরু হচ্ছে\u2026</string>
     <string name="cannot_download">কেবল \"http\" অথবা \"https\" URL ডাউনলোড করা যায়</string>
-    <string name="bookmarks_imported">%1$d বুকমার্কগুলি আমদানি করা হয়েছে</string>
+    <string name="bookmarks_imported">%1$d বুকমার্কগুলো আমদানি করা হয়েছে</string>
     <string name="custom_url">কাস্টম ইউআরএল</string>
     <string name="baidu_url">বাইডু</string>
     <string name="shenma_url">সেনমা</string>
@@ -86,15 +86,15 @@
     <string name="action_allow">অনুমতি দিন</string>
     <string name="action_dont_allow">অস্বীকার</string>
     <string name="title_sign_in">প্রবেশ কর</string>
-    <string name="hint_username">Username</string>
+    <string name="hint_username">ব্যবহারকারী নাম</string>
     <string name="hint_password">পাসওয়ার্ড</string>
     <string name="untitled">শিরোনামহীন</string>
-    <string name="image_auto">কেবল Wi-Fi এর মাধ্যমে চিত্রগুলি দেখান</string>
+    <string name="image_auto">কেবল ওয়াই-ফাইয়ের মাধ্যমে চিত্রগুলি দেখান</string>
     <string name="image_off">ব্লক ইমেজ</string>
-    <string name="image_on">চিত্রগুলি দেখান</string>
+    <string name="image_on">চিত্রগুলো দেখান</string>
     <string name="title_file_chooser">ফাইল চয়নকারী</string>
     <string name="import_bookmarks">বুকমার্কগুলি আমদানি করুন</string>
-    <string name="export_bookmarks_to">Bবুকমার্ক রফতানি: %1$s</string>
+    <string name="export_bookmarks_to">বুকমার্ক রফতানি: %1$s</string>
     <string name="import_bookmark_error">ফাইল থেকে বুকমার্ক আমদানি করা যায়নি</string>
     <string name="message_add_bookmark">বুকমার্ক সফলভাবে যোগ করা হয়েছে</string>
     <string name="message_exit">প্রস্থান করতে আরও একবার চাপুন</string>
@@ -138,7 +138,7 @@
     <string name="desc_tab">ট্যাব</string>
     <string name="desc_menu">মেনু</string>
     <string name="desc_filedic">ফাইল</string>
-    <string name="action_mark">বিজ্ঞাপন হিসাবে চিহ্নিত করুন</string>
+    <string name="action_mark">বিজ্ঞাপন হিসেবে চিহ্নিত করুন</string>
     <string name="dialog_confirm_mark">আপনি কি এটি বিজ্ঞাপন হিসাবে চিহ্নিত করতে চান?</string>
     <string name="do_not_track">ট্র্যাক করবেন না</string>
     <string name="add_rule">বিধি যুক্ত করুন</string>
@@ -154,7 +154,7 @@
     <string name="code_500">পরিষেবা অনুপলব্ধ</string>
     <string name="syns_success">সিঙ্ক সম্পূর্ণ</string>
     <string name="upload_success">আপলোড সম্পূর্ণ</string>
-    <string name="log_out">লগ আউট ?</string>
+    <string name="log_out">লগ আউট?</string>
     <string name="crash_info">কিছু ভুল হয়েছে :(</string>
     <string name="crash_restart">পুনঃসূচনা</string>
     <string name="crash_close">বন্ধ করুন</string>
@@ -166,7 +166,7 @@
     <string name="download_completed">ডাউনলোড সম্পূর্ণ হয়েছে</string>
     <string name="toast_fullscreen_off">পূর্ণ-স্ক্রিন মোড থেকে প্রস্থান করুন</string>
 
-    <string name="clear_data">ডেটা সাফ করুন</string>
+    <string name="clear_data">ডেটা পরিষ্কার করুন</string>
     <string name="data_cache">ক্যাশে </string>
     <string name="data_form_data">ফর্ম ডেটা</string>
     <string name="data_history">ইতিহাস</string>
@@ -180,7 +180,7 @@
     <string name="default_set">ডিফল্ট</string>
     <string name="picture">ছবি </string>
     <string name="text">পাঠ্য</string>
-    <string name="html_code">HTML কোড</string>
+    <string name="html_code">এইচটিএমএল কোড</string>
 
     <string name="action_view_image">চিত্র দেখুন</string>
 
@@ -208,15 +208,15 @@
     <string name="sync_prompt">এটি আপনার বর্তমান স্থানীয় বুকমার্ক এবং সেটিংস ওভাররাইট করে। চালিয়ে যেতে চান?</string>
     <string name="upload_prompt">এটি আপনার বর্তমান স্থানীয় বুকমার্ক এবং সেটিংস আপলোড করবে। চালিয়ে যেতে চান?</string>
     <string name="none">কিছুই নয়</string>
-    <string name="check_permission">অনুমতি অস্বীকার করা হয়েছে denied এখনই সেটিংসে সেট করবেন?</string>
-    <string name="need_permission_hint">Via কাজ করার জন্য নীচের অনুমতিগুলির প্রয়োজন:\n\n</string>
-    <string name="storage_permission">স্টোরেজ: ব্রাউজার থেকে ফাইলগুলি ডাউনলোড করতে এবং বুকমার্কগুলি আমদানি / রফতানি করার জন্য\n\n</string>
+    <string name="check_permission">অনুমতি অস্বীকার করা হয়েছে, এখনই সেটিংসে সেট করবেন?</string>
+    <string name="need_permission_hint">ভায়া ব্রাউজারের কাজ করার জন্য নীচের অনুমতিগুলো প্রয়োজন:\n\n</string>
+    <string name="storage_permission">স্টোরেজ: ব্রাউজার থেকে ফাইলগুলো ডাউনলোড করতে এবং বুকমার্কগুলি আমদানি / রফতানি করার জন্য\n\n</string>
     <string name="location_permission">অবস্থান: গুগল ম্যাপের মতো সাইটের ক্ষেত্রে সেটিংসে এটি ডিফল্টরূপে অক্ষম হয়ে যায় এবং এটি যখন সক্ষম হয় তখন কোনও সাইট আপনার অবস্থান ব্যবহার করতে পারে কিনা তা জানতে একটি পপ-আপ প্রদর্শন করে\n\n</string>
     <string name="force_cancel">জোর করে বন্ধ করুন</string>
     <string name="restore_tabs_hint">শেষ বার থেকে অনাবৃত ট্যাবগুলি পুনরুদ্ধার করবেন?</string>
-    <string name="restore_tabs">স্টার্টআপে ট্যাবগুলি পুনরুদ্ধার করুন</string>
-    <string name="install_success">ইনস্টলেশন সফল !!!</string>
-    <string name="uninstall_success">আনইনস্টলেশন সফল !!!</string>
+    <string name="restore_tabs">অ্যাপ চালুর সময় ট্যাবগুলি পুনরুদ্ধার করুন</string>
+    <string name="install_success">ইনস্টল প্রক্রিয়া সফল!!!</string>
+    <string name="uninstall_success">আনইনস্টল প্রক্রিয়া সফল!!!</string>
     <string name="log_page_hint">অবরুদ্ধ তালিকাটি %1$s এর মধ্যে রয়েছে \n আপনি এটি তালিকা পরিবর্তন করতে সম্পাদনা করতে পারেন, বা ব্লকটি নির্বাচন করতে নীচের আইটেমটি দীর্ঘক্ষণ টিপতে পারেন </string>
     <string name="fullscreen_1">আড়াল/প্রদর্শন করতে স্ক্রোল করুন</string>
     <string name="fullscreen_2">আড়াল/প্রদর্শন করতে ক্লিক করুন</string>
@@ -232,10 +232,10 @@
     <string name="skin_logo">লোগো</string>
     <string name="skin_bg">পটভূমি</string>
     <string name="skin_style">স্টাইল</string>
-    <string name="set_it_as_homepage">এটিকে হোমপৃষ্ঠা হিসাবে সেট করবেন?</string>
+    <string name="set_it_as_homepage">এটিকে হোমপেজ হিসাবে সেট করবেন?</string>
     <string name="missing_webview">অ্যান্ড্রয়েড সিস্টেম ওয়েবভিউ সঠিকভাবে ইনস্টল করা যায়নি। আপনি কি এখনই এটি ইনস্টল করতে চান?</string>
     <string name="install">ইনস্টল</string>
-    <string name="crash_hint">অ্যাপটি ক্র্যাশ হয়ে গেছে বলে আমরা অত্যন্ত দুঃখিত</string>
+    <string name="crash_hint">অ্যাপটি ক্র্যাশ করেছে বলে আমরা অত্যন্ত দুঃখিত</string>
     <string name="glean">গ্লান</string>
     <string name="contact_us">যোগাযোগ করুন</string>
     <string name="official_website">অফিসিয়াল ওয়েবসাইট</string>

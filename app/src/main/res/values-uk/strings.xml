@@ -789,4 +789,21 @@
     <string name="skin_changed">Скін змінено</string>
     <string name="desktop_mode_on">Режим повної версії увімкнено</string>
     <string name="desktop_mode_off">Режим повної версії вимкнено</string>
+	<string name="import_script_from_url">Імпортувати скрипт за посиланням</string>
+    <string name="import_script_from_file">Імпортувати скрипт з файлу</string>
+    <string name="script_invalid">Неправильний скрипт</string>
+    <string name="open_app">Відкрити застосунок</string>
+    <string name="open_app_ask_first_description">Запитувати дозвіл для сайту на відкриття застосунку</string>
+    <string name="open_app_allowed_description">Дозволяти сайтам відкривати застосунок</string>
+    <string name="open_app_blocked_description">Забороняти сайтам відкривати застосунок</string>
+    <string name="open_app_add_site_exception_allow">Дозволяти певному сайту відкривати застосунок.</string>
+    <string name="open_app_add_site_exception_block">Забороняти певному сайту відкривати застосунок.</string>
+    <string name="update_interval">Інтервал оновлення</string>
+    <string name="never">Ніколи</string>
+    <string name="every_day">Щодня</string>
+    <string name="every_3_days">Кожні 3 дні</string>
+    <string name="every_week">Щотижня</string>
+    <string name="every_15_days">Кожні 15 днів</string>
+    <string name="adblock_add_site_exception_on">Увімкнути блокування реклами для певного сайту.</string>
+    <string name="adblock_add_site_exception_off">Вимкнути блокування реклами для певного сайту.</string>
 </resources>
