@@ -811,5 +811,29 @@
     <string name="every_15_days">Every 15 days</string>
     <string name="adblock_add_site_exception_on">Enable ad blocking for a specific site.</string>
     <string name="adblock_add_site_exception_off">Disable ad blocking for a specific site.</string>
+    <string name="sync">Sync</string>
+    <string name="sync_webdav">WebDAV</string>
+    <string name="sync_webdav_user">%1$s (WebDAV)</string>
+    <string name="webdav_configuration">WebDAV configuration</string>
+    <string name="webdav_digest_access_authentication">Uses digest access authentication</string>
+    <string name="no_configuration">No configuration</string>
+    <string name="has_never_been_synced">Has never been synced</string>
+    <string name="synced_">Synced %1$s</string>
+    <string name="auto_sync">Auto sync</string>
+    <string name="sync_data">Sync data</string>
+    <string name="sync_data_none">None</string>
+    <string name="sync_data_bookmarks">Bookmarks</string>
+    <string name="sync_data_favorites">Favorites</string>
+    <string name="sync_data_settings">Settings</string>
+    <string name="delimiter">, </string>
+    <string name="sync_done">Sync done</string>
+    <string name="sync_failed">Sync failed</string>
+    <string name="hint_password_unchanged">Password (Unchanged)</string>
+    <string name="enable_video_player_gestures">Enable video player gestures</string>
+    <string name="enable_video_player_gestures_description">Allow swipe to adjust video progress, screen brightness, device volume when playing video in full screen if possible</string>
+    <string name="external_video_player">External video player</string>
+    <string name="external_video_player_description">When selecting an external video player to play the video, use</string>
+    <string name="player_system_sharing">System sharing</string>
+    <string name="request_to_download_full_script">The script is incomplete and does not work, would you like to download the full script?</string>
 
 </resources>
