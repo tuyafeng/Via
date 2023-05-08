@@ -807,7 +807,7 @@
     <string name="adblock_add_site_exception_on">Разрешать блокировку рекламы на определённом сайте.</string>
     <string name="adblock_add_site_exception_off">Запрещать блокировку рекламы на определённом сайте.</string>
     <string name="sync">Синхронизация</string>
-    string name="sync_webdav">WebDAV</string>
+    <string name="sync_webdav">WebDAV</string>
     <string name="sync_webdav_user">%1$s (WebDAV)</string>
     <string name="webdav_configuration">Настройка WebDAV</string>
     <string name="webdav_digest_access_authentication">Использовать цифровую аутентификацию</string>
