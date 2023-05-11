@@ -798,5 +798,28 @@
     <string name="every_15_days">每 15 天</string>
     <string name="adblock_add_site_exception_on">为特定网站打开广告拦截。</string>
     <string name="adblock_add_site_exception_off">为特定网站关闭广告拦截。</string>
-
+    <string name="sync">同步</string>
+    <string name="sync_webdav">WebDAV</string>
+    <string name="sync_webdav_user">%1$s（WebDAV)</string>
+    <string name="webdav_configuration">WebDAV 配置</string>
+    <string name="webdav_digest_access_authentication">使用摘要认证（Digest authentication）</string>
+    <string name="no_configuration">无配置</string>
+    <string name="has_never_been_synced">从未同步</string>
+    <string name="synced_">%1$s 已同步</string>
+    <string name="auto_sync">自动同步</string>
+    <string name="sync_data">同步的数据</string>
+    <string name="sync_data_none">无</string>
+    <string name="sync_data_bookmarks">书签</string>
+    <string name="sync_data_favorites">收藏</string>
+    <string name="sync_data_settings">设置</string>
+    <string name="delimiter">，</string>
+    <string name="sync_done">同步完成</string>
+    <string name="sync_failed">同步失败</string>
+    <string name="hint_password_unchanged">密码（未更改）</string>
+    <string name="enable_video_player_gestures">启用视频播放器手势</string>
+    <string name="enable_video_player_gestures_description">如果可能，在全屏播放视频时允许滑动屏幕以调整视频进度、屏幕亮度、设备音量</string>
+    <string name="external_video_player">外置视频播放器</string>
+    <string name="external_video_player_description">当选择外置播放器播放视频时，使用</string>
+    <string name="player_system_sharing">系统分享</string>
+    <string name="request_to_download_full_script">该脚本不完整且无法运行，你想要下载完整脚本吗？</string>
 </resources>

@@ -210,7 +210,7 @@
     <string name="fullscreen_2">Нажатие скрывает/показывает</string>
     <string name="settings_script">Скрипты</string>
     <string name="get_more_script">Готовые скрипты</string>
-    <string name="add_script">Добавить скрипт</string>
+    <string name="add_script">Новый скрипт</string>
     <string name="script_url">Домен или * (* – любой)</string>
     <string name="script_code">Код (JavaScript)</string>
     <string name="help_us_translate">Помочь с переводом</string>
@@ -330,7 +330,7 @@
     <string name="update_filter_subscription_failed">Ошибка при обновлении подписки на фильтры.\n%1$s</string>
     <string name="has_not_been_updated">не обновлено</string>
     <string name="just_now">только что</string>
-    <string name="url_is_invalid">Неправильный URL</string>
+    <string name="url_is_invalid">Неправильная ссылка</string>
     <string name="simple_guide_of_writing_rule">Via поддерживает почти все фильтры Adblock Plus.
         \nБлокировать запросы от example.com можно с помощью такого фильтра:
         \n||example.com^ (или просто: example.com)
@@ -645,18 +645,18 @@
         <br /><br />
         <b><tt>@grant</tt></b>: определяет, какие специальные API GM_* должны быть предоставлены и могут быть использованы при выполнении скрипта.<br />
         <br /><br />
-        <b><tt>@downloadURL</tt></b>: URL загрузки пользовательского скрипта.
+        <b><tt>@downloadURL</tt></b>: ссылка загрузки пользовательского скрипта.
         <br /><br />
-        <b><tt>@supportURL</tt></b>: URL поддержки пользовательского скрипта.
+        <b><tt>@supportURL</tt></b>: ссылка поддержки пользовательского скрипта.
         <br /><br />
-        <b><tt>@homepageURL</tt></b>: URL домашней страницы пользовательского скрипта.
+        <b><tt>@homepageURL</tt></b>: ссылка домашней страницы пользовательского скрипта.
         <br /><br />
         <b>API GM_*</b><br />
         <tt>GM_*</tt> — это группа специальных API, предоставляемая Via. В настоящий момент специальные API включают в себя: <br/>
         <tt>GM_getValue/GM_setValue/GM_deleteValue/GM_listValues/GM_getResourceText/GM_getResourceURL/GM_addElement/GM_addStyle/GM_setClipboard/GM_xmlhttpRequest/GM_download</tt>.
         <br /><br />
         <b>Сопоставление</b><br />
-        <tt>@match</tt> определяет правило сопоставления URL. <tt>@exclude-match</tt> определяет правило сопоставления, но используется для исключения совпадающих URL, аналогично <tt>@exclude</tt>.
+        <tt>@match</tt> определяет правило сопоставления ссылок. <tt>@exclude-match</tt> определяет правило сопоставления, но используется для исключения совпадающих ссылок, аналогично <tt>@exclude</tt>.
         <br /><br />
         Например:<br />
         <tt>
@@ -789,4 +789,45 @@
     <string name="skin_changed">Оформление изменено</string>
     <string name="desktop_mode_on">Режим полной версии включён</string>
     <string name="desktop_mode_off">Режим полной версии отключён</string>
+    <string name="import_script_from_url">Импорт скрипта по ссылке</string>
+    <string name="import_script_from_file">Импорт скрипта из файла</string>
+    <string name="script_invalid">Неправильный скрипт</string>
+    <string name="open_app">Запуск приложения</string>
+    <string name="open_app_ask_first_description">Запрашивать разрешение на доступ сайтами</string>
+    <string name="open_app_allowed_description">Разрешать сайтам запускать приложения</string>
+    <string name="open_app_blocked_description">Запрещать сайтам запускать приложения</string>
+    <string name="open_app_add_site_exception_allow">Разрешать запуск приложений на определённом сайте.</string>
+    <string name="open_app_add_site_exception_block">Запрещать запуск приложений на определённом сайте.</string>
+    <string name="update_interval">Интервал обновления</string>
+    <string name="never">Никогда</string>
+    <string name="every_day">Каждый день</string>
+    <string name="every_3_days">Каждые 3 дня</string>
+    <string name="every_week">Каждые 7 дней</string>
+    <string name="every_15_days">Каждые 15 дней</string>
+    <string name="adblock_add_site_exception_on">Разрешать блокировку рекламы на определённом сайте.</string>
+    <string name="adblock_add_site_exception_off">Запрещать блокировку рекламы на определённом сайте.</string>
+    <string name="sync">Синхронизация</string>
+    <string name="sync_webdav">WebDAV</string>
+    <string name="sync_webdav_user">%1$s (WebDAV)</string>
+    <string name="webdav_configuration">Настройка WebDAV</string>
+    <string name="webdav_digest_access_authentication">Использовать цифровую аутентификацию</string>
+    <string name="no_configuration">Нет настроек</string>
+    <string name="has_never_been_synced">Не синхронизировано</string>
+    <string name="synced_">Синхронизировано %1$s</string>
+    <string name="auto_sync">Автосинхронизация</string>
+    <string name="sync_data">Синхронизация данных</string>
+    <string name="sync_data_none">Нет</string>
+    <string name="sync_data_bookmarks">Закладки</string>
+    <string name="sync_data_favorites">Избранное</string>
+    <string name="sync_data_settings">Настройки</string>
+    <string name="delimiter">, </string>
+    <string name="sync_done">Синхронизация выполнена</string>
+    <string name="sync_failed">Синхронизация не выполнена</string>
+    <string name="hint_password_unchanged">Пароль (без изменений)</string>
+    <string name="enable_video_player_gestures">Жесты в видеопроигрывателе</string>
+    <string name="enable_video_player_gestures_description">Использовать жесты для перемотки видео, регулировки яркости экрана и громкости звука при воспроизведении видео в полноэкранном режиме, если это возможно</string>
+    <string name="external_video_player">Внешний видеопроигрватель</string>
+    <string name="external_video_player_description">Использовать внешний видеопроигрыватель, если он выбран</string>
+    <string name="player_system_sharing">Системный общий доступ</string>
+    <string name="request_to_download_full_script">Скрипт неполный и не работает, загрузить полный скрипт?</string>
 </resources>
