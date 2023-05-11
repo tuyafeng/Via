@@ -148,7 +148,7 @@
     <string name="action_send_to_launcher">Kirim ke peluncur</string> 
     <string name="settings_cloud">Akun</string> 
     <string name="user">Masuk/Daftar</string> 
-    <string name="user_syns">Sinkronisasi</string> 
+    <string name="user_syns">Sinkronkan</string> 
     <string name="user_update">Mengunggah</string> 
     <string name="wrong_psw">Kata sandi salah.</string> 
     <string name="sign_up_success">Pendaftaran berhasil</string> 
@@ -811,5 +811,29 @@
     <string name="every_15_days">Setiap 15 hari</string>
     <string name="adblock_add_site_exception_on">Aktifkan pemblokiran iklan untuk situs tertentu.</string>
     <string name="adblock_add_site_exception_off">Nonaktifkan pemblokiran iklan untuk situs tertentu.</string>
+    <string name="sync">Sinkronisasi</string>
+    <string name="sync_webdav">WebDAV</string>
+    <string name="sync_webdav_user">%1$s (WebDAV)</string>
+    <string name="webdav_configuration">Konfigurasi WebDAV</string>
+    <string name="webdav_digest_access_authentication">Menggunakan autentikasi akses intisari</string>
+    <string name="no_configuration">Tidak ada konfigurasi</string>
+    <string name="has_never_been_synced">Belum pernah disinkronkan</string>
+    <string name="synced_">Disinkronkan %1$s</string>
+    <string name="auto_sync">Sinkronkan otomatis</string>
+    <string name="sync_data">Sinkronkan data</string>
+    <string name="sync_data_none">Tidak ada</string>
+    <string name="sync_data_bookmarks">Bookmark</string>
+    <string name="sync_data_favorites">Favorit</string>
+    <string name="sync_data_settings">Setelan</string>
+    <string name="delimiter">, </string>
+    <string name="sync_done">Sinkronisasi selesai</string>
+    <string name="sync_failed">Sinkronisasi gagal</string>
+    <string name="hint_password_unchanged">Kata Sandi (Tidak Berubah)</string>
+    <string name="enable_video_player_gestures">Aktifkan gerakan pemutar video</string>
+    <string name="enable_video_player_gestures_description">Izinkan gesek untuk menyesuaikan progres video, kecerahan layar, volume perangkat saat memutar video dalam layar penuh jika memungkinkan</string>
+    <string name="external_video_player">Pemutar video eksternal</string>
+    <string name="external_video_player_description">Saat memilih pemutar video eksternal untuk memutar video, gunakan</string>
+    <string name="player_system_sharing">Berbagi sistem</string>
+    <string name="request_to_download_full_script">Skrip tidak lengkap dan tidak berfungsi, apakah Anda ingin mengunduh skrip lengkap?</string>
 
 </resources>
