@@ -803,9 +803,9 @@
     <string name="open_app">Odpri aplikacijo</string>
     <string name="open_app_ask_first_description">Vprašaj, preden spletnim mestom dovolite odpiranje aplikacije</string>
     <string name="open_app_allowed_description">Spletnim mestom dovoli, da odprejo aplikacijo</string>
-    <string name="open_app_blocked_description">Spletnim mestom blokiraj, da odprejo aplikacijo</string>
+    <string name="open_app_blocked_description">Spletnim mestom prepreči, da odprejo aplikacijo</string>
     <string name="open_app_add_site_exception_allow">Dovoli določenemu spletnemu mestu, da odpre aplikacijo.</string>
-    <string name="open_app_add_site_exception_block">Blokiraj določenemu spletnemu mestu, da odpre aplikacijo.</string>
+    <string name="open_app_add_site_exception_block">Prepreči določenemu spletnemu mestu, da odpre aplikacijo.</string>
     <string name="update_interval">Interval posodabljanja</string>
     <string name="never">Nikoli</string>
     <string name="every_day">Dnevno</string>
@@ -814,5 +814,29 @@
     <string name="every_15_days">Vsakih 15 dni</string>
     <string name="adblock_add_site_exception_on">Omogoči blokiranje oglasov za določeno spletno mesto.</string>
     <string name="adblock_add_site_exception_off">Onemogoči blokiranje oglasov za določeno spletno mesto.</string>
-
+    <string name="sync">Sinhronizacija</string>
+    <string name="sync_webdav">WebDAV</string>
+    <string name="sync_webdav_user">%1$s (WebDAV)</string>
+    <string name="webdav_configuration">WebDAV konfiguracija</string>
+    <string name="webdav_digest_access_authentication">Uporablja preverjanje pristnosti zgoščenega dostopa</string>
+    <string name="no_configuration">Ni konfigurirano</string>
+    <string name="has_never_been_synced">Nikoli sinhronizirano</string>
+    <string name="synced_">Sinhronizirano %1$s</string>
+    <string name="auto_sync">Samodejna sinhronizacija</string>
+    <string name="sync_data">Sinhronizacija podatkov</string>
+    <string name="sync_data_none">Brez</string>
+    <string name="sync_data_bookmarks">Zaznamki</string>
+    <string name="sync_data_favorites">Priljubljene</string>
+    <string name="sync_data_settings">Nastavitve</string>
+    <string name="delimiter">, </string>
+    <string name="sync_done">Sinhronizacija končana</string>
+    <string name="sync_failed">Sinhronizacija ni uspela</string>
+    <string name="hint_password_unchanged">Geslo (nespremenjeno)</string>
+    <string name="enable_video_player_gestures">Omogoči geste video predvajalnika</string>
+    <string name="enable_video_player_gestures_description">Dovoli potege za prilagajanje video napredka, svetlosti, glasnosti med predvajanjem posnetkov v celozaslonskem načinu, kadar je to mogoče</string>
+    <string name="external_video_player">Zunanji predvajalnik</string>
+    <string name="external_video_player_description">Pri izboru zunanjega video predvajalnika za predvajanje videoposnetkov uporabi</string>
+    <string name="player_system_sharing">Sistemski predvajalnik</string>
+    <string name="request_to_download_full_script">Skript je nepopoln in ne deluje. Želite prenesti celoten skript?</string>
+	
 </resources>
