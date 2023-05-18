@@ -829,11 +829,11 @@
     <string name="sync_data_favorites">Priljubljene</string>
     <string name="sync_data_settings">Nastavitve</string>
     <string name="delimiter">, </string>
-    <string name="sync_done">Sinhronizacija končana</string>
+    <string name="sync_done">Sinhronizacija je končana</string>
     <string name="sync_failed">Sinhronizacija ni uspela</string>
     <string name="hint_password_unchanged">Geslo (nespremenjeno)</string>
     <string name="enable_video_player_gestures">Omogoči geste video predvajalnika</string>
-    <string name="enable_video_player_gestures_description">Dovoli potege za prilagajanje video napredka, svetlosti, glasnosti med predvajanjem posnetkov v celozaslonskem načinu, kadar je to mogoče</string>
+    <string name="enable_video_player_gestures_description">Aktivira geste za prilagajanje video napredka, svetlosti in glasnosti med predvajanjem v celozaslonskem načinu, kadar je to mogoče</string>
     <string name="external_video_player">Zunanji predvajalnik</string>
     <string name="external_video_player_description">Pri izboru zunanjega video predvajalnika za predvajanje videoposnetkov uporabi</string>
     <string name="player_system_sharing">Sistemski predvajalnik</string>
