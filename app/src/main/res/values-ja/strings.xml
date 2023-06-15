@@ -53,7 +53,8 @@
     <string name="qr_code_not_detected">QRコードが見つかりませんでした</string>
     <string name="save_qr_code_successfully">QRコードのデータをギャラリーに保存しました</string>
     
-    <!-- 設定｜一般｜アカウント -->    
+    <!-- 設定｜一般｜アカウント -->
+    <string name="user_syns">ユーザーデータの同期</string>
     <string name="settings_cloud">アカウント</string>
     <string name="user">ログイン及び登録</string>
     <string name="user_syns">サーバーから同期</string>
@@ -162,6 +163,9 @@
     <string name="startpage_url">StartPage (Ixquick)</string>
     <string name="duckduckgo_url">DuckDuckGo</string>
 
+    <!-- 設定｜一般｜検索項目 --> 
+    <string name="search">Search engine</string>
+    
     <!-- 設定｜一般｜フォントサイズ -->    
     <string name="size">フォントサイズ</string>
     <string name="size_largest">最大</string>
