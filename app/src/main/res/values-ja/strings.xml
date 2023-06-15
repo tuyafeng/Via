@@ -445,7 +445,9 @@
     <string name="action_translate">翻訳</string>
     <string name="network_log">ネットワークログ</string>
     <string name="resource_sniffer">リソース検知</string>
-    <string name="action_pcview">PC版サイト</string>
+    <string name="action_pcview">デスクトップモード</string>
+    <string name="desktop_mode_on">デスクトップモードを有効にしました</string>
+    <string name="desktop_mode_off">デスクトップモードを無効にしました</string>
     <string name="action_source">ソース表示</string>
     <string name="action_share">共有</string>
     <string name="action_history">履歴</string>
