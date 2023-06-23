@@ -835,5 +835,23 @@
     <string name="external_video_player_description">When selecting an external video player to play the video, use</string>
     <string name="player_system_sharing">System sharing</string>
     <string name="request_to_download_full_script">The script is incomplete and does not work, would you like to download the full script?</string>
+    <string name="data_app_cache">App cache</string>
+    <string name="sync_manually">Sync manually</string>
+    <string name="sync_push_description">Overwrite remote data with local data</string>
+    <string name="sync_push_confirm">Are you sure you want to override remote data with local data?</string>
+    <string name="sync_pull_description">Overwrite local data with remote data</string>
+    <string name="sync_pull_confirm">Are you sure you want to override local data with remote data?</string>
+    <string name="sync_merge_description">Merge local data with remote data</string>
+    <string name="mark_as_ad_expand">Expand</string>
+    <string name="mark_as_ad_shrink">Shrink</string>
+    <string name="mark_as_ad_move_view">Move view</string>
+    <string name="page_redirection">Page redirection</string>
+    <string name="page_redirection_allowed_description">Allow page redirection to any URL</string>
+    <string name="page_redirection_ask_first_description">Ask first before page redirection to cross-origin URL</string>
+    <string name="page_redirection_ask_first_description_short">Ask first before cross-origin redirection</string>
+    <string name="page_redirection_add_site_exception_allow">Allow page redirection to any URL for a specific site.</string>
+    <string name="page_redirection_add_site_exception_ask_first">Ask first before cross-origin redirection for a specific site.</string>
+    <string name="allow_page_redirection_to_msg">Allow page redirection to %1$s?</string>
+    <string name="allow_page_redirection_msg">Allow page redirection?</string>
 
 </resources>

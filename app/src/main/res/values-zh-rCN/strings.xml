@@ -822,4 +822,22 @@
     <string name="external_video_player_description">当选择外置播放器播放视频时，使用</string>
     <string name="player_system_sharing">系统分享</string>
     <string name="request_to_download_full_script">该脚本不完整且无法运行，你想要下载完整脚本吗？</string>
+    <string name="data_app_cache">应用缓存</string>
+    <string name="sync_manually">手动同步</string>
+    <string name="sync_push_description">使用云端数据覆盖本地</string>
+    <string name="sync_push_confirm">你确认使用云端数据来覆盖本地数据吗？</string>
+    <string name="sync_pull_description">上传本地数据覆盖云端</string>
+    <string name="sync_pull_confirm">你确认上传本地数据来覆盖云端数据吗？</string>
+    <string name="sync_merge_description">合并云端和本地的数据</string>
+    <string name="mark_as_ad_expand">扩大</string>
+    <string name="mark_as_ad_shrink">缩小</string>
+    <string name="page_redirection">页面重定向</string>
+    <string name="page_redirection_allowed_description">允许页面重定向到任何页面</string>
+    <string name="page_redirection_ask_first_description">当页面重定向到非同源页面前先询问</string>
+    <string name="page_redirection_ask_first_description_short">重定向到非同源页面前先询问</string>
+    <string name="page_redirection_add_site_exception_allow">允许特定站点重定向到任何页面。</string>
+    <string name="page_redirection_add_site_exception_ask_first">在特定站点重定向到非同源页面前先询问。</string>
+    <string name="allow_page_redirection_to_msg">允许页面重定向到 %1$s 吗？</string>
+    <string name="allow_page_redirection_msg">允许页面重定向吗？</string>
+
 </resources>
