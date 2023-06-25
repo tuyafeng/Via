@@ -821,4 +821,21 @@
     <string name="external_video_player_description">當選擇外接播放器播放影片時，使用</string>
     <string name="player_system_sharing">系統分享</string>
     <string name="request_to_download_full_script">該指令碼不完整且無法執行，你想要下載完整指令碼嗎？</string>
+    <string name="data_app_cache">程式快取</string>
+    <string name="sync_manually">手動同步</string>
+    <string name="sync_push_description">使用雲端資料覆蓋本地</string>
+    <string name="sync_push_confirm">你確認使用雲端資料來覆蓋本地資料嗎？</string>
+    <string name="sync_pull_description">上傳本地資料覆蓋雲端</string>
+    <string name="sync_pull_confirm">你確認上傳本地資料來覆蓋雲端資料嗎？</string>
+    <string name="sync_merge_description">合併雲端和本地的資料</string>
+    <string name="mark_as_ad_expand">擴大</string>
+    <string name="mark_as_ad_shrink">縮小</string>
+    <string name="page_redirection">頁面重定向</string>
+    <string name="page_redirection_allowed_description">允許頁面重定向到任何頁面</string>
+    <string name="page_redirection_ask_first_description">當頁面重定向到非同源頁面前先詢問</string>
+    <string name="page_redirection_ask_first_description_short">重定向到非同源頁面前先詢問</string>
+    <string name="page_redirection_add_site_exception_allow">允許特定網站重定向到任何頁面。</string>
+    <string name="page_redirection_add_site_exception_ask_first">在特定網站重定向到非同源頁面前先詢問。</string>
+    <string name="allow_page_redirection_to_msg">允許頁面重定向到 %1$s 嗎？</string>
+    <string name="allow_page_redirection_msg">允許頁面重定向嗎？</string>
 </resources>
