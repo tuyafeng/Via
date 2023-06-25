@@ -830,4 +830,22 @@
     <string name="external_video_player_description">Використовувати зовнішній відеопрогравач для відтворення відео</string>
     <string name="player_system_sharing">Системний спільний доступ</string>
     <string name="request_to_download_full_script">Скрипт не повний та не працює. Бажаєте завантажити повний скрипт?</string>
+    <string name="data_app_cache">Кеш застосунку</string>
+    <string name="sync_manually">Синхронізація вручну</string>
+    <string name="sync_push_description">Перезапис віддалених даних локальними даними</string>
+    <string name="sync_push_confirm">Замінити віддалені дані локальними даними?</string>
+    <string name="sync_pull_description">Перезапис локальних даних віддаленими даними</string>
+    <string name="sync_pull_confirm">Замінити локальні дані віддаленими даними?</string>
+    <string name="sync_merge_description">Об\'єднання локальних даних з віддаленими даними</string>
+    <string name="mark_as_ad_expand">Розгорнути</string>
+    <string name="mark_as_ad_shrink">Згорнути</string>
+    <string name="mark_as_ad_move_view">Перемістити</string>
+    <string name="page_redirection">Перенаправлення сторінки</string>
+    <string name="page_redirection_allowed_description">Дозволяти перенаправлення на будь-яку URL-адресу</string>
+    <string name="page_redirection_ask_first_description">Запитувати дозвіл перед перенаправленням на перехресну URL-адресу</string>
+    <string name="page_redirection_ask_first_description_short">Запит перед перенаправленням на перехресну адресу</string>
+    <string name="page_redirection_add_site_exception_allow">Дозволяти перенаправлення на будь-яку URL-адресу для певного сайту.</string>
+    <string name="page_redirection_add_site_exception_ask_first">Запитувати дозвіл перед перенаправленням на перехресну URL-адресу для певного сайту.</string>
+    <string name="allow_page_redirection_to_msg">Дозволити перенаправлення на %1$s?</string>
+    <string name="allow_page_redirection_msg">Дозволити перенаправлення?</string>
 </resources>
