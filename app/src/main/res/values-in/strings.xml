@@ -58,7 +58,7 @@
     <string name="hint_folder">Folder</string> 
     <string name="title_edit_bookmark">Edit bookmark</string> 
     <string name="action_edit">Edit</string> 
-    <string name="action_incognito">Penyamaran</string> 
+    <string name="action_incognito">Mode penyamaran</string> 
     <string name="action_find">Temukan dihalaman</string> 
     <string name="download_pending">Memulai unduhan\u2026</string> 
     <string name="cannot_download">Ini hanya dapat diunduh dari URL \"http\" atau \"https\".</string> 
