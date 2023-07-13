@@ -293,7 +293,7 @@
     <string name="action_copy_download_link">Salin tautan unduhan</string> 
     <string name="download_failed">Unduhan gagal</string> 
     <string name="view_downloads">Lihat</string> 
-    <string name="message_delete_downloading_task">Berkas yang diunduh juga akan dihapus. Apa kamu yakin?</string> 
+    <string name="message_delete_downloading_task">Berkas yang diunduh juga akan dihapus. Apa Anda yakin?</string> 
     <string name="message_delete_downloaded_task">Hapus tugas yang diunduh ini?</string> 
     <string name="message_delete_downloaded_file">Termasuk berkas yang diunduh</string> 
     <string name="block_popup_message">Jendela pop-up yang diblokir</string> 
@@ -306,7 +306,7 @@
     <string name="chinese_server">Cina</string> 
     <string name="global_server">Global</string> 
     <string name="server_message">Data server ini tidak disinkronkan. Anda akan diminta untuk masuk lagi.</string> 
-    <string name="delete_bookmark_folder_message">Bookmark di folder %1$s juga akan dihapus. Apa kamu yakin?</string> 
+    <string name="delete_bookmark_folder_message">Bookmark di folder %1$s juga akan dihapus. Apa Anda yakin?</string> 
     <string name="action_new">Baru</string> 
     <string name="block_hint">Diblokir: %1$s\nSegarkan untuk melihat perubahan.</string> 
     <string name="unblock_hint">Dibebaskan: %1$s\nSegarkan untuk melihat perubahan.</string> 
