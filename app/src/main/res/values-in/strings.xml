@@ -721,8 +721,8 @@
     <string name="whatanime_url">WhatAnime</string> 
     <string name="ascii2d_url">Ascii2D</string> 
     <string name="title_scripts_for_site">Skrip untuk %1$s</string> 
-    <string name="disabled">Matikan</string> 
-    <string name="enabled">Aktifkan</string> 
+    <string name="disabled">Mati</string> 
+    <string name="enabled">Aktif</string> 
     <string name="action_view_in_settings">Lihat di setelan</string> 
     <string name="message_delete_following_items">Yakin ingin menghapus item berikut?</string> 
     <string name="list_item">• %1$s</string> 
