@@ -1,48 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources tools:ignore="MissingTranslation" xmlns:tools="http://schemas.android.com/tools">
-
     <string name="app_name">Via</string>
-    <string name="action_new_tab">Yeni Səyfə</string>
-    <string name="action_open_in_new">Yeni Səyfədə aç</string>
-    <string name="action_save_img">Şəkil Saxla</string>
+    <string name="action_new_tab">Yeni səhifə</string>
+    <string name="action_open_in_new">Yeni səhifədə aç</string>
+    <string name="action_save_img">Şəkli saxla</string>
     <string name="action_share">Paylaş</string>
     <string name="action_history">Tarixçə</string>
     <string name="action_bookmarks">Əlfəcinlər</string>
-    <string name="bookmarks_file">Əlfəcinlər İxrac Et</string>
-    <string name="action_add_bookmark">Əlfəcin Əlavə Et</string>
+    <string name="bookmarks_file">Əlfəcinlərin ixracı</string>
+    <string name="action_add_bookmark">Əlfəcin əlavə et</string>
     <string name="action_night">Gecə rejimi</string>
-    <string name="action_copy">Bağlantını Kopyala</string>
-    <string name="action_copy_text">Mətni Kopyala</string>
+    <string name="action_copy">Bağlantını köçür</string>
+    <string name="action_block_domain">Domeni əngəllə</string>
+    <string name="action_unblock_domain">Domeni əngəlləmə</string>
+    <string name="action_unblock_url">Bağlantını əngəlləmə</string>
+    <string name="action_block_url">Bağlantını əngəllə</string>
+    <string name="action_copy_text">Mətni köçür</string>
+    <string name="action_copy_link_text">Bağlantı mətnin köçür</string>
     <string name="action_tools">Alətlər</string>
-    <string name="settings">Ayarlar</string>
-    <string name="location">Location Access</string>
-    <string name="password">Şifrələri Saxla</string>
-    <string name="donate">Donate</string>
-    <string name="donate_details">If you like Via browser, you can donate to support us.\nAlipay: 2376688759@qq.com\nPayPal: wiar1824@gmail.com</string>
-    <string name="orientation">Orientasiya</string>
+    <string name="settings">Tənzimləmələr</string>
+    <string name="location">Məkan girişi</string>
+    <string name="password">Parolları saxla</string>
+    <string name="donate">İanə ver</string>
+    <string name="donate_details">Via brauzerin bəyənirsinizsə, bizə dəstək olmaq üçün ianə verə bilərsiniz.\nAlipay: 2376688759@qq.com\nPayPal: wiar1824@gmail.com</string>
+    <string name="orientation">Səmt</string>
     <string name="follow_system">Sistem</string>
-    <string name="orientation_auto">Avto</string>
+    <string name="orientation_auto">Avtomatik</string>
     <string name="orientation_portrait">Portret</string>
     <string name="orientation_landscape">Landşaft</string>
-    <string name="agent">User-Agent</string>
+    <string name="agent">İstifadəçi-agent</string>
     <string name="home">Əsas səhifə</string>
-    <string name="fullscreen">Başlıq Çubuğunu Gizlət</string>
-    <string name="java">JavaScript\'i aktiv edin</string>
-    <string name="download">Yükləmə Yeri</string>
+    <string name="fullscreen">Alət simvolların avtomatik gizlət</string>
+    <string name="java">JavaScript-i aktivləşdir</string>
+    <string name="download">Yükləmə yeri</string>
     <string name="size">Mətn ölçüsü</string>
-    <string name="search">Axtarış Motoru</string>
+    <string name="search">Axtarış mühərriki</string>
     <string name="search_hint">Axtarış</string>
     <string name="action_delete">Sil</string>
-    <string name="action_delete_all">Hamısını sil</string>
+    <string name="action_delete_all">Hamısın sil</string>
     <string name="action_blank">Boş səhifə</string>
     <string name="agent_chrome">Chrome (PC)</string>
-    <string name="agent_ie">IE 11 (PC)</string>
-    <string name="agent_iphone">Safari (iPhone)</string>
-    <string name="agent_symbian">Nokia Browser</string>
-    <string name="agent_custom">Xüsusi</string>
+    <string name="agent_ie">Windows (IE 11)</string>
+    <string name="agent_iphone">iPhone</string>
+    <string name="agent_symbian">Symbian</string>
+    <string name="agent_custom">Fərdi</string>
     <string name="dialog_download">Bu faylı yükləmək istəyirsiniz?</string>
     <string name="title_warning">Xəbərdarlıq</string>
-    <string name="title_custom_homepage">Xüsusi səhifə</string>
+    <string name="title_custom_homepage">Fərdi əsas səhifə</string>
     <string name="action_webpage">Veb səhifə</string>
     <string name="size_largest">Ən böyük</string>
     <string name="size_large">Böyük</string>
@@ -52,172 +56,163 @@
     <string name="hint_title">Başlıq</string>
     <string name="hint_url">URL</string>
     <string name="hint_folder">Qovluq</string>
-    <string name="title_edit_bookmark">Əlfəcin Redaktə</string>
-    <string name="action_edit">Redaktə</string>
-    <string name="action_incognito">Gizli Rejim</string>
-    <string name="action_find">Səhifədə tapın</string>
-    <string name="download_pending">Yükləmə başlayır \u2026</string>
-    <string name="cannot_download">Yalnız \"http\" və ya \"https\" URL ləri yükləyə bilərsiz.</string>
-    <string name="bookmarks_imported">%1$d Əlfəcinlər Alındı</string>
-    <string name="custom_url">Xüsusi URL</string>
+    <string name="title_edit_bookmark">Əlfəcini redaktə et</string>
+    <string name="action_edit">Redaktə et</string>
+    <string name="action_incognito">Gizli rejim</string>
+    <string name="action_find">Səhifədə tap</string>
+    <string name="download_pending">Yükləmə başlayır\u2026</string>
+    <string name="cannot_download">Bu, yalnız \"http\" və ya \"https\" URL-lərdən yüklənilə bilər.</string>
+    <string name="bookmarks_imported">%1$d əlfəcin idxal edildi</string>
+    <string name="custom_url">Fərdi URL</string>
     <string name="baidu_url">Baidu</string>
     <string name="shenma_url">ShenMa</string>
     <string name="bing_url">Bing</string>
     <string name="haosou_url">Haosou</string>
     <string name="duckduckgo_url">DuckDuckGo</string>
-    <string name="startpage_url">StartPage</string>
+    <string name="startpage_url">Başlanğıc Səhifəsi</string>
     <string name="yahoo_url">Yahoo</string>
     <string name="yandex_url">Yandex</string>
     <string name="google_url">Google</string>
-    <string name="sougou_url">Sougou</string>
-    <string name="block_ads">Reklamları Blokla</string>
-    <string name="message_untrusted_certificate">Saytın sertifikatı təhlükəsiz deyildir. Davam etmək istəyirsinizmi?</string>
-    <string name="title_form_resubmission">Formu yenidən göndərin</string>
-    <string name="message_form_resubmission">Would you like to resend the data?</string>
-    <string name="message_location">\nWould like to use your location</string>
-    <string name="action_allow">Allow</string>
-    <string name="action_dont_allow">Refuse</string>
-    <string name="title_sign_in">Sign in</string>
-    <string name="hint_username">Username</string>
-    <string name="hint_password">Password</string>
-    <string name="untitled">Untitled</string>
-    <string name="image_auto">Wi-Fi only</string>
-    <string name="image_off">Show images</string>
-    <string name="image_on">Block images</string>
-    <string name="title_file_chooser">File chooser</string>
-    <string name="import_bookmarks">Import bookmarks</string>
-    <string name="export_bookmarks_to">Bookmarks exported to: %1$s</string>
-    <string name="import_bookmark_error">Couldn\'t import bookmarks from file</string>
-    <string name="message_add_bookmark">Bookmark added successfully</string>
-    <string name="message_exit">Press one more time to exit</string>
-    <string name="dialog_message">Message</string>
-    <string name="wait_a_moment">Wait a moment&#8230;</string>
-    <string name="toast_operation_failed">The operation failed</string>
-    <string name="toast_operation_done">The operation done</string>
-    <string name="volume">Volume Keys to Scroll</string>
-    <string name="msg_intent">Allow Website to open your app?</string>
-    <string name="setting_default">Set as Default Browser</string>
-    <string name="toast_clear_defaults">Please clear defaults</string>
-    <string name="toast_copy_url_successful">Link copied successfully</string>
-    <string name="toast_copy_text_successful">Text copied successfully</string>
-    <string name="incognito_on">You\'ve gone incognito</string>
-    <string name="incognito_off">Incognito Off</string>
-    <string name="operation_none">None</string>
-    <string name="operation_reload">Reload</string>
-    <string name="operation_top">Scroll to top</string>
-    <string name="operation_bottom">Scroll to bottom</string>
-    <string name="operation_input">Input URL</string>
-    <string name="operation_openbookmark">Open bookmark</string>
-    <string name="operation_openhistory">Open history</string>
-    <string name="operation_closetab">Close tab</string>
-    <string name="operation_lasttab">Last tab</string>
-    <string name="operation_nexttab">Next tab</string>
-    <string name="operation_goback">Go back</string>
-    <string name="operation_goforward">Go forward</string>
-    <string name="settings_operation">Gestures</string>
-    <string name="settings_privacy">Privacy</string>
-    <string name="settings_advanced">Advanced</string>
-    <string name="settings_about">About</string>
-    <string name="url_box">URL Box Contents</string>
-    <string name="url_box_domain">Domain</string>
-    <string name="action_pcview">Desktop site</string>
-    <string name="action_source">View source</string>
-    <string name="action_translate">Translate</string>
-    <string name="title_edit_folder">Edit Folder</string>
-    <string name="msg_delete_folder">Delete this folder?</string>
-    <string name="desc_suggestion">suggestion</string>
-    <string name="desc_home">home</string>
-    <string name="desc_tab">tab</string>
-    <string name="desc_menu">menu</string>
-    <string name="desc_filedic">file</string>
-    <string name="action_mark">Mark as Ad</string>
-    <string name="dialog_confirm_mark">Would you like to mark this as ad?</string>
-    <string name="do_not_track">Do not Track</string>
-    <string name="add_rule">Add Rule</string>
-    <string name="color_mode">Color Mode</string>
-    <string name="dialog_sure">Are you sure you want to do this?</string>
-    <string name="action_send_to_launcher">Send to the Launcher</string>
-    <string name="settings_cloud">Account</string>
-    <string name="user">Log in/Sign up</string>
-    <string name="user_syns">Sync</string>
-    <string name="user_update">Upload</string>
-    <string name="wrong_psw">Wrong password</string>
-    <string name="sign_up_success">Sign up successful</string>
-    <string name="code_500">Service unavailable</string>
-    <string name="syns_success">Sync Complete</string>
-    <string name="upload_success">Upload Complete</string>
-    <string name="log_out">Log out?</string>
-    <string name="crash_info">Something went wrong :(</string>
-    <string name="crash_restart">Restart</string>
-    <string name="crash_close">Close</string>
-    <string name="upload_completed">Upload completed :)</string>
-    <string name="ui_mode">Operation Bar UI Mode</string>
-    <string name="addon_download">Download Manager</string>
-    <string name="quick_back">Go Back without Reloading</string>
-    <string name="open_with">Open with&#8230;</string>
-    <string name="download_completed">Download completed</string>
-    <string name="toast_fullscreen_off">Exit Full-screen Mode</string>
-
-    <string name="clear_data">Clear Data</string>
-    <string name="data_cache">Cache</string>
-    <string name="data_form_data">Form data</string>
-    <string name="data_history">History</string>
-    <string name="data_storage">Web storage</string>
-    <string name="data_cookies">Cookies</string>
-    <string name="data_cleared">Data cleared</string>
-
-    <string name="sync_desc">An account will be created if it doesn\'t exist</string>
-
-    <string name="settings_skin">Customization</string>
-    <string name="default_set">Default</string>
-    <string name="picture">Picture</string>
-    <string name="text">Text</string>
-    <string name="html_code">Html Code</string>
-
-    <string name="action_view_image">View Image</string>
-
-    <string name="skin_colorful">Colorful</string>
-    <string name="skin_fruity">Fruity</string>
-    <string name="skin_transparent">Transparent</string>
-
-    <string name="block_popup">Block Pop-up</string>
-
-    <string name="action_save_web_page">Save Web Page</string>
-    <string name="action_saved_pages">Saved Web Page</string>
-    <string name="saved_page_successfully">The webpage has been saved to download</string>
-    <string name="deleted_failed">"Failed to Delete. The file located in download path: "</string>
-
-    <string name="empty_hint">Nothing to show&#8230;</string>
-
-    <string name="network_log">Network Log</string>
-
-
-    <string name="conn_timeout">Connection timed out</string>
-
-    <string name="already_default">It has already been set as default</string>
-
-    <string name="set_to_default">It will be set as default after opening link(%1$s), please choose via to open the link.</string>
-
-    <string name="sync_prompt">It will overwrite your current local bookmark and settings. Continue?</string>
-    <string name="upload_prompt">It will upload your current local bookmark and settings. Continue?</string>
-    <string name="none">None</string>
-    <string name="check_permission">Permission denied. Set it in settings now?</string>
-    <string name="need_permission_hint">Via needs the following permissions to work.\n\n</string>
-    <string name="storage_permission">Storage: for downloading files from the browser and importing/exporting bookmarks etc.\n\n</string>
-    <string name="location_permission">Location: for sites like Google Maps, it is disabled by default in settings and displays a pop-up asking if a site may use your location when it is enabled.\n\n</string>
+    <string name="sougou_url">Sogou</string>
+    <string name="block_ads">Reklamın əngəllənməsi</string>
+    <string name="message_untrusted_certificate">Saytın sertifikatına etibar edilmir. Hər halda davam edilsin?</string>
+    <string name="message_date_invalid_certificate">Sayt sertifikat tarixi etibarsızdır. Hər halda davam edilsin?</string>
+    <string name="message_expired_certificate">Saytın sertifikat müddəti bitib. Hər halda davam edilsin?</string>
+    <string name="message_hostname_mismatch_certificate">Sayt sertifikatı server adına uyğunlaşmır. Hər halda davam edilsin?</string>
+    <string name="message_invalid_certificate">Sayt sertifikatı etibarsızdır. Hər halda davam edilsin?</string>
+    <string name="message_not_yet_valid_certificate">Sayt sertifikatı hələ etibarlı deyil. Hər halda davam edilsin?</string>
+    <string name="title_form_resubmission">Blankın yenidən təqdimi</string>
+    <string name="message_form_resubmission">Məlumatı yenidən göndərmək istəyirsiniz?</string>
+    <string name="message_location">\nMəkanınızdan istifadə etmək istəyirsiniz?</string>
+    <string name="action_allow">İcazə ver</string>
+    <string name="action_dont_allow">İmtina et</string>
+    <string name="title_sign_in">Daxil ol</string>
+    <string name="hint_username">İstifadəçi adı</string>
+    <string name="hint_password">Parol</string>
+    <string name="untitled">Başlıqsız</string>
+    <string name="image_auto">Şəkilləri yalnız Wi-Fi vasitəsilə göstər</string>
+    <string name="image_off">Şəkilləri əngəllə</string>
+    <string name="image_on">Şəkilləri göstər</string>
+    <string name="title_file_chooser">Fayl seçici</string>
+    <string name="import_bookmarks">Əlfəcinləri idxal et</string>
+    <string name="export_bookmarks_to">Əlfəcinləri bura ixrac et: %1$s</string>
+    <string name="import_bookmark_error">Əlfəcinləri fayldan idxal etmək mümkün olmadı!</string>
+    <string name="message_add_bookmark">Əlfəcin uğurla əlavə edildi</string>
+    <string name="message_exit">Çıxmaq üçün bir dəfədə bas</string>
+    <string name="dialog_message">Mesaj</string>
+    <string name="wait_a_moment">Bir az gözlə…</string>
+    <string name="toast_operation_failed">Əməliyyat uğursuz oldu</string>
+    <string name="toast_operation_done">Əməliyyat tamamlandı</string>
+    <string name="volume">Sürüşdürmək üçün səs səviyyəsi düymələrin istifadə et</string>
+    <string name="msg_intent">Vebsayta tətbiqinizi açmağa icazə verilsin?</string>
+    <string name="setting_default">Standart brauzer kimi təyin et</string>
+    <string name="toast_clear_defaults">Zəhmət olmasa, standartları silin</string>
+    <string name="toast_copy_url_successful">Bağlantı uğurla köçürüldü</string>
+    <string name="toast_copy_text_successful">Mətn uğurla köçürüldü</string>
+    <string name="incognito_on">Gizli rejimə keçdiniz</string>
+    <string name="incognito_off">Gizli rejim bağlıdır</string>
+    <string name="operation_none">Heç biri</string>
+    <string name="operation_reload">Yenidən yüklə</string>
+    <string name="operation_top">Yuxarıya sürüşdür</string>
+    <string name="operation_bottom">Aşağıya sürüşdür</string>
+    <string name="operation_input">URL yerləşdir</string>
+    <string name="operation_openbookmark">Əlfəcini aç</string>
+    <string name="operation_openhistory">Tarixçəni aç</string>
+    <string name="operation_closetab">Səhifəni bağla</string>
+    <string name="operation_lasttab">Son səhifə</string>
+    <string name="operation_nexttab">Növbəti səhifə</string>
+    <string name="operation_goback">Geri qayıt</string>
+    <string name="operation_goforward">İrəli get</string>
+    <string name="settings_operation">Jestlər</string>
+    <string name="settings_privacy">Məxfilik</string>
+    <string name="settings_advanced">Qabaqcıl</string>
+    <string name="settings_about">Haqqında</string>
+    <string name="url_box">URL sahəsi məzmunu</string>
+    <string name="url_box_domain">Domen</string>
+    <string name="action_pcview">Stolüstü sayt</string>
+    <string name="action_source">Mənbəyə bax</string>
+    <string name="action_translate">Tərcümə et</string>
+    <string name="title_edit_folder">Qovluğu redaktə et</string>
+    <string name="msg_delete_folder">Bu qovluğu silmək istəyirsinizmi?</string>
+    <string name="desc_suggestion">Təklif</string>
+    <string name="desc_home">Ev</string>
+    <string name="desc_tab">Səhifə</string>
+    <string name="desc_menu">Siyahı</string>
+    <string name="desc_filedic">Fayl</string>
+    <string name="action_mark">Reklam kimi işarələ</string>
+    <string name="dialog_confirm_mark">Bunu reklam kimi işarələmək istəyirsiniz?</string>
+    <string name="do_not_track">İzləmə</string>
+    <string name="add_rule">Filtr əlavə et</string>
+    <string name="color_mode">Rəng rejimi</string>
+    <string name="dialog_sure">Davam etmək istədiyinizə əminsiniz?</string>
+    <string name="action_send_to_launcher">Başlatıcıya göndər</string>
+    <string name="settings_cloud">Hesab</string>
+    <string name="user">Daxil ol/qeydiyyatdan keç</string>
+    <string name="user_syns">Sinxronizasiya</string>
+    <string name="user_update">Yüklə</string>
+    <string name="wrong_psw">Səhv parol.</string>
+    <string name="sign_up_success">Uğurlu qeydiyyatdan keç</string>
+    <string name="code_500">Xidmət mövcud deyil.</string>
+    <string name="syns_success">Sinxronizasiya tamamdır</string>
+    <string name="upload_success">Yükləmə tamamdır</string>
+    <string name="log_out">Çıxış?</string>
+    <string name="crash_info">Nəsə səhv oldu. :(</string>
+    <string name="crash_restart">Yenidən başlat</string>
+    <string name="crash_close">Bağla</string>
+    <string name="upload_completed">Yükləmə bitdi</string>
+    <string name="ui_mode">Alətlər simvolu UI rejimi</string>
+    <string name="addon_download">Yükləmə köməkçisi</string>
+    <string name="quick_back">Yenidən yükləmədən geri qayıt</string>
+    <string name="open_with">İlə aç…;</string>
+    <string name="download_completed">Yükləmə bitdi</string>
+    <string name="toast_fullscreen_off">Tam ekran rejimindən çıx</string>
+    <string name="clear_data">Məlumatı təmizlə</string>
+    <string name="data_cache">Qalıq</string>
+    <string name="data_form_data">Blank məlumatı</string>
+    <string name="data_history">Tarixçə</string>
+    <string name="data_storage">Veb saxlama</string>
+    <string name="data_cookies">Məlumat bazası (Giriş vəziyyəti)</string>
+    <string name="data_cleared">Məlumat təmizləndi</string>
+    <string name="sync_desc">Hesab mövcud deyilsə, yaradılacaq</string>
+    <string name="settings_skin">Fərdiləşdirmə</string>
+    <string name="default_set">Standart</string>
+    <string name="picture">Şəkil</string>
+    <string name="text">Mətn</string>
+    <string name="html_code">HTML kodu</string>
+    <string name="action_view_image">Şəkilə bax</string>
+    <string name="skin_colorful">Rəngbərəng</string>
+    <string name="skin_fruity">Meyvəli</string>
+    <string name="skin_transparent">Şəffaf</string>
+    <string name="block_popup">Ani görüntünü əngəllə</string>
+    <string name="action_save_web_page">Səhifəni saxla</string>
+    <string name="action_saved_pages">Saxlanılan səhifələr</string>
+    <string name="saved_page_successfully">Veb səhifə burada saxlanılıb: Əlfəcinlər > Saxlanılan səhifələr</string>
+    <string name="deleted_failed">Silmək alınmadı. Fayl yükləmə yolunda yerləşir: </string>
+    <string name="empty_hint">Boş</string>
+    <string name="network_log">Şəbəkə jurnalı</string>
+    <string name="conn_timeout">Bağlantı vaxtı keçdi</string>
+    <string name="already_default">Bu artıq standart kimi təyin edilib</string>
+    <string name="set_to_default">%1$s bağlantısı açıldıqdan sonra bu, standart kimi təyin olunacaq. Xahiş olunur,linki açmaq üçün Via seç</string>
+    <string name="sync_prompt">Cari yerli əlfəcinləriniz və tənzimləmələriniz üzərinə yazılacaq. Davam edilsin?</string>
+    <string name="upload_prompt">Cari yerli əlfəcinləriniz və tənzimləmələriniz yüklənəcək. Davam edilsin?</string>
+    <string name="none">Heç biri</string>
+    <string name="check_permission">İcazə rədd edildi. Bunu indi tənzimləmələrdə təyin etmək istəyirsiniz?</string>
+    <string name="need_permission_hint">Via işləmək üçün aşağıdakı icazələri tələb edir:\n\n</string>
+    <string name="storage_permission">Storage: for downloading files from the browser and importing/exporting bookmarks, etc.\n\n</string>
+    <string name="location_permission">Location: for sites like Google Maps, it is disabled by default. When it is enabled, a pop-up is displayed asking if the site may use your location.\n\n</string>
     <string name="force_cancel">Force close</string>
-    <string name="restore_tabs_hint">Restore the unclosed tabs from the last time?</string>
-    <string name="restore_tabs">Restore Tabs on Startup</string>
-    <string name="install_success">Installation Successful!!!</string>
-    <string name="uninstall_success">Uninstallation Successful!!!</string>
-    <string name="log_page_hint">You can copy the following link or domain and paste it to %1$s for blocking it with Custom Block.</string>
+    <string name="restore_tabs_hint">Would you like to restore unclosed tabs from the last session?</string>
+    <string name="restore_tabs">Restore tabs on startup</string>
+    <string name="install_success">Installation successful!</string>
+    <string name="uninstall_success">Uninstallation successful!</string>
+    <string name="log_page_hint">Blocked list is in %1$s.\nYou can edit the list, or long-press the following item to enable/disable its blockade.</string>
     <string name="fullscreen_1">Scroll to hide/show</string>
-    <string name="fullscreen_2">Click to hide/show</string>
+    <string name="fullscreen_2">Press to hide/show</string>
     <string name="settings_script">Scripts</string>
-    <string name="get_more_script">Get More Scripts</string>
-    <string name="add_script">Add Script</string>
-    <string name="script_url">domain or * (* means all)</string>
-    <string name="script_code">code (Javascript)</string>
+    <string name="get_more_script">Get more scripts</string>
+    <string name="add_script">New script</string>
+    <string name="script_url">Domain or * (* means all)</string>
+    <string name="script_code">Code (JavaScript)</string>
     <string name="help_us_translate">Help us translate</string>
     <string name="confirm_to_leave">Confirm to leave</string>
     <string name="leave">Leave</string>
@@ -225,68 +220,638 @@
     <string name="skin_logo">Logo</string>
     <string name="skin_bg">Background</string>
     <string name="skin_style">Style</string>
-    <string name="set_it_as_homepage">Set it as homepage?</string>
-    <string name="missing_webview">Android System WebView isn\'t installed correctly. Do you want to install it now?</string>
+    <string name="set_it_as_homepage">Would you like to set it as homepage?</string>
+    <string name="missing_webview">Android System WebView isn\'t installed correctly. Would you like to install it now?</string>
     <string name="install">Install</string>
-    <string name="crash_hint">We\'re very sorry that the app crashed.</string>
+    <string name="crash_hint">We\'re sorry that the app crashed.</string>
     <string name="glean">Glean</string>
     <string name="contact_us">Contact us</string>
     <string name="official_website">Official website</string>
-    <string name="background_opacity">The opacity of background</string>
-    <string name="action_pic_mode">Picture Mode</string>
+    <string name="background_opacity">Opacity of background</string>
+    <string name="action_pic_mode">Picture mode</string>
     <string name="find_next">Find next</string>
     <string name="find_pre">Find last</string>
-    <string name="action_open_in_background">Open in Background</string>
-    <string name="cannot_work">Can only work on \"http\" or \"https\" URLs.</string>
-    <string name="action_fullscreen">Fullscreen</string>
+    <string name="action_open_in_background">Open in background</string>
+    <string name="cannot_work">It can only work with \"http\" or \"https\" URLs.</string>
+    <string name="action_fullscreen">Full-screen</string>
     <string name="settings_general">General</string>
-    <string name="no_bookmark">No bookmark~</string>
-    <string name="import_or_export_bookmarks">Import/Export bookmarks</string>
+    <string name="no_bookmark">No bookmarks</string>
+    <string name="import_or_export_bookmarks">Import/export bookmarks</string>
     <string name="export_bookmarks">Export bookmarks</string>
-    <string name="pull_to_refresh_gesture">Pull Down to Refresh</string>
-    <string name="back_forward_gesture">Back/Forward Gestures</string>
-    <string name="toolbar_settings_hint">Click the following button to set its long press (slide) event, and long press it to see what has been set.</string>
+    <string name="pull_to_refresh_gesture">Pull-to-refresh gesture</string>
+    <string name="back_forward_gesture">Back/Forward gesture</string>
+    <string name="toolbar_settings_hint">Press a selected button below to set its long-press action, or long-press it to check what action has been set. You can also slide the toolbar to set the slide action.</string>
     <string name="action_modify">Modify</string>
-    <string name="operation_hint">Gestures, shortcuts, etc.</string>
-    <string name="adblock_info">%1$d ads have been blocked, %2$s saved</string>
-    <string name="disable">Disable</string>
+    <string name="operation_hint">Gestures, shortcuts, function keys</string>
+    <string name="adblock_info">Enabled: %1$d ads blocked, %2$s saved</string>
+    <string name="disable">Disabled</string>
     <string name="ui_traditional">Sandwich</string>
-    <string name="color_mode_hint">Auto-adjust color of operation bars</string>
-    <string name="skin_hide_search_part">Hide Search Part</string>
+    <string name="color_mode_hint">Auto-adjust color of toolbars</string>
+    <string name="skin_hide_search_part">Hide search part</string>
     <string name="file_size">File size: %1$s</string>
-    <string name="search_by_image">Search by Picture</string>
+    <string name="search_by_image">Search by image</string>
     <string name="resource_sniffer">Resource sniffer</string>
-    <string name="res_log_hint">Click item to preview, long clicked item to download or do something else.</string>
-    <string name="no_resource">The page has no resources</string>
+    <string name="res_log_hint">The following is the resource log on page load.</string>
+    <string name="no_resource">The page has no resource.</string>
     <string name="no_network_log">The page has no network log.</string>
-    <string name="resource_sniffer_hint">\nIt is easier to be captured when music or video is being played. PS: some websites don\'t support this feature.</string>
+    <string name="resource_sniffer_hint">\nIt is easier to detect media files while music or video is being played. Resource sniffer doesn\'t work on certain websites.</string>
     <string name="action_downloads">Downloads</string>
-    <string name="empty_username_info">Please input your username.</string>
-    <string name="empty_password_info">Please input your password.</string>
-    <string name="offline_page_hint">The following are Saved Pages. You can read them no matter whether there is a network connect.</string>
-    <string name="history_page_hint_when_incognito">You\'ve gone incognito. New history will not be recorded.</string>
+    <string name="empty_username_info">Please input your username</string>
+    <string name="empty_password_info">Please input your password</string>
+    <string name="offline_page_hint">These are saved webpages. You can open them even when you are offline.</string>
+    <string name="history_page_hint_when_incognito">History will not be recorded when you are in \"Incognito mode\".</string>
     <string name="action_preview">Preview</string>
-    <string name="action_page_info">Page Info</string>
+    <string name="action_page_info">Page info</string>
     <string name="page_info_title">Title:</string>
     <string name="page_info_url">Page URL:</string>
     <string name="page_info_link">Link URL:</string>
     <string name="no_network">Network connections are unavailable</string>
     <string name="title_app_chooser">App chooser</string>
-    <string name="clear_data_on_exit">Clear Data on Exit</string>
+    <string name="clear_data_on_exit">Clear data on exit</string>
     <string name="action_add_to_homepage">Add to homepage</string>
     <string name="added_favorite_hint">Added to homepage successfully</string>
-    <string name="title_edit_favorite">Edit Favorite</string>
-    <string name="custom_css_special">Add Custom CSS</string>
-    <string name="force_enable_zoom">Enable Force Zoom</string>
-    <string name="set_ua_as">User-Agent set as %1$s</string>
-    <string name="import_data">Import Data</string>
+    <string name="title_edit_favorite">Edit favorite</string>
+    <string name="custom_css_special">Custom CSS</string>
+    <string name="force_enable_zoom">Enable force zoom</string>
+    <string name="set_ua_as">User-agent is set as: %1$s</string>
+    <string name="import_data">Import data</string>
     <string name="import_data_failed">Failed to import data!</string>
     <string name="import_data_succeed">Data imported successfully!</string>
-    <string name="export_data">Export Data</string>
-    <string name="export_data_to">Data Exported to: %1$s</string>
+    <string name="export_data">Export data</string>
+    <string name="export_data_to">Export data to: %1$s</string>
     <string name="always_restore">Always restore</string>
     <string name="ask_first">Ask first</string>
     <string name="disable_restore">Don\'t restore</string>
-    <string name="data_file">DataExport</string>
-    <string name="bookmarks_data_to_long">Bookmarks data is too big to upload, but other data will be normally uploaded. Continue?</string>
+    <string name="data_file">Data export</string>
+    <string name="bookmarks_data_to_long">Bookmarks data is too big to upload, but other data will be uploaded normally. Continue?</string>
+    <string name="restore_tabs_hint_settings">Tabs will not be restored when you are in \"Incognito mode\".</string>
+    <string name="ignore_secondary_ssl_error">Ignore secondary SSL error</string>
+    <string name="web_page_debug">Enable webpage debugging</string>
+    <string name="web_page_debug_info">Now you can connect your phone to computer, then debug the webpage with Chrome (PC) using \"chrome://inspect\". Remember to first enable USB Debugging in the menu: More Tools > Developer Tools.</string>
+    <string name="no_download_tasks">Empty</string>
+    <string name="action_re_download">Re-download</string>
+    <string name="action_copy_download_link">Copy download link</string>
+    <string name="download_failed">Download failed</string>
+    <string name="view_downloads">View</string>
+    <string name="message_delete_downloading_task">Downloaded file will also be deleted. Are you sure?</string>
+    <string name="message_delete_downloaded_task">Delete this downloaded task?</string>
+    <string name="message_delete_downloaded_file">Including the downloaded file</string>
+    <string name="block_popup_message">Blocked pop-up window</string>
+    <string name="allow_popup">Allow once</string>
+    <string name="system_download_manager">System download manager</string>
+    <string name="action_play_with">Play with&#8230;</string>
+    <string name="show_sniffer_btn_automatically">Show sniffer button automatically</string>
+    <string name="open_file_failed">Unable to find associated app to open file</string>
+    <string name="cloud_data_server">Cloud data server</string>
+    <string name="chinese_server">Chinese</string>
+    <string name="global_server">Global</string>
+    <string name="server_message">The data of these servers are not synchronized. You will be required to log in again.</string>
+    <string name="delete_bookmark_folder_message">Bookmarks in folder %1$s will also be deleted. Are you sure?</string>
+    <string name="action_new">New</string>
+    <string name="block_hint">Blocked: %1$s\nRefresh to take effect.</string>
+    <string name="unblock_hint">Unblocked: %1$s\nRefresh to take effect.</string>
+    <string name="block_3rd_party_cookies">Block third-party cookies</string>
+    <string name="enable_site_conf">Enable site configuration for %1$s</string>
+    <string name="site_conf">Site configuration</string>
+    <string name="ui_simple_top">Toolbar at top</string>
+    <string name="ui_simple_bottom">Toolbar at bottom</string>
+    <string name="file_does_not_exist">The file does not exist</string>
+    <string name="dialog_message_from">Message from %1$s</string>
+    <string name="filter_subscriptions">Filter subscriptions</string>
+    <string name="filter_subscriptions_description">Subscribe to Adblock Plus filter lists</string>
+    <string name="filter_subscription_exist">The filter subscription already exists.</string>
+    <string name="custom_filters">Custom filters</string>
+    <string name="custom_filters_description">Including custom filters and marked ads</string>
+    <string name="custom_filter">Custom filter</string>
+    <string name="add_filter_subscription">Add filter subscription</string>
+    <string name="edit_filter_subscription">Edit filter subscription</string>
+    <string name="updating_filter_subscriptions">Updating filter subscriptions</string>
+    <string name="update_filter_subscriptions_completed">Filter subscriptions update completed.</string>
+    <string name="update_filter_subscription_failed">Filter subscriptions update failed.\n%1$s</string>
+    <string name="has_not_been_updated">has not been updated</string>
+    <string name="just_now">just now</string>
+    <string name="url_is_invalid">The URL is invalid.</string>
+    <string name="simple_guide_of_writing_rule">Via supports almost all Adblock Plus filters.
+        \nYou can block requests from example.com with a filter such as:
+        \n||example.com^ (or simply: example.com)
+        \n\nWildcard is acceptable such as:
+        \n||example.com/js/ads_*.js
+        \n\nFor webpage elements use a filter such as:
+        \nexample.com###ad
+        \n\nYou can unblock special requests with a filter such as:
+        \n@@||example.com^</string>
+    <string name="help">Help</string>
+    <string name="learn_more">Learn more</string>
+    <plurals name="filters">
+        <item quantity="zero">0 filter</item>
+        <item quantity="one">1 filter</item>
+        <item quantity="other">%d filters</item>
+    </plurals>
+    <string name="updated_">updated %1$s</string>
+    <string name="filter_subscription_info">%1$s, %2$s</string>
+    <string name="enable_built_in_filters">Enable built-in filters</string>
+    <string name="enable_built_in_filters_description">Built-in filters only block common ads</string>
+    <string name="update">Update</string>
+    <string name="bookmarks_exported_successfully">Bookmarks exported successfully</string>
+    <string name="data_exported_successfully">Data exported successfully</string>
+    <string name="privacy_policy">Privacy policy</string>
+    <string name="terms_of_use">Terms of use</string>
+    <string name="welcome">Welcome</string>
+    <string name="agreement_message">Welcome to Via. Please read the following agreement carefully before using Via. You need to agree to and accept all the terms and conditions before you start using our service.</string>
+    <string name="agreement_message_short">You need to agree and accept all the terms before you start using our service.</string>
+    <string name="agree_and_continue">Agree</string>
+    <string name="disagree">Disagree</string>
+    <string name="exit">Exit</string>
+    <string name="delete_account">Delete account</string>
+    <string name="delete_account_request_submitted">The account deletion request has been submitted.</string>
+    <string name="delete_account_hint">Delete the account from the server</string>
+    <string name="delete_account_message">After submitting the deletion request, the account will be logged out and enter a 15-day deletion waiting-period. If you log in to the account again and upload data during the waiting-period, your deletion request will be withdrawn. After the waiting-period expires, the account and related data will be completely deleted from the server.\nPlease enter your password to submit the request.</string>
+    <string name="confirm_to_delete">Confirm to delete</string>
+    <string name="items_selected">%1d selected</string>
+    <string name="select_all">Select all</string>
+    <string name="multi_choice">Multi-choice</string>
+    <plurals name="delete_download_tasks">
+        <item quantity="zero">Deleted 0 download task</item>
+        <item quantity="one">Deleted 1 download task</item>
+        <item quantity="other">Deleted %d download tasks</item>
+    </plurals>
+    <string name="open_source_licenses">Open source licenses</string>
+    <string name="debugging_info">Debugging info</string>
+    <string name="join_qq_group">Join QQ group</string>
+    <string name="join_telegram_group">Join Telegram group</string>
+    <string name="follow_me_on_twitter">Follow me on Twitter</string>
+    <string name="follow_me_on_weibo">Follow me on Weibo</string>
+    <string name="version">Version</string>
+    <string name="paste_and_go">Paste &amp; Go</string>
+    <string name="night_filter_for_web_contents">Night filter for web contents</string>
+    <string name="force_dark_mode_for_web_contents">Force dark operation for web contents</string>
+    <string name="force_dark_mode_for_web_contents_description">When enabled, webpages will be forced to darken, which may cause some pages to behave abnormally.</string>
+    <string name="require_javascript_enabled">This will take effect if JavaScript is enabled.</string>
+    <string name="keyboard_shortcuts">Keyboard shortcuts</string>
+    <string name="export_data_description">Export bookmarks, settings, scripts and ad filters</string>
+    <string name="language">Language</string>
+    <string name="restart_to_take_effect">This will take effect the next time you open the app. Would you like to restart it now to take effect immediately?</string>
+    <string name="more">More</string>
+    <string name="sort_order">Sort order</string>
+    <string name="sort_by_oldest_first">Oldest first</string>
+    <string name="sort_by_newest_first">Newest first</string>
+    <string name="sort_by_alphabetical_order">Alphabetical order</string>
+    <string name="select_folder">Select folder</string>
+    <string name="move">Move</string>
+    <string name="bookmarks_history">Bookmarks/History</string>
+    <string name="done">Done</string>
+    <string name="root_folder">Root folder</string>
+    <string name="delete_item_message">Are you sure you want to delete %1$s?</string>
+    <string name="item_has_been_deleted">\"%1$s\" has been deleted</string>
+    <string name="undo">Undo</string>
+    <string name="can_not_sort_list_when_sorting_alphabetically">Can not sort the list when sorting alphabetically</string>
+    <string name="opened_in_background_message">New tab opened in the background</string>
+    <string name="bookmark_added">Bookmark added</string>
+    <string name="allow_website_to_open_app_message">Allow website to open %1$s?</string>
+    <string name="width">Width</string>
+    <string name="height">Height</string>
+    <string name="corner_radius">Corner radius</string>
+    <string name="adaptive">Adaptive</string>
+    <string name="action_favorites">Favorites</string>
+    <string name="skin_search_bar">Search bar</string>
+    <string name="stroke_width">Border width</string>
+    <string name="stroke_opacity">Border opacity</string>
+    <string name="opacity">Opacity</string>
+    <string name="disable_website_icons">Disable website icons</string>
+    <string name="disable_icon_color">Disable icon color</string>
+    <string name="font_style">Font style</string>
+    <string name="bold">Bold</string>
+    <string name="italics">Italics</string>
+    <string name="clear_website_icon_cache">Clear the website icon cache</string>
+    <string name="clear_website_icon_cache_message">Note that this will clear all the favorite icons on the homepage. Each icon will be downloaded the next time you visit the corresponding website.</string>
+    <string name="use_blur_instead_of_transparency">Use blur effect instead of transparency</string>
+    <string name="desc_favorite_icon">Icon of a favorite</string>
+    <string name="script_remarks">Note</string>
+    <string name="action_save">Save</string>
+    <string name="reset_to_default_settings">Reset to default settings</string>
+    <string name="script_sites">Sites (like *.foo.com,bar.*/list)</string>
+    <string name="simple_guide_of_writing_script">The script written will take effect automatically when the website loads.
+    \n\nSites (required): The scripted site supports the \"*\" wildcard, and multiple sites are separated by \",\", for example: *.foo.com,bar.*/list.
+    \n\nNote (optional): Used as the title of the script.
+    \n\nCode (required): It is recommended to use native JavaScript. You can also use jquery or vue.js syntax if the website uses those frameworks.</string>
+    <string name="save_data">Save data</string>
+    <string name="save_data_description">Enable data-savings mode on compatible websites</string>
+    <string name="use_line_style_search_box">Use line style search box</string>
+    <string name="toast_script_added">Script added successfully</string>
+    <string name="action_manage_favorites">Favorite manager</string>
+    <string name="check_for_updates">Check for updates</string>
+    <string name="checking_for_updates">Checking for updates</string>
+    <string name="latest_version_already_installed">Latest version already installed</string>
+    <string name="new_version_available">New version available</string>
+    <string name="action_download_file">Download</string>
+    <string name="entered_full_screen_mode">Entered full screen mode</string>
+    <string name="delete_hint">Delete (%1$d)</string>
+    <string name="follow_system_dark_mode_on">Follow system dark mode is enabled</string>
+    <string name="scoped_search">Search %1$s</string>
+    <string name="add_shortcut">Add shortcut</string>
+    <string name="need_shortcut_permission">Permission denied. Please go to settings and turn on \"Create home screen shortcuts\" permission for this app.</string>
+    <string name="create_shortcut_successfully">Create shortcut for %1$s successfully</string>
+    <string name="update_shortcut_successfully">Update shortcut for %1$s successfully</string>
+    <string name="today">Today</string>
+    <string name="yesterday">Yesterday</string>
+    <!--  The date format pattern is difficult to remember, please refer to: https://docs.oracle.com/javase/7/docs/api/java/text/SimpleDateFormat.html  -->
+    <string name="same_year_date_format">EEE, MMM dd</string>
+    <string name="default_date_format">EEE, MMM dd, yyyy</string>
+    <string name="view_certificate">View certificate</string>
+    <string name="certificate_info">Certificate information</string>
+    <!-- The b tag means bold, And the br tag means line break.  -->
+    <string name="certificate_detail"><![CDATA[
+        <b>ISSUED TO</b><br />
+        <b>Common Name (CN)</b><br />
+        %1$s
+        <br /><b>Organization (O)</b><br />
+        %2$s
+        <br /><b>Organizational Unit (OU)</b><br />
+        %3$s
+        <br /><br /><b>ISSUED BY</b><br />
+        <b>Common Name (CN)</b><br />
+        %4$s
+        <br /><b>Organization (O)</b><br />
+        %5$s
+        <br /><br /><b>VALIDITY PERIOD</b><br />
+        <b>Issued On</b><br />
+        %6$s
+        <br /><b>Expires On</b><br />
+        %7$s
+        <br />
+    ]]></string>
+    <string name="no_certificate">The website does not have a certificate.</string>
+    <string name="site_conf_enabled">Site configuration (Enabled)</string>
+    <string name="do_not_sell_or_share">Do not sell or share data</string>
+    <string name="do_not_sell_or_share_description">Request the website not to sell or share my data to protect privacy (experimental)</string>
+    <string name="email_me">Email me</string>
+    <string name="scan_qr_code">Scan QR code</string>
+    <string name="scan_qr_code_from_image">Scan QR code from image</string>
+    <string name="switch_flash">Switch flash</string>
+    <string name="qr_code_scan_result">QR code scan result</string>
+    <string name="qr_code_not_detected">QR code not detected</string>
+    <string name="save_qr_code_successfully">The QR code has been saved to the gallery</string>
+    <string name="description_with_number">%1$s (%2$d)</string>
+    <string name="last_hour">The last hour</string>
+    <string name="today_and_yesterday">Today and yesterday</string>
+    <string name="last_seven_days">Last 7 days</string>
+    <string name="all_time">All time</string>
+    <string name="delete_history_from">Delete history from</string>
+    <string name="save_as_pdf">Save as PDF</string>
+    <string name="export">Export</string>
+    <string name="export_successfully">Exported successfully</string>
+    <string name="stop_loading_description">Via has prevented the following page from loading:</string>
+    <string name="stop_loading_reason">Because of the following filter:</string>
+    <string name="continue_loading">Continue loading</string>
+    <string name="allow_webpage_access_to_clipboard">Allow webpage access to clipboard</string>
+    <string name="ask_to_allow_webpage_to_copy_text">Are you sure you want to copy text from %DOMAIN%?</string>
+    <string name="ask_to_allow_webpage_to_paste_text">Are you sure you want to paste text for %DOMAIN%?</string>
+    <string name="option_allow">Allow</string>
+    <string name="option_deny">Deny</string>
+    <string name="search_bar_style">Bar style</string>
+    <string name="search_bar_style_line">Line</string>
+    <string name="search_bar_style_rectangle">Rectangle</string>
+    <string name="favorites_icon_style">Icon style</string>
+    <string name="favorites_icon_style_text">Text</string>
+    <string name="favorites_icon_style_icon_first">Icon first</string>
+    <string name="favorites_icon_color">Icon color</string>
+    <string name="favorites_icon_color_colorful">Colorful</string>
+    <string name="favorites_icon_color_transparent">Transparent</string>
+    <string name="search_bar_effect">Bar effect</string>
+    <string name="search_bar_effect_blur">Blur</string>
+    <string name="search_bar_effect_transparent">Transparent</string>
+    <string name="search_part">Search part</string>
+    <string name="search_part_hide">Hide</string>
+    <string name="search_part_show">Show</string>
+    <string name="image_preference">Image preference</string>
+    <string name="background_color">Color</string>
+    <string name="background_image">Image</string>
+    <string name="favorites_clear_icons">Clear icons</string>
+    <string name="customization_reset">Reset</string>
+    <string name="theme_color">Theme color</string>
+    <string name="theme_color_dark">Dark</string>
+    <string name="theme_color_light">Light</string>
+    <string name="uninstall_script">Uninstall script</string>
+    <string name="uninstall_script_message">Are you sure you want to uninstall script \"%1$s\"?</string>
+    <string name="install_script">Install script</string>
+    <string name="install_script_message">Are you sure you want to install script \"%1$s\"?</string>
+    <string name="processing_blob_data">Processing blob data…</string>
+    <string name="tineye_url">TinEye</string>
+    <string name="login_username">Username (the account will be created if not exist)</string>
+    <string name="read_and_agree">Please read and agree to %1$s and %2$s</string>
+    <string name="wechat_official_account">Wechat official account</string>
+    <string name="notification_channel_downloads">Download contents</string>
+    <string name="notification_channel_foreground">Foreground notification</string>
+    <string name="download_progress">%1$s/%2$s</string>
+    <string name="download_progress_indeterminate">%1$s</string>
+    <string name="download_progress_status">%1$s • %2$s</string>
+    <string name="download_status_paused">Paused</string>
+    <string name="download_action_pause">Pause</string>
+    <string name="download_action_resume">Resume</string>
+    <string name="app_downloading_files">Via is downloading files</string>
+    <string name="app_downloading_files_subtitle">Tap to view downloads</string>
+    <string name="download_failed_with_code">Download failed: %1$s (%2$d)</string>
+    <string name="built_in_download_manager">Built-in download manager</string>
+    <string name="cancel_all">Cancel all</string>
+    <string name="message_delete_selected_download_tasks">Delete these download tasks (%1$d in total)?</string>
+    <string name="file_name">File name</string>
+    <string name="rename">Rename</string>
+    <string name="download_error_file_io">I/O error</string>
+    <string name="download_error_network">Network error</string>
+    <string name="download_error_unknown">Unknown error</string>
+    <string name="message_re_download">Are you sure you want to delete the downloaded file and re-download %1$s?</string>
+    <string name="share_image">Share image</string>
+    <string name="ssl_warning_insecure_connection_message">Connection to %1$s is not secure:\n%2$s\nProceed anyway?</string>
+    <string name="ssl_warning_dont_ask_again">Don\'t ask again for this browsing session</string>
+    <string name="ssl_warning_certificate_untrusted">Certificate is not trusted</string>
+    <string name="ssl_warning_certificate_date_invalid">Date of certificate is invalid</string>
+    <string name="ssl_warning_certificate_expired">Certificate is expired</string>
+    <string name="ssl_warning_certificate_domain_mismatch">Domain in certificate does not match the site domain</string>
+    <string name="ssl_warning_certificate_invalid">Certificate is invalid</string>
+    <string name="ssl_warning_certificate_not_yet_valid">Certificate is not yet valid</string>
+    <string name="the_site">The site</string>
+    <string name="navigation_up">Navigation up</string>
+    <string name="hide_popup_window">Hide popup window</string>
+    <plurals name="open_tabs">
+        <item quantity="zero">0 tab</item>
+        <item quantity="one">1 tab</item>
+        <item quantity="other">%d tabs</item>
+    </plurals>
+    <string name="qr_code">QR code</string>
+    <string name="download_progress_speed">%1$s • %2$s</string>
+    <string name="download_progress_speed_eta">%1$s • %2$s • %3$s</string>
+    <string name="download_speed_unknown">N/A</string>
+    <string name="download_eta_unknown">-</string>
+    <plurals name="hours_left">
+        <item quantity="zero">0 hour left</item>
+        <item quantity="one">1 hour left</item>
+        <item quantity="other">%d hours left</item>
+    </plurals>
+    <plurals name="mins_left">
+        <item quantity="zero">0 min left</item>
+        <item quantity="one">1 min left</item>
+        <item quantity="other">%d mins left</item>
+    </plurals>
+    <plurals name="secs_left">
+        <item quantity="zero">0 sec left</item>
+        <item quantity="one">1 sec left</item>
+        <item quantity="other">%d secs left</item>
+    </plurals>
+    <string name="translation_engine_google">Google translate</string>
+    <string name="translation_engine_baidu">Baidu translate</string>
+    <string name="ignore_site_message_for_a_minute">Ignore this site message for a minute</string>
+    <string name="download_status_waiting_for_network">Waiting for network</string>
+    <string name="download_failed_with_message">Download failed: %1$s</string>
+    <string name="remove_identifying_headers">Remove identifying headers</string>
+    <string name="remove_identifying_headers_description">When enabled, the X-Requested-With and X-Wap-Profile headers will be empty, which may cause some pages to behave abnormally</string>
+    <string name="agent_windows_chrome">Windows (Chrome)</string>
+    <string name="agent_windows_ie11">Windows (IE 11)</string>
+    <string name="agent_android_phone">Android (Phone)</string>
+    <string name="agent_android_tablet">Android (Tablet)</string>
+    <string name="agent_ipad">iPad</string>
+    <string name="agent_osx">macOS</string>
+    <string name="toutiao_url">Toutiao</string>
+    <string name="title_can_not_be_empty">The title can not be empty</string>
+    <string name="user_agent_can_not_be_empty">The user-agent can not be empty</string>
+    <string name="download_filter_all">All</string>
+    <string name="download_filter_others">Others</string>
+    <string name="download_filter_documents">Documents</string>
+    <string name="download_filter_images">Images</string>
+    <string name="download_filter_video">Video</string>
+    <string name="download_filter_apk">APK</string>
+    <string name="download_filter_audio">Audio</string>
+    <string name="download_filter_archives">Archives</string>
+    <string name="simple_guide_of_writing_userscript"><![CDATA[
+        <b>Metadata block</b><br />
+        The metadata must follow the format:<br />
+        <tt>
+        // ==UserScript==<br />
+        // @key value<br />
+        // ==/UserScript==
+        </tt>
+        <br /><br />
+        <b><tt>@name</tt></b>: The name of the userscript.
+        <br /><br />
+        <b><tt>@namespace</tt></b>: The combination of <tt>@namespace</tt> and <tt>@name</tt> is the unique identifier for a userscript.
+        <br /><br />
+        <b><tt>@match/@exclude-match</tt></b>: Define rules to decide whether a script should be executed. It is recommended to use <tt>@match</tt> instead of <tt>@include</tt>.
+        <br /><br />
+        <b><tt>@include/@exclude</tt></b>: The old way to decide whether a script should be executed.
+        <br /><br />
+        <b><tt>@version</tt></b>: The version of the userscript.
+        <br /><br />
+        <b><tt>@description</tt></b>: The description of the userscript.
+        <br /><br />
+        <b><tt>@author</tt></b>: The author of the userscript.
+        <br /><br />
+        <b><tt>@require</tt></b>: The require of the userscript. For example, <br /><tt>// @require https://my.cdn.com/jquery.js</tt>.
+        <br /><br />
+        <b><tt>@run-at</tt></b>: Decide when the script will execute. <tt>document-start</tt> is used to inject scripts before the page loads, <tt>document-end</tt> is used to inject scripts after page load.
+        <br /><br />
+        <b><tt>@grant</tt></b>: Specify which special GM_* APIs should be granted and can be used when the script executes.<br />
+        <br /><br />
+        <b><tt>@downloadURL</tt></b>: The URL the script can be downloaded from.
+        <br /><br />
+        <b><tt>@supportURL</tt></b>: The support URL of the userscript.
+        <br /><br />
+        <b><tt>@homepageURL</tt></b>: The homepage URL of the userscript.
+        <br /><br />
+        <b>GM_* APIs</b><br />
+        <tt>GM_*</tt> are a group of special APIs provided by Via. Currently supported special APIs include: <br/>
+        <tt>GM_getValue/GM_setValue/GM_deleteValue/GM_listValues/GM_getResourceText/GM_getResourceURL/GM_addElement/GM_addStyle/GM_setClipboard/GM_xmlhttpRequest/GM_download</tt>.
+        <br /><br />
+        <b>Matching</b><br />
+        <tt>@match</tt> defines a URL matching rule. <tt>@exclude-match</tt> defines a match rule but used to exclude the matched URLs, similar to <tt>@exclude</tt>.
+        <br /><br />
+        For example:<br />
+        <tt>
+        // @match https://www.google.com/something <br />
+        // @match https://www.google.com/any/* <br />
+        // @exclude-match https://www.google.com/any/not_me
+        </tt>
+        <br /><br />
+    ]]></string>
+    <string name="toast_install_script_successfully">Install \"%1$s\" successfully!</string>
+    <string name="toast_install_script_failed_unknown">Install \"%1$s\" failed!</string>
+    <string name="toast_install_script_failed_dependency_error">Download \"%1$s\" dependency failed!</string>
+    <string name="title_install_script">Install script</string>
+    <string name="message_install_script">Are you sure you want to install \"%1$s\"(%2$s)?</string>
+    <string name="title_reinstall_script">Re-install script</string>
+    <string name="message_reinstall_script">Are you sure you want to re-install \"%1$s\"(%2$s)?</string>
+    <string name="title_update_script">Update script</string>
+    <string name="message_update_script">Are you sure you want to update \"%1$s\"(%2$s -> %3$s)?</string>
+    <string name="toast_parsing_script">Parsing script…</string>
+    <string name="title_add_metadata_block">Add metadata block</string>
+    <string name="message_add_metadata_block">This script has no metadata block so it cannot be saved. Do you want to add a default metadata block to it?</string>
+    <string name="title_disable_safe_browsing">Disable safe browsing</string>
+    <string name="title_close_all_tabs">Close all tabs</string>
+    <string name="message_close_all_tabs_before_disabling_incognito_mode">Do you want to close all tabs before disabling incognito mode?</string>
+    <string name="action_close">Close</string>
+    <string name="action_keep">Keep</string>
+    <string name="desc_bookmark_folder">%1$s folder</string>
+    <string name="message_splash_agreement">By using Via, you agree to our %1$s and %2$s.</string>
+    <string name="translation_engine_google_in_page">Google in-page translate</string>
+    <string name="title_feedback">Feedback</string>
+    <string name="action_view_cookies">View Cookies</string>
+    <string name="title_cookies_for_site">Cookies for %1$s</string>
+    <string name="message_no_cookies">No Cookies.</string>
+    <string name="toast_cookies_for_site_cleared">Cookies for %1$s have been set to empty</string>
+    <string name="toast_site_does_not_support_resource_sniffing">This site does not support resource sniffing</string>
+    <string name="desc_expand_text">Expand text</string>
+    <string name="desc_collapse_text">Collapse text</string>
+    <string name="desc_clear_text">Clear text</string>
+    <string name="title_search_suggestions">Search suggestions</string>
+    <string name="message_search_suggestions">When using the address bar, suggest</string>
+    <string name="title_open_tabs">Open tabs</string>
+    <string name="desc_fill_in_text">Fill in text</string>
+    <string name="directory_name">Directory name</string>
+    <string name="action_default_location">Default location</string>
+    <string name="action_choose_folder">Choose a folder…</string>
+    <string name="title_permission_denied">Permission denied</string>
+    <string name="message_reselect_download_location">The storage permission for the download location has been revoked. Please re-select the download folder location.</string>
+    <string name="detect_language">Detect language</string>
+    <string name="title_source_language">Source language</string>
+    <string name="title_target_language">Target language</string>
+    <string name="desc_swap_language">Swap language</string>
+    <string name="desc_paste_text">Paste text</string>
+    <string name="translation_engine_google_text">Google text translate</string>
+    <string name="sourcenao_url">SourceNAO</string>
+    <string name="iqdb_url">IQDB</string>
+    <string name="iqdb_3d_url">3D IQDB</string>
+    <string name="whatanime_url">WhatAnime</string>
+    <string name="ascii2d_url">Ascii2D</string>
+    <string name="title_scripts_for_site">Scripts for %1$s</string>
+    <string name="disabled">Disabled</string>
+    <string name="enabled">Enabled</string>
+    <string name="action_view_in_settings">View in settings</string>
+    <string name="message_delete_following_items">Are you sure you want to delete the following items?</string>
+    <string name="list_item">• %1$s</string>
+    <string name="action_reset">Reset</string>
+    <string name="title_reset_site_conf">Reset site configuration</string>
+    <string name="message_reset_site_conf">Are you sure you want to reset site configuration for %1$s?</string>
+    <string name="title_ignore_ssl_warnings">Ignore SSL certificate warnings</string>
+    <string name="title_ignore_ssl_warnings_description">Be careful, ignoring ssl certificate warnings may make connection to website insecure</string>
+    <string name="message_ignore_ssl_warnings">SSL certificates are used to verify website identities and encrypt connection. It\'s like putting a letter in an envelope and posting it, only you and the website can open envelope and read the letter.\n\nOnce you ignore the SSL warnings, the connection to the website may be insecure, which means that the data transmitted with the website may be stolen. It\'s like putting the letter in a broken envelope and posting it, someone who forged the certificate could open it.</string>
+    <string name="title_ignore_ssl_warnings_confirmation">I know this may make connection insecure</string>
+    <string name="title_disable_safe_browsing_description">Safe browsing allows WebView to protect against malware and phishing attacks by verifying the links</string>
+    <string name="action_close_all_tabs">Close all tabs</string>
+    <string name="action_close_other_tabs">Close other tabs</string>
+    <string name="action_close_tabs_to_the_bottom">Close tabs to the bottom</string>
+    <string name="action_close_tabs_to_the_top">Close tabs to the top</string>
+    <string name="title_permission_request">Permission request</string>
+    <string name="message_permission_request">%1$s would like to use:</string>
+    <string name="list_item_dash">- %1$s</string>
+    <string name="permission_microphone">Microphone</string>
+    <string name="permission_camera">Camera</string>
+    <string name="add_site_exception">Add site exception</string>
+    <string name="blocked">Blocked</string>
+    <string name="allowed">Allowed</string>
+    <string name="exception">Exception</string>
+    <string name="Exception">Exception</string>
+    <string name="block">Block</string>
+    <string name="allow">Allow</string>
+    <string name="all_sites">All sites</string>
+    <string name="category_content">Content</string>
+    <string name="category_basics">Basics</string>
+    <string name="category_permissions">Permissions</string>
+    <string name="agent_add_site_exception">Set user-agent for a specific site.</string>
+    <string name="images">Images</string>
+    <string name="images_allowed_description">Allow sites to load images</string>
+    <string name="images_allowed_via_wifi_description">Allow sites to load images only via Wi-Fi</string>
+    <string name="images_allowed_via_wifi_description_short">Allowed only via Wi-Fi</string>
+    <string name="images_add_site_exception_allow">Show images for a specific site.</string>
+    <string name="images_add_site_exception_block">Block images for a specific site.</string>
+    <string name="javascript">JavaScript</string>
+    <string name="javascript_allowed_description">Allow sites to run JavaScript</string>
+    <string name="javascript_add_site_exception_allow">Allow JavaScript for a specific site.</string>
+    <string name="javascript_add_site_exception_block">Block JavaScript for a specific site.</string>
+    <string name="cookies">Cookies</string>
+    <string name="cookies_allowed_description">Allow sites to save and read cookie data</string>
+    <string name="cookies_allowed_except_third_party_description_short">Allowed, except third party</string>
+    <string name="popups">Pop-ups</string>
+    <string name="popups_ask_first_description">Ask first before allowing sites to show pop-ups</string>
+    <string name="clipboard">Clipboard</string>
+    <string name="clipboard_ask_first_description">Ask first before allowing sites to use your clipboard</string>
+    <string name="clipboard_allowed_description">Allow sites to use your clipboard</string>
+    <string name="clipboard_blocked_description">Block sites to use your clipboard</string>
+    <string name="clipboard_add_site_exception_allow">Allow a specific site to use your clipboard.</string>
+    <string name="clipboard_add_site_exception_block">Block a specific site to use your clipboard.</string>
+    <string name="location1">Location</string>
+    <string name="location_ask_first_description">Ask first before allowing sites to know your location</string>
+    <string name="camera">Camera</string>
+    <string name="camera_ask_first_description">Ask first before allowing sites to use your camera</string>
+    <string name="microphone">Microphone</string>
+    <string name="microphone_ask_first_description">Ask first before allowing sites to use your microphone</string>
+    <string name="having_trouble_exporting_data">Having trouble exporting data?</string>
+    <string name="having_trouble_exporting_data_message">You can save the data to the %1$s directory if you cannot export the data manually. Do you want to continue?</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+    <string name="default_description">%1$s (default)</string>
+    <string name="grant">Grant</string>
+    <string name="skins">Skins</string>
+    <string name="load_skin">Load skin</string>
+    <string name="load_skin_failed">Load skin failed</string>
+    <string name="skin_changed">Skin changed</string>
+    <string name="desktop_mode_on">Desktop mode is on</string>
+    <string name="desktop_mode_off">Desktop mode is off</string>
+    <string name="import_script_from_url">Import script from URL</string>
+    <string name="import_script_from_file">Import script from file</string>
+    <string name="script_invalid">Script invalid</string>
+    <string name="open_app">Open app</string>
+    <string name="open_app_ask_first_description">Ask first before allowing sites to open your app</string>
+    <string name="open_app_allowed_description">Allow sites to open your app</string>
+    <string name="open_app_blocked_description">Block sites to open your app</string>
+    <string name="open_app_add_site_exception_allow">Allow a specific site to open your app.</string>
+    <string name="open_app_add_site_exception_block">Block a specific site to open your app.</string>
+    <string name="update_interval">Update interval</string>
+    <string name="never">Never</string>
+    <string name="every_day">Every day</string>
+    <string name="every_3_days">Every 3 days</string>
+    <string name="every_week">Every week</string>
+    <string name="every_15_days">Every 15 days</string>
+    <string name="adblock_add_site_exception_on">Enable ad blocking for a specific site.</string>
+    <string name="adblock_add_site_exception_off">Disable ad blocking for a specific site.</string>
+    <string name="sync">Sync</string>
+    <string name="sync_webdav">WebDAV</string>
+    <string name="sync_webdav_user">%1$s (WebDAV)</string>
+    <string name="webdav_configuration">WebDAV configuration</string>
+    <string name="webdav_digest_access_authentication">Uses digest access authentication</string>
+    <string name="no_configuration">No configuration</string>
+    <string name="has_never_been_synced">Has never been synced</string>
+    <string name="synced_">Synced %1$s</string>
+    <string name="auto_sync">Auto sync</string>
+    <string name="sync_data">Sync data</string>
+    <string name="sync_data_none">None</string>
+    <string name="sync_data_bookmarks">Bookmarks</string>
+    <string name="sync_data_favorites">Favorites</string>
+    <string name="sync_data_settings">Settings</string>
+    <string name="delimiter">, </string>
+    <string name="sync_done">Sync done</string>
+    <string name="sync_failed">Sync failed</string>
+    <string name="hint_password_unchanged">Password (Unchanged)</string>
+    <string name="enable_video_player_gestures">Enable video player gestures</string>
+    <string name="enable_video_player_gestures_description">Allow swipe to adjust video progress, screen brightness, device volume when playing video in full screen if possible</string>
+    <string name="external_video_player">External video player</string>
+    <string name="external_video_player_description">When selecting an external video player to play the video, use</string>
+    <string name="player_system_sharing">System sharing</string>
+    <string name="request_to_download_full_script">The script is incomplete and does not work, would you like to download the full script?</string>
+    <string name="data_app_cache">App cache</string>
+    <string name="sync_manually">Sync manually</string>
+    <string name="sync_push_description">Overwrite remote data with local data</string>
+    <string name="sync_push_confirm">Are you sure you want to override remote data with local data?</string>
+    <string name="sync_pull_description">Overwrite local data with remote data</string>
+    <string name="sync_pull_confirm">Are you sure you want to override local data with remote data?</string>
+    <string name="sync_merge_description">Merge local data with remote data</string>
+    <string name="mark_as_ad_expand">Expand</string>
+    <string name="mark_as_ad_shrink">Shrink</string>
+    <string name="mark_as_ad_move_view">Move view</string>
+    <string name="page_redirection">Page redirection</string>
+    <string name="page_redirection_allowed_description">Allow page redirection to any URL</string>
+    <string name="page_redirection_ask_first_description">Ask first before page redirection to cross-origin URL</string>
+    <string name="page_redirection_ask_first_description_short">Ask first before cross-origin redirection</string>
+    <string name="page_redirection_add_site_exception_allow">Allow page redirection to any URL for a specific site.</string>
+    <string name="page_redirection_add_site_exception_ask_first">Ask first before cross-origin redirection for a specific site.</string>
+    <string name="allow_page_redirection_to_msg">Allow page redirection to %1$s?</string>
+    <string name="allow_page_redirection_msg">Allow page redirection?</string>
+
 </resources>
