@@ -255,7 +255,7 @@
     <string name="no_resource">Səhifənin heç bir ehtiyatı yoxdur.</string>
     <string name="no_network_log">Səhifənin şəbəkə jurnalı yoxdur.</string>
     <string name="resource_sniffer_hint">Musiqi və ya video oynadılarkən media faylların aşkar etmək daha asandır. Ehtiyat toplama bəzi veb-saytlarda işləmir.</string>
-    <string name="action_downloads">Yükləmələr</string>
+    <string name="action_downloads">Yüklənənlər</string>
     <string name="empty_username_info">Xahiş olunur, istifadəçi adınızı əlavə edin</string>
     <string name="empty_password_info">Xahiş olunur, parolunuzu əlavə edin</string>
     <string name="offline_page_hint">Bunlar saxlanılan veb-səhifələrdir. Oflayn olduqda belə onları aça bilərsiniz.</string>
