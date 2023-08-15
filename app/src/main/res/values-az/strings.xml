@@ -287,13 +287,13 @@
     <string name="restore_tabs_hint_settings">Siz \"Gizli rejim\"də olanda səhifələr bərpa edilməyəcək.</string>
     <string name="ignore_secondary_ssl_error">İkinci dərəcəli SSL xətasına məhəl qoyma</string>
     <string name="web_page_debug">Veb səhifə sazlanmasın aktivləşdir</string>
-    <string name="web_page_debug_info">Siz indi telefonunuzu kompüterə qoşa, sonra \"chrome://inspect\" işlədərək Chrome (PC) ilə veb-səhifəni sazlaya bilərsiniz. Əvvəlcə menyuda USB sazlamanı aktiv etməyi unutmayın: Daha Çox Alətlər > Tərtibatçı Alətləri.</string>
+    <string name="web_page_debug_info">Siz indi telefonunuzu kompüterə qoşa, sonra \"chrome://inspect\" işlədərək Chrome (PC) ilə veb-səhifəni sazlaya bilərsiniz. Əvvəlcə menyuda USB sazlamanı aktivləşdirməyi unutmayın: Daha Çox Alətlər > Tərtibatçı Alətləri.</string>
     <string name="no_download_tasks">Boş</string>
     <string name="action_re_download">Yenidən yüklə</string>
     <string name="action_copy_download_link">Yükləmə bağlantısın köçür</string>
     <string name="download_failed">Yükləmə uğursuz oldu</string>
     <string name="view_downloads">Bax</string>
-    <string name="message_delete_downloading_task">Yüklənən fayl da silinəcək. Siz əminsiz?</string>
+    <string name="message_delete_downloading_task">Yüklənən fayl da silinəcək. Əminsiz?</string>
     <string name="message_delete_downloaded_task">Bu yüklənən tapşırıq silinsin?</string>
     <string name="message_delete_downloaded_file">Yüklənən fayl daxil olmaqla</string>
     <string name="block_popup_message">Ani pəncərə bağlandı</string>
