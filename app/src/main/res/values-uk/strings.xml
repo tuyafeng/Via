@@ -658,7 +658,7 @@
         <br /><br />
         <b>GM_* APIs</b><br />
         <tt>GM_*</tt> це група спеціальних API, наданих Via. Наразі спеціальні API, що підтримуються, включають: <br/>
-        <tt>GM_getValue/GM_setValue/GM_deleteValue/GM_listValues/GM_getResourceText/GM_getResourceURL/GM_addElement/GM_addStyle/GM_setClipboard/GM_xmlhttpRequest/GM_download</tt>.
+        <tt>GM_getValue/GM_setValue/GM_deleteValue/GM_listValues/GM_getResourceText/GM_getResourceURL/GM_addElement/GM_addStyle/GM_setClipboard/GM_xmlhttpRequest/GM_download/GM_registerMenuCommand/GM_unregisterMenuCommand</tt>.
         <br /><br />
         <b>Зіставлення</b><br />
         <tt>@match</tt> визначає правило відповідності URL. <tt>@exclude-match</tt> визначає правило відповідності, але використовується для виключення відповідних URL-адрес, подібних до <tt>@exclude</tt>.

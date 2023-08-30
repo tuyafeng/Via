@@ -653,7 +653,7 @@
         <br /><br />
         <b>API GM_*</b><br />
         <tt>GM_*</tt> — это группа специальных API, предоставляемая Via. В настоящий момент специальные API включают в себя: <br/>
-        <tt>GM_getValue/GM_setValue/GM_deleteValue/GM_listValues/GM_getResourceText/GM_getResourceURL/GM_addElement/GM_addStyle/GM_setClipboard/GM_xmlhttpRequest/GM_download</tt>.
+        <tt>GM_getValue/GM_setValue/GM_deleteValue/GM_listValues/GM_getResourceText/GM_getResourceURL/GM_addElement/GM_addStyle/GM_setClipboard/GM_xmlhttpRequest/GM_download/GM_registerMenuCommand/GM_unregisterMenuCommand</tt>.
         <br /><br />
         <b>Сопоставление</b><br />
         <tt>@match</tt> определяет правило сопоставления ссылок. <tt>@exclude-match</tt> определяет правило сопоставления, но используется для исключения совпадающих ссылок, аналогично <tt>@exclude</tt>.

@@ -646,7 +646,7 @@
         <br /><br />
         <b>GM_* API</b><br />
         <tt>GM_*</tt> 是一组 Via 提供的特殊 API 集合。当前支持的特殊 API 包括：<br/>
-        <tt>GM_getValue/GM_setValue/GM_deleteValue/GM_listValues/GM_getResourceText/GM_getResourceURL/GM_addElement/GM_addStyle/GM_setClipboard/GM_xmlhttpRequest/GM_download</tt>.
+        <tt>GM_getValue/GM_setValue/GM_deleteValue/GM_listValues/GM_getResourceText/GM_getResourceURL/GM_addElement/GM_addStyle/GM_setClipboard/GM_xmlhttpRequest/GM_download/GM_registerMenuCommand/GM_unregisterMenuCommand</tt>.
         <br /><br />
         <b>匹配</b><br />
         <tt>@match</tt> 定义了脚本生效的作用域。 <tt>@exclude-match</tt> 定义了脚本不应生效的作用域，类似 <tt>@exclude</tt>。
@@ -824,10 +824,10 @@
     <string name="request_to_download_full_script">该脚本不完整且无法运行，你想要下载完整脚本吗？</string>
     <string name="data_app_cache">应用缓存</string>
     <string name="sync_manually">手动同步</string>
-    <string name="sync_push_description">使用云端数据覆盖本地</string>
-    <string name="sync_push_confirm">你确认使用云端数据来覆盖本地数据吗？</string>
-    <string name="sync_pull_description">上传本地数据覆盖云端</string>
-    <string name="sync_pull_confirm">你确认上传本地数据来覆盖云端数据吗？</string>
+    <string name="sync_push_description">上传本地数据覆盖云端</string>
+    <string name="sync_push_confirm">你确认上传本地数据来覆盖云端数据吗？</string>
+    <string name="sync_pull_description">使用云端数据覆盖本地</string>
+    <string name="sync_pull_confirm">你确认使用云端数据来覆盖本地数据吗？</string>
     <string name="sync_merge_description">合并云端和本地的数据</string>
     <string name="mark_as_ad_expand">扩大</string>
     <string name="mark_as_ad_shrink">缩小</string>
@@ -839,5 +839,15 @@
     <string name="page_redirection_add_site_exception_ask_first">在特定站点重定向到非同源页面前先询问。</string>
     <string name="allow_page_redirection_to_msg">允许页面重定向到 %1$s 吗？</string>
     <string name="allow_page_redirection_msg">允许页面重定向吗？</string>
+    <string name="sort">排序</string>
+    <string name="new_folder">新建文件夹</string>
+    <string name="page_up">向上翻页</string>
+    <string name="page_down">向下翻页</string>
+    <string name="select_action">选择行为</string>
+    <string name="tab_actions">标签页行为</string>
+    <string name="feature_actions">特性行为</string>
+    <string name="address_bar_actions">地址栏行为</string>
+    <string name="webpage_actions">网页行为</string>
+    <string name="message_close_all_tabs">你确定关闭所有标签吗？</string>
 
 </resources>

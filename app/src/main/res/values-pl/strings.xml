@@ -673,7 +673,7 @@
         <br /><br />
         <b>API GM_*</b><br />
         <tt>GM_*</tt> to grupa specjalnych API dostępnych w aplikacji Via. Obecnie wspierane API: <br/>
-        <tt>GM_getValue/GM_setValue/GM_deleteValue/GM_listValues/GM_getResourceText/GM_getResourceURL/GM_addElement/GM_addStyle/GM_setClipboard/GM_xmlhttpRequest/GM_download</tt>.
+        <tt>GM_getValue/GM_setValue/GM_deleteValue/GM_listValues/GM_getResourceText/GM_getResourceURL/GM_addElement/GM_addStyle/GM_setClipboard/GM_xmlhttpRequest/GM_download/GM_registerMenuCommand/GM_unregisterMenuCommand</tt>.
         <br /><br />
         <b>Dopasowanie</b><br />
         <tt>@match</tt> definiuje regułę dopasowania adresu. <tt>@exclude-match</tt> wyklucza dopasowane adresy, podobnie jak <tt>@exclude</tt>.

@@ -661,7 +661,7 @@
         <br /><br />
         <b>GM_* APIs</b><br />
         <tt>GM_*</tt> je skupina posebnih API-jev, ki jih ponuja Via. Trenutno podprti posebni API-ji vključujejo: <br/>
-        <tt>GM_getValue/GM_setValue/GM_deleteValue/GM_listValues/GM_getResourceText/GM_getResourceURL/GM_addElement/GM_addStyle/GM_setClipboard/GM_xmlhttpRequest/GM_download</tt>.
+        <tt>GM_getValue/GM_setValue/GM_deleteValue/GM_listValues/GM_getResourceText/GM_getResourceURL/GM_addElement/GM_addStyle/GM_setClipboard/GM_xmlhttpRequest/GM_download/GM_registerMenuCommand/GM_unregisterMenuCommand</tt>.
         <br /><br />
         <b>Prileganje</b><br />
         <tt>@match</tt> definira pravilo ujemanja URL-jev. <tt>@exclude-match</tt> definira pravilo ujemanja, ampak izključi ujemajoče se URL-je, ki so podobni <tt>@exclude</tt>.

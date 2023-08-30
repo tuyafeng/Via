@@ -88,7 +88,6 @@
     <string name="user">ログイン及び登録</string>
     <string name="login_username">ユーザー名（登録していない場合は先に登録してください）</string>
     <string name="read_and_agree">%1$s と %2$sを事前に確認してください</string>
-    <string name="user_syns">サーバーから同期</string>
     <string name="user_update">サーバーにアップロード</string>
     <string name="wrong_psw">パスワードが間違っています</string>
     <string name="sign_up_success">登録しました</string>
