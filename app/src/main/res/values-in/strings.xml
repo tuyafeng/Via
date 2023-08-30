@@ -109,7 +109,7 @@
     <string name="toast_clear_defaults">Harap hapus default</string> 
     <string name="toast_copy_url_successful">Tautan berhasil disalin</string> 
     <string name="toast_copy_text_successful">Teks berhasil disalin</string> 
-    <string name="incognito_on">Anda telah menyamar</string> 
+    <string name="incognito_on">Anda sedang menyamar</string> 
     <string name="incognito_off">Penyamaran dimatikan</string> 
     <string name="operation_none">Tidak ada</string> 
     <string name="operation_reload">Muat ulang</string> 
@@ -129,7 +129,7 @@
     <string name="settings_about">Tentang</string> 
     <string name="url_box">Isi kolom URL</string> 
     <string name="url_box_domain">Domain</string> 
-    <string name="action_pcview">Situs desktop</string> 
+    <string name="action_pcview">Mode desktop</string> 
     <string name="action_source">Lihat sumber</string> 
     <string name="action_translate">Terjemah</string> 
     <string name="title_edit_folder">Edit folder</string> 
@@ -149,18 +149,18 @@
     <string name="settings_cloud">Akun</string> 
     <string name="user">Masuk/Daftar</string> 
     <string name="user_syns">Sinkronkan</string> 
-    <string name="user_update">Mengunggah</string> 
+    <string name="user_update">Unggah</string> 
     <string name="wrong_psw">Kata sandi salah.</string> 
     <string name="sign_up_success">Pendaftaran berhasil</string> 
     <string name="code_500">Layanan tidak tersedia.</string> 
     <string name="syns_success">Sinkronisasi selesai</string> 
-    <string name="upload_success">Unggah selesai</string> 
+    <string name="upload_success">Unggahan selesai</string> 
     <string name="log_out">Keluar?</string> 
     <string name="crash_info">Ada yang salah. :(</string> 
     <string name="crash_restart">Mulai Ulang</string> 
     <string name="crash_close">Tutup</string> 
     <string name="upload_completed">Pengunggahan selesai</string> 
-    <string name="ui_mode">Mode UI bilah alat</string> 
+    <string name="ui_mode">Tampilan UI bilah alat</string> 
     <string name="addon_download">Pengelola unduhan</string> 
     <string name="quick_back">Kembali tanpa memuat ulang</string> 
     <string name="open_with">Buka dengan&#8230;</string> 
@@ -174,7 +174,7 @@
     <string name="data_cookies">Cookie (Status masuk)</string> 
     <string name="data_cleared">Data dihapus</string> 
     <string name="sync_desc">Akun akan dibuat jika belum ada.</string> 
-    <string name="settings_skin">Kustomisasi</string> 
+    <string name="settings_skin">Sesuaikan</string> 
     <string name="default_set">Bawaan</string> 
     <string name="picture">Gambar</string> 
     <string name="text">Teks</string> 
@@ -213,7 +213,7 @@
     <string name="add_script">Skrip baru</string> 
     <string name="script_url">Domain atau * (* berarti semua)</string> 
     <string name="script_code">Kode (JavaScript)</string> 
-    <string name="help_us_translate">Bantu kami menerjemahkan</string> 
+    <string name="help_us_translate">Bantu terjemahkan</string> 
     <string name="confirm_to_leave">Konfirmasi untuk keluar</string> 
     <string name="leave">Keluar</string> 
     <string name="stay">Tinggal</string> 
@@ -245,7 +245,7 @@
     <string name="operation_hint">Gerakan, pintasan, tombol fungsi</string> 
     <string name="adblock_info">Diaktifkan: %1$d iklan diblokir, %2$s dihemat</string> 
     <string name="disable">Dimatikan</string> 
-    <string name="ui_traditional">Roti isi</string> 
+    <string name="ui_traditional">Susun</string> 
     <string name="color_mode_hint">Menyesuaikan warna bilah alat secara otomatis</string> 
     <string name="skin_hide_search_part">Sembunyikan bagian pencarian</string> 
     <string name="file_size">Ukuran berkas: %1$s</string> 
@@ -293,7 +293,7 @@
     <string name="action_copy_download_link">Salin tautan unduhan</string> 
     <string name="download_failed">Unduhan gagal</string> 
     <string name="view_downloads">Lihat</string> 
-    <string name="message_delete_downloading_task">Berkas yang diunduh juga akan dihapus. Apa kamu yakin?</string> 
+    <string name="message_delete_downloading_task">Berkas yang diunduh juga akan dihapus. Apa Anda yakin?</string> 
     <string name="message_delete_downloaded_task">Hapus tugas yang diunduh ini?</string> 
     <string name="message_delete_downloaded_file">Termasuk berkas yang diunduh</string> 
     <string name="block_popup_message">Jendela pop-up yang diblokir</string> 
@@ -306,15 +306,15 @@
     <string name="chinese_server">Cina</string> 
     <string name="global_server">Global</string> 
     <string name="server_message">Data server ini tidak disinkronkan. Anda akan diminta untuk masuk lagi.</string> 
-    <string name="delete_bookmark_folder_message">Bookmark di folder %1$s juga akan dihapus. Apa kamu yakin?</string> 
+    <string name="delete_bookmark_folder_message">Bookmark di folder %1$s juga akan dihapus. Apa Anda yakin?</string> 
     <string name="action_new">Baru</string> 
     <string name="block_hint">Diblokir: %1$s\nSegarkan untuk melihat perubahan.</string> 
     <string name="unblock_hint">Dibebaskan: %1$s\nSegarkan untuk melihat perubahan.</string> 
     <string name="block_3rd_party_cookies">Blokir cookie pihak ketiga</string> 
     <string name="enable_site_conf">Aktifkan konfigurasi situs untuk %1$s</string> 
     <string name="site_conf">Konfigurasi situs</string> 
-    <string name="ui_simple_top">Bilah alat di atas</string> 
-    <string name="ui_simple_bottom">Bilah alat di bawah</string> 
+    <string name="ui_simple_top">Diatas</string> 
+    <string name="ui_simple_bottom">Dibawah</string> 
     <string name="file_does_not_exist">Berkas tidak ada</string> 
     <string name="dialog_message_from">Pesan dari %1$s</string> 
     <string name="filter_subscriptions">Filter langganan</string> 
@@ -658,7 +658,7 @@
         <br /><br />
         <b>GM_* APIs</b><br />
         <tt>GM_*</tt> adalah sekelompok API khusus yang disediakan oleh Via. API khusus yang saat ini didukung meliputi: <br/>
-        <tt>GM_getValue/GM_setValue/GM_deleteValue/GM_listValues/GM_getResourceText/GM_getResourceURL/GM_addElement/GM_addStyle/GM_setClipboard/GM_xmlhttpRequest/GM_download</tt>.
+        <tt>GM_getValue/GM_setValue/GM_deleteValue/GM_listValues/GM_getResourceText/GM_getResourceURL/GM_addElement/GM_addStyle/GM_setClipboard/GM_xmlhttpRequest/GM_download/GM_registerMenuCommand/GM_unregisterMenuCommand</tt>.
         <br /><br />
         <b>Pencocokan</b><br />
         <tt>@match</tt> menentukan aturan pencocokan URL. <tt>@exclude-match</tt> menentukan aturan kecocokan tetapi digunakan untuk mengecualikan URL yang cocok, mirip dengan <tt>@exclude</tt>.
@@ -721,8 +721,8 @@
     <string name="whatanime_url">WhatAnime</string> 
     <string name="ascii2d_url">Ascii2D</string> 
     <string name="title_scripts_for_site">Skrip untuk %1$s</string> 
-    <string name="disabled">Matikan</string> 
-    <string name="enabled">Aktifkan</string> 
+    <string name="disabled">Mati</string> 
+    <string name="enabled">Aktif</string> 
     <string name="action_view_in_settings">Lihat di setelan</string> 
     <string name="message_delete_following_items">Yakin ingin menghapus item berikut?</string> 
     <string name="list_item">• %1$s</string> 
@@ -835,5 +835,23 @@
     <string name="external_video_player_description">Saat memilih pemutar video eksternal untuk memutar video, gunakan</string>
     <string name="player_system_sharing">Berbagi sistem</string>
     <string name="request_to_download_full_script">Skrip tidak lengkap dan tidak berfungsi, apakah Anda ingin mengunduh skrip lengkap?</string>
+    <string name="data_app_cache">Cache aplikasi</string>
+    <string name="sync_manually">Sinkronisasi secara manual</string>
+    <string name="sync_push_description">Timpa data jarak jauh dengan data lokal</string>
+    <string name="sync_push_confirm">Apakah Anda yakin ingin mengganti data jarak jauh dengan data lokal?</string>
+    <string name="sync_pull_description">Timpa data lokal dengan data jarak jauh</string>
+    <string name="sync_pull_confirm">Apakah Anda yakin ingin mengganti data lokal dengan data jarak jauh?</string>
+    <string name="sync_merge_description">Menggabungkan data lokal dengan data jarak jauh</string>
+    <string name="mark_as_ad_expand">Perluas</string>
+    <string name="mark_as_ad_shrink">Ciutkan</string>
+    <string name="mark_as_ad_move_view">Pindahkan tampilan</string>
+    <string name="page_redirection">Pengalihan halaman</string>
+    <string name="page_redirection_allowed_description">Izinkan pengalihan halaman ke URL apa pun</string>
+    <string name="page_redirection_ask_first_description">Tanyakan terlebih dahulu sebelum pengalihan halaman ke URL lintas asal</string>
+    <string name="page_redirection_ask_first_description_short">Tanyakan terlebih dahulu sebelum pengalihan lintas asal</string>
+    <string name="page_redirection_add_site_exception_allow">Izinkan pengalihan halaman ke URL apa pun untuk situs tertentu.</string>
+    <string name="page_redirection_add_site_exception_ask_first">Tanyakan terlebih dahulu sebelum pengalihan lintas asal untuk situs tertentu.</string>
+    <string name="allow_page_redirection_to_msg">Izinkan pengalihan halaman ke %1$s?</string>
+    <string name="allow_page_redirection_msg">Izinkan pengalihan halaman?</string>
 
 </resources>

@@ -653,7 +653,7 @@
         <br /><br />
         <b>API GM_*</b><br />
         <tt>GM_*</tt> — это группа специальных API, предоставляемая Via. В настоящий момент специальные API включают в себя: <br/>
-        <tt>GM_getValue/GM_setValue/GM_deleteValue/GM_listValues/GM_getResourceText/GM_getResourceURL/GM_addElement/GM_addStyle/GM_setClipboard/GM_xmlhttpRequest/GM_download</tt>.
+        <tt>GM_getValue/GM_setValue/GM_deleteValue/GM_listValues/GM_getResourceText/GM_getResourceURL/GM_addElement/GM_addStyle/GM_setClipboard/GM_xmlhttpRequest/GM_download/GM_registerMenuCommand/GM_unregisterMenuCommand</tt>.
         <br /><br />
         <b>Сопоставление</b><br />
         <tt>@match</tt> определяет правило сопоставления ссылок. <tt>@exclude-match</tt> определяет правило сопоставления, но используется для исключения совпадающих ссылок, аналогично <tt>@exclude</tt>.
@@ -779,8 +779,8 @@
     <string name="microphone_ask_first_description">Запрашивать разрешение на доступ сайтами к микрофону</string>
     <string name="having_trouble_exporting_data">Проблемы с экспортом?</string>
     <string name="having_trouble_exporting_data_message">Можно сохранить данные в %1$s, если не получается экспортировать в выбранную папку. Продолжить?</string>
-    <string name="on">ВКЛ</string>
-    <string name="off">ОТКЛ</string>
+    <string name="on">Да</string>
+    <string name="off">Нет</string>
     <string name="default_description">%1$s (по умолчанию)</string>
     <string name="grant">Предоставить</string>
     <string name="skins">Оформление</string>
@@ -830,4 +830,22 @@
     <string name="external_video_player_description">Использовать внешний видеопроигрыватель, если он выбран</string>
     <string name="player_system_sharing">Системный общий доступ</string>
     <string name="request_to_download_full_script">Скрипт неполный и не работает, загрузить полный скрипт?</string>
+    <string name="data_app_cache">Кеш приложения</string>
+    <string name="sync_manually">Ручная синхронизация</string>
+    <string name="sync_push_description">Перезапись удалённых данных локальными данными</string>
+    <string name="sync_push_confirm">Заменить удалённые данные локальными?</string>
+    <string name="sync_pull_description">Перезапись локальных данных удалёнными данными</string>
+    <string name="sync_pull_confirm">Заменить локальные данные удалёнными?</string>
+    <string name="sync_merge_description">Слияние локальных данных с удалёнными данными</string>
+    <string name="mark_as_ad_expand">Развернуть</string>
+    <string name="mark_as_ad_shrink">Свернуть</string>
+    <string name="mark_as_ad_move_view">Переместить</string>
+    <string name="page_redirection">Перенаправление</string>
+    <string name="page_redirection_allowed_description">Разрешать сайтам перенаправление на любой адрес</string>
+    <string name="page_redirection_ask_first_description">Запрашивать разрешение перед перенаправлением на перекрёстный адрес</string>
+    <string name="page_redirection_ask_first_description_short">Запрос перед перенаправлением на перекрёстный адрес</string>
+    <string name="page_redirection_add_site_exception_allow">Разрешать перенаправление на любой адрес на определённом сайте.</string>
+    <string name="page_redirection_add_site_exception_ask_first">Запрашивать разрешение перед перенаправлением на перекрёстный адрес на определённом сайте.</string>
+    <string name="allow_page_redirection_to_msg">Разрешить перенаправление страницы на %1$s?</string>
+    <string name="allow_page_redirection_msg">Разрешить перенаправление страницы?</string>
 </resources>

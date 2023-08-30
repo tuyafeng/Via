@@ -645,7 +645,7 @@
         <br /><br />
         <b>GM_* API</b><br />
         <tt>GM_*</tt> 是一組 Via 提供的特殊 API 集合。當前支援的特殊 API 包括：<br/>
-        <tt>GM_getValue/GM_setValue/GM_deleteValue/GM_listValues/GM_getResourceText/GM_getResourceURL/GM_addElement/GM_addStyle/GM_setClipboard/GM_xmlhttpRequest/GM_download</tt>.
+        <tt>GM_getValue/GM_setValue/GM_deleteValue/GM_listValues/GM_getResourceText/GM_getResourceURL/GM_addElement/GM_addStyle/GM_setClipboard/GM_xmlhttpRequest/GM_download/GM_registerMenuCommand/GM_unregisterMenuCommand</tt>.
         <br /><br />
         <b>匹配</b><br />
         <tt>@match</tt> 定義了指令碼生效的作用域。 <tt>@exclude-match</tt> 定義了指令碼不應生效的作用域，類似 <tt>@exclude</tt>。

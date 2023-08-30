@@ -656,7 +656,7 @@
         <br /><br />
         <b>APIs GM_*</b><br />
         <tt>GM_*</tt> são um grupo de APIs especiais fornecidas pelo Via. As APIs especiais suportadas atualmente incluem: <br/>
-        <tt>GM_getValue/GM_setValue/GM_deleteValue/GM_listValues/GM_getResourceText/GM_getResourceURL/GM_addElement/GM_addStyle/GM_setClipboard/GM_xmlhttpRequest/GM_download</tt>.
+        <tt>GM_getValue/GM_setValue/GM_deleteValue/GM_listValues/GM_getResourceText/GM_getResourceURL/GM_addElement/GM_addStyle/GM_setClipboard/GM_xmlhttpRequest/GM_download/GM_registerMenuCommand/GM_unregisterMenuCommand</tt>.
         <br /><br />
         <b>Correspondência</b><br />
         <tt>@match</tt> define uma regra de correspondência de URL. <tt>@exclude-match</tt> define uma regra de correspondência, mas é usado para excluir as URLs correspondentes, similar ao <tt>@exclude</tt>.
@@ -833,4 +833,22 @@
     <string name="external_video_player_description">Ao selecionar um player de vídeo externo para reproduzir o vídeo, use</string>
     <string name="player_system_sharing">Compartilhamento do sistema</string>
     <string name="request_to_download_full_script">O script está incompleto e não funciona, você gostaria de baixar o script completo?</string>
+    <string name="data_app_cache">Cache do app</string>
+    <string name="sync_manually">Sincronizar manualmente</string>
+    <string name="sync_push_description">Substituir dados remotos por dados locais</string>
+    <string name="sync_push_confirm">Tem certeza de que deseja substituir os dados remotos pelos dados locais?</string>
+    <string name="sync_pull_description">Substituir dados locais por dados remotos</string>
+    <string name="sync_pull_confirm">Tem certeza de que deseja substituir os dados locais pelos dados remotos?</string>
+    <string name="sync_merge_description">Mesclar dados locais com dados remotos</string>
+    <string name="mark_as_ad_expand">Expandir</string>
+    <string name="mark_as_ad_shrink">Encolher</string>
+    <string name="mark_as_ad_move_view">Mover visualização</string>
+    <string name="page_redirection">Redirecionamento de página</string>
+    <string name="page_redirection_allowed_description">Permitir redirecionamento de página para qualquer URL</string>
+    <string name="page_redirection_ask_first_description">Perguntar primeiro antes de redirecionar a página para uma URL fora do domínio</string>
+    <string name="page_redirection_ask_first_description_short">Perguntar antes de redirecionar para outro domínio</string>
+    <string name="page_redirection_add_site_exception_allow">Permitir redirecionamento de página para qualquer URL de um site específico.</string>
+    <string name="page_redirection_add_site_exception_ask_first">Perguntar antes de redirecionar para outro domínio para um site específico.</string>
+    <string name="allow_page_redirection_to_msg">Permitir redirecionamento de página para %1$s?</string>
+    <string name="allow_page_redirection_msg">Permitir redirecionamento de página?</string>
 </resources>
