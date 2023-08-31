@@ -848,4 +848,14 @@
     <string name="page_redirection_add_site_exception_ask_first">Запитувати дозвіл перед перенаправленням на перехресну URL-адресу для певного сайту.</string>
     <string name="allow_page_redirection_to_msg">Дозволити перенаправлення на %1$s?</string>
     <string name="allow_page_redirection_msg">Дозволити перенаправлення?</string>
+    <string name="sort">Сортування</string>
+    <string name="new_folder">Нова тека</string>
+    <string name="page_up">Сторінка вгору</string>
+    <string name="page_down">Сторінка вниз</string>
+    <string name="select_action">Вибір дії</string>
+    <string name="tab_actions">Дії з вкладками</string>
+    <string name="feature_actions">Дії з функціями</string>
+    <string name="address_bar_actions">Дії в адресному рядку</string>
+    <string name="webpage_actions">Дії вебсторінки</string>
+    <string name="message_close_all_tabs">Закрити всі вкладки?</string>
 </resources>
