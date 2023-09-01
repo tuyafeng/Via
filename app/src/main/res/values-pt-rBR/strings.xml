@@ -656,7 +656,7 @@
         <br /><br />
         <b>APIs GM_*</b><br />
         <tt>GM_*</tt> são um grupo de APIs especiais fornecidas pelo Via. As APIs especiais suportadas atualmente incluem: <br/>
-        <tt>GM_getValue/GM_setValue/GM_deleteValue/GM_listValues/GM_getResourceText/GM_getResourceURL/GM_addElement/GM_addStyle/GM_setClipboard/GM_xmlhttpRequest/GM_download</tt>.
+        <tt>GM_getValue/GM_setValue/GM_deleteValue/GM_listValues/GM_getResourceText/GM_getResourceURL/GM_addElement/GM_addStyle/GM_setClipboard/GM_xmlhttpRequest/GM_download/GM_registerMenuCommand/GM_unregisterMenuCommand</tt>.
         <br /><br />
         <b>Correspondência</b><br />
         <tt>@match</tt> define uma regra de correspondência de URL. <tt>@exclude-match</tt> define uma regra de correspondência, mas é usado para excluir as URLs correspondentes, similar ao <tt>@exclude</tt>.

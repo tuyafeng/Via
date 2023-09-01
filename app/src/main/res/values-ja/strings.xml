@@ -13,7 +13,13 @@
     <string name="password">パスワードを保存</string>
     <string name="donate">Via を支援</string>
     <string name="donate_details">私たちは仕事の余暇を利用してViaを開発し、維持し続けています。\nViaはまだ大いに改善の余地があります。Viaには広告がないので、収入もありません。\nもしこのアプリが気に入りましたら、下記の連絡先に寄付してくださいね。\n\nすべての支援金を開発に充てます。\n\nAlipay: 2376688759@qq.com\nPayPal: wiar1824@gmail.com</string>
-   
+
+    <!-- 共通項目 -->    
+    <string name="on">オン</string>
+    <string name="off">オフ</string>
+    <string name="ask_first">確認時にポップアップを表示する</string>
+    <string name="ignore_site_message_for_a_minute">このサイトからのメッセージをしばらく表示しない</string>
+    
     <!-- トップ | 証明書 -->    
     <string name="view_certificate">サーバ証明書を見る</string>
     <string name="certificate_info">サーバ証明書情報</string>
@@ -53,11 +59,35 @@
     <string name="qr_code_not_detected">QRコードが見つかりませんでした</string>
     <string name="save_qr_code_successfully">QRコードのデータをギャラリーに保存しました</string>
     
-    <!-- 設定｜一般｜アカウント -->
+    <!-- 設定｜一般｜同期設定 -->
+    <string name="sync">同期設定</string>
+    <string name="sync_webdav">WebDAV</string>
+    <string name="sync_webdav_user">%1$s (WebDAV)</string>
+    <string name="webdav_configuration">WebDAVの設定</string>
+    <string name="webdav_digest_access_authentication">Digest認証を使用する</string>
+    <string name="no_configuration">設定が行われていません</string>
+    <string name="has_never_been_synced">同期が行われていません</string>
+    <string name="synced_">%1$件 同期済み</string>
+    <string name="auto_sync">自動同期</string>
+    <string name="sync_data">同期したデータ</string>
+    <string name="sync_data_none">なし</string>
+    <string name="sync_data_bookmarks">ブックマーク</string>
+    <string name="sync_data_favorites">Favorites</string>
+    <string name="sync_data_settings">設定</string>
+    <string name="delimiter">, </string>
+    <string name="sync_done">同期完了</string>
+    <string name="sync_failed">同期失敗</string>
+    <string name="sync_manually">手動で同期する</string>
+    <string name="sync_push_description">Overwrite remote data with local data</string>
+    <string name="sync_push_confirm">Are you sure you want to override remote data with local data?</string>
+    <string name="sync_pull_description">Overwrite local data with remote data</string>
+    <string name="sync_pull_confirm">Are you sure you want to override local data with remote data?</string>
+    <string name="sync_merge_description">Merge local data with remote data</string>
     <string name="user_syns">ユーザーデータの同期</string>
     <string name="settings_cloud">アカウント</string>
     <string name="user">ログイン及び登録</string>
-    <string name="user_syns">サーバーから同期</string>
+    <string name="login_username">ユーザー名（登録していない場合は先に登録してください）</string>
+    <string name="read_and_agree">%1$s と %2$sを事前に確認してください</string>
     <string name="user_update">サーバーにアップロード</string>
     <string name="wrong_psw">パスワードが間違っています</string>
     <string name="sign_up_success">登録しました</string>
@@ -73,6 +103,15 @@
     <string name="hint_username">ユーザー名</string>
     <string name="hint_password">パスワード</string>
     <string name="sync_desc">アカウントが存在しない場合は新規にアカウントが作成されます。</string>
+
+    <!-- 設定｜一般｜User Agent -->
+    <string name="agent">User Agent</string>
+    <string name="default_set">デフォルト</string>
+    <string name="agent_chrome">Chrome (PC)</string>
+    <string name="agent_ie">IE 11 (PC)</string>
+    <string name="agent_iphone">iPhone</string>
+    <string name="agent_symbian">Symbian</string>
+    <string name="agent_custom">カスタム設定</string>
     
     <!-- 設定｜一般｜プライベートデータの消去 -->
     <string name="clear_data">プライベートデータの消去</string>
@@ -81,6 +120,7 @@
     <string name="data_history">履歴</string>
     <string name="data_storage">ストレージ</string>
     <string name="data_cookies">Cookie</string>
+    <string name="data_app_cache">アプリのキャッシュデータ</string>
     <string name="data_cleared">消去しました</string>
     
     <!-- 設定｜一般｜広告ブロック -->
@@ -118,15 +158,66 @@
     <string name="has_not_been_updated">更新されていません</string>
     <string name="just_now">たった今</string>
     
-    <!-- 設定｜一般｜User Agent -->
-    <string name="agent">User Agent</string>
-    <string name="default_set">デフォルト</string>
-    <string name="agent_chrome">Chrome (PC)</string>
-    <string name="agent_ie">IE 11 (PC)</string>
-    <string name="agent_iphone">iPhone</string>
-    <string name="agent_symbian">Symbian</string>
-    <string name="agent_custom">カスタム設定</string>
+    <!-- 設定｜一般｜サイト別設定 -->
+    <string name="site_conf">サイト別設定</string>
+    <string name="all_sites">全てのサイト</string>
+    <string name="category_content">コンテンツ</string>
+    <string name="category_basics">基本設定</string>
+    <string name="category_permissions">権限設定</string>
+    <string name="add_site_exception">例外設定を追加します</string>
+    <string name="blocked">ブロックしました</string>
+    <string name="allowed">許可しました</string>
+    <string name="exception">例外</string>
+    <string name="Exception">例外</string>
+    <string name="block">ブロック</string>
+    <string name="allow">許可</string>
+    <string name="agent_add_site_exception">指定したUser Agentでページを開きます</string>
+    <string name="images">画像</string>
+    <string name="images_allowed_description">サイト上で画像を表示します</string>
+    <string name="images_allowed_via_wifi_description">Wi-Fi接続時のみサイト上で画像を表示します</string>
+    <string name="images_allowed_via_wifi_description_short">Wi-Fi接続時のみ表示</string>
+    <string name="images_add_site_exception_allow">画像を表示するサイトを追加します</string>
+    <string name="images_add_site_exception_block">画像をブロックするサイトを追加します</string>
+    <string name="javascript">JavaScript</string>
+    <string name="javascript_allowed_description">JavaScriptをサイト上で許可します</string>
+    <string name="javascript_add_site_exception_allow">JavaScriptを許可するサイトを追加します</string>
+    <string name="javascript_add_site_exception_block">JavaScriptをブロックするサイトを追加します</string>
+    <string name="cookies">Cookies</string>
+    <string name="cookies_allowed_description">サイトにCookieの保存と読み取りを許可する</string>
+    <string name="cookies_allowed_except_third_party_description_short">サードパーティーCookie以外を許可する</string>
+    <string name="popups">ポップアップ</string>
+    <string name="popups_ask_first_description">初回表示時にポップアップの許可を確認する</string>
+    <string name="clipboard">クリップボード</string>
+    <string name="clipboard_ask_first_description">初回表示時にクリップボードの利用の許可を確認する</string>
+    <string name="clipboard_allowed_description">サイトにクリップボードの利用を許可します</string>
+    <string name="clipboard_blocked_description">サイトのクリップボードの利用をブロックします</string>
+    <string name="clipboard_add_site_exception_allow">クリップボードの利用を許可するサイトを追加します</string>
+    <string name="clipboard_add_site_exception_block">クリップボードの利用をブロックするサイトを追加します</string>
+    <string name="open_app">他のアプリを開く</string>
+    <string name="open_app_ask_first_description">サイトが他のアプリを開く前に確認する</string>
+    <string name="open_app_allowed_description">サイトが他のアプリを開くことを許可する</string>
+    <string name="open_app_blocked_description">サイトが他のアプリを開くことをブロックする</string>
+    <string name="open_app_add_site_exception_allow">他のアプリを開くことを許可するサイトを追加します</string>
+    <string name="open_app_add_site_exception_block">他のアプリを開くことをブロックするサイトを追加します</string>
+    <string name="location1">位置情報</string>
+    <string name="location_ask_first_description">初回表示時に位置情報の取得の許可を確認する</string>
+    <string name="camera">カメラ</string>
+    <string name="camera_ask_first_description">初回表示時にカメラの使用の許可を確認する</string>
+    <string name="microphone">マイク</string>
+    <string name="microphone_ask_first_description">初回表示時にマイクの使用の許可を確認する</string>
+    <string name="page_redirection">ページのリダイレクト</string>
+    <string name="page_redirection_allowed_description">任意のURLへのリダイレクトを許可する</string>
+    <string name="page_redirection_ask_first_description">Ask first before page redirection to cross-origin URL</string>
+    <string name="page_redirection_ask_first_description_short">Ask first before cross-origin redirection</string>
+    <string name="page_redirection_add_site_exception_allow">Allow page redirection to any URL for a specific site.</string>
+    <string name="page_redirection_add_site_exception_ask_first">Ask first before cross-origin redirection for a specific site.</string>
+    <string name="allow_page_redirection_to_msg">Allow page redirection to %1$s?</string>
+    <string name="allow_page_redirection_msg">Allow page redirection?</string>
+    <string name="having_trouble_exporting_data">Having trouble exporting data?</string>
+    <string name="having_trouble_exporting_data_message">You can save the data to the %1$s directory if you cannot export the data manually. Do you want to continue?</string>
+    <string name="enable_site_conf">\"%1$s\"のサイト別設定を有効にする</string>
 
+    
     <!-- 設定｜一般｜ナイトモード -->
     <string name="night_filter_for_web_contents">ウェブページへのフィルター</string>
     <string name="force_dark_mode_for_web_contents">ウェブページへのナイトモードを強制する</string>
@@ -163,8 +254,9 @@
     <string name="startpage_url">StartPage (Ixquick)</string>
     <string name="duckduckgo_url">DuckDuckGo</string>
 
-    <!-- 設定｜一般｜検索項目 --> 
-    <string name="search">Search engine</string>
+    <!-- 設定｜一般｜サーチサジェスト -->    
+    <string name="title_search_suggestions">サーチサジェスト</string>
+    <string name="message_search_suggestions">アドレスバーに表示する項目を選択します</string>
     
     <!-- 設定｜一般｜フォントサイズ -->    
     <string name="size">フォントサイズ</string>
@@ -185,8 +277,14 @@
     <string name="download">ダウンロード先</string>    
     
     <!-- 設定｜一般｜ダウンロードツール -->
-    <string name="addon_download">ダウンロードツール</string>
-    <string name="system_download_manager">デフォルト</string>
+    <string name="addon_download">ダウンロードマネージャー</string>
+    <string name="built_in_download_manager">内蔵ダウンロードマネージャー</string>
+    <string name="system_download_manager">システムダウンロードマネージャー</string>
+
+    <!-- 設定｜一般｜ダウンロードツール -->
+    <string name="external_video_player">外部ビデオプレイヤー</string>
+    <string name="external_video_player_description">ビデオ再生時に別のアプリケーションを使用する場合は選択します</string>
+    <string name="player_system_sharing">システム共有を表示</string>
 
     <!-- 設定｜一般｜アドレスバーの内容 -->
     <string name="url_box">アドレスバーの内容</string>
@@ -235,7 +333,6 @@
     <string name="restore_tabs">前回開いていたページを開く</string>
     <string name="disable_restore">タブを復元しない</string>
     <string name="always_restore">常にタブを復元する</string>
-    <string name="ask_first">起動時に確認する</string>
 
     <!-- 設定｜一般｜デフォルトのブラウザにする -->
     <string name="setting_default">デフォルトのブラウザにする</string>
@@ -370,14 +467,15 @@
     <string name="action_add_to_homepage">スピードダイヤルに追加</string>
     <string name="added_favorite_hint">スピードダイヤルに追加しました。</string>
     <string name="title_edit_favorite">ブックマークを編集</string>
+    <string name="add_shortcut">ショートカットを追加</string>
     <string name="delete_hint">削除(%1$d)</string>
     
     <!-- 履歴 -->
     <string name="today">今日</string>
     <string name="yesterday">昨日</string>
     <!--  日付の書き方は右のサイトを参照してください: https://docs.oracle.com/javase/7/docs/api/java/text/SimpleDateFormat.html  -->
-    <string name="same_year_date_format">MMM dd日, EEE</string>
-    <string name="default_date_format">yyyy, MMM dd日, EEE</string>
+    <string name="same_year_date_format">MMM月 dd日 EEE曜日</string>
+    <string name="default_date_format">yyyy年 MMM月 dd日 EEE曜日</string>
     
     <!-- ダウンロード --> 
     <string name="no_download_tasks">ダウンロードアイテムがありません</string>
@@ -512,6 +610,8 @@
     <string name="operation_openbookmark">ブックマーク</string>
     <string name="operation_openhistory">履歴</string>
     <string name="operation_closetab">タブを閉じる</string>
+    <string name="action_close_all_tabs">全てのタブを閉じる</string>
+    <string name="action_close_other_tabs">他のタブを閉じる</string>
     <string name="operation_lasttab">前のタブ</string>
     <string name="operation_nexttab">次のタブ</string>
     <string name="operation_goback">前に戻る</string>
@@ -615,8 +715,6 @@
     <string name="set_ua_as">UserAgentは %1$s に設定されました</string>
     <string name="action_play_with">&#8230;で再生する</string>
     <string name="open_file_failed">このファイルを開くためのアプリがありません</string>
-    <string name="enable_site_conf">\"%1$s\"のサイト別設定を有効にする</string>
-    <string name="site_conf">サイト別設定</string>
     <string name="file_does_not_exist">ファイルがありません</string>
     <string name="dialog_message_from">%1$sからのメッセージ</string>
     <string name="url_is_invalid">URLが無効です</string>

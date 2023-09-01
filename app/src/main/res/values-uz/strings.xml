@@ -671,7 +671,7 @@
         <br /><br />
         <b>GM_* APIs</b><br />
         <tt>GM_*</tt> - bu Via tomonidan taqdim etilgan maxsus API guruh. Hozirda qo‘llab-quvvatlanadigan maxsus API quyidagilarni o‘z ichiga oladi: <br/>
-        <tt>GM_getValue/GM_setValue/GM_deleteValue/GM_listValues/GM_getResourceText/GM_getResourceURL/GM_addElement/GM_addStyle/GM_setClipboard/GM_xmlhttpRequest/GM_download</tt>.
+        <tt>GM_getValue/GM_setValue/GM_deleteValue/GM_listValues/GM_getResourceText/GM_getResourceURL/GM_addElement/GM_addStyle/GM_setClipboard/GM_xmlhttpRequest/GM_download/GM_registerMenuCommand/GM_unregisterMenuCommand</tt>.
         <br /><br />
         <b>Moslash</b><br />
         <tt>@match</tt> URL moslik qoidasini belgilaydi. <tt>@exclude-match</tt> moslik qoidasini belgilaydi, lekin <tt>@exclude</tt>ga o‘xshash mos keladigan URL manzillarni chiqarib tashlash uchun ishlatiladi.

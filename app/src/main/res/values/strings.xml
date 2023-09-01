@@ -658,7 +658,7 @@
         <br /><br />
         <b>GM_* APIs</b><br />
         <tt>GM_*</tt> are a group of special APIs provided by Via. Currently supported special APIs include: <br/>
-        <tt>GM_getValue/GM_setValue/GM_deleteValue/GM_listValues/GM_getResourceText/GM_getResourceURL/GM_addElement/GM_addStyle/GM_setClipboard/GM_xmlhttpRequest/GM_download</tt>.
+        <tt>GM_getValue/GM_setValue/GM_deleteValue/GM_listValues/GM_getResourceText/GM_getResourceURL/GM_addElement/GM_addStyle/GM_setClipboard/GM_xmlhttpRequest/GM_download/GM_registerMenuCommand/GM_unregisterMenuCommand</tt>.
         <br /><br />
         <b>Matching</b><br />
         <tt>@match</tt> defines a URL matching rule. <tt>@exclude-match</tt> defines a match rule but used to exclude the matched URLs, similar to <tt>@exclude</tt>.
@@ -853,5 +853,15 @@
     <string name="page_redirection_add_site_exception_ask_first">Ask first before cross-origin redirection for a specific site.</string>
     <string name="allow_page_redirection_to_msg">Allow page redirection to %1$s?</string>
     <string name="allow_page_redirection_msg">Allow page redirection?</string>
+    <string name="sort">Sort</string>
+    <string name="new_folder">New folder</string>
+    <string name="page_up">Page up</string>
+    <string name="page_down">Page down</string>
+    <string name="select_action">Select action</string>
+    <string name="tab_actions">Tab actions</string>
+    <string name="feature_actions">Feature actions</string>
+    <string name="address_bar_actions">Address bar actions</string>
+    <string name="webpage_actions">Webpage actions</string>
+    <string name="message_close_all_tabs">Are you sure you want to close all tabs?</string>
 
 </resources>

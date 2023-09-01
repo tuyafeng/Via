@@ -658,7 +658,7 @@
         <br /><br />
         <b>GM_* APIs</b><br />
         <tt>GM_*</tt> adalah sekelompok API khusus yang disediakan oleh Via. API khusus yang saat ini didukung meliputi: <br/>
-        <tt>GM_getValue/GM_setValue/GM_deleteValue/GM_listValues/GM_getResourceText/GM_getResourceURL/GM_addElement/GM_addStyle/GM_setClipboard/GM_xmlhttpRequest/GM_download</tt>.
+        <tt>GM_getValue/GM_setValue/GM_deleteValue/GM_listValues/GM_getResourceText/GM_getResourceURL/GM_addElement/GM_addStyle/GM_setClipboard/GM_xmlhttpRequest/GM_download/GM_registerMenuCommand/GM_unregisterMenuCommand</tt>.
         <br /><br />
         <b>Pencocokan</b><br />
         <tt>@match</tt> menentukan aturan pencocokan URL. <tt>@exclude-match</tt> menentukan aturan kecocokan tetapi digunakan untuk mengecualikan URL yang cocok, mirip dengan <tt>@exclude</tt>.

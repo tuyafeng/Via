@@ -661,7 +661,7 @@
         <br /><br />
         <b>GM_* APIs</b><br />
         <tt>GM_*</tt> je skupina posebnih API-jev, ki jih ponuja Via. Trenutno podprti posebni API-ji vključujejo: <br/>
-        <tt>GM_getValue/GM_setValue/GM_deleteValue/GM_listValues/GM_getResourceText/GM_getResourceURL/GM_addElement/GM_addStyle/GM_setClipboard/GM_xmlhttpRequest/GM_download</tt>.
+        <tt>GM_getValue/GM_setValue/GM_deleteValue/GM_listValues/GM_getResourceText/GM_getResourceURL/GM_addElement/GM_addStyle/GM_setClipboard/GM_xmlhttpRequest/GM_download/GM_registerMenuCommand/GM_unregisterMenuCommand</tt>.
         <br /><br />
         <b>Prileganje</b><br />
         <tt>@match</tt> definira pravilo ujemanja URL-jev. <tt>@exclude-match</tt> definira pravilo ujemanja, ampak izključi ujemajoče se URL-je, ki so podobni <tt>@exclude</tt>.
@@ -838,5 +838,23 @@
     <string name="external_video_player_description">Pri izboru zunanjega video predvajalnika za predvajanje videoposnetkov uporabi</string>
     <string name="player_system_sharing">Sistemski predvajalnik</string>
     <string name="request_to_download_full_script">Skript je nepopoln in ne deluje. Želite prenesti celoten skript?</string>
+    <string name="data_app_cache">Predpomnilnik aplikacije</string>
+    <string name="sync_manually">Ročna sinhronizacija</string>
+    <string name="sync_push_description">Prepis oddaljenih podatkov z lokalnimi podatki</string>
+    <string name="sync_push_confirm">Ste prepričani, da želite prepisati oddaljene podatke z lokalnimi podatki?</string>
+    <string name="sync_pull_description">Prepis lokalnih podatkov z oddaljenimi podatki</string>
+    <string name="sync_pull_confirm">Ste prepričani, da želite prepisati lokalne podatke z oddaljenimi podatki?</string>
+    <string name="sync_merge_description">Združitev lokalnih in oddaljenih podatkov</string>
+    <string name="mark_as_ad_expand">Razširi</string>
+    <string name="mark_as_ad_shrink">Skrči</string>
+    <string name="mark_as_ad_move_view">Premakni pogled</string>
+    <string name="page_redirection">Preusmeritev strani</string>
+    <string name="page_redirection_allowed_description">Dovoli preusmeritev strani na katerikoli URL</string>
+    <string name="page_redirection_ask_first_description">Vprašaj pred preusmeritvijo navzkrižnega izvora</string>
+    <string name="page_redirection_ask_first_description_short">Vprašaj pred navzkrižno preusmeritvijo izvora</string>
+    <string name="page_redirection_add_site_exception_allow">Dovoli preusmeritev strani na katerikoli URL za določeno stran.</string>
+    <string name="page_redirection_add_site_exception_ask_first">Vprašaj pred preusmeritvijo navzkrižnega izvora za določeno stran.</string>
+    <string name="allow_page_redirection_to_msg">Dovoli preusmeritev strani na %1$s?</string>
+    <string name="allow_page_redirection_msg">Dovoli preusmeritev strani?</string>
 	
 </resources>

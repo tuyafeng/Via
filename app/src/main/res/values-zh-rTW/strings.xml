@@ -645,7 +645,7 @@
         <br /><br />
         <b>GM_* API</b><br />
         <tt>GM_*</tt> 是一組 Via 提供的特殊 API 集合。當前支援的特殊 API 包括：<br/>
-        <tt>GM_getValue/GM_setValue/GM_deleteValue/GM_listValues/GM_getResourceText/GM_getResourceURL/GM_addElement/GM_addStyle/GM_setClipboard/GM_xmlhttpRequest/GM_download</tt>.
+        <tt>GM_getValue/GM_setValue/GM_deleteValue/GM_listValues/GM_getResourceText/GM_getResourceURL/GM_addElement/GM_addStyle/GM_setClipboard/GM_xmlhttpRequest/GM_download/GM_registerMenuCommand/GM_unregisterMenuCommand</tt>.
         <br /><br />
         <b>匹配</b><br />
         <tt>@match</tt> 定義了指令碼生效的作用域。 <tt>@exclude-match</tt> 定義了指令碼不應生效的作用域，類似 <tt>@exclude</tt>。
@@ -838,4 +838,14 @@
     <string name="page_redirection_add_site_exception_ask_first">在特定網站重定向到非同源頁面前先詢問。</string>
     <string name="allow_page_redirection_to_msg">允許頁面重定向到 %1$s 嗎？</string>
     <string name="allow_page_redirection_msg">允許頁面重定向嗎？</string>
+    <string name="sort">排序</string>
+    <string name="new_folder">新建資料夾</string>
+    <string name="page_up">向上翻頁</string>
+    <string name="page_down">向下翻頁</string>
+    <string name="select_action">選擇行為</string>
+    <string name="tab_actions">分頁行為</string>
+    <string name="feature_actions">特性行為</string>
+    <string name="address_bar_actions">位址列行為</string>
+    <string name="webpage_actions">網頁行為</string>
+    <string name="message_close_all_tabs">你確定關閉所有分頁嗎？</string>
 </resources>
