@@ -224,7 +224,7 @@
     <string name="missing_webview">O Android System WebView não está instalado corretamente. Gostaria de instalá-lo agora?</string>
     <string name="install">Instalar</string>
     <string name="crash_hint">Lamentamos que o aplicativo tenha travado.</string>
-    <string name="glean">Coletar</string>
+    <string name="glean">Lema</string>
     <string name="contact_us">Fale conosco</string>
     <string name="official_website">Site oficial</string>
     <string name="background_opacity">Opacidade do fundo</string>
@@ -483,12 +483,12 @@
     <string name="do_not_sell_or_share">Não vender ou compartilhar dados</string>
     <string name="do_not_sell_or_share_description">Solicite que o site não venda ou compartilhe meus dados para proteger a privacidade (experimental)</string>
     <string name="email_me">Envie-me um e-mail</string>
-    <string name="scan_qr_code">Ler QR code</string>
-    <string name="scan_qr_code_from_image">Ler QR code da imagem</string>
+    <string name="scan_qr_code">Ler código QR</string>
+    <string name="scan_qr_code_from_image">Ler código QR da imagem</string>
     <string name="switch_flash">Alternar flash</string>
-    <string name="qr_code_scan_result">Resultado da leitura do QR code</string>
-    <string name="qr_code_not_detected">QR code não detectado</string>
-    <string name="save_qr_code_successfully">O QR code foi salvo na galeria</string>
+    <string name="qr_code_scan_result">Resultado da leitura do código QR</string>
+    <string name="qr_code_not_detected">Código QR não detectado</string>
+    <string name="save_qr_code_successfully">O código QR foi salvo na galeria</string>
     <string name="description_with_number">%1$s (%2$d)</string>
     <string name="last_hour">Última hora</string>
     <string name="today_and_yesterday">Hoje e ontem</string>
@@ -575,7 +575,7 @@
         <item quantity="one">1 aba</item>
         <item quantity="other">%d abas</item>
     </plurals>
-    <string name="qr_code">QR code</string>
+    <string name="qr_code">Código QR</string>
     <string name="download_progress_speed">%1$s • %2$s</string>
     <string name="download_progress_speed_eta">%1$s • %2$s • %3$s</string>
     <string name="download_speed_unknown">N/D</string>
