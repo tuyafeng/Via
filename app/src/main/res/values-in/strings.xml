@@ -747,8 +747,7 @@
     <string name="blocked">Diblokir</string> 
     <string name="allowed">Diizinkan</string> 
     <string name="exception">Kecuali</string> 
-    <string name="Kecuali">Kecuali</string> 
-    <string name="block">Blokir</string> 
+    <string name="block">Blokir</string>
     <string name="allow">Izinkan</string> 
     <string name="all_sites">Semua situs</string> 
     <string name="category_content">Isi</string> 

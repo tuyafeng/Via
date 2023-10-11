@@ -863,5 +863,13 @@
     <string name="address_bar_actions">Address bar actions</string>
     <string name="webpage_actions">Webpage actions</string>
     <string name="message_close_all_tabs">Are you sure you want to close all tabs?</string>
+    <string name="search_in_via">Search in Via</string>
+    <string name="following_filters_invalid_message">The following filters are not in the correct format:</string>
+    <string name="customize_menu">Customize menu</string>
+    <string name="hold_and_drag_to_rearrange_items">Hold and drag to rearrange items</string>
+    <string name="hold_and_drag_or_tap_to_add_item">Hold and drag or tap to add item</string>
+    <string name="ad_blocking_on">Ad blocking is on</string>
+    <string name="ad_blocking_off">Ad blocking is off</string>
+    <string name="enable_tab_bar">Enable tab bar</string>
 
 </resources>
