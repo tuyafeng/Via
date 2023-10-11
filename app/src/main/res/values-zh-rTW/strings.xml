@@ -848,4 +848,12 @@
     <string name="address_bar_actions">位址列行為</string>
     <string name="webpage_actions">網頁行為</string>
     <string name="message_close_all_tabs">你確定關閉所有分頁嗎？</string>
+    <string name="search_in_via">在 Via 中搜尋</string>
+    <string name="following_filters_invalid_message">下列篩選條件格式不正確：</string>
+    <string name="customize_menu">自訂選單</string>
+    <string name="hold_and_drag_to_rearrange_items">按住並拖動即可重新排列條目</string>
+    <string name="hold_and_drag_or_tap_to_add_item">按住並拖動或按下來新增條目</string>
+    <string name="ad_blocking_on">封鎖廣告已開啟</string>
+    <string name="ad_blocking_off">封鎖廣告已關閉</string>
+    <string name="enable_tab_bar">啟用分頁欄</string>
 </resources>
