@@ -849,5 +849,13 @@
     <string name="address_bar_actions">地址栏行为</string>
     <string name="webpage_actions">网页行为</string>
     <string name="message_close_all_tabs">你确定关闭所有标签吗？</string>
+    <string name="search_in_via">在 Via 中搜索</string>
+    <string name="following_filters_invalid_message">下列规则格式不正确：</string>
+    <string name="customize_menu">定制菜单</string>
+    <string name="hold_and_drag_to_rearrange_items">按住并拖动即可重新排列条目</string>
+    <string name="hold_and_drag_or_tap_to_add_item">按住并拖动或点击来添加条目</string>
+    <string name="ad_blocking_on">广告拦截已开启</string>
+    <string name="ad_blocking_off">广告拦截已关闭</string>
+    <string name="enable_tab_bar">启用标签栏</string>
 
 </resources>

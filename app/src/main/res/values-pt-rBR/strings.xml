@@ -78,7 +78,7 @@
     <string name="message_untrusted_certificate">O certificado do site não é confiável. Continuar mesmo assim?</string>
     <string name="message_date_invalid_certificate">A data do certificado do site é inválida. Continuar mesmo assim?</string>
     <string name="message_expired_certificate">O certificado do site expirou. Continuar mesmo assim?</string>
-    <string name="message_hostname_mismatch_certificate">O certificado do site não corresponde ao nome do servidor. Continuar mesmo assim?</string>
+    <string name="message_hostname_mismatch_certificate">O certificado do site não corresponde ao nome do host. Continuar mesmo assim?</string>
     <string name="message_invalid_certificate">O certificado do site é inválido. Continuar mesmo assim?</string>
     <string name="message_not_yet_valid_certificate">O certificado do site ainda não é válido. Continuar mesmo assim?</string>
     <string name="title_form_resubmission">Reenvio do formulário</string>
@@ -96,7 +96,7 @@
     <string name="title_file_chooser">Seletor de arquivos</string>
     <string name="import_bookmarks">Importar favoritos</string>
     <string name="export_bookmarks_to">Exportar favoritos para: %1$s</string>
-    <string name="import_bookmark_error">Não foi possível importar os favoritos do arquivo!</string>
+    <string name="import_bookmark_error">Não foi possível importar favoritos do arquivo!</string>
     <string name="message_add_bookmark">Favorito adicionado com sucesso</string>
     <string name="message_exit">Pressione mais uma vez para sair</string>
     <string name="dialog_message">Mensagem</string>
@@ -113,8 +113,8 @@
     <string name="incognito_off">Modo anônimo desativado</string>
     <string name="operation_none">Nenhuma ação</string>
     <string name="operation_reload">Recarregar</string>
-    <string name="operation_top">Rolar para cima</string>
-    <string name="operation_bottom">Rolar para baixo</string>
+    <string name="operation_top">Ir para cima</string>
+    <string name="operation_bottom">Ir para baixo</string>
     <string name="operation_input">Inserir URL</string>
     <string name="operation_openbookmark">Abrir favoritos</string>
     <string name="operation_openhistory">Abrir histórico</string>
@@ -147,11 +147,11 @@
     <string name="dialog_sure">Tem certeza de que deseja continuar?</string>
     <string name="action_send_to_launcher">Enviar para a tela inicial</string>
     <string name="settings_cloud">Conta</string>
-    <string name="user">Entrar/Cadastre-se</string>
+    <string name="user">Entrar/Cadastrar-se</string>
     <string name="user_syns">Sincronizar</string>
     <string name="user_update">Enviar</string>
     <string name="wrong_psw">Senha incorreta</string>
-    <string name="sign_up_success">Cadastro bem sucedido</string>
+    <string name="sign_up_success">Cadastro bem-sucedido</string>
     <string name="code_500">Erro no servidor</string>
     <string name="syns_success">Sincronização concluída</string>
     <string name="upload_success">Envio concluído</string>
@@ -161,7 +161,7 @@
     <string name="crash_close">Fechar</string>
     <string name="upload_completed">Envio completo</string>
     <string name="ui_mode">Posição da barra de ferramentas</string>
-    <string name="addon_download">Gerenciador de download</string>
+    <string name="addon_download">Gerenciador de downloads</string>
     <string name="quick_back">Voltar sem recarregar</string>
     <string name="open_with">Abrir com&#8230;</string>
     <string name="download_completed">Download concluído</string>
@@ -186,7 +186,7 @@
     <string name="block_popup">Bloquear pop-ups</string>
     <string name="action_save_web_page">Salvar página</string>
     <string name="action_saved_pages">Páginas salvas</string>
-    <string name="saved_page_successfully">A página da web foi salva em: Favoritos > Páginas salvas.</string>
+    <string name="saved_page_successfully">A página da web foi salva em: Favoritos > Páginas salvas</string>
     <string name="deleted_failed">Falha ao excluir. O arquivo está localizado no caminho de download: </string>
     <string name="empty_hint">Vazio</string>
     <string name="network_log">Log de rede</string>
@@ -203,8 +203,8 @@
     <string name="force_cancel">Forçar fechamento</string>
     <string name="restore_tabs_hint">Deseja restaurar as abas não fechadas da última sessão?</string>
     <string name="restore_tabs">Restaurar abas na inicialização</string>
-    <string name="install_success">Instalação bem sucedida!</string>
-    <string name="uninstall_success">Desinstalação bem sucedida!</string>
+    <string name="install_success">Instalação bem-sucedida!</string>
+    <string name="uninstall_success">Desinstalação bem-sucedida!</string>
     <string name="log_page_hint">A lista de bloqueados está em %1$s.\nVocê pode editar a lista ou manter pressionado um item a seguir para ativar/desativar seu bloqueio.</string>
     <string name="fullscreen_1">Role para ocultar/mostrar</string>
     <string name="fullscreen_2">Toque para ocultar/mostrar</string>
@@ -307,7 +307,7 @@
     <string name="global_server">Global</string>
     <string name="server_message">Os dados desses servidores não são sincronizados. Será necessário entrar novamente.</string>
     <string name="delete_bookmark_folder_message">Os favoritos na pasta %1$s também serão excluídos. Tem certeza?</string>
-    <string name="action_new">Novo(a)</string>
+    <string name="action_new">Novo</string>
     <string name="block_hint">Bloqueado: %1$s\nAtualize para ter efeito.</string>
     <string name="unblock_hint">Desbloqueado: %1$s\nAtualize para ter efeito.</string>
     <string name="block_3rd_party_cookies">Bloquear cookies de terceiros</string>
@@ -347,8 +347,8 @@
         <item quantity="one">1 filtro</item>
         <item quantity="other">%d filtros</item>
     </plurals>
-    <string name="updated_">atualizado(s) %1$s</string>
-    <string name="filter_subscription_info">%1$s, %2$s</string>
+    <string name="updated_">atualizado(s) • %1$s</string>
+    <string name="filter_subscription_info">%1$s %2$s</string>
     <string name="enable_built_in_filters">Ativar filtros integrados</string>
     <string name="enable_built_in_filters_description">Filtros integrados só bloqueiam anúncios comuns</string>
     <string name="update">Atualizar</string>
@@ -431,14 +431,14 @@
     <string name="reset_to_default_settings">Redefinir para as configurações padrão</string>
     <string name="script_sites">Sites (como *.foo.com,bar.*/lista)</string>
     <string name="simple_guide_of_writing_script">O script escrito terá efeito automaticamente quando o site carregar.
-    \n\nSites (obrigatório): O site com script suporta o curinga \"*\", vários sites são separados por \",\", por exemplo: *.foo.com,bar.*/lista.
+    \n\nSites (obrigatório): O site com script suporta o curinga \"*\", vários sites são separados pela \",\", por exemplo: *.foo.com,bar.*/lista.
     \n\nObservações (opcional): Usado como o título do script.
     \n\nCódigo (obrigatório): Recomenda-se usar JavaScript nativo. Você também pode usar a sintaxe jquery ou vue.js se o site usar esses frameworks.</string>
     <string name="save_data">Economizar dados</string>
     <string name="save_data_description">Ative o modo de economia de dados em sites compatíveis</string>
     <string name="use_line_style_search_box">Use a caixa de pesquisa em estilo linha</string>
     <string name="toast_script_added">Script adicionado com sucesso</string>
-    <string name="action_manage_favorites">Gerenciar atalhos</string>
+    <string name="action_manage_favorites">Gerenciador de atalhos</string>
     <string name="check_for_updates">Verificar por atualizações</string>
     <string name="checking_for_updates">Verificando por atualizações</string>
     <string name="latest_version_already_installed">Última versão já instalada</string>
@@ -448,7 +448,7 @@
     <string name="delete_hint">Excluir (%1$d)</string>
     <string name="follow_system_dark_mode_on">Seguir o modo escuro do sistema está ativado</string>
     <string name="scoped_search">Pesquisar em %1$s</string>
-    <string name="add_shortcut">Adicionar atalho</string>
+    <string name="add_shortcut">Adicionar à tela inicial</string>
     <string name="need_shortcut_permission">Permissão negada. Por favor, vá para as configurações e ative a permissão \"Criar atalhos na tela inicial\" para este aplicativo.</string>
     <string name="create_shortcut_successfully">Atalho %1$s criado com sucesso</string>
     <string name="update_shortcut_successfully">Atalho %1$s atualizado com sucesso</string>
@@ -492,9 +492,9 @@
     <string name="description_with_number">%1$s (%2$d)</string>
     <string name="last_hour">Última hora</string>
     <string name="today_and_yesterday">Hoje e ontem</string>
-    <string name="last_seven_days">Última semana</string>
-    <string name="all_time">Desde o início</string>
-    <string name="delete_history_from">Excluir histórico de(a)</string>
+    <string name="last_seven_days">Últimos 7 dias</string>
+    <string name="all_time">Todo o período</string>
+    <string name="delete_history_from">Limpar histórico</string>
     <string name="save_as_pdf">Salvar como PDF</string>
     <string name="export">Exportar</string>
     <string name="export_successfully">Exportado com sucesso</string>
@@ -539,7 +539,7 @@
     <string name="read_and_agree">Por favor, leia e concorde com os %1$s e a %2$s</string>
     <string name="wechat_official_account">Conta oficial do WeChat </string>
     <string name="notification_channel_downloads">Download de conteúdo</string>
-    <string name="notification_channel_foreground">Notificações em primeiro plano</string>
+    <string name="notification_channel_foreground">Notificação em primeiro plano</string>
     <string name="download_progress">%1$s/%2$s</string>
     <string name="download_progress_indeterminate">%1$s</string>
     <string name="download_progress_status">%1$s • %2$s</string>
@@ -560,7 +560,7 @@
     <string name="message_re_download">Tem certeza de que deseja excluir o arquivo e baixar novamente %1$s?</string>
     <string name="share_image">Compartilhar imagem</string>
     <string name="ssl_warning_insecure_connection_message">A conexão com %1$s não é segura:\n%2$s\nContinuar mesmo assim?</string>
-    <string name="ssl_warning_dont_ask_again">Não pergunte novamente para esta sessão</string>
+    <string name="ssl_warning_dont_ask_again">Não pergunte novamente nesta sessão</string>
     <string name="ssl_warning_certificate_untrusted">O certificado não é confiável</string>
     <string name="ssl_warning_certificate_date_invalid">A data do certificado é inválida</string>
     <string name="ssl_warning_certificate_expired">O certificado expirou</string>
@@ -597,7 +597,7 @@
     </plurals>
     <string name="translation_engine_google">Google Tradutor</string>
     <string name="translation_engine_baidu">Baidu Tradutor</string>
-    <string name="ignore_site_message_for_a_minute">Ignore esta mensagem do site por 1 minuto</string>
+    <string name="ignore_site_message_for_a_minute">Ignore esta mensagem do site por um minuto</string>
     <string name="download_status_waiting_for_network">Aguardando rede</string>
     <string name="download_failed_with_message">Falha ao baixar: %1$s</string>
     <string name="remove_identifying_headers">Remover os cabeçalhos de identificação</string>
@@ -642,7 +642,7 @@
         <br /><br />
         <b><tt>@author</tt></b>: O autor(a) do userscript.
         <br /><br />
-        <b><tt>@require</tt></b>: O requisito do userscript. Por exemplo, <br /><tt>// @require https://my.cdn.com/jquery.js</tt>.
+        <b><tt>@require</tt></b>: O requisito do userscript. Por exemplo, <br /><tt>// @require https://meu.cdn.com/jquery.js</tt>.
         <br /><br />
         <b><tt>@run-at</tt></b>: Decide quando o script será executado. <tt>document-start</tt> é usado para injetar scripts antes que a página carrege, o <tt>document-end</tt> é usado para injetar scripts após a página carregar.
         <br /><br />
@@ -690,10 +690,10 @@
     <string name="message_splash_agreement">Ao utilizar o Via, você concorda com nossos %1$s e a %2$s.</string>
     <string name="translation_engine_google_in_page">Tradução em página do Google</string>
     <string name="title_feedback">Feedback</string>
-    <string name="action_view_cookies">Ver Cookies</string>
+    <string name="action_view_cookies">Ver cookies</string>
     <string name="title_cookies_for_site">Cookies de %1$s</string>
-    <string name="message_no_cookies">Sem Cookies.</string>
-    <string name="toast_cookies_for_site_cleared">Cookies para %1$s foram definidos como vazios</string>
+    <string name="message_no_cookies">Sem cookies.</string>
+    <string name="toast_cookies_for_site_cleared">Os cookies foram limpos para %1$s</string>
     <string name="toast_site_does_not_support_resource_sniffing">Este site não suporta detecção de recursos</string>
     <string name="desc_expand_text">Expandir texto</string>
     <string name="desc_collapse_text">Recolher texto</string>
@@ -728,7 +728,7 @@
     <string name="title_reset_site_conf">Redefinir configuração do site</string>
     <string name="message_reset_site_conf">Tem certeza que deseja redefinir a configuração do site para %1$s?</string>
     <string name="title_ignore_ssl_warnings">Ignorar avisos de certificado SSL</string>
-    <string name="title_ignore_ssl_warnings_description">Cuidado, ignorando os avisos do certificado ssl pode tornar a conexão com o site insegura</string>
+    <string name="title_ignore_ssl_warnings_description">Cuidado, ignorando os avisos do certificado SSL pode tornar a conexão com o site insegura</string>
     <string name="message_ignore_ssl_warnings">Os certificados SSL são usados para verificar as identidades do site e criptografar a conexão. É como colocar uma carta em um envelope e postá-la, somente você e o site podem abrir o envelope e ler a carta.\n\nUma vez que você ignorar os avisos SSL, a conexão com o site pode ser insegura, o que significa que os dados transmitidos com o site podem ser roubados. É como colocar a carta em um envelope rasgada e postá-la, alguém que pode consertar poderia ler.</string>
     <string name="title_ignore_ssl_warnings_confirmation">Eu sei que isso pode tornar a conexão insegura</string>
     <string name="title_disable_safe_browsing_description">Navegação segura permite que o WebView proteja contra ataques de malware e phishing, verificando os links</string>
@@ -745,7 +745,6 @@
     <string name="blocked">Bloqueado</string>
     <string name="allowed">Permitido</string>
     <string name="exception">Exceção</string>
-    <string name="Exception">Exceção</string>
     <string name="block">Bloquear</string>
     <string name="allow">Permitir</string>
     <string name="all_sites">Todos os sites</string>
@@ -765,7 +764,7 @@
     <string name="javascript_add_site_exception_block">Bloquear JavaScript para um site específico.</string>
     <string name="cookies">Cookies</string>
     <string name="cookies_allowed_description">Permitir que sites salvem e leiam dados de cookies</string>
-    <string name="cookies_allowed_except_third_party_description_short">Permitido, exceto terceiros</string>
+    <string name="cookies_allowed_except_third_party_description_short">Permitido, exceto de terceiros</string>
     <string name="popups">Pop-ups</string>
     <string name="popups_ask_first_description">Perguntar primeiro antes de permitir que os sites mostrem pop-ups</string>
     <string name="clipboard">Área de transferência</string>
@@ -851,4 +850,14 @@
     <string name="page_redirection_add_site_exception_ask_first">Perguntar antes de redirecionar para outro domínio para um site específico.</string>
     <string name="allow_page_redirection_to_msg">Permitir redirecionamento de página para %1$s?</string>
     <string name="allow_page_redirection_msg">Permitir redirecionamento de página?</string>
+    <string name="sort">Organizar</string>
+    <string name="new_folder">Nova pasta</string>
+    <string name="page_up">Rolar para cima</string>
+    <string name="page_down">Rolar para baixo</string>
+    <string name="select_action">Selecionar ação</string>
+    <string name="tab_actions">Ações de aba</string>
+    <string name="feature_actions">Ações de recurso</string>
+    <string name="address_bar_actions">Ações da barra de endereços</string>
+    <string name="webpage_actions">Ações de página da web</string>
+    <string name="message_close_all_tabs">Tem certeza de que deseja fechar todas as abas?</string>
 </resources>
