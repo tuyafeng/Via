@@ -860,4 +860,12 @@
     <string name="address_bar_actions">Ações da barra de endereços</string>
     <string name="webpage_actions">Ações de página da web</string>
     <string name="message_close_all_tabs">Tem certeza de que deseja fechar todas as abas?</string>
+    <string name="search_in_via">Pesquisar no Via</string>
+    <string name="following_filters_invalid_message">Os seguintes filtros não estão no formato correto:</string>
+    <string name="customize_menu">Personalizar menu</string>
+    <string name="hold_and_drag_to_rearrange_items">Segure e arraste para reorganizar os itens</string>
+    <string name="hold_and_drag_or_tap_to_add_item">Segure e arraste ou toque para adicionar um item</string>
+    <string name="ad_blocking_on">Bloqueio de anúncios ativado</string>
+    <string name="ad_blocking_off">Bloqueio de anúncios desativado</string>
+    <string name="enable_tab_bar">Ativar barra de abas</string>
 </resources>
