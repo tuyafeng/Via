@@ -828,7 +828,7 @@
     <string name="enable_video_player_gestures_description">Использовать жесты для перемотки видео, регулировки яркости экрана и громкости звука при воспроизведении видео в полноэкранном режиме, если это возможно</string>
     <string name="external_video_player">Внешний видеопроигрватель</string>
     <string name="external_video_player_description">Использовать внешний видеопроигрыватель, если он выбран</string>
-    <string name="player_system_sharing">Системный общий доступ</string>
+    <string name="player_system_sharing">Общесистемный</string>
     <string name="request_to_download_full_script">Скрипт неполный и не работает, загрузить полный скрипт?</string>
     <string name="data_app_cache">Кеш приложения</string>
     <string name="sync_manually">Ручная синхронизация</string>
@@ -858,4 +858,13 @@
     <string name="address_bar_actions">Действия в адресной строке</string>
     <string name="webpage_actions">Действия на странице</string>
     <string name="message_close_all_tabs">Закрыть все вкладки?</string>
+    <string name="search_in_via">Поиск в Via</string>
+    <string name="following_filters_invalid_message">Следующие фильтры имеют неправильный формат:</string>
+    <string name="customize_menu">Настройка меню</string>
+    <string name="hold_and_drag_to_rearrange_items">Перетаскивайте зажатым для изменения порядка</string>
+    <string name="hold_and_drag_or_tap_to_add_item">Перетаскивайте зажатым или нажмите для добавления</string>
+    <string name="ad_blocking_on">Блокировка рекламы включена</string>
+    <string name="ad_blocking_off">Блокировка рекламы отключена</string>
+    <string name="enable_tab_bar">Панель вкладок</string>
+
 </resources>
