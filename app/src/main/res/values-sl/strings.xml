@@ -856,5 +856,23 @@
     <string name="page_redirection_add_site_exception_ask_first">Vprašaj pred preusmeritvijo navzkrižnega izvora za določeno stran.</string>
     <string name="allow_page_redirection_to_msg">Dovoli preusmeritev strani na %1$s?</string>
     <string name="allow_page_redirection_msg">Dovoli preusmeritev strani?</string>
+    <string name="sort">Sortiranje</string>
+    <string name="new_folder">Nova mapa</string>
+    <string name="page_up">Zgornja stran/string>
+    <string name="page_down">Spodnja stran</string>
+    <string name="select_action">Izberi dejanje</string>
+    <string name="tab_actions">Dejanja zavihkov</string>
+    <string name="feature_actions">Dejanja funkcij</string>
+    <string name="address_bar_actions">Dejanja naslovne vrstice</string>
+    <string name="webpage_actions">Dejanja spletne strani</string>
+    <string name="message_close_all_tabs">Želite zapreti vse zavihke?</string>
+    <string name="search_in_via">Išči v Via</string>
+    <string name="following_filters_invalid_message">Naslednji filtri niso v pravilni obliki:</string>
+    <string name="customize_menu">Prilagajanje menija</string>
+    <string name="hold_and_drag_to_rearrange_items">Pridržite in povlecite, da prerazporedite elemente</string>
+    <string name="hold_and_drag_or_tap_to_add_item">Pridržite in povlecite ali tapnite, da dodate element</string>
+    <string name="ad_blocking_on">Blokiranje oglasov je vklopljeno</string>
+    <string name="ad_blocking_off">Blokiranje oglasov je izklopljeno</string>
+    <string name="enable_tab_bar">Omogoči vrstico z zavihki</string>
 	
 </resources>
