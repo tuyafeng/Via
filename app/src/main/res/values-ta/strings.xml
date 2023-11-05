@@ -8,7 +8,6 @@
     <string name="action_share">பகிர்</string>
     <string name="action_history">வரலாறு</string>
     <string name="action_bookmarks">புத்தககுறிகள்</string>
-    <string name="bookmarks_file">புத்தககுறிகள் ஏற்றுமதி</string>
     <string name="action_add_bookmark">புத்தககுறி சேர்</string>
     <string name="action_night">இரவு நிலை</string>
     <string name="action_copy">இணைப்பை நகலெடு</string>
@@ -49,11 +48,6 @@
     <string name="title_warning">எச்சரிக்கை</string>
     <string name="title_custom_homepage">தனிப்பயன் முகப்புப்பக்கம்</string>
     <string name="action_webpage">வலைப்பக்கம்</string>
-    <string name="size_largest">மிகப்பெரிய</string>
-    <string name="size_large">பெரிய</string>
-    <string name="size_normal">இயல்பான</string>
-    <string name="size_small">சிறிய</string>
-    <string name="size_smallest">மிகச்சிறிய</string>
     <string name="hint_title">தலைப்பு</string>
     <string name="hint_url">URL</string>
     <string name="hint_folder">கோப்புறை</string>
@@ -76,12 +70,6 @@
     <string name="google_url">Google</string>
     <string name="sougou_url">Sogou</string>
     <string name="block_ads">விளம்பரத் தடுப்பு</string>
-    <string name="message_untrusted_certificate">தளத்தின் சான்றிதழ் நம்பப்படவில்லை. எப்படியும் தொடரவா?</string>
-    <string name="message_date_invalid_certificate">தளத்தின் சான்றிதழின் தேதி தவறானது. எப்படியும் தொடரவா?</string>
-    <string name="message_expired_certificate">தளத்தின் சான்றிதழ் காலாவதியானது. எப்படியும் தொடரவா?</string>
-    <string name="message_hostname_mismatch_certificate">தளத்தின் சான்றிதழ் ஹோஸ்ட் பெயருடன் பொருந்தவில்லை. எப்படியும் தொடரவா?</string>
-    <string name="message_invalid_certificate">தளத்தின் சான்றிதழ் தவறானது. எப்படியும் தொடரவா?</string>
-    <string name="message_not_yet_valid_certificate">தளத்தின் சான்றிதழ் இன்னும் செல்லுபடியாகவில்லை. எப்படியும் தொடரவா?</string>
     <string name="title_form_resubmission">படிவம் மீண்டும் சமர்ப்பித்தல்</string>
     <string name="message_form_resubmission">தரவை மீண்டும் அனுப்ப விரும்புகிறீர்களா?</string>
     <string name="message_location">\nஉங்கள் இருப்பிடத்தைப் பயன்படுத்த விரும்புகிறேன்</string>
@@ -137,16 +125,12 @@
     <string name="msg_delete_folder">இந்த கோப்புறையை நீக்க விரும்புகிறீர்களா?</string>
     <string name="desc_suggestion">பரிந்துரை</string>
     <string name="desc_home">வீடு</string>
-    <string name="desc_tab">தாவல்</string>
     <string name="desc_menu">பட்டியல்</string>
-    <string name="desc_filedic">கோப்பு</string>
     <string name="action_mark">விளம்பரமாக குறிக்கவும்</string>
     <string name="dialog_confirm_mark">இதை விளம்பரமாக குறிக்க விரும்புகிறீர்களா?</string>
     <string name="do_not_track">பின்தொடராதே</string>
-    <string name="add_rule">வடிப்பானைச் சேர்க்கவும்</string>
     <string name="color_mode">வண்ண முறை</string>
     <string name="dialog_sure">தொடர சரியா?</string>
-    <string name="action_send_to_launcher">துவக்கத்திற்கு அனுப்பு</string>
     <string name="settings_cloud">கணக்கு</string>
     <string name="user">புகுபதிகை / பதிவு செய்தல்</string>
     <string name="user_syns">ஒத்திசைவு</string>
@@ -176,8 +160,6 @@
     <string name="data_cookies">குக்கீகள்</string>
     <string name="data_cleared">தரவு அழிக்கப்பட்டது</string>
 
-    <string name="sync_desc">அது இல்லாவிட்டால் ஒரு கணக்கு உருவாக்கப்படும்.</string>
-
     <string name="settings_skin">தனிப்பயனாக்கம்</string>
     <string name="default_set">இயல்புநிலை</string>
     <string name="picture">படம்</string>
@@ -185,10 +167,6 @@
     <string name="html_code">HTML குறியீடு</string>
 
     <string name="action_view_image">படத்தைக் காண்க</string>
-
-    <string name="skin_colorful">வண்ணமயமான</string>
-    <string name="skin_fruity">பழம்</string>
-    <string name="skin_transparent">ஒளி புகும்</string>
 
     <string name="block_popup">பாப்-அப் தடு</string>
 
@@ -211,21 +189,13 @@
     <string name="upload_prompt">உங்கள் தற்போதைய உள்ளூர் புக்மார்க்குகள் மற்றும் அமைப்புகள் பதிவேற்றப்படும். தொடரவா?</string>
     <string name="none">எதுவுமில்லை</string>
     <string name="check_permission">அனுமதி மறுக்கப்பட்டது. இப்போது அதை அமைப்புகளில் அமைக்க விரும்புகிறீர்களா?</string>
-    <string name="need_permission_hint">வேலை செய்ய பின்வரும் அனுமதிகள் தேவை:\n\n</string>
-    <string name="storage_permission">சேமிப்பு: உலாவியில் இருந்து கோப்புகளைப் பதிவிறக்குவதற்கும் புக்மார்க்குகளை இறக்குமதி செய்வதற்கும் / ஏற்றுமதி செய்வதற்கும்.\n\n</string>
-    <string name="location_permission">இருப்பிடம்: Google வரைபடம் போன்ற தளங்களுக்கு, இது இயல்பாகவே முடக்கப்படும். இது இயக்கப்பட்டிருக்கும்போது, தளம் உங்கள் இருப்பிடத்தைப் பயன்படுத்தலாமா என்று கேட்டு ஒரு பாப்-அப் காட்டப்படும்.\n\n</string>
-    <string name="force_cancel">கட்டாயமாக மூடு</string>
     <string name="restore_tabs_hint">கடைசி அமர்விலிருந்து திறக்கப்படாத தாவல்களை மீட்டமைக்க விரும்புகிறீர்களா?</string>
     <string name="restore_tabs">தொடக்கத்தில் தாவல்களை மீட்டமைக்கவும்</string>
-    <string name="install_success">நிறுவல் வெற்றி!</string>
-    <string name="uninstall_success">நிறுவல் நீக்கம் வெற்றி!</string>
     <string name="log_page_hint">தடுக்கப்பட்ட பட்டியல் %1$s இல் உள்ளது.\nநீங்கள் பட்டியலைத் திருத்தலாம் அல்லது பின்வரும் உருப்படியை அதன் முற்றுகையை இயக்க / முடக்க நீண்ட நேரம் அழுத்தவும்.</string>
     <string name="fullscreen_1">மறைக்க / காண்பிக்க உருட்டவும்</string>
     <string name="fullscreen_2">மறைக்க / காண்பிக்க அழுத்தவும்</string>
     <string name="settings_script">ஸ்கிரிப்ட்கள்</string>
-    <string name="get_more_script">மேலும் ஸ்கிரிப்ட்களைப் பெறு</string>
     <string name="add_script">ஸ்கிரிப்டைச் சேர்</string>
-    <string name="script_url">Domain or * (* means all)</string>
     <string name="script_code">குறியீடு (JavaScript)</string>
     <string name="help_us_translate">மொழிபெயர்க்க உதவு</string>
     <string name="confirm_to_leave">வெளியேற உறுதிப்படுத்தவும்</string>
@@ -233,7 +203,6 @@
     <string name="stay">இரு</string>
     <string name="skin_logo">Logo</string>
     <string name="skin_bg">பின்னணி</string>
-    <string name="skin_style">உடை</string>
     <string name="set_it_as_homepage">இதை முகப்புப்பக்கமாக அமைக்க விரும்புகிறீர்களா?</string>
     <string name="missing_webview">Android System WebView சரியாக நிறுவப்படவில்லை. இப்போது அதை நிறுவ விரும்புகிறீர்களா?</string>
     <string name="install">நிறுவு</string>
@@ -241,7 +210,6 @@
     <string name="glean">Glean</string>
     <string name="contact_us">எங்களை தொடர்பு கொள்ள</string>
     <string name="official_website">அதிகாரப்பூர்வ வலைத்தளம்</string>
-    <string name="background_opacity">பின்னணியின் ஒளிபுகாநிலை</string>
     <string name="action_pic_mode">பட முறை</string>
     <string name="find_next">அடுத்ததை தேடு</string>
     <string name="find_pre">கடைசியை தேடு</string>
@@ -252,7 +220,6 @@
     <string name="no_bookmark">புக்மார்க்குகள் இல்லை</string>
     <string name="import_or_export_bookmarks">புக்மார்க்குகளை இறக்குமதி / ஏற்றுமதி</string>
     <string name="export_bookmarks">புக்மார்க்குகளை ஏற்றுமதி செய்க</string>
-    <string name="pull_to_refresh_gesture">புதுப்பிக்க-இழு சைகை</string>
     <string name="back_forward_gesture">பின் / முன் சைகை</string>
     <string name="toolbar_settings_hint">அதன் நீண்ட-அழுத்த செயலை அமைக்க கீழே தேர்ந்தெடுக்கப்பட்ட பொத்தானை அழுத்தவும் அல்லது என்ன நடவடிக்கை அமைக்கப்பட்டுள்ளது என்பதை சரிபார்க்க நீண்ட நேரம் அழுத்தவும்.</string>
     <string name="action_modify">மாற்றியமை</string>
@@ -261,7 +228,6 @@
     <string name="disable">முடக்கப்பட்டது</string>
     <string name="ui_traditional">Sandwich</string>
     <string name="color_mode_hint">கருவிப்பட்டிகளின் வண்ணத்தை தானாக சரிசெய்</string>
-    <string name="skin_hide_search_part">தேடல் பகுதியை மறை</string>
     <string name="file_size">கோப்பின் அளவு: %1$s</string>
     <string name="search_by_image">படம் மூலம் தேடு</string>
     <string name="resource_sniffer">வள மோப்பான்</string>
@@ -299,10 +265,8 @@
     <string name="data_file">தரவு ஏற்றுமதி</string>
     <string name="bookmarks_data_to_long">புக்மார்க்குகளின் தரவு பதிவேற்ற முடியாத அளவுக்கு பெரியது, ஆனால் பிற தரவு பொதுவாக பதிவேற்றப்படும். தொடரவா?</string>
     <string name="restore_tabs_hint_settings">நீங்கள் \"மறைநிலை பயன்முறையில்\" இருக்கும்போது தாவல்கள் மீட்டமைக்கப்படாது.</string>
-    <string name="ignore_secondary_ssl_error">இரண்டாம் நிலை SSL பிழையை புறக்கணிக்கவும்</string>
     <string name="web_page_debug">வலைப்பக்க பிழைத்திருத்தத்தை இயக்கு</string>
     <string name="web_page_debug_info">இப்போது நீங்கள் உங்கள் தொலைபேசியை கணினியுடன் இணைக்கலாம், பின்னர் \"chrome://inspect\" ஐப் பயன்படுத்தி வலைப்பக்கத்தை Chrome (PC) உடன் பிழைத்திருத்தலாம். மெனுவில் முதலில் யூ.எஸ்.பி பிழைத்திருத்தத்தை இயக்க நினைவில் கொள்க: கூடுதல் கருவிகள்> டெவலப்பர் கருவிகள்.</string>
-    <string name="no_download_tasks">காலி</string>
     <string name="action_re_download">மீண்டும் பதிவிறக்கவும்</string>
     <string name="action_copy_download_link">பதிவிறக்க இணைப்பை நகலெடு</string>
     <string name="download_failed">பதிவிறக்கம் தோல்வி</string>
@@ -339,9 +303,7 @@
     <string name="custom_filter">தனிப்பயன் வடிகட்டி</string>
     <string name="add_filter_subscription">வடிகட்டி சந்தாவைச் சேர்க்கவும்</string>
     <string name="edit_filter_subscription">வடிகட்டி சந்தாவைத் திருத்துக</string>
-    <string name="updating_filter_subscriptions">வடிகட்டி சந்தாக்களைப் புதுப்பித்தல்</string>
     <string name="update_filter_subscriptions_completed">வடிகட்டி சந்தாக்கள் புதுப்பிப்பு முடிந்தது.</string>
-    <string name="update_filter_subscription_failed">வடிகட்டி சந்தாக்கள் புதுப்பிப்பு தோல்வியுற்றது.\n%1$s</string>
     <string name="has_not_been_updated">புதுப்பிக்கப்படவில்லை</string>
     <string name="just_now">இப்போது</string>
     <string name="url_is_invalid">URL தவறானது.</string>
@@ -371,7 +333,6 @@
     <string name="privacy_policy">தனியுரிமைக் கொள்கை</string>
     <string name="terms_of_use">பயன்பாட்டு விதிமுறைகளை</string>
     <string name="welcome">வரவேற்பு</string>
-    <string name="agreement_message">Via பயன்படுத்த வரவேற்கிறோம். Via பயன்படுத்துவதற்கு முன் பின்வரும் ஒப்பந்தத்தை கவனமாகப் படிக்கவும். எங்கள் சேவையைப் பயன்படுத்தத் தொடங்குவதற்கு முன்பு நீங்கள் எல்லா விதிமுறைகளையும் ஏற்றுக் கொள்ள வேண்டும்.</string>
     <string name="agreement_message_short">எங்கள் சேவையைப் பயன்படுத்தத் தொடங்குவதற்கு முன்பு நீங்கள் எல்லா விதிமுறைகளையும் ஏற்றுக் கொள்ள வேண்டும்.</string>
     <string name="agree_and_continue">ஒப்புக்கொண்டு தொடரவும்</string>
     <string name="disagree">கருத்து வேறுபாடு</string>
@@ -381,21 +342,13 @@
     <string name="delete_account_hint">சேவையகத்திலிருந்து கணக்கை நீக்கு</string>
     <string name="delete_account_message">நீக்குதல் கோரிக்கையைச் சமர்ப்பித்த பிறகு, கணக்கு வெளியேறி, 15 நாள் நீக்குதல் காத்திருப்பு காலத்தை உள்ளிடவும். வெளியேறுதல் காலத்தில், நீங்கள் மீண்டும் கணக்கில் உள்நுழைந்து தரவைப் பதிவேற்றினால், நீக்குதல் கோரிக்கை திரும்பப் பெறப்படும். காத்திருப்பு காலம் காலாவதியான பிறகு, கணக்கு மற்றும் தொடர்புடைய தரவு சேவையகத்திலிருந்து முற்றிலும் நீக்கப்படும்.\nகோரிக்கையைச் சமர்ப்பிக்க உங்கள் கடவுச்சொல்லை உள்ளிடவும்.</string>
     <string name="confirm_to_delete">நீக்க உறுதிப்படுத்தவும்</string>
-    <string name="items_selected">%1d தேர்ந்தெடுக்கப்பட்டது</string>
     <string name="select_all">அனைத்தையும் தேர்வுசெய்</string>
-    <string name="multi_choice">பல தேர்வு</string>
-    <plurals name="delete_download_tasks">
-        <item quantity="zero">0 பதிவிறக்க பணி நீக்கப்பட்டது</item>
-        <item quantity="one">1 பதிவிறக்க பணி நீக்கப்பட்டது</item>
-        <item quantity="other">%d பதிவிறக்க பணி நீக்கப்பட்டது</item>
-    </plurals>
     <string name="open_source_licenses">திறந்த மூல உரிமங்கள்</string>
     <string name="debugging_info">பிழைத்திருத்த தகவல்</string>
     <string name="join_qq_group">QQ குழுவில் சேர்</string>
     <string name="join_telegram_group">டெலிகிராம் குழுவில் சேர்</string>
     <string name="follow_me_on_twitter">என்னை ட்விட்டரில் பின்தொடருங்கள்</string>
     <string name="follow_me_on_weibo">வெய்போவில் என்னைப் பின்தொடரவும்</string>
-    <string name="version">பதிப்பு</string>
     <string name="paste_and_go">ஒட்டு &amp; போ</string>
     <string name="night_filter_for_web_contents">வலை உள்ளடக்கங்களுக்கான இரவு வடிப்பான்</string>
     <string name="force_dark_mode_for_web_contents">வலை உள்ளடக்கங்களுக்கு இருண்ட பயன்முறையை கட்டாயப்படுத்து</string>

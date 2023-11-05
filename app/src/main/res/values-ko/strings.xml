@@ -8,7 +8,6 @@
     <string name="action_share">공유</string>
     <string name="action_history">방문 기록</string>
     <string name="action_bookmarks">북마크</string>
-    <string name="bookmarks_file">북마크 내보내기</string>
     <string name="action_add_bookmark">북마크 추가</string>
     <string name="action_night">야간 모드</string>
     <string name="action_copy">링크 복사</string>
@@ -48,11 +47,6 @@
     <string name="title_warning">경고</string>
     <string name="title_custom_homepage">사용자 정의 홈페이지</string>
     <string name="action_webpage">웹페이지</string>
-    <string name="size_largest">가장 크게</string>
-    <string name="size_large">크게</string>
-    <string name="size_normal">보통</string>
-    <string name="size_small">작게</string>
-    <string name="size_smallest">가장 작게</string>
     <string name="hint_title">제목</string>
     <string name="hint_url">URL</string>
     <string name="hint_folder">폴더</string>
@@ -75,12 +69,6 @@
     <string name="google_url">Google</string>
     <string name="sougou_url">Sougou</string>
     <string name="block_ads">광고 차단</string>
-    <string name="message_untrusted_certificate">사이트의 인증서를 신뢰할 수 없습니다. 접속할까요?</string>
-    <string name="message_date_invalid_certificate">사이트의 인증서 날짜가 유효하지 않습니다. 접속할까요?</string>
-    <string name="message_expired_certificate">사이트의 인증서가 만료되었습니다. 접속할까요?</string>
-    <string name="message_hostname_mismatch_certificate">사이트의 인증서가 호스트명과 일치하지 않습니다. 접속할까요?</string>
-    <string name="message_invalid_certificate">사이트의 인증서가 잘못되었습니다. 접속할까요?</string>
-    <string name="message_not_yet_valid_certificate">사이트의 인증서가 아직 유효하지 않습니다. 접속할까요?</string>
     <string name="title_form_resubmission">양식 다시 제출</string>
     <string name="message_form_resubmission">데이터를 다시 전송할까요?</string>
     <string name="message_location">\n당신의 위치를 사용할까요?</string>
@@ -136,16 +124,12 @@
     <string name="msg_delete_folder">이 폴더를 삭제하시겠습니까?</string>
     <string name="desc_suggestion">추천</string>
     <string name="desc_home">홈</string>
-    <string name="desc_tab">탭</string>
     <string name="desc_menu">메뉴</string>
-    <string name="desc_filedic">파일</string>
     <string name="action_mark">광고로 표시</string>
     <string name="dialog_confirm_mark">이것을 광고로 표시하시겠습니까?</string>
     <string name="do_not_track">추적 차단</string>
-    <string name="add_rule">규칙 추가</string>
     <string name="color_mode">색상 모드</string>
     <string name="dialog_sure">정말로 이것을 하시겠습니까?</string>
-    <string name="action_send_to_launcher">런처로 보내기</string>
     <string name="settings_cloud">계정</string>
     <string name="user">로그인/가입</string>
     <string name="user_syns">동기화</string>
@@ -175,8 +159,6 @@
     <string name="data_cookies">쿠키</string>
     <string name="data_cleared">데이터 지워짐</string>
 
-    <string name="sync_desc">계정이 존재하지 않는다면 생성될 것 입니다.</string>
-
     <string name="settings_skin">사용자 정의</string>
     <string name="default_set">기본</string>
     <string name="picture">사진</string>
@@ -184,10 +166,6 @@
     <string name="html_code">HTML 코드</string>
 
     <string name="action_view_image">이미지 보기</string>
-
-    <string name="skin_colorful">둥금</string>
-    <string name="skin_fruity">반투명</string>
-    <string name="skin_transparent">투명</string>
 
     <string name="block_popup">팝업 차단</string>
 
@@ -210,21 +188,13 @@
     <string name="upload_prompt">현재 기기의 북마크와 설정을 업로드합니다. 계속할까요?</string>
     <string name="none">없음</string>
     <string name="check_permission">권한 부여 실패. 설정에서 직접 부여할까요?</string>
-    <string name="need_permission_hint">Via 정상 작동을 위해 다음 권한이 필요합니다.\n\n</string>
-    <string name="storage_permission">저장: 브라우저로 파일을 다운로드하거나, 북마크 등을 내보내거나 가져옵니다.\n\n</string>
-    <string name="location_permission">위치: Google 지도와 같은 사이트에 필요합니다. 설정에서 기본적으로 비활성화되어 있지만 활성화 시 위치를 요구하는 사이트에서 확인창을 띄웁니다.\n\n</string>
-    <string name="force_cancel">강제 종료</string>
     <string name="restore_tabs_hint">최근 연 탭을 복원할까요?</string>
     <string name="restore_tabs">시작 시 탭 복원</string>
-    <string name="install_success">설치 성공!!!</string>
-    <string name="uninstall_success">제거 성공!!!</string>
     <string name="log_page_hint">차단 목록은 %1$s에 있습니다.\n목록을 변경하거나 특정 항목을 길게 눌러 차단하거나 허용할 수 있습니다.</string>
     <string name="fullscreen_1">스크롤하여 보이기/숨기기</string>
     <string name="fullscreen_2">클릭하여 보이기/숨기기</string>
     <string name="settings_script">스크립트</string>
-    <string name="get_more_script">더 많은 스크립트</string>
     <string name="add_script">스크립트 추가</string>
-    <string name="script_url">domain or * (* means all)</string>
     <string name="script_code">코드 (Javascript)</string>
     <string name="help_us_translate">번역 돕기</string>
     <string name="confirm_to_leave">나가기 전에 확인</string>
@@ -232,7 +202,6 @@
     <string name="stay">머무르기</string>
     <string name="skin_logo">로고</string>
     <string name="skin_bg">배경</string>
-    <string name="skin_style">스타일</string>
     <string name="set_it_as_homepage">홈페이지로 설정할까요?</string>
     <string name="missing_webview">Android System WebView가 설치되어 있지 않습니다. 지금 설치할까요?</string>
     <string name="install">설치</string>
@@ -240,7 +209,6 @@
     <string name="glean">Glean</string>
     <string name="contact_us">문의</string>
     <string name="official_website">공식 웹사이트</string>
-    <string name="background_opacity">배경 불투명도</string>
     <string name="action_pic_mode">그림 모드</string>
     <string name="find_next">다음 찾기</string>
     <string name="find_pre">이전 찾기</string>
@@ -251,7 +219,6 @@
     <string name="no_bookmark">북마크 없음</string>
     <string name="import_or_export_bookmarks">북마크 가져오기/내보내기</string>
     <string name="export_bookmarks">북마크 내보내기</string>
-    <string name="pull_to_refresh_gesture">당겨서 새로고침 제스처</string>
     <string name="back_forward_gesture">이전/다음 페이지 제스처</string>
     <string name="toolbar_settings_hint">길게 누르기 (밀기) 동작을 설정할 버튼을 누르세요. 현재 설정을 확인하려면 길게 누르세요.</string>
     <string name="action_modify">수정</string>
@@ -260,7 +227,6 @@
     <string name="disable">비활성화</string>
     <string name="ui_traditional">샌드위치</string>
     <string name="color_mode_hint">조작 바 색상 자동 조절</string>
-    <string name="skin_hide_search_part">검색 영역 숨기기</string>
     <string name="file_size">파일 크기: %1$s</string>
     <string name="search_by_image">이미지로 검색</string>
     <string name="resource_sniffer">리소스 가로채기</string>
@@ -298,7 +264,6 @@
     <string name="data_file">DataExport</string>
     <string name="bookmarks_data_to_long">북마크 데이터가 너무 커서 업로드할 수 없습니다. 다른 데이터는 정상적으로 업로드됩니다. 계속할까요?</string>
     <string name="restore_tabs_hint_settings">\"익명 모드\"에서는 탭이 복원되지 않습니다.</string>
-    <string name="ignore_secondary_ssl_error">보조 SSL 오류 무시</string>
     <string name="block_hint">차단: %1$s\n새로고침으로 반영하세요.</string>
     <string name="unblock_hint">차단 해제: %1$s\n새로고침으로 반영하세요.</string>
 </resources>

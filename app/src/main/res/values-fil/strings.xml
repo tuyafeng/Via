@@ -8,7 +8,6 @@
     <string name="action_share">I-Share</string>
     <string name="action_history">History</string>
     <string name="action_bookmarks">Mga bookmark</string>
-    <string name="bookmarks_file">I-export ang bookmark</string>
     <string name="action_add_bookmark">Idagdag sa bookmark</string>
     <string name="action_night">Madilim na tema</string>
     <string name="action_copy">Kopyahin ang link</string>
@@ -49,11 +48,6 @@
     <string name="title_warning">Babala</string>
     <string name="title_custom_homepage">Panibagong homepage</string>
     <string name="action_webpage">Webpage</string>
-    <string name="size_largest">Pinakamalaki</string>
-    <string name="size_large">Malaki</string>
-    <string name="size_normal">Normal</string>
-    <string name="size_small">Maliit</string>
-    <string name="size_smallest">Pinakamaliit</string>
     <string name="hint_title">Title</string>
     <string name="hint_url">URL</string>
     <string name="hint_folder">Folder</string>
@@ -76,12 +70,6 @@
     <string name="google_url">Google</string>
     <string name="sougou_url">Sogou</string>
     <string name="block_ads">Pagblock ng ads</string>
-    <string name="message_untrusted_certificate">Ang certificate ng site ay hindi pinagkakatiwalaan. Magpatuloy?</string>
-    <string name="message_date_invalid_certificate">Ang petsa ng certificate ng site na ito ay invalid. Magpatuloy?</string>
-    <string name="message_expired_certificate">Ang certificate ng site ay naexpired na. Magpatuloy?</string>
-    <string name="message_hostname_mismatch_certificate">Ang certificate ng site ay hindi tugma sa hostname. Magpatuloy?</string>
-    <string name="message_invalid_certificate">The certificate of the site is invalid. Proceed anyway?</string>
-    <string name="message_not_yet_valid_certificate">Ang certificate ng site na ito ay hindi valid. Magpatuloy?</string>
     <string name="title_form_resubmission">Muling pagsumite ng form</string>
     <string name="message_form_resubmission">Gusto mo bang muling isend ang data?</string>
     <string name="message_location">\nGusto mo bang gamitin ang lokasyon mo?</string>
@@ -137,16 +125,12 @@
     <string name="msg_delete_folder">Gusto mo bang i-delete ang folder na ito?</string>
     <string name="desc_suggestion">Payohan</string>
     <string name="desc_home">Home</string>
-    <string name="desc_tab">Tab</string>
     <string name="desc_menu">Menu</string>
-    <string name="desc_filedic">File</string>
     <string name="action_mark">Markahan bilang ad</string>
     <string name="dialog_confirm_mark">Gusto mo bang markahan ito bilang ad?</string>
     <string name="do_not_track">Huwag magtrack</string>
-    <string name="add_rule">Magdagdag ng filter</string>
     <string name="color_mode">Color mode</string>
     <string name="dialog_sure">Sigurado ka bang gusto mong magpatuloy?</string>
-    <string name="action_send_to_launcher">I-send sa launcher</string>
     <string name="settings_cloud">Account</string>
     <string name="user">Maglog in/sign up</string>
     <string name="user_syns">Sync</string>
@@ -176,8 +160,6 @@
     <string name="data_cookies">Cookies (Login status)</string>
     <string name="data_cleared">Data ay nabura</string>
 
-    <string name="sync_desc">Magagawa ang account kung ito\'y hindi nakita.</string>
-
     <string name="settings_skin">Customasyon</string>
     <string name="default_set">Default</string>
     <string name="picture">Picture</string>
@@ -185,10 +167,6 @@
     <string name="html_code">HTML code</string>
 
     <string name="action_view_image">Tingnan ang image</string>
-
-    <string name="skin_colorful">Colorful</string>
-    <string name="skin_fruity">Fruity</string>
-    <string name="skin_transparent">Transparent</string>
 
     <string name="block_popup">I-block ang pop-up</string>
 
@@ -211,21 +189,13 @@
     <string name="upload_prompt">Ang mga kasalukuyang local na bookmark ay iu-upload. Patuloy?</string>
     <string name="none">Wala</string>
     <string name="check_permission">Bigong makapermiso. Gusto mo bang iset mismo sa Settings?</string>
-    <string name="need_permission_hint">Via ay kailangan ng sumusunod na permiso upang gumana:\n\n</string>
-    <string name="storage_permission">Storage: para sa pagdownload ng mga file mula sa browser at pagimport/pagexport ng mga bookmark, etc.\n\n</string>
-    <string name="location_permission">Lokasyon: para sa mga site kagaya ng Google Maps, ito ay hindi ginagamit sa default. Kung gagamitin, mayroong popup na lalabas na nagtatanong kung ang site ba ay papayagang gumamit ng iyong lokasyon.\n\n</string>
-    <string name="force_cancel">Force close</string>
     <string name="restore_tabs_hint">Gusto mo bang ibalik ang mga hindi nasarang tabs galing sa huling sesyon?</string>
     <string name="restore_tabs">Ibalik ang mga tabs kapag startup</string>
-    <string name="install_success">Matagumpay ang instalasyon!</string>
-    <string name="uninstall_success">Matagumpay ang pag-uninstall!</string>
     <string name="log_page_hint">Blocked list ay nasa %1$s.\nIkaw ay pwedeng maka-edit ng listahan, or i-long press para sa mga sumusunod na item na i-enable/i-disable sa blockade.</string>
     <string name="fullscreen_1">I-scroll para itago/ipakita</string>
     <string name="fullscreen_2">Pindutin para itago/ipakita</string>
     <string name="settings_script">Mga Script</string>
-    <string name="get_more_script">Kumuha ng maraming scripts</string>
     <string name="add_script">Idagdag ang script</string>
-    <string name="script_url">Domain or * (* means  lahat)</string>
     <string name="script_code">Code (JavaScript)</string>
     <string name="help_us_translate">Tulongan mo kaming isalin sa ibang wika</string>
     <string name="confirm_to_leave">Kumpirmahin para makaalis</string>
@@ -233,7 +203,6 @@
     <string name="stay">Manatili</string>
     <string name="skin_logo">Logo</string>
     <string name="skin_bg">Background</string>
-    <string name="skin_style">Style</string>
     <string name="set_it_as_homepage">Gusto mo bang i-set ito bilang homepage?</string>
     <string name="missing_webview">Android System WebView ay hindi na-installed ng maayos. Gusto mo bang i-install ngayon?</string>
     <string name="install">I-install</string>
@@ -241,7 +210,6 @@
     <string name="glean">Glean</string>
     <string name="contact_us">Kontakin kami</string>
     <string name="official_website">Opisyal na website</string>
-    <string name="background_opacity">Opacity of background</string>
     <string name="action_pic_mode">Picture mode</string>
     <string name="find_next">Hanapin ang sunod</string>
     <string name="find_pre">Hanapin ang dulo</string>
@@ -252,7 +220,6 @@
     <string name="no_bookmark">Walang bookmarks</string>
     <string name="import_or_export_bookmarks">I-import/i-export ang bookmarks</string>
     <string name="export_bookmarks">I-export bookmarks</string>
-    <string name="pull_to_refresh_gesture">Pull-to-refresh gesture</string>
     <string name="back_forward_gesture">Back/Forward gesture</string>
     <string name="toolbar_settings_hint">Pindutin ang napiling button sa ibaba para maset ang kanyang long-press aksyon, or i-long press para i-check kung anong aksyon ang nakaset. Pwede mo ring i-slide ang toolbar para i-set ang slide aksyon.</string>
     <string name="action_modify">Ibahin</string>
@@ -261,7 +228,6 @@
     <string name="disable">Nadisabled</string>
     <string name="ui_traditional">Sandwich</string>
     <string name="color_mode_hint">Awtomatikong i-adjust color ng mga toolbar</string>
-    <string name="skin_hide_search_part">Itago ang search part</string>
     <string name="file_size">File size: %1$s</string>
     <string name="search_by_image">Hanapin gamit picture</string>
     <string name="resource_sniffer">Resource sniffer</string>
@@ -299,10 +265,8 @@
     <string name="data_file">Pagluwas ng data</string>
     <string name="bookmarks_data_to_long">Ang data ng mga bookmark ay sobrang laki para maupload ngunit ang ibang data ay matagumpay na naupload. Patuloy?</string>
     <string name="restore_tabs_hint_settings">Ang mga tab ay hindi marerestore kung ikaw ay naka-incognito.</string>
-    <string name="ignore_secondary_ssl_error">Pabayaan ang secondary SSL error</string>
     <string name="web_page_debug">I-enable webpage debugging</string>
     <string name="web_page_debug_info">Ngayong pwede mo na makonekta ang phone mo sa kompyuter, i-debug ang webpage gamit ang Chrome(PC) gamit ang \"chrome://inspect\". Tandaan na i-enable muna ang USB Debugging sa menu: More Tools > Developer Tools.</string>
-    <string name="no_download_tasks">Walang laman</string>
     <string name="action_re_download">I-download muli</string>
     <string name="action_copy_download_link">Kopyahin ang download link</string>
     <string name="download_failed">Nabigong madownload</string>
@@ -339,9 +303,7 @@
     <string name="custom_filter">Custom filter</string>
     <string name="add_filter_subscription">Magdagdag ng filter subscription</string>
     <string name="edit_filter_subscription">Mag-edit ng filter subscription</string>
-    <string name="updating_filter_subscriptions">Updating filter subscriptions</string>
     <string name="update_filter_subscriptions_completed">Filter subscriptions ay naupdate ng kompleto.</string>
-    <string name="update_filter_subscription_failed">Filter subscriptions ay nabigong maupdate.\n%1$s</string>
     <string name="has_not_been_updated">ay hindi pa updated</string>
     <string name="just_now">ngayon lang</string>
     <string name="url_is_invalid">Ang URL ay invalid.</string>
@@ -371,7 +333,6 @@
     <string name="privacy_policy">Privacy policy</string>
     <string name="terms_of_use">Tuntunin sa Paggamit</string>
     <string name="welcome">Maligayang pagdating</string>
-    <string name="agreement_message">Welcome sa Via. Pakibasa ng sumusunod na mga kasunduan bago gamitin ang Via. Kailangan mong makipagsundo at tanggapin lahat ng mga tuntunin at mga kondisyon bago mo simulang gamitin ang aming serbisyo.</string>
     <string name="agreement_message_short">Kailangan mong makipagsundo at tanggapin lahat ng mga tuntunin at mga kondisyon bago mo simulang gamitin ang aming serbisyo.</string>
     <string name="agree_and_continue">Sang-ayon</string>
     <string name="disagree">Hindi sang-ayon</string>
@@ -381,21 +342,13 @@
     <string name="delete_account_hint">Delete the account from the server</string>
     <string name="delete_account_message">Pagkatapos mong magsumite ng deletion request, ang account mo ay malolog-out at papasok sa 15-day deletion waiting-period.Kung maglologin ka muli at maguupload ng data habang nasa waiting-period, ang deletion request mo ay babawiin. Pagkatapos maexpire ang waiting-period, ang account mo at ibang data ay kompletong madedelete sa server.\nPakilagay ng iyong password para masumite ang request.</string>
     <string name="confirm_to_delete">Kompirmahin para madelete</string>
-    <string name="items_selected">%1d ang napili</string>
     <string name="select_all">Piliin lahat</string>
-    <string name="multi_choice">Multi-choice</string>
-    <plurals name="delete_download_tasks">
-        <item quantity="zero">Nadelete ang 0 na download task</item>
-        <item quantity="one">Nadelete ang 1 na download task</item>
-        <item quantity="other">Nadelete ang %d na download tasks</item>
-    </plurals>
     <string name="open_source_licenses">Open source licenses</string>
     <string name="debugging_info">Debugging Impormasyon</string>
     <string name="join_qq_group">Sumali sa QQ group</string>
     <string name="join_telegram_group">Sumali sa Telegram group</string>
     <string name="follow_me_on_twitter">I-follow ako sa Twitter</string>
     <string name="follow_me_on_weibo">I-follow ako sa Weibo</string>
-    <string name="version">Bersyon</string>
     <string name="paste_and_go">I-paste &amp; Go</string>
     <string name="night_filter_for_web_contents">Panggabing filter para sa web contents</string>
     <string name="force_dark_mode_for_web_contents">Pwersahang idilim para sa web contents</string>
@@ -412,7 +365,6 @@
     <string name="sort_by_alphabetical_order">Alphabetical na order</string>
     <string name="select_folder">Pillin ang folder</string>
     <string name="move">Move</string>
-    <string name="bookmarks_history">Mga Bookmark/History</string>
     <string name="done">Tapos na</string>
     <string name="root_folder">Root folder</string>
     <string name="delete_item_message">Sigurado ka bang i-delete itong %1$s?</string>
@@ -431,34 +383,22 @@
     <string name="stroke_width">Kalaparan ng border</string>
     <string name="stroke_opacity">Opacity ng Border</string>
     <string name="opacity">Opacity</string>
-    <string name="disable_website_icons">I-disable  ang mga website icon</string>
-    <string name="disable_icon_color">I-disable ang icon color</string>
     <string name="font_style">Font style</string>
     <string name="bold">Bold</string>
     <string name="italics">Italics</string>
     <string name="clear_website_icon_cache">Burahin ang website icon cache</string>
     <string name="clear_website_icon_cache_message">Tandaan na buburahin nito lahat ng mga paboritong icons sa homepage. Kada isang icon ay i-dodownload muli sa susunod mong pagbisita sa website.</string>
-    <string name="use_blur_instead_of_transparency">Gamitin ang blur effect kaysa transparency</string>
     <string name="desc_favorite_icon">Icon ng favorite</string>
-    <string name="script_remarks">Komento</string>
     <string name="action_save">I-save</string>
     <string name="reset_to_default_settings">I-reset sa default settings</string>
-    <string name="script_sites">Sites (kagaya ng *.foo.com,bar.*/list)</string>
-    <string name="simple_guide_of_writing_script">Ang script ba sinulat mo ay awtomatikong  eepekto kung ang website ay magloload.
-    \n\nSites(kinakailangan): Ang scripted site ay sumusuporta sa \"*\" wildcard, at multiple sites na pinaghiwalay ng \",\", for example: *.foo.com,bar.*/list.
-    \n\nKomento(opsyonal): Ginagamit sa title ng display.
-    \n\nCode(kinakailangan): Ito ay inerekomenda sa paggamit ng native Javascript. Pwede ring gumamit ng jquery o vue.js syntax kung ang website ay gumagamit ng ganoong frameworks. </string>
     <string name="save_data">I-save ang data</string>
     <string name="save_data_description">I-enable data-savings mode sa compatible websites</string>
-    <string name="use_line_style_search_box">Gumamit ng line style search box</string>
-    <string name="toast_script_added">Ang script ay matagumpay na naidagdag</string>
     <string name="action_manage_favorites">Favorite manager</string>
     <string name="check_for_updates">I-check kung may updates</string>
     <string name="checking_for_updates">Chinecheck kung may updates</string>
     <string name="latest_version_already_installed">Pinakabagong beryon ay nainstall na</string>
     <string name="new_version_available">May bagong version</string>
     <string name="action_download_file">I-download</string>
-    <string name="entered_full_screen_mode">Nakaenter na sa full screen mode</string>
     <string name="delete_hint">I-delete ang(%1$d)</string>
     <string name="follow_system_dark_mode_on">Sundin ang system dark mode is nakaenable</string>
     <string name="scoped_search">Hanapin ang %1$s</string>

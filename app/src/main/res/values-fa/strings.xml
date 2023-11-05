@@ -8,7 +8,6 @@
     <string name="action_share">اشتراک گذاری</string>
     <string name="action_history">تاریخچه</string>
     <string name="action_bookmarks">نشانک ها</string>
-    <string name="bookmarks_file">خروجی گرفتن از نشانک ها</string>
     <string name="action_add_bookmark">افزودن نشانک</string>
     <string name="action_night">حالت شب</string>
     <string name="action_copy">کپی کردن لینک</string>
@@ -49,11 +48,6 @@
     <string name="title_warning">اخطار</string>
     <string name="title_custom_homepage">صفحه اصلی شخصی سازی شده</string>
     <string name="action_webpage">صفحه وب</string>
-    <string name="size_largest">بزرگترین</string>
-    <string name="size_large">بزرگ</string>
-    <string name="size_normal">معمولی</string>
-    <string name="size_small">کوچک</string>
-    <string name="size_smallest">کوچک ترین</string>
     <string name="hint_title">عنوان</string>
     <string name="hint_url">نشانی اینترنتی</string>
     <string name="hint_folder">پوشه</string>
@@ -76,12 +70,6 @@
     <string name="google_url">Google</string>
     <string name="sougou_url">Sogou</string>
     <string name="block_ads">مسدود کردن تبلیغات</string>
-    <string name="message_untrusted_certificate">مدارک این سایت قابل اعتماد نیست. با این صورت ادامه میدهید؟</string>
-    <string name="message_date_invalid_certificate">تاریخ مدارک این سایت درست نیست. با این صورت ادامه میدهید؟</string>
-    <string name="message_expired_certificate">مدارک این سایت منقضی شده. با این حال ادامه میدهید؟</string>
-    <string name="message_hostname_mismatch_certificate">مدارک این سایت با نام هاست مطابق نیست. با این صورت ادامه میدهید؟.</string>
-    <string name="message_invalid_certificate">مدارک این سایت معتبر نیست. با این صورت ادامه میدهید؟</string>
-    <string name="message_not_yet_valid_certificate">مدارک این سایت هنوز معتبر نیست. با این حال ادامه میدهید؟</string>
     <string name="title_form_resubmission">ارسال مجدد فرم</string>
     <string name="message_form_resubmission">آیا مایل هستید اطلاعات دوباره ارسال شوند></string>
     <string name="message_location">\nمیخواهد از موقعیت مکانی شما استفاده کند</string>
@@ -137,16 +125,12 @@
     <string name="msg_delete_folder">آیا میخواهید این پوشه را حذف کنید؟</string>
     <string name="desc_suggestion">پیشنهادات</string>
     <string name="desc_home">خانه</string>
-    <string name="desc_tab">زبانه</string>
     <string name="desc_menu">منو</string>
-    <string name="desc_filedic">فایل</string>
     <string name="action_mark">نشان کردن به عنوان تبلیغ</string>
     <string name="dialog_confirm_mark">آیا میخواهید این را به عنوان تبلیغ نشانه گذاری کنید؟</string>
     <string name="do_not_track">ردیابی نکنید</string>
-    <string name="add_rule">اضافه کردن فیلتر</string>
     <string name="color_mode">حالت رنگی</string>
     <string name="dialog_sure">آیا میخواهید ادامه دهید؟</string>
-    <string name="action_send_to_launcher">ارسال به لانچر</string>
     <string name="settings_cloud">حساب</string>
     <string name="user">ورود / ثبت نام</string>
     <string name="user_syns">همگام سازی</string>
@@ -176,8 +160,6 @@
     <string name="data_cookies">کوکی ها</string>
     <string name="data_cleared">اطلاعات پاک شد</string>
 
-    <string name="sync_desc">اگر حساب موجود نباشید یک حساب جدید ساخته میشود.</string>
-
     <string name="settings_skin">شخصی سازی</string>
     <string name="default_set">پیش فرض</string>
     <string name="picture">تصویر</string>
@@ -185,10 +167,6 @@
     <string name="html_code">کد HTML</string>
 
     <string name="action_view_image">نمایش تصویر</string>
-
-    <string name="skin_colorful">رنگارنگ</string>
-    <string name="skin_fruity">میوه ای</string>
-    <string name="skin_transparent">شفاف</string>
 
     <string name="block_popup">مسدود کردن پاپ آپ</string>
 
@@ -211,21 +189,13 @@
     <string name="upload_prompt">تنظیمات و نشانک های فعلی شما ارسال میشود. ادامه میدهید؟</string>
     <string name="none">هیچ کدام</string>
     <string name="check_permission">دسترسی رد شد. آیا میخواهید از تنظیمات فعال کنید؟</string>
-    <string name="need_permission_hint">ویا برای کارکردن به دسترسی های زیر نیاز دارد:\n\n</string>
-    <string name="storage_permission">حافظه: برای  دانلود فایل و وارد کردن / صادر کردن نشانک ها و …\n\n</string>
-    <string name="location_permission">موفعیت مکانی: برای سابت هایی مثل نقشه گوگل, این عملکرد به صورت پیشفرض غیرفعال است. وقتی فعال شد, یک پنچره پاپ آپ به شما نمایش داده میشود و در خواست میکنید که اجازه بدهید.\n\n</string>
-    <string name="force_cancel">بستن اجباری</string>
     <string name="restore_tabs_hint">آیا می خواهید برگه های بسته نشده را از جلسه گذشته بازیابی کنید؟</string>
     <string name="restore_tabs">برگه ها را هنگام راه اندازی مجدد بازیابی کنید</string>
-    <string name="install_success">با موفقیت نصب شد!</string>
-    <string name="uninstall_success">با موفقیت حذف شد!</string>
     <string name="log_page_hint">لیست مسدود شده ها در %1$s است.\nمیتوانید لیست را ویرایش کنید, یا آیتم زیر را برای مدت طولانی لمس کنید تا مسدوده شده ها را فعال یا غیرفعال کنید.</string>
     <string name="fullscreen_1">پیمایش برای نمایش یا پنهان کردن</string>
     <string name="fullscreen_2">فشردن برای نمایش یا پنهان کردن</string>
     <string name="settings_script">اسکریپت ها</string>
-    <string name="get_more_script">دریافت اسکریپت های بیشتر</string>
     <string name="add_script">افزودن اسکریپت</string>
-    <string name="script_url">دامنه یا * (* یعنی همه)</string>
     <string name="script_code">کد (جاوااسکریپت)</string>
     <string name="help_us_translate">به ما در ترجمه کمک کنید</string>
     <string name="confirm_to_leave">برای ترک کردن تایید کنید</string>
@@ -233,7 +203,6 @@
     <string name="stay">ماندن</string>
     <string name="skin_logo">لوگو</string>
     <string name="skin_bg">پس زمینه</string>
-    <string name="skin_style">استایل</string>
     <string name="set_it_as_homepage">آیا میخواهید این را به عنوان صفحه اصلی تنظیم کنید؟</string>
     <string name="missing_webview">برنامه وب نما اندروید به درستی نصب نشده است. آیا مایل هستید الان نصب کنید؟</string>
     <string name="install">نصب</string>
@@ -241,7 +210,6 @@
     <string name="glean">جمع کن</string>
     <string name="contact_us">ارتباط با ما</string>
     <string name="official_website">وبسایت رسمی</string>
-    <string name="background_opacity">شفافیت پس زمینه</string>
     <string name="action_pic_mode">حالت تصویر</string>
     <string name="find_next">یافتن بعدی</string>
     <string name="find_pre">یافتن آخرین</string>
@@ -252,7 +220,6 @@
     <string name="no_bookmark">هیچ نشانکی موجود نیست</string>
     <string name="import_or_export_bookmarks">وارد کردن / صادر کردن نشانک ها</string>
     <string name="export_bookmarks">صادر کردن نشانک ها</string>
-    <string name="pull_to_refresh_gesture">حرکت کشیدن برای بازنشانی</string>
     <string name="back_forward_gesture">حرکت بازگشت / جلو رفتن</string>
     <string name="toolbar_settings_hint">یک دکمه را انتخاب کنید تا عملکرد فشار طولانی آن را تنظیم کنید, یا به مدت طولانی فشار دهید تا ببینید چه عملکردی تنظیم شده.</string>
     <string name="action_modify">تغییر</string>
@@ -261,7 +228,6 @@
     <string name="disable">غیرفعال شد</string>
     <string name="ui_traditional">ساندویچ</string>
     <string name="color_mode_hint">تنظیم خودکار رنگ نوار ابزارها</string>
-    <string name="skin_hide_search_part">پنهان کردن قسمت جستجو</string>
     <string name="file_size">%1$s :سایز فایل</string>
     <string name="search_by_image">جستجو با تصویر</string>
     <string name="resource_sniffer">منبع فروش</string>
@@ -299,10 +265,8 @@
     <string name="data_file">داده ها صادر شد</string>
     <string name="bookmarks_data_to_long">داده های نشانک ها برای ارسال خیلی بزرگ است, اما سایر داده ها به طور معمول بارگذاری می شوند. ادامه میدهید؟?</string>
     <string name="restore_tabs_hint_settings">شما ناشناس شدید. زبانه ها بازگردانی نمیشوند.</string>
-    <string name="ignore_secondary_ssl_error">نادیده گرفتن خطای ثانویه SSL</string>
     <string name="web_page_debug">فعال کردن دیباگ صفحات وب</string>
     <string name="web_page_debug_info">حالا میتوانید گوشی خود را به کامپیوتر متصل کنید, سپس در کروم (کامپیوتر) دیباگ کنید  با استفاده از \"chrome://inspect\". یادتان باشد اول حالت دیباگ با USB را از منو: ابزارهای بیشتر > ابزارهای توسعه دهنگان فعال کنید.</string>
-    <string name="no_download_tasks">خالی</string>
     <string name="action_re_download">دانلود مجدد</string>
     <string name="action_copy_download_link">کپی کردن لینک دانلود</string>
     <string name="download_failed">دانلود انجام نشد</string>
@@ -339,9 +303,7 @@
     <string name="custom_filter">فیلتر سفارشی</string>
     <string name="add_filter_subscription">اضافه کردن اشتراک فیلتر</string>
     <string name="edit_filter_subscription">ویرایش اشتراک فیلتر</string>
-    <string name="updating_filter_subscriptions">بروزرسانی اشتراک های فیلتر</string>
     <string name="update_filter_subscriptions_completed">بروزرسانی اشتراک های فیلتر انجام شد.</string>
-    <string name="update_filter_subscription_failed">بروزرسانی اشتراک های فیلتر انجام نشد.\n%1$s</string>
     <string name="has_not_been_updated">بروزرسانی نشده</string>
     <string name="just_now">به تازگی</string>
     <string name="url_is_invalid">نشانی اینترنتی نامعتبر است.</string>

@@ -8,7 +8,6 @@
     <string name="action_share">Podijeli</string>
     <string name="action_history">Povijest</string>
     <string name="action_bookmarks">Knjižne Oznake</string>
-    <string name="bookmarks_file">Izvezi Knjižne Oznake</string>
     <string name="action_add_bookmark">Dodaj Knjižnu Oznaku</string>
     <string name="action_night">Noćni Način</string>
     <string name="action_copy">Kopiraj Link</string>
@@ -48,11 +47,6 @@
     <string name="title_warning">Upozorenje</string>
     <string name="title_custom_homepage">Prilagođena Početna Stranica</string>
     <string name="action_webpage">Web Stranica</string>
-    <string name="size_largest">Najveće</string>
-    <string name="size_large">Velik</string>
-    <string name="size_normal">Normalno</string>
-    <string name="size_small">Malo</string>
-    <string name="size_smallest">Najmanje</string>
     <string name="hint_title">Naslov</string>
     <string name="hint_url">URL</string>
     <string name="hint_folder">Folder</string>
@@ -75,12 +69,6 @@
     <string name="google_url">Google</string>
     <string name="sougou_url">Sougou</string>
     <string name="block_ads">Blokiraj Reklame</string>
-    <string name="message_untrusted_certificate">Certifikat stranice nije siguran. Nastaviti svejedno?</string>
-    <string name="message_date_invalid_certificate">Datum certifikata stranice nije valjan. Nastaviti svejedno?</string>
-    <string name="message_expired_certificate">Certifikat stranice je istekao. Nastaviti svejedno?</string>
-    <string name="message_hostname_mismatch_certificate">Certifikat stranice se ne podudara sa imenom računala. Nastaviti svejedno?</string>
-    <string name="message_invalid_certificate">Certifikat stranice nije valjan. Nastaviti svejedno?</string>
-    <string name="message_not_yet_valid_certificate">Certifikat stranice još nije valjan. Nastaviti svejedno?</string>
     <string name="title_form_resubmission">Ponovno Slanje Forme</string>
     <string name="message_form_resubmission">Želite li ponovno poslati podatke?</string>
     <string name="message_location">\nŽelite li koristiti svoju lokaciju</string>
@@ -136,16 +124,12 @@
     <string name="msg_delete_folder">Izbriši ovaj folder?</string>
     <string name="desc_suggestion">prijedlozi</string>
     <string name="desc_home">početna</string>
-    <string name="desc_tab">kartica</string>
     <string name="desc_menu">izbornik</string>
-    <string name="desc_filedic">datoteka</string>
     <string name="action_mark">Označi kao reklamu</string>
     <string name="dialog_confirm_mark">Želite li označiti ovo kao reklamu?</string>
     <string name="do_not_track">Nemoj me pratiti</string>
-    <string name="add_rule">Dodaj Pravilo</string>
     <string name="color_mode">Način Boje</string>
     <string name="dialog_sure">Jeste li sigurni da želite ovo učiniti?</string>
-    <string name="action_send_to_launcher">Pošalji Launcher-u</string>
     <string name="settings_cloud">Račun</string>
     <string name="user">Prijavi se/Registriraj se</string>
     <string name="user_syns">Sinkroniziraj</string>
@@ -175,8 +159,6 @@
     <string name="data_cookies">Kolačići</string>
     <string name="data_cleared">Podaci očišćeni</string>
 
-    <string name="sync_desc">Račun će biti kreiran ako ne postoji.</string>
-
     <string name="settings_skin">Prilagodba</string>
     <string name="default_set">Zadano</string>
     <string name="picture">Slika</string>
@@ -184,10 +166,6 @@
     <string name="html_code">HTML Kod</string>
 
     <string name="action_view_image">Vidi Sliku</string>
-
-    <string name="skin_colorful">U boji</string>
-    <string name="skin_fruity">Voćni</string>
-    <string name="skin_transparent">Prozirno</string>
 
     <string name="block_popup">Blokiraj Pop-up</string>
 
@@ -209,21 +187,13 @@
     <string name="upload_prompt">Ovo će prenijet tvoje lokalne knjižne oznake i postavke. Nastaviti?</string>
     <string name="none">Ništa</string>
     <string name="check_permission">Pristup odbijen. Postavi ga sada u postavkama?</string>
-    <string name="need_permission_hint">Via treba sljedeće privilegije da bi radila:\n\n</string>
-    <string name="storage_permission">Pohrana: Za preuzimanje datoteka s pretraživača i uvoženje/izvoženje knjižnih oznaka, itd.\n\n</string>
-    <string name="location_permission">Lokacija: Za stranice kao što su Google Mape, onemogućena je u postavkama i prikaže pop-up tražeći korisnika da dopusti stranici koristiti njegovu lokaciju kada je uključena.\n\n</string>
-    <string name="force_cancel">Prisilno zatvori</string>
     <string name="restore_tabs_hint">Vrati kartice koje se nisu zatvorile od prošlog puta?</string>
     <string name="restore_tabs">Vrati Kartice na Pokretanju</string>
-    <string name="install_success">Instalacija Uspješna!!!</string>
-    <string name="uninstall_success">Deinstalacija Uspješna!!!</string>
     <string name="log_page_hint">Blokirana lista se nalazi u %1$s\nMožete listu urediti, ili držati duže stvari za blokirati ili ne.</string>
     <string name="fullscreen_1">Listaj da sakriješ/pokažeš</string>
     <string name="fullscreen_2">Klikni da sakriješ/pokažeš</string>
     <string name="settings_script">Skripte</string>
-    <string name="get_more_script">Dodaj još Skripti</string>
     <string name="add_script">Dodaj Skriptu</string>
-    <string name="script_url">domena ili * (* znači sve)</string>
     <string name="script_code">kod (Javascript)</string>
     <string name="help_us_translate">Pomozite nam prevesti</string>
     <string name="confirm_to_leave">Potvrdite napuštanje</string>
@@ -231,7 +201,6 @@
     <string name="stay">Ostani</string>
     <string name="skin_logo">Logo</string>
     <string name="skin_bg">Pozadina</string>
-    <string name="skin_style">Stil</string>
     <string name="set_it_as_homepage">Postavi kao Početnu Stranicu?</string>
     <string name="missing_webview">Android System WebView nije dobro instaliran. Želite li ga instalirati sada?</string>
     <string name="install">Install</string>
@@ -239,7 +208,6 @@
     <string name="glean">Glean</string>
     <string name="contact_us">Kontaktiraj nas</string>
     <string name="official_website">Službena stranica</string>
-    <string name="background_opacity">Prozirnost pozadine</string>
     <string name="action_pic_mode">Način Slike</string>
     <string name="find_next">Pronađi sljedeći</string>
     <string name="find_pre">Pronađi zadnji</string>
@@ -250,7 +218,6 @@
     <string name="no_bookmark">Bez knjižnih oznaka~</string>
     <string name="import_or_export_bookmarks">Import/Export bookmarks</string>
     <string name="export_bookmarks">Izvezi knjižne oznake</string>
-    <string name="pull_to_refresh_gesture">Povuci da osvježiš Geste</string>
     <string name="back_forward_gesture">Nazad Naprijed Gesta</string>
     <string name="toolbar_settings_hint">Klikni sljedeće dugme, da bi postavili dugo držanje (listanje) i kliknite te dugo držite da se uvjerite da je postavljeno.</string>
     <string name="action_modify">Izmjeni</string>
@@ -259,7 +226,6 @@
     <string name="disable">Onemogući</string>
     <string name="ui_traditional">Sendvić</string>
     <string name="color_mode_hint">Automatski prilagodi boju operacija na rešetci</string>
-    <string name="skin_hide_search_part">Hide Search Part</string>
     <string name="file_size">Veličina datoteke: %1$s</string>
     <string name="search_by_image">Traži po Slici</string>
     <string name="resource_sniffer">Resource sniffer</string>
@@ -297,10 +263,8 @@
     <string name="data_file">Izvoz Podataka</string>
     <string name="bookmarks_data_to_long">Podaci knjižnih oznaka su preveliki za prenijeti, ali ostali podaci će biti noramlno preneseni. Nastaviti?</string>
     <string name="restore_tabs_hint_settings">Kartice neće biti vraćene kada si u \"Inkognito Načinu\"</string>
-    <string name="ignore_secondary_ssl_error">Ignoriraj drugu SSL grešku</string>
     <string name="web_page_debug">Omogući ispravljanje grešaka na stranici</string>
     <string name="web_page_debug_info">Sada možeš spojiti mobitel na računalo, onda pronaći grešku web stranice sa Chrome-om(PC) koristeći \"chrome://inspect\". Ne zaboravite prvo uključiti USB Ispravljanje Grešaka u Postavke > Opcije za razvojne programere</string>
-    <string name="no_download_tasks">Isprazni</string>
     <string name="action_re_download">Ponovno Preuzmi</string>
     <string name="action_copy_download_link">Kopiraj poveznicu preuzimanja</string>
     <string name="download_failed">Preuzimanje nije uspjelo</string>

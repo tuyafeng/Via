@@ -8,7 +8,6 @@
     <string name="action_share">Udostępnij link</string>
     <string name="action_history">Historia</string>
     <string name="action_bookmarks">Zakładki</string>
-    <string name="bookmarks_file">zakładki</string>
     <string name="action_add_bookmark">Dodaj zakładkę</string>
     <string name="action_night">Tryb nocny</string>
     <string name="action_copy">Skopiuj adres linku</string>
@@ -49,11 +48,6 @@
     <string name="title_warning">Ostrżeżenie</string>
     <string name="title_custom_homepage">Własna strona</string>
     <string name="action_webpage">Własna strona</string>
-    <string name="size_largest">Bardzo duży</string>
-    <string name="size_large">Duży</string>
-    <string name="size_normal">Normalny</string>
-    <string name="size_small">Mały</string>
-    <string name="size_smallest">Bardzo mały</string>
     <string name="hint_title">Tytuł</string>
     <string name="hint_url">Adres</string>
     <string name="hint_folder">Folder</string>
@@ -76,12 +70,6 @@
     <string name="google_url">Google</string>
     <string name="sougou_url">Sougou</string>
     <string name="block_ads">Blokowanie reklam</string>
-    <string name="message_untrusted_certificate">Certyfikat strony nie jest zaufany. Kontynuować?</string>
-    <string name="message_date_invalid_certificate">Data certyfikatu strony jest nieprawidłowa. Kontynuować?</string>
-    <string name="message_expired_certificate">Certyfikat strony wygasł. Kontynuować?</string>
-    <string name="message_hostname_mismatch_certificate">Nazwa hosta nie zgadza się z tą z certyfikatu strony. Kontynuować?</string>
-    <string name="message_invalid_certificate">Certyfikat strony jest nieprawidłowy. Kontynuować?</string>
-    <string name="message_not_yet_valid_certificate">Certyfikat strony nie jest jeszcze ważny. Kontynuować?</string>
     <string name="title_form_resubmission">Ponowne wysłanie danych</string>
     <string name="message_form_resubmission">Wysłać ponownie dane?</string>
     <string name="message_location">\n chce użyć Twojej lokalizacji</string>
@@ -137,16 +125,12 @@
     <string name="msg_delete_folder">Usunąć folder?</string>
     <string name="desc_suggestion">sugestie</string>
     <string name="desc_home">strona domowa</string>
-    <string name="desc_tab">karta</string>
     <string name="desc_menu">menu</string>
-    <string name="desc_filedic">plik</string>
     <string name="action_mark">Oznacz jako reklamę</string>
     <string name="dialog_confirm_mark">Oznaczyć to jako reklamę?</string>
     <string name="do_not_track">Nie śledź mnie</string>
-    <string name="add_rule">Stwórz regułę</string>
     <string name="color_mode">Kolorowe paski</string>
     <string name="dialog_sure">Na pewno?</string>
-    <string name="action_send_to_launcher">Utw. skrót na pulpicie</string>
     <string name="settings_cloud">Konto</string>
     <string name="user">Zaloguj / zarejestruj się</string>
     <string name="user_syns">Synchronizuj dane</string>
@@ -177,16 +161,15 @@
     <string name="data_storage">Dane witryn</string>
     <string name="data_cookies">Ciasteczka</string>
     <string name="data_cleared">Usunięto dane.</string>
-    <string name="sync_desc">Jeśli konto nie istnieje, zostanie utworzone.</string>
     <string name="settings_skin">Ekran startowy</string>
     <string name="default_set">Dom.</string>
     <string name="picture">Obraz</string>
     <string name="text">Tekst</string>
     <string name="html_code">Kod HTML</string>
-    <string name="action_view_image">Pokaż obraz</string>
-    <string name="skin_colorful">Kanciasty</string>
-    <string name="skin_fruity">Zaokrąglony</string>
-    <string name="skin_transparent">Przezrocz.</string>
+    <string name="action_view_image">Pokaż obraz</string><![CDATA[
+
+    
+    ]]>
     <string name="block_popup">Blokuj wyskakujące okna</string>
     <string name="action_save_web_page">Zapisz stronę</string>
     <string name="action_saved_pages">Zapisane strony</string>
@@ -200,25 +183,21 @@
     <string name="sync_prompt">Lokalne zakładki i ustawienia zostaną nadpisane. Kontynuować?</string>
     <string name="upload_prompt">Obecne zakładki i ustawienia zostaną wysłane. Kontynuować?</string>
     <string name="none">Nic</string>
-   <string name="check_permission">Nie przyznano (niektórych) uprawnień. Ustawić je w ustawieniach systemowych?</string>
-    <string name="need_permission_hint">Via potrzebuje następujących uprawnień do prawidłowej pracy:\n\n</string>
-    <string name="storage_permission">Pamięć: aby móc pobierać pliki oraz eksportować zakładki.\n\n</string>
-    <string name="location_permission">Lokalizacja: dla stron typu Mapy Google. Domyślnie jest ono wyłączone. Jeśli jest włączone, w razie potrzeby zostanie wyświetlone powiadomienie, czy strona może użyć Twojej lokalizacji.\n\n</string><![CDATA[
+   <string name="check_permission">Nie przyznano (niektórych) uprawnień. Ustawić je w ustawieniach systemowych?</string><![CDATA[
+
+
+
     
+
     ]]>
-    <string name="force_cancel">Anuluj</string>
     <string name="restore_tabs_hint">Przywrócić niezamknięte ostatnio karty?</string>
     <string name="restore_tabs">Przywracaj karty po uruchomieniu</string>
-    <string name="install_success">Zainstalowano.</string>
-    <string name="uninstall_success">Odinstalowano.</string>
     <string name="log_page_hint">Możesz skopiować następujący link lub domenę i wkleić do %1$s, aby zablokować ich ładowanie.</string><![CDATA[
        ]]>
    <string name="fullscreen_1">Przewinięciem</string>
     <string name="fullscreen_2">Kliknięciem</string>
     <string name="settings_script">Skrypty</string>
-    <string name="get_more_script">Pobierz</string>
     <string name="add_script">Stwórz skrypt</string>
-    <string name="script_url">Domena / zakres domen (*)</string>
     <string name="script_code">Kod (JavaScript)</string>
     <string name="help_us_translate">Przetłumacz aplikację</string>
     <string name="confirm_to_leave">Potwierdź</string>
@@ -226,15 +205,13 @@
     <string name="stay">Zostań</string>
     <string name="skin_logo">Logo</string>
     <string name="skin_bg">Tło</string>
-    <string name="skin_style">Styl paska</string>
-   <string name="set_it_as_homepage">Ustawić jako stronę domową?</string>
+    <string name="set_it_as_homepage">Ustawić jako stronę domową?</string>
     <string name="missing_webview">Systemowy moduł WebView nie jest (poprawnie) zainstalowany. Zainstalować go (ponownie)?</string>
     <string name="install">Instaluj</string>
     <string name="crash_hint">Przepraszamy za incydent.</string>
     <string name="glean">Przeglądarka Via</string>
     <string name="contact_us">Skontaktuj się z nami</string>
     <string name="official_website">Oficjalna strona</string>
-    <string name="background_opacity">Przezroczystość tła</string>
     <string name="action_pic_mode">Tryb obrazkowy</string>
     <string name="find_next">Następny</string>
     <string name="find_pre">Poprzedni</string>
@@ -245,7 +222,6 @@
     <string name="no_bookmark">Brak zakładek</string>
     <string name="import_or_export_bookmarks">Importuj / eksportuj zakładki</string>
     <string name="export_bookmarks">Eksportuj</string>
-    <string name="pull_to_refresh_gesture">Pociągnięcie w celu odświeżenia strony</string>
     <string name="back_forward_gesture">Gest przechodzenia wstecz / dalej</string>
     <string name="toolbar_settings_hint">Kliknij (przeciągnij) poniższe przyciski, aby ustawić działanie po ich przytrzymaniu (przeciągnięciu). Przytrzymaj, aby zobaczyć ich obecne ustawienie.</string>
     <string name="action_modify">Modyfikuj</string>
@@ -259,7 +235,6 @@
 
 
        ]]>
-    <string name="skin_hide_search_part">Ukryj pasek wyszukiwarki</string>
     <string name="file_size">Rozmiar pliku: %1$s</string>
     <string name="search_by_image">Szukaj wg tego obrazu</string>
     <string name="resource_sniffer">Zasoby strony</string>
@@ -297,10 +272,8 @@
     <string name="data_file">dane</string>
     <string name="bookmarks_data_to_long">Dane zakładek są za duże do przesłania, ale inne dane zostaną przesłane. Kontynuować?</string>
     <string name="restore_tabs_hint_settings">Kiedy jesteś w trybie prywatnym, nie zostaną przywrócone żadne karty.</string>
-    <string name="ignore_secondary_ssl_error">Ignoruj błędy SSL</string>
     <string name="web_page_debug">Debugowanie stron</string>
     <string name="web_page_debug_info">Możesz podłączyć urządzenie do komputera i debugować strony przez Chrome\'a (PC), używając adresu \"chrome://inspect\". Pamiętaj, aby przedtem włączyć Debugowanie USB (Ustawienia > Opcje programistyczne).</string>
-    <string name="no_download_tasks">Cicho wszędzie,\ngłucho wszędzie&#8230;</string>
     <string name="action_re_download">Pobierz ponownie</string>
     <string name="action_copy_download_link">Skopiuj link</string>
     <string name="download_failed">Nie pobrano pliku.</string>
@@ -337,9 +310,7 @@
     <string name="custom_filter">Nowy filtr</string>
     <string name="add_filter_subscription">Nowa lista filtrów</string>
     <string name="edit_filter_subscription">Edytuj listę filtrów</string>
-    <string name="updating_filter_subscriptions">Aktualizowanie list filtrów&#8230;</string>
     <string name="update_filter_subscriptions_completed">Zaktualizowano listy filtrów.</string>
-    <string name="update_filter_subscription_failed">Nie zaktualizownao list filtrów (%1$s).</string>
     <string name="has_not_been_updated">nieaktualna</string>
     <string name="just_now">przed chwilą</string>
     <string name="url_is_invalid">Nieprawidłowy adres URL.</string>
@@ -369,7 +340,6 @@
     <string name="privacy_policy">Polityka prywatności</string>    
     <string name="terms_of_use">Warunki korzystania</string>
     <string name="welcome">Witamy</string>
-    <string name="agreement_message">Zanim zaczniesz korzystać z aplikacji, zapoznaj się z poniższymi dokumentami. Aby kontynuować, zaakceptuj to, co jest w nich zawarte.</string>
     <string name="agreement_message_short">Zaakceptuj treść poniższych dokumentów, aby kontynuować.</string>
     <string name="agree_and_continue">Akceptuję</string>
     <string name="disagree">Nie akceptuję</string>
@@ -379,22 +349,13 @@
     <string name="delete_account_hint">Usuń konto z serwera</string>
     <string name="delete_account_message">Po przesłaniu prośby o usunięcie konta nastąpi wylogowanie z niego, a następnie zostanie ono wprowadzone w 15-dniowy stan hibernacji. Jeśli w tym czasie się na nie zalogujesz, proces zostanie anulowany. Gdy okres hibernacji minie, konto i wszelkie znajdujące się na nim dane zostaną usunięte.\nWprowadź hasło, aby przesłać prośbę.</string>
     <string name="confirm_to_delete">Potwierdź usunięcie</string>
-    <string name="items_selected">%1d</string>
     <string name="select_all">Zaznacz wsz.</string>
-    <string name="multi_choice">Zaznacz</string>
-    <plurals name="delete_download_tasks">
-        <item quantity="one">Usunięto 1 zadanie pobierania</item>
-        <item quantity="few">Usunięto %d zadania pobierania</item>
-        <item quantity="other">Usunięto %d zadań pobierania</item>
-        <item quantity="many">Usunięto %d zadań pobierania</item>
-    </plurals>
     <string name="open_source_licenses">Licencje Open source</string>
     <string name="debugging_info">Szczegóły</string>
     <string name="join_qq_group">Grupa na QQ</string>
     <string name="join_telegram_group">Grupa na Telegramie</string>
     <string name="follow_me_on_twitter">Profil na Twitterze</string>
     <string name="follow_me_on_weibo">Profil na Weibo</string>
-    <string name="version">Wersja</string>
     <string name="paste_and_go">Wklej i przejdź</string>
     <string name="night_filter_for_web_contents">Poziom przyciemnienia stron</string>
     <string name="force_dark_mode_for_web_contents">Wymuszaj ciemny motyw zawartości stron</string>
@@ -411,7 +372,6 @@
     <string name="sort_by_alphabetical_order">Alfabetycznie</string>
     <string name="select_folder">Wybierz folder</string>
     <string name="move">Przenieś</string>
-    <string name="bookmarks_history">Zakładki / historia</string>
     <string name="done">Zrobione</string>
     <string name="root_folder">Folder główny</string>
     <string name="delete_item_message">Usunąć \"%1$s\"?</string>
@@ -430,34 +390,22 @@
     <string name="stroke_width">Grubość krawędzi</string>
     <string name="stroke_opacity">Przezr. krawędzi</string>
     <string name="opacity">Przezr.</string>
-    <string name="disable_website_icons">Wyłącz ikony stron</string>
-    <string name="disable_icon_color">Wyłącz tło ikon</string>
     <string name="font_style">Styl czcionki</string>
     <string name="bold">Pogrubiona</string>
     <string name="italics">Pochyła</string>
     <string name="clear_website_icon_cache">Wyczyść pam. podr. ikon stron</string>
     <string name="clear_website_icon_cache_message">Usunięte zostaną wszystkie ikony ulubionych na stronie głównej. Każda ikona zostanie ponownie pobrana przy wizycie na odpowiadającej jej stronie.</string>
-    <string name="use_blur_instead_of_transparency">Używaj rozmycia zamiast przezroczystości</string>
     <string name="desc_favorite_icon">Ikona ulubionej strony</string>
-    <string name="script_remarks">Uwagi</string>
     <string name="action_save">Zapisz</string>
     <string name="reset_to_default_settings">Zresetuj do ust. domyślnych</string>
-    <string name="script_sites">Strony (np. *.foo.com,bar.*/list)</string>
-    <string name="simple_guide_of_writing_script">Napisany skrypt zacznie działać automatycznie po załadowaniu strony.
-    \n\nStrony (wymagane): Obszar działania skryptu. Zakres stron można poszerzyć gwiazdką, a kolejne oddzielić przecinkiem, np. *.foo.com,bar.*/list.
-    \n\Uwagi (opcjonalne): Używane np. jako nazwa skryptu.
-    \n\nKod (wymagane): Zalecane jest używanie natywnego JavaScriptu. Możesz też używać składni jquery lub vue.js, jeśli strona korzysta z tych frameworków.</string>
     <string name="save_data">Oszczędzanie danych</string>
     <string name="save_data_description">Włącz tryb oszczędzania danych na kompatybilnych stronach.</string>
-    <string name="use_line_style_search_box">Pole z linią zamiast ramki</string>
-    <string name="toast_script_added">Skrypt został dodany.</string>
     <string name="action_manage_favorites">Menedżer ulubionych</string>
     <string name="check_for_updates">Sprawdź aktualizacje</string>
     <string name="checking_for_updates">Sprawdzam aktualizacje</string>
     <string name="latest_version_already_installed">Korzystasz z najnowszej wersji</string>
     <string name="new_version_available">Dostępna nowa wersja</string>
     <string name="action_download_file">Pobierz</string>
-    <string name="entered_full_screen_mode">Przejście do trybu pełnoekranowego</string>
     <string name="delete_hint">Usuń (%1$d)</string>
     <string name="follow_system_dark_mode_on">Śledzenie systemowego trybu ciemnego włączone</string>
     <string name="scoped_search">Wyszukaj %1$s</string>
@@ -516,7 +464,6 @@
     <string name="continue_loading">Kontynuuj ładowanie</string>
     <string name="allow_webpage_access_to_clipboard">Dostęp stron do schowka</string>
     <string name="ask_to_allow_webpage_to_copy_text">Skopiować tekst z %DOMAIN%?</string>
-    <string name="ask_to_allow_webpage_to_paste_text">Wkleić tekst do %DOMAIN%?</string>
     <string name="option_allow">Zezwól</string>
     <string name="option_deny">Odmów</string>
     <string name="search_bar_style">Styl paska</string>
@@ -534,7 +481,6 @@
     <string name="search_part">Pasek wysz.</string>
     <string name="search_part_hide">Wył.</string>
     <string name="search_part_show">Wł.</string>
-    <string name="image_preference">Rodzaj tła</string>
     <string name="background_color">Kolor</string>
     <string name="background_image">Obraz</string>
     <string name="favorites_clear_icons">Wyczyść ikony</string>
@@ -542,10 +488,6 @@
     <string name="theme_color">Motyw</string>
     <string name="theme_color_dark">Ciemny</string>
     <string name="theme_color_light">Jasny</string>
-    <string name="uninstall_script">Odinstaluj skrypt</string>
-    <string name="uninstall_script_message">Odinstalować skrypt \"%1$s\"?</string>
-    <string name="install_script">Instaluj skrypt</string>
-    <string name="install_script_message">Zainstalować skrypt \"%1$s\"?</string>
     <string name="processing_blob_data">Przetwarzanie blobów…</string>
     <string name="tineye_url">TinEye</string>
     <string name="login_username">Nazwa użytkownika (jeśli konto nie istnieje, zostanie utworzone)</string>
@@ -561,15 +503,11 @@
     <string name="download_action_resume">Wznów</string>
     <string name="app_downloading_files">Via pobiera pliki</string>
     <string name="app_downloading_files_subtitle">Dotknij, aby zobaczyć postępy</string>
-    <string name="download_failed_with_code">Pobieranie nie powiodło się: %1$s (%2$d)</string>
     <string name="built_in_download_manager">Wbudowany</string>
     <string name="cancel_all">Anuluj wszystko</string>
     <string name="message_delete_selected_download_tasks">Usunąć te zadania (łącznie %1$d)?</string>
     <string name="file_name">Nazwa pliku</string>
     <string name="rename">Zmień nazwę</string>
-    <string name="download_error_file_io">Błąd wejścia/wyjścia</string>
-    <string name="download_error_network">Błąd sieci</string>
-    <string name="download_error_unknown">Nieznany błąd</string>
     <string name="message_re_download">Usunąć pobrany plik i pobrać ponownie %1$s?</string>
     <string name="share_image">Udostępnij obraz</string>
     <string name="ssl_warning_insecure_connection_message">Połączenie z %1$s nie jest bezpieczne:\n%2$s\nKontynuować?</string>
@@ -762,7 +700,6 @@
     <string name="blocked">Blokuj</string>
     <string name="allowed">Zezwól</string>
     <string name="exception">Wyjątki</string>
-    <string name="Exception">Wyjątki</string>
     <string name="block">Zablokuj</string>
     <string name="allow">Zezwól</string>
     <string name="all_sites">Wszystkie strony</string>
@@ -797,8 +734,6 @@
     <string name="camera_ask_first_description">Zapytaj przed zezwoleniem</string>
     <string name="microphone">Mikrofon</string>
     <string name="microphone_ask_first_description">Zapytaj przed zezwoleniem</string>
-    <string name="having_trouble_exporting_data">Problemy z eksportem danych?</string>
-    <string name="having_trouble_exporting_data_message">Jeśli nie możesz zapisać danych w pożądanym miejscu, to zrób to w folderze %1$s. Kontynuować?</string>
     <string name="on">Wł.</string>
     <string name="off">Wył.</string>
     <string name="default_description">%1$s (opcja domyślna)</string>
@@ -807,8 +742,6 @@
     <string name="load_skin">Wczytaj skórkę</string>
     <string name="load_skin_failed">Nie udało się wczytać skórki</string>
     <string name="skin_changed">Skórka zmieniona</string>
-    <string name="desktop_mode_on">Tryb pulpitu wł.</string>
-    <string name="desktop_mode_off">Tryb pulpitu wył.</string>
     <string name="import_script_from_url">Zaimportuj skrypt z adresu URL</string>
     <string name="import_script_from_file">Zaimportuj skrypt z pliku</string>
     <string name="script_invalid">Nieprawidłowy skrypt</string>

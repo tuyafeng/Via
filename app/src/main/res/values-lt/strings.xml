@@ -8,7 +8,6 @@
     <string name="action_share">Dalintis</string>
     <string name="action_history">Istorija</string>
     <string name="action_bookmarks">Žymės</string>
-    <string name="bookmarks_file">Eksportuoti žymes</string>
     <string name="action_add_bookmark">Pridėti žymę</string>
     <string name="action_night">Naktinis režimas</string>
     <string name="action_copy">Kopijuoti</string>
@@ -48,11 +47,6 @@
     <string name="title_warning">Įspėjimas</string>
     <string name="title_custom_homepage">Pasirinktinis pagrindinis puslapis</string>
     <string name="action_webpage">Puslapis</string>
-    <string name="size_largest">Didžiausias</string>
-    <string name="size_large">Didelis</string>
-    <string name="size_normal">Normalus</string>
-    <string name="size_small">Mažas</string>
-    <string name="size_smallest">Mažiausias</string>
     <string name="hint_title">Pavadinimas</string>
     <string name="hint_url">URL</string>
     <string name="hint_folder">Aplankas</string>
@@ -75,12 +69,6 @@
     <string name="google_url">Google</string>
     <string name="sougou_url">Sougou</string>
     <string name="block_ads">Blokuoti reklamas</string>
-    <string name="message_untrusted_certificate">Šio puslapio sertifikatas yra nepatikimas. Tęsti toliau?</string>
-    <string name="message_date_invalid_certificate">Šio puslapio sertifikato data yra neteisinga. Tęsti toliau?</string>
-    <string name="message_expired_certificate">Šio puslapio sertifikatas nebegalioja. Tęsti toliau?</string>
-    <string name="message_hostname_mismatch_certificate">Šio puslapio sertifikatas nesutampa su pavadinimu. Tęsti toliau?</string>
-    <string name="message_invalid_certificate">Šio puslapio sertifikatas yra netinkamas. Tęsti toliau?</string>
-    <string name="message_not_yet_valid_certificate">Šiuo metu šio puslapio sertifikatas yra netinkamas. Tęsti toliau?</string>
     <string name="title_form_resubmission">Pakartotinis anketos pateikimas</string>
     <string name="message_form_resubmission">Ar jūs norėtumėte dar kartą persiųsti anketą?</string>
     <string name="message_location">\n Norėtų sužinoti jūsų buvimo vietą</string>
@@ -136,16 +124,12 @@
     <string name="msg_delete_folder">Panaikinti?</string>
     <string name="desc_suggestion">Pasiūlymas</string>
     <string name="desc_home">Pagrindinis puslapis</string>
-    <string name="desc_tab">Skirtukas</string>
     <string name="desc_menu">Meniu</string>
-    <string name="desc_filedic">Failas</string>
     <string name="action_mark">Pažymėti kaip reklamą</string>
     <string name="dialog_confirm_mark">Ar norite tą dalyką pažymėti kaip reklamą?</string>
     <string name="do_not_track">Nesekti</string>
-    <string name="add_rule">Pridėti taisyklę</string>
     <string name="color_mode">Spalvotas režimas</string>
     <string name="dialog_sure">Ar jūs tikrai norite tai padaryti?</string>
-    <string name="action_send_to_launcher">Nusiųsti į paleidimo priemonę</string>
     <string name="settings_cloud">Paskyra</string>
     <string name="user">Prisijungti/sukurti paskyrą</string>
     <string name="user_syns">Sinchronizuoti</string>
@@ -175,8 +159,6 @@
     <string name="data_cookies">Slapukai</string>
     <string name="data_cleared">Duomenys išvalyti</string>
 
-    <string name="sync_desc">Jeigu tokios paskyros nebus, bus sukurta nauja</string>
-
     <string name="settings_skin">Išvaizdos nustatymai</string>
     <string name="default_set">Pagrindinis</string>
     <string name="picture">Nuotrauka</string>
@@ -184,10 +166,6 @@
     <string name="html_code">Html Kodas</string>
 
     <string name="action_view_image">Žiūrėti paveikslėlį</string>
-
-    <string name="skin_colorful">Apvalus</string>
-    <string name="skin_fruity">Kvadratinis</string>
-    <string name="skin_transparent">Permatomas</string>
 
     <string name="block_popup">Blokuoti iššokančius langus</string>
 
@@ -210,21 +188,13 @@
     <string name="upload_prompt">Tai išsiųs dabartines žymes ir nustatymus. Tęsti?</string>
     <string name="none">Tuščia</string>
     <string name="check_permission">Leidimas negautas. Nustatyti nustatymuose?</string>
-    <string name="need_permission_hint">Via\'i gali prireikti šių leidimų:\n\n</string>
-    <string name="storage_permission">Vidinė atmintis: atsisiuntimams, žymių importavimui/eksportavimui ir t.t.\n\n</string>
-    <string name="location_permission">Vietos prieiga: puslapiams kaip Google Maps\n\n</string>
-    <string name="force_cancel">Priverstinai uždaryti</string>
     <string name="restore_tabs_hint">Grąžinti neuždarytus skirtukus iš praėjusios naršymo sesijos?</string>
     <string name="restore_tabs">Automatiškai grąžinti neuždarytus skirtukus iš praėjusios naršymo sesijos</string>
-    <string name="install_success">Instaliavimas sėkmingas!!!</string>
-    <string name="uninstall_success">Ištrynimas sėkmingas!!!</string>
     <string name="log_page_hint">Užblokuotų sąrašą galite surasti %1$s\nJūs galite redaguoti sąrašą, arba paspausti ir palaikyti tą daiktą kurį norite (at)blokuoti.</string>
     <string name="fullscreen_1">Slenkant puslapiu, bus rodoma/slėpiama</string>
     <string name="fullscreen_2">Paspausti rodymui/slėpimui</string>
     <string name="settings_script">Papildiniai</string>
-    <string name="get_more_script">Pridėti daugiau papildinių</string>
     <string name="add_script">Pridėti papildinį</string>
-    <string name="script_url">Domenas ar * (*reiškia visi)</string>
     <string name="script_code">Kodas (Javascript)</string>
     <string name="help_us_translate">Padėkite versti</string>
     <string name="confirm_to_leave">Patvirtinkite, kad norite išeiti</string>
@@ -232,7 +202,6 @@
     <string name="stay">Pasilikti</string>
     <string name="skin_logo">Logotipas</string>
     <string name="skin_bg">Fonas</string>
-    <string name="skin_style">Stilius</string>
     <string name="set_it_as_homepage">Nustatyti kaip pagrindiniu puslapiu</string>
     <string name="missing_webview">Android WebView yra neteisingai įdiegtas. Ar norite jį įdiegti?</string>
     <string name="install">Įrašyti</string>
@@ -240,7 +209,6 @@
     <string name="glean">Greita ir Maža</string>
     <string name="contact_us">Susisiekti su mumis</string>
     <string name="official_website">Oficialus puslapis</string>
-    <string name="background_opacity">Fono permatomumas</string>
     <string name="action_pic_mode">Paveikslėlio režimas</string>
     <string name="find_next">Surasti sekantį</string>
     <string name="find_pre">Surasti buvusį</string>
@@ -251,7 +219,6 @@
     <string name="no_bookmark">Žymių nėra</string>
     <string name="import_or_export_bookmarks">Importuoti/eksportuoti žymes</string>
     <string name="export_bookmarks">Eksportuoti žymes</string>
-    <string name="pull_to_refresh_gesture">Patraukti žemyn puslapio perkrovimui</string>
     <string name="back_forward_gesture">Pirmyn/atgal gestai</string>
     <string name="toolbar_settings_hint">Paspaudus mygtuką galima nustatyti jo ilgo paspaudimo reikšmę</string>
     <string name="action_modify">Keisti</string>
@@ -260,7 +227,6 @@
     <string name="disable">Išjungti</string>
     <string name="ui_traditional">Sumuštinis</string>
     <string name="color_mode_hint">Prie spalvų prisitaikančios funkcijų eilutės</string>
-    <string name="skin_hide_search_part">Slėpti paieškos eilutę</string>
     <string name="file_size">Failo dydis: %1$s</string>
     <string name="search_by_image">Ieškoti paveikslėliu</string>
     <string name="resource_sniffer">Media atsisiuntimas</string>
@@ -298,10 +264,8 @@
     <string name="data_file">Duomenų eksportavimas</string>
     <string name="bookmarks_data_to_long">Žymės užima per daug vietos, tačiau kiti duomenys bus įkelti. Tęsti?</string>
     <string name="restore_tabs_hint_settings">Kai esate \"Inkognito\" skirtukai nebus grąžinami</string>
-    <string name="ignore_secondary_ssl_error">Ignoruoti antrą SSL klaidą</string>
     <string name="web_page_debug">Įjungti puslapių derinimą</string>
     <string name="web_page_debug_info">Galite prijungti savo įrenginį prie kompiuterio ir derinti su Chrome naudojant \"chrome://inspect\". Nepamirškite įjungti USB derinimo Nustatymai > Kūrėjo nustatymai.</string>
-    <string name="no_download_tasks">Atsisiuntimų nėra</string>
     <string name="action_re_download">Atsisiųsti dar kartą</string>
     <string name="action_copy_download_link">Kopijuoti Atsisiuntimo adresą</string>
     <string name="download_failed">Atsisiuntimas nesėkmingas</string>

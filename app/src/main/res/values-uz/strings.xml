@@ -7,7 +7,6 @@
     <string name="action_share">Ulashish</string>
     <string name="action_history">Tarix</string>
     <string name="action_bookmarks">Bukmarklar</string>
-    <string name="bookmarks_file">Bukmarklarni eksport qilish</string>
     <string name="action_add_bookmark">Bukmark qo‘shish</string>
     <string name="action_night">Tungi rejim</string>
     <string name="action_copy">Havolani nusxalash</string>
@@ -48,11 +47,6 @@
     <string name="title_warning">Ogohlantirish</string>
     <string name="title_custom_homepage">Maxsus bosh sahifa</string>
     <string name="action_webpage">Sahifa</string>
-    <string name="size_largest">Juda katta</string>
-    <string name="size_large">Katta</string>
-    <string name="size_normal">O‘rta</string>
-    <string name="size_small">Kichik</string>
-    <string name="size_smallest">Juda kichik</string>
     <string name="hint_title">Sarlavha</string>
     <string name="hint_url">Manzil</string>
     <string name="hint_folder">Jild</string>
@@ -75,12 +69,6 @@
     <string name="google_url">Google</string>
     <string name="sougou_url">Sogou</string>
     <string name="block_ads">Reklamani bloklash</string>
-    <string name="message_untrusted_certificate">Sayt sertifikati ishonchli emas. Baribir davom etasizmi?</string>
-    <string name="message_date_invalid_certificate">Sayt sertifikatining sanasi haqiqiy emas. Baribir davom etasizmi?</string>
-    <string name="message_expired_certificate">Sayt sertifikatining muddati tugagan. Baribir davom etasizmi?</string>
-    <string name="message_hostname_mismatch_certificate">Sayt sertifikati xost nomiga mos kelmaydi. Baribir davom etasizmi?</string>
-    <string name="message_invalid_certificate">Sayt sertifikati haqiqiy emas. Baribir davom etasizmi?</string>
-    <string name="message_not_yet_valid_certificate">Sayt sertifikati hali ham haqiqiy emas. Baribir davom etasizmi?</string>
     <string name="title_form_resubmission">Shaklni qayta topshirish</string>
     <string name="message_form_resubmission">Ma’lumotlar qayta yuborilsinmi?</string>
     <string name="message_location">\nJoylashuvingiz haqida xabar berilsinmi?</string>
@@ -136,16 +124,12 @@
     <string name="msg_delete_folder">Jild o‘chirilsinmi?</string>
     <string name="desc_suggestion">Taklif</string>
     <string name="desc_home">Uy</string>
-    <string name="desc_tab">Varaq</string>
     <string name="desc_menu">Menyu</string>
-    <string name="desc_filedic">Fayl</string>
     <string name="action_mark">Reklama sifatida belgilash</string>
     <string name="dialog_confirm_mark">Bu reklama sifatida belgilansinmi?</string>
     <string name="do_not_track">Kuzatilmasin</string>
-    <string name="add_rule">Filtr qo‘shish</string>
     <string name="color_mode">Rangli rejim</string>
     <string name="dialog_sure">Davom etishni istaysizmi?</string>
-    <string name="action_send_to_launcher">Ekran yorlig‘i</string>
     <string name="settings_cloud">Hisob</string>
     <string name="user">Kirish/Ro‘yxatdan o‘tish</string>
     <string name="user_syns">Sinxronlash</string>
@@ -175,8 +159,6 @@
     <string name="data_cookies">Cookie fayllar</string>
     <string name="data_cleared">Maʼlumotlar tozalandi</string>
 
-    <string name="sync_desc">Agar hisob mavjud bo‘lmasa, yaratiladi.</string>
-
     <string name="settings_skin">Tashqi ko‘rinish</string>
     <string name="default_set">Odatiy</string>
     <string name="picture">Rasm</string>
@@ -184,10 +166,6 @@
     <string name="html_code">HTML kod</string>
 
     <string name="action_view_image">Rasmni ko‘rish</string>
-
-    <string name="skin_colorful">Rangli</string>
-    <string name="skin_fruity">Mevali</string>
-    <string name="skin_transparent">Shaffof</string>
 
     <string name="block_popup">Qalquvchi oynani bloklash</string>
 
@@ -210,21 +188,13 @@
     <string name="upload_prompt">Joriy mahalliy bukmarklar va sozlamalar yuklanadi. Davom etasizmi?</string>
     <string name="none">Yo‘q</string>
     <string name="check_permission">Ruxsat berilmadi. Hoziroq sozlamalarda o‘rnatilsinmi?</string>
-    <string name="need_permission_hint">Via ishlashi uchun quyidagi ruxsatlar kerak:\n\n</string>
-    <string name="storage_permission">Xotira: brauzerdan fayllarni yuklab olish va bukmarklarni import/eksport qilish va h.k.\n\n</string>
-    <string name="location_permission">Joylashuv: Google Xaritalar kabi saytlar uchun sukut bo‘yicha o‘chirilgan. Sayt joylashuvingizdan foydalanishi mumkinligini so‘rab qalquvchi oyna ko‘rsatadi.\n\n</string>
-    <string name="force_cancel">Majburan yopish</string>
     <string name="restore_tabs_hint">Oxirgi marta yopilmagan varaqlar tiklansinmi?</string>
     <string name="restore_tabs">Ishga tushganda varaqlarni tiklash</string>
-    <string name="install_success">Muvaffaqiyatli o‘rnatildi!</string>
-    <string name="uninstall_success">Muvaffaqiyatli o‘chirildi!</string>
     <string name="log_page_hint">Bloklangan ro‘yxat %1$s.\nRo‘yxatni tahrirlashingiz yoki blokni yoqish/o‘chirish uchun quyidagi elementni uzoq bosib turishingiz mumkin.</string>
     <string name="fullscreen_1">Yashirish yoki ko‘rsatish uchun o‘tkazish</string>
     <string name="fullscreen_2">Yashirish yoki ko‘rsatish uchun bosish</string>
     <string name="settings_script">Skriptlar</string>
-    <string name="get_more_script">Tayyor skriptlar</string>
     <string name="add_script">Skript qo‘shish</string>
-    <string name="script_url">Domen yoki * (* har qanday</string>
     <string name="script_code">Kod (JavaScript)</string>
     <string name="help_us_translate">Tarjima qilish</string>
     <string name="confirm_to_leave">Tark etishni tasdiqlang</string>
@@ -232,7 +202,6 @@
     <string name="stay">Qolish</string>
     <string name="skin_logo">Logo</string>
     <string name="skin_bg">Fon</string>
-    <string name="skin_style">Uslub</string>
     <string name="set_it_as_homepage">Bosh sahifa sifatida o‘rnatilsinmi?</string>
     <string name="missing_webview">Android System WebView to‘g‘ri o‘rnatilmagan. Hoziroq o‘rnatishni istaysizmi?</string>
     <string name="install">O‘rnatish</string>
@@ -240,7 +209,6 @@
     <string name="glean">To‘plash</string>
     <string name="contact_us">Biz bilan aloqa</string>
     <string name="official_website">Rasmiy sayt</string>
-    <string name="background_opacity">Fon shaffofligi</string>
     <string name="action_pic_mode">Rasm rejimi</string>
     <string name="find_next">Keyingi</string>
     <string name="find_pre">Oxirgi</string>
@@ -251,7 +219,6 @@
     <string name="no_bookmark">Bukmarklar yo‘q</string>
     <string name="import_or_export_bookmarks">Bukmarklarni import/eksport qilish</string>
     <string name="export_bookmarks">Bukmarklarni eksport qilish</string>
-    <string name="pull_to_refresh_gesture">Yangilash uchun pastga tortish</string>
     <string name="back_forward_gesture">Orqaga/uzatish ishorasi</string>
     <string name="toolbar_settings_hint">Harakat o‘rnatish uchun quyidagi tugmani bosing, belgilangan amalni ko‘rish uchun uzoq bosib turing.</string>
     <string name="action_modify">O‘zgartirish</string>
@@ -260,7 +227,6 @@
     <string name="disable">O‘chiq</string>
     <string name="ui_traditional">Ajratilgan</string>
     <string name="color_mode_hint">Panel rangini avto-sozlash</string>
-    <string name="skin_hide_search_part">Qidiruv qismini yashirish</string>
     <string name="file_size">Fayl o‘lchami: %1$s</string>
     <string name="search_by_image">Rasm bo‘yicha qidirish</string>
     <string name="resource_sniffer">Resurs tahlili</string>
@@ -298,10 +264,8 @@
     <string name="data_file">Ma’lumotlarni eksport qilish</string>
     <string name="bookmarks_data_to_long">Bukmarkdagi ma’lumotlar yuklash uchun juda katta, lekin boshqa ma’lumotlar odatdagidek yuklanadi. Davom etasizmi?</string>
     <string name="restore_tabs_hint_settings">\"Inkognito rejimi\" bilan kirsangiz varaqlarni tiklab bo‘lmaydi.</string>
-    <string name="ignore_secondary_ssl_error">Ikkilamchi SSL xatosiga e’tibor berilmasin</string>
     <string name="web_page_debug">Nosozlik sahifalari</string>
     <string name="web_page_debug_info">Endi siz telefoningizni kompyuterga ulashingiz, keyin \"chrome://inspect\" yordamida saytni Chrome (ShK) yordamida tuzatishingiz mumkin. Menyuda avval USB nosozlikni tuzatishni yoqishni unutmang: Qo‘shimcha sozlamalar > Dasturchi sozlamalari.</string>
-    <string name="no_download_tasks">Bo‘sh</string>
     <string name="action_re_download">Qayta yuklab olish</string>
     <string name="action_copy_download_link">Yuklab olish havolasini nusxalash</string>
     <string name="download_failed">Yuklab olinmadi</string>
@@ -338,9 +302,7 @@
     <string name="custom_filter">Maxsus filtr</string>
     <string name="add_filter_subscription">Obuna qo‘shish</string>
     <string name="edit_filter_subscription">Obunani o‘zgartirish</string>
-    <string name="updating_filter_subscriptions">Obunani yangilash</string>
     <string name="update_filter_subscriptions_completed">Filtr obunalarini yangilash tugallandi.</string>
-    <string name="update_filter_subscription_failed">Filtr obunasini yangilashda xatolik yuz berdi.\n%1$s</string>
     <string name="has_not_been_updated">yangilanmagan</string>
     <string name="just_now">hozirgina</string>
     <string name="url_is_invalid">Manzil noto‘g‘ri</string>
@@ -370,7 +332,6 @@
     <string name="privacy_policy">Maxfiylik siyosati</string>
     <string name="terms_of_use">Foydalanish shartlari</string>
     <string name="welcome">Xush kelibsiz</string>
-    <string name="agreement_message">Via brauzeriga xush kelibsiz. Iltimos, foydalanishni boshlashdan oldin quyidagi shartnomani diqqat bilan o‘qing chiqing. Xizmatdan foydalanishni boshlashdan oldin barcha shartlarni qabul qilishingiz kerak.</string>
     <string name="agreement_message_short">Xizmatdan foydalanishdan oldin barcha shartlarni qabul qilishingiz kerak.</string>
     <string name="agree_and_continue">Roziman</string>
     <string name="disagree">Rad etish</string>
@@ -380,21 +341,13 @@
     <string name="delete_account_hint">Hisob serverdan o‘chirib tashlanadi</string>
     <string name="delete_account_message">O‘chirish so‘rovi yuborilganidan so‘ng, hisob tizimdan chiqariladi va 15 kunlik o‘chirish muddatini kiritadi. Agar shu vaqt ichida qaytadan kirsangiz va ma’lumotlarni yuklasangiz, o‘chirish so‘rovi bekor qilinadi. Kutish muddati tugagandan so‘ng, hisob va tegishli ma’lumotlar serverdan butunlay o‘chiriladi.\nSo‘rovni yuborish uchun parolingizni kiriting.</string>
     <string name="confirm_to_delete">O‘chirishni tasdiqlang</string>
-    <string name="items_selected">%1d tanlandi</string>
     <string name="select_all">Hammasini tanlash</string>
-    <string name="multi_choice">Ko‘p tanlov</string>
-    <plurals name="delete_download_tasks">
-        <item quantity="zero">0 yuklab olish vazifasi o‘chirildi</item>
-        <item quantity="one">1 yuklab olish vazifasi o‘chirildi</item>
-        <item quantity="other">%d yuklab olish vazifasi o‘chirildi</item>
-    </plurals>
     <string name="open_source_licenses">Ochiq kodli litsenziyalar</string>
     <string name="debugging_info">Nosozlik haqida</string>
     <string name="join_qq_group">QQ guruhiga qo‘shilish</string>
     <string name="join_telegram_group">Telegram guruhiga qo‘shilish</string>
     <string name="follow_me_on_twitter">Twitterda kuzatish</string>
     <string name="follow_me_on_weibo">Weiboda kuzatish</string>
-    <string name="version">Versiya</string>
     <string name="paste_and_go">Joylash &amp; o‘tish</string>
     <string name="night_filter_for_web_contents">Kontentlar uchun tungi filtr</string>
     <string name="force_dark_mode_for_web_contents">Majburiy qorong‘i sahifa rejimi</string>
@@ -411,7 +364,6 @@
     <string name="sort_by_alphabetical_order">Alifbo tartibi</string>
     <string name="select_folder">Jild tanlash</string>
     <string name="move">Ko‘chirish</string>
-    <string name="bookmarks_history">Bukmarklar/Tarix</string>
     <string name="done">Tayyor</string>
     <string name="root_folder">Root jildi</string>
     <string name="delete_item_message">Haqiqatan ham %1$s o‘chirilsinmi?</string>
@@ -430,34 +382,22 @@
     <string name="stroke_width">Chegara kengligi</string>
     <string name="stroke_opacity">Chegara shaffofligi</string>
     <string name="opacity">Shaffoflik</string>
-    <string name="disable_website_icons">Sayt belgilarini o‘chirish</string>
-    <string name="disable_icon_color">Belgi rangini o‘chirish</string>
     <string name="font_style">Shrift uslubi</string>
     <string name="bold">Qalin</string>
     <string name="italics">Qiya</string>
     <string name="clear_website_icon_cache">Belgilar tozalanadi</string>
     <string name="clear_website_icon_cache_message">Bosh sahifadagi barcha belgilar tozalanadi. Har bir belgi keyingi safar tegishli saytga yana tashrif buyurganingizda yuklab olinadi.</string>
-    <string name="use_blur_instead_of_transparency">Shaffoflik o‘rniga xira effektidan foydalanish</string>
     <string name="desc_favorite_icon">Belgi</string>
-    <string name="script_remarks">Izoh</string>
     <string name="action_save">Saqlash</string>
     <string name="reset_to_default_settings">Asliga qaytarish</string>
-    <string name="script_sites">Saytlar (misol *.foo.com,bar.*/list)</string>
-    <string name="simple_guide_of_writing_script">Sayt yuklanganida skript avtomatik ishga tushadi.
-    \n\nSaytlar (zarur): Sayt skriptlari \"*\" joker belgisini qo‘llab-quvvatlaydi va bir nechta saytlar \",\", bilan ajratiladi, masalan: *.foo.com,bar.*/list.
-    \n\nIzoh (ixtiyoriy): sarlavha sifatida ishlatiladi.
-    \n\nKod (zarur): Mahalliy JavaScriptdan foydalanish tavsiya etiladi. Agar sayt bu ramkalardan foydalansa, jQuery yoki vue.js sintaksisidan ham foydalanishingiz mumkin.</string>
     <string name="save_data">Trafik tejash</string>
     <string name="save_data_description">Mos keluvchi saytlarda trafik tejash</string>
-    <string name="use_line_style_search_box">Qidiruv maydoni qator sifatida</string>
-    <string name="toast_script_added">Skript qo‘shildi</string>
     <string name="action_manage_favorites">Boshqaruv</string>
     <string name="check_for_updates">Yangilanishlarni tekshirish</string>
     <string name="checking_for_updates">Yangilanishlar tekshirilmoqda</string>
     <string name="latest_version_already_installed">Oxirgi versiya allaqachon o‘rnatilgan</string>
     <string name="new_version_available">Yangi versiya mavjud</string>
     <string name="action_download_file">Yuklab olish</string>
-    <string name="entered_full_screen_mode">To‘liq ekran rejimi</string>
     <string name="delete_hint">O‘chirish (%1$d)</string>
     <string name="follow_system_dark_mode_on">Tizim qorong‘i rejimidan foydalanish</string>
     <string name="scoped_search">Qidiruv %1$s</string>
@@ -518,7 +458,6 @@
     <string name="continue_loading">Yuklashni davom etish</string>
     <string name="allow_webpage_access_to_clipboard">Saytga vaqtinchalik xotiraga kirishga ruxsat berish</string>
     <string name="ask_to_allow_webpage_to_copy_text">%DOMAIN%dan matn nusxalansinmi?</string>
-    <string name="ask_to_allow_webpage_to_paste_text">%DOMAIN% uchun matn joylansinmi?</string>
     <string name="option_allow">Ruxsat berish</string>
     <string name="option_deny">Rad etish</string>
     <string name="search_bar_style">Uslub</string>
@@ -536,7 +475,6 @@
     <string name="search_part">Qidiruv qismi</string>
     <string name="search_part_hide">Berkitilgan</string>
     <string name="search_part_show">Ko‘rsatilgan</string>
-    <string name="image_preference">Afzal rejim</string>
     <string name="background_color">Rang</string>
     <string name="background_image">Rasm</string>
     <string name="favorites_clear_icons">Belgilarni tozalash</string>
@@ -544,10 +482,6 @@
     <string name="theme_color">Mavzu rangi</string>
     <string name="theme_color_dark">Qorong‘i</string>
     <string name="theme_color_light">Yorqin</string>
-    <string name="uninstall_script">Skriptni olib tashlash</string>
-    <string name="uninstall_script_message">\"%1$s\" skriptini olib tashlashni istaysizmi?</string>
-    <string name="install_script">Skriptni o‘rnatish</string>
-    <string name="install_script_message">\"%1$s\" skripti o‘rnatilsinmi?</string>
     <string name="processing_blob_data">Pufakli ma’lumotlar qayta ishlanmoqda…</string>
     <string name="tineye_url">TinEye</string>
     <string name="login_username">Ism (agar mavjud bo‘lmasa, hisob yaratiladi)</string>
@@ -563,15 +497,11 @@
     <string name="download_action_resume">Davom etish</string>
     <string name="app_downloading_files">Via fayllarni yuklab olmoqda</string>
     <string name="app_downloading_files_subtitle">Yuklanmalarni ko‘rish uchun bosing</string>
-    <string name="download_failed_with_code">Yuklab olinmadi: %1$s (%2$d)</string>
     <string name="built_in_download_manager">O‘rnatilgan yuklab olish menejeri</string>
     <string name="cancel_all">Hammasini bekor qilish</string>
     <string name="message_delete_selected_download_tasks">Ushbu yuklab olish vazifalarini o‘chirilsinmi (jami %1$d)?</string>
     <string name="file_name">Fayl nomi</string>
     <string name="rename">Qayta nomlash</string>
-    <string name="download_error_file_io">I/O xato</string>
-    <string name="download_error_network">Tarmoq xatosi</string>
-    <string name="download_error_unknown">Noma’lum xato</string>
     <string name="message_re_download">Yuklab olingan fayl o‘chirilib, %1$s qayta yuklab olinsinmi?</string>
     <string name="share_image">Rasmni ulashish</string>
     <string name="ssl_warning_insecure_connection_message">%1$s bilan ulanish xavfsiz emas:\n%2$s\nBaribir davom etasizmi?</string>

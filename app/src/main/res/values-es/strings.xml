@@ -8,7 +8,6 @@
     <string name="action_share">Compartir</string>
     <string name="action_history">Historial</string>
     <string name="action_bookmarks">Marcadores</string>
-    <string name="bookmarks_file">Exportación de marcadores</string>
     <string name="action_add_bookmark">Añadir marcador</string>
     <string name="action_night">Modo nocturno</string>
     <string name="action_copy">Copiar enlace</string>
@@ -49,11 +48,6 @@
     <string name="title_warning">Advertencia</string>
     <string name="title_custom_homepage">Página de inicio personalizada</string>
     <string name="action_webpage">Página web</string>
-    <string name="size_largest">Más grande</string>
-    <string name="size_large">Grande</string>
-    <string name="size_normal">Normal</string>
-    <string name="size_small">Pequeño</string>
-    <string name="size_smallest">Más pequeño</string>
     <string name="hint_title">Título</string>
     <string name="hint_url">URL</string>
     <string name="hint_folder">Carpeta</string>
@@ -76,12 +70,6 @@
     <string name="google_url">Google</string>
     <string name="sougou_url">Sogou</string>
     <string name="block_ads">Bloqueo de anuncios</string>
-    <string name="message_untrusted_certificate">El certificado del sitio no es de confianza. ¿Continuar de todos modos?</string>
-    <string name="message_date_invalid_certificate">La fecha del certificado del sitio no es válida. ¿Continuar de todos modos?</string>
-    <string name="message_expired_certificate">El certificado del sitio ha caducado. ¿Continuar de todos modos?</string>
-    <string name="message_hostname_mismatch_certificate">El certificado del sitio no coincide con el nombre del host. ¿Continuar de todos modos?</string>
-    <string name="message_invalid_certificate">El certificado del sitio no es válido. ¿Continuar de todos modos?</string>
-    <string name="message_not_yet_valid_certificate">El certificado del sitio aún no es válido. ¿Continuar de todos modos?</string>
     <string name="title_form_resubmission">Reenvío del formulario</string>
     <string name="message_form_resubmission">¿Quiere reenviar los datos?</string>
     <string name="message_location">\nQuiere usar su ubicación</string>
@@ -137,16 +125,12 @@
     <string name="msg_delete_folder">¿Quiere eliminar esta carpeta?</string>
     <string name="desc_suggestion">Sugerencia</string>
     <string name="desc_home">Inicio</string>
-    <string name="desc_tab">Pestaña</string>
     <string name="desc_menu">Menú</string>
-    <string name="desc_filedic">Archivo</string>
     <string name="action_mark">Marcar como anuncio</string>
     <string name="dialog_confirm_mark">¿Quiere marcar esto como anuncio?</string>
     <string name="do_not_track">No rastrear</string>
-    <string name="add_rule">Añadir filtro</string>
     <string name="color_mode">Modo color</string>
     <string name="dialog_sure">¿Está seguro de que quiere continuar?</string>
-    <string name="action_send_to_launcher">Enviar al launcher</string>
     <string name="settings_cloud">Cuenta</string>
     <string name="user">Iniciar sesión/Registrarse</string>
     <string name="user_syns">Sincronizar</string>
@@ -176,8 +160,6 @@
     <string name="data_cookies">Cookies</string>
     <string name="data_cleared">Datos borrados</string>
 
-    <string name="sync_desc">Se creará una cuenta si no existe.</string>
-
     <string name="settings_skin">Personalización</string>
     <string name="default_set">Predeterminado</string>
     <string name="picture">Imagen</string>
@@ -185,10 +167,6 @@
     <string name="html_code">Código HTML</string>
 
     <string name="action_view_image">Ver imagen</string>
-
-    <string name="skin_colorful">Colorido</string>
-    <string name="skin_fruity">Afrutado</string>
-    <string name="skin_transparent">Transparente</string>
 
     <string name="block_popup">Bloquear emergente</string>
 
@@ -211,21 +189,13 @@
     <string name="upload_prompt">Se cargarán los marcadores y los ajustes locales actuales. ¿Continuar?</string>
     <string name="none">Ninguno</string>
     <string name="check_permission">Permiso denegado. ¿Quiere configurarlo en los ajustes ahora?</string>
-    <string name="need_permission_hint">Via necesita los siguientes permisos para funcionar:\n\n</string>
-    <string name="storage_permission">Almacenamiento: para descargar archivos desde el navegador e importar/exportar marcadores, etc.\n\n</string>
-    <string name="location_permission">Ubicación: para sitios como Google Maps, está desactivado de forma predeterminada. Cuando está activado, se muestra una ventana emergente preguntando si el sitio puede usar su ubicación.\n\n</string>
-    <string name="force_cancel">Forzar cierre</string>
     <string name="restore_tabs_hint">¿Quiere restaurar las pestañas abiertas de la última sesión?</string>
     <string name="restore_tabs">Restaurar pestañas al inicio</string>
-    <string name="install_success">¡Instalación exitosa!</string>
-    <string name="uninstall_success">¡Desinstalación exitosa!</string>
     <string name="log_page_hint">La lista de bloqueados está en %1$s.\nPuede editar la lista o mantener presionado el siguiente elemento para activar/desactivar su bloqueo.</string>
     <string name="fullscreen_1">Desplazarse para ocultar/mostrar</string>
     <string name="fullscreen_2">Pulsar para ocultar/mostrar</string>
     <string name="settings_script">Scripts</string>
-    <string name="get_more_script">Obtener más scripts</string>
     <string name="add_script">Añadir script</string>
-    <string name="script_url">Dominio o * (* significa todo)</string>
     <string name="script_code">Código (JavaScript)</string>
     <string name="help_us_translate">Ayúdenos a traducir</string>
     <string name="confirm_to_leave">Confirmar para salir</string>
@@ -233,7 +203,6 @@
     <string name="stay">Permanecer</string>
     <string name="skin_logo">Logotipo</string>
     <string name="skin_bg">Fondo</string>
-    <string name="skin_style">Estilo</string>
     <string name="set_it_as_homepage">¿Quiere configurarlo como página de inicio?</string>
     <string name="missing_webview">WebView del sistema Android no está instalado correctamente. ¿Quiere instalarlo ahora?</string>
     <string name="install">Instalar</string>
@@ -241,7 +210,6 @@
     <string name="glean">Extracto</string>
     <string name="contact_us">Contáctenos</string>
     <string name="official_website">Sitio web oficial</string>
-    <string name="background_opacity">Opacidad del fondo</string>
     <string name="action_pic_mode">Modo de imagen</string>
     <string name="find_next">Buscar siguiente</string>
     <string name="find_pre">Buscar último</string>
@@ -252,7 +220,6 @@
     <string name="no_bookmark">Sin marcadores</string>
     <string name="import_or_export_bookmarks">Importar/exportar marcadores</string>
     <string name="export_bookmarks">Exportar marcadores</string>
-    <string name="pull_to_refresh_gesture">Gesto de tirar para actualizar</string>
     <string name="back_forward_gesture">Gesto de retroceso/avance</string>
     <string name="toolbar_settings_hint">Pulse un botón seleccionado a continuación para establecer su acción de pulsación prolongada, o manténgalo pulsado para verificar qué acción se ha configurado. También puede deslizar la barra de herramientas para establecer la acción de deslizamiento.</string>
     <string name="action_modify">Modificar</string>
@@ -261,7 +228,6 @@
     <string name="disable">Desactivado</string>
     <string name="ui_traditional">Sandwich</string>
     <string name="color_mode_hint">Auto-ajustar el color de las barras de herramientas</string>
-    <string name="skin_hide_search_part">Ocultar parte de búsqueda</string>
     <string name="file_size">Tamaño del archivo: %1$s</string>
     <string name="search_by_image">Buscar por imagen</string>
     <string name="resource_sniffer">Detector de recursos</string>
@@ -299,10 +265,8 @@
     <string name="data_file">Exportación de datos</string>
     <string name="bookmarks_data_to_long">Los datos de los marcadores son demasiado grandes para cargarlos, pero otros datos se cargarán normalmente. ¿Continuar?</string>
     <string name="restore_tabs_hint_settings">Las pestañas no se restaurarán cuando esté en \"Modo incógnito\".</string>
-    <string name="ignore_secondary_ssl_error">Ignorar el error secundario de SSL</string>
     <string name="web_page_debug">Activar depuración de páginas web</string>
     <string name="web_page_debug_info">Ahora puede conectar su teléfono a la computadora y luego depurar la página web con Chrome (PC) usando \"chrome://inspect\". Recuerde activar primero la depuración USB en el menú: Más herramientas > Herramientas de desarrollador.</string>
-    <string name="no_download_tasks">Vacío</string>
     <string name="action_re_download">Volver a descargar</string>
     <string name="action_copy_download_link">Copiar enlace de descarga</string>
     <string name="download_failed">Descarga fallida</string>
@@ -339,9 +303,7 @@
     <string name="custom_filter">Filtro personalizado</string>
     <string name="add_filter_subscription">Añadir suscripción de filtro</string>
     <string name="edit_filter_subscription">Editar suscripción de filtro</string>
-    <string name="updating_filter_subscriptions">Actualizando suscripciones de filtro</string>
     <string name="update_filter_subscriptions_completed">Actualización de suscripciones de filtro completada.</string>
-    <string name="update_filter_subscription_failed">Error en la actualización de suscripciones de filtro.\n%1$s</string>
     <string name="has_not_been_updated">no se ha actualizado</string>
     <string name="just_now">ahora mismo</string>
     <string name="url_is_invalid">La URL no es válida.</string>
@@ -371,7 +333,6 @@
     <string name="privacy_policy">Política de privacidad</string>
     <string name="terms_of_use">Condiciones de uso</string>
     <string name="welcome">Bienvenido</string>
-    <string name="agreement_message">Bienvenido a Via. Lea atentamente el siguiente acuerdo antes de utilizar Via. Debe estar de acuerdo y aceptar todos los términos y condiciones antes de comenzar a usar nuestro servicio.</string>
     <string name="agreement_message_short">Debe estar de acuerdo y aceptar todos los términos antes de comenzar a usar nuestro servicio.</string>
     <string name="agree_and_continue">De acuerdo</string>
     <string name="disagree">En desacuerdo</string>
@@ -381,21 +342,13 @@
     <string name="delete_account_hint">Eliminar la cuenta del servidor</string>
     <string name="delete_account_message">Después de enviar la solicitud de eliminación, la cuenta se cerrará y entrará en un período de espera de eliminación de 15 días. Si vuelve a iniciar sesión en la cuenta y cargar datos durante el período de espera, se retirará su solicitud de eliminación. Una vez que expire el período de espera, la cuenta y los datos relacionados se eliminarán por completo del servidor. \nIngrese su contraseña para enviar la solicitud.</string>
     <string name="confirm_to_delete">Confirmar para eliminar</string>
-    <string name="items_selected">%1d seleccionados</string>
     <string name="select_all">Seleccionar todo</string>
-    <string name="multi_choice">Elección múltiple</string>
-    <plurals name="delete_download_tasks">
-        <item quantity="zero">Eliminadas 0 tareas de descarga</item>
-        <item quantity="one">Eliminada 1 tarea de descarga</item>
-        <item quantity="other">Eliminadas %d tareas de descarga</item>
-    </plurals>
     <string name="open_source_licenses">Licencias de código abierto</string>
     <string name="debugging_info">Información de depuración</string>
     <string name="join_qq_group">Únase al grupo de QQ</string>
     <string name="join_telegram_group">Únase al grupo de Telegram</string>
     <string name="follow_me_on_twitter">Sígame en Twitter</string>
     <string name="follow_me_on_weibo">Sígame en Weibo</string>
-    <string name="version">Versión</string>
     <string name="paste_and_go">Pegar e Ir</string>
     <string name="night_filter_for_web_contents">Filtro nocturno para contenido web</string>
     <string name="force_dark_mode_for_web_contents">Forzar operación oscura para contenido web</string>
@@ -412,7 +365,6 @@
     <string name="sort_by_alphabetical_order">Orden alfabético</string>
     <string name="select_folder">Seleccionar carpeta</string>
     <string name="move">Mover</string>
-    <string name="bookmarks_history">Marcadores/Historial</string>
     <string name="done">Listo</string>
     <string name="root_folder">Carpeta raíz</string>
     <string name="delete_item_message">¿Está seguro de que quiere eliminar %1$s?</string>
@@ -431,34 +383,22 @@
     <string name="stroke_width">Ancho del borde</string>
     <string name="stroke_opacity">Opacidad del borde</string>
     <string name="opacity">Opacidad</string>
-    <string name="disable_website_icons">Desactivar iconos de sitios web</string>
-    <string name="disable_icon_color">Desactivar color del icono</string>
     <string name="font_style">Estilo de fuente</string>
     <string name="bold">Negrita</string>
     <string name="italics">Cursiva</string>
     <string name="clear_website_icon_cache">Borrar caché de iconos de sitios web</string>
     <string name="clear_website_icon_cache_message">Tenga en cuenta que esto borrará todos los iconos favoritos en la página de inicio. Cada icono se descargará la próxima vez que visite el sitio web correspondiente.</string>
-    <string name="use_blur_instead_of_transparency">Usar efecto de desenfoque en lugar de transparencia</string>
     <string name="desc_favorite_icon">Icono de un favorito</string>
-    <string name="script_remarks">Comentarios</string>
     <string name="action_save">Guardar</string>
     <string name="reset_to_default_settings">Restablecer la configuración predeterminada</string>
-    <string name="script_sites">Sitios (como *.foo.com,bar.*/list)</string>
-    <string name="simple_guide_of_writing_script">El script escrito tendrá efecto automáticamente cuando se cargue el sitio web. 
-\n\nSitios (obligatorio): el sitio con script admite el comodín \"*\" y varios sitios están separados por \",\", por ejemplo: *.foo.com,bar.*/list. 
-\n\nComentarios (opcional): se utiliza como título de la pantalla. 
-\n\nCódigo (obligatorio): se recomienda utilizar JavaScript nativo. También puede usar la sintaxis jQuery o vue.js si el sitio web usa esos marcos.</string>
     <string name="save_data">Guardar datos</string>
     <string name="save_data_description">Activar el modo de ahorro de datos en sitios web compatibles</string>
-    <string name="use_line_style_search_box">Usar cuadro de búsqueda de estilo de línea</string>
-    <string name="toast_script_added">Script añadido correctamente</string>
     <string name="action_manage_favorites">Administrador de favoritos</string>
     <string name="check_for_updates">Buscar actualizaciones</string>
     <string name="checking_for_updates">Buscando actualizaciones</string>
     <string name="latest_version_already_installed">Última versión ya instalada</string>
     <string name="new_version_available">Nueva versión disponible</string>
     <string name="action_download_file">Descargar</string>
-    <string name="entered_full_screen_mode">Ingresó al modo de pantalla completa</string>
     <string name="delete_hint">Eliminar (%1$d)</string>
     <string name="follow_system_dark_mode_on">Seguir el modo oscuro del sistema está activado</string>
     <string name="scoped_search">Buscar %1$s</string>

@@ -8,7 +8,6 @@
     <string name="action_share">分享</string>
     <string name="action_history">历史</string>
     <string name="action_bookmarks">书签</string>
-    <string name="bookmarks_file">书签</string>
     <string name="action_add_bookmark">添加书签</string>
     <string name="action_night">夜间模式</string>
     <string name="action_copy">复制链接</string>
@@ -49,11 +48,6 @@
     <string name="title_warning">警告</string>
     <string name="title_custom_homepage">自定义主页</string>
     <string name="action_webpage">网页</string>
-    <string name="size_largest">最大</string>
-    <string name="size_large">较大</string>
-    <string name="size_normal">普通</string>
-    <string name="size_small">较小</string>
-    <string name="size_smallest">最小</string>
     <string name="hint_title">标题</string>
     <string name="hint_url">地址</string>
     <string name="hint_folder">文件夹</string>
@@ -76,12 +70,6 @@
     <string name="google_url">谷歌</string>
     <string name="sougou_url">搜狗</string>
     <string name="block_ads">广告拦截</string>
-    <string name="message_untrusted_certificate">当前站点证书不被信任，是否继续？</string>
-    <string name="message_date_invalid_certificate">当前站点证书日期无效，是否继续？</string>
-    <string name="message_expired_certificate">当前站点证书已过期，是否继续？</string>
-    <string name="message_hostname_mismatch_certificate">当前站点证书与主机名不匹配，是否继续？</string>
-    <string name="message_invalid_certificate">当前站点证书无效，是否继续？</string>
-    <string name="message_not_yet_valid_certificate">当前站点证书还未生效，是否继续？</string>
     <string name="title_form_resubmission">表单提交</string>
     <string name="message_form_resubmission">你确定发送数据吗？</string>
     <string name="message_location">\n想使用你的位置信息</string>
@@ -137,16 +125,12 @@
     <string name="msg_delete_folder">你想要删除此文件夹吗？</string>
     <string name="desc_suggestion">建议</string>
     <string name="desc_home">主页</string>
-    <string name="desc_tab">标签</string>
     <string name="desc_menu">菜单</string>
-    <string name="desc_filedic">文件</string>
     <string name="action_mark">标记广告</string>
     <string name="dialog_confirm_mark">确定将其标记为广告？</string>
     <string name="do_not_track">不跟踪</string>
-    <string name="add_rule">添加规则</string>
     <string name="color_mode">色彩模式</string>
     <string name="dialog_sure">你确定继续吗？</string>
-    <string name="action_send_to_launcher">发至桌面</string>
     <string name="settings_cloud">云同步</string>
     <string name="user">登录/注册</string>
     <string name="user_syns">从云端同步</string>
@@ -174,16 +158,12 @@
     <string name="data_storage">网页存储</string>
     <string name="data_cookies">Cookies (登录状态)</string>
     <string name="data_cleared">数据已清除</string>
-    <string name="sync_desc">账号不存在将自动创建</string>
     <string name="settings_skin">定制</string>
     <string name="default_set">默认</string>
     <string name="picture">图片</string>
     <string name="text">文字</string>
     <string name="html_code">HTML 代码</string>
     <string name="action_view_image">查看图片</string>
-    <string name="skin_colorful">多彩</string>
-    <string name="skin_fruity">果味</string>
-    <string name="skin_transparent">透明</string>
     <string name="block_popup">拦截弹出窗口</string>
     <string name="action_save_web_page">保存网页</string>
     <string name="action_saved_pages">离线页面</string>
@@ -198,21 +178,13 @@
     <string name="upload_prompt">将你当前的书签和设置上传到云端，是否继续？</string>
     <string name="none">无</string>
     <string name="check_permission">没有权限。现在去设置它们吗？</string>
-    <string name="need_permission_hint">Via 需要下列权限保证运行。\n\n</string>
-    <string name="storage_permission">存储空间：为了下载文件及导入导出书签等。\n\n</string>
-    <string name="location_permission">位置信息：为了一些站点例如天气网站获取地理位置，设置里默认是关闭的，如果开启会弹出对话框提示是否允许站点访问位置。\n\n</string>
-    <string name="force_cancel">强制取消</string>
     <string name="restore_tabs_hint">你想要恢复上次会话未关闭的标签页吗？</string>
     <string name="restore_tabs">启动时恢复未关闭标签</string>
-    <string name="install_success">安装成功！</string>
-    <string name="uninstall_success">卸载成功！</string>
     <string name="log_page_hint">所有拦截规则存储在 %1$s\n你可以手动编辑它来修改规则，或长按下列任一条目来选择是否拦截。</string>
     <string name="fullscreen_1">滑动来显示/隐藏</string>
     <string name="fullscreen_2">点击来显示/隐藏</string>
     <string name="settings_script">脚本</string>
-    <string name="get_more_script">获取更多脚本</string>
     <string name="add_script">添加脚本</string>
-    <string name="script_url">域名 或 * (* 代表全局)</string>
     <string name="script_code">代码 (JavaScript)</string>
     <string name="help_us_translate">协助翻译</string>
     <string name="confirm_to_leave">确定离开</string>
@@ -220,7 +192,6 @@
     <string name="stay">留在此页</string>
     <string name="skin_logo">Logo</string>
     <string name="skin_bg">背景</string>
-    <string name="skin_style">风格</string>
     <string name="set_it_as_homepage">你想要将它设置为首页吗？</string>
     <string name="missing_webview">Android System WebView 未正确安装。现在去安装？</string>
     <string name="install">安装</string>
@@ -228,7 +199,6 @@
     <string name="glean">拾穗</string>
     <string name="contact_us">联系我们</string>
     <string name="official_website">官方网站</string>
-    <string name="background_opacity">背景的不透明度</string>
     <string name="action_pic_mode">看图模式</string>
     <string name="find_next">下一个</string>
     <string name="find_pre">上一个</string>
@@ -239,7 +209,6 @@
     <string name="no_bookmark">没有书签~</string>
     <string name="import_or_export_bookmarks">导入/备份书签</string>
     <string name="export_bookmarks">备份书签</string>
-    <string name="pull_to_refresh_gesture">下拉刷新</string>
     <string name="back_forward_gesture">滑动屏幕前进后退</string>
     <string name="toolbar_settings_hint">点击下列按钮来设置它的长按事件，长按查看它的事件。你也可以滑动工具栏来设置滑动事件。</string>
     <string name="action_modify">修改</string>
@@ -248,7 +217,6 @@
     <string name="disable">未启用</string>
     <string name="ui_traditional">传统</string>
     <string name="color_mode_hint">浏览网页时操作栏自适应色彩</string>
-    <string name="skin_hide_search_part">隐藏搜索部分</string>
     <string name="file_size">文件大小：%1$s</string>
     <string name="search_by_image">以图搜图</string>
     <string name="resource_sniffer">资源嗅探</string>
@@ -286,10 +254,8 @@
     <string name="data_file">导出数据</string>
     <string name="bookmarks_data_to_long">书签数据达到了服务器不能承受之重，将不会上传，但其他数据可以正常上传。继续上传吗？</string>
     <string name="restore_tabs_hint_settings">开启\"隐身模式\"时不会恢复未关闭标签。</string>
-    <string name="ignore_secondary_ssl_error">忽略次要的 SSL 证书错误</string>
     <string name="web_page_debug">允许调试网页</string>
     <string name="web_page_debug_info">现在你可以将手机连上电脑，然后在 Chrome 电脑版上通过 \"chrome://inspect\" 来调试网页。别忘了先开启设置中开发者选项里的 USB 调试。</string>
-    <string name="no_download_tasks">没有下载任务。</string>
     <string name="action_re_download">重新下载</string>
     <string name="action_copy_download_link">复制下载链接</string>
     <string name="download_failed">下载失败</string>
@@ -326,9 +292,7 @@
     <string name="custom_filter">自定义规则</string>
     <string name="add_filter_subscription">添加规则订阅</string>
     <string name="edit_filter_subscription">编辑规则订阅</string>
-    <string name="updating_filter_subscriptions">更新规则订阅中…</string>
     <string name="update_filter_subscriptions_completed">订阅规则更新完成。</string>
-    <string name="update_filter_subscription_failed">订阅规则更新失败。\n%1$s</string>
     <string name="has_not_been_updated">从未更新</string>
     <string name="just_now">刚刚</string>
     <string name="url_is_invalid">链接无效。</string>
@@ -357,7 +321,6 @@
     <string name="privacy_policy">隐私政策</string>
     <string name="terms_of_use">使用协议</string>
     <string name="welcome">欢迎</string>
-    <string name="agreement_message">欢迎使用 Via。在使用 Via 前，请认真阅读下列协议。你需要同意并接受全部条款后才能开始使用我们的服务。</string>
     <string name="agreement_message_short">你需要同意并接受全部条款后才能开始使用我们的服务。</string>
     <string name="agree_and_continue">同意并继续</string>
     <string name="disagree">不同意</string>
@@ -367,19 +330,13 @@
     <string name="delete_account_request_submitted">账号删除申请已提交。</string>
     <string name="delete_account_message">提交删除申请后，账号将退出，进入 15 天的删除等待期，注销期间如你再次登录账号并上传了数据，将导致删除申请被撤回。等待期满后，该账号及相关数据将从服务器完全删除。\n请输入密码继续。</string>
     <string name="confirm_to_delete">确定删除</string>
-    <string name="items_selected">已选中 %1d 项</string>
     <string name="select_all">全选</string>
-    <string name="multi_choice">多选</string>
-    <plurals name="delete_download_tasks">
-        <item quantity="other">已删除 %d 项下载任务</item>
-    </plurals>
     <string name="open_source_licenses">开源许可协议</string>
     <string name="debugging_info">调试信息</string>
     <string name="join_qq_group">加入 QQ 群组</string>
     <string name="join_telegram_group">加入 Telegram 群组</string>
     <string name="follow_me_on_twitter">在 Twitter 上关注我</string>
     <string name="follow_me_on_weibo">在微博上关注我</string>
-    <string name="version">版本</string>
     <string name="paste_and_go">粘贴并前往</string>
     <string name="night_filter_for_web_contents">网页蒙版滤镜</string>
     <string name="force_dark_mode_for_web_contents">强制网页暗色</string>
@@ -396,7 +353,6 @@
     <string name="sort_by_alphabetical_order">名称顺序</string>
     <string name="select_folder">选择文件夹</string>
     <string name="move">移动</string>
-    <string name="bookmarks_history">书签/历史</string>
     <string name="done">完成</string>
     <string name="root_folder">根目录</string>
     <string name="delete_item_message">你确定删除 %1$s 吗？</string>
@@ -415,34 +371,22 @@
     <string name="stroke_width">描边粗细</string>
     <string name="stroke_opacity">描边不透明度</string>
     <string name="opacity">不透明度</string>
-    <string name="disable_website_icons">禁用网站图标</string>
-    <string name="disable_icon_color">禁用图标颜色</string>
     <string name="font_style">字体风格</string>
     <string name="bold">粗体</string>
     <string name="italics">斜体</string>
     <string name="clear_website_icon_cache">清除网站图标缓存</string>
     <string name="clear_website_icon_cache_message">请注意，这会清除所有首页收藏的图标。图标会在你下次访问该网站时下载。</string>
-    <string name="use_blur_instead_of_transparency">使用模糊效果代替透明</string>
     <string name="desc_favorite_icon">收藏的图标</string>
-    <string name="script_remarks">备注</string>
     <string name="action_save">保存</string>
     <string name="reset_to_default_settings">重置为默认设置</string>
-    <string name="script_sites">站点 (例如 *.foo.com,bar.*/list)</string>
-    <string name="simple_guide_of_writing_script">编写的脚本将在网站加载时自动生效。
-        \n\n站点(必填)：脚本作用的网站，支持 \"*\" 通配符，多个站点使用 \",\" 隔开，例如：*.foo.com,bar.*/list。
-        \n\n备注(可选)：用作展示的标题。
-        \n\n代码(必填)：通常建议使用原生 JavaScript 编写。如若网站使用 jquery 或 vue.js 亦可使用其语法代码。</string>
     <string name="save_data">流量节省</string>
     <string name="save_data_description">请求网站节省流量</string>
-    <string name="use_line_style_search_box">使用线条风格的搜索框</string>
-    <string name="toast_script_added">已添加脚本</string>
     <string name="action_manage_favorites">管理收藏</string>
     <string name="check_for_updates">检查更新</string>
     <string name="checking_for_updates">正在检查更新</string>
     <string name="latest_version_already_installed">已是最新版本</string>
     <string name="new_version_available">新版本可用</string>
     <string name="action_download_file">下载</string>
-    <string name="entered_full_screen_mode">已进入全屏模式</string>
     <string name="delete_hint">删除(%1$d)</string>
     <string name="follow_system_dark_mode_on">跟随系统暗模式已启用</string>
     <string name="scoped_search">搜索 %1$s</string>
@@ -501,7 +445,6 @@
     <string name="continue_loading">继续加载</string>
     <string name="allow_webpage_access_to_clipboard">允许网页访问剪贴板</string>
     <string name="ask_to_allow_webpage_to_copy_text">是否从 %DOMAIN% 复制文本？</string>
-    <string name="ask_to_allow_webpage_to_paste_text">是否为 %DOMAIN% 粘贴文本？</string>
     <string name="option_allow">允许</string>
     <string name="option_deny">拒绝</string>
     <string name="search_bar_style">搜索框样式</string>
@@ -519,7 +462,6 @@
     <string name="search_part">搜索区域</string>
     <string name="search_part_hide">隐藏</string>
     <string name="search_part_show">展示</string>
-    <string name="image_preference">图像偏好</string>
     <string name="background_color">色彩</string>
     <string name="background_image">图片</string>
     <string name="favorites_clear_icons">清除图标</string>
@@ -527,10 +469,6 @@
     <string name="theme_color">主题色</string>
     <string name="theme_color_dark">暗色</string>
     <string name="theme_color_light">亮色</string>
-    <string name="uninstall_script">卸载脚本</string>
-    <string name="uninstall_script_message">你确定卸载脚本 \"%1$s\" 吗？</string>
-    <string name="install_script">安装脚本</string>
-    <string name="install_script_message">你确定安装脚本 \"%1$s\" 吗？</string>
     <string name="processing_blob_data">处理 blob 数据中…</string>
     <string name="tineye_url">TinEye</string>
     <string name="login_username">用户名 (账号不存在将自动创建)</string>
@@ -546,15 +484,11 @@
     <string name="download_action_resume">恢复</string>
     <string name="app_downloading_files">Via 正在下载文件</string>
     <string name="app_downloading_files_subtitle">点按即可查看下载内容</string>
-    <string name="download_failed_with_code">下载失败：%1$s (%2$d)</string>
     <string name="built_in_download_manager">内建下载器</string>
     <string name="cancel_all">取消全选</string>
     <string name="message_delete_selected_download_tasks">你确定删除这些下载任务吗 (总共 %1$d 个任务)？</string>
     <string name="file_name">文件名</string>
     <string name="rename">重命名</string>
-    <string name="download_error_file_io">I/O 错误</string>
-    <string name="download_error_network">网络错误</string>
-    <string name="download_error_unknown">未知错误</string>
     <string name="message_re_download">你确定删除已下载的文件并重新下载 %1$s 吗？</string>
     <string name="share_image">分享图片</string>
     <string name="ssl_warning_insecure_connection_message">与 %1$s 的连接不安全：\n%2$s\n是否继续？</string>
@@ -769,8 +703,6 @@
     <string name="camera_ask_first_description">网站需先询问并得到许可才能使用摄像头</string>
     <string name="microphone">麦克风</string>
     <string name="microphone_ask_first_description">网站需先询问并得到许可才能使用麦克风</string>
-    <string name="having_trouble_exporting_data">导出数据时遇到了困难？</string>
-    <string name="having_trouble_exporting_data_message">如果你无法手动导出数据，你可以选择直接将数据保存到 %1$s 目录中。你确定这么做吗？</string>
     <string name="on">打开</string>
     <string name="off">关闭</string>
     <string name="default_description">%1$s（默认）</string>
@@ -779,8 +711,6 @@
     <string name="load_skin">加载皮肤</string>
     <string name="load_skin_failed">加载皮肤失败</string>
     <string name="skin_changed">皮肤已变更</string>
-    <string name="desktop_mode_on">电脑模式已开启</string>
-    <string name="desktop_mode_off">电脑模式已关闭</string>
     <string name="import_script_from_url">下载脚本</string>
     <string name="import_script_from_file">导入脚本</string>
     <string name="script_invalid">无效脚本</string>
@@ -854,8 +784,6 @@
     <string name="customize_menu">定制菜单</string>
     <string name="hold_and_drag_to_rearrange_items">按住并拖动即可重新排列条目</string>
     <string name="hold_and_drag_or_tap_to_add_item">按住并拖动或点击来添加条目</string>
-    <string name="ad_blocking_on">广告拦截已开启</string>
-    <string name="ad_blocking_off">广告拦截已关闭</string>
     <string name="enable_tab_bar">启用标签栏</string>
 
 </resources>

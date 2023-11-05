@@ -8,7 +8,6 @@
     <string name="action_share">शेयर</string>
     <string name="action_history">इतिहास</string>
     <string name="action_bookmarks">बुकमार्क</string>
-    <string name="bookmarks_file">बुकमार्क निर्यात</string>
     <string name="action_add_bookmark">बुकमार्क जोड़ें</string>
     <string name="action_night">रात्री स्वरुप</string>
     <string name="action_copy">प्रतिरूप जोड़ना</string>
@@ -48,11 +47,6 @@
     <string name="title_warning">चेतावनी</string>
     <string name="title_custom_homepage">कस्टम होमपेज</string>
     <string name="action_webpage">वेब पृष्ठ</string>
-    <string name="size_largest">विशालतम</string>
-    <string name="size_large">विशाल</string>
-    <string name="size_normal">साधारण</string>
-    <string name="size_small">छोटा</string>
-    <string name="size_smallest">सबसे छोटा</string>
     <string name="hint_title">शीर्षक</string>
     <string name="hint_url">यूआरएल</string>
     <string name="hint_folder">फ़ोल्डर</string>
@@ -75,12 +69,6 @@
     <string name="google_url">Google</string>
     <string name="sougou_url">Sougou</string>
     <string name="block_ads">विज्ञापन अवरोधित करें</string>
-    <string name="message_untrusted_certificate">साइट का प्रमाण पत्र विश्वसनीय नहीं है। कोई बात नहीं आगे बढ़ो?</string>
-    <string name="message_date_invalid_certificate">साइट के प्रमाणपत्र की तिथि अमान्य है। कोई बात नहीं आगे बढ़ो?</string>
-    <string name="message_expired_certificate">साइट का प्रमाणपत्र समाप्त हो गया है। कोई बात नहीं आगे बढ़ो?</string>
-    <string name="message_hostname_mismatch_certificate">साइट का प्रमाणपत्र होस्टनाम से मेल नहीं खाता है। कोई बात नहीं आगे बढ़ो?</string>
-    <string name="message_invalid_certificate">साइट का प्रमाणपत्र अमान्य है। कोई बात नहीं आगे बढ़ो?</string>
-    <string name="message_not_yet_valid_certificate">साइट का प्रमाण पत्र अभी तक मान्य नहीं है। कोई बात नहीं आगे बढ़ो?</string>
     <string name="title_form_resubmission">पर्चा पुनर्निरीक्षण</string>
     <string name="message_form_resubmission">क्या आप डेटा को फिर से भेजना चाहेंगे?</string>
     <string name="message_location">\nक्या आप अपने स्थान का उपयोग करना चाहेंगे?</string>
@@ -136,16 +124,12 @@
     <string name="msg_delete_folder">इस फ़ोल्डर को हटा दें?</string>
     <string name="desc_suggestion">सुझाव</string>
     <string name="desc_home">होम</string>
-    <string name="desc_tab">टैब</string>
     <string name="desc_menu">मेन्यू</string>
-    <string name="desc_filedic">फ़ाइल</string>
     <string name="action_mark">विज्ञापन के रूप में चिह्नित करें</string>
     <string name="dialog_confirm_mark">क्या आप इसे विज्ञापन के रूप में चिह्नित करना चाहेंगे?</string>
     <string name="do_not_track">ट्रैक न करें</string>
-    <string name="add_rule">नियम जोड़ें</string>
     <string name="color_mode">रंग मोड</string>
     <string name="dialog_sure">क्या आप वाकई ऐसा करना चाहते हैं?</string>
-    <string name="action_send_to_launcher">लॉन्चर को भेजें</string>
     <string name="settings_cloud">लेखा</string>
     <string name="user">लॉग इन करें/साइन अप करें</string>
     <string name="user_syns">सिंक</string>
@@ -175,8 +159,6 @@
     <string name="data_cookies">कुकीज़</string>
     <string name="data_cleared">डेटा साफ़ किया गया</string>
 
-    <string name="sync_desc">यदि यह मौजूद नहीं है तो एक खाता बनाया जाएगा</string>
-
     <string name="settings_skin">अनुकूलन</string>
     <string name="default_set">पहले की तरह</string>
     <string name="picture">चित्रों</string>
@@ -184,10 +166,6 @@
     <string name="html_code">HTML कोड</string>
 
     <string name="action_view_image">छवि देखें</string>
-
-    <string name="skin_colorful">रंगीन</string>
-    <string name="skin_fruity">फ्रूटी</string>
-    <string name="skin_transparent">पारदर्शक</string>
 
     <string name="block_popup">पॉप-अप को ब्लॉक करें</string>
 
@@ -210,21 +188,13 @@
     <string name="upload_prompt">यह आपके वर्तमान स्थानीय बुकमार्क और सेटिंग्स को अपलोड करेगा। जारी रहना?</string>
     <string name="none">कोई नहीं</string>
     <string name="check_permission">अनुमति नहीं मिली। इसे अब सेटिंग में सेट करें?</string>
-    <string name="need_permission_hint">वाया काम करने के लिए निम्नलिखित अनुमतियों की आवश्यकता है:\n\n</string>
-    <string name="storage_permission">भंडारण: ब्राउज़र से फ़ाइलें डाउनलोड करने और बुकमार्क आयात / निर्यात करने आदि के लिए।\n\n</string>
-    <string name="location_permission">स्थान: Google मानचित्र जैसी साइटों के लिए, यह सेटिंग्स में डिफ़ॉल्ट रूप से अक्षम है और पॉप-अप पूछ रहा है कि क्या साइट सक्षम होने पर आपके स्थान का उपयोग कर सकती है।\n\n</string>
-    <string name="force_cancel">किसी भी तरह बंद करें</string>
     <string name="restore_tabs_hint">पिछली बार से अशुद्ध टैब पुनर्स्थापित करें?</string>
     <string name="restore_tabs">स्टार्टअप पर टैब बहाल करें</string>
-    <string name="install_success">इंस्टॉलेशन सफल रहा!!!</string>
-    <string name="uninstall_success">स्थापना रद्द करना सफल रहा!!!</string>
     <string name="log_page_hint">अवरुद्ध सूची %1$s में है \nआप इसे सूची बदलने के लिए संपादित कर सकते हैं, या ब्लॉक या चयन करने के लिए निम्न आइटम को लंबे समय तक दबा सकते हैं।</string>
     <string name="fullscreen_1">छिपाने/दिखने के लिए स्क्रॉल करें</string>
     <string name="fullscreen_2">छिपाने/दिखने के लिए क्लिक करें</string>
     <string name="settings_script">स्क्रिप्ट</string>
-    <string name="get_more_script">अधिक लिपियों</string>
     <string name="add_script">स्क्रिप्ट जोड़ें</string>
-    <string name="script_url">डोमेन या * (* मतलब सभी)</string>
     <string name="script_code">कोड (जावास्क्रिप्ट)</string>
     <string name="help_us_translate">अनुवाद करने में हमारी सहायता करें</string>
     <string name="confirm_to_leave">छोड़ने की पुष्टि करें</string>
@@ -232,7 +202,6 @@
     <string name="stay">रहना</string>
     <string name="skin_logo">प्रतीक चिन्ह</string>
     <string name="skin_bg">पृष्ठभूमि</string>
-    <string name="skin_style">बनावट</string>
     <string name="set_it_as_homepage">इसे मुखपृष्ठ के रूप में सेट करें?</string>
     <string name="missing_webview">Android सिस्टम WebView को सही ढंग से स्थापित नहीं किया गया है। क्या आप इसे अभी स्थापित करना चाहते हैं?</string>
     <string name="install">इंस्टॉल करें</string>
@@ -240,7 +209,6 @@
     <string name="glean">बीनना</string>
     <string name="contact_us">हमसे संपर्क करें</string>
     <string name="official_website">सरकारी वेबसाइट</string>
-    <string name="background_opacity">पृष्ठभूमि की अस्पष्टता</string>
     <string name="action_pic_mode">चित्र विधा</string>
     <string name="find_next">अगला ढूंढो</string>
     <string name="find_pre">अंतिम खोजें</string>
@@ -251,7 +219,6 @@
     <string name="no_bookmark">कोई बुकमार्क नहीं~</string>
     <string name="import_or_export_bookmarks">आयात / निर्यात बुकमार्क</string>
     <string name="export_bookmarks">बुकमार्क निर्यात करें</string>
-    <string name="pull_to_refresh_gesture">इशारे को ताज़ा करें</string>
     <string name="back_forward_gesture">बैक फॉरवर्ड जेस्चर</string>
     <string name="toolbar_settings_hint">इसकी लंबी प्रेस (स्लाइड) घटना को सेट करने के लिए निम्नलिखित बटन पर क्लिक करें, और जो सेट किया गया है उसे देखने के लिए इसे लंबे समय तक दबाएं।</string>
     <string name="action_modify">संशोधित करें</string>
@@ -260,7 +227,6 @@
     <string name="disable">अक्षम</string>
     <string name="ui_traditional">सैंडविच</string>
     <string name="color_mode_hint">ऑपरेशन सलाखों के ऑटो-समायोजित रंग</string>
-    <string name="skin_hide_search_part">खोज भाग छिपाएँ</string>
     <string name="file_size">फाइल का आकार: %1$s</string>
     <string name="search_by_image">चित्र द्वारा खोजें</string>
     <string name="resource_sniffer">संसाधन स्निफर</string>
@@ -300,10 +266,8 @@
     <string name="block_hint">%1$s ब्लॉक किया गया\nप्रभावी होने के लिए ताज़ा करें।</string>
     <string name="unblock_hint">%1$s अनब्लॉक किया\nप्रभावी होने के लिए ताज़ा करें।</string>
     <string name="restore_tabs_hint_settings">जब आप \ "गुप्त मोड \" में हो तब टैब को पुनर्स्थापित नहीं किया जाएगा</string>
-    <string name="ignore_secondary_ssl_error">द्वितीयक SSL त्रुटि को अनदेखा करें</string>
     <string name="web_page_debug">वेब पेज डिबगिंग सक्षम करें</string>
     <string name="web_page_debug_info">अब आप अपने फोन को कंप्यूटर से कनेक्ट कर सकते हैं, फिर वेब पेज को क्रोम (पीसी) के साथ डीबग कर सकते हैं \"chrome://inspect\" का उपयोग करके। सेटिंग> डेवलपर विकल्पों में सबसे पहले USB डिबगिंग को सक्षम करना याद रखें।</string>
-    <string name="no_download_tasks">खाली</string>
     <string name="action_re_download">फिर से डाउनलोड</string>
     <string name="action_copy_download_link">डाउनलोड लिंक कॉपी करें</string>
     <string name="download_failed">डाउनलोड विफल</string>

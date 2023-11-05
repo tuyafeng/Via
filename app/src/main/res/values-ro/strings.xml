@@ -8,7 +8,6 @@
     <string name="action_share">Partajare</string>
     <string name="action_history">Istoric</string>
     <string name="action_bookmarks">Preferințe</string>
-    <string name="bookmarks_file">Exportare preferințe</string>
     <string name="action_add_bookmark">Adăugare la preferințe</string>
     <string name="action_night">Mod Întunecat</string>
     <string name="action_copy">Copiere link</string>
@@ -49,11 +48,6 @@
     <string name="title_warning">Avertisment</string>
     <string name="title_custom_homepage">Pagină de pornire particularizată</string>
     <string name="action_webpage">Pagină web</string>
-    <string name="size_largest">Gigantic</string>
-    <string name="size_large">Mare</string>
-    <string name="size_normal">Normal</string>
-    <string name="size_small">Mic</string>
-    <string name="size_smallest">Minuscul</string>
     <string name="hint_title">Titlu</string>
     <string name="hint_url">URL</string>
     <string name="hint_folder">Dosar</string>
@@ -76,12 +70,6 @@
     <string name="google_url">Google</string>
     <string name="sougou_url">Sogou</string>
     <string name="block_ads">Blocare reclame</string>
-    <string name="message_untrusted_certificate">Certificatul site-ului nu este de încredere. Continuați oricum?</string>
-    <string name="message_date_invalid_certificate">Data certificatului acestui site este invalidă. Continuați oricum?</string>
-    <string name="message_expired_certificate">Certificatul site-ului a expirat. Continuați oricum?</string>
-    <string name="message_hostname_mismatch_certificate">Certificatul site-ului nu se potrivește cu numele gazdei. Continuați oricum?</string>
-    <string name="message_invalid_certificate">Certificatul site-ului este invalid. Continuați oricum?</string>
-    <string name="message_not_yet_valid_certificate">Certificatul site-ului nu este încă valid. Continuați oricum?</string>
     <string name="title_form_resubmission">Retrimitere formular</string>
     <string name="message_form_resubmission">Doriți să retrimiteți datele?</string>
     <string name="message_location">\nDorește să vă utilizeze locația</string>
@@ -137,16 +125,12 @@
     <string name="msg_delete_folder">Doriți să ștergeți acest dosar?</string>
     <string name="desc_suggestion">Sugestie</string>
     <string name="desc_home">Acasă</string>
-    <string name="desc_tab">Filă</string>
     <string name="desc_menu">Meniu</string>
-    <string name="desc_filedic">Fișier</string>
     <string name="action_mark">Marcare ca reclamă</string>
     <string name="dialog_confirm_mark">Doriți să marchezi asta ca reclamă?</string>
     <string name="do_not_track">Do not track</string>
-    <string name="add_rule">Adăugare filtru</string>
     <string name="color_mode">Mod culoare</string>
     <string name="dialog_sure">Sunteți sigur(ă) că doriți să continuați?</string>
-    <string name="action_send_to_launcher">Trimitere câtre Lansator</string>
     <string name="settings_cloud">Cont</string>
     <string name="user">Autentificare/Înregistrare</string>
     <string name="user_syns">Sincronizare</string>
@@ -176,8 +160,6 @@
     <string name="data_cookies">Cookie-uri</string>
     <string name="data_cleared">Date șterse</string>
 
-    <string name="sync_desc">Un cont va fi creat dacă nu există unul.</string>
-
     <string name="settings_skin">Personalizare</string>
     <string name="default_set">Prestabilit</string>
     <string name="picture">Imagine</string>
@@ -185,10 +167,6 @@
     <string name="html_code">Cod HTML</string>
 
     <string name="action_view_image">Viz. imagine</string>
-
-    <string name="skin_colorful">Colorat</string>
-    <string name="skin_fruity">Fructat</string>
-    <string name="skin_transparent">Transparent</string>
 
     <string name="block_popup">Blocare fereastră pop-up</string>
 
@@ -211,21 +189,13 @@
     <string name="upload_prompt">Preferințele și setările locale vor fi încărcate. Continuați?</string>
     <string name="none">Niciuna</string>
     <string name="check_permission">Permisiune respinsă. Doriți s-o setați acum în setări?</string>
-    <string name="need_permission_hint">Via are nevoie de următoarele permisiuni pentru a funcționa:\n\n</string>
-    <string name="storage_permission">Stocare: pentru a descărca fișiere și a importa/exporta preferințele, etc.\n\n</string>
-    <string name="location_permission">Locație: pentru site-uri ca Google Maps. Este dezactivată în mod implicit. Când este activată, o fereastră este afișată întrebându-vă dacă site-ul vă poate utiliza locația.\n\n</string>
-    <string name="force_cancel">Închidere forțată</string>
     <string name="restore_tabs_hint">Doriți să restaurați filele din sesiunea trecută?</string>
     <string name="restore_tabs">Restaurare file la pornire</string>
-    <string name="install_success">Instalare finalizată!</string>
-    <string name="uninstall_success">Dezinstalare finalizată!</string>
     <string name="log_page_hint">Lista site-urilor blocate este în %1$s.\nPuteți edita lista, sau să țineți apăsat pe acest element pentru a-i activa sau dezactiva blocada.</string>
     <string name="fullscreen_1">Defilare pentru ascundere/afișare</string>
     <string name="fullscreen_2">Apăsare pentru ascundere/afișare</string>
     <string name="settings_script">Scripturi</string>
-    <string name="get_more_script">Faceți rost de mai multe scripturi</string>
     <string name="add_script">Adăugare script</string>
-    <string name="script_url">Domeniu sau * (* înseamnă tot)</string>
     <string name="script_code">Cod (JavaScript)</string>
     <string name="help_us_translate">Ajutați-ne cu traducerile</string>
     <string name="confirm_to_leave">Confirmați ieșirea</string>
@@ -233,7 +203,6 @@
     <string name="stay">Rămâneți</string>
     <string name="skin_logo">Logo</string>
     <string name="skin_bg">Fundal</string>
-    <string name="skin_style">Stil</string>
     <string name="set_it_as_homepage">Doriți să îl setați ca pagină de pornire?</string>
     <string name="missing_webview">Android System WebView nu este instalat corect. Doriți să îl instalați acum?</string>
     <string name="install">Instalare</string>
@@ -241,7 +210,6 @@
     <string name="glean">Glean</string>
     <string name="contact_us">Contactează-ne</string>
     <string name="official_website">Site oficial</string>
-    <string name="background_opacity">Opacitatea fundalului</string>
     <string name="action_pic_mode">Mod imagine</string>
     <string name="find_next">Găsire urm.</string>
     <string name="find_pre">Găsire ant.</string>
@@ -252,7 +220,6 @@
     <string name="no_bookmark">Nicio preferință</string>
     <string name="import_or_export_bookmarks">Importare/exportare preferințe</string>
     <string name="export_bookmarks">Exportare preferințe</string>
-    <string name="pull_to_refresh_gesture">Gest tragere pentru reîmprospătare</string>
     <string name="back_forward_gesture">Gest Înainte/Înapoi</string>
     <string name="toolbar_settings_hint">Apăsați un buton de mai jos pentru a-i seta acțiunea pt. apăsare lungă, sau țineți apăsat pentru a vedea ce acțiune a fost setată. Puteți și să trageți pe bara de instrumente pentru a seta acțiunea de tragere.</string>
     <string name="action_modify">Modificare</string>
@@ -261,7 +228,6 @@
     <string name="disable">Dezactivat</string>
     <string name="ui_traditional">Sendviș</string>
     <string name="color_mode_hint">Ajustare automată culoare bară de instrumente</string>
-    <string name="skin_hide_search_part">Ascundere Căutare</string>
     <string name="file_size">Dimensiune fișier: %1$s</string>
     <string name="search_by_image">Căutare după fotografie</string>
     <string name="resource_sniffer">Resource sniffer</string>
@@ -299,10 +265,8 @@
     <string name="data_file">Exportare date</string>
     <string name="bookmarks_data_to_long">Datele preferințelor sunt prea mari, dar celelalte date for fi importate normal. Continuați?</string>
     <string name="restore_tabs_hint_settings">Filele nu vor fi restaurate când ești în modul Incognito.</string>
-    <string name="ignore_secondary_ssl_error">Ignorare eroare SSL secundară</string>
     <string name="web_page_debug">Activare depanare pagină</string>
     <string name="web_page_debug_info">Acum puteți conecta telefonul la computer, apoi să depanați pagina web cu Chrome (PC) utilizând \"chrome://inspect\". Nu uitați întâi să activați depanarea USB în meniu: Mai multe instrumente > Instrumente pt. dezvoltatori.</string>
-    <string name="no_download_tasks">Gol</string>
     <string name="action_re_download">Redescărcare</string>
     <string name="action_copy_download_link">Copiere link de descărcare</string>
     <string name="download_failed">Descărcare eșuată</string>
@@ -339,9 +303,7 @@
     <string name="custom_filter">Filtru particularizat</string>
     <string name="add_filter_subscription">Adăugare abonament</string>
     <string name="edit_filter_subscription">Editare abonament</string>
-    <string name="updating_filter_subscriptions">Actualizare abonamente…</string>
     <string name="update_filter_subscriptions_completed">Actualizare abonamente completă.</string>
-    <string name="update_filter_subscription_failed">Actualizare abonamente eșuată.\n%1$s</string>
     <string name="has_not_been_updated">nu a fost actualizat</string>
     <string name="just_now">chiar acum</string>
     <string name="url_is_invalid">URL-ul este invalid.</string>
@@ -371,7 +333,6 @@
     <string name="privacy_policy">Politica de confidențialitate</string>
     <string name="terms_of_use">Termeni de utilizare</string>
     <string name="welcome">Bun venit</string>
-    <string name="agreement_message">Bine ați venit la Via. Vă rugăm citiți următorul agrement înainte de a utiliza Via. Trebuie să fiți de acord cu și să acceptați toți termenii înainte să ne utilizați serviciul.</string>
     <string name="agreement_message_short">Trebuie să fiți de acord cu și să acceptați toți termenii înainte să ne utilizați serviciul.</string>
     <string name="agree_and_continue">Sunt de acord</string>
     <string name="disagree">Nu sunt de acord</string>
@@ -381,21 +342,13 @@
     <string name="delete_account_hint">Șterge contul de pe server</string>
     <string name="delete_account_message">După trimiterea cererii de ștergere, contul va fi deconectat și va intra într-o perioadă de ștergere de 15 zile. Dacă vă reconectați și încărcați date în perioada de ștergere, cererea de ștergere va fi anulată. După ce perioada de ștergere se termină, contul și toate datele asociate sunt șterse de pe server.\nVă rugăm introduceți-vă parola pentru a trimite cererea de ștergere.</string>
     <string name="confirm_to_delete">Confirmare ștergere</string>
-    <string name="items_selected">%1d selectate</string>
     <string name="select_all">Selectați tot</string>
-    <string name="multi_choice">Multi-choice</string>
-    <plurals name="delete_download_tasks">
-        <item quantity="one">O descărcare ștearsă</item>
-        <item quantity="few">%d descărcări șterse</item>
-        <item quantity="other">%d descărcări șterse</item>
-    </plurals>
     <string name="open_source_licenses">Licențe open source</string>
     <string name="debugging_info">Informații de depanare</string>
     <string name="join_qq_group">Alăturare în grupul QQ</string>
     <string name="join_telegram_group">Alăturare în grupul Telegram</string>
     <string name="follow_me_on_twitter">Urmărește-mă pe Twitter</string>
     <string name="follow_me_on_weibo">Urmărește-mă pe Weibo</string>
-    <string name="version">Versiune</string>
     <string name="paste_and_go">Paste &amp; Go</string>
     <string name="night_filter_for_web_contents">Filtru de noapte pentru conținutul web</string>
     <string name="force_dark_mode_for_web_contents">Forțare Mod Întunecat pentru conținutul web</string>
@@ -412,7 +365,6 @@
     <string name="sort_by_alphabetical_order">Alfabetic</string>
     <string name="select_folder">Selectare dosar</string>
     <string name="move">Mutare</string>
-    <string name="bookmarks_history">Preferințe/Istoric</string>
     <string name="done">Terminat</string>
     <string name="root_folder">Dosar principal</string>
     <string name="delete_item_message">Sunteți sigur(ă) că doriți să ștergeți %1$s?</string>
@@ -431,34 +383,22 @@
     <string name="stroke_width">Grosime margine</string>
     <string name="stroke_opacity">Opacitate margine</string>
     <string name="opacity">Opacitate</string>
-    <string name="disable_website_icons">Dezactivare iconițe site-uri</string>
-    <string name="disable_icon_color">Dezactivare culoare iconițe</string>
     <string name="font_style">Stil font</string>
     <string name="bold">Îngroșat</string>
     <string name="italics">Italic</string>
     <string name="clear_website_icon_cache">Ștergere cache iconițe</string>
     <string name="clear_website_icon_cache_message">Notă: Asta va șterge toate iconițele favoritelor de pe pagina de pornire. Fiecare iconiță va fi redescărcată următoarea oară când vizitați site-ul corespunzător.</string>
-    <string name="use_blur_instead_of_transparency">Folosiți efect de estompare în loc de transparență</string>
     <string name="desc_favorite_icon">Iconiță site favorit</string>
-    <string name="script_remarks">Observații</string>
     <string name="action_save">Salvare</string>
     <string name="reset_to_default_settings">Resetare la setările prestabilite</string>
-    <string name="script_sites">Site-uri (ca *.foo.com,bar.*/list)</string>
-    <string name="simple_guide_of_writing_script">Scriptul scris va lua efect automat când site-ul se încarcă
-    \n\nSite-uri(obligatoriu): Site-ul suportă wildcard-ul \"*\", și site-urile sunt separate prin \",\", de exemplu: *.foo.com,bar.*/list.
-    \n\nObservații(opțional): Folosit ca titlu.
-    \n\nCod(obligatoriu): Este recomandat să utilizați JavaScript nativ. Puteți folosi și sintaxa jQuery sau vue.js dacă site-ul suportă aceste framework-uri.</string>
     <string name="save_data">Salvare date</string>
     <string name="save_data_description">Activare mod de economisire a datelor pe site-uri suportate</string>
-    <string name="use_line_style_search_box">Folosire bară de căutare stil linie</string>
-    <string name="toast_script_added">Script adăugat cu succes</string>
     <string name="action_manage_favorites">Manager de favorite</string>
     <string name="check_for_updates">Căutare actualizări</string>
     <string name="checking_for_updates">Se caută actualizări…</string>
     <string name="latest_version_already_installed">Cea mai recentă versiune este deja instalată</string>
     <string name="new_version_available">Versiune nouă disponibilă</string>
     <string name="action_download_file">Descărcare</string>
-    <string name="entered_full_screen_mode">Mod Ecran complet activat</string>
     <string name="delete_hint">Ștergere(%1$d)</string>
     <string name="follow_system_dark_mode_on">Urmarea setării Mod Întunecat a sistemului este activată</string>
     <string name="scoped_search">Căutare %1$s</string>
