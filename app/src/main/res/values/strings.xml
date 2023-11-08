@@ -796,5 +796,15 @@
     <string name="hold_and_drag_to_rearrange_items">Hold and drag to rearrange items</string>
     <string name="hold_and_drag_or_tap_to_add_item">Hold and drag or tap to add item</string>
     <string name="enable_tab_bar">Enable tab bar</string>
+    <string name="enable_scripts">Enable scripts</string>
+    <string name="scripts_enabled">Scripts enabled</string>
+    <string name="print_or_pdf">Print/PDF</string>
+    <string name="site_info">Site info</string>
+    <string name="is_on">%s is on</string>
+    <string name="is_off">%s is off</string>
+    <string name="is_set">%s is set</string>
+    <string name="is_required">%s is required</string>
+    <string name="close_tab_description">Close %s</string>
+    <string name="toast_enable_tab_bar">Please choose another toolbar UI mode to enable the tab bar</string>
 
 </resources>
