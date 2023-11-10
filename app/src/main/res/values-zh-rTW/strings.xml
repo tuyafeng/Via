@@ -784,4 +784,14 @@
     <string name="hold_and_drag_to_rearrange_items">按住並拖動即可重新排列條目</string>
     <string name="hold_and_drag_or_tap_to_add_item">按住並拖動或按下來新增條目</string>
     <string name="enable_tab_bar">啟用分頁欄</string>
+    <string name="enable_scripts">啟用指令碼</string>
+    <string name="scripts_enabled">指令碼已啟用</string>
+    <string name="print_or_pdf">列印/PDF</string>
+    <string name="site_info">網站資訊</string>
+    <string name="is_on">%s 已開啟</string>
+    <string name="is_off">%s 已關閉</string>
+    <string name="is_set">%s 已設定</string>
+    <string name="is_required">%s 為必填項</string>
+    <string name="close_tab_description">關閉 %s 分頁</string>
+    <string name="toast_enable_tab_bar">請選擇另一種工具列介面模式以啟用分頁欄</string>
 </resources>
