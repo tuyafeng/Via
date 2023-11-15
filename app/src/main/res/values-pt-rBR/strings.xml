@@ -794,4 +794,14 @@
     <string name="hold_and_drag_to_rearrange_items">Segure e arraste para reorganizar os itens</string>
     <string name="hold_and_drag_or_tap_to_add_item">Segure e arraste ou toque para adicionar um item</string>
     <string name="enable_tab_bar">Ativar barra de abas</string>
+    <string name="enable_scripts">Ativar scripts</string>
+    <string name="scripts_enabled">Scripts ativado</string>
+    <string name="print_or_pdf">Imprimir/PDF</string>
+    <string name="site_info">Informações do site</string>
+    <string name="is_on">%s está ativado</string>
+    <string name="is_off">%s está desativado</string>
+    <string name="is_set">%s está definido</string>
+    <string name="is_required">%s é obrigatório</string>
+    <string name="close_tab_description">Fechar %s</string>
+    <string name="toast_enable_tab_bar">Por favor, escolha uma posição da barra de ferramentas para ativar a barra de abas</string>
 </resources>
