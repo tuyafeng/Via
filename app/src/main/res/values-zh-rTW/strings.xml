@@ -629,7 +629,7 @@
     <string name="action_default_location">預設路徑</string>
     <string name="action_choose_folder">選擇一個路徑…</string>
     <string name="title_permission_denied">沒有權限</string>
-    <string name="message_reselect_download_location">下載路徑的儲存權限已被復原。請重新選擇下載路徑。</string>
+    <string name="message_reselect_download_location">下載路徑的儲存權限已被移除。請重新選擇下載路徑。</string>
     <string name="detect_language">檢測語言</string>
     <string name="title_source_language">源語言</string>
     <string name="title_target_language">目標語言</string>
