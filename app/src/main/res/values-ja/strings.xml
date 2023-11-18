@@ -3,6 +3,7 @@
 
     <string name="app_name">Via</string>
     <string name="search_in_via">Viaで検索する</string>
+    <string name="paste_and_go">貼り付けて開く</string>
     <string name="action_new_tab">新しいタブ</string>
     <string name="action_open_in_new">新しいタブで開く</string>
     <string name="action_open_in_background">バックグラウンドタブで開く</string>
