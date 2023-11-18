@@ -15,11 +15,11 @@ Via Browserは、以下の機能を備えた強力なブラウザです。
 ダウンロードして試してください:)
 
 [Google Playから入手する](https://play.google.com/store/apps/details?id=mark.via.gp)
-[國際版の入手](https://res.viayoo.com/v1/via-release.apk)
+[国際版の入手](https://res.viayoo.com/v1/via-release.apk)
 [中国版の入手](https://res.viayoo.com/v1/via-release-cn.apk)
 
 ### ローカライズに協力する
-私たちは、誰でもローカライズに協力できるように奨励しています。以下は具體方法で。
+私たちは、誰でもローカライズに協力できるようにしています。以下は具体的な方法です。
 1. このリポジトリをフォークする
 2. `app/src/main/res/values/strings.xml` を `app/src/main/res/values-%(lang)/` のようなパスにコピーします。[*ISO を使用することを忘れないでください。 639-1 言語コード*](http://www.loc.gov/standards/iso639-2/php/code_list.php) `%(lang)` を置き換えます
 3. `app/src/main/res/values-%(lang)/strings.xml`を翻訳します。
@@ -48,8 +48,8 @@ Viaは、Androidプラットフォームに含まれる組み込みのWebViewレ
 
 バージョン4.3.4から、Viaは組み込みのQRコードスキャナーを追加しました。
 
-*** どうやってあなたに連絡できますか？***
-[Twitter](https://twitter.com/Yafeng78600505) または [Weibo](https://weibo.com/u/7558014976) でご連絡いただければ、できるだけ早く返信させていただきます。
+*** どうやって作者に連絡できますか？***
+[X（旧Twitter）](https://twitter.com/Yafeng) または [Weibo](https://weibo.com/u/7558014976) でご連絡いただければ、できるだけ早く返信させていただきます。
 
 Github で [問題を提起](https://github.com/tuyafeng/Via/issues/new) することもできます。私は通常、週に 1 回問題を確認して返信します。
 
