@@ -2,6 +2,7 @@
 <resources tools:ignore="MissingTranslation" xmlns:tools="http://schemas.android.com/tools">
 
     <string name="app_name">Via</string>
+    <string name="search_in_via">Viaで検索する</string>
     <string name="action_new_tab">新しいタブ</string>
     <string name="action_open_in_new">新しいタブで開く</string>
     <string name="action_open_in_background">バックグラウンドタブで開く</string>
@@ -229,6 +230,15 @@
     <string name="ui_simple_top">上部に配置</string>
     <string name="ui_simple_bottom">下部に配置</string>
     
+    <!-- 設定｜一般｜タブバーを有効にする -->
+    <string name="enable_tab_bar">タブバーを有効にする</string>
+
+    <!-- 設定｜一般｜メニューのカスタマイズ -->
+    <string name="customize_menu">メニューのカスタマイズ</string>
+    <string name="hold_and_drag_to_rearrange_items">長押し＆ドラッグで項目の並び替えができます。</string>
+    <string name="hold_and_drag_or_tap_to_add_item">長押し＆ドラッグ、またはタップで項目の追加が可能です。</string>
+    <string name="action_reset">リセット</string>
+    
     <!-- 設定｜一般｜言語設定 -->
     <string name="language">言語設定</string>
     
@@ -292,7 +302,9 @@
     <string name="settings_operation">ジェスチャー</string>
     <string name="operation_hint">ジェスチャーの設定を行えます</string>    
     <string name="back_forward_gesture">ページ間をスワイプ</string>    
-    <string name="volume">音量キーでスクロール</string>    
+    <string name="volume">音量キーでスクロール</string>
+    <string name="enable_video_player_gestures">ビデオプレイヤーのジェスチャーを有効にする</string>
+    <string name="enable_video_player_gestures_description">ビデオの全画面表示の際、スワイプで早戻しや早送り、明るさやボリュームの調整が可能です（サイトが対応している場合）。</string>
     <string name="keyboard_shortcuts">キーボードショートカット</string>
     <string name="toolbar_settings_hint">下の各アイコンをタップするとジェスチャーを設定できます。長押しすると設定中のジェスチャーが表示されます。</string>
     
@@ -400,10 +412,18 @@
     <string name="option_allow">許可</string>
     <string name="option_deny">拒否</string>
     <string name="title_disable_safe_browsing">セーフブラウジングを無効にします</string>
+    <string name="title_disable_safe_browsing_description">セーフブラウジングにより、リンク先のマルウェアやフィッシング攻撃から保護できます。</string>
+    <string name="title_ignore_ssl_warnings">SSL証明書の警告を無視します</string>
+    <string name="title_ignore_ssl_warnings_description">SSL証明書の警告を無視すると、ウェブサイトへの接続が安全でなくなる可能性があるので注意してください。</string>
+    <string name="message_ignore_ssl_warnings">SSL証明書は、ブラウザとウェブサーバ間の通信を暗号化するために使用される電子証明書です。警告を無視するとパスワードなどを盗まれる可能性があるほか、詐欺サイトやなりすましなどの被害にあう可能性があります。</string>
+    <string name="title_ignore_ssl_warnings_confirmation">SSL証明書の警告を無視することによるリスクを理解しました。</string>
     
     <!-- 設定｜スクリプト -->
     <string name="settings_script">スクリプト</string>
     <string name="add_script">スクリプトの追加</string>
+    <string name="import_script_from_url">URLからスクリプトをインポートする</string>
+    <string name="import_script_from_file">ファイルからスクリプトをインポートする</string>
+    <string name="script_invalid">スクリプトが無効です</string>
     <string name="script_code">コード (JavaScript)</string>
     <string name="action_save">保存</string>
     
@@ -425,6 +445,7 @@
     <string name="bookmark_added">ブックマーク追加済み</string>
     <string name="root_folder">ルートフォルダー</string>
     <string name="sort_order">並び替え</string>
+    <string name="new_folder">新しいフォルダ</string>
     <string name="sort_by_oldest_first">登録が古い順</string>
     <string name="sort_by_newest_first">登録が新しい順</string>
     <string name="sort_by_alphabetical_order">アルファベット順</string>
@@ -444,8 +465,16 @@
     <string name="today">今日</string>
     <string name="yesterday">昨日</string>
     <!--  日付の書き方は右のサイトを参照してください: https://docs.oracle.com/javase/7/docs/api/java/text/SimpleDateFormat.html  -->
-    <string name="same_year_date_format">MMM月 dd日 EEE曜日</string>
-    <string name="default_date_format">yyyy年 MMM月 dd日 EEE曜日</string>
+    <string name="same_year_date_format">MM月 dd日 EEE曜日</string>
+    <string name="default_date_format">yyyy年 MM月 dd日 EEE曜日</string>
+    <string name="delete_history_from">いつからの履歴を削除しますか？</string>
+    <string name="last_hour">過去一時間</string>
+    <string name="today_and_yesterday">今日及び昨日</string>
+    <string name="last_seven_days">過去7日間</string>
+    <string name="all_time">すべての履歴</string>
+
+    <!-- 保存済みページ -->
+    <string name="export">エクスポート</string>
     
     <!-- ダウンロード --> 
     <string name="action_re_download">再度ダウンロード</string>
