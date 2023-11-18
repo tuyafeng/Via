@@ -212,7 +212,6 @@
     <string name="allow_page_redirection_msg">Allow page redirection?</string>
     <string name="enable_site_conf">\"%1$s\"のサイト別設定を有効にする</string>
 
-    
     <!-- 設定｜一般｜ナイトモード -->
     <string name="night_filter_for_web_contents">ウェブページへのフィルター</string>
     <string name="force_dark_mode_for_web_contents">ウェブページへのナイトモードを強制する</string>
@@ -365,8 +364,6 @@
  
     <!-- 設定｜カスタマイズ｜背景 -->
     <string name="skin_bg">背景</string>
-    
-    <!-- 設定｜カスタマイズ｜スタイル -->
 
     <!-- 設定｜カスタマイズ｜ブックマーク -->
     <string name="favorites_icon_style">アイコン</string>
@@ -505,7 +502,7 @@
 
     <!-- ポップアップ -->     
     <string name="allow_website_to_open_app_message">ウェブサイトを %1$s で開きますか？</string>
-    <string name="no_resource">このページにはリソースがありません。</string>
+    <string name="no_resource">このページにはメディアがありません。</string>
     <string name="resource_sniffer_hint">\nPS: 見つからない場合は、動画や音声を再生してみてください。</string>
     <string name="no_network_log">このページにはネットワークログはありません。</string>
     <string name="block_popup_message">ポップアップをブロックしました</string>
@@ -521,13 +518,17 @@
     <string name="restore_tabs_hint_settings">シークレットモードになったため、タブは復元されません。</string>
     <string name="incognito_on">シークレットモードを使用中です</string>
     <string name="incognito_off">シークレットモードを解除しました</string>
+    <string name="title_close_all_tabs">すべてのタブを閉じる</string>
+    <string name="message_close_all_tabs_before_disabling_incognito_mode">シークレットモードを解除する際に、すべてのタブを閉じますか？</string>
+    <string name="action_close">閉じる</string>
+    <string name="action_keep">保持する</string>
     
     <!-- メニュー -->
     <string name="action_incognito">シークレットモード</string>
     <string name="action_find">ページ内検索</string>
     <string name="action_translate">翻訳</string>
     <string name="network_log">ネットワークログ</string>
-    <string name="resource_sniffer">リソース検知</string>
+    <string name="resource_sniffer">メディア検知</string>
     <string name="action_pcview">デスクトップモード</string>
     <string name="action_source">ソース表示</string>
     <string name="action_share">共有</string>
@@ -548,39 +549,25 @@
     <string name="block_hint">ブロック済み: %1$s\n再読み込みして有効化します。</string>
     <string name="unblock_hint">ブロック解除済み: %1$s\n再読み込みして有効化します。</string>
 
-    
     <string name="search_hint">検索</string>
     <string name="action_delete">削除</string>
     <string name="action_delete_all">全て削除</string>
-
     <string name="title_custom_homepage">ページを設定</string>
-
     <string name="hint_folder">フォルダー</string>
     <string name="title_edit_bookmark">編集</string>
     <string name="action_edit">編集</string>
-
     <string name="download_pending">ダウンロード中…</string>
     <string name="cannot_download">\"http\"または\"https\"を使用したサイトからのみファイルをダウンロードできます。</string>
-
-
-
     <string name="title_sign_in">サインイン</string>
-
     <string name="untitled">空白のページ</string>
-
     <string name="title_file_chooser">ファイルを開く</string>
-
     <string name="message_exit">もう一度押すとアプリを終了します</string>
     <string name="dialog_message">メッセージ</string>
     <string name="wait_a_moment">しばらくお待ちください&#8230;</string>
     <string name="toast_operation_failed">失敗しました</string>
-
-
     <string name="toast_clear_defaults">設定を消去してください</string>
     <string name="toast_copy_url_successful">アドレスをコピーしました</string>
     <string name="toast_copy_text_successful">テキストをコピーしました</string>
-
-
     <string name="operation_none">アクションなし</string>
     <string name="operation_reload">再読み込み</string>
     <string name="operation_top">トップへ戻る</string>
@@ -595,8 +582,6 @@
     <string name="operation_nexttab">次のタブ</string>
     <string name="operation_goback">前に戻る</string>
     <string name="operation_goforward">次に進む</string>
-
-
     <string name="desc_suggestion">提案</string>
     <string name="desc_home">ホーム</string>
     <string name="desc_menu">メニュー</string>
@@ -605,15 +590,12 @@
     <string name="msg_intent">外部アプリの起動をしますか？</string>
     <string name="action_mark">広告をマーク</string>
     <string name="dialog_confirm_mark">要素をブロックしますか？</string>
-
     <string name="dialog_sure">よろしいですか？</string>
     <string name="toast_operation_done">完了しました</string>
-
     <string name="crash_info">エラーが発生しました :(</string>
     <string name="crash_restart">再起動</string>
     <string name="crash_close">終了</string>
     <string name="upload_completed">報告成功 :)</string>
-
     <string name="open_with">開く&#8230;</string>
     <string name="download_completed">ダウンロード完了</string>
     <string name="toast_fullscreen_off">全画面解除</string>
@@ -622,26 +604,18 @@
     <string name="action_saved_pages">保存済みページ</string>
     <string name="saved_page_successfully">保存しました</string>
     <string name="deleted_failed">削除できませんでした。ダウンロードファイルのパス: </string>
-
     <string name="empty_hint">表示できる項目はありません</string>
-
     <string name="conn_timeout">接続がタイムアウトしました</string>
-
     <string name="already_default">デフォルトのブラウザに設定されています</string>
-
     <string name="set_to_default">設定を適用するには Via で %1$s を開いてください</string>
-
     <string name="sync_prompt">ブックマークと設定を上書きしますか？</string>
     <string name="upload_prompt">ブックマークと設定をアップロードしますか？</string>
     <string name="sougou_url">sougou</string>
     <string name="restore_tabs_hint">前回閉じたタブを開きますか？</string>
     <string name="check_permission">権限へのアクセス許可が必要です。</string>
-
     <string name="official_website">公式サイト</string>
     <string name="set_it_as_homepage">ホームページに設定しますか？</string>
-
     <string name="stay">とどまる</string>
-
     <string name="leave">離れる</string>
     <string name="install">インストール</string>
     <string name="crash_hint">申し訳ございません、Viaがクラッシュしました。</string>
@@ -654,17 +628,12 @@
     <string name="find_pre">前へ</string>
     <string name="find_next">次へ</string>
     <string name="action_modify">編集</string>
-
     <string name="no_bookmark">ブックマークはありません</string>
     <string name="settings_general">一般</string>
-
     <string name="adblock_info">%1$d件の広告がブロックされ、%2$s節約しました</string>
-
     <string name="cannot_work">「http(s)」で始まるURLのみで動作します。</string>
     <string name="search_by_image">画像で検索</string>
-
     <string name="res_log_hint">アイテムを表示するにはタップ、ダウンロードするには長押ししてください。</string>
-
     <string name="action_downloads">ダウンロード</string>
     <string name="empty_username_info">ユーザー名を入力してください。</string>
     <string name="empty_password_info">パスワードを入力してください。</string>
@@ -685,7 +654,5 @@
     <string name="file_does_not_exist">ファイルがありません</string>
     <string name="dialog_message_from">%1$sからのメッセージ</string>
     <string name="url_is_invalid">URLが無効です</string>
-
     <string name="require_javascript_enabled">JavaScriptが有効になってないと有効になりません。</string>
-
 </resources>
