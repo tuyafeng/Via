@@ -8,7 +8,6 @@
     <string name="action_share">Megosztás</string>
     <string name="action_history">Előzmények</string>
     <string name="action_bookmarks">Könyvjelzők</string>
-    <string name="bookmarks_file">Könyvjelző Export</string>
     <string name="action_add_bookmark">Hozzáadás Könyvjelzőnek</string>
     <string name="action_night">Éjszakai Mód</string>
     <string name="action_copy">Link Másolása</string>
@@ -44,11 +43,6 @@
     <string name="title_warning">Figyelmeztetés</string>
     <string name="title_custom_homepage">Egyéni Kezdőlap</string>
     <string name="action_webpage">Weboldal</string>
-    <string name="size_largest">Legnagyobb</string>
-    <string name="size_large">Nagy</string>
-    <string name="size_normal">Normál</string>
-    <string name="size_small">Kicsi</string>
-    <string name="size_smallest">Legkisebb</string>
     <string name="hint_title">Cím</string>
     <string name="hint_url">URL</string>
     <string name="hint_folder">Mappa</string>
@@ -71,7 +65,6 @@
     <string name="google_url">Google</string>
     <string name="sougou_url">Sougou</string>
     <string name="block_ads">Reklámok Blokkolása</string>
-    <string name="message_untrusted_certificate">Ennek a webhelynek nincs megbízható tanúsítványa. Így is megnyíljon?</string>
     <string name="title_form_resubmission">Adatok Újraküldése</string>
     <string name="message_form_resubmission">Szeretnéd újraküldeni az adatokat?</string>
     <string name="message_location">\nSzeretnéd a helyadatokat használni?</string>
@@ -127,16 +120,12 @@
     <string name="msg_delete_folder">Törlöd ezt a mappát?</string>
     <string name="desc_suggestion">javaslat</string>
     <string name="desc_home">kezdőlap</string>
-    <string name="desc_tab">lapfül</string>
     <string name="desc_menu">menü</string>
-    <string name="desc_filedic">fájl</string>
     <string name="action_mark">Megjelölés Reklámnak</string>
     <string name="dialog_confirm_mark">Szeretnéd ezt megjelölni reklámnak?</string>
     <string name="do_not_track">Ne Kövessenek</string>
-    <string name="add_rule">Szabály Hozzáadása</string>
     <string name="color_mode">Szín Mód</string>
     <string name="dialog_sure">Biztosan ezt szeretnéd tenni?</string>
-    <string name="action_send_to_launcher">Küldés Kezdőképernyőre</string>
     <string name="settings_cloud">Profil</string>
     <string name="user">Bejelentkezés/Regisztráció</string>
     <string name="user_syns">Szinkronizálás</string>
@@ -166,8 +155,6 @@
     <string name="data_cookies">Sütik</string>
     <string name="data_cleared">Adatok törölve</string>
 
-    <string name="sync_desc">Új profil kerül létrehozásra, ha eddig nem létezett</string>
-
     <string name="settings_skin">Testreszabás</string>
     <string name="default_set">Alapértelmezett</string>
     <string name="picture">Kép</string>
@@ -175,10 +162,6 @@
     <string name="html_code">Html Kód</string>
 
     <string name="action_view_image">Kép Megtekintése</string>
-
-    <string name="skin_colorful">Lekerekített</string>
-    <string name="skin_fruity">Szögletes</string>
-    <string name="skin_transparent">Átlátszó</string>
 
     <string name="block_popup">Felugró Ablakok Tiltása</string>
 
@@ -201,21 +184,13 @@
     <string name="upload_prompt">Ez fel fogja tölteni az aktuális helyi könyvjelzőidet és beállításaidat. Folytatod?</string>
     <string name="none">Semmi</string>
     <string name="check_permission">Hozzáférés megtagadva. Beállítod most a beállításoknál?</string>
-    <string name="need_permission_hint">A Via-nak szüksége van a következő engedélyekre a helyes működés érdekében.\n\n</string>
-    <string name="storage_permission">Tárhely: ahhoz szükséges, hogy le tudjon tölteni fájlokat a böngészőből és importálni/exportálni tudjon könyvjelzőket stb.\n\n</string>
-    <string name="location_permission">Helymeghatározás: a Google Maps-hez hasonló oldalakhoz szükséges, alapértelmezetten ki van kapcsolva a beállításoknál, egy felugró üzenet jelenik meg, ha egy weboldal engedélyt kér a helymeghatározáshoz.\n\n</string>
-    <string name="force_cancel">Erőltetett bezárás</string>
     <string name="restore_tabs_hint">Visszaállítod a legutóbbi böngészés nem bezárt lapjait?</string>
     <string name="restore_tabs">Lapok helyreállítása induláskor</string>
-    <string name="install_success">Telepítés Sikeres!!!</string>
-    <string name="uninstall_success">Eltávolítás Sikeres!!!</string>
     <string name="log_page_hint">Kimásolhatod a következő linket vagy domaint  és beillesztheted ide %1$s, hogy blokkold a betöltését az Egyéni Blokkolás funkcióval.</string>
     <string name="fullscreen_1">Görgetés az elrejtéshez/megjelenítéshez</string>
     <string name="fullscreen_2">Kattintás az elrejtéshez/megjelenítéshez</string>
     <string name="settings_script">Script</string>
-    <string name="get_more_script">További Scriptek Beszerzése</string>
     <string name="add_script">Script Hozzáadása</string>
-    <string name="script_url">domain vagy * (* jelenti az összeset)</string>
     <string name="script_code">kód (Javascript)</string>
     <string name="help_us_translate">Segíts a fordításban</string>
     <string name="confirm_to_leave">Kilépés megerősítése</string>
@@ -223,7 +198,6 @@
     <string name="stay">Marad</string>
     <string name="skin_logo">Logo</string>
     <string name="skin_bg">Háttér</string>
-    <string name="skin_style">Stílus</string>
     <string name="set_it_as_homepage">Beállítod kezdőlapnak?</string>
     <string name="missing_webview">Az Android System WebView nincs helyesen telepítve. Szeretnéd most telepíteni?</string>
     <string name="install">Telepítés</string>
@@ -231,7 +205,6 @@
     <string name="glean">Glean</string>
     <string name="contact_us">Kapcsolatfelvétel</string>
     <string name="official_website">Hivatalos weboldal</string>
-    <string name="background_opacity">Háttér átlátszósága</string>
     <string name="action_pic_mode">Képnézegető Mód</string>
     <string name="find_next">Következő keresése</string>
     <string name="find_pre">Előző keresése</string>
@@ -242,7 +215,6 @@
     <string name="no_bookmark">Nincs könyvjelző~</string>
     <string name="import_or_export_bookmarks">Könyvjelző Import/Export </string>
     <string name="export_bookmarks">Könyvjelző exportálás</string>
-    <string name="pull_to_refresh_gesture">Lapfrissítés lehúzás kézmozdulattal</string>
     <string name="back_forward_gesture">Vissza és Előre léptetés oldalsó csúsztatással</string>
     <string name="toolbar_settings_hint">Kattints egy gombra (vagy csúsztasd az egész gombsort oldalra) ahhoz, hogy beállítsd mit csináljon hosszú kattintáskor (vagy csúsztatáskor), ismételd meg, hogy lásd mi az aktuális beállítás.</string>
     <string name="action_modify">Módosítás</string>
@@ -251,7 +223,6 @@
     <string name="disable">Letiltás</string>
     <string name="ui_traditional">Tradicionális</string>
     <string name="color_mode_hint">Állapotsor színezése böngészéskor</string>
-    <string name="skin_hide_search_part">Keresési Részleg Elrejtése</string>
     <string name="file_size">Fájl mérete: %1$s</string>
     <string name="search_by_image">Keresés kép alapján</string>
     <string name="resource_sniffer">Erőforrás nézegető</string>

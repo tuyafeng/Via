@@ -7,7 +7,6 @@
     <string name="action_share">Deli</string>
     <string name="action_history">Zgodovina</string>
     <string name="action_bookmarks">Zaznamki</string>
-    <string name="bookmarks_file">Izvoz zaznamkov</string>
     <string name="action_add_bookmark">Dodaj zaznamek</string>
     <string name="action_night">Nočni način</string>
     <string name="action_copy">Kopiraj povezavo</string>
@@ -48,11 +47,6 @@
     <string name="title_warning">Opozorilo</string>
     <string name="title_custom_homepage">Prilagojena začetna stran</string>
     <string name="action_webpage">Spletna stran</string>
-    <string name="size_largest">Največja</string>
-    <string name="size_large">Velika</string>
-    <string name="size_normal">Normalna</string>
-    <string name="size_small">Majhna</string>
-    <string name="size_smallest">Najmanjša</string>
     <string name="hint_title">Naslov</string>
     <string name="hint_url">URL</string>
     <string name="hint_folder">Mapa</string>
@@ -75,12 +69,6 @@
     <string name="google_url">Google</string>
     <string name="sougou_url">Sogou</string>
     <string name="block_ads">Blokiranje oglasov</string>
-    <string name="message_untrusted_certificate">Certifikat strani ni zaupanja vreden. Želite vseeno nadaljevati?</string>
-    <string name="message_date_invalid_certificate">Datum certifikata strani ni veljaven. Želite vseeno nadaljevati?</string>
-    <string name="message_expired_certificate">Certifikat strani je potekel. Želite vseeno nadaljevati?</string>
-    <string name="message_hostname_mismatch_certificate">Certifikat strani se ne ujema z imenom gostitelja. Želite vseeno nadaljevati?</string>
-    <string name="message_invalid_certificate">Certifikat strani ni veljaven. Želite vseeno nadaljevati?</string>
-    <string name="message_not_yet_valid_certificate">Certifikat strani še ni veljaven. Želite vseeno nadaljevati?</string>
     <string name="title_form_resubmission">Ponovno pošiljanje obrazca</string>
     <string name="message_form_resubmission">Želite ponovno poslati podatke?</string>
     <string name="message_location">\nŽelite uporabiti svojo lokacijo?</string>
@@ -136,16 +124,12 @@
     <string name="msg_delete_folder">Želite izbrisati to mapo?</string>
     <string name="desc_suggestion">Predlog</string>
     <string name="desc_home">Domov</string>
-    <string name="desc_tab">Zavihek</string>
     <string name="desc_menu">Meni</string>
-    <string name="desc_filedic">Datoteka</string>
     <string name="action_mark">Označi kot oglas</string>
     <string name="dialog_confirm_mark">Želite to označiti kot oglas?</string>
     <string name="do_not_track">Ne sledi</string>
-    <string name="add_rule">Dodaj filter</string>
     <string name="color_mode">Barvni način</string>
     <string name="dialog_sure">Ste prepričani, da želite nadaljevati?</string>
-    <string name="action_send_to_launcher">Pošlji v zaganjalnik</string>
     <string name="settings_cloud">Račun</string>
     <string name="user">Prijavi se/registriraj se</string>
     <string name="user_syns">Sinhroniziraj</string>
@@ -173,16 +157,12 @@
     <string name="data_storage">Spletna shramba</string>
     <string name="data_cookies">Piškotki (status prijave)</string>
     <string name="data_cleared">Podatki so izbrisani</string>
-    <string name="sync_desc">Račun bo ustvarjen, če ne obstaja.</string>
     <string name="settings_skin">Prilagoditev</string>
     <string name="default_set">Privzeto</string>
     <string name="picture">Slika</string>
     <string name="text">Besedilo</string>
     <string name="html_code">HTML koda</string>
     <string name="action_view_image">Ogled slike</string>
-    <string name="skin_colorful">Barvit</string>
-    <string name="skin_fruity">Saden</string>
-    <string name="skin_transparent">Prosojen</string>
     <string name="block_popup">Blokiraj pojavna okna</string>
     <string name="action_save_web_page">Shrani stran</string>
     <string name="action_saved_pages">Shramba strani</string>
@@ -197,21 +177,13 @@
     <string name="upload_prompt">Obstoječi lokalni zaznamki in nastavitve bodo naloženi. Želite nadaljevati?</string>
     <string name="none">Nič</string>
     <string name="check_permission">Dovoljenje je zavrnjeno. Ga želite sedaj nastaviti v nastavitvah?</string>
-    <string name="need_permission_hint">Via za pravilno delovanje potrebuje naslednja dovoljenja:\n\n</string>
-    <string name="storage_permission">Shramba: za prenašanje datotek iz brskalnika, uvažanje/izvažanje zaznamkov itd.\n\n</string>
-    <string name="location_permission">Lokacija: za spletna mesta, kot so Google Zemljevidi, je v nastavitvah privzeto onemogočena. Ko je vključena, se prikaže pojavno okno, kadar spletno mesto želi dostop do lokacije.\n\n</string>
-    <string name="force_cancel">Prisilno zapri</string>
     <string name="restore_tabs_hint">Želite obnoviti nezaprte zavihke z zadnje seje?</string>
     <string name="restore_tabs">Obnovitev zavihkov ob zagonu</string>
-    <string name="install_success">Namestitev je uspešna!</string>
-    <string name="uninstall_success">Odstranitev je uspešna!</string>
     <string name="log_page_hint">Seznam blokiranih strani in domen se nahaja v %1$s. Seznam lahko urejate ali pa izberete in pridržite tiste elemente, ki jih želite (od)blokirati.</string>
     <string name="fullscreen_1">Podrsni za skritje/prikaz</string>
     <string name="fullscreen_2">Pritisni za skritje/prikaz</string>
     <string name="settings_script">Skripti</string>
-    <string name="get_more_script">Pridobi več skriptov</string>
     <string name="add_script">Nov skript</string>
-    <string name="script_url">Domena ali * (* pomeni vse)</string>
     <string name="script_code">Koda (JavaScript)</string>
     <string name="help_us_translate">Pomagajte nam pri prevodu</string>
     <string name="confirm_to_leave">Potrdi opustitev</string>
@@ -219,7 +191,6 @@
     <string name="stay">Ostani</string>
     <string name="skin_logo">Logo</string>
     <string name="skin_bg">Ozadje</string>
-    <string name="skin_style">Slog</string>
     <string name="set_it_as_homepage">Želite nastaviti kot začetno stran?</string>
     <string name="missing_webview">Android System WebView ni pravilno nameščen. Ga želite namestiti sedaj?</string>
     <string name="install">Namesti</string>
@@ -227,7 +198,6 @@
     <string name="glean">Razišči</string>
     <string name="contact_us">Kontaktirajte nas</string>
     <string name="official_website">Uradno spletno mesto</string>
-    <string name="background_opacity">Motnost ozadja</string>
     <string name="action_pic_mode">Slikovni način</string>
     <string name="find_next">Najdi naslednjo ponovitev</string>
     <string name="find_pre">Najdi prejšnjo ponovitev</string>
@@ -238,7 +208,6 @@
     <string name="no_bookmark">Ni zaznamkov</string>
     <string name="import_or_export_bookmarks">Uvoz/izvoz zaznamkov</string>
     <string name="export_bookmarks">Izvozi zaznamke</string>
-    <string name="pull_to_refresh_gesture">Povleci za osvežitev</string>
     <string name="back_forward_gesture">Podrsni za Nazaj/Naprej</string>
     <string name="toolbar_settings_hint">Pritisnite izbran spodnji gumb, da določite dogodek pri njegovem daljšem pridržanju. Obstoječo nastavitev izbranega gumba preverite tako, da ga dalj časa pridržite.</string>
     <string name="action_modify">Spremeni</string>
@@ -247,7 +216,6 @@
     <string name="disable">Onemogočeno</string>
     <string name="ui_traditional">Sendvič</string>
     <string name="color_mode_hint">Samodejno prilagajanje barve orodnih vrstic</string>
-    <string name="skin_hide_search_part">Skrij predel za iskanje</string>
     <string name="file_size">Velikost datoteke: %1$s</string>
     <string name="search_by_image">Iskanje po sliki</string>
     <string name="resource_sniffer">Vohljač virov</string>
@@ -285,10 +253,8 @@
     <string name="data_file">Izvoz podatkov</string>
     <string name="bookmarks_data_to_long">Podatki z zaznamki so preveliki za nalaganje, ostali podatki pa bodo ustrezno naloženi. Želite nadaljevati?</string>
     <string name="restore_tabs_hint_settings">Zavihki ne bodo obnovljeni, ko ste v zasebnem načinu.</string>
-    <string name="ignore_secondary_ssl_error">Prezri sekundarno napako SSL</string>
     <string name="web_page_debug">Omogoči razhroščevanje strani</string>
     <string name="web_page_debug_info">Sedaj lahko vaš telefon povežete z računalnikom in nato stran v Chromu (PC) razhroščite z uporabo \"chrome://inspect\". Pred tem ne pozabite omogočiti USB razhroščevanja v meniju: Več orodij > Orodja za razvijalce.</string>
-    <string name="no_download_tasks">Prazno</string>
     <string name="action_re_download">Ponovno prenesi</string>
     <string name="action_copy_download_link">Kopiraj povezavo za prenos</string>
     <string name="download_failed">Prenos ni uspel</string>
@@ -325,9 +291,7 @@
     <string name="custom_filter">Filter po meri</string>
     <string name="add_filter_subscription">Dodaj naročnino s filtri</string>
     <string name="edit_filter_subscription">Uredi naročnino s filtri</string>
-    <string name="updating_filter_subscriptions">Posodabljanje naročnin s filtri</string>
     <string name="update_filter_subscriptions_completed">Posodobitev naročnin s filtri je končana.</string>
-    <string name="update_filter_subscription_failed">Posodobitev naročnin s filtri ni uspela.\n%1$s</string>
     <string name="has_not_been_updated">ni posodobljeno</string>
     <string name="just_now">pravkar</string>
     <string name="url_is_invalid">URL ni veljaven.</string>
@@ -358,7 +322,6 @@
     <string name="privacy_policy">Politika zasebnosti</string>
     <string name="terms_of_use">Pogoji uporabe</string>
     <string name="welcome">Dobrodošli</string>
-    <string name="agreement_message">Dobrodošli v brskalniku Via. Prosimo, da pred uporabo brskalnika Via natančno preberete sledeči sporazum. Pred pričetkom uporabe naše storitve se morate strinjati in sprejeti vse pogoje uporabe.</string>
     <string name="agreement_message_short">Preden pričnete uporabljati našo storitev, se morate strinjati in sprejeti vse pogoje.</string>
     <string name="agree_and_continue">Strinjam se</string>
     <string name="disagree">Ne strinjam se</string>
@@ -368,23 +331,13 @@
     <string name="delete_account_hint">Izbriši račun s strežnika</string>
     <string name="delete_account_message">Po oddaji zahteve za izbris računa bo le-ta odjavljen in pričela se bo 15-dnevna čakalna doba za brisanje računa. Če se boste v tem obdobju ponovno prijavili v račun in naložili podatke, bo zahteva za izbris umaknjena. Po poteku čakalne dobe bo račun s povezanimi podatki trajno izbrisan s strežnika.\nProsimo vnesite vaše geslo za oddajo zahteve.</string>
     <string name="confirm_to_delete">Potrditev brisanja</string>
-    <string name="items_selected">Izbrano: %1d</string>
     <string name="select_all">Izberi vse</string>
-    <string name="multi_choice">Več izbir</string>
-    <plurals name="delete_download_tasks">
-        <item quantity="zero">Odstranjenih 0 opravil za prenos</item>
-        <item quantity="one">Odstranjeno 1 opravilo za prenos</item>
-        <item quantity="two">Odstranjeni 2 opravili za prenos</item>
-        <item quantity="few">Odstranjena %d opravila za prenos</item>
-        <item quantity="other">Odstranjenih %d opravil za prenos</item>
-    </plurals>
     <string name="open_source_licenses">Odprtokodne licence</string>
     <string name="debugging_info">Informacije za razhroščevanje</string>
     <string name="join_qq_group">Pridružite se QQ skupini</string>
     <string name="join_telegram_group">Pridružite se Telegram skupini</string>
     <string name="follow_me_on_twitter">Sledite nam na Twitterju</string>
     <string name="follow_me_on_weibo">Sledite mi na Weiboju</string>
-    <string name="version">Različica</string>
     <string name="paste_and_go">Prilepi &amp; pojdi</string>
     <string name="night_filter_for_web_contents">Nočni filter za spletne vsebine</string>
     <string name="force_dark_mode_for_web_contents">Vsiljen temni način za spletne vsebine</string>
@@ -401,7 +354,6 @@
     <string name="sort_by_alphabetical_order">Po abecedi</string>
     <string name="select_folder">Izberi mapo</string>
     <string name="move">Premakni</string>
-    <string name="bookmarks_history">Zaznamki/Zgodovina</string>
     <string name="done">Končano</string>
     <string name="root_folder">Korenska mapa</string>
     <string name="delete_item_message">Ste prepričani, da želite izbrisati %1$s?</string>
@@ -420,34 +372,22 @@
     <string name="stroke_width">Širina obrob</string>
     <string name="stroke_opacity">Motnost obrob</string>
     <string name="opacity">Motnost</string>
-    <string name="disable_website_icons">Izklopi ikone spletnih strani</string>
-    <string name="disable_icon_color">Izklopi barve ikon</string>
     <string name="font_style">Slog pisave</string>
     <string name="bold">Krepka</string>
     <string name="italics">Ležeča</string>
     <string name="clear_website_icon_cache">Počisti predpomnilnik ikon spletnih strani</string>
     <string name="clear_website_icon_cache_message">S tem bodo počiščene vse ikone priljubljenih strani na začetni strani. Vsaka ikona bo prenesena naslednjič, ko boste obiskali pripadajočo spletno stran.</string>
-    <string name="use_blur_instead_of_transparency">Uporabi učinek zameglitve namesto prosojnosti</string>
     <string name="desc_favorite_icon">Ikona priljubljene strani</string>
-    <string name="script_remarks">Opomba</string>
     <string name="action_save">Shrani</string>
     <string name="reset_to_default_settings">Ponastavi na privzete nastavitve</string>
-    <string name="script_sites">Strani (kot je *.foo.com,bar.*/list)</string>
-    <string name="simple_guide_of_writing_script">Napisan skript se bo pričel samodejno izvajati, ko bo spletna stran naložena.
-    \n\nStrani (zahtevano): stran s skriptom podpira nadomestni znak \"*\". Različne strani se ločijo z nadomestnim znakom \",\". Primer: *.foo.com,bar.*/list.
-    \n\nOpomba (izbirno): uporabljena je kot naslov skripta.
-    \n\nKoda (zahtevano): priporočljivo je uporabljati nativni JavaScript. Uporabita se lahko tudi sintaksi jquery ali vue.js, če ju spletna stran koristi.</string>
     <string name="save_data">Varčevanje s podatki</string>
     <string name="save_data_description">Vklopi način varčevanja s podatki na združljivih spletnih straneh</string>
-    <string name="use_line_style_search_box">Za iskalno polje uporabi črto namesto okvirja</string>
-    <string name="toast_script_added">Skript uspešno dodan</string>
     <string name="action_manage_favorites">Upravitelj priljubljenih</string>
     <string name="check_for_updates">Preveri posodobitve</string>
     <string name="checking_for_updates">Preverjanje posodobitev</string>
     <string name="latest_version_already_installed">Najnovejša različica je že nameščena</string>
     <string name="new_version_available">Na voljo je nova različica</string>
     <string name="action_download_file">Prenos</string>
-    <string name="entered_full_screen_mode">Ste v celozaslonskem načinu</string>
     <string name="delete_hint">Izbriši (%1$d)</string>
     <string name="follow_system_dark_mode_on">Vklopljeno je sledenje temnemu načinu sistema</string>
     <string name="scoped_search">Išči %1$s</string>
@@ -508,7 +448,6 @@
     <string name="continue_loading">Nadaljuj z nalaganjem</string>
     <string name="allow_webpage_access_to_clipboard">Dostopanje spletne strani do odložišča</string>
     <string name="ask_to_allow_webpage_to_copy_text">Ali res želite kopirati besedilo iz %DOMAIN%?</string>
-    <string name="ask_to_allow_webpage_to_paste_text">Ali res želite prilepiti besedilo v %DOMAIN%?</string>
     <string name="option_allow">Dovoljeno</string>
     <string name="option_deny">Zavrnjeno</string>
     <string name="search_bar_style">Slog vrstice</string>
@@ -526,7 +465,6 @@
     <string name="search_part">Iskalni predel</string>
     <string name="search_part_hide">Skrito</string>
     <string name="search_part_show">Prikazano</string>
-    <string name="image_preference">Nastavitev slik</string>
     <string name="background_color">Barva</string>
     <string name="background_image">Slika</string>
     <string name="favorites_clear_icons">Počisti ikone</string>
@@ -534,10 +472,6 @@
     <string name="theme_color">Barva teme</string>
     <string name="theme_color_dark">Temna</string>
     <string name="theme_color_light">Svetla</string>
-    <string name="uninstall_script">Odstrani skript</string>
-    <string name="uninstall_script_message">Ste prepričani, da želite odstraniti skript \"%1$s\"?</string>
-    <string name="install_script">Namesti skript</string>
-    <string name="install_script_message">Ste prepričani, da želite namestiti skript \"%1$s\"?</string>
     <string name="processing_blob_data">Obdelovanje zbirke binarnih podatkov…</string>
     <string name="tineye_url">TinEye</string>
     <string name="login_username">Uporabniško ime (račun bo ustvarjen, če ne obstaja)</string>
@@ -553,15 +487,11 @@
     <string name="download_action_resume">Nadaljuj</string>
     <string name="app_downloading_files">Via prenaša datoteke</string>
     <string name="app_downloading_files_subtitle">Pritisni za ogled prenosov</string>
-    <string name="download_failed_with_code">Prenos ni uspel: %1$s (%2$d)</string>
     <string name="built_in_download_manager">Vgrajeni upravitelj prenosov</string>
     <string name="cancel_all">Prekliči vse</string>
     <string name="message_delete_selected_download_tasks">Želite izbrisati te prenose (skupaj %1$d)?</string>
     <string name="file_name">Ime datoteke</string>
     <string name="rename">Preimenuj</string>
-    <string name="download_error_file_io">I/O napaka</string>
-    <string name="download_error_network">Omrežna napaka</string>
-    <string name="download_error_unknown">Neznana napaka</string>
     <string name="message_re_download">Ste prepričani, da želite izbrisati preneseno datoteko in ponovno prenesti %1$s?</string>
     <string name="share_image">Deli sliko</string>
     <string name="ssl_warning_insecure_connection_message">Povezava do %1$s ni varna:\n%2$s\nVseeno nadaljujem?</string>
@@ -750,7 +680,6 @@
     <string name="blocked">Blokirano</string>
     <string name="allowed">Dovoljeno</string>
     <string name="exception">Izjema</string>
-    <string name="Exception">Izjema</string>
     <string name="block">Blokiraj</string>
     <string name="allow">Dovoli</string>
     <string name="all_sites">Vse strani</string>
@@ -785,8 +714,6 @@
     <string name="camera_ask_first_description">Vprašaj, preden spletnim mestom dovolite uporabo kamere</string>
     <string name="microphone">Mikrofon</string>
     <string name="microphone_ask_first_description">Vprašaj, preden spletnim mestom dovolite uporabo mikrofona</string>
-    <string name="having_trouble_exporting_data">Imate težave pri izvozu podatkov?</string>
-    <string name="having_trouble_exporting_data_message">Podatke lahko shranite v mapo %1$s, če jih ne morete ročno izvoziti. Želite nadaljevati?</string>
     <string name="on">Vklop</string>
     <string name="off">Izklop</string>
     <string name="default_description">%1$s (privzeto)</string>
@@ -795,8 +722,6 @@
     <string name="load_skin">Naloži preobleko</string>
     <string name="load_skin_failed">Nalaganje preobleke ni uspelo</string>
     <string name="skin_changed">Preobleka je spremenjena</string>
-    <string name="desktop_mode_on">Namizni način je vklopljen</string>
-    <string name="desktop_mode_off">Namizni način je izklopljen</string>
     <string name="import_script_from_url">Uvozi skript iz URL-ja</string>
     <string name="import_script_from_file">Uvozi skript iz datoteke</string>
     <string name="script_invalid">Skript ni veljaven</string>
@@ -856,5 +781,21 @@
     <string name="page_redirection_add_site_exception_ask_first">Vprašaj pred preusmeritvijo navzkrižnega izvora za določeno stran.</string>
     <string name="allow_page_redirection_to_msg">Dovoli preusmeritev strani na %1$s?</string>
     <string name="allow_page_redirection_msg">Dovoli preusmeritev strani?</string>
+    <string name="sort">Sortiranje</string>
+    <string name="new_folder">Nova mapa</string>
+    <string name="page_up">Zgornja stran</string>
+    <string name="page_down">Spodnja stran</string>
+    <string name="select_action">Izberi dejanje</string>
+    <string name="tab_actions">Dejanja zavihkov</string>
+    <string name="feature_actions">Dejanja funkcij</string>
+    <string name="address_bar_actions">Dejanja naslovne vrstice</string>
+    <string name="webpage_actions">Dejanja spletne strani</string>
+    <string name="message_close_all_tabs">Želite zapreti vse zavihke?</string>
+    <string name="search_in_via">Išči v Via</string>
+    <string name="following_filters_invalid_message">Naslednji filtri niso v pravilni obliki:</string>
+    <string name="customize_menu">Prilagajanje menija</string>
+    <string name="hold_and_drag_to_rearrange_items">Pridržite in povlecite, da prerazporedite elemente</string>
+    <string name="hold_and_drag_or_tap_to_add_item">Pridržite in povlecite ali tapnite, da dodate element</string>
+    <string name="enable_tab_bar">Omogoči vrstico z zavihki</string>
 	
 </resources>

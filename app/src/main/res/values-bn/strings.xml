@@ -7,7 +7,6 @@
     <string name="action_share">শেয়ার করুন</string>
     <string name="action_history">ব্রাউজিংয়ের ইতিহাস</string>
     <string name="action_bookmarks">বুকমার্ক</string>
-    <string name="bookmarks_file">বুকমার্ক এক্সপোর্ট</string>
     <string name="action_add_bookmark">বুকমার্কে সংযুক্তকরন</string>
     <string name="action_night">রাত মোড</string>
     <string name="action_copy">লিংক কপি করুন</string>
@@ -47,11 +46,6 @@
     <string name="title_warning">সতর্কতা</string>
     <string name="title_custom_homepage">কাস্টম হোমপেজ</string>
     <string name="action_webpage">ওয়েবপৃষ্ঠা</string>
-    <string name="size_largest">বৃহত্তম</string>
-    <string name="size_large">বড়</string>
-    <string name="size_normal">সাধারণ</string>
-    <string name="size_small">ছোট</string>
-    <string name="size_smallest">কনিষ্ঠ</string>
     <string name="hint_title">শিরোনাম</string>
     <string name="hint_url">ইউআরএল</string>
     <string name="hint_folder">ফোল্ডার</string>
@@ -74,12 +68,6 @@
     <string name="google_url">গুগল</string>
     <string name="sougou_url">সোগোউ</string>
     <string name="block_ads">ব্লক বিজ্ঞাপন</string>
-    <string name="message_untrusted_certificate">সাইটের শংসাপত্র বিশ্বস্ত নয়। যাইহোক এগিয়ে যান?</string>
-    <string name="message_date_invalid_certificate">সাইটের শংসাপত্রের তারিখটি অবৈধ। যাইহোক এগিয়ে যান?</string>
-    <string name="message_expired_certificate">সাইটের শংসাপত্রের মেয়াদ শেষ হয়ে গেছে। যাইহোক এগিয়ে যান?</string>
-    <string name="message_hostname_mismatch_certificate">সাইটের শংসাপত্রটি হোস্টনামের সাথে মেলে না। যাইহোক এগিয়ে যান?</string>
-    <string name="message_invalid_certificate">সাইটের শংসাপত্রটি অবৈধ। যাইহোক এগিয়ে যান?</string>
-    <string name="message_not_yet_valid_certificate"> সাইটের শংসাপত্রটি এখনও বৈধ নয়। যাইহোক এগিয়ে যান?</string>
     <string name="title_form_resubmission">ফর্ম পুনরায় জমা দিন</string>
     <string name="message_form_resubmission">আপনি কি ডেটা আবার পাঠাতে চান?</string>
     <string name="message_location">\nআপনার অবস্থান ব্যবহার করতে চান</string>
@@ -135,16 +123,12 @@
     <string name="msg_delete_folder">এই ফোল্ডারটি মুছবেন?</string>
     <string name="desc_suggestion">পরামর্শ </string>
     <string name="desc_home">হোম</string>
-    <string name="desc_tab">ট্যাব</string>
     <string name="desc_menu">মেনু</string>
-    <string name="desc_filedic">ফাইল</string>
     <string name="action_mark">বিজ্ঞাপন হিসেবে চিহ্নিত করুন</string>
     <string name="dialog_confirm_mark">আপনি কি এটি বিজ্ঞাপন হিসাবে চিহ্নিত করতে চান?</string>
     <string name="do_not_track">ট্র্যাক করবেন না</string>
-    <string name="add_rule">বিধি যুক্ত করুন</string>
     <string name="color_mode">রঙ মোড</string>
     <string name="dialog_sure">আপনি কি নিশ্চিত যে আপনি এটি করতে চান?</string>
-    <string name="action_send_to_launcher">লঞ্চারে পাঠান</string>
     <string name="settings_cloud">অ্যাকাউন্ট</string>
     <string name="user">লগ ইন / সাইন আপ</string>
     <string name="user_syns">সিঙ্ক</string>
@@ -174,8 +158,6 @@
     <string name="data_cookies">কুকিজ</string>
     <string name="data_cleared">ডেটা সাফ করা</string>
 
-    <string name="sync_desc">যদি কোনও অ্যাকাউন্ট না থাকে তবে এটি তৈরি করা হবে</string>
-
     <string name="settings_skin">কাস্টমাইজেশন</string>
     <string name="default_set">ডিফল্ট</string>
     <string name="picture">ছবি </string>
@@ -183,10 +165,6 @@
     <string name="html_code">এইচটিএমএল কোড</string>
 
     <string name="action_view_image">চিত্র দেখুন</string>
-
-    <string name="skin_colorful">রঙিন</string>
-    <string name="skin_fruity">ফল</string>
-    <string name="skin_transparent">স্বচ্ছ</string>
 
     <string name="block_popup">পপ-আপ ব্লক করুন</string>
 
@@ -209,21 +187,13 @@
     <string name="upload_prompt">এটি আপনার বর্তমান স্থানীয় বুকমার্ক এবং সেটিংস আপলোড করবে। চালিয়ে যেতে চান?</string>
     <string name="none">কিছুই নয়</string>
     <string name="check_permission">অনুমতি অস্বীকার করা হয়েছে, এখনই সেটিংসে সেট করবেন?</string>
-    <string name="need_permission_hint">ভায়া ব্রাউজারের কাজ করার জন্য নীচের অনুমতিগুলো প্রয়োজন:\n\n</string>
-    <string name="storage_permission">স্টোরেজ: ব্রাউজার থেকে ফাইলগুলো ডাউনলোড করতে এবং বুকমার্কগুলি আমদানি / রফতানি করার জন্য\n\n</string>
-    <string name="location_permission">অবস্থান: গুগল ম্যাপের মতো সাইটের ক্ষেত্রে সেটিংসে এটি ডিফল্টরূপে অক্ষম হয়ে যায় এবং এটি যখন সক্ষম হয় তখন কোনও সাইট আপনার অবস্থান ব্যবহার করতে পারে কিনা তা জানতে একটি পপ-আপ প্রদর্শন করে\n\n</string>
-    <string name="force_cancel">জোর করে বন্ধ করুন</string>
     <string name="restore_tabs_hint">শেষ বার থেকে অনাবৃত ট্যাবগুলি পুনরুদ্ধার করবেন?</string>
     <string name="restore_tabs">অ্যাপ চালুর সময় ট্যাবগুলি পুনরুদ্ধার করুন</string>
-    <string name="install_success">ইনস্টল প্রক্রিয়া সফল!!!</string>
-    <string name="uninstall_success">আনইনস্টল প্রক্রিয়া সফল!!!</string>
     <string name="log_page_hint">অবরুদ্ধ তালিকাটি %1$s এর মধ্যে রয়েছে \n আপনি এটি তালিকা পরিবর্তন করতে সম্পাদনা করতে পারেন, বা ব্লকটি নির্বাচন করতে নীচের আইটেমটি দীর্ঘক্ষণ টিপতে পারেন </string>
     <string name="fullscreen_1">আড়াল/প্রদর্শন করতে স্ক্রোল করুন</string>
     <string name="fullscreen_2">আড়াল/প্রদর্শন করতে ক্লিক করুন</string>
     <string name="settings_script">স্ক্রিপ্ট</string>
-    <string name="get_more_script">আরও স্ক্রিপ্ট পান</string>
     <string name="add_script">স্ক্রিপ্ট যুক্ত করুন</string>
-    <string name="script_url">ডোমেন বা *(* অর্থ সমস্ত)</string>
     <string name="script_code">কোড (জাভাস্ক্রিপ্ট)</string>
     <string name="help_us_translate">অনুবাদ করতে আমাদের সহায়তা করুন</string>
     <string name="confirm_to_leave">ছেড়ে যাওয়ার নিশ্চয়তা</string>
@@ -231,7 +201,6 @@
     <string name="stay">থাকুন</string>
     <string name="skin_logo">লোগো</string>
     <string name="skin_bg">পটভূমি</string>
-    <string name="skin_style">স্টাইল</string>
     <string name="set_it_as_homepage">এটিকে হোমপেজ হিসাবে সেট করবেন?</string>
     <string name="missing_webview">অ্যান্ড্রয়েড সিস্টেম ওয়েবভিউ সঠিকভাবে ইনস্টল করা যায়নি। আপনি কি এখনই এটি ইনস্টল করতে চান?</string>
     <string name="install">ইনস্টল</string>
@@ -239,7 +208,6 @@
     <string name="glean">গ্লান</string>
     <string name="contact_us">যোগাযোগ করুন</string>
     <string name="official_website">অফিসিয়াল ওয়েবসাইট</string>
-    <string name="background_opacity">ব্যাকগ্রাউন্ডের অস্বচ্ছতা</string>
     <string name="action_pic_mode">চিত্র মোড</string>
     <string name="find_next">পরবর্তী সন্ধান করুন</string>
     <string name="find_pre">শেষ সন্ধান করুন</string>
@@ -250,7 +218,6 @@
     <string name="no_bookmark">কোনও বুকমার্ক নেই~</string>
     <string name="import_or_export_bookmarks">বুকমার্কগুলি আমদানি / রফতানি</string>
     <string name="export_bookmarks">বুকমার্ক রফতানি</string>
-    <string name="pull_to_refresh_gesture">অঙ্গভঙ্গি রিফ্রেশ করতে টানুন</string>
     <string name="back_forward_gesture">পিছনে ফরোয়ার্ড অঙ্গভঙ্গি</string>
     <string name="toolbar_settings_hint">এর দীর্ঘ প্রেস (স্লাইড) ইভেন্টটি সেট করতে নীচের বোতামটি টিপুন এবং কী সেট হয়েছে তা দেখার জন্য এটি দীর্ঘ টিপুন</string>
     <string name="action_modify">পরিবর্তন করুন</string>
@@ -259,7 +226,6 @@
     <string name="disable">অক্ষম</string>
     <string name="ui_traditional">স্যান্ডউইচ</string>
     <string name="color_mode_hint">অপারেশন বারগুলির রঙ স্বয়ংক্রিয়ভাবে সমন্বয় করুন</string>
-    <string name="skin_hide_search_part">অনুসন্ধানের অংশটি লুকান</string>
     <string name="file_size">ফাইলের আকার: %1$s</string>
     <string name="search_by_image">ছবি অনুসারে অনুসন্ধান করুন</string>
     <string name="resource_sniffer">রিসোর্স স্নিফার</string>
@@ -297,10 +263,8 @@
     <string name="data_file">ডেটা এক্সপোর্ট</string>
     <string name="bookmarks_data_to_long">বুকমার্কগুলির ডেটা আপলোড করার জন্য খুব বড় তবে অন্যান্য ডেটা সাধারণত আপলোড করা হবে। চালিয়ে যেতে চান?</string>
     <string name="restore_tabs_hint_settings">আপনি যখন \"ছদ্মবেশী মোডে \" থাকবেন তখন ট্যাবগুলি পুনরুদ্ধার করা হবে না</string>
-    <string name="ignore_secondary_ssl_error">মাধ্যমিক এসএসএল ত্রুটি উপেক্ষা করুন</string>
     <string name="web_page_debug">ওয়েব পৃষ্ঠা ডিবাগিং সক্ষম করুন</string>
     <string name="web_page_debug_info">এখন আপনি আপনার ফোনটি কম্পিউটারের সাথে সংযুক্ত করতে পারেন, তারপরে ("ক্রোম://inspect\". \" ব্যবহার করে ক্রোম (পিসি) দিয়ে ওয়েব পৃষ্ঠাটি ডিবাগ করতে পারেন। প্রথমে সেটিংস> বিকাশকারী বিকল্পগুলিতে ইউএসবি ডিবাগিং সক্ষম করতে ভুলবেন না</string>
-    <string name="no_download_tasks">খালি</string>
     <string name="action_re_download">পুনরায় ডাউনলোড</string>
     <string name="action_copy_download_link">ডাউনলোড লিঙ্কটি অনুলিপি করুন</string>
     <string name="download_failed">ডাউনলোড ব্যর্থ</string>

@@ -102,7 +102,6 @@
     <string name="action_new">新規作成</string>
     <string name="hint_username">ユーザー名</string>
     <string name="hint_password">パスワード</string>
-    <string name="sync_desc">アカウントが存在しない場合は新規にアカウントが作成されます。</string>
 
     <!-- 設定｜一般｜User Agent -->
     <string name="agent">User Agent</string>
@@ -152,9 +151,7 @@
     <string name="custom_filter">カスタムフィルター</string>
     <string name="add_filter_subscription">購読するフィルターを登録します</string>
     <string name="edit_filter_subscription">購読中のフィルターを編集します</string>
-    <string name="updating_filter_subscriptions">購読中のフィルターを更新しています</string>
     <string name="update_filter_subscriptions_completed">購読中のフィルターの更新が完了しました</string>
-    <string name="update_filter_subscription_failed">フィルター「\n%1$s」の更新に失敗しました</string>
     <string name="has_not_been_updated">更新されていません</string>
     <string name="just_now">たった今</string>
     
@@ -168,7 +165,6 @@
     <string name="blocked">ブロックしました</string>
     <string name="allowed">許可しました</string>
     <string name="exception">例外</string>
-    <string name="Exception">例外</string>
     <string name="block">ブロック</string>
     <string name="allow">許可</string>
     <string name="agent_add_site_exception">指定したUser Agentでページを開きます</string>
@@ -213,8 +209,6 @@
     <string name="page_redirection_add_site_exception_ask_first">Ask first before cross-origin redirection for a specific site.</string>
     <string name="allow_page_redirection_to_msg">Allow page redirection to %1$s?</string>
     <string name="allow_page_redirection_msg">Allow page redirection?</string>
-    <string name="having_trouble_exporting_data">Having trouble exporting data?</string>
-    <string name="having_trouble_exporting_data_message">You can save the data to the %1$s directory if you cannot export the data manually. Do you want to continue?</string>
     <string name="enable_site_conf">\"%1$s\"のサイト別設定を有効にする</string>
 
     
@@ -260,12 +254,7 @@
     
     <!-- 設定｜一般｜フォントサイズ -->    
     <string name="size">フォントサイズ</string>
-    <string name="size_largest">最大</string>
-    <string name="size_large">大</string>
-    <string name="size_normal">標準</string>
-    <string name="size_small">小</string>
-    <string name="size_smallest">最小</string>
-    
+
     <!-- 設定｜一般｜画面の向き -->
     <string name="orientation">画面の向き</string>
     <string name="follow_system">システム設定</string>
@@ -348,13 +337,9 @@
     <string name="stroke_width">枠線の幅</string>
     <string name="stroke_opacity">枠線の不透明度</string>
     <string name="opacity">不透明度</string>
-    <string name="disable_website_icons">ウェブサイトのアイコンを無効にする</string>
-    <string name="disable_icon_color">アイコンの色を無効にする</string>
-    <string name="use_blur_instead_of_transparency">検索ボックスをぼかす</string>
     <string name="clear_website_icon_cache">ウェブサイトのアイコンキャッシュを消去する</string>
     <string name="clear_website_icon_cache_message">この操作を行うと、ホームページ上のお気に入りのアイコンがすべて消去されますのでご注意ください。各アイコンは、次回、対応するウェブサイトにアクセスしたときにダウンロードされます。</string>
     <string name="reset_to_default_settings">設定を初期化する</string>
-    <string name="use_line_style_search_box">検索ボックスをライン状にする</string>
     <string name="search_bar_style">バースタイル</string>
     <string name="search_bar_style_line">線</string>
     <string name="search_bar_style_rectangle">長方形</string>
@@ -370,9 +355,6 @@
     <string name="skin_bg">背景</string>
     
     <!-- 設定｜カスタマイズ｜スタイル -->
-    <string name="skin_style">スタイル</string>
-    <string name="skin_colorful">長方形</string>
-    <string name="skin_fruity">楕円形</string>
 
     <!-- 設定｜カスタマイズ｜ブックマーク -->
     <string name="favorites_icon_style">アイコン</string>
@@ -408,7 +390,6 @@
     <string name="save_data">データセーブ</string>
     <string name="save_data_description">対応するウェブサイトでデータセーブモードを有効にする</string>
     <string name="show_sniffer_btn_automatically">スニファーボタンを自動的に表示する</string>
-    <string name="ignore_secondary_ssl_error">セカンダリSSLエラーを無視する</string>
     <string name="block_popup">ポップアップ表示をブロック</string>
     <string name="java">JavaScript を有効</string>
     <string name="quick_back">戻る時に再読み込みをしない</string>
@@ -416,28 +397,18 @@
     <string name="web_page_debug_info">開発者オプションにてUSBデバッグを有効にした状態でPCに接続し、PCのChromeで\"chrome://inspect\"を開いてください。</string>
     <string name="allow_webpage_access_to_clipboard">ウェブページにクリップボードへのアクセスを許可する</string>
     <string name="ask_to_allow_webpage_to_copy_text">%DOMAIN% からテキストをコピーしますか？</string>
-    <string name="ask_to_allow_webpage_to_paste_text">%DOMAIN% へテキストをペーストしますか？</string>
     <string name="option_allow">許可</string>
     <string name="option_deny">拒否</string>
     <string name="title_disable_safe_browsing">セーフブラウジングを無効にします</string>
     
     <!-- 設定｜スクリプト -->
     <string name="settings_script">スクリプト</string>
-    <string name="get_more_script">スクリプトの入手</string>
     <string name="add_script">スクリプトの追加</string>
-    <string name="script_url">ドメインまたは* （*は全て）</string>
-    <string name="script_sites">サイト (例：*.foo.com,bar.*/list)</string>
-    <string name="script_remarks">備考</string>
     <string name="script_code">コード (JavaScript)</string>
     <string name="action_save">保存</string>
-    <string name="simple_guide_of_writing_script">書き込まれたスクリプトは、ウェブサイトの読み込み時に自動的に有効になります。
-    \n\nサイト(必須)：ワイルドカード「*」に対応しており、複数のサイトを「,」で区切って記述します。例：*.foo.com,bar.*/list.
-    \n\n備考（任意）：表示のタイトルとして使用します。
-    \n\nコード(必須)：ネイティブJavaScriptを使用することをお勧めします。ウェブサイトがこれらのフレームワークを使用している場合は、jqueryやvue.jsの構文を使用することもできます。</string>
     
     <!-- 設定｜Via について -->
     <string name="settings_about">Via について</string>
-    <string name="version">バージョン情報</string>
     <string name="join_telegram_group">Telegramグループに参加する</string>
     <string name="email_me">メールを送る</string>
     <string name="follow_me_on_twitter">Twitterをフォローする</string>
@@ -450,7 +421,6 @@
     <string name="open_source_licenses">オープンソースライセンス</string>
 
     <!-- ブックマーク -->
-    <string name="bookmarks_file">ブックマーク</string>
     <string name="action_add_bookmark">ブックマークに追加</string>
     <string name="bookmark_added">ブックマーク追加済み</string>
     <string name="root_folder">ルートフォルダー</string>
@@ -478,29 +448,18 @@
     <string name="default_date_format">yyyy年 MMM月 dd日 EEE曜日</string>
     
     <!-- ダウンロード --> 
-    <string name="no_download_tasks">ダウンロードアイテムがありません</string>
     <string name="action_re_download">再度ダウンロード</string>
     <string name="action_copy_download_link">アドレスをコピー</string>
     <string name="download_failed">ダウンロードに失敗しました</string>
     <string name="view_downloads">開く</string>
     <string name="message_delete_downloading_task">ファイルも含めて削除されます。復元は出来ないので注意してください。</string>
     <string name="message_delete_downloaded_task">このアイテムを削除しますか？</string>
-    <string name="items_selected">%1d アイテム選択中</string>
     <string name="select_all">すべて選択</string>
-    <string name="multi_choice">複数項目選択</string>
     <string name="message_delete_downloaded_file">ダウンロードしたファイルも削除する</string>
     <string name="confirm_to_delete">削除の確認</string>
-    <plurals name="delete_download_tasks">
-        <item quantity="zero">0 アイテムを削除しました</item>
-        <item quantity="one">1 アイテムを削除しました</item>
-        <item quantity="other">%d アイテムを削除しました</item>
-    </plurals>
     <string name="file_name">ファイル名</string>
     <string name="action_download_file">ダウンロード</string>
     <string name="rename">リネーム</string>
-    <string name="download_error_file_io">I/O エラー</string>
-    <string name="download_error_network">ネットワークエラー</string>
-    <string name="download_error_unknown">不明なエラー</string>
     <string name="message_re_download">ダウンロード済みの %1$s を削除して再ダウンロードしますか？</string>
     <string name="app_downloading_files">Viaがファイルをダウンロード中です</string>
     <string name="app_downloading_files_subtitle">タップしてダウンロードを表示</string>
@@ -516,7 +475,6 @@
     <string name="download_filter_archives">圧縮ファイル</string>
 
     <!-- ポップアップ -->     
-    <string name="entered_full_screen_mode">フルスクリーンモードに切り替えました</string>
     <string name="allow_website_to_open_app_message">ウェブサイトを %1$s で開きますか？</string>
     <string name="no_resource">このページにはリソースがありません。</string>
     <string name="resource_sniffer_hint">\nPS: 見つからない場合は、動画や音声を再生してみてください。</string>
@@ -530,12 +488,6 @@
     <string name="message_location">\n位置情報へのアクセスを許可しますか？</string>
     <string name="action_allow">はい</string>
     <string name="action_dont_allow">いいえ</string>
-    <string name="message_untrusted_certificate">このサイトの証明書は信頼されていません。続行しますか？</string>
-    <string name="message_date_invalid_certificate">このサイトの証明書の有効期限が切れています。続行しますか？</string>
-    <string name="message_expired_certificate">このサイトの証明書は失効しています。続行しますか？</string>
-    <string name="message_hostname_mismatch_certificate">このサイトの証明書とホスト名が異なっています。続行しますか？</string>
-    <string name="message_invalid_certificate">このサイトの証明書は無効です。続行しますか？</string>
-    <string name="message_not_yet_valid_certificate">このサイトの証明書はまだ有効ではありません。続行しますか？</string>
     <string name="bookmarks_data_to_long">ブックマークデータのサイズが大きすぎるため、アップロードできません。その他のデータはアップロードされます。続けますか？</string>
     <string name="restore_tabs_hint_settings">シークレットモードになったため、タブは復元されません。</string>
     <string name="incognito_on">シークレットモードを使用中です</string>
@@ -548,8 +500,6 @@
     <string name="network_log">ネットワークログ</string>
     <string name="resource_sniffer">リソース検知</string>
     <string name="action_pcview">デスクトップモード</string>
-    <string name="desktop_mode_on">デスクトップモードを有効にしました</string>
-    <string name="desktop_mode_off">デスクトップモードを無効にしました</string>
     <string name="action_source">ソース表示</string>
     <string name="action_share">共有</string>
     <string name="action_history">履歴</string>
@@ -620,19 +570,15 @@
 
     <string name="desc_suggestion">提案</string>
     <string name="desc_home">ホーム</string>
-    <string name="desc_tab">タブ</string>
     <string name="desc_menu">メニュー</string>
-    <string name="desc_filedic">ファイル</string>
     <string name="title_edit_folder">フォルダーを編集</string>
     <string name="msg_delete_folder">削除しますか？</string>
     <string name="msg_intent">外部アプリの起動をしますか？</string>
     <string name="action_mark">広告をマーク</string>
     <string name="dialog_confirm_mark">要素をブロックしますか？</string>
-    <string name="add_rule">ルールを追加</string>
 
     <string name="dialog_sure">よろしいですか？</string>
     <string name="toast_operation_done">完了しました</string>
-    <string name="action_send_to_launcher">ホーム画面に追加</string>
 
     <string name="crash_info">エラーが発生しました :(</string>
     <string name="crash_restart">再起動</string>
@@ -642,7 +588,6 @@
     <string name="open_with">開く&#8230;</string>
     <string name="download_completed">ダウンロード完了</string>
     <string name="toast_fullscreen_off">全画面解除</string>
-    <string name="need_permission_hint">権限が必要です\n\n</string>
     <string name="action_view_image">画像を開く</string>
     <string name="action_save_web_page">ページを保存</string>
     <string name="action_saved_pages">保存済みページ</string>
@@ -660,13 +605,8 @@
     <string name="sync_prompt">ブックマークと設定を上書きしますか？</string>
     <string name="upload_prompt">ブックマークと設定をアップロードしますか？</string>
     <string name="sougou_url">sougou</string>
-    <string name="uninstall_success">アンインストールが完了しました！</string>
-    <string name="install_success">インストールしました！</string>
     <string name="restore_tabs_hint">前回閉じたタブを開きますか？</string>
-    <string name="force_cancel">強制終了</string>
     <string name="check_permission">権限へのアクセス許可が必要です。</string>
-    <string name="storage_permission">ストレージ：ファイルのダウンロード、ブックマークの保存のために使用しています。</string>
-    <string name="location_permission">位置情報：Webサイトが位置情報を取得することを許可するため（地図、天気予報など）に使用しています。</string>
 
     <string name="official_website">公式サイト</string>
     <string name="set_it_as_homepage">ホームページに設定しますか？</string>
@@ -685,11 +625,9 @@
     <string name="find_pre">前へ</string>
     <string name="find_next">次へ</string>
     <string name="action_modify">編集</string>
-    <string name="pull_to_refresh_gesture">引っ張って更新する</string>
 
     <string name="no_bookmark">ブックマークはありません</string>
     <string name="settings_general">一般</string>
-    <string name="skin_transparent">透明</string>
 
     <string name="adblock_info">%1$d件の広告がブロックされ、%2$s節約しました</string>
 

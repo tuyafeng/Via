@@ -8,7 +8,6 @@
     <string name="action_share">Partager</string>
     <string name="action_history">Historique</string>
     <string name="action_bookmarks">Favoris</string>
-    <string name="bookmarks_file">Exporter les favoris</string>
     <string name="action_add_bookmark">Ajouter aux favoris</string>
     <string name="action_night">Mode nuit</string>
     <string name="action_copy">Copier le lien</string>
@@ -48,11 +47,6 @@
     <string name="title_warning">Avertissement</string>
     <string name="title_custom_homepage">Page d\'accueil personnalisée</string>
     <string name="action_webpage">Page web</string>
-    <string name="size_largest">Très grand</string>
-    <string name="size_large">Grand</string>
-    <string name="size_normal">Normal</string>
-    <string name="size_small">Petit</string>
-    <string name="size_smallest">Très petit</string>
     <string name="hint_title">Titre</string>
     <string name="hint_url">URL</string>
     <string name="hint_folder">Dossier</string>
@@ -75,12 +69,6 @@
     <string name="google_url">Google</string>
     <string name="sougou_url">Sougou</string>
     <string name="block_ads">Bloquer les annonces(ADS)</string>
-    <string name="message_untrusted_certificate">Le certificat du site n\'est pas approuvé. Continuer quand même ?</string>
-	 <string name="message_date_invalid_certificate">La date du certificat du site est invalide. Continuer quand même ?</string>
-    <string name="message_expired_certificate">Le certificat du site a expiré. Continuer quand même ?</string>
-    <string name="message_hostname_mismatch_certificate">Le certificat du site ne correspond pas au nome de domaine. Continuer quand même ?</string>
-    <string name="message_invalid_certificate">Le certificat du site est invalide. Continuer quand même ?</string>
-    <string name="message_not_yet_valid_certificate">Le certificat du site n\'est pas encore valide. Continuer quand même ?</string>
     <string name="title_form_resubmission">Renvoyer le formulaire</string>
     <string name="message_form_resubmission">Voulez-vous renvoyer les données?</string>
     <string name="message_location">\nAutoriser l\'accès à votre emplacement?</string>
@@ -136,16 +124,12 @@
     <string name="msg_delete_folder">Supprimer le dossier ?</string>
     <string name="desc_suggestion">suggestion</string>
     <string name="desc_home">accueil</string>
-    <string name="desc_tab">onglet</string>
     <string name="desc_menu">menu</string>
-    <string name="desc_filedic">fichier</string>
     <string name="action_mark">Marquer comme ADS</string>
     <string name="dialog_confirm_mark">Voulez-vous le marquer comme une annonce ?</string>
     <string name="do_not_track">Ne pas me pister</string>
-    <string name="add_rule">Ajouter un filtre ADS</string>
     <string name="color_mode">Affichage en couleur</string>
     <string name="dialog_sure">Voulez-vous poursuivre cette opération ?</string>
-    <string name="action_send_to_launcher">Envoyer à la page d\'accueil</string>
     <string name="settings_cloud">Compte</string>
     <string name="user">Se connecter/s\'inscrire</string>
     <string name="user_syns">Restaurer les paramètres</string>
@@ -175,8 +159,6 @@
     <string name="data_cookies">Cookies</string>
     <string name="data_cleared">Données effacées</string>
 
-    <string name="sync_desc">Le compte sera créé si inexistant</string>
-
     <string name="settings_skin">Personnalisation</string>
     <string name="default_set">Défaut</string>
     <string name="picture">Image</string>
@@ -184,10 +166,6 @@
     <string name="html_code">Code HTML</string>
 
     <string name="action_view_image">Voir l\'image</string>
-
-    <string name="skin_colorful">Coloré</string>
-    <string name="skin_fruity">Fruité</string>
-    <string name="skin_transparent">Transparent</string>
 
     <string name="block_popup">Bloquer les popups</string>
 
@@ -210,21 +188,13 @@
     <string name="upload_prompt">Cette action enverra vos favoris et paramètres locaux actuels vers le serveur. Continuer ?</string>
     <string name="none">Aucun</string>
     <string name="check_permission">Permission refusée. Autoriser dans les paramètres maintenant ?</string>
-    <string name="need_permission_hint">Via a besoin des autorisations suivantes.\n\n</string>
-    <string name="storage_permission">Stockage : pour télécharger des fichiers depuis le navigateur et importer/exporter des favoris etc.\n\n</string>
-    <string name="location_permission">Localisation : pour les sites comme Google Maps, la localisation est désactivée par défaut dans les paramètres et affichera un popup demandant si un site peut utiliser votre emplacement lorsqu\'il est activé.\n\n</string>
-    <string name="force_cancel">Forcer la fermeture</string>
     <string name="restore_tabs_hint">Restaurer les onglets non fermés de la dernière session ?</string>
     <string name="restore_tabs">Restaurer les onglets au démarrage</string>
-    <string name="install_success">Installation réussie !!!</string>
-    <string name="uninstall_success">Désinstallation réussie !!!</string>
     <string name="log_page_hint">Vous pouvez copier le lien ou le domaine suivant et le coller dans le fichier %1$s des filtres personnalisées.</string>
     <string name="fullscreen_1">Défiler pour masquer/afficher</string>
     <string name="fullscreen_2">Cliquer pour masquer/afficher</string>
     <string name="settings_script">Scripts</string>
-    <string name="get_more_script">Plus de scripts</string>
     <string name="add_script">Ajouter un script</string>
-    <string name="script_url">domaine ou * (*=tout)</string>
     <string name="script_code">code (JavaScript)</string>
     <string name="help_us_translate">Aidez-nous à traduire</string>
     <string name="confirm_to_leave">Confirmer pour quitter</string>
@@ -232,7 +202,6 @@
     <string name="stay">Poursuivre</string>
     <string name="skin_logo">Logo</string>
     <string name="skin_bg">Fond</string>
-    <string name="skin_style">Style</string>
     <string name="set_it_as_homepage">Définir comme page d\'accueil ?</string>
     <string name="missing_webview">Android System WebView n\'est pas installé correctement. Voulez-vous l\'installer maintenant ?</string>
     <string name="install">Installer</string>
@@ -240,7 +209,6 @@
     <string name="glean">Glean</string>
     <string name="contact_us">Contactez-nous</string>
     <string name="official_website">Site officiel</string>
-    <string name="background_opacity">Opacité de l\'arrière-plan</string>
     <string name="action_pic_mode">Mode image</string>
     <string name="find_next">Rechercher suivant</string>
     <string name="find_pre">Rechercher précédent</string>
@@ -251,7 +219,6 @@
     <string name="no_bookmark">Aucun favori~</string>
     <string name="import_or_export_bookmarks">Importer/Exporter les favoris</string>
     <string name="export_bookmarks">Exporter</string>
-    <string name="pull_to_refresh_gesture">Glisser vers le bas pour rafraîchir</string>
     <string name="back_forward_gesture">Glisser gauche/droite pour précédent/suivant</string>
 	<string name="toolbar_settings_hint">Cliquer sur les boutons suivants pour paramétrer leur action lors d\'un appui long, et appuyer longuement pour voir ce qui a été paramétré.</string>
     <string name="action_modify">Modifier</string>
@@ -260,7 +227,6 @@
     <string name="disable">Désactiver</string>
     <string name="ui_traditional">Normal</string>
     <string name="color_mode_hint">Ajustement automatique de la couleur de la barre d\'action lors de la navigation</string>
-    <string name="skin_hide_search_part">Masquer la barre de recherche</string>
     <string name="file_size">Taille du fichier: %1$s</string>
     <string name="search_by_image">Recherche par image</string>
     <string name="resource_sniffer">Renifleur de ressources</string>
@@ -298,7 +264,6 @@
     <string name="data_file">DataExport</string>
     <string name="bookmarks_data_to_long">Les données de favoris sont trop volumineuses, mais les autres données vont être envoyées normalement. Continuer ?</string>
     <string name="restore_tabs_hint_settings">Les onglets ne seront pas restaurés quand vous êtes en \"Mode Incognito\".</string>
-    <string name="ignore_secondary_ssl_error">Ignorer l\'erreur SSL secondaire</string>
     <string name="block_hint">Bloqué: %1$s\nactualiser pour prendre en compte le paramètre.</string>
     <string name="unblock_hint">Débloqué: %1$s\n pour prendre en compte le paramètre.</string>
 </resources>

@@ -8,7 +8,6 @@
     <string name="action_share">Teilen</string>
     <string name="action_history">Verlauf</string>
     <string name="action_bookmarks">Lesezeichen</string>
-    <string name="bookmarks_file">Lesezeichen-Export</string>
     <string name="action_add_bookmark">Lesezeichen hinzufügen</string>
     <string name="action_night">Nachtmodus</string>
     <string name="action_copy">Link kopieren</string>
@@ -49,11 +48,6 @@
     <string name="title_warning">Warnung</string>
     <string name="title_custom_homepage">Angepasste Startseite</string>
     <string name="action_webpage">Webseite</string>
-    <string name="size_largest">Sehr groß</string>
-    <string name="size_large">Groß</string>
-    <string name="size_normal">Normal</string>
-    <string name="size_small">Klein</string>
-    <string name="size_smallest">Sehr klein</string>
     <string name="hint_title">Titel</string>
     <string name="hint_url">URL</string>
     <string name="hint_folder">Ordner</string>
@@ -76,12 +70,6 @@
     <string name="google_url">Google</string>
     <string name="sougou_url">Sogou</string>
     <string name="block_ads">Werbeblockierung</string>
-    <string name="message_untrusted_certificate">Das Zertifikat dieser Seite in nicht vertrauenswürdig. Trotzdem fortfahren?</string>
-    <string name="message_date_invalid_certificate">Das Zertifikatsdatum dieser Seite ist ungültig. Trotzdem fortfahren?</string>
-    <string name="message_expired_certificate">Das Zertifikat dieser Seite ist abgelaufen. Trotzdem fortfahren?</string>
-    <string name="message_hostname_mismatch_certificate">Das Zertifikat passt nicht zum aktuellen Webseiten-Namen. Trotzdem fortfahren?</string>
-    <string name="message_invalid_certificate">Das Zertifikat dieser Seite ist ungültig. Trotzdem fortfahren?</string>
-    <string name="message_not_yet_valid_certificate">Das Zertifikat dieser Seite ist noch nicht gültig. Trotzdem fortfahren?</string>
     <string name="title_form_resubmission">Erneute Sendung des Formulars</string>
     <string name="message_form_resubmission">Möchten Sie die Daten erneut senden?</string>
     <string name="message_location">\nMöchten Sie Ihren Standort benutzen?</string>
@@ -137,16 +125,12 @@
     <string name="msg_delete_folder">Diesen Ordner löschen?</string>
     <string name="desc_suggestion">Vorschlag</string>
     <string name="desc_home">Home</string>
-    <string name="desc_tab">Tab</string>
     <string name="desc_menu">Menü</string>
-    <string name="desc_filedic">Datei</string>
     <string name="action_mark">Als Werbung markieren</string>
     <string name="dialog_confirm_mark">Möchten Sie dies als Werbung markieren?</string>
     <string name="do_not_track">Aktivitäten nicht verfolgen</string>
-    <string name="add_rule">Filter hinzufügen</string>
     <string name="color_mode">Farbmodus</string>
     <string name="dialog_sure">Sind Sie sicher, dass Sie das möchten?</string>
-    <string name="action_send_to_launcher">Zum Startbildschirm hinzufügen</string>
     <string name="settings_cloud">Konto</string>
     <string name="user">Einloggen/Anmelden</string>
     <string name="user_syns">Sync</string>
@@ -175,9 +159,7 @@
     <string name="data_storage">Gespeicherte Seiten</string>
     <string name="data_cookies">Cookies</string>
     <string name="data_cleared">Daten gelöscht</string>
-    
-    <string name="sync_desc">Das Konto wird angelegt, wenn es nicht existiert.</string>
-    
+
     <string name="settings_skin">Anpassen</string>
     <string name="default_set">Standard</string>
     <string name="picture">Bild</string>
@@ -185,11 +167,7 @@
     <string name="html_code">HTML-Code</string>
     
     <string name="action_view_image">Bild anzeigen</string>
-    
-    <string name="skin_colorful">Bunt</string>
-    <string name="skin_fruity">Fruchtig</string>
-    <string name="skin_transparent">Transparent</string>
-    
+
     <string name="block_popup">Pop-up blockieren</string>
     
     <string name="action_save_web_page">Seite speichern</string>
@@ -211,21 +189,13 @@
     <string name="upload_prompt">Bestehende lokale Lesezeichen und Einstellungen werden hochgeladen. Fortfahren?</string>
     <string name="none">Nichts</string>
     <string name="check_permission">Erlaubnis verweigert. Jetzt in den Einstellungen die Erlaubnis erteilen?</string>
-    <string name="need_permission_hint">Via benötigt folgende Berechtigungen, damit alles richtig funktioniert.\n\n</string>
-    <string name="storage_permission">Speicher: um Dateien herunterzuladen und Lesezeichen zu exportieren/importieren usw.\n\n</string>
-    <string name="location_permission">Standort: z. B. für Seiten wie Google Maps; in den Standardeinstellungen ist es standardmäßig deaktiviert. Bei Aktivierung erscheint ein Pop-up, wenn eine Seite Zugriff auf den Standort möchte.\n\n</string>
-    <string name="force_cancel">Erzwinge Abbruch</string>
     <string name="restore_tabs_hint">Sollen die zuletzt geöffneten Seiten wiederhergestellt werden?</string>
     <string name="restore_tabs">Tabs beim Start wiederherstellen</string>
-    <string name="install_success">Installation erfolgreich!</string>
-    <string name="uninstall_success">Deinstallation erfolgreich!</string>
     <string name="log_page_hint">Sie können die folgende Seite oder Domain kopieren und in %1$s einfügen, um das Laden zu verhindern (angepasste Blockierung).</string>
     <string name="fullscreen_1">Scrollen zum Aus-/Einblenden</string>
     <string name="fullscreen_2">Drücken zum Aus-/Einblenden</string>
     <string name="settings_script">Skripte</string>
-    <string name="get_more_script">Erhalte weitere Skripte</string>
     <string name="add_script">Skript hinzufügen</string>
-    <string name="script_url">Domain oder * (* bedeutet komplett)</string>
     <string name="script_code">Code (JavaScript)</string>
     <string name="help_us_translate">Helfen Sie uns beim Übersetzen</string>
     <string name="confirm_to_leave">Wirklich verlassen?</string>
@@ -233,7 +203,6 @@
     <string name="stay">Bleiben</string>
     <string name="skin_logo">Logo</string>
     <string name="skin_bg">Hintergrund</string>
-    <string name="skin_style">Stil</string>
     <string name="set_it_as_homepage">Als Startseite festlegen?</string>
     <string name="missing_webview">Android System WebView ist nicht korrekt installiert. Jetzt installieren?</string>
     <string name="install">Installieren</string>
@@ -241,7 +210,6 @@
     <string name="glean">Erkunden</string>
     <string name="contact_us">Kontaktiere uns</string>
     <string name="official_website">Offizielle Webseite</string>
-    <string name="background_opacity">Deckkraft des Hintergrunds</string>
     <string name="action_pic_mode">Bildmodus</string>
     <string name="find_next">Nächsten finden</string>
     <string name="find_pre">Vorherigen finden</string>
@@ -252,7 +220,6 @@
     <string name="no_bookmark">Keine Lesezeichen</string>
     <string name="import_or_export_bookmarks">Lesezeichen importieren/exportieren</string>
     <string name="export_bookmarks">Exportiere Lesezeichen</string>
-    <string name="pull_to_refresh_gesture">Ziehen-zum-Aktualisieren-Geste</string>
     <string name="back_forward_gesture">Zurück/Vorwärts-Geste</string>
     <string name="toolbar_settings_hint">Drücke der folgenden Taste, um ihr gedrücktes Verhalten festzulegen. Gedrückt halten, um aktuelles Verhalten zu sehen.</string>
     <string name="action_modify">Abändern</string>
@@ -261,7 +228,6 @@
     <string name="disable">Deaktiviert</string>
     <string name="ui_traditional">Sandwich</string>
     <string name="color_mode_hint">Toolbar beim Browsen färben</string>
-    <string name="skin_hide_search_part">Suchteil ausblenden</string>
     <string name="file_size">Dateigröße: %1$s</string>
     <string name="search_by_image">Nach Bild suchen</string>
     <string name="resource_sniffer">Ressource-Sniffer</string>
@@ -299,10 +265,8 @@
     <string name="data_file">Daten-Export</string>
     <string name="bookmarks_data_to_long">Lesezeichen sind zu groß für das Hochladen, aber andere Daten sollte normal hochgeladen werden. Fortfahren?</string>
     <string name="restore_tabs_hint_settings">Tabs werden nicht wiederhergestellt, wenn Sie im \"Inkognito-Modus\" sind.</string>
-    <string name="ignore_secondary_ssl_error">Sekundäre SSL Fehler ignorieren</string>
     <string name="web_page_debug">Webseiten-Debugger aktivieren</string>
     <string name="web_page_debug_info">Nun können Sie Ihr Telefon mit dem Computer verbinden, dann mit Chrome (PC) und via \"chrome://inspect\" debuggen. Beachten Sie, USB Debugging muss zuerst in den Einstellungen (Werkzeuge > Entwicklerwerkzeuge) aktiviert sein.</string>
-    <string name="no_download_tasks">Leer</string>
     <string name="action_re_download">Download-Wiederholung</string>
     <string name="action_copy_download_link">Kopiere Download-Link</string>
     <string name="download_failed">Download fehlgeschlagen</string>
@@ -339,9 +303,7 @@
     <string name="custom_filter">Benutzerdefinierter Filter</string>
     <string name="add_filter_subscription">Filter-Anforderung hinzufügen</string>
     <string name="edit_filter_subscription">Filter-Anforderung bearbeiten</string>
-    <string name="updating_filter_subscriptions">Filter-Anforderung aktualisieren</string>
     <string name="update_filter_subscriptions_completed">Filter-Anforderungs-Aktualisierung abgeschlossen.</string>
-    <string name="update_filter_subscription_failed">Filter-Anforderungs-Aktualisierung fehlgeschlagen.\n%1$s</string>
     <string name="has_not_been_updated">wurde nicht aktualisiert</string>
     <string name="just_now">gerade eben</string>
     <string name="url_is_invalid">Die URL ist ungültig.</string>
@@ -371,7 +333,6 @@
     <string name="privacy_policy">Datenschutzbestimmungen</string>
     <string name="terms_of_use">Nutzungsbedingungen</string>
     <string name="welcome">Willkommen</string>
-    <string name="agreement_message">Willkommen bei der Nutzung von Via. Bitte lesen Sie die Zustimmung sorgsam, bevor Sie Via nutzen. Sie müssen allen Bedingungen zustimmen und sie akzeptieren, bevor Sie unseren Service nutzen.</string>
     <string name="agreement_message_short">Sie müssen allen Bedingungen zustimmen und sie akzeptieren, bevor Sie unseren Service nutzen.</string>
     <string name="agree_and_continue">Akzeptieren und fortfahren</string>
     <string name="disagree">Ablehnen</string>
@@ -381,21 +342,13 @@
     <string name="delete_account_hint">Das Konto von unserem Server entfernen</string>
     <string name="delete_account_message">Nach Übermittlung der Löschanfrage, wird das Konto abgemeldet und geht in einen 15-Tage Löschung-Warte-Zeitraum über. Melden Sie sich während dieses Zeitraum erneut an und übertragen Daten, so wird die Löschanforderung zurückgezogen. Nach Ablauf der Wartezeit, wird das Konto und alle damit verbundenen Daten von unserem Server komplett entfernt.\nBitte geben Sie ihr Passwort ein, um die Anforderung zu übermitteln.</string>
     <string name="confirm_to_delete">Löschung bestätigen</string>
-    <string name="items_selected">%1d ausgewählt</string>
     <string name="select_all">Alle auswählen</string>
-    <string name="multi_choice">Mehrfachauswahl</string>
-    <plurals name="delete_download_tasks">
-        <item quantity="zero">Lösche 0 Download-Prozesse</item>
-        <item quantity="one">Lösche 1 Download-Prozess</item>
-        <item quantity="other">Lösche %d Download-Prozesse</item>
-    </plurals>
     <string name="open_source_licenses">Open-Source Lizenzen</string>
     <string name="debugging_info">Debug-Informationen</string>
     <string name="join_qq_group">QQ-Gruppe beitreten</string>
     <string name="join_telegram_group">Telegram-Gruppe beitreten</string>
     <string name="follow_me_on_twitter">Folge mir auf Twitter</string>
     <string name="follow_me_on_weibo">Folge mir auf Weibo</string>
-    <string name="version">Version</string>
     <string name="paste_and_go">Einfügen &amp; Los</string>
     <string name="night_filter_for_web_contents">Nachtfilter für Webinhalte</string>
     <string name="force_dark_mode_for_web_contents">Dunklen Modus für Webinhalte erzwingen</string>
@@ -412,7 +365,6 @@
     <string name="sort_by_alphabetical_order">Alphabetisch</string>
     <string name="select_folder">Ordner wählen</string>
     <string name="move">Bewegen</string>
-    <string name="bookmarks_history">Lesezeichen/Verlauf</string>
     <string name="done">Abgeschlossen</string>
     <string name="root_folder">Stammverzeichnis</string>
     <string name="delete_item_message">Sind Sie sicher, dass Sie %1$s löschen wollen?</string>
@@ -431,13 +383,10 @@
     <string name="stroke_width">Strichbreite</string>
     <string name="stroke_opacity">Strichdeckkraft</string>
     <string name="opacity">Deckkraft</string>
-    <string name="disable_website_icons">Favicon deaktivieren</string>
-    <string name="disable_icon_color">Icon Farbe deaktivieren</string>
     <string name="font_style">Schriftart</string>
     <string name="bold">Bold</string>
     <string name="italics">Kursiv</string>
     <string name="clear_website_icon_cache">Favicon Cache löschen</string>
     <string name="clear_website_icon_cache_message">Beachten Sie, dass dadurch alle Favicons auf der Homepage gelöscht werden. Jedes Icon wird heruntergeladen, wenn Sie das nächste Mal die entsprechende Website besuchen.</string>
-    <string name="use_blur_instead_of_transparency">Unschärfe-Effekt anstelle von Transparenz verwenden</string>
     <string name="desc_favorite_icon">Icon eines Favoriten</string>
 </resources>

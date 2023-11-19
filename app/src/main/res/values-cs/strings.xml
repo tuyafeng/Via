@@ -8,7 +8,6 @@
     <string name="action_share">Sdílet</string>
     <string name="action_history">Historie</string>
     <string name="action_bookmarks">Záložky</string>
-    <string name="bookmarks_file">Exportovat záložky</string>
     <string name="action_add_bookmark">Přidat záložku</string>
     <string name="action_night">Noční režim</string>
     <string name="action_copy">Kopírovat odkaz</string>
@@ -44,11 +43,6 @@
     <string name="title_warning">Upozornění</string>
     <string name="title_custom_homepage">Vlastní Domovská stránka</string>
     <string name="action_webpage">Webová stránka</string>
-    <string name="size_largest">Velmi velké</string>
-    <string name="size_large">Velké</string>
-    <string name="size_normal">Střední</string>
-    <string name="size_small">Malé</string>
-    <string name="size_smallest">Velmi malé</string>
     <string name="hint_title">Název</string>
     <string name="hint_url">URL</string>
     <string name="hint_folder">Složka</string>
@@ -70,7 +64,6 @@
     <string name="google_url">Google</string>
     <string name="sougou_url">Sougou</string>
     <string name="block_ads">Block Ads</string>
-    <string name="message_untrusted_certificate">Certifikát webu není důvěryhodný. Přesto pokračovat?</string>
     <string name="title_form_resubmission">Znovu předložení formuláře</string>
     <string name="message_form_resubmission">Chcete data odeslat znovu?</string>
     <string name="message_location">\nChcete prozradit vaší polohu?</string>
@@ -126,16 +119,12 @@
     <string name="msg_delete_folder">Smazat tuto složku?</string>
     <string name="desc_suggestion">Návrh</string>
     <string name="desc_home">domů</string>
-    <string name="desc_tab">karta</string>
     <string name="desc_menu">menu</string>
-    <string name="desc_filedic">soubor</string>
     <string name="action_mark">Ozančit jako reklamu</string>
     <string name="dialog_confirm_mark">Chcete jej označit jako reklamu?</string>
     <string name="do_not_track">Do Not Track (Nechci být sledován)</string>
-    <string name="add_rule">Přidat pravidlo</string>
     <string name="color_mode">Režim barev</string>
     <string name="dialog_sure">Opravdu to chcete udělat?</string>
-    <string name="action_send_to_launcher">Odeslat do Launcheru</string>
     <string name="settings_cloud">Účet</string>
     <string name="user">Přihlásit se/Zaregistovat se</string>
     <string name="user_syns">Synchnorizace</string>
@@ -165,8 +154,6 @@
     <string name="data_cookies">Cookies</string>
     <string name="data_cleared">Data byla vymazána</string>
 
-    <string name="sync_desc">Účet bude vytvořen, pokud neexistuje</string>
-
     <string name="settings_skin">Přizpůsobit</string>
     <string name="default_set">Výchozí</string>
     <string name="picture">Obrázek</string>
@@ -174,10 +161,6 @@
     <string name="html_code">Html Kód</string>
 
     <string name="action_view_image">Zobrazit obrázek</string>
-
-    <string name="skin_colorful">Colorful</string>
-    <string name="skin_fruity">Fruity</string>
-    <string name="skin_transparent">Transparent</string>
 
     <string name="block_popup">Blokování vyskakovacích oken</string>
 
@@ -200,21 +183,13 @@
     <string name="upload_prompt">Nahrát aktuální místní záložku a nastavení. Pokračovat?</string>
     <string name="none">Žádný</string>
     <string name="check_permission">Přístup odepřen. Nastavit nyní v nastavení?</string>
-    <string name="need_permission_hint">Prostřednictvím následujících oprávnění zajistíte funkčnost.\n\n</string>
-    <string name="storage_permission">Úložiště: stahování souborů z prohlížeče a import / export záložek apod.\n\n</string>
-    <string name="location_permission">Poloha: pro weby, jako je Google Maps, je ve výchozím nastavení zakázáno zobrazovat vyskakovací okno s dotazem na to, zda může určitá aplikace používat vaši polohu,když je povolena.\n\n</string>
-    <string name="force_cancel">Zrušit</string>
     <string name="restore_tabs_hint">Obnovit nedávno ukončené karty?</string>
     <string name="restore_tabs">Obnovit karty při spuštění</string>
-    <string name="install_success">Instalace byla úspěšná!!!</string>
-    <string name="uninstall_success">Odinstalace byla úspěšná!!!</string>
     <string name="log_page_hint">Můžete zkopírovat následující odkaz nebo doménu a vložit jej na %1$s pro blokování jeho načtení pomocí vlastního blokování.</string>
     <string name="fullscreen_1">Přejít na skrytí/zobrazení</string>
     <string name="fullscreen_2">Kliknout na skrytí/zobrazení</string>
     <string name="settings_script">Skript</string>
-    <string name="get_more_script">Získejte více skriptů</string>
     <string name="add_script">Přidat skript</string>
-    <string name="script_url">domain or * (* means all)</string>
     <string name="script_code">kód (Javascript)</string>
     <string name="help_us_translate">Pomozte nám překládat</string>
     <string name="confirm_to_leave">Potvrďte, že chcete odejít</string>
@@ -222,7 +197,6 @@
     <string name="stay">Zůstat</string>
     <string name="skin_logo">Logo</string>
     <string name="skin_bg">Pozadí</string>
-    <string name="skin_style">Styl</string>
     <string name="set_it_as_homepage">Nastavit tento dokument jako domovskou stránku?</string>
     <string name="missing_webview">Systém Android System WebView není správně nainstalován. Chcete jej nyní nainstalovat?</string>
     <string name="install">Instalovat</string>
@@ -230,7 +204,6 @@
     <string name="glean">Glean</string>
     <string name="contact_us">Kontaktujte nás</string>
     <string name="official_website">Oficiální web</string>
-    <string name="background_opacity">Průhlednost pozadí</string>
     <string name="action_pic_mode">Režim obrazu</string>
     <string name="find_next">Najít další</string>
     <string name="find_pre">Najít předchozí</string>
@@ -241,7 +214,6 @@
     <string name="no_bookmark">Žádná záložka~</string>
     <string name="import_or_export_bookmarks">Importovat/Exportovat záložky</string>
     <string name="export_bookmarks">Exportovat záložky</string>
-    <string name="pull_to_refresh_gesture">Stiskněte pro obnovení gesta</string>
     <string name="back_forward_gesture">Back Forward Gesture</string>
     <string name="toolbar_settings_hint">Click (slide) the following button to set its long press (slide) event, and long press it to see what it had been set.</string>
     <string name="action_modify">Upravit</string>
@@ -250,7 +222,6 @@
     <string name="disable">Zakázat</string>
     <string name="ui_traditional">Tradiční</string>
     <string name="color_mode_hint">Nastavení barev panelu při prohlížení</string>
-    <string name="skin_hide_search_part">Skrýt část vyhledávání</string>
     <string name="file_size">Velikost souboru: %1$s</string>
     <string name="search_by_image">Vyhledávání podle obrázku</string>
     <string name="resource_sniffer">Resource sniffer</string>
