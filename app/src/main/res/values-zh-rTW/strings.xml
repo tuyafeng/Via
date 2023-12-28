@@ -86,7 +86,7 @@
     <string name="export_bookmarks_to">書籤已匯出至：%1$s</string>
     <string name="import_bookmark_error">無法自檔案匯入書籤</string>
     <string name="message_add_bookmark">已成功新增書籤</string>
-    <string name="message_exit">再按一次結束</string>
+    <string name="message_exit">再按一次關閉</string>
     <string name="dialog_message">訊息</string>
     <string name="wait_a_moment">請稍候&#8230;</string>
     <string name="toast_operation_failed">操作失敗</string>
@@ -149,7 +149,7 @@
     <string name="quick_back">返回不重載</string>
     <string name="open_with">透過應用程式開啟&#8230;</string>
     <string name="download_completed">下載已完成</string>
-    <string name="toast_fullscreen_off">結束全螢幕模式</string>
+    <string name="toast_fullscreen_off">關閉全螢幕模式</string>
     <string name="clear_data">清除資料</string>
     <string name="data_cache">快取</string>
     <string name="data_form_data">表單資料</string>
@@ -161,7 +161,7 @@
     <string name="default_set">預設值</string>
     <string name="picture">圖片</string>
     <string name="text">文字</string>
-    <string name="html_code">HTML 代碼</string>
+    <string name="html_code">HTML 程式碼</string>
     <string name="action_view_image">檢視圖片</string>
     <string name="block_popup">封鎖彈出式視窗</string>
     <string name="action_save_web_page">儲存網頁</string>
@@ -184,7 +184,7 @@
     <string name="fullscreen_2">按下以顯示/隱藏</string>
     <string name="settings_script">指令碼</string>
     <string name="add_script">新增指令碼</string>
-    <string name="script_code">代碼 (JavaScript)</string>
+    <string name="script_code">程式碼 (JavaScript)</string>
     <string name="help_us_translate">協助翻譯</string>
     <string name="confirm_to_leave">確定離開</string>
     <string name="leave">離開此頁面</string>
@@ -235,7 +235,7 @@
     <string name="page_info_link">連結網址：</string>
     <string name="no_network">無網路連線</string>
     <string name="title_app_chooser">選擇應用程式</string>
-    <string name="clear_data_on_exit">結束時清除資料</string>
+    <string name="clear_data_on_exit">關閉時清除資料</string>
     <string name="action_add_to_homepage">新增至首頁</string>
     <string name="added_favorite_hint">成功新增至首頁</string>
     <string name="title_edit_favorite">編輯最愛</string>
@@ -252,7 +252,7 @@
     <string name="disable_restore">停用還原</string>
     <string name="data_file">資料匯出</string>
     <string name="bookmarks_data_to_long">書籤資料達到了伺服器上限，但其他資料可以正常上傳，繼續上傳嗎？</string>
-    <string name="restore_tabs_hint_settings">開啟\"無痕模式\"時不會恢復未關閉的分頁。</string>
+    <string name="restore_tabs_hint_settings">開啟\"無痕模式\"時不會復原未關閉的分頁。</string>
     <string name="web_page_debug">啟用網頁偵錯</string>
     <string name="web_page_debug_info">現在你可以將手機連上電腦，然後在 Chrome 電腦版上透過 \"chrome://inspect\" 偵錯網頁。別忘了先進入手機設定裡的「開發人員選項」並開啟「USB 偵錯」。</string>
     <string name="action_re_download">重新下載</string>
@@ -323,7 +323,7 @@
     <string name="agreement_message_short">你需要同意並接受全部條款後才能開始使用我們的服務。</string>
     <string name="agree_and_continue">同意並繼續</string>
     <string name="disagree">不同意</string>
-    <string name="exit">結束應用</string>
+    <string name="exit">關閉應用程式</string>
     <string name="delete_account">登出帳號</string>
     <string name="delete_account_hint">從伺服器刪除帳號</string>
     <string name="delete_account_request_submitted">帳號刪除申請已送出。</string>
@@ -338,13 +338,13 @@
     <string name="follow_me_on_weibo">在微博上關注我</string>
     <string name="paste_and_go">貼上並前往</string>
     <string name="night_filter_for_web_contents">網頁遮色片濾鏡</string>
-    <string name="force_dark_mode_for_web_contents">強制網頁暗色</string>
-    <string name="force_dark_mode_for_web_contents_description">為網頁啟用強制暗色，這可能會導致部分頁面表現異常</string>
+    <string name="force_dark_mode_for_web_contents">強制網頁深色</string>
+    <string name="force_dark_mode_for_web_contents_description">為網頁啟用強制深色，這可能會導致部分頁面表現異常</string>
     <string name="require_javascript_enabled">這將僅在啟用 JavaScript 時生效。</string>
     <string name="keyboard_shortcuts">鍵盤快捷鍵</string>
     <string name="export_data_description">匯出書籤、設定、指令碼和廣告篩選條件</string>
     <string name="language">語言</string>
-    <string name="restart_to_take_effect">這將在下次啟動應用時生效，你希望立即重新啟動應用以生效嗎？</string>
+    <string name="restart_to_take_effect">這將在下次啟動應用程式時生效，你希望立即重新啟動應用程式以生效嗎？</string>
     <string name="more">更多</string>
     <string name="sort_order">排序方式</string>
     <string name="sort_by_oldest_first">最舊的優先</string>
@@ -356,7 +356,7 @@
     <string name="root_folder">根路徑</string>
     <string name="delete_item_message">你確定刪除 %1$s 嗎？</string>
     <string name="item_has_been_deleted">\"%1$s\" 已刪除</string>
-    <string name="undo">撤銷</string>
+    <string name="undo">復原</string>
     <string name="can_not_sort_list_when_sorting_alphabetically">名稱順序時無法排序列表</string>
     <string name="opened_in_background_message">已在背景開啟</string>
     <string name="bookmark_added">已新增</string>
@@ -374,7 +374,7 @@
     <string name="bold">粗體</string>
     <string name="italics">斜體</string>
     <string name="clear_website_icon_cache">清除網站圖示快取</string>
-    <string name="clear_website_icon_cache_message">請注意，這會清除所有首頁最愛的圖示。圖示會在你下次訪問該網站時下載。</string>
+    <string name="clear_website_icon_cache_message">請注意，這會清除所有首頁最愛的圖示。圖示會在你下次瀏覽該網站時下載。</string>
     <string name="desc_favorite_icon">最愛的圖示</string>
     <string name="action_save">儲存</string>
     <string name="reset_to_default_settings">重設為預設設定</string>
@@ -390,8 +390,8 @@
     <string name="follow_system_dark_mode_on">系統預設值暗模式已啟用</string>
     <string name="scoped_search">搜尋 %1$s</string>
     <string name="add_shortcut">新增桌面捷徑</string>
-    <string name="need_shortcut_permission">權限被拒絕。請前往系統設定為此應用開啟 \"新增桌面捷徑\" 權限。</string>
-    <string name="create_shortcut_successfully">已為 %1$s 建立桌面捷徑</string>
+    <string name="need_shortcut_permission">權限被拒絕。請前往系統設定為此應用程式開啟 \"新增桌面捷徑\" 權限。</string>
+    <string name="create_shortcut_successfully">已為 %1$s 新增桌面捷徑</string>
     <string name="update_shortcut_successfully">已為 %1$s 更新桌面捷徑</string>
     <string name="today">今天</string>
     <string name="yesterday">昨天</string>
@@ -466,11 +466,11 @@
     <string name="favorites_clear_icons">清除圖示</string>
     <string name="customization_reset">重設</string>
     <string name="theme_color">主題色</string>
-    <string name="theme_color_dark">暗色</string>
-    <string name="theme_color_light">亮色</string>
+    <string name="theme_color_dark">深色</string>
+    <string name="theme_color_light">淺色</string>
     <string name="processing_blob_data">處理 blob 資料中…</string>
     <string name="tineye_url">TinEye</string>
-    <string name="login_username">使用者名稱 (帳號不存在將自動建立)</string>
+    <string name="login_username">使用者名稱 (帳號不存在將自動新增)</string>
     <string name="read_and_agree">請閱讀並同意 %1$s 與 %2$s</string>
     <string name="wechat_official_account">微信公眾號</string>
     <string name="notification_channel_downloads">下載內容</string>
@@ -480,7 +480,7 @@
     <string name="download_progress_status">%1$s • %2$s</string>
     <string name="download_status_paused">已暫停</string>
     <string name="download_action_pause">暫停</string>
-    <string name="download_action_resume">恢復</string>
+    <string name="download_action_resume">復原</string>
     <string name="app_downloading_files">Via 正在下載檔案</string>
     <string name="app_downloading_files_subtitle">點按即可檢視下載內容</string>
     <string name="built_in_download_manager">內建下載器</string>
@@ -541,7 +541,7 @@
     <string name="download_filter_video">影片</string>
     <string name="download_filter_apk">安裝包</string>
     <string name="download_filter_audio">音訊</string>
-    <string name="download_filter_archives">壓縮包</string>
+    <string name="download_filter_archives">壓縮檔</string>
     <string name="simple_guide_of_writing_userscript"><![CDATA[
         <b>Metadata 塊</b><br />
         Metadata 必須使用如下格式:<br />
@@ -578,7 +578,7 @@
         <b><tt>@homepageURL</tt></b>：指令碼的首頁。
         <br /><br />
         <b>GM_* API</b><br />
-        <tt>GM_*</tt> 是一組 Via 提供的特殊 API 集合。當前支援的特殊 API 包括：<br/>
+        <tt>GM_*</tt> 是一組 Via 提供的特殊 API 集合。目前支援的特殊 API 包括：<br/>
         <tt>GM_getValue/GM_setValue/GM_deleteValue/GM_listValues/GM_getResourceText/GM_getResourceURL/GM_addElement/GM_addStyle/GM_setClipboard/GM_xmlhttpRequest/GM_download/GM_registerMenuCommand/GM_unregisterMenuCommand</tt>.
         <br /><br />
         <b>匹配</b><br />
@@ -629,7 +629,7 @@
     <string name="action_default_location">預設路徑</string>
     <string name="action_choose_folder">選擇一個路徑…</string>
     <string name="title_permission_denied">沒有權限</string>
-    <string name="message_reselect_download_location">下載路徑的儲存權限已被撤銷。請重新選擇下載路徑。</string>
+    <string name="message_reselect_download_location">下載路徑的儲存權限已被移除。請重新選擇下載路徑。</string>
     <string name="detect_language">檢測語言</string>
     <string name="title_source_language">源語言</string>
     <string name="title_target_language">目標語言</string>
@@ -713,12 +713,12 @@
     <string name="import_script_from_url">下載指令碼</string>
     <string name="import_script_from_file">匯入指令碼</string>
     <string name="script_invalid">無效指令碼</string>
-    <string name="open_app">開啟應用</string>
-    <string name="open_app_ask_first_description">網站需先詢問並得到權限才能開啟應用</string>
-    <string name="open_app_allowed_description">允許網站開啟應用</string>
-    <string name="open_app_blocked_description">禁止網站開啟應用</string>
-    <string name="open_app_add_site_exception_allow">允許特定網站開啟應用。</string>
-    <string name="open_app_add_site_exception_block">禁止特定網站開啟應用。</string>
+    <string name="open_app">開啟應用程式</string>
+    <string name="open_app_ask_first_description">網站需先詢問並得到權限才能開啟應用程式</string>
+    <string name="open_app_allowed_description">允許網站開啟應用程式</string>
+    <string name="open_app_blocked_description">禁止網站開啟應用程式</string>
+    <string name="open_app_add_site_exception_allow">允許特定網站開啟應用程式。</string>
+    <string name="open_app_add_site_exception_block">禁止特定網站開啟應用程式。</string>
     <string name="update_interval">自動更新</string>
     <string name="never">從不</string>
     <string name="every_day">每天</string>
@@ -746,18 +746,18 @@
     <string name="sync_failed">同步失敗</string>
     <string name="hint_password_unchanged">密碼（未更改）</string>
     <string name="enable_video_player_gestures">啟用影片播放器手勢</string>
-    <string name="enable_video_player_gestures_description">如果可能，在全屏播放影片時允許滑動螢幕以調整影片進度、螢幕亮度、裝置音量</string>
+    <string name="enable_video_player_gestures_description">如果可能，在全螢幕播放影片時允許滑動螢幕以調整影片進度、螢幕亮度、裝置音量</string>
     <string name="external_video_player">外接影片播放器</string>
     <string name="external_video_player_description">當選擇外接播放器播放影片時，使用</string>
     <string name="player_system_sharing">系統分享</string>
     <string name="request_to_download_full_script">該指令碼不完整且無法執行，你想要下載完整指令碼嗎？</string>
     <string name="data_app_cache">程式快取</string>
     <string name="sync_manually">手動同步</string>
-    <string name="sync_push_description">使用雲端資料覆蓋本地</string>
-    <string name="sync_push_confirm">你確認使用雲端資料來覆蓋本地資料嗎？</string>
-    <string name="sync_pull_description">上傳本地資料覆蓋雲端</string>
-    <string name="sync_pull_confirm">你確認上傳本地資料來覆蓋雲端資料嗎？</string>
-    <string name="sync_merge_description">合併雲端和本地的資料</string>
+    <string name="sync_push_description">使用雲端資料覆蓋本機</string>
+    <string name="sync_push_confirm">你確認使用雲端資料來覆蓋本機資料嗎？</string>
+    <string name="sync_pull_description">上傳本機資料覆蓋雲端</string>
+    <string name="sync_pull_confirm">你確認上傳本機資料來覆蓋雲端資料嗎？</string>
+    <string name="sync_merge_description">合併雲端和本機的資料</string>
     <string name="mark_as_ad_expand">擴大</string>
     <string name="mark_as_ad_shrink">縮小</string>
     <string name="page_redirection">頁面重定向</string>
@@ -769,7 +769,7 @@
     <string name="allow_page_redirection_to_msg">允許頁面重定向到 %1$s 嗎？</string>
     <string name="allow_page_redirection_msg">允許頁面重定向嗎？</string>
     <string name="sort">排序</string>
-    <string name="new_folder">新建資料夾</string>
+    <string name="new_folder">新增資料夾</string>
     <string name="page_up">向上翻頁</string>
     <string name="page_down">向下翻頁</string>
     <string name="select_action">選擇行為</string>
