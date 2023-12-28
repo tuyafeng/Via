@@ -192,7 +192,7 @@
     <string name="stay">留在此页</string>
     <string name="skin_logo">Logo</string>
     <string name="skin_bg">背景</string>
-    <string name="set_it_as_homepage">你想要将它设置为首页吗？</string>
+    <string name="set_it_as_homepage">你想要将它设置为主页吗？</string>
     <string name="missing_webview">Android System WebView 未正确安装。现在去安装？</string>
     <string name="install">安装</string>
     <string name="crash_hint">真的非常非常抱歉，应用发生了闪退。</string>
@@ -375,7 +375,7 @@
     <string name="bold">粗体</string>
     <string name="italics">斜体</string>
     <string name="clear_website_icon_cache">清除网站图标缓存</string>
-    <string name="clear_website_icon_cache_message">请注意，这会清除所有首页收藏的图标。图标会在你下次访问该网站时下载。</string>
+    <string name="clear_website_icon_cache_message">请注意，这会清除所有主页收藏的图标。图标会在你下次访问该网站时下载。</string>
     <string name="desc_favorite_icon">收藏的图标</string>
     <string name="action_save">保存</string>
     <string name="reset_to_default_settings">重置为默认设置</string>
@@ -795,5 +795,17 @@
     <string name="is_required">%s 为必填项</string>
     <string name="close_tab_description">关闭 %s 标签</string>
     <string name="toast_enable_tab_bar">请选择另一种应用布局以启用标签栏</string>
+    <string name="import_data_failed_file_too_large">文件太大，无法导入</string>
+    <string name="remember_my_choice">不再询问</string>
+    <string name="microphone_add_site_exception_allow">允许特定网站使用麦克风。</string>
+    <string name="microphone_add_site_exception_block">禁止特定网站使用麦克风。</string>
+    <string name="camera_add_site_exception_allow">允许特定网站使用摄像头。</string>
+    <string name="camera_add_site_exception_block">禁止特定网站使用摄像头。</string>
+    <string name="tab_is_closed">标签页已关闭</string>
+    <string name="recently_closed_tabs">最近关闭的标签页</string>
+    <string name="tabs">标签页</string>
+    <string name="tab_settings">标签页设置</string>
+    <string name="show_toast_to_undo_closing_tab">显示撤销关闭标签的提示</string>
+    <string name="show_toast_to_undo_closing_tab_description">如果开启了隐身模式，则不会显示提示</string>
 
 </resources>

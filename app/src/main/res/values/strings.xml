@@ -806,5 +806,16 @@
     <string name="is_required">%s is required</string>
     <string name="close_tab_description">Close %s</string>
     <string name="toast_enable_tab_bar">Please choose another toolbar UI mode to enable the tab bar</string>
-
+    <string name="import_data_failed_file_too_large">The file is too large and cannot be imported</string>
+    <string name="remember_my_choice">Remember my choice</string>
+    <string name="microphone_add_site_exception_allow">Allow a specific site to use your microphone.</string>
+    <string name="microphone_add_site_exception_block">Block a specific site to use your microphone.</string>
+    <string name="camera_add_site_exception_allow">Allow a specific site to use your camera.</string>
+    <string name="camera_add_site_exception_block">Block a specific site to use your camera.</string>
+    <string name="tab_is_closed">Tab is closed</string>
+    <string name="recently_closed_tabs">Recently closed tabs</string>
+    <string name="tabs">Tabs</string>
+    <string name="tab_settings">Tab settings</string>
+    <string name="show_toast_to_undo_closing_tab">Show toast to undo closing tab</string>
+    <string name="show_toast_to_undo_closing_tab_description">The toast will not be shown if incognito mode is on.</string>
 </resources>
