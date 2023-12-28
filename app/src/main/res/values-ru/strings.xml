@@ -667,7 +667,7 @@
     <string name="action_close_tabs_to_the_top">Закрыть вкладки выше</string>
     <string name="title_permission_request">Запрос разрешения</string>
     <string name="message_permission_request">%1$s хочет использовать:</string>
-    <string name="list_item_dash">- %1$s</string>
+    <string name="list_item_dash">— %1$s</string>
     <string name="permission_microphone">Микрофон</string>
     <string name="permission_camera">Камера</string>
     <string name="add_site_exception">Добавить исключение для сайта</string>
@@ -791,5 +791,15 @@
     <string name="hold_and_drag_to_rearrange_items">Перетаскивайте зажатым для изменения порядка</string>
     <string name="hold_and_drag_or_tap_to_add_item">Перетаскивайте зажатым или нажмите для добавления</string>
     <string name="enable_tab_bar">Панель вкладок</string>
+    <string name="enable_scripts">Использовать скрипты</string>
+    <string name="scripts_enabled">Скрипты включены</string>
+    <string name="print_or_pdf">Печать/PDF</string>
+    <string name="site_info">Информация о сайте</string>
+    <string name="is_on">%s включено</string>
+    <string name="is_off">%s отключено</string>
+    <string name="is_set">%s установлено</string>
+    <string name="is_required">%s требуется</string>
+    <string name="close_tab_description">Закрыть %s</string>
+    <string name="toast_enable_tab_bar">Для включения панели вкладок выберите другой вид интерфейса</string>
 
 </resources>

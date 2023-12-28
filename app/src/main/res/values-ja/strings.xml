@@ -2,6 +2,8 @@
 <resources tools:ignore="MissingTranslation" xmlns:tools="http://schemas.android.com/tools">
 
     <string name="app_name">Via</string>
+    <string name="search_in_via">Viaで検索する</string>
+    <string name="paste_and_go">貼り付けて開く</string>
     <string name="action_new_tab">新しいタブ</string>
     <string name="action_open_in_new">新しいタブで開く</string>
     <string name="action_open_in_background">バックグラウンドタブで開く</string>
@@ -211,7 +213,6 @@
     <string name="allow_page_redirection_msg">Allow page redirection?</string>
     <string name="enable_site_conf">\"%1$s\"のサイト別設定を有効にする</string>
 
-    
     <!-- 設定｜一般｜ナイトモード -->
     <string name="night_filter_for_web_contents">ウェブページへのフィルター</string>
     <string name="force_dark_mode_for_web_contents">ウェブページへのナイトモードを強制する</string>
@@ -228,6 +229,15 @@
     <string name="ui_traditional">デフォルト</string>
     <string name="ui_simple_top">上部に配置</string>
     <string name="ui_simple_bottom">下部に配置</string>
+    
+    <!-- 設定｜一般｜タブバーを有効にする -->
+    <string name="enable_tab_bar">タブバーを有効にする</string>
+
+    <!-- 設定｜一般｜メニューのカスタマイズ -->
+    <string name="customize_menu">メニューのカスタマイズ</string>
+    <string name="hold_and_drag_to_rearrange_items">長押し＆ドラッグで項目の並び替えができます。</string>
+    <string name="hold_and_drag_or_tap_to_add_item">長押し＆ドラッグ、またはタップで項目の追加が可能です。</string>
+    <string name="action_reset">リセット</string>
     
     <!-- 設定｜一般｜言語設定 -->
     <string name="language">言語設定</string>
@@ -292,7 +302,9 @@
     <string name="settings_operation">ジェスチャー</string>
     <string name="operation_hint">ジェスチャーの設定を行えます</string>    
     <string name="back_forward_gesture">ページ間をスワイプ</string>    
-    <string name="volume">音量キーでスクロール</string>    
+    <string name="volume">音量キーでスクロール</string>
+    <string name="enable_video_player_gestures">ビデオプレイヤーのジェスチャーを有効にする</string>
+    <string name="enable_video_player_gestures_description">ビデオの全画面表示の際、スワイプで早戻しや早送り、明るさやボリュームの調整が可能です（サイトが対応している場合）。</string>
     <string name="keyboard_shortcuts">キーボードショートカット</string>
     <string name="toolbar_settings_hint">下の各アイコンをタップするとジェスチャーを設定できます。長押しすると設定中のジェスチャーが表示されます。</string>
     
@@ -353,8 +365,6 @@
  
     <!-- 設定｜カスタマイズ｜背景 -->
     <string name="skin_bg">背景</string>
-    
-    <!-- 設定｜カスタマイズ｜スタイル -->
 
     <!-- 設定｜カスタマイズ｜ブックマーク -->
     <string name="favorites_icon_style">アイコン</string>
@@ -400,10 +410,18 @@
     <string name="option_allow">許可</string>
     <string name="option_deny">拒否</string>
     <string name="title_disable_safe_browsing">セーフブラウジングを無効にします</string>
+    <string name="title_disable_safe_browsing_description">セーフブラウジングにより、リンク先のマルウェアやフィッシング攻撃から保護できます。</string>
+    <string name="title_ignore_ssl_warnings">SSL証明書の警告を無視します</string>
+    <string name="title_ignore_ssl_warnings_description">SSL証明書の警告を無視すると、ウェブサイトへの接続が安全でなくなる可能性があるので注意してください。</string>
+    <string name="message_ignore_ssl_warnings">SSL証明書は、ブラウザとウェブサーバ間の通信を暗号化するために使用される電子証明書です。警告を無視するとパスワードなどを盗まれる可能性があるほか、詐欺サイトやなりすましなどの被害にあう可能性があります。</string>
+    <string name="title_ignore_ssl_warnings_confirmation">SSL証明書の警告を無視することによるリスクを理解しました。</string>
     
     <!-- 設定｜スクリプト -->
     <string name="settings_script">スクリプト</string>
     <string name="add_script">スクリプトの追加</string>
+    <string name="import_script_from_url">URLからスクリプトをインポートする</string>
+    <string name="import_script_from_file">ファイルからスクリプトをインポートする</string>
+    <string name="script_invalid">スクリプトが無効です</string>
     <string name="script_code">コード (JavaScript)</string>
     <string name="action_save">保存</string>
     
@@ -425,6 +443,7 @@
     <string name="bookmark_added">ブックマーク追加済み</string>
     <string name="root_folder">ルートフォルダー</string>
     <string name="sort_order">並び替え</string>
+    <string name="new_folder">新しいフォルダ</string>
     <string name="sort_by_oldest_first">登録が古い順</string>
     <string name="sort_by_newest_first">登録が新しい順</string>
     <string name="sort_by_alphabetical_order">アルファベット順</string>
@@ -444,8 +463,16 @@
     <string name="today">今日</string>
     <string name="yesterday">昨日</string>
     <!--  日付の書き方は右のサイトを参照してください: https://docs.oracle.com/javase/7/docs/api/java/text/SimpleDateFormat.html  -->
-    <string name="same_year_date_format">MMM月 dd日 EEE曜日</string>
-    <string name="default_date_format">yyyy年 MMM月 dd日 EEE曜日</string>
+    <string name="same_year_date_format">MM月 dd日 EEE曜日</string>
+    <string name="default_date_format">yyyy年 MM月 dd日 EEE曜日</string>
+    <string name="delete_history_from">いつからの履歴を削除しますか？</string>
+    <string name="last_hour">過去一時間</string>
+    <string name="today_and_yesterday">今日及び昨日</string>
+    <string name="last_seven_days">過去7日間</string>
+    <string name="all_time">すべての履歴</string>
+
+    <!-- 保存済みページ -->
+    <string name="export">エクスポート</string>
     
     <!-- ダウンロード --> 
     <string name="action_re_download">再度ダウンロード</string>
@@ -476,7 +503,7 @@
 
     <!-- ポップアップ -->     
     <string name="allow_website_to_open_app_message">ウェブサイトを %1$s で開きますか？</string>
-    <string name="no_resource">このページにはリソースがありません。</string>
+    <string name="no_resource">このページにはメディアがありません。</string>
     <string name="resource_sniffer_hint">\nPS: 見つからない場合は、動画や音声を再生してみてください。</string>
     <string name="no_network_log">このページにはネットワークログはありません。</string>
     <string name="block_popup_message">ポップアップをブロックしました</string>
@@ -492,13 +519,17 @@
     <string name="restore_tabs_hint_settings">シークレットモードになったため、タブは復元されません。</string>
     <string name="incognito_on">シークレットモードを使用中です</string>
     <string name="incognito_off">シークレットモードを解除しました</string>
+    <string name="title_close_all_tabs">すべてのタブを閉じる</string>
+    <string name="message_close_all_tabs_before_disabling_incognito_mode">シークレットモードを解除する際に、すべてのタブを閉じますか？</string>
+    <string name="action_close">閉じる</string>
+    <string name="action_keep">保持する</string>
     
     <!-- メニュー -->
     <string name="action_incognito">シークレットモード</string>
     <string name="action_find">ページ内検索</string>
     <string name="action_translate">翻訳</string>
     <string name="network_log">ネットワークログ</string>
-    <string name="resource_sniffer">リソース検知</string>
+    <string name="resource_sniffer">メディア検知</string>
     <string name="action_pcview">デスクトップモード</string>
     <string name="action_source">ソース表示</string>
     <string name="action_share">共有</string>
@@ -519,39 +550,25 @@
     <string name="block_hint">ブロック済み: %1$s\n再読み込みして有効化します。</string>
     <string name="unblock_hint">ブロック解除済み: %1$s\n再読み込みして有効化します。</string>
 
-    
     <string name="search_hint">検索</string>
     <string name="action_delete">削除</string>
     <string name="action_delete_all">全て削除</string>
-
     <string name="title_custom_homepage">ページを設定</string>
-
     <string name="hint_folder">フォルダー</string>
     <string name="title_edit_bookmark">編集</string>
     <string name="action_edit">編集</string>
-
     <string name="download_pending">ダウンロード中…</string>
     <string name="cannot_download">\"http\"または\"https\"を使用したサイトからのみファイルをダウンロードできます。</string>
-
-
-
     <string name="title_sign_in">サインイン</string>
-
     <string name="untitled">空白のページ</string>
-
     <string name="title_file_chooser">ファイルを開く</string>
-
     <string name="message_exit">もう一度押すとアプリを終了します</string>
     <string name="dialog_message">メッセージ</string>
     <string name="wait_a_moment">しばらくお待ちください&#8230;</string>
     <string name="toast_operation_failed">失敗しました</string>
-
-
     <string name="toast_clear_defaults">設定を消去してください</string>
     <string name="toast_copy_url_successful">アドレスをコピーしました</string>
     <string name="toast_copy_text_successful">テキストをコピーしました</string>
-
-
     <string name="operation_none">アクションなし</string>
     <string name="operation_reload">再読み込み</string>
     <string name="operation_top">トップへ戻る</string>
@@ -566,8 +583,6 @@
     <string name="operation_nexttab">次のタブ</string>
     <string name="operation_goback">前に戻る</string>
     <string name="operation_goforward">次に進む</string>
-
-
     <string name="desc_suggestion">提案</string>
     <string name="desc_home">ホーム</string>
     <string name="desc_menu">メニュー</string>
@@ -576,15 +591,12 @@
     <string name="msg_intent">外部アプリの起動をしますか？</string>
     <string name="action_mark">広告をマーク</string>
     <string name="dialog_confirm_mark">要素をブロックしますか？</string>
-
     <string name="dialog_sure">よろしいですか？</string>
     <string name="toast_operation_done">完了しました</string>
-
     <string name="crash_info">エラーが発生しました :(</string>
     <string name="crash_restart">再起動</string>
     <string name="crash_close">終了</string>
     <string name="upload_completed">報告成功 :)</string>
-
     <string name="open_with">開く&#8230;</string>
     <string name="download_completed">ダウンロード完了</string>
     <string name="toast_fullscreen_off">全画面解除</string>
@@ -593,26 +605,18 @@
     <string name="action_saved_pages">保存済みページ</string>
     <string name="saved_page_successfully">保存しました</string>
     <string name="deleted_failed">削除できませんでした。ダウンロードファイルのパス: </string>
-
     <string name="empty_hint">表示できる項目はありません</string>
-
     <string name="conn_timeout">接続がタイムアウトしました</string>
-
     <string name="already_default">デフォルトのブラウザに設定されています</string>
-
     <string name="set_to_default">設定を適用するには Via で %1$s を開いてください</string>
-
     <string name="sync_prompt">ブックマークと設定を上書きしますか？</string>
     <string name="upload_prompt">ブックマークと設定をアップロードしますか？</string>
     <string name="sougou_url">sougou</string>
     <string name="restore_tabs_hint">前回閉じたタブを開きますか？</string>
     <string name="check_permission">権限へのアクセス許可が必要です。</string>
-
     <string name="official_website">公式サイト</string>
     <string name="set_it_as_homepage">ホームページに設定しますか？</string>
-
     <string name="stay">とどまる</string>
-
     <string name="leave">離れる</string>
     <string name="install">インストール</string>
     <string name="crash_hint">申し訳ございません、Viaがクラッシュしました。</string>
@@ -625,17 +629,12 @@
     <string name="find_pre">前へ</string>
     <string name="find_next">次へ</string>
     <string name="action_modify">編集</string>
-
     <string name="no_bookmark">ブックマークはありません</string>
     <string name="settings_general">一般</string>
-
     <string name="adblock_info">%1$d件の広告がブロックされ、%2$s節約しました</string>
-
     <string name="cannot_work">「http(s)」で始まるURLのみで動作します。</string>
     <string name="search_by_image">画像で検索</string>
-
     <string name="res_log_hint">アイテムを表示するにはタップ、ダウンロードするには長押ししてください。</string>
-
     <string name="action_downloads">ダウンロード</string>
     <string name="empty_username_info">ユーザー名を入力してください。</string>
     <string name="empty_password_info">パスワードを入力してください。</string>
@@ -656,7 +655,5 @@
     <string name="file_does_not_exist">ファイルがありません</string>
     <string name="dialog_message_from">%1$sからのメッセージ</string>
     <string name="url_is_invalid">URLが無効です</string>
-
     <string name="require_javascript_enabled">JavaScriptが有効になってないと有効になりません。</string>
-
 </resources>

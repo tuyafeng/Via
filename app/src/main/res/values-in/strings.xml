@@ -780,5 +780,31 @@
     <string name="page_redirection_add_site_exception_ask_first">Tanyakan terlebih dahulu sebelum pengalihan lintas asal untuk situs tertentu.</string>
     <string name="allow_page_redirection_to_msg">Izinkan pengalihan halaman ke %1$s?</string>
     <string name="allow_page_redirection_msg">Izinkan pengalihan halaman?</string>
+    <string name="sort">Sortir</string>
+    <string name="new_folder">Folder baru</string>
+    <string name="page_up">Halaman ke atas</string>
+    <string name="page_down">Halaman ke bawah</string>
+    <string name="select_action">Pilih tindakan</string>
+    <string name="tab_actions">Tindakan tab</string>
+    <string name="feature_actions">Tindakan fitur</string>
+    <string name="address_bar_actions">Tindakan bilah alamat</string>
+    <string name="webpage_actions">Tindakan halaman web</string>
+    <string name="message_close_all_tabs">Apakah Anda yakin ingin menutup semua tab?</string>
+    <string name="search_in_via">Cari di Via</string>
+    <string name="following_filters_invalid_message">Filter berikut tidak dalam format yang benar:</string>
+    <string name="customize_menu">Sesuaikan menu</string>
+    <string name="hold_and_drag_to_rearrange_items">Tahan dan seret untuk mengatur ulang item</string>
+    <string name="hold_and_drag_or_tap_to_add_item">Tahan dan seret atau ketuk untuk menambahkan item</string>
+    <string name="enable_tab_bar">Aktifkan bilah tab</string>
+    <string name="enable_scripts">Aktifkan skrip</string>
+    <string name="scripts_enabled">Skrip diaktifkan</string>
+    <string name="print_or_pdf">Cetak/PDF</string>
+    <string name="site_info">Informasi situs</string>
+    <string name="is_on">%s aktif</string>
+    <string name="is_off">%s tidak aktif</string>
+    <string name="is_set">%s sudah diatur</string>
+    <string name="is_required">%s diperlukan</string>
+    <string name="close_tab_description">Tutup %s</string>
+    <string name="toast_enable_tab_bar">Silakan pilih mode UI toolbar lain untuk mengaktifkan bilah tab</string>
 
 </resources>
