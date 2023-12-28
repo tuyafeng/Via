@@ -794,4 +794,16 @@
     <string name="is_required">%s 為必填項</string>
     <string name="close_tab_description">關閉 %s 分頁</string>
     <string name="toast_enable_tab_bar">請選擇另一種工具列介面模式以啟用分頁欄</string>
+    <string name="import_data_failed_file_too_large">檔案太大，無法匯入</string>
+    <string name="remember_my_choice">不再詢問</string>
+    <string name="microphone_add_site_exception_allow">允許特定網站使用麥克風。</string>
+    <string name="microphone_add_site_exception_block">禁止特定網站使用麥克風。</string>
+    <string name="camera_add_site_exception_allow">允許特定網站使用攝影機。</string>
+    <string name="camera_add_site_exception_block">禁止特定網站使用攝影機。</string>
+    <string name="tab_is_closed">分頁已關閉</string>
+    <string name="recently_closed_tabs">最近關閉的分頁</string>
+    <string name="tabs">分頁</string>
+    <string name="tab_settings">分頁設定</string>
+    <string name="show_toast_to_undo_closing_tab">顯示移除關閉分頁的訊息</string>
+    <string name="show_toast_to_undo_closing_tab_description">如果開啟了無痕模式，則不會顯示訊息</string>
 </resources>
