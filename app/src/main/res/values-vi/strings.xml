@@ -794,4 +794,16 @@
     <string name="is_required">%s là bắt buộc</string>
     <string name="close_tab_description">Đóng %s</string>
     <string name="toast_enable_tab_bar">Vui lòng chọn chế độ giao diện người dùng thanh công cụ khác để bật thanh tab</string>
+    <string name="import_data_failed_file_too_large">Tệp quá lớn và không thể nhập được</string>
+    <string name="remember_my_choice">Nhớ lựa chọn của tôi</string>
+    <string name="microphone_add_site_exception_allow">Cho phép một trang web cụ thể sử dụng micrô của bạn.</string>
+    <string name="microphone_add_site_exception_block">Chặn một trang web cụ thể để sử dụng micrô của bạn.</string>
+    <string name="camera_add_site_exception_allow">Cho phép một trang web cụ thể sử dụng máy ảnh của bạn.</string>
+    <string name="camera_add_site_exception_block">Chặn một trang web cụ thể để sử dụng máy ảnh của bạn.</string>
+    <string name="tab_is_closed">Thẻ đã đóng</string>
+    <string name="recently_closed_tabs">Thẻ đã đóng gần đây</string>
+    <string name="tabs">Thẻ</string>
+    <string name="tab_settings">Cài đặt thẻ</string>
+    <string name="show_toast_to_undo_closing_tab">Hiển thị thông báo nhanh để hoàn tác việc đóng thẻ</string>
+    <string name="show_toast_to_undo_closing_tab_description">Thông báo nhanh không hiển thị nếu chế độ ẩn danh bật.</string>
 </resources>
