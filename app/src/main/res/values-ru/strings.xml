@@ -801,5 +801,16 @@
     <string name="is_required">%s требуется</string>
     <string name="close_tab_description">Закрыть %s</string>
     <string name="toast_enable_tab_bar">Для включения панели вкладок выберите другой вид интерфейса</string>
-
+    <string name="import_data_failed_file_too_large">Файл слишком большой и не может быть импортирован</string>
+    <string name="remember_my_choice">Запомнить выбор</string>
+    <string name="microphone_add_site_exception_allow">Разрешать использовать микрофон на определённом сайте.</string>
+    <string name="microphone_add_site_exception_block">Запрещать использовать микрофон на определённом сайте.</string>
+    <string name="camera_add_site_exception_allow">Разрешать использовать камеру на определённом сайте.</string>
+    <string name="camera_add_site_exception_block">Запрещать использовать камеру на определённом сайте.</string>
+    <string name="tab_is_closed">Вкладка закрыта</string>
+    <string name="recently_closed_tabs">Недавно закрытые вкладки</string>
+    <string name="tabs">Вкладки</string>
+    <string name="tab_settings">Настройки вкладки</string>
+    <string name="show_toast_to_undo_closing_tab">Уведомление для возможности отменить закрытие вкладки</string>
+    <string name="show_toast_to_undo_closing_tab_description">При включённом режиме инкогнито всплывающее окно не отображается.</string>
 </resources>
