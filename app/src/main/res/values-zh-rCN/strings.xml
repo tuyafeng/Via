@@ -807,5 +807,14 @@
     <string name="tab_settings">标签页设置</string>
     <string name="show_toast_to_undo_closing_tab">显示撤销关闭标签的提示</string>
     <string name="show_toast_to_undo_closing_tab_description">如果开启了隐身模式，则不会显示提示</string>
-
+    <string name="open_all">打开全部</string>
+    <string name="expand_web_content_automatically">自动展开网页全文</string>
+    <string name="expand_web_content_automatically_description">打开网页时自动展开网页中折叠的内容</string>
+    <string name="read_aloud">朗读网页</string>
+    <string name="start_reading_aloud">开始朗读</string>
+    <string name="cannot_read_this_page_aloud">无法朗读该网页</string>
+    <string name="tts_failed_to_initialize">文字转语音引擎加载失败</string>
+    <string name="fastforward">快进</string>
+    <string name="rewind">倒带</string>
+    <string name="add_to_home_screen">添加到桌面</string>
 </resources>
