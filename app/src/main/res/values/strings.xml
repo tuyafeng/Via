@@ -817,5 +817,15 @@
     <string name="tabs">Tabs</string>
     <string name="tab_settings">Tab settings</string>
     <string name="show_toast_to_undo_closing_tab">Show toast to undo closing tab</string>
-    <string name="show_toast_to_undo_closing_tab_description">The toast will not be shown if incognito mode is on.</string>
+    <string name="show_toast_to_undo_closing_tab_description">The toast will not be shown if incognito mode is on</string>
+    <string name="open_all">Open all</string>
+    <string name="expand_web_content_automatically">Expand webpage content automatically</string>
+    <string name="expand_web_content_automatically_description">Expand collapsed content automatically when open a webpage</string>
+    <string name="read_aloud">Read aloud</string>
+    <string name="start_reading_aloud">Start reading aloud</string>
+    <string name="cannot_read_this_page_aloud">Cannot read this page aloud</string>
+    <string name="tts_failed_to_initialize">TTS engine could not be initialized</string>
+    <string name="fastforward">Fastforward</string>
+    <string name="rewind">Rewind</string>
+    <string name="add_to_home_screen">Add to home screen</string>
 </resources>
