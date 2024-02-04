@@ -813,4 +813,14 @@
     <string name="tab_settings">Настройки вкладки</string>
     <string name="show_toast_to_undo_closing_tab">Уведомление для возможности отменить закрытие вкладки</string>
     <string name="show_toast_to_undo_closing_tab_description">При включённом режиме инкогнито всплывающее окно не отображается.</string>
+    <string name="open_all">Открыть все</string>
+    <string name="expand_web_content_automatically">Раскрывать содержимое сайта</string>
+    <string name="expand_web_content_automatically_description">Автоматически разворачивать свёрнутое содержимое при открытии сайта</string>
+    <string name="read_aloud">Читать вслух</string>
+    <string name="start_reading_aloud">Чтение вслух…</string>
+    <string name="cannot_read_this_page_aloud">Невозможно прочитать эту страницу вслух</string>
+    <string name="tts_failed_to_initialize">Невозможно инициализировать TTS</string>
+    <string name="fastforward">Перемотка вперёд</string>
+    <string name="rewind">Перемотка назад</string>
+    <string name="add_to_home_screen">Ярлык на рабочий стол</string>
 </resources>
