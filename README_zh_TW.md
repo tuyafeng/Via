@@ -48,7 +48,7 @@ Via 使用的是 Android 平台內建的 WebView 渲染網頁。 在 Android 5.0
 
 **為什麼 Via 無法儲存密碼？**
 
-很不幸地，Google 從 WebView 移除了這個功能。 在 Android 8.0 以及以上的裝置，您可以使用自動填入應用程式（例如 Bitwarden、Keepass 等）來儲存和填入密碼。
+很不幸地，Google 從 WebView 移除了這個功能。 在 Android 8.0 以及以上的裝置，您可以使用自動填入應用程式(例如 Bitwarden、Keepass 等)來儲存和填入密碼。
 
 **為什麼 Via 無法掃描二維碼(QR code)？**
 
