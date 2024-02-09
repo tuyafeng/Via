@@ -23,7 +23,7 @@ Via 瀏覽器是一個擁有下列特色的強大瀏覽器：
 
 ### 協助在地化
 
-我們鼓勵每個人協助在地化。下方是具體的步驟:
+我們鼓勵每個人來協助在地化。下方是具體的步驟:
 
 1. 派生(Fork)此存放庫(Repository)
 2. 複製 `app/src/main/res/values/strings.xml` 至如同 `app/src/main/res/values-%(lang)/` 的路徑，用 [*ISO 639-1 語言代碼*](http://www.loc.gov/standards/iso639-2/php/code_list.php) 取代 `%(lang)`
