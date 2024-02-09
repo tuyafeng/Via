@@ -60,6 +60,6 @@ Via 使用的是 Android 平台內建的 WebView 渲染網頁。 在 Android 5.0
 
 您可以在[Telegram](https://t.me/tuyafeng)上聯絡我，我會盡快回覆。
 
-您也可以在 GitHub 上[提出問題 (Issue)](https://github.com/tuyafeng/Via/issues/new)，我通常每週會查看並回覆一次問題。
+您也可以在 GitHub 上[提出問題(Issue)](https://github.com/tuyafeng/Via/issues/new)，我通常每週會查看並回覆一次問題。
 
 如果有必要的話，您也可以[寄送電子郵件](mailto:yafengtu@gmail.com)，但很抱歉，我可能不會回覆。
