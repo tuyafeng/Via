@@ -801,5 +801,26 @@
     <string name="is_required">%s требуется</string>
     <string name="close_tab_description">Закрыть %s</string>
     <string name="toast_enable_tab_bar">Для включения панели вкладок выберите другой вид интерфейса</string>
-
+    <string name="import_data_failed_file_too_large">Файл слишком большой и не может быть импортирован</string>
+    <string name="remember_my_choice">Запомнить выбор</string>
+    <string name="microphone_add_site_exception_allow">Разрешать использовать микрофон на определённом сайте.</string>
+    <string name="microphone_add_site_exception_block">Запрещать использовать микрофон на определённом сайте.</string>
+    <string name="camera_add_site_exception_allow">Разрешать использовать камеру на определённом сайте.</string>
+    <string name="camera_add_site_exception_block">Запрещать использовать камеру на определённом сайте.</string>
+    <string name="tab_is_closed">Вкладка закрыта</string>
+    <string name="recently_closed_tabs">Недавно закрытые вкладки</string>
+    <string name="tabs">Вкладки</string>
+    <string name="tab_settings">Настройки вкладки</string>
+    <string name="show_toast_to_undo_closing_tab">Уведомление для возможности отменить закрытие вкладки</string>
+    <string name="show_toast_to_undo_closing_tab_description">При включённом режиме инкогнито всплывающее окно не отображается.</string>
+    <string name="open_all">Открыть все</string>
+    <string name="expand_web_content_automatically">Раскрывать содержимое сайта</string>
+    <string name="expand_web_content_automatically_description">Автоматически разворачивать свёрнутое содержимое при открытии сайта</string>
+    <string name="read_aloud">Читать вслух</string>
+    <string name="start_reading_aloud">Чтение вслух…</string>
+    <string name="cannot_read_this_page_aloud">Невозможно прочитать эту страницу вслух</string>
+    <string name="tts_failed_to_initialize">Невозможно инициализировать TTS</string>
+    <string name="fastforward">Перемотка вперёд</string>
+    <string name="rewind">Перемотка назад</string>
+    <string name="add_to_home_screen">Ярлык на рабочий стол</string>
 </resources>
