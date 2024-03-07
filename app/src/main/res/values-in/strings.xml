@@ -379,8 +379,8 @@
     <string name="desc_favorite_icon">Ikon favorit</string>
     <string name="action_save">Simpan</string>
     <string name="reset_to_default_settings">Atur ulang ke pengaturan default</string> 
-    <string name="save_data">Hemat data</string>
-    <string name="save_data_description">Aktifkan mode hemat data di situs web yang kompatibel</string> 
+    <string name="save_data">Save data</string>
+    <string name="save_data_description">Aktifkan mode save data di situs web yang kompatibel</string> 
     <string name="action_manage_favorites">Pengelola favorit</string>
     <string name="check_for_updates">Periksa pembaruan</string> 
     <string name="checking_for_updates">Memeriksa pembaruan</string> 
@@ -806,5 +806,26 @@
     <string name="is_required">%s diperlukan</string>
     <string name="close_tab_description">Tutup %s</string>
     <string name="toast_enable_tab_bar">Silakan pilih mode UI toolbar lain untuk mengaktifkan bilah tab</string>
-
+    <string name="import_data_failed_file_too_large">File terlalu besar dan tidak dapat diimpor</string>
+    <string name="remember_my_choice">Ingat pilihan saya</string>
+    <string name="microphone_add_site_exception_allow">Izinkan situs tertentu menggunakan mikrofon.</string>
+    <string name="microphone_add_site_exception_block">Blokir situs tertentu untuk menggunakan mikrofon.</string>
+    <string name="camera_add_site_exception_allow">Izinkan situs tertentu menggunakan kamera.</string>
+    <string name="camera_add_site_exception_block">Blokir situs tertentu untuk menggunakan kamera.</string>
+    <string name="tab_is_closed">Tab ditutup</string>
+    <string name="recently_closed_tabs">Tab yang baru saja ditutup</string>
+    <string name="tabs">Tab</string>
+    <string name="tab_settings">Pengaturan tab</string>
+    <string name="show_toast_to_undo_closing_tab">Tampilkan toast untuk membatalkan penutupan tab</string>
+    <string name="show_toast_to_undo_closing_tab_description">Toast tidak akan ditampilkan jika mode penyamaran aktif</string>
+    <string name="open_all">Buka semua</string>
+    <string name="expand_web_content_automatically">Perluas konten halaman web secara otomatis</string>
+    <string name="expand_web_content_automatically_description">Perluas konten yang diciutkan secara otomatis saat membuka halaman web</string>
+    <string name="read_aloud">Bacakan</string>
+    <string name="start_reading_aloud">Mulai membacakan</string>
+    <string name="cannot_read_this_page_aloud">Tidak dapat membacakan halaman ini</string>
+    <string name="tts_failed_to_initialize">Mesin TTS tidak dapat diinisialisasi</string>
+    <string name="fastforward">Percepat</string>
+    <string name="rewind">Putar ulang</string>
+    <string name="add_to_home_screen">Tambahkan ke layar beranda</string>
 </resources>
