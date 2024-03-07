@@ -392,7 +392,7 @@
     <string name="follow_system_dark_mode_on">Vklopljeno je sledenje temnemu načinu sistema</string>
     <string name="scoped_search">Išči %1$s</string>
     <string name="add_shortcut">Dodaj bližnjico</string>
-    <string name="need_shortcut_permission">Dovoljenje zavrnjeno. Prosimo odprite nastavitve in vključite dovoljenje \"Ustvarite bližnjice na začetnem zaslonu\" za to aplikacijo.</string>
+    <string name="need_shortcut_permission">Dovoljenje zavrnjeno. Prosimo odprite nastavitve in vključite dovoljenje \"Ustvarite bližnjice na začetni strani\" za to aplikacijo.</string>
     <string name="create_shortcut_successfully">Bližnjica za %1$s je uspešno ustvarjena</string>
     <string name="update_shortcut_successfully">Bližnjica za %1$s je uspešno posodobljena</string>
     <string name="today">Danes</string>
@@ -828,5 +828,5 @@
     <string name="tts_failed_to_initialize">Mehanizma TTS ni bilo mogoče inicializirati</string>
     <string name="fastforward">Prevrti naprej</string>
     <string name="rewind">Previj</string>
-    <string name="add_to_home_screen">Dodaj na zač. zasl.</string>
+    <string name="add_to_home_screen">Dodaj na zač. str.</string>
 </resources>
