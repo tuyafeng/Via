@@ -61,7 +61,7 @@
     <string name="baidu_url">Baidu</string>
     <string name="shenma_url">ShenMa</string>
     <string name="bing_url">Bing</string>
-    <string name="haosou_url">Haosou</string>
+    <string name="haosou_url">360 Search</string>
     <string name="duckduckgo_url">DuckDuckGo</string>
     <string name="startpage_url">StartPage</string>
     <string name="yahoo_url">Yahoo</string>
@@ -642,7 +642,7 @@
     <string name="desc_swap_language">Поменять языки</string>
     <string name="desc_paste_text">Вставить текст</string>
     <string name="translation_engine_google_text">Перевод текста Google</string>
-    <string name="sourcenao_url">SourceNAO</string>
+    <string name="saucenao_url">SauceNAO</string>
     <string name="iqdb_url">IQDB</string>
     <string name="iqdb_3d_url">3D IQDB</string>
     <string name="whatanime_url">WhatAnime</string>
@@ -813,4 +813,14 @@
     <string name="tab_settings">Настройки вкладки</string>
     <string name="show_toast_to_undo_closing_tab">Уведомление для возможности отменить закрытие вкладки</string>
     <string name="show_toast_to_undo_closing_tab_description">При включённом режиме инкогнито всплывающее окно не отображается.</string>
+    <string name="open_all">Открыть все</string>
+    <string name="expand_web_content_automatically">Раскрывать содержимое сайта</string>
+    <string name="expand_web_content_automatically_description">Автоматически разворачивать свёрнутое содержимое при открытии сайта</string>
+    <string name="read_aloud">Читать вслух</string>
+    <string name="start_reading_aloud">Чтение вслух…</string>
+    <string name="cannot_read_this_page_aloud">Невозможно прочитать эту страницу вслух</string>
+    <string name="tts_failed_to_initialize">Невозможно инициализировать TTS</string>
+    <string name="fastforward">Перемотка вперёд</string>
+    <string name="rewind">Перемотка назад</string>
+    <string name="add_to_home_screen">Ярлык на рабочий стол</string>
 </resources>

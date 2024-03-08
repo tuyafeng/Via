@@ -61,7 +61,7 @@
     <string name="baidu_url">Baidu</string>
     <string name="shenma_url">ShenMa</string>
     <string name="bing_url">Bing</string>
-    <string name="haosou_url">Haosou</string>
+    <string name="haosou_url">360 Search</string>
     <string name="duckduckgo_url">DuckDuckGo</string>
     <string name="startpage_url">StartPage</string>
     <string name="yahoo_url">Yahoo!</string>
@@ -645,7 +645,7 @@
     <string name="desc_swap_language">Trocar idioma</string>
     <string name="desc_paste_text">Colar texto</string>
     <string name="translation_engine_google_text">Tradução de texto do Google</string>
-    <string name="sourcenao_url">SourceNAO</string>
+    <string name="saucenao_url">SauceNAO</string>
     <string name="iqdb_url">IQDB</string>
     <string name="iqdb_3d_url">3D IQDB</string>
     <string name="whatanime_url">WhatAnime</string>
@@ -804,4 +804,26 @@
     <string name="is_required">%s é obrigatório</string>
     <string name="close_tab_description">Fechar %s</string>
     <string name="toast_enable_tab_bar">Por favor, escolha uma posição da barra de ferramentas para ativar a barra de abas</string>
+    <string name="import_data_failed_file_too_large">O arquivo é muito grande e não pode ser importado</string>
+    <string name="remember_my_choice">Lembrar minha escolha</string>
+    <string name="microphone_add_site_exception_allow">Permite que um site específico use seu microfone.</string>
+    <string name="microphone_add_site_exception_block">Bloquear um site específico para usar seu microfone.</string>
+    <string name="camera_add_site_exception_allow">Permite que um site específico use sua câmera.</string>
+    <string name="camera_add_site_exception_block">Bloqueie um site específico para usar sua câmera.</string>
+    <string name="tab_is_closed">A aba está fechada</string>
+    <string name="recently_closed_tabs">Abas fechadas recentemente</string>
+    <string name="tabs">Abas</string>
+    <string name="tab_settings">Configurações de abas</string>
+    <string name="show_toast_to_undo_closing_tab">Mostrar aviso para desfazer o fechamento da aba</string>
+    <string name="show_toast_to_undo_closing_tab_description">O aviso não será mostrado se o modo anônimo estiver ativado</string>
+    <string name="open_all">Abrir tudo</string>
+    <string name="expand_web_content_automatically">Expandir conteúdo da página web automaticamente</string>
+    <string name="expand_web_content_automatically_description">Expandir conteúdo recolhido automaticamente ao abrir uma página da web</string>
+    <string name="read_aloud">Ler em voz alta</string>
+    <string name="start_reading_aloud">Começar a leitura em voz alta</string>
+    <string name="cannot_read_this_page_aloud">Não foi possível ler esta página em voz alta</string>
+    <string name="tts_failed_to_initialize">O mecanismo de TTS não pôde ser inicializado</string>
+    <string name="fastforward">Acelerar</string>
+    <string name="rewind">Retroceder</string>
+    <string name="add_to_home_screen">Adicionar à tela inicial</string>
 </resources>

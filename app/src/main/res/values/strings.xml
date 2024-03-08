@@ -61,7 +61,7 @@
     <string name="baidu_url">Baidu</string>
     <string name="shenma_url">ShenMa</string>
     <string name="bing_url">Bing</string>
-    <string name="haosou_url">Haosou</string>
+    <string name="haosou_url">360 Search</string>
     <string name="duckduckgo_url">DuckDuckGo</string>
     <string name="startpage_url">StartPage</string>
     <string name="yahoo_url">Yahoo</string>
@@ -647,7 +647,7 @@
     <string name="desc_swap_language">Swap language</string>
     <string name="desc_paste_text">Paste text</string>
     <string name="translation_engine_google_text">Google text translate</string>
-    <string name="sourcenao_url">SourceNAO</string>
+    <string name="saucenao_url">SauceNAO</string>
     <string name="iqdb_url">IQDB</string>
     <string name="iqdb_3d_url">3D IQDB</string>
     <string name="whatanime_url">WhatAnime</string>
@@ -828,4 +828,30 @@
     <string name="fastforward">Fastforward</string>
     <string name="rewind">Rewind</string>
     <string name="add_to_home_screen">Add to home screen</string>
+    <string name="certificate_detail_fingerprints"><![CDATA[
+        <b>SHA-256 FINGERPRINTS</b><br />
+        <b>Certificate</b><br />
+        %1$s
+        <br /><b>Public Key</b><br />
+        %2$s
+        <br />
+    ]]></string>
+    <string name="show_reader">Show reader</string>
+    <string name="hide_reader">Hide reader</string>
+    <string name="reader_is_shown">Reader is shown</string>
+    <string name="reader_is_hidden">Reader is hidden</string>
+    <string name="custom_reader_css">Custom reader CSS</string>
+    <string name="reader_mode">Reader mode</string>
+    <string name="the_page_has_not_fully_loaded">The page has not fully loaded</string>
+    <string name="more_options">More options</string>
+    <string name="link_too_long_to_generate_qr_code">The link is too long to generate a QR code</string>
+    <string name="view_scripts">View scripts</string>
+    <string name="exit_message_if_incognito_mode_is_on">All open tabs will be deleted and cannot be restored, are you sure to you want to exit app?</string>
+    <string name="dont_remind_me_again">Don\'t remind me again</string>
+    <string name="cannot_work_javascript_is_blocked">It can only work if JavaScript is allowed.</string>
+    <string name="cannot_work_on_this_site">It cannot work on this site.</string>
+    <string name="one_filter_per_line">One filter per line.</string>
+    <string name="modified_content_has_not_been_saved_message">The modified content has not been saved. Do you want to save it?</string>
+    <string name="operation_opensettings">Open settings</string>
+    <string name="enable_draggable_scrollbar">Enable draggable scrollbar</string>
 </resources>

@@ -1,0 +1,831 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources tools:ignore="MissingTranslation" xmlns:tools="http://schemas.android.com/tools">
+<string name="app_name">Via</string>
+    <string name="action_new_tab">Ny fane</string>
+    <string name="action_open_in_new">Åbn i ny fane</string>
+    <string name="action_save_img">Gem billede</string>
+    <string name="action_share">Del</string>
+    <string name="action_history">Historik</string>
+    <string name="action_bookmarks">Bogmærker</string>
+    <string name="action_add_bookmark">Tilføj bogmærke</string>
+    <string name="action_night">Nattilstand</string>
+    <string name="action_copy">Kopiér link</string>
+    <string name="action_block_domain">Bloker domæne</string>
+    <string name="action_unblock_domain">Fjern blokering af domæne</string>
+    <string name="action_unblock_url">Fjern blokering af link</string>
+    <string name="action_block_url">Bloker link</string>
+    <string name="action_copy_text">Kopiér tekst</string>
+    <string name="action_copy_link_text">Kopiér linktekst</string>
+    <string name="action_tools">Værktøjer</string>
+    <string name="settings">Indstillinger</string>
+    <string name="location">Placeringsadgang</string>
+    <string name="password">Gem adgangskoder</string>
+    <string name="donate">Doner</string>
+    <string name="donate_details">Hvis du kan lide Via browser, kan du donere for at støtte os.\nAlipay: 2376688759@qq.com\nPayPal: wiar1824@gmail.com</string>
+    <string name="orientation">Retning</string>
+    <string name="follow_system">System</string>
+    <string name="orientation_auto">Auto</string>
+    <string name="orientation_portrait">Portræt</string>
+    <string name="orientation_landscape">Landskab</string>
+    <string name="agent">Brugeragent</string>
+    <string name="home">Startside</string>
+    <string name="fullscreen">Skjul automatisk værktøjslinjer</string>
+    <string name="java">Aktiver JavaScript</string>
+    <string name="download">Downloadplacering</string>
+    <string name="size">Tekststørrelse</string>
+    <string name="search">Søgemaskine</string>
+    <string name="search_hint">Søg</string>
+    <string name="action_delete">Slet</string>
+    <string name="action_delete_all">Slet alle</string>
+    <string name="action_blank">Tom side</string>
+    <string name="agent_chrome">Chrome (pc)</string>
+    <string name="agent_ie">Windows (IE 11)</string>
+    <string name="agent_iphone">iPhone</string>
+    <string name="agent_symbian">Symbian</string>
+    <string name="agent_custom">Tilpasset</string>
+    <string name="dialog_download">Vil du downloade denne fil?</string>
+    <string name="title_warning">Advarsel</string>
+    <string name="title_custom_homepage">Tilpasset startside</string>
+    <string name="action_webpage">Webside</string>
+    <string name="hint_title">Titel</string>
+    <string name="hint_url">URL</string>
+    <string name="hint_folder">Mappe</string>
+    <string name="title_edit_bookmark">Rediger bogmærke</string>
+    <string name="action_edit">Rediger</string>
+    <string name="action_incognito">Inkognitotilstand</string>
+    <string name="action_find">Find på side</string>
+    <string name="download_pending">Starter download\u2026</string>
+    <string name="cannot_download">Den kan kun downloades fra \"http\" eller \"https\" URL\'er.</string>
+    <string name="bookmarks_imported">%1$d bogmærker importeret</string>
+    <string name="custom_url">Tilpasset webadresse</string>
+    <string name="baidu_url">Baidu</string>
+    <string name="shenma_url">ShenMa</string>
+    <string name="bing_url">Bing</string>
+    <string name="haosou_url">Haosou</string>
+    <string name="duckduckgo_url">DuckDuckGo</string>
+    <string name="startpage_url">Startside</string>
+    <string name="yahoo_url">Yahoo</string>
+    <string name="yandex_url">Yandex</string>
+    <string name="google_url">Google</string>
+    <string name="sougou_url">Sougou</string>
+    <string name="block_ads">Annonceblokering</string>
+    <string name="title_form_resubmission">genindsendelse af formular</string>
+    <string name="message_form_resubmission">Vil du sende dataene igen?</string>
+    <string name="message_location">\nVil gerne bruge din placering</string>
+    <string name="action_allow">Tillad</string>
+    <string name="action_dont_allow">Afvis</string>
+    <string name="title_sign_in">Log ind</string>
+    <string name="hint_username">Brugernavn</string>
+    <string name="hint_password">Adgangskode</string>
+    <string name="untitled">Unavngivet</string>
+    <string name="image_auto">Vis kun billeder via Wi-Fi</string>
+    <string name="image_off">Bloker billeder</string>
+    <string name="image_on">Vis billeder</string>
+    <string name="title_file_chooser">Filvælger</string>
+    <string name="import_bookmarks">Importér bogmærker</string>
+    <string name="export_bookmarks_to">Eksportér bogmærker til: %1$s</string>
+    <string name="import_bookmark_error">Kunne ikke importere bogmærker fra filen!</string>
+    <string name="message_add_bookmark">Bogmærke blev tilføjet</string>
+    <string name="message_exit">Tryk én gang mere for at afslutte</string>
+    <string name="dialog_message">Besked</string>
+    <string name="wait_a_moment">Vent et øjeblik...</string>
+    <string name="toast_operation_failed">Betjening mislykkedes</string>
+    <string name="toast_operation_done">Handling afsluttet</string>
+    <string name="volume">Brug lydstyrketasterne til at rulle</string>
+    <string name="msg_intent">Tillade, at webstedet åbner din app?</string>
+    <string name="setting_default">Indstil som standardbrowser</string>
+    <string name="toast_clear_defaults">Ryd standardindstillingerne</string>
+    <string name="toast_copy_url_successful">Linket blev kopieret</string>
+    <string name="toast_copy_text_successful">Teksten blev kopieret</string>
+    <string name="incognito_on">Du er blevet inkognito</string>
+    <string name="incognito_off">Inkognito er slået fra</string>
+    <string name="operation_none">Ingen</string>
+    <string name="operation_reload">Genindlæs</string>
+    <string name="operation_top">Rul til toppen</string>
+    <string name="operation_bottom">Rul til bunden</string>
+    <string name="operation_input">Indtast URL</string>
+    <string name="operation_openbookmark">Åbn bogmærke</string>
+    <string name="operation_openhistory">Åbn historik</string>
+    <string name="operation_closetab">Luk fanen</string>
+    <string name="operation_lasttab">Sidste fane</string>
+    <string name="operation_nexttab">Næste fane</string>
+    <string name="operation_goback">Gå tilbage</string>
+    <string name="operation_goforward">Gå frem</string>
+    <string name="settings_operation">Gestik</string>
+    <string name="settings_privacy">Beskyttelse af personlige oplysninger</string>
+    <string name="settings_advanced">Avanceret</string>
+    <string name="settings_about">Om</string>
+    <string name="url_box">Webadressefeltindhold</string>
+    <string name="url_box_domain">Domæne</string>
+    <string name="action_pcview">Desktopwebsted</string>
+    <string name="action_source">Se kilde</string>
+    <string name="action_translate">Oversæt</string>
+    <string name="title_edit_folder">Rediger mappe</string>
+    <string name="msg_delete_folder">Vil du slette denne mappe?</string>
+    <string name="desc_suggestion">Forslag</string>
+    <string name="desc_home">Hjem</string>
+    <string name="desc_menu">Menu</string>
+    <string name="action_mark">Markér som annonce</string>
+    <string name="dialog_confirm_mark">Vil du markere dette som annonce?</string>
+    <string name="do_not_track">Spor ikke</string>
+    <string name="color_mode">Farvetilstand</string>
+    <string name="dialog_sure">Er du sikker på, at du vil fortsætte?</string>
+    <string name="settings_cloud">Konto</string>
+    <string name="user">Log ind/tilmeld dig</string>
+    <string name="user_syns">Synkroniser</string>
+    <string name="user_update">Upload</string>
+    <string name="wrong_psw">Forkert adgangskode.</string>
+    <string name="sign_up_success">Tilmelding lykkedes</string>
+    <string name="code_500">Tjenesten er ikke tilgængelig.</string>
+    <string name="syns_success">Synkronisering fuldført</string>
+    <string name="upload_success">Upload fuldført</string>
+    <string name="log_out">Log ud?</string>
+    <string name="crash_info">Noget gik galt. :(</string>
+    <string name="crash_restart">Genstart</string>
+    <string name="crash_close">Luk</string>
+    <string name="upload_completed">Upload fuldført</string>
+    <string name="ui_mode">Toolbar UI-tilstand</string>
+    <string name="addon_download">Downloadadministrator</string>
+    <string name="quick_back">Gå tilbage uden at genindlæse</string>
+    <string name="open_with">Åbn med&#8230;</string>
+    <string name="download_completed">Download fuldført</string>
+    <string name="toast_fullscreen_off">Afslut fuldskærmstilstand</string>
+    <string name="clear_data">Ryd data</string>
+    <string name="data_cache">Cache</string>
+    <string name="data_form_data">Formulardata</string>
+    <string name="data_history">Historik</string>
+    <string name="data_storage">Weblager</string>
+    <string name="data_cookies">Cookies (loginstatus)</string>
+    <string name="data_cleared">Data ryddet</string>
+    <string name="settings_skin">Tilpasning</string>
+    <string name="default_set">Standard</string>
+    <string name="picture">Billede</string>
+    <string name="text">Tekst</string>
+    <string name="html_code">HTML-kode</string>
+    <string name="action_view_image">Se billede</string>
+    <string name="block_popup">Bloker popup</string>
+    <string name="action_save_web_page">Gem side</string>
+    <string name="action_saved_pages">Gemte sider</string>
+    <string name="saved_page_successfully">Websiden er blevet gemt til: Bogmærker > Gemte sider</string>
+    <string name="deleted_failed">Kunnede ikke slette. Filen er placeret i downloadstien: </string>
+    <string name="empty_hint">Tom</string>
+    <string name="network_log">Netværkslog</string>
+    <string name="conn_timeout">Forbindelsen fik timeout</string>
+    <string name="already_default">Det er allerede blevet indstillet som standard</string>
+    <string name="set_to_default">Det vil blive sat som standard efter åbning af linket %1$s. Vælg Via for at åbne linket.</string>
+    <string name="sync_prompt">Dine nuværende lokale bogmærker og indstillinger vil blive overskrevet. Vil du fortsætte?</string>
+    <string name="upload_prompt">Dine nuværende lokale bogmærker og indstillinger vil blive uploadet. Vil du fortsætte?</string>
+    <string name="none">Ingen</string>
+    <string name="check_permission">Tilladelse nægtet. Vil du indstille det i indstillingerne nu?</string>
+    <string name="restore_tabs_hint">Vil du gendanne ulukkede faner fra den sidste session?</string>
+    <string name="restore_tabs">Gendan faner ved opstart</string>
+    <string name="log_page_hint">Blokeret liste er i %1$s.\nDu kan redigere listen eller trykke længe på følgende element for at aktivere/deaktivere dens blokade.</string>
+    <string name="fullscreen_1">Rul for at skjule/vise</string>
+    <string name="fullscreen_2">Tryk for at skjule/vise</string>
+    <string name="settings_script">Scripts</string>
+    <string name="add_script">Nyt script</string>
+    <string name="script_code">Kode (JavaScript)</string>
+    <string name="help_us_translate">Hjælp os med at oversætte</string>
+    <string name="confirm_to_leave">Bekræft at forlade</string>
+    <string name="leave">Forlad</string>
+    <string name="stay">Bliv</string>
+    <string name="skin_logo">Logo</string>
+    <string name="skin_bg">Baggrund</string>
+    <string name="set_it_as_homepage">Vil du indstille den som startside?</string>
+    <string name="missing_webview">Android System WebView er ikke installeret korrekt. Vil du installere det nu?</string>
+    <string name="install">Installer</string>
+    <string name="crash_hint">Vi beklager, at appen gik ned.</string>
+    <string name="glean">Glean</string>
+    <string name="contact_us">Kontakt os</string>
+    <string name="official_website">Officiel hjemmeside</string>
+    <string name="action_pic_mode">Billedtilstand</string>
+    <string name="find_next">Find næste</string>
+    <string name="find_pre">Find sidste</string>
+    <string name="action_open_in_background">Åbn i baggrunden</string>
+    <string name="cannot_work">Det kan kun fungere med \"http\" eller \"https\" URL\'er.</string>
+    <string name="action_fullscreen">Fuld skærm</string>
+    <string name="settings_general">Generelt</string>
+    <string name="no_bookmark">Ingen bogmærker</string>
+    <string name="import_or_export_bookmarks">Importer/eksportér bogmærker</string>
+    <string name="export_bookmarks">Eksportér bogmærker</string>
+    <string name="back_forward_gesture">Tilbage/Fremad gestus</string>
+    <string name="toolbar_settings_hint">Tryk på en valgt knap nedenfor for at indstille dens langtrykshandling, eller tryk længe på den for at kontrollere, hvilken handling der er indstillet. Du kan også skubbe værktøjslinjen for at indstille diashandlingen.</string>
+    <string name="action_modify">Rediger</string>
+    <string name="operation_hint">Bevægelser, genveje, funktionstaster</string>
+    <string name="adblock_info">Aktiveret: %1$d annoncer blokeret, %2$s gemt</string>
+    <string name="disable">Deaktiveret</string>
+    <string name="ui_traditional">Sandwich</string>
+    <string name="color_mode_hint">Juster automatisk farve på værktøjslinjer</string>
+    <string name="file_size">Filstørrelse: %1$s</string>
+    <string name="search_by_image">Søg efter billede</string>
+    <string name="resource_sniffer">Ressourcesniffer</string>
+    <string name="res_log_hint">Følgende er ressourceloggen ved sideindlæsning.</string>
+    <string name="no_resource">Siden har ingen ressource.</string>
+    <string name="no_network_log">Siden har ingen netværkslog.</string>
+    <string name="resource_sniffer_hint">\nDet er nemmere at finde mediefiler, mens musik eller video afspilles. Ressource sniffer virker ikke på visse websteder.</string>
+    <string name="action_downloads">Downloads</string>
+    <string name="empty_username_info">Indtast venligst dit brugernavn</string>
+    <string name="empty_password_info">Indtast venligst din adgangskode</string>
+    <string name="offline_page_hint">Dette er gemte websider. Du kan åbne dem, selv når du er offline.</string>
+    <string name="history_page_hint_when_incognito">Historien vil ikke blive optaget, når du er i \"inkognitotilstand\".</string>
+    <string name="action_preview">Forhåndsvisning</string>
+    <string name="action_page_info">Sideoplysninger</string>
+    <string name="page_info_title">Titel:</string>
+    <string name="page_info_url">Side-URL:</string>
+    <string name="page_info_link">Link-URL:</string>
+    <string name="no_network">Netværksforbindelser er ikke tilgængelige</string>
+    <string name="title_app_chooser">Appvælger</string>
+    <string name="clear_data_on_exit">Ryd data ved afslutning</string>
+    <string name="action_add_to_homepage">Føj til startside</string>
+    <string name="added_favorite_hint">Føjet til startsiden med succes</string>
+    <string name="title_edit_favorite">Rediger favorit</string>
+    <string name="custom_css_special">Tilpasset CSS</string>
+    <string name="force_enable_zoom">Aktiver tvungen zoom</string>
+    <string name="set_ua_as">Brugeragent er indstillet som: %1$s</string>
+    <string name="import_data">Importér data</string>
+    <string name="import_data_failed">Kunne ikke importere data!</string>
+    <string name="import_data_succeed">Data importeret med succes!</string>
+    <string name="export_data">Eksportér data</string>
+    <string name="export_data_to">Eksportér data til: %1$s</string>
+    <string name="always_restore">Gendan altid</string>
+    <string name="ask_first">Spørg først</string>
+    <string name="disable_restore">Gendan ikke</string>
+    <string name="data_file">Dataeksport</string>
+    <string name="bookmarks_data_to_long">Bogmærkedata er for store til at uploades, men andre data vil blive uploadet normalt. Vil du fortsætte?</string>
+    <string name="restore_tabs_hint_settings">Faner vil ikke blive gendannet, når du er i \"inkognitotilstand\".</string>
+    <string name="web_page_debug">Aktiver websidefejlretning</string>
+    <string name="web_page_debug_info">Nu kan du tilslutte din telefon til computeren og derefter fejlsøge websiden med Chrome (pc) ved hjælp af \"chrome://inspect\". Husk først at aktivere USB-fejlfinding i menuen: Flere værktøjer > Udviklerværktøjer.</string>
+    <string name="action_re_download">Download igen</string>
+    <string name="action_copy_download_link">Kopiér downloadlink</string>
+    <string name="download_failed">Download mislykkedes</string>
+    <string name="view_downloads">Vis</string>
+    <string name="message_delete_downloading_task">Den downloadede fil vil også blive slettet. Er du sikker?</string>
+    <string name="message_delete_downloaded_task">Vil du slette denne downloadede opgave?</string>
+    <string name="message_delete_downloaded_file">Inklusive den downloadede fil</string>
+    <string name="block_popup_message">Blokeret pop op-vindue</string>
+    <string name="allow_popup">Tillad én gang</string>
+    <string name="system_download_manager">Systemdownloadhåndtering</string>
+    <string name="action_play_with">Spil med&#8230;</string>
+    <string name="show_sniffer_btn_automatically">Vis sniffer-knap automatisk</string>
+    <string name="open_file_failed">Kan ikke finde tilknyttet app til at åbne filen</string>
+	<string name="cloud_data_server">Cloud-dataserver</string>
+    <string name="chinese_server">kinesisk</string>
+    <string name="global_server">Global</string>
+    <string name="server_message">Dataene på disse servere er ikke synkroniseret. Du bliver bedt om at logge ind igen.</string>
+    <string name="delete_bookmark_folder_message">Bogmærker i mappen %1$s vil også blive slettet. Er du sikker?</string>
+    <string name="action_new">Ny</string>
+    <string name="block_hint">Blokeret: %1$s\nOpdater for at træde i kraft.</string>
+    <string name="unblock_hint">Ophævet: %1$s\nOpdater for at træde i kraft.</string>
+    <string name="block_3rd_party_cookies">Bloker tredjepartscookies</string>
+    <string name="enable_site_conf">Aktiver webstedskonfiguration for %1$s</string>
+    <string name="site_conf">Webstedskonfiguration</string>
+    <string name="ui_simple_top">Værktøjslinje øverst</string>
+    <string name="ui_simple_bottom">Værktøjslinje nederst</string>
+    <string name="file_does_not_exist">Filen findes ikke</string>
+    <string name="dialog_message_from">Besked fra %1$s</string>
+    <string name="filter_subscriptions">Filtrer abonnementer</string>
+    <string name="filter_subscriptions_description">Abonner på Adblock Plus-filterlister</string>
+    <string name="filter_subscription_exist">Filterabonnementet eksisterer allerede.</string>
+    <string name="custom_filters">Tilpassede filtre</string>
+    <string name="custom_filters_description">Inklusive tilpassede filtre og markerede annoncer</string>
+    <string name="custom_filter">Tilpasset filter</string>
+    <string name="add_filter_subscription">Tilføj filterabonnement</string>
+    <string name="edit_filter_subscription">Rediger filterabonnement</string>
+    <string name="update_filter_subscriptions_completed">Opdatering af filterabonnementer er fuldført.</string>
+    <string name="has_not_been_updated">er ikke blevet opdateret</string>
+    <string name="just_now">lige nu</string>
+    <string name="url_is_invalid">Webadressen er ugyldig.</string>
+    <string name="simple_guide_of_writing_rule">Via understøtter næsten alle Adblock Plus-filtre.
+         \nDu kan blokere anmodninger fra example.com med et filter som:
+         \n||eksempel.dk^ (eller blot: eksempel.dk)
+         \n\nJokertegn er acceptabelt, såsom:
+         \n||example.com/js/ads_*.js
+         \n\nFor websideelementer skal du bruge et filter som:
+         \nexample.com###annonce
+         \n\nDu kan fjerne blokeringen af ​​særlige anmodninger med et filter som:
+         \n@@||eksempel.com^</string>
+    <string name="help">Hjælp</string>
+    <string name="learn_more">Få flere oplysninger</string>
+    <plurals name="filters">
+         <item quantity="zero">0 filter</item>
+         <item quantity="one">1 filter</item>
+         <item quantity="other">%d filtre</item>
+     </plurals>
+    <string name="updated_">opdateret %1$s</string>
+    <string name="filter_subscription_info">%1$s, %2$s</string>
+    <string name="enable_built_in_filters">Aktiver indbyggede filtre</string>
+    <string name="enable_built_in_filters_description">Indbyggede filtre blokerer kun almindelige annoncer</string>
+    <string name="update">Opdater</string>
+    <string name="bookmarks_exported_successfully">Bogmærker eksporteret med succes</string>
+    <string name="data_exported_successfully">Data eksporteret med succes</string>
+    <string name="privacy_policy">Privatlivspolitik</string>
+    <string name="terms_of_use">Betingelser for brug</string>
+    <string name="welcome">Velkommen</string>
+    <string name="agreement_message_short">Du skal acceptere og acceptere alle vilkårene, før du begynder at bruge vores tjeneste.</string>
+    <string name="agree_and_continue">Enig</string>
+    <string name="disagree">Uenig</string>
+    <string name="exit">Afslut</string>
+    <string name="delete_account">Slet konto</string>
+    <string name="delete_account_request_submitted">Anmodningen om kontosletning er blevet indsendt.</string>
+    <string name="delete_account_hint">Slet kontoen fra serveren</string>
+    <string name="delete_account_message">Efter indsendelse af anmodningen om sletning, vil kontoen blive logget ud og gå ind i en 15-dages sletningsventeperiode. Hvis du logger ind på kontoen igen og uploader data i venteperioden, vil din anmodning om sletning blive trukket tilbage. Når venteperioden er udløbet, slettes kontoen og relaterede data fuldstændigt fra serveren.\nIndtast venligst din adgangskode for at sende anmodningen.</string>
+    <string name="confirm_to_delete">Bekræft at slette</string>
+    <string name="select_all">Vælg alle</string>
+    <string name="open_source_licenses">Open source-licenser</string>
+    <string name="debugging_info">Fejlretningsoplysninger</string>
+    <string name="join_qq_group">Deltag i QQ-gruppen</string>
+    <string name="join_telegram_group">Deltag i Telegram-gruppen</string>
+    <string name="follow_me_on_twitter">Følg mig på Twitter</string>
+    <string name="follow_me_on_weibo">Følg mig på Weibo</string>
+    <string name="paste_and_go">Indsæt &amp; Gå</string>
+    <string name="night_filter_for_web_contents">Natfilter for webindhold</string>
+    <string name="force_dark_mode_for_web_contents">Tving mørk handling for webindhold</string>
+    <string name="force_dark_mode_for_web_contents_description">Når den er aktiveret, vil websider blive tvunget til at blive mørkere, hvilket kan få nogle sider til at opføre sig unormalt.</string>
+    <string name="require_javascript_enabled">Dette træder i kraft, hvis JavaScript er aktiveret.</string>
+    <string name="keyboard_shortcuts">Tastaturgenveje</string>
+    <string name="export_data_description">Eksportér bogmærker, indstillinger, scripts og annoncefiltre</string>
+    <string name="language">Sprog</string>
+    <string name="restart_to_take_effect">Dette træder i kraft, næste gang du åbner appen. Vil du genstarte den nu for at træde i kraft med det samme?</string>
+    <string name="more">Mere</string>
+    <string name="sort_order">Sorteringsrækkefølge</string>
+    <string name="sort_by_oldest_first">Ældste først</string>
+    <string name="sort_by_newest_first">Nyeste først</string>
+    <string name="sort_by_alphabetical_order">Alfabetisk rækkefølge</string>
+    <string name="select_folder">Vælg mappe</string>
+    <string name="move">Flyt</string>
+    <string name="done">Udført</string>
+    <string name="root_folder">Rodmappe</string>
+    <string name="delete_item_message">Er du sikker på, at du vil slette %1$s?</string>
+    <string name="item_has_been_deleted">\"%1$s\" er blevet slettet</string>
+    <string name="undo">Fortryd</string>
+    <string name="can_not_sort_list_when_sorting_alphabetically">Kan ikke sortere listen ved alfabetisk sortering</string>
+    <string name="opened_in_background_message">Ny fane åbnet i baggrunden</string>
+    <string name="bookmark_added">Bogmærke tilføjet</string>
+    <string name="allow_website_to_open_app_message">Tillader webstedet at åbne %1$s?</string>
+    <string name="width">Bredde</string>
+    <string name="height">Højde</string>
+    <string name="corner_radius">Hjørneradius</string>
+    <string name="adaptive">Adaptive</string>
+    <string name="action_favorites">Favoritter</string>
+    <string name="skin_search_bar">Søgelinje</string>
+    <string name="stroke_width">Kantbredde</string>
+    <string name="stroke_opacity">Grænsegennemsigtighed</string>
+    <string name="opacity">Opacitet</string>
+    <string name="font_style">Skrifttype</string>
+    <string name="bold">Fed</string>
+    <string name="italics">Kursiv</string>
+    <string name="clear_website_icon_cache">Ryd webstedsikonets cache</string>
+    <string name="clear_website_icon_cache_message">Bemærk, at dette vil rydde alle foretrukne ikoner på startsiden. Hvert ikon vil blive downloadet, næste gang du besøger det tilsvarende websted.</string>
+    <string name="desc_favorite_icon">Ikon for en favorit</string>
+    <string name="action_save">Gem</string>
+    <string name="reset_to_default_settings">Nulstil til standardindstillinger</string>
+    <string name="save_data">Gem data</string>
+    <string name="save_data_description">Aktiver databesparelsestilstand på kompatible websteder</string>
+    <string name="action_manage_favorites">Favoritadministrator</string>
+    <string name="check_for_updates">Søg efter opdateringer</string>
+    <string name="checking_for_updates">Søger efter opdateringer</string>
+    <string name="latest_version_already_installed">Seneste version allerede installeret</string>
+    <string name="new_version_available">Ny version tilgængelig</string>
+    <string name="action_download_file">Download</string>
+    <string name="delete_hint">Slet (%1$d)</string>
+    <string name="follow_system_dark_mode_on">Følg systemets mørke tilstand er aktiveret</string>
+    <string name="scoped_search">Søg %1$s</string>
+    <string name="add_shortcut">Tilføj genvej</string>
+    <string name="need_shortcut_permission">Tilladelse nægtet. Gå til indstillinger og slå \"Opret genveje til startskærmen\" til for denne app.</string>
+    <string name="create_shortcut_successfully">Opret genvej til %1$s med succes</string>
+    <string name="update_shortcut_successfully">Opdater genvej for %1$s med succes</string>
+    <string name="today">I dag</string>
+    <string name="yesterday">I går</string>
+    <!-- Datoformatmønsteret er svært at huske, se venligst: https://docs.oracle.com/javase/7/docs/api/java/text/SimpleDateFormat.html -->
+    <string name="same_year_date_format">EEE, MMM dd</string>
+    <string name="default_date_format">EEE, MMM dd, yyyy</string>
+    <string name="view_certificate">Se certifikat</string>
+    <string name="certificate_info">Certifikatoplysninger</string>
+    <!-- B-mærket betyder fed, og br-mærket betyder linjeskift. -->
+    <string name="certificate_detail">><![CDATA[
+         <b>UDSTEDET TIL</b><br />
+         <b>Fælles navn (CN)</b><br />
+         %1$s
+         <br /><b>Organisation (O)</b><br />
+         %2$s
+         <br /><b>Organisationsenhed (OU)</b><br />
+         %3$s
+         <br /><br /><b>UDSTEDET AF</b><br />
+         <b>Fælles navn (CN)</b><br />
+         %4$s
+         <br /><b>Organisation (O)</b><br />
+         %5$s
+         <br /><br /><b>VALIDITETSPERIODE</b><br />
+         <b>Udstedt den</b><br />
+         %6$s
+         <br /><b>Udløber den</b><br />
+         %7$s
+         <br />
+     ]]></string>
+    <string name="no_certificate">Webstedet har ikke et certifikat.</string>
+    <string name="site_conf_enabled">Webstedskonfiguration (aktiveret)</string>
+    <string name="do_not_sell_or_share">Sælg eller del ikke data</string>
+    <string name="do_not_sell_or_share_description">Anmod webstedet om ikke at sælge eller dele mine data for at beskytte privatlivets fred (eksperimentelt)</string>
+    <string name="email_me">Send mig en e-mail</string>
+    <string name="scan_qr_code">Scan QR-kode</string>
+    <string name="scan_qr_code_from_image">Scan QR-kode fra billede</string>
+    <string name="switch_flash">Skift flash</string>
+    <string name="qr_code_scan_result">Resultat af QR-kodescanning</string>
+    <string name="qr_code_not_detected">QR-kode blev ikke fundet</string>
+    <string name="save_qr_code_successfully">QR-koden er blevet gemt i galleriet</string>
+    <string name="description_with_number">%1$s (%2$d)</string>
+    <string name="last_hour">Den sidste time</string>
+    <string name="today_and_yesterday">I dag og i går</string>
+    <string name="last_seven_days">Sidste 7 dage</string>
+    <string name="all_time">Hele tiden</string>
+    <string name="delete_history_from">Slet historik fra</string>
+    <string name="save_as_pdf">Gem som PDF</string>
+    <string name="export">Eksporter</string>
+    <string name="export_successfully">Eksporteret med succes</string>
+    <string name="stop_loading_description">Via har forhindret følgende side i at indlæse:</string>
+    <string name="stop_loading_reason">På grund af følgende filter:</string>
+    <string name="continue_loading">Fortsæt med at indlæse</string>
+    <string name="allow_webpage_access_to_clipboard">Tillad websideadgang til udklipsholder</string>
+    <string name="ask_to_allow_webpage_to_copy_text">Er du sikker på, at du vil kopiere tekst fra %DOMAIN%?</string>
+    <string name="option_allow">Tillad</string>
+    <string name="option_deny">Afvis</string>
+    <string name="search_bar_style">Søjlestil</string>
+    <string name="search_bar_style_line">Linje</string>
+    <string name="search_bar_style_rectangle">Rektangel</string>
+    <string name="favorites_icon_style">Ikonstil</string>
+    <string name="favorites_icon_style_text">Tekst</string>
+    <string name="favorites_icon_style_icon_first">Ikonet først</string>
+    <string name="favorites_icon_color">Ikonfarve</string>
+    <string name="favorites_icon_color_colorful">Farverig</string>
+    <string name="favorites_icon_color_transparent">Transparent</string>
+    <string name="search_bar_effect">Søjleeffekt</string>
+    <string name="search_bar_effect_blur">Slør</string>
+    <string name="search_bar_effect_transparent">Transparent</string>
+    <string name="search_part">Søgedel</string>
+    <string name="search_part_hide">Skjul</string>
+    <string name="search_part_show">Vis</string>
+    <string name="background_color">Farve</string>
+    <string name="background_image">Billede</string>
+    <string name="favorites_clear_icons">Ryd ikoner</string>
+    <string name="customization_reset">Nulstil</string>
+    <string name="theme_color">Temafarve</string>
+    <string name="theme_color_dark">Mørk</string>
+    <string name="theme_color_light">Lys</string>
+    <string name="processing_blob_data">Behandler blob-data...</string>
+    <string name="tineye_url">TinEye</string>
+    <string name="login_username">Brugernavn (kontoen oprettes, hvis den ikke eksisterer)</string>
+    <string name="read_and_agree">Læs og accepter %1$s og %2$s</string>
+    <string name="wechat_official_account">officiel Wechat-konto</string>
+    <string name="notification_channel_downloads">Download indhold</string>
+    <string name="notification_channel_foreground">Forgrundsmeddelelse</string>
+    <string name="download_progress">%1$s/%2$s</string>
+    <string name="download_progress_indeterminate">%1$s</string>
+    <string name="download_progress_status">%1$s • %2$s</string>
+    <string name="download_status_paused">Sat på pause</string>
+    <string name="download_action_pause">Pause</string>
+    <string name="download_action_resume">Genoptag</string>
+    <string name="app_downloading_files">Via downloader filer</string>
+    <string name="app_downloading_files_subtitle">Tryk for at se downloads</string>
+    <string name="built_in_download_manager">Indbygget downloadmanager</string>
+    <string name="cancel_all">Annuller alle</string>
+    <string name="message_delete_selected_download_tasks">Vil du slette disse downloadopgaver (%1$d i alt)?</string>
+    <string name="file_name">Filnavn</string>
+    <string name="rename">Omdøb</string>
+    <string name="message_re_download">Er du sikker på, at du vil slette den downloadede fil og gendownloade %1$s?</string>
+    <string name="share_image">Del billede</string>
+    <string name="ssl_warning_insecure_connection_message">Forbindelsen til %1$s er ikke sikker:\n%2$s\nVil du fortsætte alligevel?</string>
+    <string name="ssl_warning_dont_ask_again">Spørg ikke igen om denne browsersession</string>
+    <string name="ssl_warning_certificate_untrusted">Certifikatet er ikke tillid til</string>
+    <string name="ssl_warning_certificate_date_invalid">Datoen for certifikatet er ugyldig</string>
+    <string name="ssl_warning_certificate_expired">Certifikatet er udløbet</string>
+    <string name="ssl_warning_certificate_domain_mismatch">Domæne i certifikat matcher ikke webstedets domæne</string>
+    <string name="ssl_warning_certificate_invalid">Certifikatet er ugyldigt</string>
+    <string name="ssl_warning_certificate_not_yet_valid">Certifikatet er endnu ikke gyldigt</string>
+    <string name="the_site">Webstedet</string>
+    <string name="navigation_up">Navigation op</string>
+    <string name="hide_popup_window">Skjul pop op-vindue</string>
+    <plurals name="open_tabs">
+        <item quantity="zero">0 fane</item>
+        <item quantity="one">1 fane</item>
+        <item quantity="other">%d faner</item>
+    </plurals>
+    <string name="qr_code">QR-kode</string>
+    <string name="download_progress_speed">%1$s • %2$s</string>
+    <string name="download_progress_speed_eta">%1$s • %2$s • %3$s</string>
+    <string name="download_speed_unknown">Ikke relevant</string>
+    <string name="download_eta_unknown">-</string>
+    <plurals name="hours_left">
+        <item quantity="zero">0 timer tilbage</item>
+        <item quantity="one">1 time tilbage</item>
+        <item quantity="other">%d timer tilbage</item>
+    </plurals>
+    <plurals name="mins_left">
+        <item quantity="zero">0 min tilbage</item>
+        <item quantity="one">1 min tilbage</item>
+        <item quantity="other">%d minutter tilbage</item>
+    </plurals>
+    <plurals name="secs_left">
+        <item quantity="zero">0 sek tilbage</item>
+        <item quantity="one">1 sek tilbage</item>
+        <item quantity="other">%d sekunder tilbage</item>
+    </plurals>
+    <string name="translation_engine_google">Google oversæt</string>
+    <string name="translation_engine_baidu">Baidu oversæt</string>
+    <string name="ignore_site_message_for_a_minute">Ignorer denne webstedsmeddelelse i et minut</string>
+    <string name="download_status_waiting_for_network">Venter på netværk</string>
+    <string name="download_failed_with_message">Download mislykkedes: %1$s</string>
+    <string name="remove_identifying_headers">Fjern identificerende overskrifter</string>
+    <string name="remove_identifying_headers_description">Når den er aktiveret, vil overskrifterne X-Requested-With og X-Wap-Profile være tomme, hvilket kan få nogle sider til at opføre sig unormalt</string>
+    <string name="agent_windows_chrome">Windows (Chrome)</string>
+    <string name="agent_windows_ie11">Windows (IE 11)</string>
+    <string name="agent_android_phone">Android (telefon)</string>
+    <string name="agent_android_tablet">Android (tablet)</string>
+    <string name="agent_ipad">iPad</string>
+    <string name="agent_osx">macOS</string>
+    <string name="toutiao_url">Toutiao</string>
+    <string name="title_can_not_be_empty">Titlen må ikke være tom</string>
+    <string name="user_agent_can_not_be_empty">Brugeragenten må ikke være tom</string>
+    <string name="download_filter_all">Alle</string>
+    <string name="download_filter_others">Andre</string>
+    <string name="download_filter_documents">Dokumenter</string>
+    <string name="download_filter_images">Billeder</string>
+    <string name="download_filter_video">Video</string>
+    <string name="download_filter_apk">APK</string>
+    <string name="download_filter_audio">Lyd</string>
+    <string name="download_filter_archives">Arkiver</string>
+    <string name="simple_guide_of_writing_userscript"><![CDATA[
+        <b>Metadatablok</b><br />
+        Metadataene skal følge formatet:<br />
+        <tt>
+        // ==UserScript==<br />
+        // @key value<br />
+        // ==/UserScript==
+        </tt>
+        <br /><br />
+        <b><tt>@name</tt></b>: Navnet på brugerscriptet.
+        <br /><br />
+        <b><tt>@namespace</tt></b>: Kombinationen af <tt>@namespace</tt> og <tt>@name</tt> er den unikke identifikator for et brugerscript.
+        <br /><br />
+        <b><tt>@match/@exclude-match</tt></b>: Definer regler for at bestemme, om et script skal udføres. Det anbefales at bruge <tt>@match</tt> i stedet for <tt>@include</tt>.
+        <br /><br />
+        <b><tt>@include/@exclude</tt></b>: Den gamle måde at beslutte om et script skal udføres på.
+        <br /><br />
+        <b><tt>@version</tt></b>: Versionen af brugerscriptet.
+        <br /><br />
+        <b><tt>@description</tt></b>: Beskrivelsen af brugerscriptet.
+        <br /><br />
+        <b><tt>@author</tt></b>: Forfatteren af brugerscriptet.
+        <br /><br />
+        <b><tt>@require</tt></b>: Kravet til brugerscriptet. For eksempel <br /><tt>// @require https://my.cdn.com/jquery.js</tt>.
+        <br /><br />
+        <b><tt>@run-at</tt></b>: Beslut hvornår scriptet skal køres. <tt>document-start</tt> bruges til at indsætte scripts før siden indlæses, <tt>document-end</tt> bruges til at indsætte scripts efter sideindlæsning.
+        <br /><br />
+        <b><tt>@grant</tt></b>: Angiv, hvilke specielle GM_* API\'er der skal tildeles og kan bruges, når scriptet køres.<br />
+        <br /><br />
+        <b><tt>@downloadURL</tt></b>: Den URL, scriptet kan downloades fra.
+        <br /><br />
+        <b><tt>@supportURL</tt></b>: Support-URL\'en for brugerscriptet.
+        <br /><br />
+        <b><tt>@homepageURL</tt></b>: Hjemmesidewebadressen for brugerscriptet.
+        <br /><br />
+        <b>GM_* API\'er</b><br />
+        <tt>GM_*</tt> er en gruppe af specielle API\'er leveret af Via. Aktuelt understøttede specielle API\'er inkluderer: <br/>
+        <tt>GM_getValue/GM_setValue/GM_deleteValue/GM_listValues/GM_getResourceText/GM_getResourceURL/GM_addElement/GM_addStyle/GM_setClipboard/GM_xmlhttpRequest/GM_download/GM_registerMenuCommand/GM_untt>
+        <br /><br />
+        <b>Matchende</b><br />
+        <tt>@match</tt> definerer en URL-matchningsregel. <tt>@exclude-match</tt> definerer en matchregel, men bruges til at ekskludere de matchede URL\'er, svarende til <tt>@exclude</tt>.
+        <br /><br />
+        For eksempel:<br />
+        <tt>
+        // @match https://www.google.com/noget <br />
+        // @match https://www.google.com/any/* <br />
+        // @exclude-match https://www.google.com/any/not_me
+        </tt>
+        <br /><br />
+    ]]></string>
+    <string name="toast_install_script_successfully">Installer \"%1$s\" korrekt!</string>
+    <string name="toast_install_script_failed_unknown">Installationen \"%1$s\" mislykkedes!</string>
+    <string name="toast_install_script_failed_dependency_error">Download \"%1$s\" afhængighed mislykkedes!</string>
+    <string name="title_install_script">Installer script</string>
+    <string name="message_install_script">Er du sikker på, at du vil installere \"%1$s\"(%2$s)?</string>
+    <string name="title_reinstall_script">Geninstaller script</string>
+    <string name="message_reinstall_script">Er du sikker på, at du vil geninstallere \"%1$s\"(%2$s)?</string>
+    <string name="title_update_script">Opdater script</string>
+    <string name="message_update_script">Er du sikker på, at du vil opdatere \"%1$s\"(%2$s -> %3$s)?</string>
+    <string name="toast_parsing_script">Analyser script...</string>
+    <string name="title_add_metadata_block">Tilføj metadatablok</string>
+    <string name="message_add_metadata_block">Dette script har ingen metadatablok, så det kan ikke gemmes. Vil du tilføje en standard metadatablok til den?</string>
+    <string name="title_disable_safe_browsing">Deaktiver sikker browsing</string>
+    <string name="title_close_all_tabs">Luk alle faner</string>
+    <string name="message_close_all_tabs_before_disabling_incognito_mode">Vil du lukke alle faner, før du deaktiverer inkognitotilstand?</string>
+    <string name="action_close">Luk</string>
+    <string name="action_keep">Behold</string>
+    <string name="desc_bookmark_folder">%1$s mappe</string>
+    <string name="message_splash_agreement">Ved at bruge Via accepterer du vores %1$s og %2$s.</string>
+    <string name="translation_engine_google_in_page">Google in-page oversættelse</string>
+    <string name="title_feedback">Feedback</string>
+    <string name="action_view_cookies">Se cookies</string>
+    <string name="title_cookies_for_site">Cookies til %1$s</string>
+    <string name="message_no_cookies">Ingen cookies.</string>
+    <string name="toast_cookies_for_site_cleared">Cookies for %1$s er blevet indstillet til tomme</string>
+    <string name="toast_site_does_not_support_resource_sniffing">Dette websted understøtter ikke ressourcesniffing</string>
+    <string name="desc_expand_text">Udvid tekst</string>
+    <string name="desc_collapse_text">Skjul tekst</string>
+    <string name="desc_clear_text">Ryd tekst</string>
+    <string name="title_search_suggestions">Søgeforslag</string>
+    <string name="message_search_suggestions">Når du bruger adresselinjen, skal du foreslå</string>
+    <string name="title_open_tabs">Åbne faner</string>
+    <string name="desc_fill_in_text">Udfyld tekst</string>
+    <string name="directory_name">Mappenavn</string>
+    <string name="action_default_location">Standardplacering</string>
+    <string name="action_choose_folder">Vælg en mappe...</string>
+    <string name="title_permission_denied">Tilladelse nægtet</string>
+    <string name="message_reselect_download_location">Lagringstilladelsen for downloadplaceringen er blevet tilbagekaldt. Genvælg download-mappens placering.</string>
+    <string name="detect_language">Find sprog</string>
+    <string name="title_source_language">Kildesprog</string>
+    <string name="title_target_language">Målsprog</string>
+    <string name="desc_swap_language">Skift sprog</string>
+    <string name="desc_paste_text">Indsæt tekst</string>
+    <string name="translation_engine_google_text">Google Text Translate</string>
+    <string name="saucenao_url">SauceNAO</string>
+    <string name="iqdb_url">IQDB</string>
+    <string name="iqdb_3d_url">3D IQDB</string>
+    <string name="whatanime_url">WhatAnime</string>
+    <string name="ascii2d_url">Ascii2D</string>
+    <string name="title_scripts_for_site">Scripts til %1$s</string>
+    <string name="disabled">Deaktiveret</string>
+    <string name="enabled">Aktiveret</string>
+    <string name="action_view_in_settings">Se i indstillinger</string>
+    <string name="message_delete_following_items">Er du sikker på, at du vil slette følgende elementer?</string>
+    <string name="list_item">• %1$s</string>
+    <string name="action_reset">Nulstil</string>
+    <string name="title_reset_site_conf">Nulstil webstedskonfiguration</string>
+    <string name="message_reset_site_conf">Er du sikker på, at du vil nulstille webstedskonfigurationen for %1$s?</string>
+    <string name="title_ignore_ssl_warnings">Ignorer advarsler om SSL-certifikat</string>
+    <string name="title_ignore_ssl_warnings_description">Vær forsigtig, ignorering af ssl-certifikatadvarsler kan gøre forbindelsen til webstedet usikker</string>
+    <string name="message_ignore_ssl_warnings">SSL-certifikater bruges til at bekræfte webstedets identiteter og kryptere forbindelsen. Det er ligesom at lægge et brev i en konvolut og poste det, kun du og hjemmesiden kan åbne konvolutten og læse brevet.\n\nNår du ignorerer SSL-advarslerne, kan forbindelsen til hjemmesiden være usikker, hvilket betyder at de data, der overføres med hjemmesiden, kan blive stjålet. Det er som at lægge brevet i en ødelagt konvolut og poste det, en person, der forfalskede certifikatet, kunne åbne det.</string>
+    <string name="title_ignore_ssl_warnings_confirmation">Jeg ved, at dette kan gøre forbindelsen usikker</string>
+    <string name="title_disable_safe_browsing_description">Sikker browsing giver WebView mulighed for at beskytte mod malware og phishing-angreb ved at bekræfte linkene</string>
+    <string name="action_close_all_tabs">Luk alle faner</string>
+    <string name="action_close_other_tabs">Luk andre faner</string>
+    <string name="action_close_tabs_to_the_bottom">Luk faner til bunden</string>
+    <string name="action_close_tabs_to_the_top">Luk faner til toppen</string>
+    <string name="title_permission_request">Anmodning om tilladelse</string>
+    <string name="message_permission_request">%1$s vil gerne bruge:</string>
+    <string name="list_item_dash">- %1$s</string>
+    <string name="permission_microphone">Mikrofon</string>
+    <string name="permission_camera">Kamera</string>
+    <string name="add_site_exception">Tilføj webstedundtagelse</string>
+    <string name="blocked">Blokeret</string>
+    <string name="allowed">Tilladt</string>
+    <string name="exception">Undtagelse</string>
+    <string name="block">Bloker</string>
+    <string name="allow">Tillad</string>
+    <string name="all_sites">Alle websteder</string>
+    <string name="category_content">Indhold</string>
+    <string name="category_basics">Grundlæggende</string>
+    <string name="category_permissions">Tilladelser</string>
+    <string name="agent_add_site_exception">Indstil brugeragent for et specifikt websted.</string>
+    <string name="images">Billeder</string>
+    <string name="images_allowed_description">Tillad websteder at indlæse billeder</string>
+    <string name="images_allowed_via_wifi_description">Tillad, at websteder kun indlæser billeder via Wi-Fi</string>
+    <string name="images_allowed_via_wifi_description_short">Kun tilladt via Wi-Fi</string>
+    <string name="images_add_site_exception_allow">Vis billeder for et specifikt websted.</string>
+    <string name="images_add_site_exception_block">Bloker billeder for et bestemt websted.</string>
+    <string name="javascript">JavaScript</string>
+    <string name="javascript_allowed_description">Tillad websteder at køre JavaScript</string>
+    <string name="javascript_add_site_exception_allow">Tillad JavaScript for et bestemt websted.</string>
+    <string name="javascript_add_site_exception_block">Bloker JavaScript for et specifikt websted.</string>
+    <string name="cookies">Cookies</string>
+    <string name="cookies_allowed_description">Tillad websteder at gemme og læse cookiedata</string>
+    <string name="cookies_allowed_except_third_party_description_short">Tilladt, undtagen tredjepart</string>
+    <string name="popups">Pop-ups</string>
+    <string name="popups_ask_first_description">Spørg først, før du tillader websteder at vise pop op-vinduer</string>
+    <string name="clipboard">Udklipsholder</string>
+    <string name="clipboard_ask_first_description">Spørg først, før du tillader websteder at bruge dit udklipsholder</string>
+    <string name="clipboard_allowed_description">Tillad websteder at bruge dit udklipsholder</string>
+    <string name="clipboard_blocked_description">Bloker websteder for at bruge dit udklipsholder</string>
+    <string name="clipboard_add_site_exception_allow">Tillad et bestemt websted at bruge dit udklipsholder.</string>
+    <string name="clipboard_add_site_exception_block">Bloker et bestemt websted for at bruge dit udklipsholder.</string>
+    <string name="location1">Placering</string>
+    <string name="location_ask_first_description">Spørg først, før du tillader websteder at kende din placering</string>
+    <string name="camera">Kamera</string>
+    <string name="camera_ask_first_description">Spørg først, før du tillader websteder at bruge dit kamera</string>
+    <string name="microphone">Mikrofon</string>
+    <string name="microphone_ask_first_description">Spørg først, før du tillader websteder at bruge din mikrofon</string>
+    <string name="on">Til</string>
+    <string name="off">Fra</string>
+    <string name="default_description">%1$s (standard)</string>
+    <string name="grant">Bevilling</string>
+    <string name="skins">Skins</string>
+    <string name="load_skin">Indlæs skin</string>
+    <string name="load_skin_failed">Indlæsning af skin mislykkedes</string>
+    <string name="skin_changed">Skin ændret</string>
+    <string name="import_script_from_url">Importer script fra URL</string>
+    <string name="import_script_from_file">Importer script fra fil</string>
+    <string name="script_invalid">Script ugyldigt</string>
+    <string name="open_app">Åbn app</string>
+    <string name="open_app_ask_first_description">Spørg først, før du tillader websteder at åbne din app</string>
+    <string name="open_app_allowed_description">Tillad websteder at åbne din app</string>
+    <string name="open_app_blocked_description">Bloker websteder for at åbne din app</string>
+    <string name="open_app_add_site_exception_allow">Tillad et specifikt websted at åbne din app.</string>
+    <string name="open_app_add_site_exception_block">Bloker et bestemt websted for at åbne din app.</string>
+    <string name="update_interval">Opdateringsinterval</string>
+    <string name="never">Aldrig</string>
+    <string name="every_day">Hver dag</string>
+    <string name="every_3_days">Hver 3. dag</string>
+    <string name="every_week">Hver uge</string>
+    <string name="every_15_days">Hver 15. dag</string>
+    <string name="adblock_add_site_exception_on">Aktiver annonceblokering for et specifikt websted.</string>
+    <string name="adblock_add_site_exception_off">Deaktiver annonceblokering for et specifikt websted.</string>
+    <string name="sync">Synkronisering</string>
+    <string name="sync_webdav">WebDAV</string>
+    <string name="sync_webdav_user">%1$s (WebDAV)</string>
+    <string name="webdav_configuration">WebDAV-konfiguration</string>
+    <string name="webdav_digest_access_authentication">Bruger godkendelse af digest-adgang</string>
+    <string name="no_configuration">Ingen-konfiguration</string>
+    <string name="has_never_been_synced">Er aldrig blevet synkroniseret</string>
+    <string name="synced_">Synkroniseret tale %1$s</string>
+    <string name="auto_sync">Automatisk synkronisering</string>
+    <string name="sync_data">Synkroniseringsdata</string>
+    <string name="sync_data_none">Ingen</string>
+    <string name="sync_data_bookmarks">Bogmærker</string>
+    <string name="sync_data_favorites">Favoritter</string>
+    <string name="sync_data_settings">Indstillinger</string>
+    <string name="delimiter">, </string>
+    <string name="sync_done">Synkronisering udført</string>
+    <string name="sync_failed">Synkroniserer mislykkedes</string>
+    <string name="hint_password_unchanged">Adgangskode (uændret)</string>
+    <string name="enable_video_player_gestures">Aktiv videoafspillerbevægelser</string>
+    <string name="enable_video_player_gestures_description">Tillad at stryge for at justere video Fremdrift, skærmens lysstyrke, enhedslydstyrke, når du afspiller video i fuld skærm, hvis det er muligt</string>
+    <string name="external_video_player">Ekstern videoafspiller</string>
+    <string name="external_video_player_description">Når du vælger en ekstern videoafspiller til at spille videoen, skal du bruge</string>
+    <string name="player_system_sharing">Systemsletning</string>
+    <string name="request_to_download_full_script">Det scripter kontinuerligt og fungerer godt. Vil du downloade hele scriptet?</string>
+    <string name="data_app_cache">App-cache</string>
+    <string name="sync_manually">Manual til synkronisering</string>
+    <string name="sync_push_description">Overskriv fjerndata med lokale data</string>
+    <string name="sync_push_confirm">Er det nemt for dig at hente data fra lokale data?</string>
+    <string name="sync_pull_description">Overskriv lokale data med fjerndata</string>
+    <string name="sync_pull_confirm">Vil du vide, om du har lokale data med fjerndata?</string>
+    <string name="sync_merge_description">Flyt lokale data med fjerndata</string>
+    <string name="mark_as_ad_expand">Udvid</string>
+    <string name="mark_as_ad_shrink">Formindsk</string>
+    <string name="mark_as_ad_move_view">Flytvisning</string>
+    <string name="page_redirection">Sideomdirection</string>
+    <string name="page_redirection_allowed_description">Tillad sideomdiregering for at modtage webadresse</string>
+    <string name="page_redirection_ask_first_description">Først for sideomdirigering til websteds-adressen</string>
+    <string name="page_redirection_ask_first_description_short">Spørg first for omdirigering på tværs af oprindelse</string>
+    <string name="page_redirection_add_site_exception_allow">Tillad sideomdirigering for at få webadresse til et specifikt websted.</string>
+    <string name="page_redirection_add_site_exception_ask_first">Spørg først før omdirecting på tværs af oprindelse for et specifikt websted.</string>
+    <string name="allow_page_redirection_to_msg">Tillade sideomdirigering til %1$s?</string>
+    <string name="allow_page_redirection_msg">Tillad sideomdirigering?</string>
+    <string name="sort">Sortér</string>
+    <string name="new_folder">Ny mappe</string>
+    <string name="page_up">Side op</string>
+    <string name="page_down">Side ned</string>
+    <string name="select_action">Vælg handling</string>
+    <string name="tab_actions">Fanehandlinger</string>
+    <string name="feature_actions">Funktionshandlinger</string>
+    <string name="address_bar_actions">Adresselinjehandlinger</string>
+    <string name="webpage_actions">Websidehandlinger</string>
+    <string name="message_close_all_tabs">Er du sikker på, at du vil lukke alle faner?</string>
+    <string name="search_in_via">Søg i Via</string>
+    <string name="following_filters_invalid_message">Følgende filtre er ikke i det korrekte format:</string>
+    <string name="customize_menu">Tilpas menu</string>
+    <string name="hold_and_drag_to_rearrange_items">Hold og træk for at omarrangere elementer</string>
+    <string name="hold_and_drag_or_tap_to_add_item">Hold og træk eller tryk for at tilføje element</string>
+    <string name="enable_tab_bar">Aktiver fanelinje</string>
+    <string name="enable_scripts">Aktiver scripts</string>
+    <string name="scripts_enabled">Scripts aktiveret</string>
+    <string name="print_or_pdf">Udskriv/PDF</string>
+    <string name="site_info">Webstedsoplysninger</string>
+    <string name="is_on">%s er tændt</string>
+    <string name="is_off">%s er slået fra</string>
+    <string name="is_set">%s er indstillet</string>
+    <string name="is_required">%s er påkrævet</string>
+    <string name="close_tab_description">Luk %s</string>
+    <string name="toast_enable_tab_bar">Vælg en anden værktøjslinje-UI-tilstand for at aktivere fanelinjen</string>
+    <string name="import_data_failed_file_too_large">Filen er for stor og kan ikke importeres</string>
+    <string name="remember_my_choice">Husk mit valg</string>
+    <string name="microphone_add_site_exception_allow">Tillad et specifikt websted at bruge din mikrofon.</string>
+    <string name="microphone_add_site_exception_block">Bloker et specifikt websted for at bruge din mikrofon.</string>
+    <string name="camera_add_site_exception_allow">Tillad et bestemt websted at bruge dit kamera.</string>
+    <string name="camera_add_site_exception_block">Bloker et bestemt websted for at bruge dit kamera.</string>
+    <string name="tab_is_closed">Fanen er lukket</string>
+    <string name="recently_closed_tabs">Nyligt lukkede faner</string>
+    <string name="tabs">Faner</string>
+    <string name="tab_settings">Faneindstillinger</string>
+    <string name="show_toast_to_undo_closing_tab">Vis toast for at fortryde lukkefane</string>
+    <string name="show_toast_to_undo_closing_tab_description">Toasten vil ikke blive vist, hvis inkognitotilstand er aktiveret</string>
+    <string name="open_all">Åbn alle</string>
+    <string name="expand_web_content_automatically">Udvid websideindhold automatisk</string>
+    <string name="expand_web_content_automatically_description">Udvid automatisk skjult indhold, når du åbner en webside</string>
+    <string name="read_aloud">Læs højt</string>
+    <string name="start_reading_aloud">Begynd at læse højt</string>
+    <string name="cannot_read_this_page_aloud">Kan ikke læse denne side højt</string>
+    <string name="tts_failed_to_initialize">TTS-motor kunne ikke initialiseres</string>
+    <string name="fastforward">Spol frem</string>
+    <string name="rewind">Spol tilbage</string>
+    <string name="add_to_home_screen">Føj til startskærmen</string>
+</resources>
