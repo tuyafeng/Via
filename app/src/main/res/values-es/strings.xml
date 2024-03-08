@@ -61,7 +61,7 @@
     <string name="baidu_url">Baidu</string>
     <string name="shenma_url">ShenMa</string>
     <string name="bing_url">Bing</string>
-    <string name="haosou_url">Haosou</string>
+    <string name="haosou_url">360 Search</string>
     <string name="duckduckgo_url">DuckDuckGo</string>
     <string name="startpage_url">StartPage</string>
     <string name="yahoo_url">Yahoo</string>
@@ -647,7 +647,7 @@
     <string name="desc_swap_language">Intercambiar idioma</string>
     <string name="desc_paste_text">Pegar texto</string>
     <string name="translation_engine_google_text">Traducción de texto de Google</string>
-    <string name="sourcenao_url">SourceNAO</string>
+    <string name="saucenao_url">SauceNAO</string>
     <string name="iqdb_url">IQDB</string>
     <string name="iqdb_3d_url">3D IQDB</string>
     <string name="whatanime_url">WhatAnime</string>
