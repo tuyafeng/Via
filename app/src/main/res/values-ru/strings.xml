@@ -202,7 +202,7 @@
     <string name="find_next">Следующее</string>
     <string name="find_pre">Предыдущее</string>
     <string name="action_open_in_background">Открыть в фоне</string>
-    <string name="cannot_work">Только для http(s)-ссылкок</string>
+    <string name="cannot_work">Только для http(s)-ссылок</string>
     <string name="action_fullscreen">Полный экран</string>
     <string name="settings_general">Основные</string>
     <string name="no_bookmark">Нет закладок</string>
@@ -753,7 +753,7 @@
     <string name="hint_password_unchanged">Пароль (без изменений)</string>
     <string name="enable_video_player_gestures">Жесты в видеопроигрывателе</string>
     <string name="enable_video_player_gestures_description">Использовать жесты для перемотки видео, регулировки яркости экрана и громкости звука при воспроизведении видео в полноэкранном режиме, если это возможно</string>
-    <string name="external_video_player">Внешний видеопроигрватель</string>
+    <string name="external_video_player">Внешний видеопроигрыватель</string>
     <string name="external_video_player_description">Использовать внешний видеопроигрыватель, если он выбран</string>
     <string name="player_system_sharing">Общесистемный</string>
     <string name="request_to_download_full_script">Скрипт неполный и не работает, загрузить полный скрипт?</string>
@@ -823,4 +823,30 @@
     <string name="fastforward">Перемотка вперёд</string>
     <string name="rewind">Перемотка назад</string>
     <string name="add_to_home_screen">Ярлык на рабочий стол</string>
+    <string name="certificate_detail_fingerprints"><![CDATA[
+        <b>ОТПЕЧАТКИ SHA-256</b><br />
+        <b>Сертификат</b><br />
+        %1$s
+        <br /><b>Открытый ключ</b><br />
+        %2$s
+        <br />
+    ]]></string>
+    <string name="show_reader">Включить чтение</string>
+    <string name="hide_reader">Отключить чтение</string>
+    <string name="reader_is_shown">Чтение включено</string>
+    <string name="reader_is_hidden">Чтение отключено</string>
+    <string name="custom_reader_css">Свой CSS чтения</string>
+    <string name="reader_mode">Режим чтения</string>
+    <string name="the_page_has_not_fully_loaded">Страница загружена не полностью</string>
+    <string name="more_options">Ещё</string>
+    <string name="link_too_long_to_generate_qr_code">Ссылка слишком длинная для создания QR-кода</string>
+    <string name="view_scripts">Просмотр скриптов</string>
+    <string name="exit_message_if_incognito_mode_is_on">Все открытые вкладки будут закрыты без возможности восстановления. Вы уверены, что хотите выйти из приложения?</string>
+    <string name="dont_remind_me_again">Больше не напоминать</string>
+    <string name="cannot_work_javascript_is_blocked">Выполнение возможно только при включённом JavaScript</string>
+    <string name="cannot_work_on_this_site">На данном сайте выполнение невозможно</string>
+    <string name="one_filter_per_line">По одному фильтру на строку</string>
+    <string name="modified_content_has_not_been_saved_message">Изменённое содержимое не сохранено. Сохранить?</string>
+    <string name="operation_opensettings">Открыть настройки</string>
+    <string name="enable_draggable_scrollbar">Перетаскиваемая полоса прокрутки</string>
 </resources>
