@@ -61,7 +61,7 @@
     <string name="baidu_url">百度</string>
     <string name="shenma_url">神馬</string>
     <string name="bing_url">微軟 Bing</string>
-    <string name="haosou_url">好搜</string>
+    <string name="haosou_url">360 搜尋</string>
     <string name="duckduckgo_url">DuckDuckGo</string>
     <string name="startpage_url">StartPage</string>
     <string name="yahoo_url">Yahoo!</string>
@@ -636,7 +636,7 @@
     <string name="desc_swap_language">交換語言</string>
     <string name="desc_paste_text">貼上文字</string>
     <string name="translation_engine_google_text">Google文字翻譯</string>
-    <string name="sourcenao_url">SourceNAO</string>
+    <string name="saucenao_url">SauceNAO</string>
     <string name="iqdb_url">IQDB</string>
     <string name="iqdb_3d_url">3D IQDB</string>
     <string name="whatanime_url">WhatAnime</string>

@@ -55,7 +55,7 @@
     <string name="action_incognito">Inkognitotilstand</string>
     <string name="action_find">Find på side</string>
     <string name="download_pending">Starter download\u2026</string>
-    <string name="cannot_download">Den kan kun downloades fra \"http\" eller \"https\" URL'er.</string>
+    <string name="cannot_download">Den kan kun downloades fra \"http\" eller \"https\" URL\'er.</string>
     <string name="bookmarks_imported">%1$d bogmærker importeret</string>
     <string name="custom_url">Tilpasset webadresse</string>
     <string name="baidu_url">Baidu</string>
@@ -202,7 +202,7 @@
     <string name="find_next">Find næste</string>
     <string name="find_pre">Find sidste</string>
     <string name="action_open_in_background">Åbn i baggrunden</string>
-    <string name="cannot_work">Det kan kun fungere med \"http\" eller \"https\" URL'er.</string>
+    <string name="cannot_work">Det kan kun fungere med \"http\" eller \"https\" URL\'er.</string>
     <string name="action_fullscreen">Fuld skærm</string>
     <string name="settings_general">Generelt</string>
     <string name="no_bookmark">Ingen bogmærker</string>
@@ -306,7 +306,7 @@
          \n@@||eksempel.com^</string>
     <string name="help">Hjælp</string>
     <string name="learn_more">Få flere oplysninger</string>
-    <plurals name="filtre">
+    <plurals name="filters">
          <item quantity="zero">0 filter</item>
          <item quantity="one">1 filter</item>
          <item quantity="other">%d filtre</item>
@@ -504,31 +504,31 @@
     <string name="the_site">Webstedet</string>
     <string name="navigation_up">Navigation op</string>
     <string name="hide_popup_window">Skjul pop op-vindue</string>
-     <plurals name="open_tabs">
-         <item quantity="zero">0 fane</item>
-         <item quantity="one">1 fane</item>
-         <item quantity="other">%d faner</item>
-     </plurals>
+    <plurals name="open_tabs">
+        <item quantity="zero">0 fane</item>
+        <item quantity="one">1 fane</item>
+        <item quantity="other">%d faner</item>
+    </plurals>
     <string name="qr_code">QR-kode</string>
     <string name="download_progress_speed">%1$s • %2$s</string>
     <string name="download_progress_speed_eta">%1$s • %2$s • %3$s</string>
     <string name="download_speed_unknown">Ikke relevant</string>
     <string name="download_eta_unknown">-</string>
-     <plurals name="hours_left">
-         <item quantity="zero">0 timer tilbage</item>
-         <item quantity="one">1 time tilbage</item>
-         <item quantity="other">%d timer tilbage</item>
-     </plurals>
-     <plurals name="mins_left">
-         <item quantity="zero">0 min tilbage</item>
-         <item quantity="one">1 min tilbage</item>
-         <item quantity="other">%d minutter tilbage</item>
-     </plurals>
-     <plurals name="secs_left">
-         <item quantity="zero">0 sek tilbage</item>
-         <item quantity="one">1 sek tilbage</item>
-         <item quantity="other">%d sekunder tilbage</item>
-     </plurals>
+    <plurals name="hours_left">
+        <item quantity="zero">0 timer tilbage</item>
+        <item quantity="one">1 time tilbage</item>
+        <item quantity="other">%d timer tilbage</item>
+    </plurals>
+    <plurals name="mins_left">
+        <item quantity="zero">0 min tilbage</item>
+        <item quantity="one">1 min tilbage</item>
+        <item quantity="other">%d minutter tilbage</item>
+    </plurals>
+    <plurals name="secs_left">
+        <item quantity="zero">0 sek tilbage</item>
+        <item quantity="one">1 sek tilbage</item>
+        <item quantity="other">%d sekunder tilbage</item>
+    </plurals>
     <string name="translation_engine_google">Google oversæt</string>
     <string name="translation_engine_baidu">Baidu oversæt</string>
     <string name="ignore_site_message_for_a_minute">Ignorer denne webstedsmeddelelse i et minut</string>
@@ -553,56 +553,56 @@
     <string name="download_filter_apk">APK</string>
     <string name="download_filter_audio">Lyd</string>
     <string name="download_filter_archives">Arkiver</string>
-    <string name="simple_guide_of_writing_userscript"></![CDATA[
+    <string name="simple_guide_of_writing_userscript"><![CDATA[
         <b>Metadatablok</b><br />
-         Metadataene skal følge formatet:<br />
-         <tt>
-         // ==UserScript==<br />
+        Metadataene skal følge formatet:<br />
+        <tt>
+        // ==UserScript==<br />
         // @key value<br />
         // ==/UserScript==
         </tt>
         <br /><br />
-         <b><tt>@name</tt></b>: Navnet på brugerscriptet.
-         <br /><br />
-         <b><tt>@namespace</tt></b>: Kombinationen af ​​<tt>@namespace</tt> og <tt>@name</tt> er den unikke identifikator for et brugerscript.
-         <br /><br />
-         <b><tt>@match/@exclude-match</tt></b>: Definer regler for at bestemme, om et script skal udføres. Det anbefales at bruge <tt>@match</tt> i stedet for <tt>@include</tt>.
-         <br /><br />
-         <b><tt>@include/@exclude</tt></b>: Den gamle måde at beslutte om et script skal udføres på.
-         <br /><br />
-         <b><tt>@version</tt></b>: Versionen af ​​brugerscriptet.
-         <br /><br />
-         <b><tt>@description</tt></b>: Beskrivelsen af ​​brugerscriptet.
-         <br /><br />
-         <b><tt>@author</tt></b>: Forfatteren af ​​brugerscriptet.
-         <br /><br />
-         <b><tt>@require</tt></b>: Kravet til brugerscriptet. For eksempel <br /><tt>// @require https://my.cdn.com/jquery.js</tt>.
-         <br /><br />
-         <b><tt>@run-at</tt></b>: Beslut hvornår scriptet skal køres. <tt>document-start</tt> bruges til at indsætte scripts før siden indlæses, <tt>document-end</tt> bruges til at indsætte scripts efter sideindlæsning.
-         <br /><br />
-         <b><tt>@grant</tt></b>: Angiv, hvilke specielle GM_* API'er der skal tildeles og kan bruges, når scriptet køres.<br />
-         <br /><br />
-         <b><tt>@downloadURL</tt></b>: Den URL, scriptet kan downloades fra.
-         <br /><br />
-         <b><tt>@supportURL</tt></b>: Support-URL'en for brugerscriptet.
-         <br /><br />
-         <b><tt>@homepageURL</tt></b>: Hjemmesidewebadressen for brugerscriptet.
-         <br /><br />
-         <b>GM_* API'er</b><br />
-         <tt>GM_*</tt> er en gruppe af specielle API'er leveret af Via. Aktuelt understøttede specielle API'er inkluderer: <br/>
-         <tt>GM_getValue/GM_setValue/GM_deleteValue/GM_listValues/GM_getResourceText/GM_getResourceURL/GM_addElement/GM_addStyle/GM_setClipboard/GM_xmlhttpRequest/GM_download/GM_registerMenuCommand/GM_untt>
-         <br /><br />
-         <b>Matchende</b><br />
-         <tt>@match</tt> definerer en URL-matchningsregel. <tt>@exclude-match</tt> definerer en matchregel, men bruges til at ekskludere de matchede URL'er, svarende til <tt>@exclude</tt>.
-         <br /><br />
-         For eksempel:<br />
-         <tt>
-         // @match https://www.google.com/noget <br />
-         // @match https://www.google.com/any/* <br />
-         // @exclude-match https://www.google.com/any/not_me
-         </tt>
-         <br /><br />
-     ]]></string>
+        <b><tt>@name</tt></b>: Navnet på brugerscriptet.
+        <br /><br />
+        <b><tt>@namespace</tt></b>: Kombinationen af <tt>@namespace</tt> og <tt>@name</tt> er den unikke identifikator for et brugerscript.
+        <br /><br />
+        <b><tt>@match/@exclude-match</tt></b>: Definer regler for at bestemme, om et script skal udføres. Det anbefales at bruge <tt>@match</tt> i stedet for <tt>@include</tt>.
+        <br /><br />
+        <b><tt>@include/@exclude</tt></b>: Den gamle måde at beslutte om et script skal udføres på.
+        <br /><br />
+        <b><tt>@version</tt></b>: Versionen af brugerscriptet.
+        <br /><br />
+        <b><tt>@description</tt></b>: Beskrivelsen af brugerscriptet.
+        <br /><br />
+        <b><tt>@author</tt></b>: Forfatteren af brugerscriptet.
+        <br /><br />
+        <b><tt>@require</tt></b>: Kravet til brugerscriptet. For eksempel <br /><tt>// @require https://my.cdn.com/jquery.js</tt>.
+        <br /><br />
+        <b><tt>@run-at</tt></b>: Beslut hvornår scriptet skal køres. <tt>document-start</tt> bruges til at indsætte scripts før siden indlæses, <tt>document-end</tt> bruges til at indsætte scripts efter sideindlæsning.
+        <br /><br />
+        <b><tt>@grant</tt></b>: Angiv, hvilke specielle GM_* API\'er der skal tildeles og kan bruges, når scriptet køres.<br />
+        <br /><br />
+        <b><tt>@downloadURL</tt></b>: Den URL, scriptet kan downloades fra.
+        <br /><br />
+        <b><tt>@supportURL</tt></b>: Support-URL\'en for brugerscriptet.
+        <br /><br />
+        <b><tt>@homepageURL</tt></b>: Hjemmesidewebadressen for brugerscriptet.
+        <br /><br />
+        <b>GM_* API\'er</b><br />
+        <tt>GM_*</tt> er en gruppe af specielle API\'er leveret af Via. Aktuelt understøttede specielle API\'er inkluderer: <br/>
+        <tt>GM_getValue/GM_setValue/GM_deleteValue/GM_listValues/GM_getResourceText/GM_getResourceURL/GM_addElement/GM_addStyle/GM_setClipboard/GM_xmlhttpRequest/GM_download/GM_registerMenuCommand/GM_untt>
+        <br /><br />
+        <b>Matchende</b><br />
+        <tt>@match</tt> definerer en URL-matchningsregel. <tt>@exclude-match</tt> definerer en matchregel, men bruges til at ekskludere de matchede URL\'er, svarende til <tt>@exclude</tt>.
+        <br /><br />
+        For eksempel:<br />
+        <tt>
+        // @match https://www.google.com/noget <br />
+        // @match https://www.google.com/any/* <br />
+        // @exclude-match https://www.google.com/any/not_me
+        </tt>
+        <br /><br />
+    ]]></string>
     <string name="toast_install_script_successfully">Installer \"%1$s\" korrekt!</string>
     <string name="toast_install_script_failed_unknown">Installationen \"%1$s\" mislykkedes!</string>
     <string name="toast_install_script_failed_dependency_error">Download \"%1$s\" afhængighed mislykkedes!</string>
@@ -647,7 +647,7 @@
     <string name="desc_swap_language">Skift sprog</string>
     <string name="desc_paste_text">Indsæt tekst</string>
     <string name="translation_engine_google_text">Google Text Translate</string>
-    <string name="sourcenao_url">SourceNAO</string>
+    <string name="saucenao_url">SauceNAO</string>
     <string name="iqdb_url">IQDB</string>
     <string name="iqdb_3d_url">3D IQDB</string>
     <string name="whatanime_url">WhatAnime</string>

@@ -62,7 +62,7 @@
     <string name="baidu_url">百度</string>
     <string name="shenma_url">神马</string>
     <string name="bing_url">必应</string>
-    <string name="haosou_url">好搜</string>
+    <string name="haosou_url">360 搜索</string>
     <string name="duckduckgo_url">DuckDuckGo</string>
     <string name="startpage_url">StartPage</string>
     <string name="yahoo_url">雅虎</string>
@@ -637,7 +637,7 @@
     <string name="desc_swap_language">交换语言</string>
     <string name="desc_paste_text">粘贴文本</string>
     <string name="translation_engine_google_text">谷歌文本翻译</string>
-    <string name="sourcenao_url">SourceNAO</string>
+    <string name="saucenao_url">SauceNAO</string>
     <string name="iqdb_url">IQDB</string>
     <string name="iqdb_3d_url">3D IQDB</string>
     <string name="whatanime_url">WhatAnime</string>
@@ -817,4 +817,30 @@
     <string name="fastforward">快进</string>
     <string name="rewind">倒带</string>
     <string name="add_to_home_screen">添加到桌面</string>
+    <string name="certificate_detail_fingerprints"><![CDATA[
+        <b>SHA-256 指纹</b><br />
+        <b>证书</b><br />
+        %1$s
+        <br /><b>公钥</b><br />
+        %2$s
+        <br />
+    ]]></string>
+    <string name="show_reader">打开阅读模式</string>
+    <string name="hide_reader">关闭阅读模式</string>
+    <string name="reader_is_shown">阅读模式已打开</string>
+    <string name="reader_is_hidden">阅读模式已关闭</string>
+    <string name="custom_reader_css">自定义阅读模式 CSS</string>
+    <string name="reader_mode">阅读模式</string>
+    <string name="the_page_has_not_fully_loaded">该页面未完全加载</string>
+    <string name="more_options">更多选项</string>
+    <string name="link_too_long_to_generate_qr_code">链接太长，无法生成二维码</string>
+    <string name="view_scripts">查看脚本</string>
+    <string name="exit_message_if_incognito_mode_is_on">所有未关闭的标签都将被删除且无法被恢复，你确认退出应用吗？</string>
+    <string name="dont_remind_me_again">不再提醒</string>
+    <string name="cannot_work_javascript_is_blocked">仅在允许 JavaScript 运行时支持</string>
+    <string name="cannot_work_on_this_site">不支持该网站</string>
+    <string name="one_filter_per_line">一个过滤规则一行。</string>
+    <string name="modified_content_has_not_been_saved_message">修改的内容未保存，是否保存？</string>
+    <string name="operation_opensettings">打开设置</string>
+    <string name="enable_draggable_scrollbar">启用可拖动的滚动条</string>
 </resources>
