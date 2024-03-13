@@ -2,7 +2,7 @@
 
 <div align="center"><img src="http://viayoo.com/en/images/logo.png" alt="Via Logo" height="100"/></div>
 
-[English](./README.md) | [简体中文](./README_zh_CN.md) | 繁體中文 | [Português](./README_pt_BR.md) | [Español](./README_es_ES.md) | [Türkçe](./README_tr_TR.md) | [日本語](./README_ja_JP.md)
+[English](./README.md) | [简体中文](./README_zh_CN.md) | 繁體中文 | [Português](./README_pt_BR.md) | [Español](./README_es_ES.md) | [Türkçe](./README_tr_TR.md) | [日本語](./README_ja_JP.md) | [Русский](./README_ru_RU.md)
 
 ### 簡介
 
