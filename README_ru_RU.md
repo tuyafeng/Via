@@ -1,4 +1,4 @@
-# Браузер Via - будь продвинутым
+# Браузер Via - делает сёрфинг увлекательным
 
 <div align="center"><img src="http://viayoo.com/en/images/logo.png" alt="Via Logo" height="100"/></div>
 
