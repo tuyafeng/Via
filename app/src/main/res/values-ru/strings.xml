@@ -27,7 +27,7 @@
     <string name="orientation_auto">Автоповорот</string>
     <string name="orientation_portrait">Портретная</string>
     <string name="orientation_landscape">Альбомная</string>
-    <string name="agent">UserAgent</string>
+    <string name="agent">Пользовательский агент</string>
     <string name="home">Домашняя страница</string>
     <string name="fullscreen">Автоскрытие панелей</string>
     <string name="java">Использовать JavaScript</string>
@@ -154,7 +154,7 @@
     <string name="data_cache">Кеш</string>
     <string name="data_form_data">Данные форм</string>
     <string name="data_history">История</string>
-    <string name="data_storage">Web-хранилище</string>
+    <string name="data_storage">Веб-хранилище</string>
     <string name="data_cookies">Cookies (статус входа)</string>
     <string name="data_cleared">Данные очищены</string>
     <string name="settings_skin">Внешний вид</string>
@@ -241,7 +241,7 @@
     <string name="title_edit_favorite">Редактирование</string>
     <string name="custom_css_special">Добавить свой CSS</string>
     <string name="force_enable_zoom">Принудительное масштабирование</string>
-    <string name="set_ua_as">Установлен UserAgent: %1$s</string>
+    <string name="set_ua_as">Установлен пользовательский агент: %1$s</string>
     <string name="import_data">Импорт данных</string>
     <string name="import_data_failed">Ошибка при импортировании данных!</string>
     <string name="import_data_succeed">Импорт данных выполнен успешно</string>
@@ -539,7 +539,7 @@
     <string name="agent_osx">macOS</string>
     <string name="toutiao_url">Toutiao</string>
     <string name="title_can_not_be_empty">Заголовок не может быть пустым</string>
-    <string name="user_agent_can_not_be_empty">Значение UserAgent не может быть пустым</string>
+    <string name="user_agent_can_not_be_empty">Значение пользовательского агента не может быть пустым</string>
     <string name="download_filter_all">Все</string>
     <string name="download_filter_others">Другие</string>
     <string name="download_filter_documents">Документы</string>
@@ -680,7 +680,7 @@
     <string name="category_content">Содержание</string>
     <string name="category_basics">Общее</string>
     <string name="category_permissions">Разрешения</string>
-    <string name="agent_add_site_exception">Установить UserAgent для определённого сайта.</string>
+    <string name="agent_add_site_exception">Установить пользовательский агент для определённого сайта.</string>
     <string name="images">Изображения</string>
     <string name="images_allowed_description">Разрешать сайтам загружать изображения</string>
     <string name="images_allowed_via_wifi_description">Разрешать сайтам загружать изображения только по Wi-Fi</string>
@@ -831,11 +831,11 @@
         %2$s
         <br />
     ]]></string>
-    <string name="show_reader">Включить чтение</string>
-    <string name="hide_reader">Отключить чтение</string>
-    <string name="reader_is_shown">Чтение включено</string>
-    <string name="reader_is_hidden">Чтение отключено</string>
-    <string name="custom_reader_css">Свой CSS чтения</string>
+    <string name="show_reader">Включить режим чтения</string>
+    <string name="hide_reader">Отключить режим чтения</string>
+    <string name="reader_is_shown">Режим чтения включён</string>
+    <string name="reader_is_hidden">Режим чтения отключён</string>
+    <string name="custom_reader_css">Свой CSS для режима чтения</string>
     <string name="reader_mode">Режим чтения</string>
     <string name="the_page_has_not_fully_loaded">Страница загружена не полностью</string>
     <string name="more_options">Ещё</string>
@@ -848,5 +848,5 @@
     <string name="one_filter_per_line">По одному фильтру на строку</string>
     <string name="modified_content_has_not_been_saved_message">Изменённое содержимое не сохранено. Сохранить?</string>
     <string name="operation_opensettings">Открыть настройки</string>
-    <string name="enable_draggable_scrollbar">Перетаскиваемая полоса прокрутки</string>
+    <string name="enable_draggable_scrollbar">Ползунок полосы прокрутки</string>
 </resources>
