@@ -147,7 +147,7 @@
     <string name="ui_mode">Modo de interfaz de la barra de herramientas</string>
     <string name="addon_download">Administrador de descargas</string>
     <string name="quick_back">Regresar sin recargar</string>
-    <string name="open_with">Abrir con&#8230;</string>
+    <string name="open_with">Abrir con</string>
     <string name="download_completed">Descarga completada</string>
     <string name="toast_fullscreen_off">Salir del modo de pantalla completa</string>
     <string name="clear_data">Borrar datos</string>

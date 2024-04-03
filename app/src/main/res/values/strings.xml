@@ -147,7 +147,7 @@
     <string name="ui_mode">Toolbar UI mode</string>
     <string name="addon_download">Download manager</string>
     <string name="quick_back">Go back without reloading</string>
-    <string name="open_with">Open with&#8230;</string>
+    <string name="open_with">Open with</string>
     <string name="download_completed">Download completed</string>
     <string name="toast_fullscreen_off">Exit full-screen mode</string>
     <string name="clear_data">Clear data</string>
@@ -854,4 +854,10 @@
     <string name="modified_content_has_not_been_saved_message">The modified content has not been saved. Do you want to save it?</string>
     <string name="operation_opensettings">Open settings</string>
     <string name="enable_draggable_scrollbar">Enable draggable scrollbar</string>
+    <string name="file_download_completed">%1$s downloaded</string>
+    <string name="file_download_failed">Download %1$s failed</string>
+    <string name="require_confirmation_to_enable_reader_mode">Require confirmation to show reader</string>
+    <string name="require_confirmation_to_enable_reader_mode_description_enabled">Show menu first when clicking on the address bar\'s reader mode icon</string>
+    <string name="require_confirmation_to_enable_reader_mode_description_disabled">Show reader when clicking on the address bar\'s reader mode icon</string>
+    <string name="appearance">Appearance</string>
 </resources>

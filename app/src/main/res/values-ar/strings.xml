@@ -142,7 +142,7 @@
   <string name="ui_mode">UI وضع</string>
   <string name="addon_download">مدير التحميل</string>
     <string name="quick_back">العودة دون إعادة تحميل</string>
-  <string name="open_with">فتح بواسطة…</string>
+  <string name="open_with">فتح بواسطة</string>
   <string name="download_completed">إكتمل التحميل بنجاح</string>
   <string name="toast_fullscreen_off">الخرج من وضع ملء الشاشة</string>
   <string name="clear_data">تنظيف البيانات</string>

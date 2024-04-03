@@ -147,7 +147,7 @@
     <string name="ui_mode">Tampilan UI bilah alat</string> 
     <string name="addon_download">Pengelola unduhan</string> 
     <string name="quick_back">Kembali tanpa memuat ulang</string> 
-    <string name="open_with">Buka dengan&#8230;</string> 
+    <string name="open_with">Buka dengan</string>
     <string name="download_completed">Pengunduhan selesai</string> 
     <string name="toast_fullscreen_off">Keluar dari mode layar penuh</string> 
     <string name="clear_data">Hapus data</string> 

@@ -147,7 +147,7 @@
     <string name="ui_mode">工具列介面模式</string>
     <string name="addon_download">下載管理</string>
     <string name="quick_back">返回不重載</string>
-    <string name="open_with">透過應用程式開啟&#8230;</string>
+    <string name="open_with">開啟方式</string>
     <string name="download_completed">下載已完成</string>
     <string name="toast_fullscreen_off">關閉全螢幕模式</string>
     <string name="clear_data">清除資料</string>

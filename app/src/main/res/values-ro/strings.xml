@@ -148,7 +148,7 @@
     <string name="ui_mode">Mod bară de instrumente</string>
     <string name="addon_download">Manager de descărcări</string>
     <string name="quick_back">Mergeți înapoi fără reîncărcare</string>
-    <string name="open_with">Deschidere cu&#8230;</string>
+    <string name="open_with">Deschidere cu</string>
     <string name="download_completed">Descărcare finalizată;</string>
     <string name="toast_fullscreen_off">Ieșire din modul Ecran complet</string>
 

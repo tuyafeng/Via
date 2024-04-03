@@ -147,7 +147,7 @@
     <string name="ui_mode">Barre degli strumenti</string>
     <string name="addon_download">Gestore dei download</string>
     <string name="quick_back">Vai indietro senza ricaricare la pagina</string>
-    <string name="open_with">Apri con…</string>
+    <string name="open_with">Apri con</string>
     <string name="download_completed">Download completato</string>
     <string name="toast_fullscreen_off">Esci dalla modalità a schermo intero</string>
     <string name="clear_data">Cancella i dati</string>

@@ -148,7 +148,7 @@
     <string name="ui_mode">应用布局</string>
     <string name="addon_download">下载管理</string>
     <string name="quick_back">返回不重载</string>
-    <string name="open_with">通过应用打开&#8230;</string>
+    <string name="open_with">打开方式</string>
     <string name="download_completed">下载完成</string>
     <string name="toast_fullscreen_off">退出全屏模式</string>
     <string name="clear_data">清除数据</string>
@@ -843,4 +843,10 @@
     <string name="modified_content_has_not_been_saved_message">修改的内容未保存，是否保存？</string>
     <string name="operation_opensettings">打开设置</string>
     <string name="enable_draggable_scrollbar">启用可拖动的滚动条</string>
+    <string name="file_download_completed">%1$s 已下载</string>
+    <string name="file_download_failed">下载 %1$s 失败</string>
+    <string name="require_confirmation_to_enable_reader_mode">开启阅读模式需要二次确认</string>
+    <string name="require_confirmation_to_enable_reader_mode_description_enabled">当点击地址栏阅读模式图标时，先展示菜单</string>
+    <string name="require_confirmation_to_enable_reader_mode_description_disabled">当点击地址栏阅读模式图标时，开启阅读模式</string>
+    <string name="appearance">外观</string>
 </resources>

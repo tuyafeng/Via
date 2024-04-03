@@ -142,7 +142,7 @@
    <string name="ui_mode">Выгляд UI</string>
    <string name="addon_download">Менеджар спамповак</string>
    <string name="quick_back">«Назад» без перазагрузкі старонкі</string>
-   <string name="open_with">Адкрыць праз…</string>
+   <string name="open_with">Адкрыць праз</string>
    <string name="download_completed">Спампоўка завершана</string>
    <string name="toast_fullscreen_off">Выйсці з паўнаэкраннага рэжыму</string>
    <string name="clear_data">Ачысціць даныя</string>

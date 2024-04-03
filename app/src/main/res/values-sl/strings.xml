@@ -147,7 +147,7 @@
     <string name="ui_mode">Način vmesnika orodnih vrstic</string>
     <string name="addon_download">Upravitelj prenosov</string>
     <string name="quick_back">Pojdi nazaj brez osveževanja</string>
-    <string name="open_with">Odpri z&#8230;</string>
+    <string name="open_with">Odpri z</string>
     <string name="download_completed">Prenos je končan</string>
     <string name="toast_fullscreen_off">Izhod iz celozaslonskega načina</string>
     <string name="clear_data">Čiščenje podatkov</string>

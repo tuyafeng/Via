@@ -148,7 +148,7 @@
     <string name="ui_mode">Araç çubuğu arayüzü</string>
     <string name="addon_download">İndirme yöneticisi</string>
     <string name="quick_back">Yeniden yüklemeden geri dön</string>
-    <string name="open_with">Birlikte aç&#8230;</string>
+    <string name="open_with">Birlikte aç</string>
     <string name="download_completed">İndirme tamamlandı</string>
     <string name="toast_fullscreen_off">Tam ekran modundan çık</string>
 

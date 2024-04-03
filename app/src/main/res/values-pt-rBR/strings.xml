@@ -147,7 +147,7 @@
     <string name="ui_mode">Posição da barra de ferramentas</string>
     <string name="addon_download">Gerenciador de downloads</string>
     <string name="quick_back">Voltar sem recarregar</string>
-    <string name="open_with">Abrir com&#8230;</string>
+    <string name="open_with">Abrir com</string>
     <string name="download_completed">Download concluído</string>
     <string name="toast_fullscreen_off">Saiu do modo tela cheia</string>
     <string name="clear_data">Limpar dados</string>

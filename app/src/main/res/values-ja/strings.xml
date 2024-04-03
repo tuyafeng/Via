@@ -597,7 +597,7 @@
     <string name="crash_restart">再起動</string>
     <string name="crash_close">終了</string>
     <string name="upload_completed">報告成功 :)</string>
-    <string name="open_with">開く&#8230;</string>
+    <string name="open_with">開く</string>
     <string name="download_completed">ダウンロード完了</string>
     <string name="toast_fullscreen_off">全画面解除</string>
     <string name="action_view_image">画像を開く</string>
