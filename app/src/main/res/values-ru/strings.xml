@@ -27,7 +27,7 @@
     <string name="orientation_auto">Автоповорот</string>
     <string name="orientation_portrait">Портретная</string>
     <string name="orientation_landscape">Альбомная</string>
-    <string name="agent">Пользовательский агент</string>
+    <string name="agent">UserAgent</string>
     <string name="home">Домашняя страница</string>
     <string name="fullscreen">Автоскрытие панелей</string>
     <string name="java">Использовать JavaScript</string>
@@ -154,7 +154,7 @@
     <string name="data_cache">Кеш</string>
     <string name="data_form_data">Данные форм</string>
     <string name="data_history">История</string>
-    <string name="data_storage">Веб-хранилище</string>
+    <string name="data_storage">Web-хранилище</string>
     <string name="data_cookies">Cookies (статус входа)</string>
     <string name="data_cleared">Данные очищены</string>
     <string name="settings_skin">Внешний вид</string>
@@ -241,7 +241,7 @@
     <string name="title_edit_favorite">Редактирование</string>
     <string name="custom_css_special">Добавить свой CSS</string>
     <string name="force_enable_zoom">Принудительное масштабирование</string>
-    <string name="set_ua_as">Установлен пользовательский агент: %1$s</string>
+    <string name="set_ua_as">Установлен UserAgent: %1$s</string>
     <string name="import_data">Импорт данных</string>
     <string name="import_data_failed">Ошибка при импортировании данных!</string>
     <string name="import_data_succeed">Импорт данных выполнен успешно</string>
@@ -539,7 +539,7 @@
     <string name="agent_osx">macOS</string>
     <string name="toutiao_url">Toutiao</string>
     <string name="title_can_not_be_empty">Заголовок не может быть пустым</string>
-    <string name="user_agent_can_not_be_empty">Значение пользовательского агента не может быть пустым</string>
+    <string name="user_agent_can_not_be_empty">Значение UserAgent не может быть пустым</string>
     <string name="download_filter_all">Все</string>
     <string name="download_filter_others">Другие</string>
     <string name="download_filter_documents">Документы</string>
@@ -849,4 +849,10 @@
     <string name="modified_content_has_not_been_saved_message">Изменённое содержимое не сохранено. Сохранить?</string>
     <string name="operation_opensettings">Открыть настройки</string>
     <string name="enable_draggable_scrollbar">Ползунок полосы прокрутки</string>
+    <string name="file_download_completed">%1$s загружен</string>
+    <string name="file_download_failed">Ошибка при загрузке %1$s</string>
+    <string name="require_confirmation_to_enable_reader_mode">Подтверждение режима чтения</string>
+    <string name="require_confirmation_to_enable_reader_mode_description_enabled">Показывать меню при нажатии на значок режима чтения в адресной строке</string>
+    <string name="require_confirmation_to_enable_reader_mode_description_disabled">Сразу включать режим чтения при нажатии на соответствующий значок в адресной строке</string>
+    <string name="appearance">Внешний вид</string>
 </resources>
