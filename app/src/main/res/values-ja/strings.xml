@@ -52,6 +52,13 @@
     <string name="action_view_cookies">Cookieを見る</string>
     <string name="title_cookies_for_site">%1$s のCookie</string>
     <string name="message_no_cookies">Cookieがありません</string>
+
+    <!-- トップ | リーダービューモード -->  
+    <string name="show_reader">リーダービューモードで見る</string>
+    <string name="hide_reader">リーダービューモードを終了する</string>
+    <string name="reader_is_shown">リーダービューモードを有効にしました</string>
+    <string name="reader_is_hidden">リーダービューモードを終了しました</string>
+    <string name="more_options">その他のオプション</string>
     
     <!-- トップ | QRコード -->    
     <string name="scan_qr_code">QRコード（二次元バーコード）をスキャン</string>
@@ -217,6 +224,14 @@
     <string name="night_filter_for_web_contents">ウェブページへのフィルター</string>
     <string name="force_dark_mode_for_web_contents">ウェブページへのナイトモードを強制する</string>
     <string name="force_dark_mode_for_web_contents_description">強制的にウェブページにナイトモードを適用します。一部のウェブページで不具合が発生する可能性が有ります。</string>
+
+    <!-- 設定｜一般｜リーダービューモード -->
+    <string name="reader_mode">リーダービューモード</string>
+    <string name="require_confirmation_to_enable_reader_mode">リーダービューモードを開く前にメニューを表示する</string>
+    <string name="require_confirmation_to_enable_reader_mode_description_enabled">アドレスバーのアイコンをタップしたときに、リーダービューモードを起動します。</string>
+    <string name="require_confirmation_to_enable_reader_mode_description_disabled">アドレスバーのアイコンをタップしたときに、メニューを表示します。</string>
+    <string name="appearance">スタイル設定</string>
+    <string name="custom_reader_css">カスタムCSS設定</string>
     
     <!-- 設定｜一般｜ナビゲーションバーの非表示設定 -->
     <string name="fullscreen">ナビゲーションバーの非表示設定</string>
@@ -550,6 +565,25 @@
     <string name="block_hint">ブロック済み: %1$s\n再読み込みして有効化します。</string>
     <string name="unblock_hint">ブロック解除済み: %1$s\n再読み込みして有効化します。</string>
 
+    <!-- 設定｜タブ設定 -->
+    <string name="tabs">タブ</string>
+    <string name="recently_closed_tabs">最近閉じたタブ</string>
+    <string name="tab_settings">タブ設定</string>
+    <string name="show_toast_to_undo_closing_tab">タブを閉じたときに取り消すポップアップを表示する</string>
+    <string name="show_toast_to_undo_closing_tab_description">シークレットモード時には表示されません</string>
+    <string name="tab_is_closed">タブを閉じました</string>
+    <string name="action_close_all_tabs">全てのタブを閉じる</string>
+    <string name="action_close_other_tabs">他のタブを閉じる</string>
+    <string name="action_close_tabs_to_the_bottom">下のタブを閉じる</string>
+    <string name="action_close_tabs_to_the_top">上のタブを閉じる</string>
+    <string name="operation_lasttab">前のタブ</string>
+    <string name="operation_nexttab">次のタブ</string>
+
+
+    <string name="is_on">%s を有効化しました</string>
+    <string name="is_off">%s を無効化しました</string>
+    <string name="is_set">%s をセットしました</string>
+    <string name="is_required">%s が必要です</string>
     <string name="search_hint">検索</string>
     <string name="action_delete">削除</string>
     <string name="action_delete_all">全て削除</string>
@@ -577,10 +611,6 @@
     <string name="operation_openbookmark">ブックマーク</string>
     <string name="operation_openhistory">履歴</string>
     <string name="operation_closetab">タブを閉じる</string>
-    <string name="action_close_all_tabs">全てのタブを閉じる</string>
-    <string name="action_close_other_tabs">他のタブを閉じる</string>
-    <string name="operation_lasttab">前のタブ</string>
-    <string name="operation_nexttab">次のタブ</string>
     <string name="operation_goback">前に戻る</string>
     <string name="operation_goforward">次に進む</string>
     <string name="desc_suggestion">提案</string>
