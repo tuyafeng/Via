@@ -578,7 +578,7 @@
         <br /><br />
         <b><tt>@require</tt></b>: The require of the userscript. For example, <br /><tt>// @require https://my.cdn.com/jquery.js</tt>.
         <br /><br />
-        <b><tt>@run-at</tt></b>: Decide when the script will execute. <tt>document-start</tt> is used to inject scripts before the page loads, <tt>document-end</tt> is used to inject scripts after page load.
+        <b><tt>@run-at</tt></b>: Decide when the script will execute. <tt>document-start</tt> is used to inject scripts before the page loads, <tt>document-end</tt> is used to inject scripts after page load, <tt>document-idle</tt> is used to inject scripts after page is idle.
         <br /><br />
         <b><tt>@grant</tt></b>: Specify which special GM_* APIs should be granted and can be used when the script executes.<br />
         <br /><br />
@@ -860,4 +860,8 @@
     <string name="require_confirmation_to_enable_reader_mode_description_enabled">Show menu first when clicking on the address bar\'s reader mode icon</string>
     <string name="require_confirmation_to_enable_reader_mode_description_disabled">Show reader when clicking on the address bar\'s reader mode icon</string>
     <string name="appearance">Appearance</string>
+    <string name="open_app_failed">Unable to find associated app to open the link</string>
+    <string name="stop_reading_aloud">Stop reading aloud</string>
+    <string name="read_aloud_panel">Read aloud panel</string>
+    <string name="duplicate_tab">Duplicate tab</string>
 </resources>
