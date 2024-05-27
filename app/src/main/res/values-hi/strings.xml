@@ -147,7 +147,7 @@
     <string name="ui_mode">ऑपरेशन बार यूआई मोड</string>
     <string name="addon_download">डाउनलोड मेनगर</string>
     <string name="quick_back">पुनः लोड किए बिना वापस जाएं</string>
-    <string name="open_with">के साथ खोलें&#8230;</string>
+    <string name="open_with">के साथ खोलें</string>
     <string name="download_completed">डाउनलोड सम्पन्न हुआ</string>
     <string name="toast_fullscreen_off">पूर्ण स्क्रीन मोड से बाहर निकलें</string>
 

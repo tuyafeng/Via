@@ -146,7 +146,7 @@
     <string name="ui_mode">অপারেশন বার ইউআই মোড</string>
     <string name="addon_download">ডাউনলোড ম্যানেজার</string>
     <string name="quick_back">পুনরায় লোড না করে ফিরে যান</string>
-    <string name="open_with">এর সাথে খুলুন&#8230;</string>
+    <string name="open_with">এর সাথে খুলুন</string>
     <string name="download_completed">ডাউনলোড সম্পূর্ণ হয়েছে</string>
     <string name="toast_fullscreen_off">পূর্ণ-স্ক্রিন মোড থেকে প্রস্থান করুন</string>
 

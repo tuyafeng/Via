@@ -147,7 +147,7 @@
     <string name="ui_mode">Toolbar UI-tilstand</string>
     <string name="addon_download">Downloadadministrator</string>
     <string name="quick_back">Gå tilbage uden at genindlæse</string>
-    <string name="open_with">Åbn med&#8230;</string>
+    <string name="open_with">Åbn med</string>
     <string name="download_completed">Download fuldført</string>
     <string name="toast_fullscreen_off">Afslut fuldskærmstilstand</string>
     <string name="clear_data">Ryd data</string>

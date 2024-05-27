@@ -147,7 +147,7 @@
     <string name="ui_mode">Mode d\'affichage</string>
     <string name="addon_download">Gestionnaire de téléchargements</string>
     <string name="quick_back">Retour sans rechargement</string>
-    <string name="open_with">Ouvrir avec&#8230;</string>
+    <string name="open_with">Ouvrir avec</string>
     <string name="download_completed">Téléchargement terminé</string>
     <string name="toast_fullscreen_off">Mode plein écran désactivé</string>
 

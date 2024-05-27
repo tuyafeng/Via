@@ -147,7 +147,7 @@
     <string name="ui_mode">조작 바 UI 모드</string>
     <string name="addon_download">다운로드 매니저</string>
     <string name="quick_back">새로고침 없이 뒤로가기</string>
-    <string name="open_with">다음으로 열기&#8230;</string>
+    <string name="open_with">다음으로 열기</string>
     <string name="download_completed">다운로드 완료</string>
     <string name="toast_fullscreen_off">전체화면 모드 종료</string>
 

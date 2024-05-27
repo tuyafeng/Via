@@ -147,7 +147,7 @@
     <string name="ui_mode">Tampilan UI bilah alat</string> 
     <string name="addon_download">Pengelola unduhan</string> 
     <string name="quick_back">Kembali tanpa memuat ulang</string> 
-    <string name="open_with">Buka dengan&#8230;</string> 
+    <string name="open_with">Buka dengan</string>
     <string name="download_completed">Pengunduhan selesai</string> 
     <string name="toast_fullscreen_off">Keluar dari mode layar penuh</string> 
     <string name="clear_data">Hapus data</string> 
@@ -828,4 +828,30 @@
     <string name="fastforward">Percepat</string>
     <string name="rewind">Putar ulang</string>
     <string name="add_to_home_screen">Tambahkan ke layar beranda</string>
+    <string name="certificate_detail_fingerprints"><![CDATA[
+        <b>SIDIK JARI SHA-256</b><br />
+        <b>Sertifikat</b><br />
+        %1$s
+        <br /><b>Kunci Publik</b><br />
+        %2$s
+        <br />
+    ]]></string>
+    <string name="show_reader">Tampilkan pembaca</string>
+    <string name="hide_reader">Sembunyikan pembaca</string>
+    <string name="reader_is_shown">Pembaca ditampilkan</string>
+    <string name="reader_is_hidden">Pembaca disembunyikan</string>
+    <string name="custom_reader_css">CSS pembaca khusus</string>
+    <string name="reader_mode">Mode baca</string>
+    <string name="the_page_has_not_fully_loaded">Halaman belum dimuat sepenuhnya</string>
+    <string name="more_options">Opsi lanjutan</string>
+    <string name="link_too_long_to_generate_qr_code">Tautan terlalu panjang untuk menghasilkan kode QR</string>
+    <string name="view_scripts">Lihat skrip</string>
+    <string name="exit_message_if_incognito_mode_is_on">Semua tab yang terbuka akan dihapus dan tidak dapat dipulihkan, apakah Anda yakin ingin keluar dari aplikasi?</string>
+    <string name="dont_remind_me_again">Jangan ingatkan saya lagi</string>
+    <string name="cannot_work_javascript_is_blocked">Ini hanya dapat berfungsi jika JavaScript diizinkan.</string>
+    <string name="cannot_work_on_this_site">Itu tidak dapat berfungsi di situs ini.</string>
+    <string name="one_filter_per_line">Satu filter per baris.</string>
+    <string name="modified_content_has_not_been_saved_message">Konten yang dimodifikasi belum disimpan. Apakah Anda ingin menyimpannya?</string>
+    <string name="operation_opensettings">Buka pengaturan</string>
+    <string name="enable_draggable_scrollbar">Aktifkan bilah gulir yang dapat diseret</string>
 </resources>

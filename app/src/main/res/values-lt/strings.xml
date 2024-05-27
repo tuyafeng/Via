@@ -147,7 +147,7 @@
     <string name="ui_mode">UI Režimas</string>
     <string name="addon_download">Atsisiuntimų valdytojas</string>
     <string name="quick_back">Grįžti iš naujo neperkraunant puslapio</string>
-    <string name="open_with">Atidaryti su&#8230;</string>
+    <string name="open_with">Atidaryti su</string>
     <string name="download_completed">Atsisiuntimas pabaigtas</string>
     <string name="toast_fullscreen_off">Išeiti iš pilno ekrano režimo</string>
 

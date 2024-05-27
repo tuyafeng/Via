@@ -147,7 +147,7 @@
     <string name="ui_mode">Modo de interfaz de la barra de herramientas</string>
     <string name="addon_download">Administrador de descargas</string>
     <string name="quick_back">Regresar sin recargar</string>
-    <string name="open_with">Abrir con&#8230;</string>
+    <string name="open_with">Abrir con</string>
     <string name="download_completed">Descarga completada</string>
     <string name="toast_fullscreen_off">Salir del modo de pantalla completa</string>
     <string name="clear_data">Borrar datos</string>
@@ -379,8 +379,8 @@
     <string name="desc_favorite_icon">Icono de un favorito</string>
     <string name="action_save">Guardar</string>
     <string name="reset_to_default_settings">Restablecer la configuración predeterminada</string>
-    <string name="save_data">Guardar datos</string>
-    <string name="save_data_description">Activar el modo de ahorro de datos en sitios web compatibles</string>
+    <string name="save_data">Ahorrar datos</string>
+    <string name="save_data_description">Activa el modo de ahorro de datos en sitios web compatibles</string>
     <string name="action_manage_favorites">Administrador de favoritos</string>
     <string name="check_for_updates">Buscar actualizaciones</string>
     <string name="checking_for_updates">Buscando actualizaciones</string>
@@ -818,4 +818,46 @@
     <string name="tab_settings">Ajustes de pestaña</string>
     <string name="show_toast_to_undo_closing_tab">Mostrar mensaje para deshacer el cierre de la pestaña</string>
     <string name="show_toast_to_undo_closing_tab_description">El mensaje no se mostrará si el modo incógnito está activado.</string>
+    <string name="open_all">Abrir todo</string>
+    <string name="expand_web_content_automatically">Expandir automáticamente contenido de página web</string>
+    <string name="expand_web_content_automatically_description">Expande automáticamente el contenido colapsado al abrir una página web</string>
+    <string name="read_aloud">Leer en voz alta</string>
+    <string name="start_reading_aloud">Empezar a leer en voz alta</string>
+    <string name="cannot_read_this_page_aloud">No se puede leer esta página en voz alta</string>
+    <string name="tts_failed_to_initialize">No se ha podido inicializar el motor TTS</string>
+    <string name="fastforward">Avance rápido</string>
+    <string name="rewind">Rebobinar</string>
+    <string name="add_to_home_screen">Añadir a pantalla de inicio</string>
+    <string name="certificate_detail_fingerprints"><![CDATA[
+        <b>HUELLAS DIGITALES SHA-256</b><br />
+        <b>Certificado</b><br />
+        %1$s
+        <br /><b>Clave pública</b><br />
+        %2$s
+        <br />
+    ]]></string>
+    <string name="show_reader">Mostrar lector</string>
+    <string name="hide_reader">Ocultar lector</string>
+    <string name="reader_is_shown">El lector está visible</string>
+    <string name="reader_is_hidden">El lector está oculto</string>
+    <string name="custom_reader_css">CSS personalizado del lector</string>
+    <string name="reader_mode">Modo lectura</string>
+    <string name="the_page_has_not_fully_loaded">La página no se ha cargado completamente</string>
+    <string name="more_options">Más opciones</string>
+    <string name="link_too_long_to_generate_qr_code">El enlace es demasiado largo para generar un código QR</string>
+    <string name="view_scripts">Ver scripts</string>
+    <string name="exit_message_if_incognito_mode_is_on">Todas las pestañas abiertas se eliminarán y no se podrán restaurar, ¿realmente quieres salir de la aplicación?</string>
+    <string name="dont_remind_me_again">No me lo vuelvas a recordar</string>
+    <string name="cannot_work_javascript_is_blocked">Solo puede funcionar si JavaScript está permitido.</string>
+    <string name="cannot_work_on_this_site">No puede funcionar en este sitio.</string>
+    <string name="one_filter_per_line">Un filtro por línea.</string>
+    <string name="modified_content_has_not_been_saved_message">El contenido modificado no se ha guardado. ¿Quieres guardarlo?</string>
+    <string name="operation_opensettings">Abrir ajustes</string>
+    <string name="enable_draggable_scrollbar">Activar barra de desplazamiento arrastrable</string>
+    <string name="file_download_completed">%1$s descargado</string>
+    <string name="file_download_failed">Error en la descarga de %1$s</string>
+    <string name="require_confirmation_to_enable_reader_mode">Requerir confirmación para mostrar el lector</string>
+    <string name="require_confirmation_to_enable_reader_mode_description_enabled">Mostrar primero el menú al pulsar en el icono del modo lectura de la barra de direcciones</string>
+    <string name="require_confirmation_to_enable_reader_mode_description_disabled">Mostrar el lector al pulsar en el icono del modo lectura de la barra de direcciones</string>
+    <string name="appearance">Apariencia</string>
 </resources>

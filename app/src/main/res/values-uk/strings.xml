@@ -147,7 +147,7 @@
   <string name="ui_mode">Вигляд інтерфейсу</string>
   <string name="addon_download">Менеджер завантажень</string>
   <string name="quick_back">Повернення назад без перезавантаження сторінки</string>
-  <string name="open_with">Відкрити в…</string>
+  <string name="open_with">Відкрити в</string>
   <string name="download_completed">Завантаження завершено</string>
   <string name="toast_fullscreen_off">Вихід з повноекранного режиму</string>
   <string name="clear_data">Очистити дані</string>

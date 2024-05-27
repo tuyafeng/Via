@@ -147,7 +147,7 @@
     <string name="ui_mode">Giao diện</string>
     <string name="addon_download">Quản lý tải xuống</string>
     <string name="quick_back">Quay lại không cần tải lại</string>
-    <string name="open_with">Mở bằng&#8230;</string>
+    <string name="open_with">Mở bằng</string>
     <string name="download_completed">Hoàn tất tải xuống</string>
     <string name="toast_fullscreen_off">Thoát khỏi chế độ toàn màn hình</string>
     <string name="clear_data">Xóa dữ liệu</string>

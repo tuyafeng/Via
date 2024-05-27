@@ -148,7 +148,7 @@
     <string name="ui_mode">கருவிப்பட்டி UI பயன்முறை</string>
     <string name="addon_download">பதிவிறக்க மேலாளர்</string>
     <string name="quick_back">மீண்டும் ஏற்றாமல் திரும்பிச் செல்லுங்கள்</string>
-    <string name="open_with">உடன் திறக்கவும்&#8230;</string>
+    <string name="open_with">உடன் திறக்கவும்</string>
     <string name="download_completed">பதிவிறக்கம் முடிந்தது</string>
     <string name="toast_fullscreen_off">முழுத்திரை பயன்முறையிலிருந்து வெளியேறவும்</string>
 
