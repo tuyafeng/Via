@@ -147,7 +147,7 @@
     <string name="ui_mode">工具列介面模式</string>
     <string name="addon_download">下載管理</string>
     <string name="quick_back">返回不重載</string>
-    <string name="open_with">開啟方式</string>
+    <string name="open_with">其它應用開啟</string>
     <string name="download_completed">下載已完成</string>
     <string name="toast_fullscreen_off">關閉全螢幕模式</string>
     <string name="clear_data">清除資料</string>
@@ -567,7 +567,7 @@
         <br /><br />
         <b><tt>@require</tt></b>：指令碼的前置依賴，例如： <br /><tt>// @require https://my.cdn.com/jquery.js</tt>。
         <br /><br />
-        <b><tt>@run-at</tt></b>：指令碼的執行時機。 <tt>document-start</tt> 用於在頁面載入前注入指令碼， <tt>document-end</tt> 用於在頁面載入完成後注入指令碼。
+        <b><tt>@run-at</tt></b>：指令碼的執行時機。 <tt>document-start</tt> 用於在頁面 DOM 載入前注入指令碼， <tt>document-end</tt> 用於在頁面 DOM 載入完成後注入指令碼， <tt>document-idle</tt> 用於在頁面空閒後注入指令碼。
         <br /><br />
         <b><tt>@grant</tt></b>：定義指令碼所使用和應被授權的特殊 GM_* API。<br />
         <br /><br />
@@ -842,4 +842,14 @@
     <string name="modified_content_has_not_been_saved_message">修改的內容未儲存，是否儲存？</string>
     <string name="operation_opensettings">開啟設定</string>
     <string name="enable_draggable_scrollbar">啟用可拖動的捲軸</string>
+    <string name="file_download_completed">%1$s 已下載</string>
+    <string name="file_download_failed">下載 %1$s 失敗</string>
+    <string name="require_confirmation_to_enable_reader_mode">開啟閱讀模式需要二次確認</string>
+    <string name="require_confirmation_to_enable_reader_mode_description_enabled">當按下位址列閱讀模式圖示時，先展示選單</string>
+    <string name="require_confirmation_to_enable_reader_mode_description_disabled">當按下位址列閱讀模式圖示時，開啟閱讀模式</string>
+    <string name="appearance">外觀</string>
+    <string name="open_app_failed">無關聯的應用程式來開啟連結</string>
+    <string name="stop_reading_aloud">停止朗讀</string>
+    <string name="read_aloud_panel">朗讀面板</string>
+    <string name="duplicate_tab">複製分頁</string>
 </resources>
