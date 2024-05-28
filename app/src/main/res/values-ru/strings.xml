@@ -855,4 +855,8 @@
     <string name="require_confirmation_to_enable_reader_mode_description_enabled">Показывать меню при нажатии на значок режима чтения в адресной строке</string>
     <string name="require_confirmation_to_enable_reader_mode_description_disabled">Сразу включать режим чтения при нажатии на соответствующий значок в адресной строке</string>
     <string name="appearance">Внешний вид</string>
+    <string name="open_app_failed">Не найдено соответствующее приложение, чтобы открыть ссылку</string>
+    <string name="stop_reading_aloud">Прекратить чтение вслух</string>
+    <string name="read_aloud_panel">Панель чтения вслух</string>
+    <string name="duplicate_tab">Дублировать вкладку</string>
 </resources>
