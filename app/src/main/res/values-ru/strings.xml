@@ -573,7 +573,7 @@
         <br /><br />
         <b><tt>@require</tt></b>: зависимости пользовательского скрипта. Например, <br /><tt>// @require https://my.cdn.com/jquery.js</tt>.
         <br /><br />
-        <b><tt>@run-at</tt></b>: определяет момент запуска скрипта. <tt>document-start</tt> используется для встраивания скриптов перед загрузкой страницы, <tt>document-end</tt> используется для встраивания скриптов после загрузки страницы.
+        <b><tt>@run-at</tt></b>: определяет момент запуска скрипта. <tt>document-start</tt> используется для встраивания скриптов перед загрузкой страницы, <tt>document-end</tt> используется для встраивания скриптов после загрузки страницы, <tt>document-idle</tt> используется для встраивания скриптов при простое страницы.
         <br /><br />
         <b><tt>@grant</tt></b>: определяет, какие специальные API GM_* должны быть предоставлены и могут быть использованы при выполнении скрипта.<br />
         <br /><br />
@@ -855,4 +855,8 @@
     <string name="require_confirmation_to_enable_reader_mode_description_enabled">Показывать меню при нажатии на значок режима чтения в адресной строке</string>
     <string name="require_confirmation_to_enable_reader_mode_description_disabled">Сразу включать режим чтения при нажатии на соответствующий значок в адресной строке</string>
     <string name="appearance">Внешний вид</string>
+    <string name="open_app_failed">Не найдено соответствующее приложение, чтобы открыть ссылку</string>
+    <string name="stop_reading_aloud">Прекратить чтение вслух</string>
+    <string name="read_aloud_panel">Панель чтения вслух</string>
+    <string name="duplicate_tab">Дублировать вкладку</string>
 </resources>
