@@ -379,8 +379,8 @@
     <string name="desc_favorite_icon">Ikon favorit</string>
     <string name="action_save">Simpan</string>
     <string name="reset_to_default_settings">Atur ulang ke pengaturan default</string> 
-    <string name="save_data">Save data</string>
-    <string name="save_data_description">Aktifkan mode save data di situs web yang kompatibel</string> 
+    <string name="save_data">Hemat data</string>
+    <string name="save_data_description">Aktifkan mode hemat data di situs web jika memungkinkan</string> 
     <string name="action_manage_favorites">Pengelola favorit</string>
     <string name="check_for_updates">Periksa pembaruan</string> 
     <string name="checking_for_updates">Memeriksa pembaruan</string> 
