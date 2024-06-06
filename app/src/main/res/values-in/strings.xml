@@ -31,7 +31,7 @@
     <string name="home">Beranda</string> 
     <string name="fullscreen">Sembunyikan bilah alat secara otomatis</string> 
     <string name="java">Aktifkan JavaScript</string> 
-    <string name="download">Unduh lokasi</string> 
+    <string name="download">Lokasi unduhan</string> 
     <string name="size">Ukuran teks</string> 
     <string name="search">Mesin pencari</string> 
     <string name="search_hint">Cari</string> 
@@ -286,9 +286,9 @@
     <string name="filter_subscriptions">Filter langganan</string> 
     <string name="filter_subscriptions_description">Berlangganan daftar filter Adblock Plus</string> 
     <string name="filter_subscription_exist">Filter langganan sudah ada.</string> 
-    <string name="custom_filters">Filter kostum</string> 
-    <string name="custom_filters_description">Termasuk filter kustom dan iklan yang ditandai</string> 
-    <string name="custom_filter">Filter kostum</string> 
+    <string name="custom_filters">Filter khusus</string> 
+    <string name="custom_filters_description">Termasuk filter khusus dan iklan yang ditandai</string> 
+    <string name="custom_filter">Filter khusus</string> 
     <string name="add_filter_subscription">Tambah filter langganan</string> 
     <string name="edit_filter_subscription">Edit filter langganan</string> 
     <string name="update_filter_subscriptions_completed">Pembaruan filter langganan selesai.</string>
