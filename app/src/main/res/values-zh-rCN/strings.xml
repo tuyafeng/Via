@@ -853,4 +853,20 @@
     <string name="stop_reading_aloud">停止朗读</string>
     <string name="read_aloud_panel">朗读面板</string>
     <string name="duplicate_tab">复制标签页</string>
+    <string name="clear_search_history">清除搜索历史</string>
+    <string name="clear_search_history_message">你确认清除搜索历史吗？</string>
+    <string name="open">打开</string>
+    <string name="mark_as_ad_guide">请点击广告区域来标记</string>
+    <string name="log_out_webdav">退出登录</string>
+    <string name="run_at">运行时机</string>
+    <string name="matches">匹配</string>
+    <string name="match">匹配</string>
+    <string name="add_match">添加匹配</string>
+    <string name="excludes">排除</string>
+    <string name="exclude">排除</string>
+    <string name="add_exclude">添加排除</string>
+    <string name="edit_source_code">编辑源代码</string>
+    <string name="reset_script_message">你确认重置脚本吗？</string>
+    <string name="exclude_domain">排除 %1$s</string>
+    <string name="exclude_domain_from_script_toast">脚本 %1$s 将不会运行在 %2$s 上。</string>
 </resources>
