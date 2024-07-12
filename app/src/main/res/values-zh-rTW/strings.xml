@@ -852,4 +852,20 @@
     <string name="stop_reading_aloud">停止朗讀</string>
     <string name="read_aloud_panel">朗讀面板</string>
     <string name="duplicate_tab">複製分頁</string>
+    <string name="clear_search_history">清除搜尋歷史</string>
+    <string name="clear_search_history_message">你確認清除搜尋歷史嗎？</string>
+    <string name="open">開啟</string>
+    <string name="mark_as_ad_guide">請按下廣告區域來標記</string>
+    <string name="log_out_webdav">退出登入</string>
+    <string name="run_at">執行時機</string>
+    <string name="matches">匹配</string>
+    <string name="match">匹配</string>
+    <string name="add_match">新增匹配</string>
+    <string name="excludes">排除</string>
+    <string name="exclude">排除</string>
+    <string name="add_exclude">新增排除</string>
+    <string name="edit_source_code">編輯原始碼</string>
+    <string name="reset_script_message">你確認重置指令碼嗎？</string>
+    <string name="exclude_domain">排除 %1$s</string>
+    <string name="exclude_domain_from_script_toast">指令碼 %1$s 將不會執行在 %2$s 上。</string>
 </resources>
