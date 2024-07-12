@@ -573,7 +573,7 @@
         <br /><br />
         <b><tt>@require</tt></b>: зависимости пользовательского скрипта. Например, <br /><tt>// @require https://my.cdn.com/jquery.js</tt>.
         <br /><br />
-        <b><tt>@run-at</tt></b>: определяет момент запуска скрипта. <tt>document-start</tt> используется для встраивания скриптов перед загрузкой страницы, <tt>document-end</tt> используется для встраивания скриптов после загрузки страницы.
+        <b><tt>@run-at</tt></b>: определяет момент запуска скрипта. <tt>document-start</tt> используется для встраивания скриптов перед загрузкой страницы, <tt>document-end</tt> используется для встраивания скриптов после загрузки страницы, <tt>document-idle</tt> используется для встраивания скриптов при простое страницы.
         <br /><br />
         <b><tt>@grant</tt></b>: определяет, какие специальные API GM_* должны быть предоставлены и могут быть использованы при выполнении скрипта.<br />
         <br /><br />
@@ -855,4 +855,24 @@
     <string name="require_confirmation_to_enable_reader_mode_description_enabled">Показывать меню при нажатии на значок режима чтения в адресной строке</string>
     <string name="require_confirmation_to_enable_reader_mode_description_disabled">Сразу включать режим чтения при нажатии на соответствующий значок в адресной строке</string>
     <string name="appearance">Внешний вид</string>
+    <string name="open_app_failed">Не найдено соответствующее приложение, чтобы открыть ссылку</string>
+    <string name="stop_reading_aloud">Прекратить чтение вслух</string>
+    <string name="read_aloud_panel">Панель чтения вслух</string>
+    <string name="duplicate_tab">Дублировать вкладку</string>
+    <string name="clear_search_history">Очистить историю поиска</string>
+    <string name="clear_search_history_message">Очистить историю поисковых запросов?</string>
+    <string name="open">Открыть</string>
+    <string name="mark_as_ad_guide">Нажмите на область объявления, чтобы пометить его</string>
+    <string name="log_out_webdav">Выйти</string>
+    <string name="run_at">Запуск в</string>
+    <string name="matches">Совпадения</string>
+    <string name="match">Совпадение</string>
+    <string name="add_match">Добавить совпадение</string>
+    <string name="excludes">Исключения</string>
+    <string name="exclude">Исключение</string>
+    <string name="add_exclude">Добавить исключение</string>
+    <string name="edit_source_code">Изменить исходный код</string>
+    <string name="reset_script_message">Выполнить сброс скрипта?</string>
+    <string name="exclude_domain">Исключить %1$s</string>
+    <string name="exclude_domain_from_script_toast">Скрипт %1$s не будет выполняться на %2$s.</string>
 </resources>
