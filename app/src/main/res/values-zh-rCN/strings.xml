@@ -869,4 +869,11 @@
     <string name="reset_script_message">你确认重置脚本吗？</string>
     <string name="exclude_domain">排除 %1$s</string>
     <string name="exclude_domain_from_script_toast">脚本 %1$s 将不会运行在 %2$s 上。</string>
+    <string name="search_history">搜索历史</string>
+    <string name="metaso_url">秘塔 AI</string>
+    <string name="search_settings">搜索设置</string>
+    <string name="search_engines">搜索引擎</string>
+    <string name="search_toolbar">搜索工具栏</string>
+    <string name="enable_search_toobar">启用搜索工具栏</string>
+    <string name="invalid_url">无效链接</string>
 </resources>

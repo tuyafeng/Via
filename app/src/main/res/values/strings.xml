@@ -880,4 +880,11 @@
     <string name="reset_script_message">Are you sure you want to reset this script?</string>
     <string name="exclude_domain">Exclude %1$s</string>
     <string name="exclude_domain_from_script_toast">Script %1$s will not run on %2$s.</string>
+    <string name="search_history">Search history</string>
+    <string name="metaso_url">Metaso</string>
+    <string name="search_settings">Search settings</string>
+    <string name="search_engines">Search engines</string>
+    <string name="search_toolbar">Search toolbar</string>
+    <string name="enable_search_toobar">Enable search toolbar</string>
+    <string name="invalid_url">Invalid URL</string>
 </resources>
