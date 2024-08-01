@@ -578,7 +578,7 @@
         <br /><br />
         <b><tt>@require</tt></b>: El requerimiento del userscript. Por ejemplo, <br /><tt>// @require https://my.cdn.com/jquery.js</tt>.
         <br /><br />
-        <b><tt>@run-at</tt></b>: Decide cuándo se ejecutará el script. <tt>document-start</tt> se utiliza para inyectar scripts antes de que se cargue la página, <tt>document-end</tt> se utiliza para inyectar scripts después de que se cargue la página.
+        <b><tt>@run-at</tt></b>: Decide cuándo se ejecutará el script. <tt>document-start</tt> se utiliza para inyectar scripts antes de que se cargue la página, <tt>document-end</tt> se utiliza para inyectar scripts después de que se cargue la página, <tt>document-idle</tt> se utiliza para inyectar scripts después de que la página esté inactiva.
         <br /><br />
         <b><tt>@grant</tt></b>: Especifica qué APIs GM_* especiales deben concederse y pueden utilizarse cuando se ejecuta el script.<br />
         <br /><br />
@@ -860,4 +860,31 @@
     <string name="require_confirmation_to_enable_reader_mode_description_enabled">Mostrar primero el menú al pulsar en el icono del modo lectura de la barra de direcciones</string>
     <string name="require_confirmation_to_enable_reader_mode_description_disabled">Mostrar el lector al pulsar en el icono del modo lectura de la barra de direcciones</string>
     <string name="appearance">Apariencia</string>
+    <string name="open_app_failed">No se puede encontrar la app asociada para abrir el enlace</string>
+    <string name="stop_reading_aloud">Dejar de leer en voz alta</string>
+    <string name="read_aloud_panel">Panel de lectura en voz alta</string>
+    <string name="duplicate_tab">Duplicar pestaña</string>
+    <string name="clear_search_history">Borrar historial de búsqueda</string>
+    <string name="clear_search_history_message">¿Realmente quieres borrar el historial de búsqueda?</string>
+    <string name="open">Abrir</string>
+    <string name="mark_as_ad_guide">Pulsa en el área del anuncio para marcarlo</string>
+    <string name="log_out_webdav">Cerrar sesión</string>
+    <string name="run_at">Ejecutar en</string>
+    <string name="matches">Coincidencias</string>
+    <string name="match">Coincidencia</string>
+    <string name="add_match">Añadir coincidencia</string>
+    <string name="excludes">Exclusiones</string>
+    <string name="exclude">Exclusión</string>
+    <string name="add_exclude">Añadir exclusión</string>
+    <string name="edit_source_code">Editar código fuente</string>
+    <string name="reset_script_message">¿Realmente quieres reiniciar este script?</string>
+    <string name="exclude_domain">Excluir %1$s</string>
+    <string name="exclude_domain_from_script_toast">El script %1$s no se ejecutará en %2$s.</string>
+    <string name="search_history">Historial de búsqueda</string>
+    <string name="metaso_url">Metaso</string>
+    <string name="search_settings">Ajustes de búsqueda</string>
+    <string name="search_engines">Motores de búsqueda</string>
+    <string name="search_toolbar">Barra de búsqueda</string>
+    <string name="enable_search_toobar">Activar barra de búsqueda</string>
+    <string name="invalid_url">URL no válida</string>
 </resources>
