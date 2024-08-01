@@ -868,4 +868,11 @@
     <string name="reset_script_message">你確認重置指令碼嗎？</string>
     <string name="exclude_domain">排除 %1$s</string>
     <string name="exclude_domain_from_script_toast">指令碼 %1$s 將不會執行在 %2$s 上。</string>
+    <string name="search_history">搜尋歷史</string>
+    <string name="metaso_url">秘塔 AI</string>
+    <string name="search_settings">搜尋設定</string>
+    <string name="search_engines">搜尋引擎</string>
+    <string name="search_toolbar">搜尋工具列</string>
+    <string name="enable_search_toobar">啟用搜尋工具列</string>
+    <string name="invalid_url">無效連結</string>
 </resources>
