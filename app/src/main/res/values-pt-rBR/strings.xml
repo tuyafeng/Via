@@ -820,7 +820,7 @@
     <string name="expand_web_content_automatically">Expandir conteúdo da página web automaticamente</string>
     <string name="expand_web_content_automatically_description">Expandir conteúdo recolhido automaticamente ao abrir uma página da web</string>
     <string name="read_aloud">Ler em voz alta</string>
-    <string name="start_reading_aloud">Começar a leitura em voz alta</string>
+    <string name="start_reading_aloud">Leitura em voz alta começou</string>
     <string name="cannot_read_this_page_aloud">Não foi possível ler esta página em voz alta</string>
     <string name="tts_failed_to_initialize">O mecanismo de TTS não pôde ser inicializado</string>
     <string name="fastforward">Acelerar</string>
@@ -858,4 +858,24 @@
     <string name="require_confirmation_to_enable_reader_mode_description_enabled">Mostrar primeiro o menu ao clicar no ícone do modo leitor na barra de endereços</string>
     <string name="require_confirmation_to_enable_reader_mode_description_disabled">Mostrar leitor ao clicar no ícone do modo leitor na barra de endereços</string>
     <string name="appearance">Aparência</string>
+    <string name="open_app_failed">Não foi possível encontrar o app associado para abrir o link</string>
+    <string name="stop_reading_aloud">Parar leitura em voz alta</string>
+    <string name="read_aloud_panel">Ler página em voz alta</string>
+    <string name="duplicate_tab">Duplicar aba</string>
+    <string name="clear_search_history">Limpar histórico de pesquisa</string>
+    <string name="clear_search_history_message">Tem certeza de que deseja limpar o histórico de pesquisa?</string>
+    <string name="open">Abrir</string>
+    <string name="mark_as_ad_guide">Por favor, clique na área do anúncio para marcá-lo</string>
+    <string name="log_out_webdav">Encerrar sessão</string>
+    <string name="run_at">Executar em</string>
+    <string name="matches">Correspondências</string>
+    <string name="match">Correspondência</string>
+    <string name="add_match">Adicionar correspondência</string>
+    <string name="excludes">Exclusões</string>
+    <string name="exclude">Exclusão</string>
+    <string name="add_exclude">Adicionar exclusão</string>
+    <string name="edit_source_code">Editar código-fonte</string>
+    <string name="reset_script_message">Tem certeza de que deseja redefinir este script?</string>
+    <string name="exclude_domain">Excluir %1$s</string>
+    <string name="exclude_domain_from_script_toast">O script %1$s não será executado em %2$s.</string>
 </resources>
