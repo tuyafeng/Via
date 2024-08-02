@@ -61,7 +61,7 @@
     <string name="baidu_url">Baidu</string>
     <string name="shenma_url">ShenMa</string>
     <string name="bing_url">Bing</string>
-    <string name="haosou_url">360 Search</string>
+    <string name="haosou_url">Tìm kiếm 360</string>
     <string name="duckduckgo_url">DuckDuckGo</string>
     <string name="startpage_url">Trang Bắt Đầu</string>
     <string name="yahoo_url">Yahoo</string>
@@ -566,7 +566,7 @@
         <br /><br />
         <b><tt>@require</tt></b>: The require of the userscript. For example, <br /><tt>// @require https://my.cdn.com/jquery.js</tt>.
         <br /><br />
-        <b><tt>@run-at</tt></b>: Decide when the script will execute. <tt>document-start</tt> is used to inject scripts before the page loads, <tt>document-end</tt> is used to inject scripts after page load.
+        <b><tt>@run-at</tt></b>: Decide when the script will execute. <tt>document-start</tt> is used to inject scripts before the page loads, <tt>document-end</tt> is used to inject scripts after page load, <tt>document-idle</tt> is used to inject scripts after page is idle.
         <br /><br />
         <b><tt>@grant</tt></b>: Specify which special GM_* APIs should be granted and can be used when the script executes.<br />
         <br /><br />
@@ -805,5 +805,73 @@
     <string name="tabs">Thẻ</string>
     <string name="tab_settings">Cài đặt thẻ</string>
     <string name="show_toast_to_undo_closing_tab">Hiển thị thông báo nhanh để hoàn tác việc đóng thẻ</string>
-    <string name="show_toast_to_undo_closing_tab_description">Thông báo nhanh không hiển thị nếu chế độ ẩn danh bật.</string>
+    <string name="show_toast_to_undo_closing_tab_description">Thông báo nhanh không hiển thị nếu chế độ ẩn danh bật</string>
+    <string name="open_all">Mở tất cả</string>
+    <string name="expand_web_content_automatically">Tự động mở rộng nội dung trang web</string>
+    <string name="expand_web_content_automatically_description">Tự động mở rộng nội dung được thu gọn khi mở trang web</string>
+    <string name="read_aloud">Đọc to</string>
+    <string name="start_reading_aloud">Bắt đầu đọc to</string>
+    <string name="cannot_read_this_page_aloud">Không thể đọc to trang này</string>
+    <string name="tts_failed_to_initialize">Không thể khởi tạo công cụ TTS</string>
+    <string name="fastforward">Nhanh về phía trước</string>
+    <string name="rewind">Tua lại</string>
+    <string name="add_to_home_screen">Thêm vào màn hình chính</string>
+    <string name="certificate_detail_fingerprints"><![CDATA[        <b>SHA-256 FINGERPRINTS</b><br />
+        <b>Certificate</b><br />
+        %1$s
+        <br /><b>Public Key</b><br />
+        %2$s
+        <br />
+    ]]></string>
+    <string name="show_reader">Hiển thị trình đọc</string>
+    <string name="hide_reader">Ẩn trình đọc</string>
+    <string name="reader_is_shown">Trình đọc được hiển thị</string>
+    <string name="reader_is_hidden">Trình đọc đã ẩn</string>
+    <string name="custom_reader_css">Tùy chỉnh trình đọc CSS</string>
+    <string name="reader_mode">Chế độ đọc</string>
+    <string name="the_page_has_not_fully_loaded">Trang chưa được tải đầy đủ</string>
+    <string name="more_options">Tuỳ chọn khác</string>
+    <string name="link_too_long_to_generate_qr_code">Liên kết quá dài để tạo mã QR</string>
+    <string name="view_scripts">Xem tập lệnh</string>
+    <string name="exit_message_if_incognito_mode_is_on">Tất cả các tab đang mở sẽ bị xóa và không thể khôi phục lại, bạn có chắc chắn muốn thoát khỏi ứng dụng không?</string>
+    <string name="dont_remind_me_again">Đừng nhắc nữa</string>
+    <string name="cannot_work_javascript_is_blocked">Nó chỉ có thể hoạt động nếu JavaScript được cho phép.</string>
+    <string name="cannot_work_on_this_site">Nó không thể hoạt động trên trang web này.</string>
+    <string name="one_filter_per_line">Một bộ lọc trên mỗi dòng.</string>
+    <string name="modified_content_has_not_been_saved_message">Nội dung sửa đổi chưa được lưu. Bạn có muốn lưu nó không?</string>
+    <string name="operation_opensettings">Mở cài đặt</string>
+    <string name="enable_draggable_scrollbar">Bật thanh cuộn có thể kéo</string>
+    <string name="file_download_completed">đã tải %1$s</string>
+    <string name="file_download_failed">Tải xuống %1$s không thành công</string>
+    <string name="require_confirmation_to_enable_reader_mode">Yêu cầu xác nhận để hiển thị cho người đọc</string>
+    <string name="require_confirmation_to_enable_reader_mode_description_enabled">Hiển thị menu đầu tiên khi nhấp vào biểu tượng chế độ đọc của thanh địa chỉ</string>
+    <string name="require_confirmation_to_enable_reader_mode_description_disabled">Hiển thị trình đọc khi nhấp vào biểu tượng chế độ trình đọc của thanh địa chỉ</string>
+    <string name="appearance">Giao diện</string>
+    <string name="open_app_failed">Không thể tìm thấy ứng dụng liên quan để mở liên kết</string>
+    <string name="stop_reading_aloud">Ngừng đọc to</string>
+    <string name="read_aloud_panel">Bảng đọc to</string>
+    <string name="duplicate_tab">Thêm thẻ tương tự</string>
+    <string name="clear_search_history">Xóa lịch sử tìm kiếm</string>
+    <string name="clear_search_history_message">Bạn có chắc chắn muốn xóa lịch sử tìm kiếm không?</string>
+    <string name="open">Mở</string>
+    <string name="mark_as_ad_guide">Vui lòng nhấp vào khu vực quảng cáo để đánh dấu nó</string>
+    <string name="log_out_webdav">Đăng xuất</string>
+    <string name="run_at">Chạy tại</string>
+    <string name="matches">Phù Hợp</string>
+    <string name="match">Phù hợp</string>
+    <string name="add_match">Thêm phù hợp</string>
+    <string name="excludes">Loại trừ</string>
+    <string name="exclude">Loại trừ</string>
+    <string name="add_exclude">Thêm loại trừ</string>
+    <string name="edit_source_code">Chỉnh sửa mã nguồn</string>
+    <string name="reset_script_message">Bạn có chắc chắn muốn đặt lại tập lệnh này không?</string>
+    <string name="exclude_domain">Loại trừ %1$s</string>
+    <string name="exclude_domain_from_script_toast">Tập lệnh %1$s sẽ không chạy trên %2$s.</string>
+    <string name="search_history">Lịch sử tìm kiếm</string>
+    <string name="metaso_url">Metaso</string>
+    <string name="search_settings">Cài đặt tìm kiếm</string>
+    <string name="search_engines">Máy tìm kiếm</string>
+    <string name="search_toolbar">Thanh công cụ tìm kiếm</string>
+    <string name="enable_search_toobar">Bật thanh công cụ tìm kiếm</string>
+    <string name="invalid_url">URL không hợp lệ</string>
 </resources>
