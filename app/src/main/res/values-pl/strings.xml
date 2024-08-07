@@ -848,7 +848,7 @@
     <string name="tts_failed_to_initialize">Nie można zainicjować silnika TTS</string>
     <string name="fastforward">Przewiń (+)</string>
     <string name="rewind">Przewiń (-)</string>
-    <string name="add_to_home_screen">Dodaj do ekranu głównego</string>
+    <string name="add_to_home_screen">Dodaj do ekr. głównego</string>
     <string name="certificate_detail_fingerprints"><![CDATA[
         <b>ODCISKI SHA-256</b><br />
         <b>Certyfikat</b><br />
@@ -881,4 +881,31 @@
     <string name="require_confirmation_to_enable_reader_mode_description_enabled">Przed włączeniem trybu czytnika w pasku adresu najpierw pokazuj menu.</string>
     <string name="require_confirmation_to_enable_reader_mode_description_disabled">Po kliknięciu opcji w pasku adresu przechodź od razu do trybu czytnika.</string>
     <string name="appearance">Wygląd</string>
+    <string name="open_app_failed">Nie udało mi się znaleźć aplikacji do otworzenia tego linku</string>
+    <string name="stop_reading_aloud">Przestań czytać na głos</string>
+    <string name="read_aloud_panel">Panel czytania na głos</string>
+    <string name="duplicate_tab">Skopiuj kartę</string>
+    <string name="clear_search_history">Wyczyść historię wyszukiwania</string>
+    <string name="clear_search_history_message">Wyczyścić historię wyszukiwania?</string>
+    <string name="open">Otwórz</string>
+    <string name="mark_as_ad_guide">Kliknij w reklamę, aby ją oznaczyć</string>
+    <string name="log_out_webdav">Wyloguj się</string>
+    <string name="run_at">Moment uruchomienia</string>
+    <string name="matches">Dopasowania</string>
+    <string name="match">Dopasowanie</string>
+    <string name="add_match">Dodaj dopasowanie</string>
+    <string name="excludes">Wykluczenia</string>
+    <string name="exclude">Wykluczenie</string>
+    <string name="add_exclude">Dodaj wykluczenie</string>
+    <string name="edit_source_code">Edytuj kod źródłowy</string>
+    <string name="reset_script_message">Zresetować ten skrypt?</string>
+    <string name="exclude_domain">Wyklucz %1$s</string>
+    <string name="exclude_domain_from_script_toast">Skrypt %1$s nie będzie działał na %2$s.</string>
+    <string name="search_history">Historia wyszukiwania</string>
+    <string name="metaso_url">Metaso</string>
+    <string name="search_settings">Ustawienia wyszukiwania</string>
+    <string name="search_engines">Wyszukiwarki</string>
+    <string name="search_toolbar">Pasek wyszukiwarki</string>
+    <string name="enable_search_toobar">Włącz pasek wyszukiwarki</string>
+    <string name="invalid_url">Nieprawidłowy adres</string>
 </resources>
