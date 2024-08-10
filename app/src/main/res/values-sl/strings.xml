@@ -865,4 +865,27 @@
     <string name="stop_reading_aloud">Prenehaj brati na glas</string>
     <string name="read_aloud_panel">Plošča za branje na glas</string>
     <string name="duplicate_tab">Podvoji zavihek</string>
+	<string name="clear_search_history">Počisti zgodovino iskanja</string>
+    <string name="clear_search_history_message">Ste prepričani, da želite počistiti zgodovino iskanja?</string>
+    <string name="open">Odpri</string>
+    <string name="mark_as_ad_guide">Prosim pritisnite na območje oglasa, da ga označite</string>
+    <string name="log_out_webdav">Odjava</string>
+    <string name="run_at">Zaženi</string>
+    <string name="matches">Ujemanja</string>
+    <string name="match">Ujemanje</string>
+    <string name="add_match">Dodaj ujemanje</string>
+    <string name="excludes">Izključitve</string>
+    <string name="exclude">Izključi</string>
+    <string name="add_exclude">Dodaj izključitev</string>
+    <string name="edit_source_code">Uredi izvorno kodo</string>
+    <string name="reset_script_message">Ste prepričani, da želite ponastaviti skript?</string>
+    <string name="exclude_domain">Izključuje %1$s</string>
+    <string name="exclude_domain_from_script_toast">Skript %1$s ne bo deloval na %2$s.</string>
+    <string name="search_history">Zgodovina iskanja</string>
+    <string name="metaso_url">Metaso</string>
+    <string name="search_settings">Nastavitve iskanja</string>
+    <string name="search_engines">Iskalniki</string>
+    <string name="search_toolbar">Orodna vrstica za iskanje</string>
+    <string name="enable_search_toobar">Vklopi orodno vrstico za iskanje</string>
+    <string name="invalid_url">Neveljaven URL</string>
 </resources>
