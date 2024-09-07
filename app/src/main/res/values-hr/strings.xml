@@ -147,7 +147,7 @@
     <string name="ui_mode">Operation Bar UI Način</string>
     <string name="addon_download">Upravitelj Preuzimanja</string>
     <string name="quick_back">Vrati se nazad bez osvježavanja</string>
-    <string name="open_with">Otvori sa&#8230;</string>
+    <string name="open_with">Otvori sa</string>
     <string name="download_completed">Preuzimanje završeno</string>
     <string name="toast_fullscreen_off">Iziđi iz Full-screen načina</string>
 

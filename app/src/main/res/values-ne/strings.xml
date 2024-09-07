@@ -143,7 +143,7 @@
     <string name="ui_mode">उपकरण पट्टी UI मोड</string>
     <string name="addon_download">डाउनलोड प्रबन्धक</string>
     <string name="quick_back">पुन: लोड नगरी पछाडि जानुहोस्</string>
-    <string name="open_with">यससँग खोल्नुहोस्…</string>
+    <string name="open_with">यससँग खोल्नुहोस्</string>
     <string name="download_completed">डाउनलोड सम्पन्न भयो</string>
     <string name="toast_fullscreen_off">पूर्ण-स्क्रीन मोडबाट बाहिर निस्कनुहोस्</string>
     <string name="clear_data">डाटा खाली गर्नुहोस्</string>

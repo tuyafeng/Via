@@ -148,7 +148,7 @@
     <string name="ui_mode">Toolbar UI mode</string>
     <string name="addon_download">Download manager</string>
     <string name="quick_back">Bumalik kahit hindi ireload</string>
-    <string name="open_with">I-open sa&#8230;</string>
+    <string name="open_with">I-open sa</string>
     <string name="download_completed">Kumpletong nadownload</string>
     <string name="toast_fullscreen_off">I-exit ang full-screen mode</string>
 

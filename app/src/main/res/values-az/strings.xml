@@ -147,7 +147,7 @@
     <string name="ui_mode">Alətlər simvolu UI rejimi</string>
     <string name="addon_download">Yükləmə köməkçisi</string>
     <string name="quick_back">Yenidən yükləmədən geri qayıt</string>
-    <string name="open_with">İlə aç…;</string>
+    <string name="open_with">İlə aç;</string>
     <string name="download_completed">Yükləmə bitdi</string>
     <string name="toast_fullscreen_off">Tam ekran rejimindən çıx</string>
     <string name="clear_data">Məlumatı təmizlə</string>

@@ -148,7 +148,7 @@
     <string name="ui_mode">Toolbar-UI-Modus</string>
     <string name="addon_download">Download-Manager</string>
     <string name="quick_back">Zurück, ohne die Seite erneut zu laden</string>
-    <string name="open_with">Öffnen mit&#8230;</string>
+    <string name="open_with">Öffnen mit</string>
     <string name="download_completed">Download abgeschlossen</string>
     <string name="toast_fullscreen_off">Vollbildmodus beendet</string>
     

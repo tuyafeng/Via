@@ -147,7 +147,7 @@
     <string name="ui_mode">Toolbar UI mode</string>
     <string name="addon_download">Download manager</string>
     <string name="quick_back">Go back without reloading</string>
-    <string name="open_with">Open with&#8230;</string>
+    <string name="open_with">Open with</string>
     <string name="download_completed">Download completed</string>
     <string name="toast_fullscreen_off">Exit full-screen mode</string>
     <string name="clear_data">Clear data</string>
@@ -578,7 +578,7 @@
         <br /><br />
         <b><tt>@require</tt></b>: The require of the userscript. For example, <br /><tt>// @require https://my.cdn.com/jquery.js</tt>.
         <br /><br />
-        <b><tt>@run-at</tt></b>: Decide when the script will execute. <tt>document-start</tt> is used to inject scripts before the page loads, <tt>document-end</tt> is used to inject scripts after page load.
+        <b><tt>@run-at</tt></b>: Decide when the script will execute. <tt>document-start</tt> is used to inject scripts before the page loads, <tt>document-end</tt> is used to inject scripts after page load, <tt>document-idle</tt> is used to inject scripts after page is idle.
         <br /><br />
         <b><tt>@grant</tt></b>: Specify which special GM_* APIs should be granted and can be used when the script executes.<br />
         <br /><br />
@@ -854,4 +854,37 @@
     <string name="modified_content_has_not_been_saved_message">The modified content has not been saved. Do you want to save it?</string>
     <string name="operation_opensettings">Open settings</string>
     <string name="enable_draggable_scrollbar">Enable draggable scrollbar</string>
+    <string name="file_download_completed">%1$s downloaded</string>
+    <string name="file_download_failed">Download %1$s failed</string>
+    <string name="require_confirmation_to_enable_reader_mode">Require confirmation to show reader</string>
+    <string name="require_confirmation_to_enable_reader_mode_description_enabled">Show menu first when clicking on the address bar\'s reader mode icon</string>
+    <string name="require_confirmation_to_enable_reader_mode_description_disabled">Show reader when clicking on the address bar\'s reader mode icon</string>
+    <string name="appearance">Appearance</string>
+    <string name="open_app_failed">Unable to find associated app to open the link</string>
+    <string name="stop_reading_aloud">Stop reading aloud</string>
+    <string name="read_aloud_panel">Read aloud panel</string>
+    <string name="duplicate_tab">Duplicate tab</string>
+    <string name="clear_search_history">Clear search history</string>
+    <string name="clear_search_history_message">Are you sure you want to clear search history?</string>
+    <string name="open">Open</string>
+    <string name="mark_as_ad_guide">Please click on the ad area to mark it</string>
+    <string name="log_out_webdav">Log out</string>
+    <string name="run_at">Run at</string>
+    <string name="matches">Matches</string>
+    <string name="match">Match</string>
+    <string name="add_match">Add match</string>
+    <string name="excludes">Excludes</string>
+    <string name="exclude">Exclude</string>
+    <string name="add_exclude">Add exclude</string>
+    <string name="edit_source_code">Edit source code</string>
+    <string name="reset_script_message">Are you sure you want to reset this script?</string>
+    <string name="exclude_domain">Exclude %1$s</string>
+    <string name="exclude_domain_from_script_toast">Script %1$s will not run on %2$s.</string>
+    <string name="search_history">Search history</string>
+    <string name="metaso_url">Metaso</string>
+    <string name="search_settings">Search settings</string>
+    <string name="search_engines">Search engines</string>
+    <string name="search_toolbar">Search toolbar</string>
+    <string name="enable_search_toobar">Enable search toolbar</string>
+    <string name="invalid_url">Invalid URL</string>
 </resources>

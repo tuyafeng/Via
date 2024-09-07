@@ -131,7 +131,7 @@
     <string name="color_mode">Barvni način</string>
     <string name="dialog_sure">Ste prepričani, da želite nadaljevati?</string>
     <string name="settings_cloud">Račun</string>
-    <string name="user">Prijavi se/registriraj se</string>
+    <string name="user">Prijava/registracija</string>
     <string name="user_syns">Sinhroniziraj</string>
     <string name="user_update">Naloži</string>
     <string name="wrong_psw">Napačno geslo.</string>
@@ -147,7 +147,7 @@
     <string name="ui_mode">Način vmesnika orodnih vrstic</string>
     <string name="addon_download">Upravitelj prenosov</string>
     <string name="quick_back">Pojdi nazaj brez osveževanja</string>
-    <string name="open_with">Odpri z&#8230;</string>
+    <string name="open_with">Odpri z</string>
     <string name="download_completed">Prenos je končan</string>
     <string name="toast_fullscreen_off">Izhod iz celozaslonskega načina</string>
     <string name="clear_data">Čiščenje podatkov</string>
@@ -278,7 +278,7 @@
     <string name="unblock_hint">Odblokirano: %1$s\nOsvežite za uveljavitev sprememb.</string>
     <string name="block_3rd_party_cookies">Blokiraj piškotke tretjih oseb</string>
     <string name="enable_site_conf">Omogoči konfiguracijo za %1$s</string>
-    <string name="site_conf">Konf. splet. mesta</string>
+    <string name="site_conf">Konf. spl. mesta</string>
     <string name="ui_simple_top">Orodna vrstica na vrhu</string>
     <string name="ui_simple_bottom">Orodna vrstica na dnu</string>
     <string name="file_does_not_exist">Datoteka ne obstaja</string>
@@ -426,7 +426,7 @@
     <string name="no_certificate">Spletna stran nima certifikata.</string>
     <string name="site_conf_enabled">Konfiguracija spletnega mesta (omogočeno)</string>
     <string name="do_not_sell_or_share">Ne prodajaj ali deli podatkov</string>
-    <string name="do_not_sell_or_share_description">Od spletnega mesta zahteva, naj ne prodaja ali deli mojih podatkov z namenom zaščite zasebnosti (eksperimentalno)</string>
+    <string name="do_not_sell_or_share_description">Od spletnega mesta zahteva, naj ne prodaja ali deli mojih podatkov z namenom zaščite zasebnosti (eksperimentalno).</string>
     <string name="email_me">Pošljite nam e-pošto</string>
     <string name="scan_qr_code">Branje kode QR</string>
     <string name="scan_qr_code_from_image">Branje kode QR iz slike</string>
@@ -510,7 +510,7 @@
         <item quantity="one">1 zavihek</item>
         <item quantity="other">%d zavihkov</item>
     </plurals>
-    <string name="qr_code">QR koda</string>
+    <string name="qr_code">Koda QR</string>
     <string name="download_progress_speed">%1$s • %2$s</string>
     <string name="download_progress_speed_eta">%1$s • %2$s • %3$s</string>
     <string name="download_speed_unknown">hitrost: –</string>
@@ -579,9 +579,9 @@
         <br /><br />
         <b><tt>@require</tt></b>: Zahteva skripta. Na primer: <br /><tt>// @require https://my.cdn.com/jquery.js</tt>.
         <br /><br />
-        <b><tt>@run-at</tt></b>: Odloči, kdaj se skripta izvede. <tt>document-start</tt> se uporabi za vrivanje skriptov, preden se stran naloži. <tt>document-end</tt> se uporabi za vrivanje skriptov po tem, ko se stran naloži.
+        <b><tt>@run-at</tt></b>: Odloči, kdaj se skript izvede. <tt>document-start</tt> se uporabi za vrivanje skriptov, preden se stran naloži. <tt>document-end</tt> se uporabi za vrivanje skriptov po tem, ko stran postane nedejavna.
         <br /><br />
-        <b><tt>@grant</tt></b>: Navede, kateri posebni GM_* API-ji morajo biti odobreni in so lahko uporabljeni, ko se skripta izvede.<br />
+        <b><tt>@grant</tt></b>: Navede, kateri posebni GM_* API-ji morajo biti odobreni in so lahko uporabljeni, ko se skript izvede.<br />
         <br /><br />
         <b><tt>@downloadURL</tt></b>: URL, iz katerega je lahko skript prenesen.
         <br /><br />
@@ -829,4 +829,40 @@
     <string name="fastforward">Prevrti naprej</string>
     <string name="rewind">Previj</string>
     <string name="add_to_home_screen">Dodaj na zač. str.</string>
+	<string name="certificate_detail_fingerprints"><![CDATA[
+        <b>SHA-256 PRSTNI ODTISI</b><br />
+        <b>Certifikat</b><br />
+        %1$s
+        <br /><b>Javni ključ</b><br />
+        %2$s
+        <br />
+    ]]></string>
+    <string name="show_reader">Prikaži bralnik</string>
+    <string name="hide_reader">Skrij bralnik</string>
+    <string name="reader_is_shown">Bralnik je prikazan</string>
+    <string name="reader_is_hidden">Bralnik je skrit</string>
+    <string name="custom_reader_css">Bralnik CSS po meri</string>
+    <string name="reader_mode">Bralni način</string>
+    <string name="the_page_has_not_fully_loaded">Stran se ni naložila v celoti</string>
+    <string name="more_options">Več možnosti</string>
+    <string name="link_too_long_to_generate_qr_code">Povezava je predolga za izdelavo kode QR</string>
+    <string name="view_scripts">Prikaži skripte</string>
+    <string name="exit_message_if_incognito_mode_is_on">Vsi odprti zavihki bodo izbrisani in ne bodo mogli biti obnovljeni. Želite zapreti aplikacijo?</string>
+    <string name="dont_remind_me_again">Ne opomni me več</string>
+    <string name="cannot_work_javascript_is_blocked">Deluje lahko samo, če je dovoljen JavaScript.</string>
+    <string name="cannot_work_on_this_site">Na tej strani ne more delovati.</string>
+    <string name="one_filter_per_line">En filter na vrstico.</string>
+    <string name="modified_content_has_not_been_saved_message">Spremenjena vsebina ni bila shranjena. Jo želite shraniti?</string>
+    <string name="operation_opensettings">Odpri nastavitve</string>
+    <string name="enable_draggable_scrollbar">Omogoči vlečni drsni trak</string>
+	<string name="file_download_completed">Prenos %1$s je končan</string>
+    <string name="file_download_failed">Prenos %1$s ni uspel</string>
+    <string name="require_confirmation_to_enable_reader_mode">Zahtevaj potrditev za prikaz bralnika</string>
+    <string name="require_confirmation_to_enable_reader_mode_description_enabled">Ob kliku na ikono bralnika v naslovni vrstici prikaži meni</string>
+    <string name="require_confirmation_to_enable_reader_mode_description_disabled">Ob kliku na ikono bralnika v naslovni vrstici prikaži bralnik</string>
+    <string name="appearance">Izgled</string>
+	<string name="open_app_failed">Ni mogoče najti povezane aplikacije za odpiranje povezave</string>
+    <string name="stop_reading_aloud">Prenehaj brati na glas</string>
+    <string name="read_aloud_panel">Plošča za branje na glas</string>
+    <string name="duplicate_tab">Podvoji zavihek</string>
 </resources>

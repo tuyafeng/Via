@@ -147,7 +147,7 @@
     <string name="ui_mode">Interfeys ko‘rinishi</string>
     <string name="addon_download">Yuklab olish menejeri</string>
     <string name="quick_back">Sahifani qayta yuklamasdan qaytish</string>
-    <string name="open_with">Ochish&#8230;</string>
+    <string name="open_with">Ochish</string>
     <string name="download_completed">Yuklab olindi</string>
     <string name="toast_fullscreen_off">To‘liq ekran rejimidan chiqish</string>
 

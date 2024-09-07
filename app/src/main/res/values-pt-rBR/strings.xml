@@ -147,7 +147,7 @@
     <string name="ui_mode">Posição da barra de ferramentas</string>
     <string name="addon_download">Gerenciador de downloads</string>
     <string name="quick_back">Voltar sem recarregar</string>
-    <string name="open_with">Abrir com&#8230;</string>
+    <string name="open_with">Abrir com</string>
     <string name="download_completed">Download concluído</string>
     <string name="toast_fullscreen_off">Saiu do modo tela cheia</string>
     <string name="clear_data">Limpar dados</string>
@@ -820,10 +820,62 @@
     <string name="expand_web_content_automatically">Expandir conteúdo da página web automaticamente</string>
     <string name="expand_web_content_automatically_description">Expandir conteúdo recolhido automaticamente ao abrir uma página da web</string>
     <string name="read_aloud">Ler em voz alta</string>
-    <string name="start_reading_aloud">Começar a leitura em voz alta</string>
+    <string name="start_reading_aloud">Leitura em voz alta começou</string>
     <string name="cannot_read_this_page_aloud">Não foi possível ler esta página em voz alta</string>
     <string name="tts_failed_to_initialize">O mecanismo de TTS não pôde ser inicializado</string>
     <string name="fastforward">Acelerar</string>
     <string name="rewind">Retroceder</string>
     <string name="add_to_home_screen">Adicionar à tela inicial</string>
+    <string name="certificate_detail_fingerprints"><![CDATA[
+        <b>IMPRESSÕES DIGITAIS SHA-256</b><br />
+        <b>Certificado</b><br />
+        %1$s
+        <br /><b>Chave pública</b><br />
+        %2$s
+        <br />
+    ]]></string>
+    <string name="show_reader">Mostrar leitor</string>
+    <string name="hide_reader">Ocultar leitor</string>
+    <string name="reader_is_shown">Leitor exibido</string>
+    <string name="reader_is_hidden">Leitor oculto</string>
+    <string name="custom_reader_css">CSS do leitor personalizado</string>
+    <string name="reader_mode">Modo leitor</string>
+    <string name="the_page_has_not_fully_loaded">A página não carregou totalmente</string>
+    <string name="more_options">Mais opções</string>
+    <string name="link_too_long_to_generate_qr_code">O link é muito longo para gerar um código QR</string>
+    <string name="view_scripts">Ver scripts</string>
+    <string name="exit_message_if_incognito_mode_is_on">Todas as abas abertas serão excluídas e não podem ser restauradas, tem certeza que deseja sair do app?</string>
+    <string name="dont_remind_me_again">Não me lembre novamente</string>
+    <string name="cannot_work_javascript_is_blocked">Isso só pode funcionar se o JavaScript for permitido.</string>
+    <string name="cannot_work_on_this_site">Pode não funcionar neste site.</string>
+    <string name="one_filter_per_line">Um filtro por linha.</string>
+    <string name="modified_content_has_not_been_saved_message">O conteúdo modificado não foi salvo. Você quer salvá-lo?</string>
+    <string name="operation_opensettings">Abrir configurações</string>
+    <string name="enable_draggable_scrollbar">Ativar barra de rolagem</string>
+    <string name="file_download_completed">%1$s baixado</string>
+    <string name="file_download_failed">Falha ao baixar %1$s</string>
+    <string name="require_confirmation_to_enable_reader_mode">Exigir confirmação para mostrar o leitor</string>
+    <string name="require_confirmation_to_enable_reader_mode_description_enabled">Mostrar primeiro o menu ao clicar no ícone do modo leitor na barra de endereços</string>
+    <string name="require_confirmation_to_enable_reader_mode_description_disabled">Mostrar leitor ao clicar no ícone do modo leitor na barra de endereços</string>
+    <string name="appearance">Aparência</string>
+    <string name="open_app_failed">Não foi possível encontrar o app associado para abrir o link</string>
+    <string name="stop_reading_aloud">Parar leitura em voz alta</string>
+    <string name="read_aloud_panel">Ler página em voz alta</string>
+    <string name="duplicate_tab">Duplicar aba</string>
+    <string name="clear_search_history">Limpar histórico de pesquisa</string>
+    <string name="clear_search_history_message">Tem certeza de que deseja limpar o histórico de pesquisa?</string>
+    <string name="open">Abrir</string>
+    <string name="mark_as_ad_guide">Por favor, clique na área do anúncio para marcá-lo</string>
+    <string name="log_out_webdav">Encerrar sessão</string>
+    <string name="run_at">Executar em</string>
+    <string name="matches">Correspondências</string>
+    <string name="match">Correspondência</string>
+    <string name="add_match">Adicionar correspondência</string>
+    <string name="excludes">Exclusões</string>
+    <string name="exclude">Exclusão</string>
+    <string name="add_exclude">Adicionar exclusão</string>
+    <string name="edit_source_code">Editar código-fonte</string>
+    <string name="reset_script_message">Tem certeza de que deseja redefinir este script?</string>
+    <string name="exclude_domain">Excluir %1$s</string>
+    <string name="exclude_domain_from_script_toast">O script %1$s não será executado em %2$s.</string>
 </resources>

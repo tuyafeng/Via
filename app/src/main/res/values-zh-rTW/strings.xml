@@ -147,7 +147,7 @@
     <string name="ui_mode">工具列介面模式</string>
     <string name="addon_download">下載管理</string>
     <string name="quick_back">返回不重載</string>
-    <string name="open_with">透過應用程式開啟&#8230;</string>
+    <string name="open_with">其它應用開啟</string>
     <string name="download_completed">下載已完成</string>
     <string name="toast_fullscreen_off">關閉全螢幕模式</string>
     <string name="clear_data">清除資料</string>
@@ -567,7 +567,7 @@
         <br /><br />
         <b><tt>@require</tt></b>：指令碼的前置依賴，例如： <br /><tt>// @require https://my.cdn.com/jquery.js</tt>。
         <br /><br />
-        <b><tt>@run-at</tt></b>：指令碼的執行時機。 <tt>document-start</tt> 用於在頁面載入前注入指令碼， <tt>document-end</tt> 用於在頁面載入完成後注入指令碼。
+        <b><tt>@run-at</tt></b>：指令碼的執行時機。 <tt>document-start</tt> 用於在頁面 DOM 載入前注入指令碼， <tt>document-end</tt> 用於在頁面 DOM 載入完成後注入指令碼， <tt>document-idle</tt> 用於在頁面空閒後注入指令碼。
         <br /><br />
         <b><tt>@grant</tt></b>：定義指令碼所使用和應被授權的特殊 GM_* API。<br />
         <br /><br />
@@ -816,4 +816,63 @@
     <string name="fastforward">快進</string>
     <string name="rewind">倒帶</string>
     <string name="add_to_home_screen">新增到桌面</string>
+    <string name="certificate_detail_fingerprints"><![CDATA[
+        <b>SHA-256 指紋</b><br />
+        <b>證書</b><br />
+        %1$s
+        <br /><b>公鑰</b><br />
+        %2$s
+        <br />
+    ]]></string>
+    <string name="show_reader">開啟閱讀模式</string>
+    <string name="hide_reader">關閉閱讀模式</string>
+    <string name="reader_is_shown">閱讀模式已開啟</string>
+    <string name="reader_is_hidden">閱讀模式已關閉</string>
+    <string name="custom_reader_css">自訂閱讀模式 CSS</string>
+    <string name="reader_mode">閱讀模式</string>
+    <string name="the_page_has_not_fully_loaded">該頁面未完全載入</string>
+    <string name="more_options">更多選項</string>
+    <string name="link_too_long_to_generate_qr_code">連結太長，無法生成二維碼</string>
+    <string name="view_scripts">檢視指令碼</string>
+    <string name="exit_message_if_incognito_mode_is_on">所有未關閉的分頁都將被刪除且無法被恢復，你確認退出程式嗎？</string>
+    <string name="dont_remind_me_again">不再提醒</string>
+    <string name="cannot_work_javascript_is_blocked">僅在允許 JavaScript 執行時支援</string>
+    <string name="cannot_work_on_this_site">不支援該網站</string>
+    <string name="one_filter_per_line">一個篩選條件一行。</string>
+    <string name="modified_content_has_not_been_saved_message">修改的內容未儲存，是否儲存？</string>
+    <string name="operation_opensettings">開啟設定</string>
+    <string name="enable_draggable_scrollbar">啟用可拖動的捲軸</string>
+    <string name="file_download_completed">%1$s 已下載</string>
+    <string name="file_download_failed">下載 %1$s 失敗</string>
+    <string name="require_confirmation_to_enable_reader_mode">開啟閱讀模式需要二次確認</string>
+    <string name="require_confirmation_to_enable_reader_mode_description_enabled">當按下位址列閱讀模式圖示時，先展示選單</string>
+    <string name="require_confirmation_to_enable_reader_mode_description_disabled">當按下位址列閱讀模式圖示時，開啟閱讀模式</string>
+    <string name="appearance">外觀</string>
+    <string name="open_app_failed">無關聯的應用程式來開啟連結</string>
+    <string name="stop_reading_aloud">停止朗讀</string>
+    <string name="read_aloud_panel">朗讀面板</string>
+    <string name="duplicate_tab">複製分頁</string>
+    <string name="clear_search_history">清除搜尋歷史</string>
+    <string name="clear_search_history_message">你確認清除搜尋歷史嗎？</string>
+    <string name="open">開啟</string>
+    <string name="mark_as_ad_guide">請按下廣告區域來標記</string>
+    <string name="log_out_webdav">退出登入</string>
+    <string name="run_at">執行時機</string>
+    <string name="matches">匹配</string>
+    <string name="match">匹配</string>
+    <string name="add_match">新增匹配</string>
+    <string name="excludes">排除</string>
+    <string name="exclude">排除</string>
+    <string name="add_exclude">新增排除</string>
+    <string name="edit_source_code">編輯原始碼</string>
+    <string name="reset_script_message">你確認重置指令碼嗎？</string>
+    <string name="exclude_domain">排除 %1$s</string>
+    <string name="exclude_domain_from_script_toast">指令碼 %1$s 將不會執行在 %2$s 上。</string>
+    <string name="search_history">搜尋歷史</string>
+    <string name="metaso_url">秘塔 AI</string>
+    <string name="search_settings">搜尋設定</string>
+    <string name="search_engines">搜尋引擎</string>
+    <string name="search_toolbar">搜尋工具列</string>
+    <string name="enable_search_toobar">啟用搜尋工具列</string>
+    <string name="invalid_url">無效連結</string>
 </resources>

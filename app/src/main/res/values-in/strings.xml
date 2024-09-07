@@ -31,7 +31,7 @@
     <string name="home">Beranda</string> 
     <string name="fullscreen">Sembunyikan bilah alat secara otomatis</string> 
     <string name="java">Aktifkan JavaScript</string> 
-    <string name="download">Unduh lokasi</string> 
+    <string name="download">Lokasi unduhan</string> 
     <string name="size">Ukuran teks</string> 
     <string name="search">Mesin pencari</string> 
     <string name="search_hint">Cari</string> 
@@ -147,7 +147,7 @@
     <string name="ui_mode">Tampilan UI bilah alat</string> 
     <string name="addon_download">Pengelola unduhan</string> 
     <string name="quick_back">Kembali tanpa memuat ulang</string> 
-    <string name="open_with">Buka dengan&#8230;</string> 
+    <string name="open_with">Buka dengan</string>
     <string name="download_completed">Pengunduhan selesai</string> 
     <string name="toast_fullscreen_off">Keluar dari mode layar penuh</string> 
     <string name="clear_data">Hapus data</string> 
@@ -286,9 +286,9 @@
     <string name="filter_subscriptions">Filter langganan</string> 
     <string name="filter_subscriptions_description">Berlangganan daftar filter Adblock Plus</string> 
     <string name="filter_subscription_exist">Filter langganan sudah ada.</string> 
-    <string name="custom_filters">Filter kostum</string> 
-    <string name="custom_filters_description">Termasuk filter kustom dan iklan yang ditandai</string> 
-    <string name="custom_filter">Filter kostum</string> 
+    <string name="custom_filters">Filter khusus</string> 
+    <string name="custom_filters_description">Termasuk filter khusus dan iklan yang ditandai</string> 
+    <string name="custom_filter">Filter khusus</string> 
     <string name="add_filter_subscription">Tambah filter langganan</string> 
     <string name="edit_filter_subscription">Edit filter langganan</string> 
     <string name="update_filter_subscriptions_completed">Pembaruan filter langganan selesai.</string>
@@ -379,8 +379,8 @@
     <string name="desc_favorite_icon">Ikon favorit</string>
     <string name="action_save">Simpan</string>
     <string name="reset_to_default_settings">Atur ulang ke pengaturan default</string> 
-    <string name="save_data">Save data</string>
-    <string name="save_data_description">Aktifkan mode save data di situs web yang kompatibel</string> 
+    <string name="save_data">Hemat data</string>
+    <string name="save_data_description">Aktifkan mode hemat data di situs web jika memungkinkan</string> 
     <string name="action_manage_favorites">Pengelola favorit</string>
     <string name="check_for_updates">Periksa pembaruan</string> 
     <string name="checking_for_updates">Memeriksa pembaruan</string> 

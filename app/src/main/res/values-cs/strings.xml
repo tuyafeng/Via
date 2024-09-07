@@ -142,7 +142,7 @@
     <string name="ui_mode">Režim UI</string>
     <string name="addon_download">Správce stahování</string>
     <string name="quick_back">Jít zpět bez obnovování</string>
-    <string name="open_with">Otevřít v&#8230;</string>
+    <string name="open_with">Otevřít v</string>
     <string name="download_completed">Stahování dokončeno</string>
     <string name="toast_fullscreen_off">Opustit režim celé obrazovky</string>
 
