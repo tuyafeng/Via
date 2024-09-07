@@ -578,7 +578,7 @@
         <br /><br />
         <b><tt>@require</tt></b>: Persyaratan skrip pengguna. Misalnya, <br /><tt>// @require https://my.cdn.com/jquery.js</tt>.
         <br /><br />
-        <b><tt>@run-at</tt></b>: Putuskan kapan skrip akan dieksekusi. <tt>document-start</tt> digunakan untuk menyuntikkan skrip sebelum halaman dimuat, <tt>document-end</tt> digunakan untuk menyuntikkan skrip setelah pemuatan halaman.
+        <b><tt>@run-at</tt></b>: Putuskan kapan skrip akan dieksekusi. <tt>document-start</tt> digunakan untuk menyuntikkan skrip sebelum halaman dimuat, <tt>document-end</tt> digunakan untuk menyuntikkan skrip setelah pemuatan halaman, <tt>document-idle</tt> digunakan untuk menyuntikkan skrip setelah halaman tidak aktif.
         <br /><br />
         <b><tt>@grant</tt></b>: Tentukan GM_* APIs khusus mana yang harus diberikan dan dapat digunakan saat skrip dijalankan.<br />
         <br /><br />
