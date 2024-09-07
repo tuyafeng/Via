@@ -862,7 +862,7 @@
     <string name="appearance">Tampilan</string>
     <string name="open_app_failed">Tidak dapat menemukan aplikasi terkait untuk membuka tautan</string>
     <string name="stop_reading_aloud">Berhenti membacakan</string>
-    <string name="read_aloud_panel">Panel membacakan</string>
+    <string name="read_aloud_panel">Panel pembaca</string>
     <string name="duplicate_tab">Tab duplikat</string>
     <string name="clear_search_history">Hapus riwayat pencarian</string>
     <string name="clear_search_history_message">Apakah Anda yakin ingin menghapus riwayat pencarian?</string>
