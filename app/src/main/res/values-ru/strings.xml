@@ -875,4 +875,11 @@
     <string name="reset_script_message">Выполнить сброс скрипта?</string>
     <string name="exclude_domain">Исключить %1$s</string>
     <string name="exclude_domain_from_script_toast">Скрипт %1$s не будет выполняться на %2$s.</string>
+    <string name="search_history">История поиска</string>
+    <string name="metaso_url">Metaso</string>
+    <string name="search_settings">Настройки поиска</string>
+    <string name="search_engines">Поисковые системы</string>
+    <string name="search_toolbar">Панель поиска</string>
+    <string name="enable_search_toobar">Показывать панель поиска</string>
+    <string name="invalid_url">Неправильная ссылка</string>
 </resources>

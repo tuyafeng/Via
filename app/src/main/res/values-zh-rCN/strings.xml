@@ -876,4 +876,14 @@
     <string name="search_toolbar">搜索工具栏</string>
     <string name="enable_search_toobar">启用搜索工具栏</string>
     <string name="invalid_url">无效链接</string>
+    <string name="grant_camera_permission_hint">点按屏幕授予相机权限以扫码</string>
+    <string name="location_add_site_exception_allow">允许特定网站使用位置信息。</string>
+    <string name="location_add_site_exception_block">禁止特定网站使用位置信息。</string>
+    <string name="site_request_location_permission">%1$s 想要使用你的位置信息。</string>
+    <string name="site_is_using_your_location">%1$s 正在使用你的位置信息</string>
+    <string name="text_size_site_exception_add">为特定网站设置字体大小。</string>
+    <string name="only_take_effect_for_current_site">仅对当前站点生效</string>
+    <string name="disable_webrtc">禁用 WebRTC</string>
+    <string name="lock">锁定</string>
+    <string name="unlock">解锁</string>
 </resources>
