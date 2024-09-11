@@ -882,4 +882,14 @@
     <string name="search_toolbar">Панель поиска</string>
     <string name="enable_search_toobar">Показывать панель поиска</string>
     <string name="invalid_url">Неправильная ссылка</string>
+    <string name="grant_camera_permission_hint">Нажмите, чтобы дать камере разрешение на сканирование кода</string>
+    <string name="location_add_site_exception_allow">Разрешать использовать ваше местоположение на определённом сайте</string>
+    <string name="location_add_site_exception_block">Запрещать использовать ваше местоположение на определённом сайте.</string>
+    <string name="site_request_location_permission">%1$s хочет использовать ваше местоположение.</string>
+    <string name="site_is_using_your_location">%1$s использует ваше местоположение</string>
+    <string name="text_size_site_exception_add">Установить размер текста на определённом сайте.</string>
+    <string name="only_take_effect_for_current_site">Действует только для текущего сайта.</string>
+    <string name="disable_webrtc">Отключить WebRTC</string>
+    <string name="lock">Заблокировать</string>
+    <string name="unlock">Разблокировать</string>
 </resources>
