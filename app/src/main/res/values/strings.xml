@@ -887,4 +887,14 @@
     <string name="search_toolbar">Search toolbar</string>
     <string name="enable_search_toobar">Enable search toolbar</string>
     <string name="invalid_url">Invalid URL</string>
+    <string name="grant_camera_permission_hint">Tap the screen to grant camera permission \nto scan the code</string>
+    <string name="location_add_site_exception_allow">Allow a specific site to use your location.</string>
+    <string name="location_add_site_exception_block">Block a specific site to use your location.</string>
+    <string name="site_request_location_permission">%1$s would like to use your location.</string>
+    <string name="site_is_using_your_location">%1$s is using your location</string>
+    <string name="text_size_site_exception_add">Set the text size for a specific site.</string>
+    <string name="only_take_effect_for_current_site">Only take effect for the current site</string>
+    <string name="disable_webrtc">Disable WebRTC</string>
+    <string name="lock">Lock</string>
+    <string name="unlock">Unlock</string>
 </resources>
