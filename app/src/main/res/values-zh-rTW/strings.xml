@@ -875,4 +875,14 @@
     <string name="search_toolbar">搜尋工具列</string>
     <string name="enable_search_toobar">啟用搜尋工具列</string>
     <string name="invalid_url">無效連結</string>
+    <string name="grant_camera_permission_hint">點按螢幕授予相機權限以掃碼</string>
+    <string name="location_add_site_exception_allow">允許特定網站使用位置資訊。</string>
+    <string name="location_add_site_exception_block">禁止特定網站使用位置資訊。</string>
+    <string name="site_request_location_permission">%1$s 想要使用你的位置資訊。</string>
+    <string name="site_is_using_your_location">%1$s 正在使用你的位置資訊</string>
+    <string name="text_size_site_exception_add">為特定網站設定字型大小。</string>
+    <string name="only_take_effect_for_current_site">僅對目前網站生效</string>
+    <string name="disable_webrtc">禁用 WebRTC</string>
+    <string name="lock">鎖定</string>
+    <string name="unlock">解鎖</string>
 </resources>
