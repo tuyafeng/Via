@@ -463,9 +463,11 @@
     <string name="sort_by_newest_first">登録が新しい順</string>
     <string name="sort_by_alphabetical_order">アルファベット順</string>
     <string name="move">移動</string>
+    <string name="open">開く</string>
     <string name="done">完了</string>
     <string name="more">その他</string>
     <string name="action_manage_favorites">ブックマーク マネージャー</string>
+    <string name="delete_item_message">%1$s を削除してもよろしいですか？</string>
     <string name="item_has_been_deleted">\"%1$s\" は削除されました</string>
     <string name="undo">元に戻す</string>
     <string name="action_add_to_homepage">スピードダイヤルに追加</string>
@@ -632,6 +634,7 @@
     <string name="toast_fullscreen_off">全画面解除</string>
     <string name="action_view_image">画像を開く</string>
     <string name="action_save_web_page">ページを保存</string>
+    <string name="save_as_pdf">PDFで保存する</string>
     <string name="action_saved_pages">保存済みページ</string>
     <string name="saved_page_successfully">保存しました</string>
     <string name="deleted_failed">削除できませんでした。ダウンロードファイルのパス: </string>
