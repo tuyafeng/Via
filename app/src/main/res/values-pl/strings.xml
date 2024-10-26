@@ -350,7 +350,7 @@
     <string name="delete_account_message">Po przesłaniu prośby o usunięcie konta nastąpi wylogowanie z niego, a następnie zostanie ono wprowadzone w 15-dniowy stan hibernacji. Jeśli w tym czasie się na nie zalogujesz, proces zostanie anulowany. Gdy okres hibernacji minie, konto i wszelkie znajdujące się na nim dane zostaną usunięte.\nWprowadź hasło, aby przesłać prośbę.</string>
     <string name="confirm_to_delete">Potwierdź usunięcie</string>
     <string name="select_all">Zaznacz wsz.</string>
-    <string name="open_source_licenses">Licencje Open source</string>
+    <string name="open_source_licenses">Licencje kodu źródłowego</string>
     <string name="debugging_info">Szczegóły</string>
     <string name="join_qq_group">Grupa na QQ</string>
     <string name="join_telegram_group">Grupa na Telegramie</string>
@@ -440,18 +440,18 @@
         <br />
     ]]></string>
     <string name="no_certificate">Ta strona nie posiada certyfikatu.</string>
-    <string name="site_conf_enabled">Konfiguracja strony (wł.)</string>
-    <string name="do_not_sell_or_share">Nie sprz. ani nie udost. danych</string>
+    <string name="site_conf_enabled">Konfiguracja strony (włącz)</string>
+    <string name="do_not_sell_or_share">Nie sprzedawaj ani nie udostępniaj danych</string>
     <string name="do_not_sell_or_share_description">Wymagaj od stron, aby nie sprzedawały, ani nie udostępniały twoich danych w celu ochrony prywatności (opcja eksperymentalna).</string>
     <string name="email_me">Napisz do mnie e-maila</string>
     <string name="scan_qr_code">Zeskanuj kod QR</string>
     <string name="scan_qr_code_from_image">Zeskanuj kod QR z obrazka</string>
-    <string name="switch_flash">Wł./wył. latarkę</string>
+    <string name="switch_flash">Włącz / wyłącz latarkę</string>
     <string name="qr_code_scan_result">Wynik skanowania</string>
     <string name="qr_code_not_detected">Nie wykryto kodu QR</string>
     <string name="save_qr_code_successfully">Kod QR został zapisany w galerii</string>
     <string name="description_with_number">%1$s (%2$d)</string>
-    <string name="last_hour">Ost. godzina</string>
+    <string name="last_hour">Ostatnia godzina</string>
     <string name="today_and_yesterday">Ost. 2 dni</string>
     <string name="last_seven_days">Ost. tydzień</string>
     <string name="all_time">Wszystko</string>
@@ -473,14 +473,14 @@
     <string name="favorites_icon_style_text">Tekst</string>
     <string name="favorites_icon_style_icon_first">Najpierw ikona</string>
     <string name="favorites_icon_color">Przezr.</string>
-    <string name="favorites_icon_color_colorful">Wył.</string>
-    <string name="favorites_icon_color_transparent">Wł.</string>
+    <string name="favorites_icon_color_colorful">Wyłącz</string>
+    <string name="favorites_icon_color_transparent">Włącz</string>
     <string name="search_bar_effect">Efekt paska</string>
     <string name="search_bar_effect_blur">Rozmycie</string>
     <string name="search_bar_effect_transparent">Przezr.</string>
     <string name="search_part">Pasek wysz.</string>
-    <string name="search_part_hide">Wył.</string>
-    <string name="search_part_show">Wł.</string>
+    <string name="search_part_hide">Wyłącz</string>
+    <string name="search_part_show">Włącz</string>
     <string name="background_color">Kolor</string>
     <string name="background_image">Obraz</string>
     <string name="favorites_clear_icons">Wyczyść ikony</string>
@@ -734,8 +734,8 @@
     <string name="camera_ask_first_description">Zapytaj przed zezwoleniem</string>
     <string name="microphone">Mikrofon</string>
     <string name="microphone_ask_first_description">Zapytaj przed zezwoleniem</string>
-    <string name="on">Wł.</string>
-    <string name="off">Wył.</string>
+    <string name="on">Włączone</string>
+    <string name="off">Wyłączone</string>
     <string name="default_description">%1$s (opcja domyślna)</string>
     <string name="grant">Przyznaj</string>
     <string name="skins">Skórki</string>
@@ -821,8 +821,8 @@
     <string name="scripts_enabled">Skrypty włączone</string>
     <string name="print_or_pdf">Drukuj / PDF</string>
     <string name="site_info">Inf. o stronie</string>
-    <string name="is_on">%s wł.</string>
-    <string name="is_off">%s wył.</string>
+    <string name="is_on">%s włącz</string>
+    <string name="is_off">%s wyłącz</string>
     <string name="is_set">%s ustawione</string>
     <string name="is_required">%s wymagane</string>
     <string name="close_tab_description">Zamknij %s</string>
