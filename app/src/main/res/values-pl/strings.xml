@@ -125,7 +125,7 @@
     <string name="msg_delete_folder">Usunąć folder?</string>
     <string name="desc_suggestion">Sugestie</string>
     <string name="desc_home">Strona domowa</string>
-    <string name="desc_menu">menu</string>
+    <string name="desc_menu">Menu</string>
     <string name="action_mark">Oznacz jako reklamę</string>
     <string name="dialog_confirm_mark">Oznaczyć to jako reklamę?</string>
     <string name="do_not_track">Nie śledź mnie</string>
