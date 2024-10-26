@@ -349,7 +349,7 @@
     <string name="delete_account_hint">Usuń konto z serwera</string>
     <string name="delete_account_message">Po przesłaniu prośby o usunięcie konta nastąpi wylogowanie z niego, a następnie zostanie ono wprowadzone w 15-dniowy stan hibernacji. Jeśli w tym czasie się na nie zalogujesz, proces zostanie anulowany. Gdy okres hibernacji minie, konto i wszelkie znajdujące się na nim dane zostaną usunięte.\nWprowadź hasło, aby przesłać prośbę.</string>
     <string name="confirm_to_delete">Potwierdź usunięcie</string>
-    <string name="select_all">Zaznacz wsz.</string>
+    <string name="select_all">Zaznacz wszystko</string>
     <string name="open_source_licenses">Licencje kodu źródłowego</string>
     <string name="debugging_info">Szczegóły</string>
     <string name="join_qq_group">Grupa na QQ</string>
@@ -687,7 +687,7 @@
     <string name="message_ignore_ssl_warnings">Certyfikaty SSL używane są do weryfikacji tożsamości stron i szyfrowania połączenia z nimi.\n\nIgnorowanie certyfikatów SSL sprawia, że połączenie ze stronami może być niebezpieczne, a dane przez nie przesyłane mogą zostać skradzione.</string>
     <string name="title_ignore_ssl_warnings_confirmation">Znam ryzyko</string>
     <string name="title_disable_safe_browsing_description">Bezpieczne przeglądanie pozwala modułowi WebView chronić Cię przed złośliwym oprogramowaniem i atakami phishingowymi poprzez weryfikację linków.</string>
-    <string name="action_close_all_tabs">Zamknij wsz. karty</string>
+    <string name="action_close_all_tabs">Zamknij wszystkie karty</string>
     <string name="action_close_other_tabs">Zamknij inne karty</string>
     <string name="action_close_tabs_to_the_bottom">Zamknij karty poniżej</string>
     <string name="action_close_tabs_to_the_top">Zamknij karty powyżej</string>
