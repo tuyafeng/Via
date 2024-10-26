@@ -11,10 +11,10 @@
     <string name="action_add_bookmark">Dodaj zakładkę</string>
     <string name="action_night">Tryb nocny</string>
     <string name="action_copy">Skopiuj adres linku</string>
-    <string name="action_block_domain">Zabl. domenę</string>
-    <string name="action_unblock_domain">Odbl. domenę</string>
-    <string name="action_unblock_url">Odbl. link</string>
-    <string name="action_block_url">Zabl. link</string>
+    <string name="action_block_domain">Zablokuj domenę</string>
+    <string name="action_unblock_domain">Odblokuj domenę</string>
+    <string name="action_unblock_url">Odblokuj link</string>
+    <string name="action_block_url">Zablokuj link</string>
     <string name="action_copy_text">Skopiuj tekst</string>
     <string name="action_copy_link_text">Skopiuj tekst linku</string>
     <string name="action_tools">Narzędzia</string>
@@ -45,7 +45,7 @@
     <string name="agent_symbian">Symbian</string>
     <string name="agent_custom">Własny</string>
     <string name="dialog_download">Pobrać ten plik?</string>
-    <string name="title_warning">Ostrżeżenie</string>
+    <string name="title_warning">Ostrzeżenie</string>
     <string name="title_custom_homepage">Własna strona</string>
     <string name="action_webpage">Własna strona</string>
     <string name="hint_title">Tytuł</string>
