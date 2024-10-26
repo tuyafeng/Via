@@ -28,7 +28,7 @@
     <string name="orientation_auto">Automatyczna</string>
     <string name="orientation_portrait">Pionowa</string>
     <string name="orientation_landscape">Pozioma</string>
-    <string name="agent">User agent</string>
+    <string name="agent">Agent Użytkownika</string>
     <string name="home">Strona domowa</string>
     <string name="fullscreen">Ukrywanie / pokazywanie pasków narzędzi</string>
     <string name="java">Obsługa JavaScript</string>
@@ -79,9 +79,9 @@
     <string name="hint_username">Nazwa użytkownika</string>
     <string name="hint_password">Hasło</string>
     <string name="untitled">Bez tytułu</string>
-    <string name="image_auto">Wł. tylko w WiFi</string>
-    <string name="image_off">Wył. wszędzie</string>
-    <string name="image_on">Wł. wszędzie</string>
+    <string name="image_auto">Włącz tylko w WiFi</string>
+    <string name="image_off">Wyłącz wszędzie</string>
+    <string name="image_on">Włącz wszędzie</string>
     <string name="title_file_chooser">Wybór pliku</string>
     <string name="import_bookmarks">Importuj</string>
     <string name="export_bookmarks_to">Wyeksportowano zakładki do pliku %1$s</string>
@@ -118,8 +118,8 @@
     <string name="settings_about">O aplikacji</string>
     <string name="url_box">Tekst w pasku narzędzi</string>
     <string name="url_box_domain">Domena</string>
-    <string name="action_pcview">Pełna wer. strony</string>
-    <string name="action_source">Kod źr. strony</string>
+    <string name="action_pcview">Pełna wersia strony</string>
+    <string name="action_source">Kod źródłowy strony</string>
     <string name="action_translate">Przetłumacz stronę</string>
     <string name="title_edit_folder">Edytuj folder</string>
     <string name="msg_delete_folder">Usunąć folder?</string>
@@ -260,7 +260,7 @@
     <string name="title_edit_favorite">Edytuj ulubione</string>
     <string name="custom_css_special">Własny plik CSS</string>
     <string name="force_enable_zoom">Wymuś powiększanie strony</string>
-    <string name="set_ua_as">Zmieniono user agenta został na %1$s.</string>
+    <string name="set_ua_as">Zmieniono agenta użytkownika na %1$s.</string>
     <string name="import_data">Importuj dane</string>
     <string name="import_data_failed">Nie zaimportowano danych.</string>
     <string name="import_data_succeed">Zaimportowano dane.</string>
@@ -674,8 +674,8 @@
     <string name="whatanime_url">WhatAnime</string>
     <string name="ascii2d_url">Ascii2D</string>
     <string name="title_scripts_for_site">Skrypty dla strony %1$s</string>
-    <string name="disabled">Wył.</string>
-    <string name="enabled">Wł.</string>
+    <string name="disabled">Wyłączone</string>
+    <string name="enabled">Włączone</string>
     <string name="action_view_in_settings">Pokaż w ustawieniach</string>
     <string name="message_delete_following_items">Usunąć te elementy?</string>
     <string name="list_item">• %1$s</string>
@@ -706,7 +706,7 @@
     <string name="category_content">Zawartość</string>
     <string name="category_basics">Podstawowe</string>
     <string name="category_permissions">Uprawnienia</string>
-    <string name="agent_add_site_exception">Ustaw user agenta dla danej strony.</string>
+    <string name="agent_add_site_exception">Ustaw agent użytkownika dla danej strony.</string>
     <string name="images">Grafika</string>
     <string name="images_allowed_description">Zezwalaj stronom na wczytywanie grafik</string>
     <string name="images_allowed_via_wifi_description">Zezwalaj stronom na wczytywanie grafik tylko przez WiFi</string>
