@@ -124,7 +124,7 @@
     <string name="title_edit_folder">Edytuj folder</string>
     <string name="msg_delete_folder">Usunąć folder?</string>
     <string name="desc_suggestion">sugestie</string>
-    <string name="desc_home">strona domowa</string>
+    <string name="desc_home">Strona domowa</string>
     <string name="desc_menu">menu</string>
     <string name="action_mark">Oznacz jako reklamę</string>
     <string name="dialog_confirm_mark">Oznaczyć to jako reklamę?</string>
