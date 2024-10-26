@@ -123,7 +123,7 @@
     <string name="action_translate">Przetłumacz stronę</string>
     <string name="title_edit_folder">Edytuj folder</string>
     <string name="msg_delete_folder">Usunąć folder?</string>
-    <string name="desc_suggestion">sugestie</string>
+    <string name="desc_suggestion">Sugestie</string>
     <string name="desc_home">Strona domowa</string>
     <string name="desc_menu">menu</string>
     <string name="action_mark">Oznacz jako reklamę</string>
