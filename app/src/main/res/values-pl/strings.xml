@@ -236,7 +236,7 @@
 
        ]]>
     <string name="file_size">Rozmiar pliku: %1$s</string>
-    <string name="search_by_image">Szukaj wg tego obrazu</string>
+    <string name="search_by_image">Szukaj według tego obrazu</string>
     <string name="resource_sniffer">Zasoby strony</string>
     <string name="res_log_hint">Kliknij element, aby wyświetlić podgląd. Przytrzymaj, aby wywołać menu kontekstowe z pozostałymi opcjami.</string>
     <string name="no_resource">Nie wykryto zasobów na tej stronie.</string>
