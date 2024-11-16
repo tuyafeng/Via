@@ -878,4 +878,21 @@
     <string name="reset_script_message">Tem certeza de que deseja redefinir este script?</string>
     <string name="exclude_domain">Excluir %1$s</string>
     <string name="exclude_domain_from_script_toast">O script %1$s não será executado em %2$s.</string>
+    <string name="search_history">Histórico de pesquisa</string>
+    <string name="metaso_url">Metaso</string>
+    <string name="search_settings">Configurações de pesquisa</string>
+    <string name="search_engines">Mecanismos de pesquisa</string>
+    <string name="search_toolbar">Barra de pesquisa</string>
+    <string name="enable_search_toobar">Ativar barra de pesquisa</string>
+    <string name="invalid_url">URL inválida</string>
+    <string name="grant_camera_permission_hint">Toque na tela para conceder permissão da câmera \npara escanear o código</string>
+    <string name="location_add_site_exception_allow">Permitir que um site específico use a sua localização.</string>
+    <string name="location_add_site_exception_block">Bloquear um site específico para usar sua localização.</string>
+    <string name="site_request_location_permission">%1$s gostaria de usar sua localização.</string>
+    <string name="site_is_using_your_location">%1$s está usando a sua localização</string>
+    <string name="text_size_site_exception_add">Definir o tamanho do texto para um site específico.</string>
+    <string name="only_take_effect_for_current_site">Só tem efeito no site atual</string>
+    <string name="disable_webrtc">Desativar WebRTC</string>
+    <string name="lock">Bloquear</string>
+    <string name="unlock">Desbloquear</string>
 </resources>
