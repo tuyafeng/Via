@@ -897,4 +897,9 @@
     <string name="disable_webrtc">Disable WebRTC</string>
     <string name="lock">Lock</string>
     <string name="unlock">Unlock</string>
+    <string name="delete_items_message">Are you sure you want to delete %1$d items?</string>
+    <string name="pip">Picture in picture</string>
+    <string name="game_mode">Game mode</string>
+    <string name="game_mode_is_on">Game mode is on, press the back key twice to exit</string>
+    <string name="game_mode_exit">Press one more time to exit game mode</string>
 </resources>

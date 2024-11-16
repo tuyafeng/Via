@@ -886,4 +886,9 @@
     <string name="disable_webrtc">禁用 WebRTC</string>
     <string name="lock">锁定</string>
     <string name="unlock">解锁</string>
+    <string name="delete_items_message">你确定删除 %1$d 个条目吗?</string>
+    <string name="pip">画中画</string>
+    <string name="game_mode">游戏模式</string>
+    <string name="game_mode_is_on">游戏模式已开启，按两次返回键可退出</string>
+    <string name="game_mode_exit">再按一次返回键退出游戏模式</string>
 </resources>
