@@ -48,9 +48,10 @@ Viaは、Androidプラットフォームに含まれる組み込みのWebViewレ
 
 バージョン4.3.4から、Viaは組み込みのQRコードスキャナーを追加しました。
 
-*** どうやって作者に連絡できますか？***
+***どうやって作者に連絡できますか？***
+
 [X（旧Twitter）](https://twitter.com/Yafeng) または [Weibo](https://weibo.com/u/7558014976) でご連絡いただければ、できるだけ早く返信させていただきます。
 
-Github で [問題を提起](https://github.com/tuyafeng/Via/issues/new) することもできます。私は通常、週に 1 回問題を確認して返信します。
+GitHub で [問題を提起](https://github.com/tuyafeng/Via/issues/new) することもできます。私は通常、週に 1 回問題を確認して返信します。
 
 必要に応じて、[メール](mailto:yafengtu@gmail.com) をお送りいただくこともできますが、申し訳ありませんが、返信できない場合があります。
