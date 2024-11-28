@@ -898,4 +898,9 @@
     <string name="disable_webrtc">Izklopi WebRTC</string>
     <string name="lock">Zakleni</string>
     <string name="unlock">Odkleni</string>
+    <string name="delete_items_message">Ste prepričani, da želite izbrisati %1$d elementov?</string>
+    <string name="pip">Slika v sliki</string>
+    <string name="game_mode">Igralni način</string>
+    <string name="game_mode_is_on">Igralni način je vklopljen, za izhod dvakrat pritisnite gumb Nazaj</string>
+    <string name="game_mode_exit">Ponovno pritisnite za izklop igralnega načina</string>
 </resources>
