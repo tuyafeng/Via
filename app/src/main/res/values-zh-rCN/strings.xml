@@ -891,4 +891,15 @@
     <string name="game_mode">游戏模式</string>
     <string name="game_mode_is_on">游戏模式已开启，按两次返回键可退出</string>
     <string name="game_mode_exit">再按一次返回键退出游戏模式</string>
+    <string name="show_details">显示细节</string>
+    <string name="hide_details">隐藏细节</string>
+    <plurals name="items">
+        <item quantity="other">%d 个项目</item>
+    </plurals>
+    <string name="no_images">无图片</string>
+    <string name="update_pending">开始更新\u2026</string>
+    <string name="update_item_successfully">更新 %1$s 完成</string>
+    <string name="update_item_failed">更新 %1$s 失败</string>
+    <string name="update_scripts_completed">脚本更新完成。</string>
+    <string name="request_item_update">你确认更新 %1$s 吗？</string>
 </resources>

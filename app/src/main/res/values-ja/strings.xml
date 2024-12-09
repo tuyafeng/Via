@@ -481,13 +481,11 @@
     <string name="delete_item_message">%1$s を削除してもよろしいですか？</string>
     <string name="item_has_been_deleted">\"%1$s\" は削除されました</string>
     <string name="undo">元に戻す</string>
-    <string name="action_add_to_homepage">スピードダイヤルに追加</string>
     <string name="added_favorite_hint">スピードダイヤルに追加しました。</string>
     <string name="title_edit_favorite">スピードダイヤルを編集</string>
     <string name="add_shortcut">ショートカットを追加</string>
     <string name="delete_hint">削除(%1$d)</string>
-    <string name="delete_item_message">%1$s を削除してもよろしいですか？</string>
-    
+
     <!-- 履歴 -->
     <string name="today">今日</string>
     <string name="yesterday">昨日</string>
