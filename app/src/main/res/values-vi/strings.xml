@@ -874,4 +874,19 @@
     <string name="search_toolbar">Thanh công cụ tìm kiếm</string>
     <string name="enable_search_toobar">Bật thanh công cụ tìm kiếm</string>
     <string name="invalid_url">URL không hợp lệ</string>
+    <string name="grant_camera_permission_hint">Nhấn vào màn hình để cấp quyền cho máy ảnh \nquét mã</string>
+    <string name="location_add_site_exception_allow">Cho phép một trang web cụ thể sử dụng vị trí của bạn.</string>
+    <string name="location_add_site_exception_block">Chặn một trang web cụ thể để sử dụng vị trí của bạn.</string>
+    <string name="site_request_location_permission">%1$s muốn sử dụng vị trí của bạn.</string>
+    <string name="site_is_using_your_location">%1$s đang sử dụng vị trí của bạn</string>
+    <string name="text_size_site_exception_add">Đặt kích thước văn bản cho một trang web cụ thể.</string>
+    <string name="only_take_effect_for_current_site">Chỉ có hiệu lực cho trang web hiện tại</string>
+    <string name="disable_webrtc">Tắt WebRTC</string>
+    <string name="lock">Khoá</string>
+    <string name="unlock">Mở khóa</string>
+    <string name="delete_items_message">Bạn có chắc chắn muốn xóa %1$d mục không?</string>
+    <string name="pip">Ảnh trong ảnh</string>
+    <string name="game_mode">Chế độ trò chơi</string>
+    <string name="game_mode_is_on">Chế độ trò chơi đang bật, nhấn phím quay lại hai lần để thoát</string>
+    <string name="game_mode_exit">Nhấn thêm một lần nữa để thoát khỏi chế độ trò chơi</string>
 </resources>
