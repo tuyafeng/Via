@@ -897,4 +897,17 @@
     <string name="game_mode">Игровой режим</string>
     <string name="game_mode_is_on">Игровой режим включён, для выхода дважды нажмите кнопку \"назад\"</string>
     <string name="game_mode_exit">Нажмите ещё раз для выхода из игрового режима</string>
+    <string name="show_details">Показать детали</string>
+    <string name="hide_details">Скрыть детали</string>
+    <plurals name="items">
+        <item quantity="one">%d элемент</item>
+        <item quantity="few">%d элемента</item>
+        <item quantity="other">%d элементов</item>
+    </plurals>
+    <string name="no_images">Нет изображений</string>
+    <string name="update_pending">Обновление…</string>
+    <string name="update_item_successfully">Обновление %1$s выполнено</string>
+    <string name="update_item_failed">Обновление %1$s не выполнено</string>
+    <string name="update_scripts_completed">Обновление скриптов завершено.</string>
+    <string name="request_item_update">Обновить %1$s?</string>
 </resources>
