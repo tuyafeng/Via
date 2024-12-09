@@ -892,4 +892,9 @@
     <string name="disable_webrtc">Отключить WebRTC</string>
     <string name="lock">Заблокировать</string>
     <string name="unlock">Разблокировать</string>
+    <string name="delete_items_message">Удалить %1$d элементов?</string>
+    <string name="pip">Картинка в картинке</string>
+    <string name="game_mode">Игровой режим</string>
+    <string name="game_mode_is_on">Игровой режим включён, для выхода дважды нажмите кнопку \"назад\"</string>
+    <string name="game_mode_exit">Нажмите ещё раз для выхода из игрового режима</string>
 </resources>
