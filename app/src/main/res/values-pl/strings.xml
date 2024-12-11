@@ -11,10 +11,10 @@
     <string name="action_add_bookmark">Dodaj zakładkę</string>
     <string name="action_night">Tryb nocny</string>
     <string name="action_copy">Skopiuj adres linku</string>
-    <string name="action_block_domain">Zabl. domenę</string>
-    <string name="action_unblock_domain">Odbl. domenę</string>
-    <string name="action_unblock_url">Odbl. link</string>
-    <string name="action_block_url">Zabl. link</string>
+    <string name="action_block_domain">Zablokuj domenę</string>
+    <string name="action_unblock_domain">Odblokuj domenę</string>
+    <string name="action_unblock_url">Odblokuj link</string>
+    <string name="action_block_url">Zablokuj link</string>
     <string name="action_copy_text">Skopiuj tekst</string>
     <string name="action_copy_link_text">Skopiuj tekst linku</string>
     <string name="action_tools">Narzędzia</string>
@@ -28,7 +28,7 @@
     <string name="orientation_auto">Automatyczna</string>
     <string name="orientation_portrait">Pionowa</string>
     <string name="orientation_landscape">Pozioma</string>
-    <string name="agent">User agent</string>
+    <string name="agent">Agent Użytkownika</string>
     <string name="home">Strona domowa</string>
     <string name="fullscreen">Ukrywanie / pokazywanie pasków narzędzi</string>
     <string name="java">Obsługa JavaScript</string>
@@ -45,7 +45,7 @@
     <string name="agent_symbian">Symbian</string>
     <string name="agent_custom">Własny</string>
     <string name="dialog_download">Pobrać ten plik?</string>
-    <string name="title_warning">Ostrżeżenie</string>
+    <string name="title_warning">Ostrzeżenie</string>
     <string name="title_custom_homepage">Własna strona</string>
     <string name="action_webpage">Własna strona</string>
     <string name="hint_title">Tytuł</string>
@@ -79,9 +79,9 @@
     <string name="hint_username">Nazwa użytkownika</string>
     <string name="hint_password">Hasło</string>
     <string name="untitled">Bez tytułu</string>
-    <string name="image_auto">Wł. tylko w WiFi</string>
-    <string name="image_off">Wył. wszędzie</string>
-    <string name="image_on">Wł. wszędzie</string>
+    <string name="image_auto">Włącz tylko w WiFi</string>
+    <string name="image_off">Wyłącz wszędzie</string>
+    <string name="image_on">Włącz wszędzie</string>
     <string name="title_file_chooser">Wybór pliku</string>
     <string name="import_bookmarks">Importuj</string>
     <string name="export_bookmarks_to">Wyeksportowano zakładki do pliku %1$s</string>
@@ -118,13 +118,13 @@
     <string name="settings_about">O aplikacji</string>
     <string name="url_box">Tekst w pasku narzędzi</string>
     <string name="url_box_domain">Domena</string>
-    <string name="action_pcview">Pełna wer. strony</string>
-    <string name="action_source">Kod źr. strony</string>
+    <string name="action_pcview">Pełna wersia strony</string>
+    <string name="action_source">Kod źródłowy strony</string>
     <string name="action_translate">Przetłumacz stronę</string>
     <string name="title_edit_folder">Edytuj folder</string>
     <string name="msg_delete_folder">Usunąć folder?</string>
     <string name="desc_suggestion">sugestie</string>
-    <string name="desc_home">strona domowa</string>
+    <string name="desc_home">Strona domowa</string>
     <string name="desc_menu">menu</string>
     <string name="action_mark">Oznacz jako reklamę</string>
     <string name="dialog_confirm_mark">Oznaczyć to jako reklamę?</string>
@@ -162,7 +162,7 @@
     <string name="data_cookies">Ciasteczka</string>
     <string name="data_cleared">Usunięto dane.</string>
     <string name="settings_skin">Ekran startowy</string>
-    <string name="default_set">Dom.</string>
+    <string name="default_set">Domyślne</string>
     <string name="picture">Obraz</string>
     <string name="text">Tekst</string>
     <string name="html_code">Kod HTML</string>
@@ -236,7 +236,7 @@
 
        ]]>
     <string name="file_size">Rozmiar pliku: %1$s</string>
-    <string name="search_by_image">Szukaj wg tego obrazu</string>
+    <string name="search_by_image">Szukaj według tego obrazu</string>
     <string name="resource_sniffer">Zasoby strony</string>
     <string name="res_log_hint">Kliknij element, aby wyświetlić podgląd. Przytrzymaj, aby wywołać menu kontekstowe z pozostałymi opcjami.</string>
     <string name="no_resource">Nie wykryto zasobów na tej stronie.</string>
@@ -260,7 +260,7 @@
     <string name="title_edit_favorite">Edytuj ulubione</string>
     <string name="custom_css_special">Własny plik CSS</string>
     <string name="force_enable_zoom">Wymuś powiększanie strony</string>
-    <string name="set_ua_as">Zmieniono user agenta został na %1$s.</string>
+    <string name="set_ua_as">Zmieniono agenta użytkownika na %1$s.</string>
     <string name="import_data">Importuj dane</string>
     <string name="import_data_failed">Nie zaimportowano danych.</string>
     <string name="import_data_succeed">Zaimportowano dane.</string>
@@ -349,8 +349,8 @@
     <string name="delete_account_hint">Usuń konto z serwera</string>
     <string name="delete_account_message">Po przesłaniu prośby o usunięcie konta nastąpi wylogowanie z niego, a następnie zostanie ono wprowadzone w 15-dniowy stan hibernacji. Jeśli w tym czasie się na nie zalogujesz, proces zostanie anulowany. Gdy okres hibernacji minie, konto i wszelkie znajdujące się na nim dane zostaną usunięte.\nWprowadź hasło, aby przesłać prośbę.</string>
     <string name="confirm_to_delete">Potwierdź usunięcie</string>
-    <string name="select_all">Zaznacz wsz.</string>
-    <string name="open_source_licenses">Licencje Open source</string>
+    <string name="select_all">Zaznacz wszystko</string>
+    <string name="open_source_licenses">Licencje kodu źródłowego</string>
     <string name="debugging_info">Szczegóły</string>
     <string name="join_qq_group">Grupa na QQ</string>
     <string name="join_telegram_group">Grupa na Telegramie</string>
@@ -440,18 +440,18 @@
         <br />
     ]]></string>
     <string name="no_certificate">Ta strona nie posiada certyfikatu.</string>
-    <string name="site_conf_enabled">Konfiguracja strony (wł.)</string>
-    <string name="do_not_sell_or_share">Nie sprz. ani nie udost. danych</string>
+    <string name="site_conf_enabled">Konfiguracja strony (włącz)</string>
+    <string name="do_not_sell_or_share">Nie sprzedawaj ani nie udostępniaj danych</string>
     <string name="do_not_sell_or_share_description">Wymagaj od stron, aby nie sprzedawały, ani nie udostępniały twoich danych w celu ochrony prywatności (opcja eksperymentalna).</string>
     <string name="email_me">Napisz do mnie e-maila</string>
     <string name="scan_qr_code">Zeskanuj kod QR</string>
     <string name="scan_qr_code_from_image">Zeskanuj kod QR z obrazka</string>
-    <string name="switch_flash">Wł./wył. latarkę</string>
+    <string name="switch_flash">Włącz / wyłącz latarkę</string>
     <string name="qr_code_scan_result">Wynik skanowania</string>
     <string name="qr_code_not_detected">Nie wykryto kodu QR</string>
     <string name="save_qr_code_successfully">Kod QR został zapisany w galerii</string>
     <string name="description_with_number">%1$s (%2$d)</string>
-    <string name="last_hour">Ost. godzina</string>
+    <string name="last_hour">Ostatnia godzina</string>
     <string name="today_and_yesterday">Ost. 2 dni</string>
     <string name="last_seven_days">Ost. tydzień</string>
     <string name="all_time">Wszystko</string>
@@ -473,14 +473,14 @@
     <string name="favorites_icon_style_text">Tekst</string>
     <string name="favorites_icon_style_icon_first">Najpierw ikona</string>
     <string name="favorites_icon_color">Przezr.</string>
-    <string name="favorites_icon_color_colorful">Wył.</string>
-    <string name="favorites_icon_color_transparent">Wł.</string>
+    <string name="favorites_icon_color_colorful">Wyłącz</string>
+    <string name="favorites_icon_color_transparent">Włącz</string>
     <string name="search_bar_effect">Efekt paska</string>
     <string name="search_bar_effect_blur">Rozmycie</string>
     <string name="search_bar_effect_transparent">Przezr.</string>
     <string name="search_part">Pasek wysz.</string>
-    <string name="search_part_hide">Wył.</string>
-    <string name="search_part_show">Wł.</string>
+    <string name="search_part_hide">Wyłącz</string>
+    <string name="search_part_show">Włącz</string>
     <string name="background_color">Kolor</string>
     <string name="background_image">Obraz</string>
     <string name="favorites_clear_icons">Wyczyść ikony</string>
@@ -674,8 +674,8 @@
     <string name="whatanime_url">WhatAnime</string>
     <string name="ascii2d_url">Ascii2D</string>
     <string name="title_scripts_for_site">Skrypty dla strony %1$s</string>
-    <string name="disabled">Wył.</string>
-    <string name="enabled">Wł.</string>
+    <string name="disabled">Wyłączone</string>
+    <string name="enabled">Włączone</string>
     <string name="action_view_in_settings">Pokaż w ustawieniach</string>
     <string name="message_delete_following_items">Usunąć te elementy?</string>
     <string name="list_item">• %1$s</string>
@@ -687,7 +687,7 @@
     <string name="message_ignore_ssl_warnings">Certyfikaty SSL używane są do weryfikacji tożsamości stron i szyfrowania połączenia z nimi.\n\nIgnorowanie certyfikatów SSL sprawia, że połączenie ze stronami może być niebezpieczne, a dane przez nie przesyłane mogą zostać skradzione.</string>
     <string name="title_ignore_ssl_warnings_confirmation">Znam ryzyko</string>
     <string name="title_disable_safe_browsing_description">Bezpieczne przeglądanie pozwala modułowi WebView chronić Cię przed złośliwym oprogramowaniem i atakami phishingowymi poprzez weryfikację linków.</string>
-    <string name="action_close_all_tabs">Zamknij wsz. karty</string>
+    <string name="action_close_all_tabs">Zamknij wszystkie karty</string>
     <string name="action_close_other_tabs">Zamknij inne karty</string>
     <string name="action_close_tabs_to_the_bottom">Zamknij karty poniżej</string>
     <string name="action_close_tabs_to_the_top">Zamknij karty powyżej</string>
@@ -706,7 +706,7 @@
     <string name="category_content">Zawartość</string>
     <string name="category_basics">Podstawowe</string>
     <string name="category_permissions">Uprawnienia</string>
-    <string name="agent_add_site_exception">Ustaw user agenta dla danej strony.</string>
+    <string name="agent_add_site_exception">Ustaw agent użytkownika dla danej strony.</string>
     <string name="images">Grafika</string>
     <string name="images_allowed_description">Zezwalaj stronom na wczytywanie grafik</string>
     <string name="images_allowed_via_wifi_description">Zezwalaj stronom na wczytywanie grafik tylko przez WiFi</string>
@@ -734,8 +734,8 @@
     <string name="camera_ask_first_description">Zapytaj przed zezwoleniem</string>
     <string name="microphone">Mikrofon</string>
     <string name="microphone_ask_first_description">Zapytaj przed zezwoleniem</string>
-    <string name="on">Wł.</string>
-    <string name="off">Wył.</string>
+    <string name="on">Włączone</string>
+    <string name="off">Wyłączone</string>
     <string name="default_description">%1$s (opcja domyślna)</string>
     <string name="grant">Przyznaj</string>
     <string name="skins">Skórki</string>
@@ -821,8 +821,8 @@
     <string name="scripts_enabled">Skrypty włączone</string>
     <string name="print_or_pdf">Drukuj / PDF</string>
     <string name="site_info">Inf. o stronie</string>
-    <string name="is_on">%s wł.</string>
-    <string name="is_off">%s wył.</string>
+    <string name="is_on">%s włącz</string>
+    <string name="is_off">%s wyłącz</string>
     <string name="is_set">%s ustawione</string>
     <string name="is_required">%s wymagane</string>
     <string name="close_tab_description">Zamknij %s</string>
