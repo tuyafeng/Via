@@ -395,8 +395,8 @@
     <string name="need_shortcut_permission">Dovoljenje zavrnjeno. Prosimo odprite nastavitve in vključite dovoljenje \"Ustvarite bližnjice na začetni strani\" za to aplikacijo.</string>
     <string name="create_shortcut_successfully">Bližnjica za %1$s je uspešno ustvarjena</string>
     <string name="update_shortcut_successfully">Bližnjica za %1$s je uspešno posodobljena</string>
-    <string name="today">Danes</string>
-    <string name="yesterday">Včeraj</string>
+    <string name="today">danes</string>
+    <string name="yesterday">včeraj</string>
     <!--  The date format pattern is difficult to remember, please refer to: https://docs.oracle.com/javase/7/docs/api/java/text/SimpleDateFormat.html  -->
     <string name="same_year_date_format">EEE., d. MMMMM</string>
     <string name="default_date_format">EEE., d. MMMMM yyyy</string>
@@ -903,4 +903,19 @@
     <string name="game_mode">Igralni način</string>
     <string name="game_mode_is_on">Igralni način je vklopljen, za izhod dvakrat pritisnite gumb Nazaj</string>
     <string name="game_mode_exit">Ponovno pritisnite za izklop igralnega načina</string>
+    <string name="show_details">Prikaži podrobnosti</string>
+    <string name="hide_details">Skrij podrobnosti</string>
+    <plurals name="items">
+        <item quantity="zero">0 vnosov</item>
+        <item quantity="one">1 vnos</item>
+        <item quantity="two">2 vnosa</item>
+        <item quantity="three">3 vnosi</item>
+        <item quantity="other">%d vnosov</item>
+    </plurals>
+    <string name="no_images">Ni slik</string>
+    <string name="update_pending">Začetek prenosa\u2026</string>
+    <string name="update_item_successfully">Posodobitev %1$s je uspešna</string>
+    <string name="update_item_failed">Posodobitev %1$s ni uspela</string>
+    <string name="update_scripts_completed">Posodobitev skript je uspela.</string>
+    <string name="request_item_update">Ste prepričani, da želite posodobiti %1$s?</string>
 </resources>
