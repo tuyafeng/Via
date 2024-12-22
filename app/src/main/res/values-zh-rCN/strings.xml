@@ -2,11 +2,11 @@
 <resources tools:ignore="MissingTranslation" xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name">Via</string>
     <!-- 翻译时，请使用「你」而不是「您」。用户与 Via 是相互尊重的关系，请不要刻意营造距离感 -->
-    <string name="action_new_tab">新建标签</string>
-    <string name="action_open_in_new">新标签打开</string>
+    <string name="action_new_tab">新建标签页</string>
+    <string name="action_open_in_new">在新标签页打开</string>
     <string name="action_save_img">保存图片</string>
     <string name="action_share">分享</string>
-    <string name="action_history">历史</string>
+    <string name="action_history">历史记录</string>
     <string name="action_bookmarks">书签</string>
     <string name="action_add_bookmark">添加书签</string>
     <string name="action_night">夜间模式</string>
@@ -119,7 +119,7 @@
     <string name="url_box">地址栏内容</string>
     <string name="url_box_domain">域名</string>
     <string name="action_pcview">电脑模式</string>
-    <string name="action_source">源码</string>
+    <string name="action_source">查看网页源代码</string>
     <string name="action_translate">翻译</string>
     <string name="title_edit_folder">编辑文件夹</string>
     <string name="msg_delete_folder">你想要删除此文件夹吗？</string>
@@ -227,7 +227,7 @@
     <string name="action_downloads">下载</string>
     <string name="empty_username_info">请填写你的用户名。</string>
     <string name="empty_password_info">请填写你的密码。</string>
-    <string name="offline_page_hint">下列为保存的网页，无论手机是否联网你都可以浏览它们。</string>
+    <string name="offline_page_hint">下列为保存的网页，无论你的设备是否联网你都可以浏览它们。</string>
     <string name="history_page_hint_when_incognito">你处于隐身模式时浏览将不会被记录。</string>
     <string name="action_preview">预览</string>
     <string name="action_page_info">页面信息</string>
@@ -328,7 +328,7 @@
     <string name="delete_account">注销账号</string>
     <string name="delete_account_hint">从服务器删除账号</string>
     <string name="delete_account_request_submitted">账号删除申请已提交。</string>
-    <string name="delete_account_message">提交删除申请后，账号将退出，进入 15 天的删除等待期，注销期间如你再次登录账号并上传了数据，将导致删除申请被撤回。等待期满后，该账号及相关数据将从服务器完全删除。\n请输入密码继续。</string>
+    <string name="delete_account_message">提交删除申请后，账号将退出，进入 15 天的删除等待期，在此期间如你再次登录账号并上传了数据，将导致删除申请被撤回。等待期满后，该账号及相关数据将从服务器完全删除。\n请输入密码继续。</string>
     <string name="confirm_to_delete">确定删除</string>
     <string name="select_all">全选</string>
     <string name="open_source_licenses">开源许可协议</string>
@@ -348,8 +348,8 @@
     <string name="restart_to_take_effect">这将在下次启动应用时生效，你希望立即重启应用以生效吗？</string>
     <string name="more">更多</string>
     <string name="sort_order">排序方式</string>
-    <string name="sort_by_oldest_first">最旧的优先</string>
-    <string name="sort_by_newest_first">最新的优先</string>
+    <string name="sort_by_oldest_first">按最旧的排序</string>
+    <string name="sort_by_newest_first">按最新的排序</string>
     <string name="sort_by_alphabetical_order">名称顺序</string>
     <string name="select_folder">选择文件夹</string>
     <string name="move">移动</string>
@@ -385,7 +385,7 @@
     <string name="check_for_updates">检查更新</string>
     <string name="checking_for_updates">正在检查更新</string>
     <string name="latest_version_already_installed">已是最新版本</string>
-    <string name="new_version_available">新版本可用</string>
+    <string name="new_version_available">有新版本可用</string>
     <string name="action_download_file">下载</string>
     <string name="delete_hint">删除(%1$d)</string>
     <string name="follow_system_dark_mode_on">跟随系统暗模式已启用</string>
@@ -401,7 +401,7 @@
     <string name="view_certificate">查看证书</string>
     <string name="certificate_info">证书信息</string>
     <string name="certificate_detail"><![CDATA[
-        <b>颁发对象</b><br />
+        <b>颁发给</b><br />
         <b>公用名 (CN)</b><br />
         %1$s
         <br /><b>组织 (O)</b><br />
@@ -416,7 +416,7 @@
         <br /><br /><b>有效期</b><br />
         <b>颁发日期</b><br />
         %6$s
-        <br /><b>截止日期</b><br />
+        <br /><b>到期日期</b><br />
         %7$s
         <br />
     ]]></string>
@@ -471,7 +471,7 @@
     <string name="theme_color_light">亮色</string>
     <string name="processing_blob_data">处理 blob 数据中…</string>
     <string name="tineye_url">TinEye</string>
-    <string name="login_username">用户名 (账号不存在将自动创建)</string>
+    <string name="login_username">用户名 (若账号不存在将自动创建)</string>
     <string name="read_and_agree">请阅读并同意 %1$s 与 %2$s</string>
     <string name="wechat_official_account">微信公众号</string>
     <string name="notification_channel_downloads">下载内容</string>
@@ -612,7 +612,7 @@
     <string name="action_keep">保留</string>
     <string name="desc_bookmark_folder">%1$s 文件夹</string>
     <string name="message_splash_agreement">在使用 Via 前，你需要认真阅读并同意我们的 %1$s 和 %2$s。</string>
-    <string name="translation_engine_google_in_page">谷歌页内翻译</string>
+    <string name="translation_engine_google_in_page">谷歌网页内翻译</string>
     <string name="title_feedback">意见反馈</string>
     <string name="action_view_cookies">查看 Cookies</string>
     <string name="title_cookies_for_site">%1$s 的 Cookies</string>
