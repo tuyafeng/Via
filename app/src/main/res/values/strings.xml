@@ -915,4 +915,25 @@
     <string name="update_item_failed">Update %1$s failed</string>
     <string name="update_scripts_completed">Scripts update completed.</string>
     <string name="request_item_update">Are you sure you want to update %1$s?</string>
+    <string name="vibrate">Vibrate</string>
+    <string name="vibrate_allowed_description">Allow sites to vibrate</string>
+    <string name="requires">Requires</string>
+    <string name="resources">Resources</string>
+    <string name="info_name">Name</string>
+    <string name="info_version">Version</string>
+    <string name="info_download_url">Download URL</string>
+    <string name="info_homepage_url">Homepage URL</string>
+    <string name="info_support_url">Support URL</string>
+    <string name="info_url">URL</string>
+    <string name="info_file_path">File path</string>
+    <string name="info_updated">Updated</string>
+    <string name="info_created">Created</string>
+    <string name="info_size">Size</string>
+    <string name="resource_does_not_exist_message">The resource does not exist and the script may not work properly. Do you want to download it?</string>
+    <string name="script_info">Script info</string>
+    <string name="resource_info">Resource info</string>
+    <string name="quick_back_add_site_exception_on">Enable go back without reloading for a specific site.</string>
+    <string name="quick_back_add_site_exception_off">Disable go back without reloading for a specific site.</string>
+    <string name="desktop_mode_add_site_exception_on">Enable desktop mode for a specific site.</string>
+    <string name="desktop_mode_add_site_exception_off">Disable desktop mode for a specific site.</string>
 </resources>

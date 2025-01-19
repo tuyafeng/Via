@@ -902,4 +902,25 @@
     <string name="update_item_failed">更新 %1$s 失败</string>
     <string name="update_scripts_completed">脚本更新完成。</string>
     <string name="request_item_update">你确认更新 %1$s 吗？</string>
+    <string name="vibrate">振动</string>
+    <string name="vibrate_allowed_description">允许网页振动</string>
+    <string name="requires">依赖</string>
+    <string name="resources">资源</string>
+    <string name="info_name">名称</string>
+    <string name="info_version">版本</string>
+    <string name="info_download_url">下载链接</string>
+    <string name="info_homepage_url">主页链接</string>
+    <string name="info_support_url">支持链接</string>
+    <string name="info_url">链接</string>
+    <string name="info_file_path">文件路径</string>
+    <string name="info_updated">更新于</string>
+    <string name="info_created">创建于</string>
+    <string name="info_size">大小</string>
+    <string name="resource_does_not_exist_message">资源不存在，脚本可能无法正常运行。你想要下载此资源吗？</string>
+    <string name="script_info">脚本信息</string>
+    <string name="resource_info">资源信息</string>
+    <string name="quick_back_add_site_exception_on">为特定网站打开返回不重载。</string>
+    <string name="quick_back_add_site_exception_off">为特定网站关闭返回不重载。</string>
+    <string name="desktop_mode_add_site_exception_on">为特定网站打开电脑模式。</string>
+    <string name="desktop_mode_add_site_exception_off">为特定网站关闭电脑模式。</string>
 </resources>
