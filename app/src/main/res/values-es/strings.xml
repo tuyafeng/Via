@@ -887,4 +887,19 @@
     <string name="search_toolbar">Barra de búsqueda</string>
     <string name="enable_search_toobar">Activar barra de búsqueda</string>
     <string name="invalid_url">URL no válida</string>
+    <string name="grant_camera_permission_hint">Toque la pantalla para otorgar permiso a la cámara \npara escanear el código</string>
+    <string name="location_add_site_exception_allow">Permite que un sitio específico acceda a tu ubicación.</string>
+    <string name="location_add_site_exception_block">Bloquea un sitio específico para que no acceda a tu ubicación.</string>
+    <string name="site_request_location_permission">%1$s quiere utilizar tu ubicación.</string>
+    <string name="site_is_using_your_location">%1$s está utilizando tu ubicación.</string>
+    <string name="text_size_site_exception_add">Configura el tamaño del texto para un sitio específico.</string>
+    <string name="only_take_effect_for_current_site">Solo tendrá efecto en el sitio actual</string>
+    <string name="disable_webrtc">Desactivar WebRTC</string>
+    <string name="lock">Bloquear</string>
+    <string name="unlock">Desbloquear</string>
+    <string name="delete_items_message">¿Realmente quieres eliminar %1$d elementos?</string>
+    <string name="pip">Imagen en imagen</string>
+    <string name="game_mode">Modo juego</string>
+    <string name="game_mode_is_on">El modo juego está activado, presiona la tecla de retroceso dos veces para salir</string>
+    <string name="game_mode_exit">Presiona una vez más para salir del modo juego</string>
 </resources>

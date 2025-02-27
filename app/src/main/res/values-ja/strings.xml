@@ -81,7 +81,7 @@
     <string name="sync_data">同期したデータ</string>
     <string name="sync_data_none">なし</string>
     <string name="sync_data_bookmarks">ブックマーク</string>
-    <string name="sync_data_favorites">Favorites</string>
+    <string name="sync_data_favorites">スピードダイヤル</string>
     <string name="sync_data_settings">設定</string>
     <string name="delimiter">, </string>
     <string name="sync_done">同期完了</string>
@@ -171,8 +171,8 @@
     <string name="category_basics">基本設定</string>
     <string name="category_permissions">権限設定</string>
     <string name="add_site_exception">例外設定を追加します</string>
-    <string name="blocked">ブロックしました</string>
-    <string name="allowed">許可しました</string>
+    <string name="blocked">ブロック</string>
+    <string name="allowed">許可</string>
     <string name="exception">例外</string>
     <string name="block">ブロック</string>
     <string name="allow">許可</string>
@@ -234,10 +234,10 @@
     <string name="custom_reader_css">カスタムCSS設定</string>
     
     <!-- 設定｜一般｜ナビゲーションバーの非表示設定 -->
-    <string name="fullscreen">ナビゲーションバーの非表示設定</string>
+    <string name="fullscreen">ナビゲーションバーの非表示</string>
     <string name="disable">無効</string>
-    <string name="fullscreen_1">スクロールで非表示/表示</string>
-    <string name="fullscreen_2">タップで非表示/表示</string>
+    <string name="fullscreen_1">スクロール</string>
+    <string name="fullscreen_2">タップ</string>
     
     <!-- 設定｜一般｜ナビゲーションバーのレイアウト -->
     <string name="ui_mode">ナビゲーションバーのレイアウト</string>
@@ -262,8 +262,11 @@
     <string name="action_blank">空白のページ</string>    
     <string name="action_bookmarks">ブックマーク</string>
     <string name="action_webpage">特定のページ</string>
- 
-    <!-- 設定｜一般｜検索エンジン -->    
+
+    <!-- 設定｜一般｜検索設定 -->
+    <string name="search_settings">検索設定</string>
+    
+    <!-- 設定｜一般｜検索設定｜検索エンジン -->
     <string name="search">検索エンジン</string>
     <string name="custom_url">カスタム</string>
     <string name="baidu_url">百度</string>
@@ -273,9 +276,15 @@
     <string name="startpage_url">StartPage (Ixquick)</string>
     <string name="duckduckgo_url">DuckDuckGo</string>
 
-    <!-- 設定｜一般｜サーチサジェスト -->    
-    <string name="title_search_suggestions">サーチサジェスト</string>
+    <!-- 設定｜一般｜検索設定｜検索サジェスト -->    
+    <string name="title_search_suggestions">検索サジェスト</string>
     <string name="message_search_suggestions">アドレスバーに表示する項目を選択します</string>
+    <string name="title_open_tabs">開いているタブ</string>
+
+    <!-- 設定｜一般｜検索設定｜検索ツールバー -->    
+    <string name="search_toolbar">検索ツールバー</string>
+    <string name="enable_search_toobar">検索ツールバーを有効にする</string>
+    <string name="disabled">無効</string>
     
     <!-- 設定｜一般｜フォントサイズ -->    
     <string name="size">フォントサイズ</string>
@@ -290,15 +299,15 @@
     <!-- 設定｜一般｜ダウンロード先 -->
     <string name="download">ダウンロード先</string>    
     
-    <!-- 設定｜一般｜ダウンロードツール -->
-    <string name="addon_download">ダウンロードマネージャー</string>
-    <string name="built_in_download_manager">内蔵ダウンロードマネージャー</string>
-    <string name="system_download_manager">システムダウンロードマネージャー</string>
+    <!-- 設定｜一般｜ダウンロード設定 -->
+    <string name="addon_download">ダウンロード設定</string>
+    <string name="built_in_download_manager">Viaでダウンロードする</string>
+    <string name="system_download_manager">OSのダウンロードマネージャーを使用する</string>
 
-    <!-- 設定｜一般｜ダウンロードツール -->
-    <string name="external_video_player">外部ビデオプレイヤー</string>
-    <string name="external_video_player_description">ビデオ再生時に別のアプリケーションを使用する場合は選択します</string>
-    <string name="player_system_sharing">システム共有を表示</string>
+    <!-- 設定｜一般｜動画プレイヤー -->
+    <string name="external_video_player">動画プレイヤー</string>
+    <string name="external_video_player_description">動画の再生時に使用するアプリを選択</string>
+    <string name="player_system_sharing">アプリ一覧を表示</string>
 
     <!-- 設定｜一般｜アドレスバーの内容 -->
     <string name="url_box">アドレスバーの内容</string>
@@ -360,7 +369,7 @@
     <string name="height">高さ</string>
     <string name="corner_radius">丸み</string>
     <string name="adaptive">画面に合わせる</string>
-    <string name="action_favorites">ブックマーク</string>
+    <string name="action_favorites">スピードダイヤル</string>
     <string name="stroke_width">枠線の幅</string>
     <string name="stroke_opacity">枠線の不透明度</string>
     <string name="opacity">不透明度</string>
@@ -404,6 +413,7 @@
     <string name="settings_privacy">プライバシー</string>    
     <string name="location">位置情報へのアクセスを許可する</string>
     <string name="do_not_track">Do Not Track（トラッキング拒否）</string>
+    <string name="disable_webrtc">WebRTCを無効にする</string>
     <string name="block_3rd_party_cookies">サードパーティーCookieをブロック</string>
     <string name="remove_identifying_headers">識別用HTTPヘッダーを削除する</string>
     <string name="remove_identifying_headers_description">有効にすると、「X-Requested-With」ヘッダーと「X-Wap-Profile」ヘッダーが削除され、一部のページで正常に表示されない場合があります。</string>
@@ -463,17 +473,19 @@
     <string name="sort_by_newest_first">登録が新しい順</string>
     <string name="sort_by_alphabetical_order">アルファベット順</string>
     <string name="move">移動</string>
+    <string name="open">開く</string>
+    <string name="sort">並び替え</string>
     <string name="done">完了</string>
     <string name="more">その他</string>
-    <string name="action_manage_favorites">ブックマーク マネージャー</string>
+    <string name="action_manage_favorites">スピードダイヤル マネージャー</string>
+    <string name="delete_item_message">%1$s を削除してもよろしいですか？</string>
     <string name="item_has_been_deleted">\"%1$s\" は削除されました</string>
     <string name="undo">元に戻す</string>
-    <string name="action_add_to_homepage">スピードダイヤルに追加</string>
     <string name="added_favorite_hint">スピードダイヤルに追加しました。</string>
-    <string name="title_edit_favorite">ブックマークを編集</string>
+    <string name="title_edit_favorite">スピードダイヤルを編集</string>
     <string name="add_shortcut">ショートカットを追加</string>
     <string name="delete_hint">削除(%1$d)</string>
-    
+
     <!-- 履歴 -->
     <string name="today">今日</string>
     <string name="yesterday">昨日</string>
@@ -506,6 +518,7 @@
     <string name="app_downloading_files">Viaがファイルをダウンロード中です</string>
     <string name="app_downloading_files_subtitle">タップしてダウンロードを表示</string>
     <string name="download_status_waiting_for_network">ネットワークの待機中です</string>
+    <string name="download_status_paused">一時停止中</string>
     <string name="download_failed_with_message">%1$s によりダウンロードが失敗しました</string>
     <string name="download_filter_all">全て</string>
     <string name="download_filter_others">その他</string>
@@ -515,6 +528,9 @@
     <string name="download_filter_apk">APK</string>
     <string name="download_filter_audio">音声</string>
     <string name="download_filter_archives">圧縮ファイル</string>
+    <string name="download_action_pause">一時停止</string>
+    <string name="file_download_completed">%1$s のダウンロードが完了しました</string>
+    <string name="file_download_failed">%1$s のダウンロードが失敗しました</string>
 
     <!-- ポップアップ -->     
     <string name="allow_website_to_open_app_message">ウェブサイトを %1$s で開きますか？</string>
@@ -548,6 +564,7 @@
     <string name="action_pcview">デスクトップモード</string>
     <string name="action_source">ソース表示</string>
     <string name="action_share">共有</string>
+    <string name="open_app_failed">リンクを開くためのアプリが見つかりません</string>
     <string name="action_history">履歴</string>
     <string name="action_night">ナイトモード</string>
     <string name="image_auto">Wi-Fi接続時のみ</string>
@@ -555,6 +572,9 @@
     <string name="image_on">画像を表示</string>
     <string name="action_tools">ツール</string>
     <string name="action_fullscreen">全画面表示</string>
+    <string name="action_add_to_homepage">ショートカットを追加</string>
+    <string name="read_aloud">テキストの読み上げ</string>
+    <string name="print_or_pdf">印刷/PDF</string>
     
     <!-- ツール｜ネットワークログ -->
     <string name="log_page_hint">アドレスもしくはドメインをコピーし %1$s に貼り付けて広告ブロックリストを作成できます。</string>
@@ -576,6 +596,7 @@
     <string name="action_close_other_tabs">他のタブを閉じる</string>
     <string name="action_close_tabs_to_the_bottom">下のタブを閉じる</string>
     <string name="action_close_tabs_to_the_top">上のタブを閉じる</string>
+    <string name="duplicate_tab">タブを複製する</string>
     <string name="operation_lasttab">前のタブ</string>
     <string name="operation_nexttab">次のタブ</string>
 
@@ -632,6 +653,7 @@
     <string name="toast_fullscreen_off">全画面解除</string>
     <string name="action_view_image">画像を開く</string>
     <string name="action_save_web_page">ページを保存</string>
+    <string name="save_as_pdf">PDFで保存する</string>
     <string name="action_saved_pages">保存済みページ</string>
     <string name="saved_page_successfully">保存しました</string>
     <string name="deleted_failed">削除できませんでした。ダウンロードファイルのパス: </string>
