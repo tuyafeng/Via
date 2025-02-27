@@ -910,4 +910,25 @@
     <string name="update_item_failed">Обновление %1$s не выполнено</string>
     <string name="update_scripts_completed">Обновление скриптов завершено.</string>
     <string name="request_item_update">Обновить %1$s?</string>
+    <string name="vibrate">Вибрация</string>
+    <string name="vibrate_allowed_description">Разрешать сайтам использовать вибросигнал</string>
+    <string name="requires">Требования</string>
+    <string name="resources">Ресурсы</string>
+    <string name="info_name">Имя</string>
+    <string name="info_version">Версия</string>
+    <string name="info_download_url">Адрес загрузки</string>
+    <string name="info_homepage_url">Адрес домашней страницы</string>
+    <string name="info_support_url">Адрес поддержки</string>
+    <string name="info_url">Адрес</string>
+    <string name="info_file_path">Путь файла</string>
+    <string name="info_updated">Обновлён</string>
+    <string name="info_created">Создан</string>
+    <string name="info_size">Размер</string>
+    <string name="resource_does_not_exist_message">Отсутствует ресурс, скрипт может работать неправильно. Загрузить его?</string>
+    <string name="script_info">О скрипте</string>
+    <string name="resource_info">О ресурсе</string>
+    <string name="quick_back_add_site_exception_on">Разрешать возврат без перезагрузки страницы на определённом сайте.</string>
+    <string name="quick_back_add_site_exception_off">Запрещать возврат без перезагрузки страницы на определённом сайте.</string>
+    <string name="desktop_mode_add_site_exception_on">Разрешать полную версию страницы на определённом сайте.</string>
+    <string name="desktop_mode_add_site_exception_off">Запрещать полную версию страницы на определённом сайте.</string>
 </resources>
