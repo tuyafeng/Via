@@ -936,4 +936,15 @@
     <string name="quick_back_add_site_exception_off">Disable go back without reloading for a specific site.</string>
     <string name="desktop_mode_add_site_exception_on">Enable desktop mode for a specific site.</string>
     <string name="desktop_mode_add_site_exception_off">Disable desktop mode for a specific site.</string>
+    <string name="no_camera">No camera</string>
+    <string name="two_row_toolbar">Two-row toolbar</string>
+    <string name="experimental">Experimental</string>
+    <string name="blur_effect">Blur effect</string>
+    <string name="blur_effect_description">Enable blur effect for the app. Some devices may not support it.</string>
+    <string name="show_background_in_settings">Show background in settings</string>
+    <string name="show_background_in_settings_toast">It will take effect the next time you open Settings</string>
+    <string name="toolbars_settings">Toolbars settings</string>
+    <string name="user_agent_in_desktop_mode">User-agent in desktop mode</string>
+    <string name="user_agent_reduction">User-agent reduction</string>
+    <string name="user_agent_reduction_description">Remove device information and minor version information from User-agent</string>
 </resources>

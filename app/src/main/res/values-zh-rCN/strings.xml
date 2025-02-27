@@ -923,4 +923,15 @@
     <string name="quick_back_add_site_exception_off">为特定网站关闭返回不重载。</string>
     <string name="desktop_mode_add_site_exception_on">为特定网站打开电脑模式。</string>
     <string name="desktop_mode_add_site_exception_off">为特定网站关闭电脑模式。</string>
+    <string name="no_camera">无相机</string>
+    <string name="two_row_toolbar">双行工具栏</string>
+    <string name="experimental">实验</string>
+    <string name="blur_effect">模糊效果</string>
+    <string name="blur_effect_description">为应用启用模糊效果，部分设备可能不支持</string>
+    <string name="show_background_in_settings">在设置中显示背景</string>
+    <string name="show_background_in_settings_toast">将在下次打开设置时生效</string>
+    <string name="toolbars_settings">工具栏设置</string>
+    <string name="user_agent_in_desktop_mode">电脑模式下的浏览器标识</string>
+    <string name="user_agent_reduction">简化浏览器标识</string>
+    <string name="user_agent_reduction_description">从浏览器标识中移除设备信息及次要版本信息</string>
 </resources>

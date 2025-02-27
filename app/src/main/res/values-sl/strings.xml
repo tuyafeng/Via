@@ -907,9 +907,9 @@
     <string name="hide_details">Skrij podrobnosti</string>
     <plurals name="items">
         <item quantity="zero">0 vnosov</item>
-        <item quantity="one">1 vnos</item>
-        <item quantity="two">2 vnosa</item>
-        <item quantity="three">3 vnosi</item>
+        <item quantity="one">%d vnos</item>
+        <item quantity="two">%d vnosa</item>
+        <item quantity="few">%d vnosi</item>
         <item quantity="other">%d vnosov</item>
     </plurals>
     <string name="no_images">Ni slik</string>
