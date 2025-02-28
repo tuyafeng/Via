@@ -424,9 +424,9 @@
     ]]></string>
     <string name="no_certificate">Сайт не имеет сертификата.</string>
     <string name="site_conf_enabled">Настройки сайта (включено)</string>
-    <string name="do_not_sell_or_share">Не передавать данные</string>
-    <string name="do_not_sell_or_share_description">Требовать от сайта не продавать и не передавать мои данные для защиты конфиденциальности (экспериментально)</string>
-    <string name="email_me">Написать мне письмо</string>
+    <string name="do_not_sell_or_share">Не передавать мои данные</string>
+    <string name="do_not_sell_or_share_description">Требовать от сайта не продавать и не разглашать мои данные для защиты конфиденциальности (экспериментально)</string>
+    <string name="email_me">Написать письмо разработчику</string>
     <string name="scan_qr_code">Сканировать QR-код</string>
     <string name="scan_qr_code_from_image">Сканировать QR-код с изображения</string>
     <string name="switch_flash">Переключить вспышку</string>
@@ -851,7 +851,7 @@
     <string name="enable_draggable_scrollbar">Ползунок полосы прокрутки</string>
     <string name="file_download_completed">%1$s загружен</string>
     <string name="file_download_failed">Ошибка при загрузке %1$s</string>
-    <string name="require_confirmation_to_enable_reader_mode">Подтверждение режима чтения</string>
+    <string name="require_confirmation_to_enable_reader_mode">Подтверждать режим чтения</string>
     <string name="require_confirmation_to_enable_reader_mode_description_enabled">Показывать меню при нажатии на значок режима чтения в адресной строке</string>
     <string name="require_confirmation_to_enable_reader_mode_description_disabled">Сразу включать режим чтения при нажатии на соответствующий значок в адресной строке</string>
     <string name="appearance">Внешний вид</string>
@@ -931,4 +931,15 @@
     <string name="quick_back_add_site_exception_off">Запрещать возврат без перезагрузки страницы на определённом сайте.</string>
     <string name="desktop_mode_add_site_exception_on">Разрешать полную версию страницы на определённом сайте.</string>
     <string name="desktop_mode_add_site_exception_off">Запрещать полную версию страницы на определённом сайте.</string>
+    <string name="no_camera">Нет камеры</string>
+    <string name="two_row_toolbar">Двухрядная панель</string>
+    <string name="experimental">Экспериментально</string>
+    <string name="blur_effect">Эффект размытия</string>
+    <string name="blur_effect_description">Использовать эффект размытия в приложении. Некоторые устройства могут его не поддерживать.</string>
+    <string name="show_background_in_settings">Показывать фон в настройках</string>
+    <string name="show_background_in_settings_toast">Изменение вступит в силу при следующем входе в настройки</string>
+    <string name="toolbars_settings">Настройки панелей инструментов</string>
+    <string name="user_agent_in_desktop_mode">UserAgent для полной версии страницы</string>
+    <string name="user_agent_reduction">Сокращать UserAgent</string>
+    <string name="user_agent_reduction_description">Убирать информацию об устройстве и второстепенную версию из UserAgent</string>
 </resources>
