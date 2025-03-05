@@ -26,7 +26,7 @@
 ما همه را تشویق می‌کنیم تا در بومی‌سازی کمک کنند. در ادامه نحوه انجام این کار آمده است.
 
 1. این مخزن را فورک کنید
-۲. فایل app/src/main/res/values/strings.xml را به مسیری مانند app/src/main/res/values-%(lang)/ کپی کنید، سپس %(lang) را با [*the ISO 639-1 language code*] جایگزین کنید.
+۲. فایل app/src/main/res/values/strings.xml را به مسیری مانند app/src/main/res/values-%(lang)/ کپی کنید، سپس %(lang) را با [[*the ISO 639-1 language code*]](http://www.loc.gov/standards/iso639-2/php/code_list.php) جایگزین کنید.
 3. `app/src/main/res/values-%(lang)/strings.xml` را ترجمه کنید
 4. یک درخواست (Pull request) ارسال کنید
 
