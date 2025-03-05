@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources tools:ignore="MissingTranslation" xmlns:tools="http://schemas.android.com/tools">
-
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
     <string name="app_name">ویا</string>
     <string name="action_new_tab">زبانه جدید</string>
     <string name="action_open_in_new">باز کردن در زبانه جدید</string>
@@ -53,25 +52,25 @@
     <string name="hint_folder">پوشه</string>
     <string name="title_edit_bookmark">ویرایش نشانک</string>
     <string name="action_edit">ویرایش این</string>
-    <string name="action_incognito">حالت ناشناش</string>
+    <string name="action_incognito">حالت ناشناس</string>
     <string name="action_find">پیدا کردن در صفحه</string>
     <string name="download_pending">دانلود شروع شد\u2026</string>
     <string name="cannot_download">فقط میتونید از لینک های \"http\" یا \"https\" دانلود کنید.</string>
     <string name="bookmarks_imported">%1$d نشانک ها وارد شد</string>
     <string name="custom_url">نشانی اینترنتی شخصی سازی شده</string>
-    <string name="baidu_url">Baidu</string>
+    <string name="baidu_url">بایدو</string>
     <string name="shenma_url">ShenMa</string>
-    <string name="bing_url">Bing</string>
-    <string name="haosou_url">360 Search</string>
-    <string name="duckduckgo_url">DuckDuckGo</string>
+    <string name="bing_url">بینگ</string>
+    <string name="haosou_url">جستجو 360</string>
+    <string name="duckduckgo_url">داک‌داک‌گو</string>
     <string name="startpage_url">صفحه شروع</string>
-    <string name="yahoo_url">Yahoo</string>
-    <string name="yandex_url">Yandex</string>
-    <string name="google_url">Google</string>
+    <string name="yahoo_url">یاهو</string>
+    <string name="yandex_url">یاندکس</string>
+    <string name="google_url">گوگل</string>
     <string name="sougou_url">Sogou</string>
     <string name="block_ads">مسدود کردن تبلیغات</string>
     <string name="title_form_resubmission">ارسال مجدد فرم</string>
-    <string name="message_form_resubmission">آیا مایل هستید اطلاعات دوباره ارسال شوند></string>
+    <string name="message_form_resubmission">آیا مایل هستید اطلاعات دوباره ارسال شوند&gt;</string>
     <string name="message_location">\nمیخواهد از موقعیت مکانی شما استفاده کند</string>
     <string name="action_allow">مجاز</string>
     <string name="action_dont_allow">رد کردن</string>
@@ -151,7 +150,6 @@
     <string name="open_with">بازکردن با</string>
     <string name="download_completed">دانلود کامل شد</string>
     <string name="toast_fullscreen_off">خروج از حالت تمام صفحه</string>
-
     <string name="clear_data">پاک کردن اطلاعات</string>
     <string name="data_cache">کش</string>
     <string name="data_form_data">اطلاعات فرم ها</string>
@@ -159,32 +157,22 @@
     <string name="data_storage">حافظه وب</string>
     <string name="data_cookies">کوکی ها</string>
     <string name="data_cleared">اطلاعات پاک شد</string>
-
     <string name="settings_skin">شخصی سازی</string>
     <string name="default_set">پیش فرض</string>
     <string name="picture">تصویر</string>
     <string name="text">متن</string>
     <string name="html_code">کد HTML</string>
-
     <string name="action_view_image">نمایش تصویر</string>
-
     <string name="block_popup">مسدود کردن پاپ آپ</string>
-
     <string name="action_save_web_page">ذخیره صفحه وب</string>
     <string name="action_saved_pages">صفحه های وب ذخیره شده</string>
-    <string name="saved_page_successfully">صفحه وب با موفقیت ذخیره شد. میتواند صفحات را در منو: ابزارها > صفحات وب خیره شده ببینید.</string>
+    <string name="saved_page_successfully">صفحه وب با موفقیت ذخیره شد. میتواند صفحات را در منو: ابزارها &gt; صفحات وب خیره شده ببینید.</string>
     <string name="deleted_failed">حذف نشد. فایل در این مسیر دانلود قرار دارد: </string>
-
     <string name="empty_hint">خالی</string>
-
     <string name="network_log">گزارش شبکه</string>
-
     <string name="conn_timeout">اتصال منقضی شد</string>
-
     <string name="already_default">قبلاً به عنوان پیش فرض تنظیم شده است</string>
-
     <string name="set_to_default">بعد از با کردن لینک %1$s به عنوان یش فرض تنظیم میشود. لطفا ویا را برای بازکردن لیک انتخاب کنید.</string>
-
     <string name="sync_prompt">تنظیمات و نشانک های فعلی شما جایگزین میشوند. ادامه میدهید؟</string>
     <string name="upload_prompt">تنظیمات و نشانک های فعلی شما ارسال میشود. ادامه میدهید؟</string>
     <string name="none">هیچ کدام</string>
@@ -266,7 +254,7 @@
     <string name="bookmarks_data_to_long">داده های نشانک ها برای ارسال خیلی بزرگ است, اما سایر داده ها به طور معمول بارگذاری می شوند. ادامه میدهید؟?</string>
     <string name="restore_tabs_hint_settings">شما ناشناس شدید. زبانه ها بازگردانی نمیشوند.</string>
     <string name="web_page_debug">فعال کردن دیباگ صفحات وب</string>
-    <string name="web_page_debug_info">حالا میتوانید گوشی خود را به کامپیوتر متصل کنید, سپس در کروم (کامپیوتر) دیباگ کنید  با استفاده از \"chrome://inspect\". یادتان باشد اول حالت دیباگ با USB را از منو: ابزارهای بیشتر > ابزارهای توسعه دهنگان فعال کنید.</string>
+    <string name="web_page_debug_info">حالا میتوانید گوشی خود را به کامپیوتر متصل کنید, سپس در کروم (کامپیوتر) دیباگ کنید  با استفاده از \"chrome://inspect\". یادتان باشد اول حالت دیباگ با USB را از منو: ابزارهای بیشتر &gt; ابزارهای توسعه دهنگان فعال کنید.</string>
     <string name="action_re_download">دانلود مجدد</string>
     <string name="action_copy_download_link">کپی کردن لینک دانلود</string>
     <string name="download_failed">دانلود انجام نشد</string>
@@ -319,16 +307,635 @@
     <string name="help">کمک</string>
     <string name="learn_more">بیشتر بدانید</string>
     <plurals name="filters">
-        <item quantity="zero">بدون فیلتر</item>
         <item quantity="one">یک فیلتر</item>
         <item quantity="other">%d فیلتر</item>
     </plurals>
     <string name="updated_">بروزرسانی شد %1$s</string>
-    <string name="filter_subscription_info">%1$s, %2$s</string>
+    <string name="filter_subscription_info">%1$s، %2$s</string>
     <string name="enable_built_in_filters">فعال کردن فیلترهای داخلی</string>
     <string name="enable_built_in_filters_description">فیلترهای داخلی فقط تبلیغات رایج را مسدود می کنند</string>
     <string name="update">بروزرسانی</string>
-    <string name="bookmarks_exported_successfully">نشانک ها با موفقیت صادر شدند</string>
+    <string name="bookmarks_exported_successfully">نشانک‌ها با موفقیت صادر شدند</string>
     <string name="data_exported_successfully">اطلاعات با موفقیت صادر شدند</string>
     <string name="privacy_policy">سیاست حفظ حریم خصوصی</string>
+    <string name="terms_of_use">نحوه استفاده</string>
+    <string name="welcome">خوش آمدید</string>
+    <string name="agreement_message_short">قبل از شروع استفاده از خدمات ما باید با همه شرایط موافقت کرده و آن را بپذیرید.</string>
+    <string name="agree_and_continue">می‌پذیرم</string>
+    <string name="disagree">نمی‌پذیرم</string>
+    <string name="exit">خروج</string>
+    <string name="delete_account">حذف حساب</string>
+    <string name="delete_account_request_submitted">درخواست حذف حساب ارسال شده است.</string>
+    <string name="delete_account_hint">حذف حساب از سرور</string>
+    <string name="delete_account_message">پس از ارسال درخواست حذف حساب کاربری، شما از حساب خارج می‌شوید و وارد دوره‌ی انتظار ۱۵ روزه می‌شوید. اگر در طول این دوره‌ی انتظار دوباره به حساب خود وارد شوید و داده‌ای بارگذاری کنید، درخواست حذف شما لغو خواهد شد. پس از انقضای دوره‌ی انتظار، حساب کاربری و داده‌های مربوطه به طور کامل از سرور حذف خواهند شد.\nلطفاً برای ارسال درخواست، رمز عبور خود را وارد کنید.</string>
+    <string name="confirm_to_delete">تأیید برای حذف</string>
+    <string name="select_all">انتخاب همه</string>
+    <string name="open_source_licenses">مجوزهای منبع باز</string>
+    <string name="debugging_info">اطلاعات اشکال‌زدایی</string>
+    <string name="join_qq_group">به گروه QQ بپیوندید</string>
+    <string name="join_telegram_group">به گروه تلگرام بپیوندید</string>
+    <string name="follow_me_on_twitter">ما را در توییتر دنبال کنید</string>
+    <string name="follow_me_on_weibo">ما را در ویبو دنبال کنید</string>
+    <string name="paste_and_go">چسباندن &amp; رفتن</string>
+    <string name="night_filter_for_web_contents">فیلتر شب برای محتوای وب</string>
+    <string name="force_dark_mode_for_web_contents">انجام تاریکی اجباری برای محتوای وب</string>
+    <string name="force_dark_mode_for_web_contents_description">وقتی حالت تاریک اجباری فعال شود، صفحات وب به اجبار تیره خواهند شد که ممکن است باعث رفتار غیرعادی برخی صفحات شود.</string>
+    <string name="require_javascript_enabled">این تغییرات زمانی اعمال خواهند شد که جاوااسکریپت فعال باشد.</string>
+    <string name="keyboard_shortcuts">میانبرهای صفحه‌کلید</string>
+    <string name="export_data_description">صادرات نشانک‌ها، تنظیمات، اسکریپت‌ها و فیلترهای تبلیغات</string>
+    <string name="language">زبان</string>
+    <string name="restart_to_take_effect">این تغییرات در بار بعدی که برنامه را باز کنید اعمال خواهند شد. آیا می‌خواهید هم‌اکنون برنامه را مجدداً راه‌اندازی کنید تا تغییرات فوراً اعمال شوند؟</string>
+    <string name="more">بیشتر</string>
+    <string name="sort_order">ترتیب مرتب‌سازی</string>
+    <string name="sort_by_oldest_first">ابتدا قدیمی‌ترین</string>
+    <string name="sort_by_newest_first">ابتدا جدیدترین</string>
+    <string name="sort_by_alphabetical_order">ترتیب الفبایی</string>
+    <string name="select_folder">انتخاب پوشه</string>
+    <string name="move">انتقال</string>
+    <string name="done">انجام شد</string>
+    <string name="root_folder">پوشه اصلی</string>
+    <string name="delete_item_message">مطمئنی می خوای %1$s رو پاک کنی ؟</string>
+    <string name="item_has_been_deleted">\"%1$s\" حذف شد</string>
+    <string name="undo">واگرد</string>
+    <string name="can_not_sort_list_when_sorting_alphabetically">قادر به مرتب‌سازی لیست به ترتیب حروف الفبا نیست</string>
+    <string name="opened_in_background_message">تب جدید در پس‌زمینه باز شد</string>
+    <string name="bookmark_added">نشانک اضافه شد</string>
+    <string name="allow_website_to_open_app_message">آیا اجازه می‌دهید وب‌سایت %1$s را باز کند؟</string>
+    <string name="width">عرض</string>
+    <string name="height">ارتفاع</string>
+    <string name="corner_radius">شعاع گوشه</string>
+    <string name="adaptive">تطبیقی</string>
+    <string name="action_favorites">علاقه‌مندی‌ها</string>
+    <string name="skin_search_bar">نوار جستجو</string>
+    <string name="stroke_width">ضخامت حاشیه</string>
+    <string name="stroke_opacity">شفافیت حاشیه</string>
+    <string name="opacity">شفافیت</string>
+    <string name="font_style">سبک قلم</string>
+    <string name="bold">برجسته</string>
+    <string name="italics">مورب</string>
+    <string name="clear_website_icon_cache">پاک‌کردن کش نماد وب‌سایت</string>
+    <string name="clear_website_icon_cache_message">توجه داشته باشید که این کار همه آیکون‌های علاقه‌مندی‌ها در صفحه اصلی را پاک خواهد کرد. هر نماد در دفعه بعدی که به آن وب‌سایت مراجعه می‌کنید، دوباره بارگیری می‌شود.</string>
+    <string name="desc_favorite_icon">نماد یک علاقه‌مندی</string>
+    <string name="action_save">ذخیره</string>
+    <string name="reset_to_default_settings">بازگشت به تنظیمات پیش‌فرض</string>
+    <string name="save_data">ذخیره داده ها</string>
+    <string name="save_data_description">فعال کردن حالت صرفه‌جویی در داده‌ها در وب‌سایت‌های سازگار</string>
+    <string name="action_manage_favorites">مدیر علاقه‌مندی‌ها</string>
+    <string name="check_for_updates">بررسی به‌روزرسانی ها</string>
+    <string name="checking_for_updates">در حال بررسی برای به‌روزرسانی‌ها</string>
+    <string name="latest_version_already_installed">آخرین نسخه از قبل نصب شده است</string>
+    <string name="new_version_available">نسخه جدید موجود است</string>
+    <string name="action_download_file">بارگیری</string>
+    <string name="delete_hint">حذف (%1$d)</string>
+    <string name="follow_system_dark_mode_on">دنبال کردن حالت تاریک سیستم فعال است</string>
+    <string name="scoped_search">جستجو %1$s</string>
+    <string name="add_shortcut">افزودن میانبر</string>
+    <string name="need_shortcut_permission">دسترسی رد شد. لطفاً به تنظیمات بروید و مجوز \"ایجاد میانبرهای صفحه اصلی\" را برای این برنامه فعال کنید.</string>
+    <string name="create_shortcut_successfully">ایجاد میانبر برای %1$s با موفقیت انجام شد</string>
+    <string name="update_shortcut_successfully">به‌روزرسانی میانبر برای %1$s با موفقیت انجام شد</string>
+    <string name="today">امروز</string>
+    <string name="yesterday">دیروز</string>
+    <!--  The date format pattern is difficult to remember, please refer to: https://docs.oracle.com/javase/7/docs/api/java/text/SimpleDateFormat.html  -->
+    <string name="same_year_date_format">EEE, MMM dd</string>
+    <string name="default_date_format">EEE, MMM dd, yyyy</string>
+    <string name="view_certificate">مشاهده گواهی</string>
+    <string name="certificate_info">اطلاعات گواهی‌</string>
+    <!-- The b tag means bold, And the br tag means line break.  -->
+    <string name="certificate_detail"><![CDATA[        <b>صادر شده به</b><br />
+        <b>نام مشترک (ن.م)</b><br />
+        %1$s
+        <br /><b>سازمان (س)</b><br />
+        %2$s
+        <br /><b>واحد سازمانی (و.س)</b><br />
+        %3$s
+        <br /><br /><b>صادر شده توسط</b><br />
+        <b>نام مشترک (ن.م)</b><br />
+        %4$s
+        <br /><b>سازمان (س)</b><br />
+        %5$s
+        <br /><br /><b>دوره اعتبار</b><br />
+        <b>صادر شده در</b><br />
+        %6$s
+        <br /><b>منقضی می‌شود در</b><br />
+        %7$s
+        <br />
+    ]]></string>
+    <string name="no_certificate">وب‌سایت فاقد گواهی‌نامه است.</string>
+    <string name="site_conf_enabled">پیکربندی سایت (فعال)</string>
+    <string name="do_not_sell_or_share">داده‌ها را نفروشید یا به اشتراک نگذارید</string>
+    <string name="do_not_sell_or_share_description">درخواست کنید که وب‌سایت داده‌های شما را برای حفاظت از حریم خصوصی نفروشد یا به اشتراک نگذارد (آزمایشی)</string>
+    <string name="email_me">برام ایمیل بفرست</string>
+    <string name="scan_qr_code">پویش کد QR</string>
+    <string name="scan_qr_code_from_image">پویش کد QR از عکس</string>
+    <string name="switch_flash">تغییر چراغ‌قوه</string>
+    <string name="qr_code_scan_result">نتیجه پویش QR کد</string>
+    <string name="qr_code_not_detected">QR کد شناسایی نشد.</string>
+    <string name="save_qr_code_successfully">QR کد در گالری ذخیره شد.</string>
+    <string name="description_with_number">%1$s (%2$d)</string>
+    <string name="last_hour">آخرین ساعت</string>
+    <string name="today_and_yesterday">امروز و دیروز</string>
+    <string name="last_seven_days">7 روز گذشته</string>
+    <string name="all_time">همه زمانها</string>
+    <string name="delete_history_from">حذف تاریخچه از</string>
+    <string name="save_as_pdf">‏ذخیره به‌عنوان PDF</string>
+    <string name="export">صدور</string>
+    <string name="export_successfully">با موفقیت صادر شد</string>
+    <string name="stop_loading_description">ویا از بارگذاری صفحه زیر جلوگیری کرده است:</string>
+    <string name="stop_loading_reason">به دلیل فیلتر زیر:</string>
+    <string name="continue_loading">ادامه بارگذاری</string>
+    <string name="allow_webpage_access_to_clipboard">اجازه دسترسی صفحه وب به بریده‌دان</string>
+    <string name="ask_to_allow_webpage_to_copy_text">آیا مطمئن هستید که می‌خواهید متن را از %DOMAIN% کپی کنید؟</string>
+    <string name="option_allow">اجازه</string>
+    <string name="option_deny">رد کردن</string>
+    <string name="search_bar_style">سبک نوار</string>
+    <string name="search_bar_style_line">خطی</string>
+    <string name="search_bar_style_rectangle">مستطیل</string>
+    <string name="favorites_icon_style">سبک آیکون</string>
+    <string name="favorites_icon_style_text">متن</string>
+    <string name="favorites_icon_style_icon_first">آیکون ابتدا</string>
+    <string name="favorites_icon_color">رنگ آیکون</string>
+    <string name="favorites_icon_color_colorful">رنگارنگ</string>
+    <string name="favorites_icon_color_transparent">شفاف</string>
+    <string name="search_bar_effect">اثر نوار</string>
+    <string name="search_bar_effect_blur">تاری</string>
+    <string name="search_bar_effect_transparent">شفاف</string>
+    <string name="search_part">قسمت جستجو</string>
+    <string name="search_part_hide">پنهان</string>
+    <string name="search_part_show">نمایش</string>
+    <string name="background_color">رنگ</string>
+    <string name="background_image">تصویر</string>
+    <string name="favorites_clear_icons">پاک کردن آیکون‌ها</string>
+    <string name="customization_reset">بازنشانی</string>
+    <string name="theme_color">رنگ پوسته</string>
+    <string name="theme_color_dark">تاریک</string>
+    <string name="theme_color_light">روشن</string>
+    <string name="processing_blob_data">در حال پردازش داده های حباب…</string>
+    <string name="tineye_url">تین‌آی</string>
+    <string name="login_username">نام کاربری (حساب کاربری ایجاد خواهد شد اگر موجود نباشد)</string>
+    <string name="read_and_agree">لطفاً %1$s و %2$s را بخوانید و بپذیرید.</string>
+    <string name="wechat_official_account">حساب رسمی Wechat</string>
+    <string name="notification_channel_downloads">بارگیری محتوا</string>
+    <string name="notification_channel_foreground">اعلان پیش‌زمینه</string>
+    <string name="download_progress">%1$s/%2$s</string>
+    <string name="download_progress_indeterminate">%1$s</string>
+    <string name="download_progress_status">%1$s • %2$s</string>
+    <string name="download_status_paused">مکث شده</string>
+    <string name="download_action_pause">مکث</string>
+    <string name="download_action_resume">ادامه</string>
+    <string name="app_downloading_files">ویا در حال دانلود فایل‌هاست</string>
+    <string name="app_downloading_files_subtitle">برای مشاهده دانلودها ضربه بزنید</string>
+    <string name="built_in_download_manager">مدیر بارگیری داخلی</string>
+    <string name="cancel_all">لغو همه</string>
+    <string name="message_delete_selected_download_tasks">آیا می‌خواهید این وظایف بارگیری (%1$d در مجموع) را حذف کنید؟</string>
+    <string name="file_name">نام پرونده</string>
+    <string name="rename">تغییرنام</string>
+    <string name="message_re_download">آیا مطمئن هستید که می‌خواهید فایل بارگیری شده را حذف کرده و %1$s را دوباره بارگیری کنید؟</string>
+    <string name="share_image">اشتراک تصویر</string>
+    <string name="ssl_warning_insecure_connection_message">ارتباط با %1$s امن نیست: %2$s آیا همچنان می‌خواهید ادامه دهید؟</string>
+    <string name="ssl_warning_dont_ask_again">برای این جلسه مرور دوباره نپرسید</string>
+    <string name="ssl_warning_certificate_untrusted">گواهینامه مورد اعتماد نیست</string>
+    <string name="ssl_warning_certificate_date_invalid">تاریخ گواهینامه معتبر نیست</string>
+    <string name="ssl_warning_certificate_expired">گواهینامه منقضی شده</string>
+    <string name="ssl_warning_certificate_domain_mismatch">دامنه در گواهینامه با دامنه سایت مطابقت ندارد.</string>
+    <string name="ssl_warning_certificate_invalid">گواهینامه معتبر نیست</string>
+    <string name="ssl_warning_certificate_not_yet_valid">گواهینامه هنوز معتبر نیست</string>
+    <string name="the_site">سایت</string>
+    <string name="navigation_up">ناوبری به بالا</string>
+    <string name="hide_popup_window">مخفی کردن پنجره پاپ‌آپ</string>
+    <plurals name="open_tabs">
+        <item quantity="one">1 زبانه</item>
+        <item quantity="other">%d زبانه</item>
+    </plurals>
+    <string name="qr_code">کد QR</string>
+    <string name="download_progress_speed">%1$s • %2$s</string>
+    <string name="download_progress_speed_eta">%1$s • %2$s • %3$s</string>
+    <string name="download_speed_unknown">نامعلوم</string>
+    <string name="download_eta_unknown">-</string>
+    <plurals name="hours_left">
+        <item quantity="one">۱ ساعت مانده</item>
+        <item quantity="other">%d ساعت مانده</item>
+    </plurals>
+    <plurals name="mins_left">
+        <item quantity="one">1 دقیقه مانده</item>
+        <item quantity="other">%d دقیقه مانده</item>
+    </plurals>
+    <plurals name="secs_left">
+        <item quantity="one">1 ثانیه مانده</item>
+        <item quantity="other">%d ثانیه مانده</item>
+    </plurals>
+    <string name="translation_engine_google">مترجم گوگل</string>
+    <string name="translation_engine_baidu">مترجم بایدو</string>
+    <string name="ignore_site_message_for_a_minute">این پیام سایت را برای یک دقیقه نادیده بگیرید</string>
+    <string name="download_status_waiting_for_network">در انتظار شبکه</string>
+    <string name="download_failed_with_message">دانلود ناموفق: %1$s</string>
+    <string name="remove_identifying_headers">حذف هدرهای شناسایی</string>
+    <string name="remove_identifying_headers_description">هنگامی که فعال شود، هدرهای درخواست کردن و پروتکل بی‌سیم خالی خواهند بود، که ممکن است باعث رفتار غیرعادی برخی صفحات شود.</string>
+    <string name="agent_windows_chrome">ویندوز (کروم)</string>
+    <string name="agent_windows_ie11">ویندوز (اینترنت اکسپلورِر 11)</string>
+    <string name="agent_android_phone">اندروید (تلفن)</string>
+    <string name="agent_android_tablet">اندروید (رایانه‌لوحی)</string>
+    <string name="agent_ipad">آی‌پد</string>
+    <string name="agent_osx">مک‌اواس</string>
+    <string name="toutiao_url">توتیائو</string>
+    <string name="title_can_not_be_empty">عنوان نمی‌تواند خالی باشد</string>
+    <string name="user_agent_can_not_be_empty">عامل کاربر نمی‌تواند خالی باشد</string>
+    <string name="download_filter_all">همه</string>
+    <string name="download_filter_others">غیره</string>
+    <string name="download_filter_documents">اسناد</string>
+    <string name="download_filter_images">تصاویر</string>
+    <string name="download_filter_video">ويدئو</string>
+    <string name="download_filter_apk">برنامه</string>
+    <string name="download_filter_audio">صدا</string>
+    <string name="download_filter_archives">آرشیوها</string>
+    <string name="simple_guide_of_writing_userscript"><![CDATA[        <b>بلوک فراداده</b><br />
+        فراداده باید فرمت را رعایت کند:<br />
+        <tt>
+        // ==UserScript==<br />
+        // @key value<br />
+        // ==/UserScript==
+        </tt>
+        <br /><br />
+        <b><tt>@name</tt></b>: نام کاربر‌اسکریپت.
+        <br /><br />
+        <b><tt>@namespace</tt></b>: ترکیبی از <tt>@namespace</tt> و <tt>@name</tt> شناسه منحصر به فرد برای یک اسکریپت کاربر.
+        <br /><br />
+        <b><tt>@match/@exclude-match</tt></b>: تعریف قواعد برای تصمیم‌گیری درباره اینکه آیا یک اسکریپت باید اجرا شود یا خیر. پیشنهاد می‌شود که از <tt>@match</tt> به جای <tt>@include</tt> استفاده شود.
+        <br /><br />
+        <b><tt>@include/@exclude</tt></b>: روش قدیمی برای تصمیم‌گیری در مورد اینکه آیا یک اسکریپت باید اجرا شود یا خیر.
+        <br /><br />
+        <b><tt>@version</tt></b>: نسخه اسکریپت کاربر.
+        <br /><br />
+        <b><tt>@description</tt></b>: شرح اسکریپت کاربر.
+        <br /><br />
+        <b><tt>@author</tt></b>: نویسنده اسکریپت کاربر.
+        <br /><br />
+        <b><tt>@require</tt></b>: نیاز اسکریپت کاربر. به عنوان مثال، <br /><tt>// @require https://my.cdn.com/jquery.js</tt>.
+        <br /><br />
+        <b><tt>@run-at</tt></b>: تصمیم بگیرید که اسکریپت چه زمانی اجرا شود. <tt>document-start</tt>برای تزریق اسکریپت ها قبل از بارگیری صفحه، <tt>document-end</tt> برای تزریق اسکریپت ها پس از بارگیری صفحه، <tt>document-idle</tt> برای تزریق اسکریپت ها پس از بیکاری صفحه استفاده می شود.
+        <br /><br />
+        <b><tt>@grant</tt></b>: مشخص کنید کدام APIهای ویژه GM_* باید اعطا شوند و می‌توانند هنگام اجرای اسکریپت استفاده شوند.<br />
+        <br /><br />
+        <b><tt>@downloadURL</tt></b>: آدرس اینترنتی که اسکریپت از آن قابل دانلود است.
+        <br /><br />
+        <b><tt>@supportURL</tt></b>: نشانی اینترنتی پشتیبانی اسکریپت کاربر.
+        <br /><br />
+        <b><tt>@homepageURL</tt></b>: نشانی وب صفحه اصلی اسکریپت کاربر.
+        <br /><br />
+        <b>GM_* APIs</b><br />
+        <tt>GM_*</tt> گروهی از APIهای ویژه ارائه شده توسط ویا هستند. API های ویژه ای که در حال حاضر پشتیبانی می شوند عبارتند از: <br/>
+        <tt>GM_getValue/GM_setValue/GM_deleteValue/GM_listValues/GM_getResourceText/GM_getResourceURL/GM_addElement/GM_addStyle/GM_setClipboard/GM_xmlhttpRequest/GM_download/GM_registerMenuCommand/GM_unregisterMenuCommand</tt>.
+        <br /><br />
+        <b>Matching</b><br />
+        <tt>@match</tt> قانون تطبیق نشانی را تعریف می کند. <tt>@exclude-match</tt> یک قانون تطابق را تعریف می کند، اما برای حذف نشانی های منطبق، شبیه به <tt>@exclude</tt>.
+        <br /><br />
+        برای مثال:<br />
+        <tt>
+        // @match https://www.google.com/something <br />
+        // @match https://www.google.com/any/* <br />
+        // @exclude-match https://www.google.com/any/not_me
+        </tt>
+        <br /><br />
+    ]]></string>
+    <string name="toast_install_script_successfully">نصب \"%1$s\" با موفقیت انجام شد!</string>
+    <string name="toast_install_script_failed_unknown">نصب \"%1$s\" شکست خورد!</string>
+    <string name="toast_install_script_failed_dependency_error">بارگیری وابستگی \"%1$s\" ناموفق بود!</string>
+    <string name="title_install_script">نصب اسکریپت</string>
+    <string name="message_install_script">آیا مطمئن هستید که می‌خواهید \"%1$s\" (%2$s) را نصب کنید؟</string>
+    <string name="title_reinstall_script">نصب دوباره اسکریپت</string>
+    <string name="message_reinstall_script">آیا مطمئن هستید که می‌خواهید \"%1$s\" (%2$s) را مجدداً نصب کنید؟</string>
+    <string name="title_update_script">به‌روزرسانی اسکریپت</string>
+    <string name="message_update_script">آیا مطمئن هستید که می‌خواهید \"%1$s\" (%2$s -> %3$s) را به‌روزرسانی کنید؟</string>
+    <string name="toast_parsing_script">در حال تجزیه اسکریپت…</string>
+    <string name="title_add_metadata_block">افزودن بلوک فراداده</string>
+    <string name="message_add_metadata_block">این اسکریپت هیچ بلوک فراداده ای ندارد، بنابراین نمی‌تواند ذخیره شود. آیا می‌خواهید یک بلوک فراداده پیش‌فرض به آن اضافه کنید؟</string>
+    <string name="title_disable_safe_browsing">غیرفعال کردن مرور ایمن</string>
+    <string name="title_close_all_tabs">بستن همه زبانه‌ها</string>
+    <string name="message_close_all_tabs_before_disabling_incognito_mode">آیا می‌خواهید تمام تب‌ها را قبل از غیرفعال کردن حالت ناشناس ببندید؟</string>
+    <string name="action_close">بستن</string>
+    <string name="action_keep">نگه‌دار</string>
+    <string name="desc_bookmark_folder">%1$s پوشه</string>
+    <string name="message_splash_agreement">با استفاده از ویا، با %1$s و %2$s ما موافقت می کنید.</string>
+    <string name="translation_engine_google_in_page">ترجمه درون صفحه گوگل</string>
+    <string name="title_feedback">ﺑﺎﺯﺧﻮﺭﺩ</string>
+    <string name="action_view_cookies">مشاهده کوکی‌ها</string>
+    <string name="title_cookies_for_site">کوکی‌ها برای %1$s</string>
+    <string name="message_no_cookies">بدون کوکی‌</string>
+    <string name="toast_cookies_for_site_cleared">کوکی‌ها برای %1$s به حالت خالی تنظیم شده‌اند.</string>
+    <string name="toast_site_does_not_support_resource_sniffing">این سایت از شناسایی منابع پشتیبانی نمی‌کند.</string>
+    <string name="desc_expand_text">گسترش متن</string>
+    <string name="desc_collapse_text">کوچک کردن متن</string>
+    <string name="desc_clear_text">پاک‌کردن متن</string>
+    <string name="title_search_suggestions">پیشنهاد جستجو</string>
+    <string name="message_search_suggestions">هنگام استفاده از نوار آدرس، پیشنهاد بده</string>
+    <string name="title_open_tabs">باز کردن زبانه‌ها</string>
+    <string name="desc_fill_in_text">پر کردن متن</string>
+    <string name="directory_name">نام مسیر</string>
+    <string name="action_default_location">مکان پیش‌فرض</string>
+    <string name="action_choose_folder">یک پوشه انتخاب کنید...</string>
+    <string name="title_permission_denied">مجوز رد شد</string>
+    <string name="message_reselect_download_location">مجوز دسترسی به محل دانلود لغو شده است. لطفاً محل پوشه دانلود را مجدداً انتخاب کنید.</string>
+    <string name="detect_language">تشخیص زبان</string>
+    <string name="title_source_language">زبان مبدا</string>
+    <string name="title_target_language">زبان مقصد</string>
+    <string name="desc_swap_language">تغییر زبان</string>
+    <string name="desc_paste_text">چسباندن متن</string>
+    <string name="translation_engine_google_text">ترجمه متن گوگل</string>
+    <string name="saucenao_url">SauceNAO</string>
+    <string name="iqdb_url">IQDB</string>
+    <string name="iqdb_3d_url">IQDB سه بعدی</string>
+    <string name="whatanime_url">چه انیمه ای</string>
+    <string name="ascii2d_url">Ascii دوبعدی</string>
+    <string name="title_scripts_for_site">اسکریپت‌ها برای %1$s</string>
+    <string name="disabled">غیرفعال</string>
+    <string name="enabled">فعال</string>
+    <string name="action_view_in_settings">مشاهده در تنظیمات</string>
+    <string name="message_delete_following_items">آیا مطمئن هستید که می‌خواهید موارد زیر را حذف کنید؟</string>
+    <string name="list_item">• %1$s</string>
+    <string name="action_reset">بازنشانی</string>
+    <string name="title_reset_site_conf">بازنشانی تنظیمات سایت</string>
+    <string name="message_reset_site_conf">آیا مطمئن هستید که می‌خواهید تنظیمات سایت برای %1$s را بازنشانی کنید؟</string>
+    <string name="title_ignore_ssl_warnings">نادیده گرفتن هشدارهای گواهی SSL</string>
+    <string name="title_ignore_ssl_warnings_description">مراقب باشید، نادیده گرفتن هشدارهای گواهی SSL ممکن است ارتباط با وب‌سایت را ناامن کند.</string>
+    <string name="message_ignore_ssl_warnings">گواهی‌های SSL برای تأیید هویت وب‌سایت‌ها و رمزگذاری ارتباطات استفاده می‌شوند. این مثل این است که نامه‌ای را در یک پاکت قرار دهید و آن را ارسال کنید، فقط شما و وب‌سایت می‌توانید پاکت را باز کنید و نامه را بخوانید.\n\nوقتی هشدارهای SSL را نادیده می‌گیرید، ارتباط با وب‌سایت ممکن است ناامن شود، به این معنی که داده‌های انتقال یافته با وب‌سایت ممکن است دزدیده شوند. این مثل این است که نامه را در یک پاکت خراب قرار دهید و آن را ارسال کنید، کسی که گواهی را جعل کرده است، می‌تواند آن را باز کند.</string>
+    <string name="title_ignore_ssl_warnings_confirmation">می‌دانم که این ممکن است ارتباط را ناامن کند</string>
+    <string name="title_disable_safe_browsing_description">مرور ایمن به WebView اجازه می دهد تا با تأیید پیوندها در برابر بدافزارها و حملات فیشینگ محافظت کند.</string>
+    <string name="action_close_all_tabs">بستن همه زبانه‌ها</string>
+    <string name="action_close_other_tabs">بستن سایر زبانه‌ها</string>
+    <string name="action_close_tabs_to_the_bottom">بستن زبانه‌ها در پایین</string>
+    <string name="action_close_tabs_to_the_top">بستن زبانه‌ها در بالا</string>
+    <string name="title_permission_request">درخواست مجوز</string>
+    <string name="message_permission_request">%1$s می‌خواهد استفاده کند:</string>
+    <string name="list_item_dash">- %1$s</string>
+    <string name="permission_microphone">میکروفون</string>
+    <string name="permission_camera">دوربین</string>
+    <string name="add_site_exception">افزودن استثنا برای سایت</string>
+    <string name="blocked">مسدود شده</string>
+    <string name="allowed">مجاز</string>
+    <string name="exception">استثنا</string>
+    <string name="block">انسداد</string>
+    <string name="allow">اجازه</string>
+    <string name="all_sites">همه سایت‌ها</string>
+    <string name="category_content">محتوا</string>
+    <string name="category_basics">پایه‌ها</string>
+    <string name="category_permissions">مجوزها</string>
+    <string name="agent_add_site_exception"> تنظیم عامل کاربر برای یک سایت خاص </string>
+    <string name="images">تصاویر</string>
+    <string name="images_allowed_description">اجازه دادن به سایت‌ها برای بارگیری تصاویر</string>
+    <string name="images_allowed_via_wifi_description">اجازه دادن به سایت‌ها برای بارگیری تصاویر فقط با وای فای</string>
+    <string name="images_allowed_via_wifi_description_short">مجاز فقط با وای فای</string>
+    <string name="images_add_site_exception_allow">نمایش تصاویر برای یک سایت خاص.</string>
+    <string name="images_add_site_exception_block">انسداد تصاویر برای یک سایت خاص.</string>
+    <string name="javascript">جاوااسکریپت</string>
+    <string name="javascript_allowed_description">اجازه دادن به سایت‌ها برای اجرای جاوااسکریپت</string>
+    <string name="javascript_add_site_exception_allow">اجازه دادن به سایت‌ خاص برای اجرای جاوااسکریپت</string>
+    <string name="javascript_add_site_exception_block">مسدود کردن اجرای جاوااسکریپت برای سایت‌ خاص </string>
+    <string name="cookies">کوکی‌ها</string>
+    <string name="cookies_allowed_description">دادن اجازه به سایت‌ها برای ذخیره و خواندن داده‌ کوکی‌</string>
+    <string name="cookies_allowed_except_third_party_description_short">مجاز، به جز شخص ثالث</string>
+    <string name="popups">پنجره بازشو</string>
+    <string name="popups_ask_first_description">پرسش قبل دادن اجازه استفاده از نمایش پنجره بازشو به سایت ها</string>
+    <string name="clipboard">بریده‌دان</string>
+    <string name="clipboard_ask_first_description">پرسش قبل دادن اجازه استفاده از بریده‌دان به سایت‌ها</string>
+    <string name="clipboard_allowed_description">اجازه دادن به سایت‌ها برای استفاده از بریده‌دان شما</string>
+    <string name="clipboard_blocked_description">مسدودکردن سایت‌ها برای استفاده از بریده‌دان شما</string>
+    <string name="clipboard_add_site_exception_allow">اجازه دادن به یک سایت خاص برای استفاده از بریده‌دان شما</string>
+    <string name="clipboard_add_site_exception_block">مسدود کردن یک سایت خاص از استفاده از بریده‌دان شما</string>
+    <string name="location1">مکان</string>
+    <string name="location_ask_first_description">ابتدا بپرسید قبل از اینکه به سایت‌ها اجازه دهید مکان شما را بدانند.</string>
+    <string name="camera">دوربین</string>
+    <string name="camera_ask_first_description">ابتدا بپرسید قبل از اینکه به سایت‌ها اجازه استفاده از دوربین شما بدهید.</string>
+    <string name="microphone">میکروفون</string>
+    <string name="microphone_ask_first_description">ابتدا بپرسید قبل از اینکه به سایت‌ها اجازه استفاده از میکروفون شما بدهید.</string>
+    <string name="on">روشن</string>
+    <string name="off">خاموش</string>
+    <string name="default_description">%1$s (پیش‌فرض)</string>
+    <string name="grant">اجازه دادن</string>
+    <string name="skins">پوسته ها</string>
+    <string name="load_skin">بارگیری پوسته</string>
+    <string name="load_skin_failed">بارگیری پوسته شکست خورد</string>
+    <string name="skin_changed">پوسته تغییر کرد</string>
+    <string name="import_script_from_url">وارد کردن اسکریپت از آدرس اینترنتی</string>
+    <string name="import_script_from_file">وارد کردن اسکریپت از فایل</string>
+    <string name="script_invalid">اسکریپت نامعتبر</string>
+    <string name="open_app">بازکردن برنامه</string>
+    <string name="open_app_ask_first_description">ابتدا بپرسید قبل از اینکه به سایت‌ها اجازه دهید برنامه شما را باز کنند.</string>
+    <string name="open_app_allowed_description">اجازه دادن به سایت‌ها برای باز کردن برنامه شما</string>
+    <string name="open_app_blocked_description">اجازه ندادن به سایت‌ها برای باز کردن برنامه شما</string>
+    <string name="open_app_add_site_exception_allow">اجازه دادن به یک سایت خاص برای باز کردن برنامه شما</string>
+    <string name="open_app_add_site_exception_block">اجازه ندادن به یک سایت خاص برای باز کردن برنامه شما</string>
+    <string name="update_interval">فاصله به‌روزرسانی</string>
+    <string name="never">هرگز</string>
+    <string name="every_day">هر روز </string>
+    <string name="every_3_days">هر ۳ روز</string>
+    <string name="every_week">هر هفته</string>
+    <string name="every_15_days">هر ۱۵ روز</string>
+    <string name="adblock_add_site_exception_on">فعال کردن مسدود کردن تبلیغات برای یک سایت خاص.</string>
+    <string name="adblock_add_site_exception_off">غیرفعال کردن مسدود کردن تبلیغات برای یک سایت خاص.</string>
+    <string name="sync">همگام</string>
+    <string name="sync_webdav">WebDAV</string>
+    <string name="sync_webdav_user">%1$s (WebDAV)</string>
+    <string name="webdav_configuration">پیکربندی WebDAV</string>
+    <string name="webdav_digest_access_authentication">از تأیید اعتبار دسترسی خلاصه استفاده می کند</string>
+    <string name="no_configuration">بدون پیکربندی</string>
+    <string name="has_never_been_synced">هرگز همگام‌سازی نشده است</string>
+    <string name="synced_">%1$s همگام شد</string>
+    <string name="auto_sync">همگام‌سازی خودکار</string>
+    <string name="sync_data">همگام‌سازی داده</string>
+    <string name="sync_data_none">هیچکدام</string>
+    <string name="sync_data_bookmarks">نشانک‌ها</string>
+    <string name="sync_data_favorites">علاقه‌مندی‌ها</string>
+    <string name="sync_data_settings">تنظیمات</string>
+    <string name="delimiter">، </string>
+    <string name="sync_done">همگام شد</string>
+    <string name="sync_failed">همگام نشد</string>
+    <string name="hint_password_unchanged">رمز عبور (بدون تغییر)</string>
+    <string name="enable_video_player_gestures">فعال‌سازی حرکات پخش‌کننده ویدیو</string>
+    <string name="enable_video_player_gestures_description">اجازه دادن به کشیدن برای تنظیم پیشرفت ویدئو، روشنایی صفحه، و حجم صدا هنگام پخش ویدئو در حالت تمام صفحه در صورت امکان</string>
+    <string name="external_video_player">پخش کننده ویدئو خارجی</string>
+    <string name="external_video_player_description">هنگام انتخاب یک پخش کننده ویدیوی خارجی برای پخش ویدیو، از آن استفاده کنید</string>
+    <string name="player_system_sharing">همرسانی سیستم</string>
+    <string name="request_to_download_full_script">اسکریپت ناقص است و کار نمی کند، آیا می خواهید اسکریپت کامل را دانلود کنید؟</string>
+    <string name="data_app_cache">حافظه پنهان برنامه</string>
+    <string name="sync_manually">همگام سازی دستی</string>
+    <string name="sync_push_description">بازنویسی داده های راه دور با داده های محلی</string>
+    <string name="sync_push_confirm">آیا مطمئن هستید که می‌خواهید داده‌های راه دور را با داده‌های محلی جایگزین کنید؟</string>
+    <string name="sync_pull_description">بازنویسی داده های محلی با داده های راه دور</string>
+    <string name="sync_pull_confirm">آیا مطمئن هستید که می خواهید داده های محلی با داده های راه دور جایگزین کنید؟</string>
+    <string name="sync_merge_description">ادغام داده های محلی با داده های راه دور</string>
+    <string name="mark_as_ad_expand">گسترش</string>
+    <string name="mark_as_ad_shrink">باریک کردن</string>
+    <string name="mark_as_ad_move_view">حرکت نما</string>
+    <string name="page_redirection">تغییر مسیر صفحه</string>
+    <string name="page_redirection_allowed_description">اجازه تغییر مسیر صفحه به هر نشانی را بدهید</string>
+    <string name="page_redirection_ask_first_description">پرسش قبل از تغییر مسیر صفحه به آدرس اینترنتی خارجی</string>
+    <string name="page_redirection_ask_first_description_short">پرسیدن قبل از انجام تغییر مسیر</string>
+    <string name="page_redirection_add_site_exception_allow">اجازه دادن به تغییر مسیر صفحه به هر آدرسی برای یک سایت خاص.</string>
+    <string name="page_redirection_add_site_exception_ask_first">ابتدا بپرسید قبل از تغییر مسیر به آدرس خارجی برای یک سایت خاص.</string>
+    <string name="allow_page_redirection_to_msg">اجازه تغییر مسیر به %1$s داده شود؟</string>
+    <string name="allow_page_redirection_msg">اجازه تغییر مسیر صفحه؟</string>
+    <string name="sort">ترتیب</string>
+    <string name="new_folder">پوشه جدید</string>
+    <string name="page_up">بالا بردن صفحه</string>
+    <string name="page_down">پایین بردن صفحه</string>
+    <string name="select_action">انتخاب عمل</string>
+    <string name="tab_actions">اقدامات زبانه</string>
+    <string name="feature_actions">اقدامات ویژگی</string>
+    <string name="address_bar_actions">اقدامات نوار آدرس</string>
+    <string name="webpage_actions">اقدامات صفحه وب</string>
+    <string name="message_close_all_tabs">مطمئن هستید که می‌خواهید همه زبانه‌ها را ببندید؟</string>
+    <string name="search_in_via">جستجو با ویا</string>
+    <string name="following_filters_invalid_message">فیلترهای اشتراکی در قالب صحیح نیستند:</string>
+    <string name="customize_menu">سفارشی‌سازی منو</string>
+    <string name="hold_and_drag_to_rearrange_items">نگه دارید و بکشید تا موارد را دوباره مرتب کنید</string>
+    <string name="hold_and_drag_or_tap_to_add_item">نگه دارید و بکشید یا ضربه بزنید تا مورد اضافه شود.</string>
+    <string name="enable_tab_bar">فعال‌سازی نوار زبانه</string>
+    <string name="enable_scripts">فعالسازی اسکریپت</string>
+    <string name="scripts_enabled">اسکریپت فعال است</string>
+    <string name="print_or_pdf">چاپ/PDF</string>
+    <string name="site_info">اطلاعات سایت</string>
+    <string name="is_on">%s روشن است</string>
+    <string name="is_off">%s خاموش است</string>
+    <string name="is_set">%s تنظیم شد</string>
+    <string name="is_required">%s نیاز است</string>
+    <string name="close_tab_description">بستن %s</string>
+    <string name="toast_enable_tab_bar">لطفاً یک حالت رابط کاربری دیگری برای نوار ابزار انتخاب کنید تا نوار برگه فعال شود.</string>
+    <string name="import_data_failed_file_too_large">پرونده بیش از حد بزرگ است و نمی‌توان آن را وارد کرد</string>
+    <string name="remember_my_choice">به یاد داشتن انتخاب من</string>
+    <string name="microphone_add_site_exception_allow">اجازه دادن به یک سایت خاص برای استفاده از میکروفون شما.</string>
+    <string name="microphone_add_site_exception_block">مسدود کردن یک سایت خاص از استفاده از میکروفون شما.</string>
+    <string name="camera_add_site_exception_allow">اجازه دادن به یک سایت خاص برای استفاده از دوربین شما.</string>
+    <string name="camera_add_site_exception_block">مسدود کردن یک سایت خاص از استفاده از دوربین شما.</string>
+    <string name="tab_is_closed">زبانه بسته شد.</string>
+    <string name="recently_closed_tabs">زبانه‌های بسته شده اخیر</string>
+    <string name="tabs">زبانه‌ها</string>
+    <string name="tab_settings">تنظیمات زبانه</string>
+    <string name="show_toast_to_undo_closing_tab">نمایش پیام برای لغو بستن زبانه</string>
+    <string name="show_toast_to_undo_closing_tab_description">پیام نمایش داده نخواهد شد اگر حالت ناشناس فعال باشد</string>
+    <string name="open_all">باز کردن همه</string>
+    <string name="expand_web_content_automatically">گسترش محتوای صفحه وب به صورت خودکار</string>
+    <string name="expand_web_content_automatically_description">گسترش محتوای صفحه به صورت خودکار هنگام باز کردن یک صفحه وب</string>
+    <string name="read_aloud">بلند خواندن</string>
+    <string name="start_reading_aloud">شروع بلند خواندن</string>
+    <string name="cannot_read_this_page_aloud">نمیتوان این صفحه را بلند خواند</string>
+    <string name="tts_failed_to_initialize">موتور تبدیل متن به گفتار اجرا نمی‌شود</string>
+    <string name="fastforward">سریع به جلو</string>
+    <string name="rewind">عقب بردن</string>
+    <string name="add_to_home_screen">افزودن به صفحه اصلی</string>
+    <string name="certificate_detail_fingerprints"><![CDATA[        <b>اثر انگشت SHA-256</b><br />
+        <b>گواهی</b><br />
+        %1$s
+        <br /><b>کلید عمومی</b><br />
+        %2$s
+        <br />
+    ]]></string>
+    <string name="show_reader">نمایش خواندن</string>
+    <string name="hide_reader">پنهان کردن خواندن</string>
+    <string name="reader_is_shown">خواندن در حال نمایش</string>
+    <string name="reader_is_hidden">خواندن مخفی است</string>
+    <string name="custom_reader_css">CSS خوان سفارشی</string>
+    <string name="reader_mode">حالت خواندن</string>
+    <string name="the_page_has_not_fully_loaded">صفحه به‌طور کامل بارگذاری نشده</string>
+    <string name="more_options">گزینه‌های بیشتر</string>
+    <string name="link_too_long_to_generate_qr_code">پیوند خیلی طولانی است و نمی‌توان کد QR تولید کرد</string>
+    <string name="view_scripts">مشاهده اسکریپت‌ها</string>
+    <string name="exit_message_if_incognito_mode_is_on">تمام زبانه‌های باز حذف خواهند شد و نمی‌توان آنها را بازیابی کرد. آیا مطمئن هستید که می‌خواهید از برنامه خارج شوید؟</string>
+    <string name="dont_remind_me_again">دوباره یادآوری نکن</string>
+    <string name="cannot_work_javascript_is_blocked">فقط زمانی کار می‌کند که جاوا اسکریپت فعال باشد.</string>
+    <string name="cannot_work_on_this_site">این روی این سایت کار نمی‌کند.</string>
+    <string name="one_filter_per_line">یک فیلتر در هر خط.</string>
+    <string name="modified_content_has_not_been_saved_message">محتوای تغییر یافته ذخیره نشده است. آیا می‌خواهید آن را ذخیره کنید؟</string>
+    <string name="operation_opensettings">باز کردن تنظیمات</string>
+    <string name="enable_draggable_scrollbar">فعال کردن نوار پیمایش قابل کشیدن</string>
+    <string name="file_download_completed">%1$s بارگیری شد</string>
+    <string name="file_download_failed">بارگیری %1$s شکست خورد</string>
+    <string name="require_confirmation_to_enable_reader_mode">نیاز به تأیید برای نمایش خواندن</string>
+    <string name="require_confirmation_to_enable_reader_mode_description_enabled">نمایش منو هنگامی که بر روی آیکون حالت خواننده در نوار آدرس کلیک می‌کنید.</string>
+    <string name="require_confirmation_to_enable_reader_mode_description_disabled">نمایش خواندن هنگام کلیک بر روی آیکون حالت خواندن در نوار آدرس</string>
+    <string name="appearance">ظاهر</string>
+    <string name="open_app_failed">نمی‌توان برنامه مرتبطی برای باز کردن پیوند پیدا کرد</string>
+    <string name="stop_reading_aloud">توقف بلند خواندن</string>
+    <string name="read_aloud_panel">صفحه بلند خواندن</string>
+    <string name="duplicate_tab">تکرار کردن زبانه</string>
+    <string name="clear_search_history">پاک‌کردن تاریخچه‌ جستجو</string>
+    <string name="clear_search_history_message">آیا مطمئن هستید که می‌خواهید تاریخچه جستجو را پاک کنید؟</string>
+    <string name="open">بازکردن</string>
+    <string name="mark_as_ad_guide">لطفاً روی ناحیه تبلیغ کلیک کنید تا آن را علامت‌گذاری کنید</string>
+    <string name="log_out_webdav">خروج از سیستم</string>
+    <string name="run_at">اجرا در</string>
+    <string name="matches">مطابقت ها</string>
+    <string name="match">مطابق</string>
+    <string name="add_match">اضافه کردن مطابق</string>
+    <string name="excludes">استثنائات</string>
+    <string name="exclude">استثناء</string>
+    <string name="add_exclude">افزودن استثناء</string>
+    <string name="edit_source_code">ویرایش کد منبع</string>
+    <string name="reset_script_message">آیا مطمئن هستید که می‌خواهید این اسکریپت را بازنشانی کنید؟</string>
+    <string name="exclude_domain">استثناء کردن %1$s</string>
+    <string name="exclude_domain_from_script_toast">اسکریپت %1$s بر روی %2$s اجرا نخواهد شد.</string>
+    <string name="search_history">تاریخچه جستجو</string>
+    <string name="metaso_url">Metaso</string>
+    <string name="search_settings">تنظیمات جستجو</string>
+    <string name="search_engines">موتورهای جستجو</string>
+    <string name="search_toolbar">نوار ابزار جستجو</string>
+    <string name="enable_search_toobar">فعالسازی نوار ابزار جستجو</string>
+    <string name="invalid_url">آدرس نامعتبر</string>
+    <string name="grant_camera_permission_hint">برای پویش کد، صفحه را لمس کنید تا مجوز دوربین داده شود</string>
+    <string name="location_add_site_exception_allow">اجازه دادن به یک سایت خاص برای استفاده از موقعیت مکانی شما.</string>
+    <string name="location_add_site_exception_block">مسدود کردن یک سایت خاص برای استفاده از موقعیت مکانی شما.</string>
+    <string name="site_request_location_permission">%1$s می‌خواهد از موقعیت مکانی شما استفاده کند.</string>
+    <string name="site_is_using_your_location">%1$s در حال استفاده از مکان شماست.</string>
+    <string name="text_size_site_exception_add">تنظیم اندازه متن برای یک سایت خاص.</string>
+    <string name="only_take_effect_for_current_site">فقط برای سایت فعلی تأثیر خواهد داشت.</string>
+    <string name="disable_webrtc">غیرفعال کردن WebRTC</string>
+    <string name="lock">قفل</string>
+    <string name="unlock">بازکردن قفل</string>
+    <string name="delete_items_message">آیا مطمئن هستید که می‌خواهید %1$d مورد را حذف کنید؟</string>
+    <string name="pip">عکس در عکس</string>
+    <string name="game_mode">حالت بازی</string>
+    <string name="game_mode_is_on">حالت بازی فعال است، برای خروج دو بار کلید بازگشت را فشار دهید.</string>
+    <string name="game_mode_exit">یک بار دیگر فشار دهید تا از حالت بازی خارج شوید</string>
+    <string name="show_details">نمایش جزئیات</string>
+    <string name="hide_details">پنهان‌سازی جزئیات</string>
+    <plurals name="items">
+        <item quantity="one">1 مورد</item>
+        <item quantity="other">%d مورد</item>
+    </plurals>
+    <string name="no_images">بدون عکس</string>
+    <string name="update_pending">شروع به‌روزرسانی\u2026</string>
+    <string name="update_item_successfully">به‌روزرسانی %1$s انجام شد</string>
+    <string name="update_item_failed">به‌روزرسانی %1$s شکست خورد</string>
+    <string name="update_scripts_completed">به‌روزرسانی اسکریپت‌ها کامل شد.</string>
+    <string name="request_item_update">آیا مطمئن هستید که می‌خواهید %1$s را به‌روزرسانی کنید؟</string>
+    <string name="vibrate">لرزش</string>
+    <string name="vibrate_allowed_description">اجازه دادن به سایت‌ها برای لرزش</string>
+    <string name="requires">نیاز</string>
+    <string name="resources">منابع</string>
+    <string name="info_name">نام</string>
+    <string name="info_version">نسخه</string>
+    <string name="info_download_url">لینک بارگیری</string>
+    <string name="info_homepage_url">آدرس صفحه اصلی</string>
+    <string name="info_support_url">آدرس پشتیبانی</string>
+    <string name="info_url">آدرس</string>
+    <string name="info_file_path">مسیر فایل</string>
+    <string name="info_updated">به روز شد</string>
+    <string name="info_created">ایجاد شد</string>
+    <string name="info_size">اندازه</string>
+    <string name="resource_does_not_exist_message">منبعی در آن نیست و ممکن است اسکریپت به درستی کار نکند. آیا می‌خواهید آن را دانلود کنید؟</string>
+    <string name="script_info">اطلاعات اسکریپت</string>
+    <string name="resource_info">اطلاعات منبع</string>
+    <string name="quick_back_add_site_exception_on">فعال کردن بازگشت بدون بارگذاری مجدد برای یک سایت خاص.</string>
+    <string name="quick_back_add_site_exception_off">غیرفعال کردن بازگشت بدون بارگذاری مجدد برای یک سایت خاص.</string>
+    <string name="desktop_mode_add_site_exception_on">فعال کردن حالت دسکتاپ برای یک سایت خاص.</string>
+    <string name="desktop_mode_add_site_exception_off">غیرفعال کردن حالت دسکتاپ برای یک سایت خاص.</string>
+    <string name="no_camera">بدون دوربین</string>
+    <string name="two_row_toolbar">نوار ابزار دو ردیفه</string>
+    <string name="experimental">آزمایشی</string>
+    <string name="blur_effect">جلوه تاری</string>
+    <string name="blur_effect_description">فعال کردن جلوه تاری برای برنامه. برخی دستگاه‌ها ممکن است از آن پشتیبانی نکنند.</string>
+    <string name="show_background_in_settings">نمایش پس‌زمینه در تنظیمات</string>
+    <string name="show_background_in_settings_toast">این تغییرات در دفعه بعدی که تنظیمات را باز کنید، اعمال خواهند شد</string>
+    <string name="toolbars_settings">تنظیمات نوار ابزار</string>
+    <string name="user_agent_in_desktop_mode">عامل کاربر در حالت دسکتاپ</string>
+    <string name="user_agent_reduction">کاهش عامل کاربر</string>
+    <string name="user_agent_reduction_description">حذف اطلاعات دستگاه و اطلاعات نسخه جزئی عامل کاربر</string>
 </resources>
