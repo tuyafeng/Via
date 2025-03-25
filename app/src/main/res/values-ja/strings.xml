@@ -111,6 +111,11 @@
     <string name="action_new">新規作成</string>
     <string name="hint_username">ユーザー名</string>
     <string name="hint_password">パスワード</string>
+    <string name="delete_account">アカウントを削除する</string>
+    <string name="delete_account_request_submitted">アカウント削除のリクエストが送信されました</string>
+    <string name="delete_account_hint">サーバからアカウントを削除する</string>
+    <string name="delete_account_message">削除リクエストを送信すると、アカウントはログアウトされて15日間の猶予期間に入ります。その間に再度ログインすると削除リクエストはキャンセルされますが、ログインしない場合は猶予期間後にデータが削除されます。\nリクエストを送信するにはパスワードを入力してください。</string>
+    <string name="confirm_to_delete">削除の確認</string>
 
     <!-- 設定｜一般｜User Agent -->
     <string name="agent">User Agent</string>
@@ -557,6 +562,9 @@
     
     <!-- メニュー -->
     <string name="action_incognito">シークレットモード</string>
+    <string name="exit_message_if_incognito_mode_is_on">開いているタブは全て閉じられます。復元できませんがよろしいですか？</string>
+    <string name="exit">終了</string>
+    <string name="dont_remind_me_again">再度表示しない</string>
     <string name="action_find">ページ内検索</string>
     <string name="action_translate">翻訳</string>
     <string name="network_log">ネットワークログ</string>
