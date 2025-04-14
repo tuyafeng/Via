@@ -947,4 +947,13 @@
     <string name="user_agent_in_desktop_mode">User-agent in desktop mode</string>
     <string name="user_agent_reduction">User-agent reduction</string>
     <string name="user_agent_reduction_description">Remove device information and minor version information from User-agent</string>
+    <string name="operation_opendownloads">Open downloads</string>
+    <string name="closed_tab">Closed %1$s</string>
+    <plurals name="tabs_closed">
+        <item quantity="zero">0 tab closed</item>
+        <item quantity="one">1 tab closed</item>
+        <item quantity="other">%d tabs closed</item>
+    </plurals>
+    <string name="find">Find</string>
+    <string name="google_lens_url">Google Lens</string>
 </resources>

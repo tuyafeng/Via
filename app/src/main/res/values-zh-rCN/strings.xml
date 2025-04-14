@@ -934,4 +934,11 @@
     <string name="user_agent_in_desktop_mode">电脑模式下的浏览器标识</string>
     <string name="user_agent_reduction">简化浏览器标识</string>
     <string name="user_agent_reduction_description">从浏览器标识中移除设备信息及次要版本信息</string>
+    <string name="operation_opendownloads">打开下载</string>
+    <string name="closed_tab">已关闭 %1$s</string>
+    <plurals name="tabs_closed">
+        <item quantity="other">已关闭 %d 个标签页</item>
+    </plurals>
+    <string name="find">查找</string>
+    <string name="google_lens_url">谷歌 Lens</string>
 </resources>
