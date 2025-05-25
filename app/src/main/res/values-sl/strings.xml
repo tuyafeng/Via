@@ -939,7 +939,7 @@
     <string name="quick_back_add_site_exception_off">Onemogoči Pojdi nazaj brez osveževanja za določeno stran.</string>
     <string name="desktop_mode_add_site_exception_on">Omogoči Namizni način za določeno stran.</string>
     <string name="desktop_mode_add_site_exception_off">Onemogoči Namizni način za določeno stran.</string>
-    <string name="no_camera">Brez kamere</string>
+    <string name="no_camera">Ni kamere</string>
     <string name="two_row_toolbar">Dvovrstična orodna vrstica</string>
     <string name="experimental">Eksperimentalno</string>
     <string name="blur_effect">Učinek zameglitve</string>
