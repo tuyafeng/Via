@@ -111,6 +111,11 @@
     <string name="action_new">新規作成</string>
     <string name="hint_username">ユーザー名</string>
     <string name="hint_password">パスワード</string>
+    <string name="delete_account">アカウントを削除する</string>
+    <string name="delete_account_request_submitted">アカウント削除のリクエストが送信されました</string>
+    <string name="delete_account_hint">サーバからアカウントを削除する</string>
+    <string name="delete_account_message">削除リクエストを送信すると、アカウントはログアウトされて15日間の猶予期間に入ります。その間に再度ログインすると削除リクエストはキャンセルされますが、ログインしない場合は猶予期間後にデータが削除されます。\nリクエストを送信するにはパスワードを入力してください。</string>
+    <string name="confirm_to_delete">削除の確認</string>
 
     <!-- 設定｜一般｜User Agent -->
     <string name="agent">User Agent</string>
@@ -233,20 +238,27 @@
     <string name="appearance">スタイル設定</string>
     <string name="custom_reader_css">カスタムCSS設定</string>
     
-    <!-- 設定｜一般｜ナビゲーションバーの非表示設定 -->
-    <string name="fullscreen">ナビゲーションバーの非表示</string>
-    <string name="disable">無効</string>
-    <string name="fullscreen_1">スクロール</string>
-    <string name="fullscreen_2">タップ</string>
-    
-    <!-- 設定｜一般｜ナビゲーションバーのレイアウト -->
-    <string name="ui_mode">ナビゲーションバーのレイアウト</string>
-    <string name="ui_traditional">デフォルト</string>
-    <string name="ui_simple_top">上部に配置</string>
-    <string name="ui_simple_bottom">下部に配置</string>
-    
-    <!-- 設定｜一般｜タブバーを有効にする -->
-    <string name="enable_tab_bar">タブバーを有効にする</string>
+    <!-- 設定｜一般｜ツールバーの設定 -->
+    <string name="toolbars_settings">ツールバーの設定</string>
+        <!-- 設定｜一般｜ツールバーの設定｜ナビゲーションバーのレイアウト -->
+            <string name="ui_mode">ナビゲーションバーのレイアウト</string>
+            <string name="ui_traditional">デフォルト</string>
+            <string name="ui_simple_top">上部に配置</string>
+            <string name="ui_simple_bottom">下部に配置</string>
+        <!-- 設定｜一般｜ツールバーの設定｜ナビゲーションバーの非表示 -->
+            <string name="fullscreen">ナビゲーションバーの非表示</string>
+            <string name="disable">無効</string>
+            <string name="fullscreen_1">スクロール</string>
+            <string name="fullscreen_2">タップ</string>
+            <string name="enable_tab_bar">タブバーを有効にする</string>
+        <!-- 設定｜一般｜ツールバーの設定｜アドレスバーの内容 -->
+            <string name="url_box">アドレスバーの内容</string>
+            <string name="hint_title">タイトル</string>
+            <string name="hint_url">アドレス</string>
+            <string name="url_box_domain">ドメイン</string>
+        <!-- 設定｜一般｜ツールバーの設定｜カラーモード -->
+            <string name="color_mode">カラーモード</string>
+            <string name="color_mode_hint">自動的にナビゲーションバーの色を変更する</string>
 
     <!-- 設定｜一般｜メニューのカスタマイズ -->
     <string name="customize_menu">メニューのカスタマイズ</string>
@@ -308,16 +320,6 @@
     <string name="external_video_player">動画プレイヤー</string>
     <string name="external_video_player_description">動画の再生時に使用するアプリを選択</string>
     <string name="player_system_sharing">アプリ一覧を表示</string>
-
-    <!-- 設定｜一般｜アドレスバーの内容 -->
-    <string name="url_box">アドレスバーの内容</string>
-    <string name="hint_title">タイトル</string>
-    <string name="hint_url">アドレス</string>
-    <string name="url_box_domain">ドメイン</string>
-    
-    <!-- 設定｜一般｜カラーモード -->
-    <string name="color_mode">カラーモード</string>
-    <string name="color_mode_hint">自動的にナビゲーションバーの色を変更する</string>
     
     <!-- 設定｜一般｜終了時にプライベートデータを消去 -->    
     <string name="clear_data_on_exit">終了時にプライベートデータを消去</string>
@@ -510,7 +512,6 @@
     <string name="message_delete_downloaded_task">このアイテムを削除しますか？</string>
     <string name="select_all">すべて選択</string>
     <string name="message_delete_downloaded_file">ダウンロードしたファイルも削除する</string>
-    <string name="confirm_to_delete">削除の確認</string>
     <string name="file_name">ファイル名</string>
     <string name="action_download_file">ダウンロード</string>
     <string name="rename">リネーム</string>
@@ -557,6 +558,9 @@
     
     <!-- メニュー -->
     <string name="action_incognito">シークレットモード</string>
+    <string name="exit_message_if_incognito_mode_is_on">開いているタブは全て閉じられます。復元できませんがよろしいですか？</string>
+    <string name="exit">終了</string>
+    <string name="dont_remind_me_again">再度表示しない</string>
     <string name="action_find">ページ内検索</string>
     <string name="action_translate">翻訳</string>
     <string name="network_log">ネットワークログ</string>
