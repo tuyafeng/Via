@@ -837,7 +837,7 @@
     <string name="recently_closed_tabs">Ostatnio zamknięte karty</string>
     <string name="tabs">Karty</string>
     <string name="tab_settings">Ustawienia kart</string>
-    <string name="show_toast_to_undo_closing_tab">Poawiadomienie z opcją cofnięcia</string>
+    <string name="show_toast_to_undo_closing_tab">Powiadomienie z opcją cofnięcia</string>
     <string name="show_toast_to_undo_closing_tab_description">Nie działa w trybie prywatnym.</string>
     <string name="open_all">Otwórz wszystko</string>
     <string name="expand_web_content_automatically">Automatyczne rozwijanie zawartości</string>
