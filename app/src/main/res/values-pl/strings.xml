@@ -1062,4 +1062,3 @@
     <string name="password_required">Wymagane hasło</string>
     <string name="password_required_for_importing_data">Importujesz zaszyfrowane dane. Wprowadź hasło, aby je odszyfrować i zaimportować. Przy nieprawidłowym haśle zostaną zaimportowane tylko niezaszyfrowane dane.</string>
 </resources>
-</resources>
