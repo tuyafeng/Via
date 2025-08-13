@@ -1003,7 +1003,7 @@
     <string name="action_add_favorite">Add favorite</string>
     <string name="favorite_added">Favorite added</string>
     <string name="message_favorite_added">Favorite added successfully</string>
-    <string name="error_ai_service_provider_invalid">AI service privider invalid</string>
+    <string name="error_ai_service_provider_invalid">AI service provider invalid</string>
     <string name="customize_context_menu">Customize context menu</string>
     <string name="font">Font</string>
     <string name="unable_to_add_font">Unable to add font, error code: %1$d</string>
