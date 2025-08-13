@@ -1,4 +1,5 @@
-<resources tools:ignore="MissingTranslation" xmlns:tools="http://schemas.android.com/tools">
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
     <string name="app_name">Via</string>
     <string name="action_new_tab">नवीन टॅब</string>
     <string name="action_open_in_new">नवीन टॅबमध्ये उघडा</string>
@@ -54,7 +55,7 @@
     <string name="action_incognito">गुप्त मोड</string>
     <string name="action_find">पृष्ठात शोधा</string>
     <string name="download_pending">डाउनलोड सुरू होत आहे\u2026</string>
-    <string name="cannot_download">हे फक्त \"http\" किंवा \"https\" URL वरून डाउनलोड करता येते.</string>
+    <string name="cannot_download">हे फक्त \&quot;http\&quot; किंवा \&quot;https\&quot; URL वरून डाउनलोड करता येते.</string>
     <string name="bookmarks_imported">%1$d बुकमार्क आयात केले</string>
     <string name="custom_url">सानुकूल URL</string>
     <string name="baidu_url">बैदू</string>
@@ -87,7 +88,7 @@
     <string name="message_add_bookmark">बुकमार्क यशस्वीरित्या जोडले</string>
     <string name="message_exit">बाहेर पडण्यासाठी पुन्हा एकदा दाबा</string>
     <string name="dialog_message">संदेश</string>
-    <string name="wait_a_moment">कृपया थोडा वेळ थांबा&#8230;</string>
+    <string name="wait_a_moment">कृपया थोडा वेळ थांबा…</string>
     <string name="toast_operation_failed">ऑपरेशन अयशस्वी</string>
     <string name="toast_operation_done">ऑपरेशन पूर्ण</string>
     <string name="volume">स्क्रोल करण्यासाठी व्हॉल्यूम की वापरा</string>
@@ -165,7 +166,7 @@
     <string name="block_popup">पॉप-अप ब्लॉक करा</string>
     <string name="action_save_web_page">पृष्ठ जतन करा</string>
     <string name="action_saved_pages">जतन केलेली पृष्ठे</string>
-    <string name="saved_page_successfully">वेबपृष्ठ यशस्वीरित्या जतन केले: बुकमार्क > जतन केलेली पृष्ठे</string>
+    <string name="saved_page_successfully">वेबपृष्ठ यशस्वीरित्या जतन केले: बुकमार्क &gt; जतन केलेली पृष्ठे</string>
     <string name="deleted_failed">हटविणे अयशस्वी. फाइल डाउनलोड पथवर आहे: </string>
     <string name="empty_hint">रिकामे</string>
     <string name="network_log">नेटवर्क लॉग</string>
@@ -201,7 +202,7 @@
     <string name="find_next">पुढील शोधा</string>
     <string name="find_pre">मागील शोधा</string>
     <string name="action_open_in_background">पार्श्वभूमीत उघडा</string>
-    <string name="cannot_work">हे फक्त \"http\" किंवा \"https\" URL सह कार्य करते.</string>
+    <string name="cannot_work">हे फक्त \&quot;http\&quot; किंवा \&quot;https\&quot; URL सह कार्य करते.</string>
     <string name="action_fullscreen">पूर्णस्क्रीन</string>
     <string name="settings_general">सामान्य</string>
     <string name="no_bookmark">बुकमार्क नाहीत</string>
@@ -226,7 +227,7 @@
     <string name="empty_username_info">कृपया तुमचे वापरकर्तानाव प्रविष्ट करा</string>
     <string name="empty_password_info">कृपया तुमचा पासवर्ड प्रविष्ट करा</string>
     <string name="offline_page_hint">हे जतन केलेले वेबपृष्ठ आहेत. तुम्ही ऑफलाइन असतानाही तुम्ही ते उघडू शकता.</string>
-    <string name="history_page_hint_when_incognito">\"गुप्त मोड\"मध्ये असताना इतिहास नोंदवला जाणार नाही.</string>
+    <string name="history_page_hint_when_incognito">\&quot;गुप्त मोड\&quot;मध्ये असताना इतिहास नोंदवला जाणार नाही.</string>
     <string name="action_preview">पूर्वावलोकन</string>
     <string name="action_page_info">पृष्ठ माहिती</string>
     <string name="page_info_title">शीर्षक:</string>
@@ -251,9 +252,9 @@
     <string name="disable_restore">पुनर्संचयित करू नका</string>
     <string name="data_file">डेटा निर्यात</string>
     <string name="bookmarks_data_to_long">बुकमार्क डेटा खूप मोठा आहे, परंतु इतर डेटा सामान्यपणे अपलोड केला जाईल. पुढे जायचे आहे का?</string>
-    <string name="restore_tabs_hint_settings">\"गुप्त मोड\"मध्ये असताना टॅब पुनर्संचयित केले जाणार नाहीत.</string>
+    <string name="restore_tabs_hint_settings">\&quot;गुप्त मोड\&quot;मध्ये असताना टॅब पुनर्संचयित केले जाणार नाहीत.</string>
     <string name="web_page_debug">वेबपृष्ठ डीबगिंग सक्षम करा</string>
-    <string name="web_page_debug_info">आता तुम्ही तुमचा फोन कंप्युटरशी कनेक्ट करू शकता, नंतर \"chrome://inspect\" वापरून Chrome (PC) सह वेबपृष्ठ डीबग करा. प्रथम USB डीबगिंग मेनूमध्ये सक्षम करा: अधिक साधने > डेव्हलपर साधने.</string>
+    <string name="web_page_debug_info">आता तुम्ही तुमचा फोन कंप्युटरशी कनेक्ट करू शकता, नंतर \&quot;chrome://inspect\&quot; वापरून Chrome (PC) सह वेबपृष्ठ डीबग करा. प्रथम USB डीबगिंग मेनूमध्ये सक्षम करा: अधिक साधने &gt; डेव्हलपर साधने.</string>
     <string name="action_re_download">पुन्हा डाउनलोड करा</string>
     <string name="action_copy_download_link">डाउनलोड लिंक कॉपी करा</string>
     <string name="download_failed">डाउनलोड अयशस्वी</string>
@@ -264,7 +265,7 @@
     <string name="block_popup_message">पॉप-अप विंडो ब्लॉक केली</string>
     <string name="allow_popup">एकदा परवानगी द्या</string>
     <string name="system_download_manager">सिस्टम डाउनलोड व्यवस्थापक</string>
-    <string name="action_play_with">सह प्ले करा&#8230;</string>
+    <string name="action_play_with">सह प्ले करा…</string>
     <string name="show_sniffer_btn_automatically">स्निफर बटण स्वयंचलित दाखवा</string>
     <string name="open_file_failed">फाइल उघडण्यासाठी संबंधित अ‍ॅप सापडले नाही</string>
     <string name="cloud_data_server">क्लाउड डेटा सर्व्हर</string>
@@ -305,11 +306,6 @@
         \n@@||example.com^</string>
     <string name="help">मदत</string>
     <string name="learn_more">अधिक जाणा</string>
-    <plurals name="filters">
-        <item quantity="zero">0 फिल्टर</item>
-        <item quantity="one">1 फिल्टर</item>
-        <item quantity="other">%d फिल्टर</item>
-    </plurals>
     <string name="updated_">अद्यतनित %1$s</string>
     <string name="filter_subscription_info">%1$s, %2$s</string>
     <string name="enable_built_in_filters">अंगभूत फिल्टर सक्षम करा</string>
@@ -355,7 +351,7 @@
     <string name="done">झाले</string>
     <string name="root_folder">रूट फोल्डर</string>
     <string name="delete_item_message">तुम्हाला %1$s हटवायचे आहे याची खात्री आहे का?</string>
-    <string name="item_has_been_deleted">\"%1$s\" हटवले गेले आहे</string>
+    <string name="item_has_been_deleted">\&quot;%1$s\&quot; हटवले गेले आहे</string>
     <string name="undo">पूर्ववत करा</string>
     <string name="can_not_sort_list_when_sorting_alphabetically">अक्षरक्रमानुसार क्रमवारी लावताना यादी क्रमवारी लावता येत नाही</string>
     <string name="opened_in_background_message">पार्श्वभूमीत नवीन टॅब उघडला</string>
@@ -390,7 +386,7 @@
     <string name="follow_system_dark_mode_on">सिस्टम डार्क मोड सक्षम आहे</string>
     <string name="scoped_search">%1$s शोधा</string>
     <string name="add_shortcut">शॉर्टकट जोडा</string>
-    <string name="need_shortcut_permission">परवानगी नाकारली. कृपया सेटिंग्जमध्ये जा आणि या अ‍ॅपसाठी \"होम स्क्रीन शॉर्टकट तयार करा\" परवानगी चालू करा.</string>
+    <string name="need_shortcut_permission">परवानगी नाकारली. कृपया सेटिंग्जमध्ये जा आणि या अ‍ॅपसाठी \&quot;होम स्क्रीन शॉर्टकट तयार करा\&quot; परवानगी चालू करा.</string>
     <string name="create_shortcut_successfully">%1$s साठी शॉर्टकट यशस्वीरित्या तयार केला</string>
     <string name="update_shortcut_successfully">%1$s साठी शॉर्टकट यशस्वीरित्या अद्यतनित केला</string>
     <string name="today">आज</string>
@@ -399,26 +395,26 @@
     <string name="default_date_format">EEE, MMM dd, yyyy</string>
     <string name="view_certificate">प्रमाणपत्र पहा</string>
     <string name="certificate_info">प्रमाणपत्र माहिती</string>
-    <string name="certificate_detail"><![CDATA[
-        <b>प्रदान केलेले</b><br />
-        <b>सामान्य नाव (CN)</b><br />
+    <string name="certificate_detail">
+        &lt;b&gt;प्रदान केलेले&lt;/b&gt;&lt;br /&gt;
+        &lt;b&gt;सामान्य नाव (CN)&lt;/b&gt;&lt;br /&gt;
         %1$s
-        <br /><b>संस्था (O)</b><br />
+        &lt;br /&gt;&lt;b&gt;संस्था (O)&lt;/b&gt;&lt;br /&gt;
         %2$s
-        <br /><b>संस्थात्मक एकक (OU)</b><br />
+        &lt;br /&gt;&lt;b&gt;संस्थात्मक एकक (OU)&lt;/b&gt;&lt;br /&gt;
         %3$s
-        <br /><br /><b>प्रदानकर्ता</b><br />
-        <b>सामान्य नाव (CN)</b><br />
+        &lt;br /&gt;&lt;br /&gt;&lt;b&gt;प्रदानकर्ता&lt;/b&gt;&lt;br /&gt;
+        &lt;b&gt;सामान्य नाव (CN)&lt;/b&gt;&lt;br /&gt;
         %4$s
-        <br /><b>संस्था (O)</b><br />
+        &lt;br /&gt;&lt;b&gt;संस्था (O)&lt;/b&gt;&lt;br /&gt;
         %5$s
-        <br /><br /><b>वैधता कालावधी</b><br />
-        <b>प्रदान केले</b><br />
+        &lt;br /&gt;&lt;br /&gt;&lt;b&gt;वैधता कालावधी&lt;/b&gt;&lt;br /&gt;
+        &lt;b&gt;प्रदान केले&lt;/b&gt;&lt;br /&gt;
         %6$s
-        <br /><b>कालबाह्य होते</b><br />
+        &lt;br /&gt;&lt;b&gt;कालबाह्य होते&lt;/b&gt;&lt;br /&gt;
         %7$s
-        <br />
-    ]]></string>
+        &lt;br /&gt;
+    </string>
     <string name="no_certificate">वेबसाइटवर प्रमाणपत्र नाही.</string>
     <string name="site_conf_enabled">साइट कॉन्फिगरेशन (सक्षम)</string>
     <string name="do_not_sell_or_share">डेटा विकू किंवा शेअर करू नका</string>
@@ -501,31 +497,11 @@
     <string name="the_site">ही साइट</string>
     <string name="navigation_up">वर जा</string>
     <string name="hide_popup_window">पॉपअप विंडो लपवा</string>
-    <plurals name="open_tabs">
-        <item quantity="zero">0 टॅब</item>
-        <item quantity="one">1 टॅब</item>
-        <item quantity="other">%d टॅब</item>
-    </plurals>
     <string name="qr_code">QR कोड</string>
     <string name="download_progress_speed">%1$s • %2$s</string>
     <string name="download_progress_speed_eta">%1$s • %2$s • %3$s</string>
     <string name="download_speed_unknown">N/A</string>
     <string name="download_eta_unknown">-</string>
-    <plurals name="hours_left">
-        <item quantity="zero">0 तास शिल्लक</item>
-        <item quantity="one">1 तास शिल्लक</item>
-        <item quantity="other">%d तास शिल्लक</item>
-    </plurals>
-    <plurals name="mins_left">
-        <item quantity="zero">0 मिनिट शिल्लक</item>
-        <item quantity="one">1 मिनिट शिल्लक</item>
-        <item quantity="other">%d मिनिटे शिल्लक</item>
-    </plurals>
-    <plurals name="secs_left">
-        <item quantity="zero">0 सेकंद शिल्लक</item>
-        <item quantity="one">1 सेकंद शिल्लक</item>
-        <item quantity="other">%d सेकंद शिल्लक</item>
-    </plurals>
     <string name="translation_engine_google">Google भाषांतर</string>
     <string name="translation_engine_baidu">Baidu भाषांतर</string>
     <string name="ignore_site_message_for_a_minute">ही साइट सूचना एक मिनिटासाठी दुर्लक्षित करा</string>
@@ -550,65 +526,65 @@
     <string name="download_filter_apk">APK</string>
     <string name="download_filter_audio">ऑडिओ</string>
     <string name="download_filter_archives">संग्रह</string>
-    <string name="simple_guide_of_writing_userscript"><![CDATA[
-    <b>मेटाडेटा ब्लॉक</b><br />
-    मेटाडेटा हा पुढील स्वरूपात असावा:<br />
-    <tt>
-    // ==UserScript==<br />
-    // @key value<br />
+    <string name="simple_guide_of_writing_userscript">
+    &lt;b&gt;मेटाडेटा ब्लॉक&lt;/b&gt;&lt;br /&gt;
+    मेटाडेटा हा पुढील स्वरूपात असावा:&lt;br /&gt;
+    &lt;tt&gt;
+    // ==UserScript==&lt;br /&gt;
+    // @key value&lt;br /&gt;
     // ==/UserScript==
-    </tt>
-    <br /><br />
-    <b><tt>@name</tt></b>: युजरस्क्रिप्टचे नाव.
-    <br /><br />
-    <b><tt>@namespace</tt></b>: <tt>@namespace</tt> आणि <tt>@name</tt> यांचे संयोजन हे युजरस्क्रिप्टसाठी अद्वितीय ओळख असते.
-    <br /><br />
-    <b><tt>@match/@exclude-match</tt></b>: नियम निश्चित करतो की स्क्रिप्ट चालवले जावे की नाही. <tt>@match</tt> वापरण्याची शिफारस केली जाते.
-    <br /><br />
-    <b><tt>@include/@exclude</tt></b>: स्क्रिप्ट चालवायचे की नाही हे ठरवण्याचा जुना मार्ग.
-    <br /><br />
-    <b><tt>@version</tt></b>: युजरस्क्रिप्टची आवृत्ती.
-    <br /><br />
-    <b><tt>@description</tt></b>: युजरस्क्रिप्टचे वर्णन.
-    <br /><br />
-    <b><tt>@author</tt></b>: युजरस्क्रिप्टचा लेखक.
-    <br /><br />
-    <b><tt>@require</tt></b>: युजरस्क्रिप्टसाठी आवश्यक संसाधने. उदा.<br /><tt>// @require https://my.cdn.com/jquery.js</tt>.
-    <br /><br />
-    <b><tt>@run-at</tt></b>: स्क्रिप्ट कधी कार्यान्वित होईल ते ठरवा. उदा. <tt>document-start</tt> पृष्ठ लोड होण्यापूर्वी, <tt>document-end</tt> पृष्ठ लोड झाल्यावर.
-    <br /><br />
-    <b><tt>@grant</tt></b>: कोणत्या GM_* APIना अनुमती द्यायची ते निर्दिष्ट करा.<br />
-    <br /><br />
-    <b><tt>@downloadURL</tt></b>: स्क्रिप्ट डाउनलोड करण्याचा URL.
-    <br /><br />
-    <b><tt>@supportURL</tt></b>: सपोर्ट URL.
-    <br /><br />
-    <b><tt>@homepageURL</tt></b>: मुख्यपृष्ठ URL.
-    <br /><br />
-    <b>GM_* API</b><br />
-    <tt>GM_*</tt> ही Via द्वारे पुरवलेली विशेष API आहेत. सध्या समर्थित API:<br />
-    <tt>GM_getValue/GM_setValue/GM_deleteValue/GM_listValues/GM_getResourceText/GM_getResourceURL/GM_addElement/GM_addStyle/GM_setClipboard/GM_xmlhttpRequest/GM_download/GM_registerMenuCommand/GM_unregisterMenuCommand</tt>.
-    <br /><br />
-    <b>मॅचिंग</b><br />
-    <tt>@match</tt> URL जुळवणीसाठी वापरला जातो.<br />
-    <br /><br />
-    उदा.:<br />
-    <tt>
-    // @match https://www.google.com/something <br />
-    // @match https://www.google.com/any/* <br />
+    &lt;/tt&gt;
+    &lt;br /&gt;&lt;br /&gt;
+    &lt;b&gt;&lt;tt&gt;@name&lt;/tt&gt;&lt;/b&gt;: युजरस्क्रिप्टचे नाव.
+    &lt;br /&gt;&lt;br /&gt;
+    &lt;b&gt;&lt;tt&gt;@namespace&lt;/tt&gt;&lt;/b&gt;: &lt;tt&gt;@namespace&lt;/tt&gt; आणि &lt;tt&gt;@name&lt;/tt&gt; यांचे संयोजन हे युजरस्क्रिप्टसाठी अद्वितीय ओळख असते.
+    &lt;br /&gt;&lt;br /&gt;
+    &lt;b&gt;&lt;tt&gt;@match/@exclude-match&lt;/tt&gt;&lt;/b&gt;: नियम निश्चित करतो की स्क्रिप्ट चालवले जावे की नाही. &lt;tt&gt;@match&lt;/tt&gt; वापरण्याची शिफारस केली जाते.
+    &lt;br /&gt;&lt;br /&gt;
+    &lt;b&gt;&lt;tt&gt;@include/@exclude&lt;/tt&gt;&lt;/b&gt;: स्क्रिप्ट चालवायचे की नाही हे ठरवण्याचा जुना मार्ग.
+    &lt;br /&gt;&lt;br /&gt;
+    &lt;b&gt;&lt;tt&gt;@version&lt;/tt&gt;&lt;/b&gt;: युजरस्क्रिप्टची आवृत्ती.
+    &lt;br /&gt;&lt;br /&gt;
+    &lt;b&gt;&lt;tt&gt;@description&lt;/tt&gt;&lt;/b&gt;: युजरस्क्रिप्टचे वर्णन.
+    &lt;br /&gt;&lt;br /&gt;
+    &lt;b&gt;&lt;tt&gt;@author&lt;/tt&gt;&lt;/b&gt;: युजरस्क्रिप्टचा लेखक.
+    &lt;br /&gt;&lt;br /&gt;
+    &lt;b&gt;&lt;tt&gt;@require&lt;/tt&gt;&lt;/b&gt;: युजरस्क्रिप्टसाठी आवश्यक संसाधने. उदा.&lt;br /&gt;&lt;tt&gt;// @require https://my.cdn.com/jquery.js&lt;/tt&gt;.
+    &lt;br /&gt;&lt;br /&gt;
+    &lt;b&gt;&lt;tt&gt;@run-at&lt;/tt&gt;&lt;/b&gt;: स्क्रिप्ट कधी कार्यान्वित होईल ते ठरवा. उदा. &lt;tt&gt;document-start&lt;/tt&gt; पृष्ठ लोड होण्यापूर्वी, &lt;tt&gt;document-end&lt;/tt&gt; पृष्ठ लोड झाल्यावर.
+    &lt;br /&gt;&lt;br /&gt;
+    &lt;b&gt;&lt;tt&gt;@grant&lt;/tt&gt;&lt;/b&gt;: कोणत्या GM_* APIना अनुमती द्यायची ते निर्दिष्ट करा.&lt;br /&gt;
+    &lt;br /&gt;&lt;br /&gt;
+    &lt;b&gt;&lt;tt&gt;@downloadURL&lt;/tt&gt;&lt;/b&gt;: स्क्रिप्ट डाउनलोड करण्याचा URL.
+    &lt;br /&gt;&lt;br /&gt;
+    &lt;b&gt;&lt;tt&gt;@supportURL&lt;/tt&gt;&lt;/b&gt;: सपोर्ट URL.
+    &lt;br /&gt;&lt;br /&gt;
+    &lt;b&gt;&lt;tt&gt;@homepageURL&lt;/tt&gt;&lt;/b&gt;: मुख्यपृष्ठ URL.
+    &lt;br /&gt;&lt;br /&gt;
+    &lt;b&gt;GM_* API&lt;/b&gt;&lt;br /&gt;
+    &lt;tt&gt;GM_*&lt;/tt&gt; ही Via द्वारे पुरवलेली विशेष API आहेत. सध्या समर्थित API:&lt;br /&gt;
+    &lt;tt&gt;GM_getValue/GM_setValue/GM_deleteValue/GM_listValues/GM_getResourceText/GM_getResourceURL/GM_addElement/GM_addStyle/GM_setClipboard/GM_xmlhttpRequest/GM_download/GM_registerMenuCommand/GM_unregisterMenuCommand&lt;/tt&gt;.
+    &lt;br /&gt;&lt;br /&gt;
+    &lt;b&gt;मॅचिंग&lt;/b&gt;&lt;br /&gt;
+    &lt;tt&gt;@match&lt;/tt&gt; URL जुळवणीसाठी वापरला जातो.&lt;br /&gt;
+    &lt;br /&gt;&lt;br /&gt;
+    उदा.:&lt;br /&gt;
+    &lt;tt&gt;
+    // @match https://www.google.com/something &lt;br /&gt;
+    // @match https://www.google.com/any/* &lt;br /&gt;
     // @exclude-match https://www.google.com/any/not_me
-    </tt>
-    <br /><br />
-]]></string>
-    <string name="toast_install_script_successfully">"%1$s" यशस्वीपणे स्थापित केले!</string>
-    <string name="toast_install_script_failed_unknown">"%1$s" स्थापित करणे अयशस्वी!</string>
-    <string name="toast_install_script_failed_dependency_error">"%1$s" साठी आवश्यक अवलंबन डाउनलोड करणे अयशस्वी!</string>
+    &lt;/tt&gt;
+    &lt;br /&gt;&lt;br /&gt;
+</string>
+    <string name="toast_install_script_successfully">&quot;%1$s&quot; यशस्वीपणे स्थापित केले!</string>
+    <string name="toast_install_script_failed_unknown">&quot;%1$s&quot; स्थापित करणे अयशस्वी!</string>
+    <string name="toast_install_script_failed_dependency_error">&quot;%1$s&quot; साठी आवश्यक अवलंबन डाउनलोड करणे अयशस्वी!</string>
     <string name="title_install_script">स्क्रिप्ट स्थापित करा</string>
-    <string name="message_install_script">तुम्हाला "%1$s"(%2$s) स्थापित करायचे आहे का?</string>
+    <string name="message_install_script">तुम्हाला &quot;%1$s&quot;(%2$s) स्थापित करायचे आहे का?</string>
     <string name="title_reinstall_script">पुन्हा स्थापित करा</string>
-    <string name="message_reinstall_script">तुम्हाला "%1$s"(%2$s) पुन्हा स्थापित करायचे आहे का?</string>
+    <string name="message_reinstall_script">तुम्हाला &quot;%1$s&quot;(%2$s) पुन्हा स्थापित करायचे आहे का?</string>
     <string name="title_update_script">स्क्रिप्ट अपडेट करा</string>
-    <string name="message_update_script">तुम्हाला "%1$s"(%2$s -> %3$s) अपडेट करायचे आहे का?</string>
+    <string name="message_update_script">तुम्हाला &quot;%1$s&quot;(%2$s -&gt; %3$s) अपडेट करायचे आहे का?</string>
     <string name="toast_parsing_script">स्क्रिप्ट पार्सिंग चालू आहे…</string>
     <string name="title_add_metadata_block">मेटाडेटा ब्लॉक जोडा</string>
     <string name="message_add_metadata_block">या स्क्रिप्टमध्ये मेटाडेटा ब्लॉक नाही, त्यामुळे हे जतन करता येणार नाही. तुम्हाला त्यात एक डिफॉल्ट मेटाडेटा ब्लॉक जोडायचा आहे का?</string>
@@ -722,14 +698,14 @@
     <string name="fastforward">वेगाने पुढे</string>
     <string name="rewind">मागे</string>
     <string name="add_to_home_screen">मुख्य स्क्रीनवर जोडा</string>
-    <string name="certificate_detail_fingerprints"><![CDATA[
-    <b>SHA-256 फिंगरप्रिंट्स</b><br />
-    <b>प्रमाणपत्र</b><br />
+    <string name="certificate_detail_fingerprints">
+    &lt;b&gt;SHA-256 फिंगरप्रिंट्स&lt;/b&gt;&lt;br /&gt;
+    &lt;b&gt;प्रमाणपत्र&lt;/b&gt;&lt;br /&gt;
     %1$s
-    <br /><b>सार्वजनिक की</b><br />
+    &lt;br /&gt;&lt;b&gt;सार्वजनिक की&lt;/b&gt;&lt;br /&gt;
     %2$s
-    <br />
-]]></string>
+    &lt;br /&gt;
+</string>
     <string name="show_reader">वाचक दर्शवा</string>
     <string name="hide_reader">वाचक लपवा</string>
     <string name="reader_is_shown">वाचक दर्शवला गेला आहे</string>
@@ -798,11 +774,6 @@
     <string name="game_mode_exit">गेम मोडमधून बाहेर पडण्यासाठी आणखी एकदा दाबा</string>
     <string name="show_details">तपशील दाखवा</string>
     <string name="hide_details">तपशील लपवा</string>
-    <plurals name="items">
-        <item quantity="zero">0 वस्तू</item>
-        <item quantity="one">1 वस्तू</item>
-        <item quantity="other">%d वस्तू</item>
-    </plurals>
     <string name="no_images">कोणतीही प्रतिमा नाहीत</string>
     <string name="update_pending">अपडेट सुरू करत आहे\u2026</string>
     <string name="update_item_successfully">%1$s यशस्वीपणे अपडेट झाले</string>
@@ -830,4 +801,204 @@
     <string name="quick_back_add_site_exception_off">विशिष्ट साइटसाठी रीलोड न करता मागे जाणे अक्षम करा.</string>
     <string name="desktop_mode_add_site_exception_on">विशिष्ट साइटसाठी डेस्कटॉप मोड सक्षम करा.</string>
     <string name="desktop_mode_add_site_exception_off">विशिष्ट साइटसाठी डेस्कटॉप मोड अक्षम करा.</string>
+    <string name="action_add_favorite">आवडते जोडा</string>
+    <string name="action_close_all_tabs">सर्व टॅब बंद करा</string>
+    <string name="action_close_other_tabs">इतर टॅब बंद करा</string>
+    <string name="action_close_tabs_to_the_bottom">खालील टॅब बंद करा</string>
+    <string name="action_close_tabs_to_the_top">वरील टॅब बंद करा</string>
+    <string name="adblock_add_site_exception_off">विशिष्ट साइटसाठी जाहिरात ब्लॉकिंग अक्षम करा</string>
+    <string name="adblock_add_site_exception_on">विशिष्ट साइटसाठी जाहिरात ब्लॉकिंग सक्षम करा</string>
+    <string name="add_model">मॉडेल जोडा</string>
+    <string name="add_site_exception">साइट अपवाद जोडा</string>
+    <string name="agent_add_site_exception">विशिष्ट साइटसाठी वापरकर्ता-एजंट सेट करा</string>
+    <string name="ai">एआय</string>
+    <string name="ai_prompt">एआय प्रॉम्प्ट</string>
+    <string name="ai_service_provider">एआय सेवा प्रदाता</string>
+    <string name="ai_settings">एआय सेटिंग्ज</string>
+    <string name="all_sites">सर्व साइट्स</string>
+    <string name="allow">अनुमती द्या</string>
+    <string name="allow_page_redirection_msg">पृष्ठ पुनर्निर्देशनास अनुमती द्यायची आहे का?</string>
+    <string name="api_key">API की</string>
+    <string name="assistant">सहायक</string>
+    <string name="auto_sync">स्वयंचलित समक्रमण</string>
+    <string name="available_variables">उपलब्ध व्हेरिएबल्स</string>
+    <string name="block">ब्लॉक करा</string>
+    <string name="blur_effect">अस्पष्ट प्रभाव</string>
+    <string name="blur_effect_description">अ‍ॅपसाठी अस्पष्ट प्रभाव सक्षम करा. काही उपकरणांवर हे समर्थित नसू शकते.</string>
+    <string name="camera">कॅमेरा</string>
+    <string name="camera_ask_first_description">साइट्सना कॅमेरा वापरण्याची अनुमती देण्यापूर्वी विचार करा</string>
+    <string name="casual_chat">सामान्य गप्पा</string>
+    <string name="category_basics">मूलभूत</string>
+    <string name="category_content">सामग्री</string>
+    <string name="category_permissions">परवानग्या</string>
+    <string name="clear_messages">संदेश साफ करा</string>
+    <string name="clipboard">क्लिपबोर्ड</string>
+    <string name="clipboard_add_site_exception_allow">विशिष्ट साइटला तुमचा क्लिपबोर्ड वापरण्याची अनुमती द्या.</string>
+    <string name="clipboard_add_site_exception_block">विशिष्ट साइटला तुमचा क्लिपबोर्ड वापरण्यापासून अवरोधित करा.</string>
+    <string name="clipboard_allowed_description">साइट्सना क्लिपबोर्ड वापरण्याची अनुमती द्या</string>
+    <string name="clipboard_ask_first_description">साइट्सना क्लिपबोर्ड वापरण्याची अनुमती देण्यापूर्वी विचार करा</string>
+    <string name="clipboard_blocked_description">साइट्सना क्लिपबोर्ड वापरण्यापासून अवरोधित करा</string>
+    <string name="closed_tab">%1$s बंद केले</string>
+    <string name="confirm_to_clear">साफ करण्याची खात्री करा</string>
+    <string name="content">सामग्री</string>
+    <string name="cookies">कुकीज</string>
+    <string name="cookies_allowed_description">साइट्सना कुकी डेटा जतन आणि वाचण्याची अनुमती द्या</string>
+    <string name="cookies_allowed_except_third_party_description_short">तृतीय पक्ष वगळता अनुमती दिली</string>
+    <string name="copy_all">सर्व कॉपी करा</string>
+    <string name="customize_context_menu">कॉन्टेक्स्ट मेनू सानुकूलित करा</string>
+    <string name="default_description">%1$s (डीफॉल्ट)</string>
+    <string name="delimiter">,</string>
+    <string name="enable_video_player_gestures_description">फुलस्क्रीनमध्ये व्हिडिओ प्ले करताना स्वाइप करून व्हिडिओ प्रगती, स्क्रीन ब्राइटनेस, डिव्हाइस व्हॉल्यूम समायोजित करण्याची अनुमती द्या</string>
+    <string name="enter_password">पासवर्ड प्रविष्ट करा</string>
+    <string name="enter_password_for_exporting_data">तुम्ही गुप्त डेटा निर्यात करत आहात, कृपया डेटा एन्क्रिप्ट करण्यासाठी पासवर्ड प्रविष्ट करा. कृपया पासवर्ड लक्षात ठेवा. एकदा पासवर्ड हरवला तर एन्क्रिप्टेड डेटा आयात करता येणार नाही.</string>
+    <string name="error_ai_service_provider_invalid">एआय सेवा प्रदाता अवैध आहे</string>
+    <string name="error_http">HTTP त्रुटी: %1$d\n\n%2$s</string>
+    <string name="error_no_ai_service_provider">कोणताही एआय सेवा प्रदाता नाही</string>
+    <string name="error_no_completion">पूर्ण झाले नाही</string>
+    <string name="error_unknown">अज्ञात त्रुटी: %1$s</string>
+    <string name="every_15_days">प्रत्येक 15 दिवसांनी</string>
+    <string name="every_3_days">प्रत्येक 3 दिवसांनी</string>
+    <string name="every_day">दररोज</string>
+    <string name="every_week">दर आठवड्याला</string>
+    <string name="exception">अपवाद</string>
+    <string name="experimental">प्रायोगिक</string>
+    <string name="export_passwords">पासवर्ड निर्यात करा</string>
+    <string name="export_passwords_description">पासवर्ड फाइल वापरून झाल्यावर ती हटवा, डेटा गळती टाळण्यासाठी</string>
+    <string name="export_thread">थ्रेड निर्यात करा</string>
+    <string name="external_video_player">बाह्य व्हिडिओ प्लेअर</string>
+    <string name="external_video_player_description">व्हिडिओ प्ले करण्यासाठी बाह्य व्हिडिओ प्लेअर निवडताना वापरा</string>
+    <string name="failed_to_import_passwords">पासवर्ड आयात करणे अयशस्वी</string>
+    <string name="favorite_added">आवडते जोडले</string>
+    <string name="fill_password">पासवर्ड भरा</string>
+    <string name="find">शोधा</string>
+    <string name="font">फॉन्ट</string>
+    <string name="google_lens_url">Google लेन्स</string>
+    <string name="grant">अनुमती द्या</string>
+    <string name="has_never_been_synced">कधीही समक्रमित केलेले नाही</string>
+    <string name="hint_password_unchanged">पासवर्ड (बदललेला नाही)</string>
+    <string name="images">प्रतिमा</string>
+    <string name="images_add_site_exception_allow">विशिष्ट साइटसाठी प्रतिमा दाखवा.</string>
+    <string name="images_add_site_exception_block">विशिष्ट साइटसाठी प्रतिमा ब्लॉक करा.</string>
+    <string name="images_allowed_description">साइट्सना प्रतिमा लोड करण्याची अनुमती द्या</string>
+    <string name="images_allowed_via_wifi_description">फक्त Wi-Fi द्वारे प्रतिमा लोड करण्याची अनुमती द्या</string>
+    <string name="images_allowed_via_wifi_description_short">फक्त Wi-Fi द्वारे अनुमती दिली</string>
+    <string name="import_passwords">पासवर्ड आयात करा</string>
+    <string name="import_passwords_description">CSV फाइलमधून पासवर्ड आयात करा</string>
+    <string name="import_script_from_file">फाइलमधून स्क्रिप्ट आयात करा</string>
+    <string name="import_script_from_url">URL वरून स्क्रिप्ट आयात करा</string>
+    <string name="javascript">जावास्क्रिप्ट</string>
+    <string name="javascript_add_site_exception_allow">विशिष्ट साइटसाठी जावास्क्रिप्ट अनुमती द्या.</string>
+    <string name="javascript_add_site_exception_block">विशिष्ट साइटसाठी जावास्क्रिप्ट ब्लॉक करा.</string>
+    <string name="javascript_allowed_description">साइट्सना जावास्क्रिप्ट चालवण्याची अनुमती द्या</string>
+    <string name="list_item_dash">- %1$s</string>
+    <string name="load_skin">स्किन लोड करा</string>
+    <string name="load_skin_failed">स्किन लोड करणे अयशस्वी</string>
+    <string name="location1">स्थान</string>
+    <string name="location_ask_first_description">साइट्सना तुमचे स्थान जाणून घेण्याची अनुमती देण्यापूर्वी विचार करा</string>
+    <string name="mark_as_ad_expand">विस्तार करा</string>
+    <string name="mark_as_ad_move_view">दृश्य हलवा</string>
+    <string name="mark_as_ad_shrink">संक्षिप्त करा</string>
+    <string name="markdown">मार्कडाउन</string>
+    <string name="message">संदेश</string>
+    <string name="message_favorite_added">आवडते यशस्वीरित्या जोडले</string>
+    <string name="message_ignore_ssl_warnings">SSL प्रमाणपत्र वेबसाइटची ओळख सत्यापित करण्यासाठी आणि कनेक्शन एन्क्रिप्ट करण्यासाठी वापरले जाते. हे पत्र लिफाफ्यात ठेवून पोस्ट करण्यासारखे आहे, फक्त तुम्ही आणि वेबसाइट लिफाफा उघडू शकता आणि पत्र वाचू शकता.\n\nएकदा तुम्ही SSL चेतावण्या दुर्लक्षित केल्या की, वेबसाइटशी कनेक्शन असुरक्षित असू शकते, म्हणजे वेबसाइटशी प्रसारित डेटा चोरी होऊ शकतो. हे तुटलेल्या लिफाफ्यात पत्र ठेवून पोस्ट करण्यासारखे आहे, प्रमाणपत्र बनावट करणारा कोणीही ते उघडू शकतो.</string>
+    <string name="message_template">संदेश टेम्पलेट</string>
+    <string name="microphone">मायक्रोफोन</string>
+    <string name="microphone_ask_first_description">साइट्सना मायक्रोफोन वापरण्याची अनुमती देण्यापूर्वी विचार करा</string>
+    <string name="model_id">मॉडेल आयडी</string>
+    <string name="never">कधीही नाही</string>
+    <string name="never_for_this_site">या साइटसाठी कधीही नाही</string>
+    <string name="new_thread">नवीन थ्रेड</string>
+    <string name="no_camera">कॅमेरा नाही</string>
+    <string name="no_configuration">कॉन्फिगरेशन नाही</string>
+    <string name="no_messages">कोणतेही संदेश नाहीत</string>
+    <string name="note">नोंद</string>
+    <string name="off">बंद</string>
+    <string name="offer_to_save_passwords">पासवर्ड जतन करण्याची ऑफर द्या</string>
+    <string name="on">चालू</string>
+    <string name="open_app">अ‍ॅप उघडा</string>
+    <string name="open_app_add_site_exception_allow">विशिष्ट साइटला तुमचे अ‍ॅप उघडण्याची अनुमती द्या.</string>
+    <string name="open_app_add_site_exception_block">विशिष्ट साइटला तुमचे अ‍ॅप उघडण्यापासून अवरोधित करा.</string>
+    <string name="open_app_allowed_description">साइट्सना तुमचे अ‍ॅप उघडण्याची अनुमती द्या</string>
+    <string name="open_app_ask_first_description">साइट्सना अ‍ॅप उघडण्याची अनुमती देण्यापूर्वी विचार करा</string>
+    <string name="open_app_blocked_description">साइट्सना अ‍ॅप उघडण्यापासून अवरोधित करा</string>
+    <string name="open_key_management_page">API की निर्मिती आणि व्यवस्थापन पृष्ठ उघडा</string>
+    <string name="operation_ai_pannel">एआय पॅनल उघडा</string>
+    <string name="operation_opendownloads">डाउनलोड उघडा</string>
+    <string name="page_redirection">पृष्ठ पुनर्निर्देशन</string>
+    <string name="page_redirection_add_site_exception_allow">विशिष्ट साइटसाठी कोणत्याही URL वर पृष्ठ पुनर्निर्देशनास अनुमती द्या.</string>
+    <string name="page_redirection_add_site_exception_ask_first">विशिष्ट साइटसाठी क्रॉस-ओरिजिन पुनर्निर्देशनापूर्वी विचार करा.</string>
+    <string name="page_redirection_allowed_description">कोणत्याही URL वर पृष्ठ पुनर्निर्देशनास अनुमती द्या</string>
+    <string name="page_redirection_ask_first_description">क्रॉस-ओरिजिन URL वर पृष्ठ पुनर्निर्देशनापूर्वी विचार करा</string>
+    <string name="page_redirection_ask_first_description_short">क्रॉस-ओरिजिन पुनर्निर्देशनापूर्वी विचार करा</string>
+    <string name="password_exists">पासवर्ड आधीच अस्तित्वात आहे</string>
+    <string name="password_exists_message">तुम्ही %1$s वर हे वापरकर्तानाव आणि पासवर्ड जतन केले आहे. तुम्हाला ते पहायचे आहे का?</string>
+    <string name="password_manager">पासवर्ड व्यवस्थापक</string>
+    <string name="password_required">पासवर्ड आवश्यक</string>
+    <string name="password_required_for_importing_data">तुम्ही एन्क्रिप्टेड डेटा आयात करत आहात. डेटा डीक्रिप्ट करण्यासाठी आणि आयात करण्यासाठी पासवर्ड प्रविष्ट करा. पासवर्ड चुकीचा असल्यास, फक्त अनएन्क्रिप्टेड डेटा आयात केला जाईल.</string>
+    <string name="password_saved">पासवर्ड जतन केला</string>
+    <string name="password_updated">पासवर्ड अद्यतनित केला</string>
+    <string name="passwords">पासवर्ड</string>
+    <string name="passwords_import">%1$d पासवर्ड आयात केले</string>
+    <string name="permission_camera_description">वेबसाइटवर फोटो घेण्यासाठी किंवा व्हिडिओ रेकॉर्ड करण्यासाठी वापरले जाते</string>
+    <string name="permission_microphone_description">वेबसाइटवर व्हॉइस इनपुट किंवा ऑडिओ रेकॉर्डिंगसाठी वापरले जाते</string>
+    <string name="permission_summary">%1$s: %2$s</string>
+    <string name="plain_text">साधा मजकूर</string>
+    <string name="player_system_sharing">सिस्टम शेअरिंग</string>
+    <string name="popups">पॉप-अप्स</string>
+    <string name="popups_ask_first_description">साइट्सना पॉप-अप्स दाखवण्याची अनुमती देण्यापूर्वी विचार करा</string>
+    <string name="resend">पुन्हा पाठवा</string>
+    <string name="save_password">पासवर्ड जतन करा</string>
+    <string name="save_password_message">%1$s वर पासवर्ड जतन करायचा आहे का?</string>
+    <string name="script_invalid">स्क्रिप्ट अवैध आहे</string>
+    <string name="select_model">मॉडेल निवडा</string>
+    <string name="send">पाठवा</string>
+    <string name="show_background_in_settings">सेटिंग्जमध्ये पार्श्वभूमी दाखवा</string>
+    <string name="show_background_in_settings_toast">हे पुढील वेळी सेटिंग्ज उघडल्यावर प्रभावी होईल</string>
+    <string name="skin_changed">स्किन बदलले</string>
+    <string name="skins">स्किन्स</string>
+    <string name="stop">थांबवा</string>
+    <string name="sync_data">डेटा समक्रमित करा</string>
+    <string name="sync_data_bookmarks">बुकमार्क</string>
+    <string name="sync_data_favorites">आवडते</string>
+    <string name="sync_data_none">काहीही नाही</string>
+    <string name="sync_data_settings">सेटिंग्ज</string>
+    <string name="sync_merge_description">स्थानिक डेटा रिमोट डेटासह मर्ज करा</string>
+    <string name="sync_pull_confirm">रिमोट डेटा स्थानिक डेटावर अधिलिखित करायचे आहे का?</string>
+    <string name="sync_pull_description">स्थानिक डेटा रिमोट डेटावर अधिलिखित करा</string>
+    <string name="sync_push_confirm">स्थानिक डेटा रिमोट डेटावर अधिलिखित करायचे आहे का?</string>
+    <string name="sync_push_description">रिमोट डेटा स्थानिक डेटावर अधिलिखित करा</string>
+    <string name="sync_webdav">WebDAV</string>
+    <string name="sync_webdav_user">%1$s (WebDAV)</string>
+    <string name="synced_">%1$s समक्रमित केले</string>
+    <string name="system_prompt">सिस्टम प्रॉम्प्ट</string>
+    <string name="threads">थ्रेड्स</string>
+    <string name="title_ignore_ssl_warnings_confirmation">मला माहित आहे की हे कनेक्शन असुरक्षित करू शकते</string>
+    <string name="title_ignore_ssl_warnings_description">कृपया काळजी घ्या, SSL प्रमाणपत्र चेतावण्या दुर्लक्षित केल्याने वेबसाइटशी कनेक्शन असुरक्षित होऊ शकते</string>
+    <string name="toolbars_settings">साधनपट्टी सेटिंग्ज</string>
+    <string name="translation_engine_microsoft">Microsoft भाषांतर</string>
+    <string name="two_row_toolbar">दोन ओळींची साधनपट्टी</string>
+    <string name="unable_to_add_font">फॉन्ट जोडता आले नाही, त्रुटी कोड: %1$d</string>
+    <string name="unlock_device_to_export_data">डेटा निर्यात करण्यासाठी डिव्हाइस अनलॉक करा</string>
+    <string name="unlock_device_to_export_passwords">पासवर्ड निर्यात करण्यासाठी डिव्हाइस अनलॉक करा</string>
+    <string name="unlock_device_to_fill_password">पासवर्ड भरण्यासाठी डिव्हाइस अनलॉक करा</string>
+    <string name="unlock_device_to_view_password">पासवर्ड पाहण्यासाठी डिव्हाइस अनलॉक करा</string>
+    <string name="update_interval">अद्यतन अंतर</string>
+    <string name="update_password">पासवर्ड अद्यतनित करा</string>
+    <string name="update_password_message">%1$s वर पासवर्ड अद्यतनित करायचा आहे का?</string>
+    <string name="user_agent_in_desktop_mode">डेस्कटॉप मोडमध्ये वापरकर्ता-एजंट</string>
+    <string name="user_agent_reduction">वापरकर्ता-एजंट कमी करणे</string>
+    <string name="user_agent_reduction_description">वापरकर्ता-एजंटमधून डिव्हाइस माहिती आणि लहान आवृत्ती माहिती काढा</string>
+    <string name="validate">प्रमाणित करा</string>
+    <string name="validate_failed">प्रमाणित करणे अयशस्वी</string>
+    <string name="validate_success">प्रमाणित करणे यशस्वी</string>
+    <string name="var_input_description">इनपुट बॉक्समधील मजकूर.</string>
+    <string name="var_time_description">सध्याचा वेळ yyyy-MM-dd HH:mm:ss EEEE (ZZZZ).</string>
+    <string name="var_webpage_content_description">वेबपृष्ठाचा साधा मजकूर.</string>
+    <string name="var_webpage_title_description">वेबपृष्ठाचे शीर्षक.</string>
+    <string name="var_webpage_url_description">वेबपृष्ठाचा URL.</string>
+    <string name="verify_fingerprint">कृपया तुमची फिंगरप्रिंट प्रमाणित करा</string>
+    <string name="view_password">पासवर्ड पहा</string>
+    <string name="webdav_configuration">WebDAV कॉन्फिगरेशन</string>
+    <string name="webdav_digest_access_authentication">डायजेस्ट ऍक्सेस ऑथेंटिकेशन वापरते</string>
 </resources>
