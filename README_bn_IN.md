@@ -1,4 +1,4 @@
-# ব্রাউজারের মাধ্যমে - গীকের সেরা পছন্দ
+# VIA Browser- গীকের সেরা পছন্দ
 
  <div align="center"><img src="http://viayoo.com/en/images/logo.png" alt="Via Logo" height="100"/></div>
 
