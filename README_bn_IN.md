@@ -24,8 +24,8 @@ Via ব্রাউজার হল একটি শক্তিশালী ব
 
 আমরা সকলকে স্থানীয়করণে সহায়তা করার জন্য উৎসাহিত করি। কীভাবে করবেন তা নিম্নরূপ।
 
- ১. এই সংগ্রহস্থলটি ফোর্ক করুন
-২. `app/src/main/res/values/strings.xml` কে `app/src/main/res/values-%(lang)/` এর মতো পাথে কপি করুন, `%(lang)` কে [*the ISO 639-1 language code*](http://www.loc.gov/standards/iso639-2/php/code_list.php) দিয়ে প্রতিস্থাপন করুন
+১. এই সংগ্রহস্থলটি ফোর্ক করুন
+২.`app/src/main/res/values/strings.xml` কে `app/src/main/res/values-%(lang)/` এর মতো পাথে কপি করুন, `%(lang)` কে [*the ISO 639-1 language code*](http://www.loc.gov/standards/iso639-2/php/code_list.php) দিয়ে প্রতিস্থাপন করুন
 ৩. `app/src/main/res/values-%(lang)/strings.xml` অনুবাদ করুন
 
 ### FAQ
