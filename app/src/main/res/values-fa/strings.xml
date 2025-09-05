@@ -938,7 +938,7 @@
     <string name="user_agent_in_desktop_mode">عامل کاربر در حالت دسکتاپ</string>
     <string name="user_agent_reduction">کاهش عامل کاربر</string>
     <string name="user_agent_reduction_description">حذف اطلاعات دستگاه و اطلاعات نسخه جزئی عامل کاربر</string>
-<string name="operation_opendownloads">بازکردن دانلود‌ها</string>
+    <string name="operation_opendownloads">بازکردن دانلود‌ها</string>
     <string name="closed_tab">%1$s بسته شد</string>
     <plurals name="tabs_closed">
         <item quantity="zero">۰ برگه بسته شد</item>
