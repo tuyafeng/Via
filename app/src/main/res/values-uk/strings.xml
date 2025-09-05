@@ -7,7 +7,7 @@
   <string name="action_share">Поділитися</string>
   <string name="action_history">Історія</string>
   <string name="action_bookmarks">Закладки</string>
-    <string name="action_add_bookmark">Додати закладку</string>
+  <string name="action_add_bookmark">Додати закладку</string>
   <string name="action_night">Нічний режим</string>
   <string name="action_copy">Копіювати посилання</string>
   <string name="action_block_domain">Блокувати домен</string>
@@ -258,7 +258,7 @@
   <string name="clear_search_history">Очистити історію пошуку</string>
   <string name="clear_search_history_message">Ви впевнені, що хочете очистити історію пошуку?</string>
   <string name="closed_tab">Закрито %1$s</string>
-  <plurals name="Вкладки закриті">
+  <plurals name="tabs_closed">
         <item quantity="zero">0 вкладок закрито</item>
         <item quantity="one">1 вкладка закрита</item>
         <item quantity="other">%d вкладок закрито</item>
@@ -301,7 +301,6 @@
   <string name="expand_web_content_automatically">Автоматично розгортати вміст сторінки</string>
   <string name="expand_web_content_automatically_description">Автоматично розгортати згорнутий вміст при відкритті сторінки</string>
   <string name="experimental">Експерементально</string>
-  <string name="custom_reader_css">Custom reader CSS</string>
   <string name="reader_mode">Reader mode</string>
   <string name="export_thread">Експорт теми</string>
   <string name="failed_to_import_passwords">Не вдалося імпортувати паролі</string>
@@ -332,11 +331,10 @@
   <string name="operation_opendownloads">Відкрити завантаження</string>
   <string name="operation_opensettings">Відкрити налаштування</string>
   <string name="password_exists">Пароль вже існує</string>
-  <string name="password_exists_message">Ви зберегли це ім'я користувача та пароль на %1$s. Бажаєте їх побачити?</string>
+  <string name="password_exists_message">Ви зберегли це ім\'я користувача та пароль на %1$s. Бажаєте їх побачити?</string>
   <string name="password_manager">Менеджер паролів</string>
   <string name="password_required">Потрібен пароль</string>
   <string name="password_required_for_importing_data">Ви імпортуєте зашифровані дані. Введіть пароль, щоб розшифрувати дані та імпортувати їх. Якщо пароль неправильний, буде імпортовано лише незашифровані дані.</string>
-  <string name="password">Зберегти паролі</string>
   <string name="password_saved">Пароль збережено</string>
   <string name="passwords_import">%1$d пароль імпортовано</string>
   <string name="password_updated">Пароль оновлено</string>

@@ -636,7 +636,7 @@
     <string name="message_search_suggestions">When using the address bar, suggest</string>
     <string name="title_open_tabs">Open tabs</string>
     <string name="desc_fill_in_text">Fill in text</string>
-    <string name="directory_name">Directory name</string>
+    <string name="directory_name">Directory name (leave blank for default)</string>
     <string name="action_default_location">Default location</string>
     <string name="action_choose_folder">Choose a folder…</string>
     <string name="title_permission_denied">Permission denied</string>
@@ -813,7 +813,7 @@
     <string name="camera_add_site_exception_allow">Allow a specific site to use your camera.</string>
     <string name="camera_add_site_exception_block">Block a specific site to use your camera.</string>
     <string name="tab_is_closed">Tab is closed</string>
-    <string name="recently_closed_tabs">Recently closed tabs</string>
+    <string name="recently_closed_tabs">Closed tabs</string>
     <string name="tabs">Tabs</string>
     <string name="tab_settings">Tab settings</string>
     <string name="show_toast_to_undo_closing_tab">Show toast to undo closing tab</string>
@@ -1038,4 +1038,15 @@
     <string name="enter_password_for_exporting_data">You are exporting secret data, please enter a password to encrypt the data. Please remember the password. Once the password is lost, you will not be able to import the encrypted data.</string>
     <string name="password_required">Password required</string>
     <string name="password_required_for_importing_data">You are importing encrypted data. Please enter the password to decrypt the data and import it. If the password is incorrect, only the unencrypted data will be imported.</string>
+    <string name="copy_username">Copy username</string>
+    <string name="copy_password">Copy password</string>
+    <string name="unlock_device_to_copy_password">Unlock device to copy password</string>
+    <string name="unlock_failed_with_message">Unlock failed: %1$s</string>
+    <string name="no_passwords">No passwords</string>
+    <string name="report_abuse">Report abuse</string>
+    <string name="reason_distracting_content">Too much distracting content</string>
+    <string name="reason_dangerous_website">This is a dangerous website</string>
+    <string name="reason_display_incorrectly">The page is displaying incorrectly</string>
+    <string name="remarks_optional">Remarks (optional)</string>
+    <string name="report_submitted">Report submitted successfully</string>
 </resources>
