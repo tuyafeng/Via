@@ -1039,7 +1039,7 @@
     <string name="unlock_failed_with_message">Заблокировано: %1$s</string>
     <string name="no_passwords">Нет паролей</string>
     <string name="report_abuse">Пожаловаться</string>
-    <string name="reason_distracting_content">Много отвлекающего контента</string>
+    <string name="reason_distracting_content">Много отвлекающего</string>
     <string name="reason_dangerous_website">Опасный сайт</string>
     <string name="reason_display_incorrectly">Неправильное отображение</string>
     <string name="remarks_optional">Комментарий (необязательно)</string>
