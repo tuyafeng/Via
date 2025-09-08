@@ -972,8 +972,8 @@
     <string name="no_messages">Нет сообщений</string>
     <string name="select_model">Выбор модели</string>
     <string name="add_model">Добавить модель</string>
-    <string name="ai_prompt">Подсказка ИИ</string>
-    <string name="system_prompt">Системная подсказка</string>
+    <string name="ai_prompt">Запрос ИИ</string>
+    <string name="system_prompt">Системный запрос</string>
     <string name="message_template">Шаблон сообщения</string>
     <string name="available_variables">Доступные переменные</string>
     <string name="var_webpage_url_description">URL сайта</string>
@@ -1033,4 +1033,15 @@
     <string name="enter_password_for_exporting_data">Вы экспортируете конфиденциальные данные, введите пароль для шифрования данных. Запомните пароль. Если вы потеряете пароль, то не сможете импортировать зашифрованные данные.</string>
     <string name="password_required">Требуется пароль</string>
     <string name="password_required_for_importing_data">Вы импортируете зашифрованные данные. Введите пароль, чтобы расшифровать данные и импортировать их. Если пароль неправильный, будут импортированы только незашифрованные данные.</string>
+    <string name="copy_username">Копировать имя</string>
+    <string name="copy_password">Копировать пароль</string>
+    <string name="unlock_device_to_copy_password">Разблокируйте устройство для копирования пароля</string>
+    <string name="unlock_failed_with_message">Заблокировано: %1$s</string>
+    <string name="no_passwords">Нет паролей</string>
+    <string name="report_abuse">Пожаловаться</string>
+    <string name="reason_distracting_content">Много отвлекающего</string>
+    <string name="reason_dangerous_website">Опасный сайт</string>
+    <string name="reason_display_incorrectly">Неправильное отображение</string>
+    <string name="remarks_optional">Комментарий (необязательно)</string>
+    <string name="report_submitted">Жалоба отправлена</string>
 </resources>
