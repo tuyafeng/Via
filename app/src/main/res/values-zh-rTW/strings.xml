@@ -215,7 +215,7 @@
     <string name="adblock_info">已啟用：封鎖了 %1$d 個廣告，共節省 %2$s</string>
     <string name="disable">停用</string>
     <string name="ui_traditional">傳統</string>
-    <string name="color_mode_hint">工具列自動調整色彩</string>
+    <string name="color_mode_hint">瀏覽網頁時工具列自動調整色彩</string>
     <string name="file_size">檔案大小：%1$s</string>
     <string name="search_by_image">透過圖片搜尋</string>
     <string name="resource_sniffer">資源監聽</string>
@@ -226,7 +226,7 @@
     <string name="action_downloads">下載</string>
     <string name="empty_username_info">請輸入你的使用者名稱</string>
     <string name="empty_password_info">請輸入你的密碼</string>
-    <string name="offline_page_hint">這些是儲存的網頁。甚至離線時，你也可以開啟。</string>
+    <string name="offline_page_hint">這些是儲存的網頁。網路離線時，你也可以開啟。</string>
     <string name="history_page_hint_when_incognito">你處於無痕模式時歷史將不會被記錄。</string>
     <string name="action_preview">預覽</string>
     <string name="action_page_info">網頁資訊</string>
@@ -474,7 +474,7 @@
     <string name="read_and_agree">請閱讀並同意 %1$s 與 %2$s</string>
     <string name="wechat_official_account">微信公眾號</string>
     <string name="notification_channel_downloads">下載內容</string>
-    <string name="notification_channel_foreground">前臺通知</string>
+    <string name="notification_channel_foreground">前景通知</string>
     <string name="download_progress">%1$s/%2$s</string>
     <string name="download_progress_indeterminate">%1$s</string>
     <string name="download_progress_status">%1$s • %2$s</string>
@@ -660,7 +660,7 @@
     <string name="action_close_tabs_to_the_bottom">關閉下方分頁</string>
     <string name="action_close_tabs_to_the_top">關閉上方分頁</string>
     <string name="title_permission_request">權限請求</string>
-    <string name="message_permission_request">%1$s 請求使用：</string>
+    <string name="message_permission_request">%1$s 請求使用</string>
     <string name="list_item_dash">- %1$s</string>
     <string name="permission_microphone">麥克風</string>
     <string name="permission_camera">攝影機</string>

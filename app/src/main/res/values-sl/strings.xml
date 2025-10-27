@@ -672,7 +672,7 @@
     <string name="action_close_tabs_to_the_bottom">Zapri zavihke proti dnu</string>
     <string name="action_close_tabs_to_the_top">Zapri zavihke proti vrhu</string>
     <string name="title_permission_request">Zahteva za dovoljenje</string>
-    <string name="message_permission_request">%1$s bi rad uporabil:</string>
+    <string name="message_permission_request">%1$s bi rad uporabil</string>
     <string name="list_item_dash">- %1$s</string>
     <string name="permission_microphone">Mikrofon</string>
     <string name="permission_camera">Kamera</string>

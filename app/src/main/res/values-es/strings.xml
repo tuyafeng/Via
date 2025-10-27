@@ -671,7 +671,7 @@
     <string name="action_close_tabs_to_the_bottom">Cerrar pestañas hasta abajo</string>
     <string name="action_close_tabs_to_the_top">Cerrar pestañas hasta arriba</string>
     <string name="title_permission_request">Solicitud de permiso</string>
-    <string name="message_permission_request">%1$s le gustaría utilizar:</string>
+    <string name="message_permission_request">%1$s le gustaría utilizar</string>
     <string name="list_item_dash">- %1$s</string>
     <string name="permission_microphone">Micrófono</string>
     <string name="permission_camera">Cámara</string>

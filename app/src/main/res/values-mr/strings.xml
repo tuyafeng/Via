@@ -669,7 +669,7 @@
 <string name="action_close_tabs_to_the_bottom">खालील टॅब बंद करा</string>
 <string name="action_close_tabs_to_the_top">वरील टॅब बंद करा</string>
 <string name="title_permission_request">परवानगी विनंती</string>
-<string name="message_permission_request">%1$s याचा वापर करू इच्छित आहे:</string>
+<string name="message_permission_request">%1$s याचा वापर करू इच्छित आहे</string>
 <string name="list_item_dash">- %1$s</string>
 <string name="permission_microphone">मायक्रोफोन</string>
 <string name="permission_camera">कॅमेरा</string>

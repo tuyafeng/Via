@@ -671,7 +671,7 @@
     <string name="action_close_tabs_to_the_bottom">Close tabs to the bottom</string>
     <string name="action_close_tabs_to_the_top">Close tabs to the top</string>
     <string name="title_permission_request">Permission request</string>
-    <string name="message_permission_request">%1$s would like to use:</string>
+    <string name="message_permission_request">%1$s would like to use</string>
     <string name="list_item_dash">- %1$s</string>
     <string name="permission_microphone">Microphone</string>
     <string name="permission_camera">Camera</string>
@@ -1049,4 +1049,5 @@
     <string name="reason_display_incorrectly">The page is displaying incorrectly</string>
     <string name="remarks_optional">Remarks (optional)</string>
     <string name="report_submitted">Report submitted successfully</string>
+    <string name="unknown_website">Unknown website</string>
 </resources>

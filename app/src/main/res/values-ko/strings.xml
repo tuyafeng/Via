@@ -254,7 +254,7 @@
     <string name="bookmarks_data_to_long">북마크 데이터가 너무 커서 업로드할 수 없지만, 다른 데이터는 정상적으로 업로드됩니다. 계속하시겠습니까?</string>
     <string name="restore_tabs_hint_settings">"시크릿 모드"에서는 탭이 복원되지 않습니다.</string>
     <string name="web_page_debug">웹페이지 디버깅 활성화</string>
-    <string name="web_page_debug_info">이제 휴대폰을 컴퓨터에 연결한 다음, PC용 Chrome에서 "chrome://inspect"를 사용하여 웹페이지를 디버그할 수 있습니다. 먼저 '더 많은 도구 > 개발자 도구' 메뉴에서 USB 디버깅을 활성화하는 것을 잊지 마세요.</string>
+    <string name="web_page_debug_info">이제 휴대폰을 컴퓨터에 연결한 다음, PC용 Chrome에서 \"chrome://inspect\"를 사용하여 웹페이지를 디버그할 수 있습니다. 먼저 \'더 많은 도구 > 개발자 도구\' 메뉴에서 USB 디버깅을 활성화하는 것을 잊지 마세요.</string>
     <string name="action_re_download">다시 다운로드</string>
     <string name="action_copy_download_link">다운로드 링크 복사</string>
     <string name="download_failed">다운로드 실패</string>
@@ -312,7 +312,7 @@
         <item quantity="other">필터 %d개</item>
     </plurals>
     <string name="updated_">%1$s에 업데이트됨</string>
-    <string name="filter_subscription_info">%1$s, %2$s</item>
+    <string name="filter_subscription_info">%1$s, %2$s</string>
     <string name="enable_built_in_filters">내장 필터 활성화</string>
     <string name="enable_built_in_filters_description">내장 필터는 일반적인 광고만 차단합니다</string>
     <string name="update">업데이트</string>
@@ -671,7 +671,7 @@
     <string name="action_close_tabs_to_the_bottom">아래 탭 모두 닫기</string>
     <string name="action_close_tabs_to_the_top">위 탭 모두 닫기</string>
     <string name="title_permission_request">권한 요청</string>
-    <string name="message_permission_request">%1$s이(가) 다음 권한을 사용하려고 합니다:</string>
+    <string name="message_permission_request">%1$s이(가) 다음 권한을 사용하려고 합니다</string>
     <string name="list_item_dash">- %1$s</string>
     <string name="permission_microphone">마이크</string>
     <string name="permission_camera">카메라</string>

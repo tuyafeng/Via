@@ -691,7 +691,7 @@
     <string name="action_close_tabs_to_the_bottom">Zamknij karty poniżej</string>
     <string name="action_close_tabs_to_the_top">Zamknij karty powyżej</string>
     <string name="title_permission_request">Prośba o uprawnienie</string>
-    <string name="message_permission_request">%1$s chce skorzystać z:</string>
+    <string name="message_permission_request">%1$s chce skorzystać z</string>
     <string name="list_item_dash">- %1$s</string>
     <string name="permission_microphone">mikrofonu</string>
     <string name="permission_camera">kamery</string>

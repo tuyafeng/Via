@@ -664,7 +664,7 @@
     <string name="action_close_tabs_to_the_bottom">بستن زبانه‌ها در پایین</string>
     <string name="action_close_tabs_to_the_top">بستن زبانه‌ها در بالا</string>
     <string name="title_permission_request">درخواست مجوز</string>
-    <string name="message_permission_request">%1$s می‌خواهد استفاده کند:</string>
+    <string name="message_permission_request">%1$s می‌خواهد استفاده کند</string>
     <string name="list_item_dash">- %1$s</string>
     <string name="permission_microphone">میکروفون</string>
     <string name="permission_camera">دوربین</string>

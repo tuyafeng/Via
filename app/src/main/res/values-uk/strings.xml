@@ -835,7 +835,7 @@
     <string name="action_close_tabs_to_the_bottom">Закрити вкладки нижче</string>
     <string name="action_close_tabs_to_the_top">Закрити вкладки вище</string>
     <string name="title_permission_request">Запит на дозвіл</string>
-    <string name="message_permission_request">%1$s хоче використати:</string>
+    <string name="message_permission_request">%1$s хоче використати</string>
     <string name="list_item_dash">- %1$s</string>
     <string name="permission_microphone">Мікрофон</string>
     <string name="permission_camera">Камера</string>

@@ -661,7 +661,7 @@
     <string name="action_close_tabs_to_the_bottom">关闭下方标签页</string>
     <string name="action_close_tabs_to_the_top">关闭上方标签页</string>
     <string name="title_permission_request">权限请求</string>
-    <string name="message_permission_request">%1$s 请求使用：</string>
+    <string name="message_permission_request">%1$s 请求使用</string>
     <string name="list_item_dash">- %1$s</string>
     <string name="permission_microphone">麦克风</string>
     <string name="permission_camera">摄像头</string>
@@ -1034,4 +1034,5 @@
     <string name="reason_display_incorrectly">页面显示不正确</string>
     <string name="remarks_optional">备注（可不填）</string>
     <string name="report_submitted">举报成功</string>
+    <string name="unknown_website">未知网站</string>
 </resources>

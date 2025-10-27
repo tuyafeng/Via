@@ -671,7 +671,7 @@
     <string name="action_close_tabs_to_the_bottom">Tutup tab ke bawah</string> 
     <string name="action_close_tabs_to_the_top">Tutup tab ke atas</string> 
     <string name="title_permission_request">Permintaan izin</string> 
-    <string name="message_permission_request">%1$s ingin menggunakan:</string> 
+    <string name="message_permission_request">%1$s ingin menggunakan</string>
     <string name="list_item_dash">- %1$s</string> 
     <string name="permission_microphone">Mikrofon</string> 
     <string name="permission_camera">Kamera</string> 

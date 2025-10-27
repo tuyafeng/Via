@@ -706,7 +706,7 @@
         <item quantity="zero">タブを 0 個閉じました</item>
         <item quantity="one">タブを 1 個閉じました</item>
         <item quantity="other">タブを %d 個閉じました</item>
-
+    </plurals>
 
     <string name="is_on">%s を有効化しました</string>
     <string name="is_off">%s を無効化しました</string>

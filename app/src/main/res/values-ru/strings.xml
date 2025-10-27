@@ -666,7 +666,7 @@
     <string name="action_close_tabs_to_the_bottom">Закрыть вкладки ниже</string>
     <string name="action_close_tabs_to_the_top">Закрыть вкладки выше</string>
     <string name="title_permission_request">Запрос разрешения</string>
-    <string name="message_permission_request">%1$s хочет использовать:</string>
+    <string name="message_permission_request">%1$s хочет использовать</string>
     <string name="list_item_dash">— %1$s</string>
     <string name="permission_microphone">Микрофон</string>
     <string name="permission_camera">Камера</string>
