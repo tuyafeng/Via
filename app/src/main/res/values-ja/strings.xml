@@ -21,6 +21,7 @@
     <string name="off">オフ</string>
     <string name="ask_first">確認時にポップアップを表示する</string>
     <string name="ignore_site_message_for_a_minute">このサイトからのメッセージをしばらく表示しない</string>
+    <string name="default_description">%1$s （デフォルト）</string>
     
     <!-- トップ | 証明書 -->    
     <string name="view_certificate">サーバ証明書を見る</string>
@@ -117,14 +118,21 @@
     <string name="delete_account_message">削除リクエストを送信すると、アカウントはログアウトされて15日間の猶予期間に入ります。その間に再度ログインすると削除リクエストはキャンセルされますが、ログインしない場合は猶予期間後にデータが削除されます。\nリクエストを送信するにはパスワードを入力してください。</string>
     <string name="confirm_to_delete">削除の確認</string>
 
-    <!-- 設定｜一般｜User Agent -->
-    <string name="agent">User Agent</string>
+    <!-- 設定｜一般｜ユーザーエージェント -->
+    <string name="agent">ユーザーエージェント</string>
     <string name="default_set">デフォルト</string>
-    <string name="agent_chrome">Chrome (PC)</string>
-    <string name="agent_ie">IE 11 (PC)</string>
+    <string name="agent_android_phone">Android (スマートフォン)</string>
+    <string name="agent_android_tablet">Android (タブレット)</string>
+    <string name="agent_windows_chrome">Windows (Google Chrome)</string>
+    <string name="agent_windows_ie11">Windows (Internet Explorer 11)</string>
     <string name="agent_iphone">iPhone</string>
+    <string name="agent_ipad">iPad</string>
+    <string name="agent_osx">macOS</string>
     <string name="agent_symbian">Symbian</string>
     <string name="agent_custom">カスタム設定</string>
+    <string name="user_agent_in_desktop_mode">デスクトップモードでのユーザーエージェント</string>
+    <string name="user_agent_reduction">ユーザーエージェントの簡略化</string>
+    <string name="user_agent_reduction_description">ユーザーエージェントからデバイス情報およびマイナーバージョン情報を削除します</string>
     
     <!-- 設定｜一般｜プライベートデータの消去 -->
     <string name="clear_data">プライベートデータの消去</string>
@@ -217,17 +225,56 @@
     <string name="microphone_ask_first_description">初回表示時にマイクの使用の許可を確認する</string>
     <string name="page_redirection">ページのリダイレクト</string>
     <string name="page_redirection_allowed_description">任意のURLへのリダイレクトを許可する</string>
-    <string name="page_redirection_ask_first_description">Ask first before page redirection to cross-origin URL</string>
-    <string name="page_redirection_ask_first_description_short">Ask first before cross-origin redirection</string>
-    <string name="page_redirection_add_site_exception_allow">Allow page redirection to any URL for a specific site.</string>
-    <string name="page_redirection_add_site_exception_ask_first">Ask first before cross-origin redirection for a specific site.</string>
-    <string name="allow_page_redirection_to_msg">Allow page redirection to %1$s?</string>
-    <string name="allow_page_redirection_msg">Allow page redirection?</string>
+    <string name="page_redirection_ask_first_description">クロスオリジンURLへのページリダイレクト前に確認する</string>
+    <string name="page_redirection_ask_first_description_short">クロスオリジンのリダイレクト前に確認する</string>
+    <string name="page_redirection_add_site_exception_allow">特定のサイトに対して任意のURLへのページリダイレクトを許可します</string>
+    <string name="page_redirection_add_site_exception_ask_first">特定のサイトに対してクロスオリジンのリダイレクト前に確認します</string>
+    <string name="allow_page_redirection_to_msg">%1$s へのページリダイレクトを許可しますか？</string>
+    <string name="allow_page_redirection_msg">ページリダイレクトを許可しますか？</string>
+    <string name="vibrate">バイブレーション</string>
+    <string name="vibrate_allowed_description">サイトによるバイブレーションを許可する</string>
     <string name="enable_site_conf">\"%1$s\"のサイト別設定を有効にする</string>
 
+    <!-- 設定｜一般｜パスワードマネージャー -->
+    <string name="password_manager">パスワードマネージャー</string>
+    <string name="offer_to_save_passwords">パスワード保存を有効にする</string>
+    <string name="passwords">パスワード</string>
+    <string name="save_password">パスワードを保存</string>
+    <string name="save_password_message">%1$s? にパスワードを保存しますか？</string>
+    <string name="password_saved">パスワードを保存しました</string>
+    <string name="update_password">パスワードを更新</string>
+    <string name="update_password_message">%1$s のパスワードを更新しますか？</string>
+    <string name="password_updated">パスワードを更新しました</string>
+    <string name="note">メモ</string>
+    <string name="password_exists">パスワードは既に存在します</string>
+    <string name="password_exists_message">%1$s にこのユーザー名とパスワードは保存されています。表示しますか？</string>
+    <string name="view_password">パスワードを表示</string>
+    <string name="unlock_device_to_view_password">パスワードを表示するには端末のロックを解除してください</string>
+    <string name="fill_password">パスワードを入力</string>
+    <string name="unlock_device_to_fill_password">パスワードを入力するには端末のロックを解除してください</string>
+    <string name="verify_fingerprint">指紋認証をしてください</string>
+    <string name="import_passwords">パスワードをインポート</string>
+    <string name="import_passwords_description">CSVファイルからパスワードをインポート</string>
+    <string name="failed_to_import_passwords">パスワードのインポートに失敗しました</string>
+    <string name="passwords_import">%1$d 件のパスワードをインポートしました</string>
+    <string name="export_passwords">パスワードをエクスポート</string>
+    <string name="export_passwords_description">エクスポートしたパスワードデータに関しては、データ漏洩を防ぐために使用後に削除してください</string>
+    <string name="unlock_device_to_export_passwords">パスワードをエクスポートするには端末のロックを解除してください</string>
+    <string name="never_for_this_site">このサイトでは保存しない</string>
+    <string name="unlock_device_to_export_data">データをエクスポートするには端末のロックを解除してください</string>
+    <string name="enter_password">パスワードを入力</string>
+    <string name="enter_password_for_exporting_data">ログイン情報をエクスポート中です。暗号化のためのキーを入力してください。暗号化キーは紛失するとインポートができなくなるためご注意ください</string>
+    <string name="password_required">暗号化キーが必要です</string>
+    <string name="password_required_for_importing_data">ログイン情報をインポート中です。データを復号してインポートするには暗号化キーを入力してください。暗号化キーが間違っている場合は、暗号化されていないデータのみがインポートされます</string>
+    <string name="copy_username">ユーザー名をコピー</string>
+    <string name="copy_password">パスワードをコピー</string>
+    <string name="unlock_device_to_copy_password">パスワードをコピーするには端末のロックを解除してください</string>
+    <string name="unlock_failed_with_message">%1$s のロック解除に失敗しました</string>
+    <string name="no_passwords">パスワードがありません</string>
+    
     <!-- 設定｜一般｜ナイトモード -->
     <string name="night_filter_for_web_contents">ウェブページへのフィルター</string>
-    <string name="force_dark_mode_for_web_contents">ウェブページへのナイトモードを強制する</string>
+    <string name="force_dark_mode_for_web_contents">ウェブページのナイトモードを強制する</string>
     <string name="force_dark_mode_for_web_contents_description">強制的にウェブページにナイトモードを適用します。一部のウェブページで不具合が発生する可能性が有ります。</string>
 
     <!-- 設定｜一般｜リーダービューモード -->
@@ -266,6 +313,9 @@
     <string name="hold_and_drag_or_tap_to_add_item">長押し＆ドラッグ、またはタップで項目の追加が可能です。</string>
     <string name="action_reset">リセット</string>
     
+    <!-- 設定｜一般｜コンテキストメニューのカスタマイズ -->
+    <string name="customize_context_menu">コンテキストメニューのカスタマイズ</string>
+    
     <!-- 設定｜一般｜言語設定 -->
     <string name="language">言語設定</string>
     
@@ -277,6 +327,48 @@
 
     <!-- 設定｜一般｜検索設定 -->
     <string name="search_settings">検索設定</string>
+
+    <!-- 設定｜一般｜AI利用設定 -->
+    <string name="ai_settings">AI利用設定</string>
+    <string name="ai_service_provider">AIサービスプロバイダー</string>
+    <string name="api_key">APIキー</string>
+    <string name="model_id">モデルID</string>
+    <string name="message">メッセージ</string>
+    <string name="markdown">Markdown（マークダウン）</string>
+    <string name="plain_text">プレーンテキスト</string>
+    <string name="resend">再送信</string>
+    <string name="operation_ai_pannel">AIパネルを開く</string>
+    <string name="clear_messages">メッセージをクリア</string>
+    <string name="confirm_to_clear">メッセージをクリアしてもよろしいですか？</string>
+    <string name="no_messages">メッセージはありません</string>
+    <string name="select_model">モデルを選択</string>
+    <string name="ai_prompt">AIプロンプト</string>
+    <string name="system_prompt">システムプロンプト</string>
+    <string name="message_template">メッセージテンプレート</string>
+    <string name="available_variables">利用可能な変数</string>
+    <string name="var_webpage_url_description">ウェブページのURL</string>
+    <string name="var_webpage_title_description">ウェブページのタイトル</string>
+    <string name="var_webpage_content_description">ウェブページのプレーンテキスト内容</string>
+    <string name="var_input_description">入力ボックスの内容</string>
+    <string name="var_time_description">現在の時刻 yyyy-MM-dd HH:mm:ss EEEE (ZZZZ).</string>
+    <string name="content">コンテンツ</string>
+    <string name="casual_chat">カジュアルチャット</string>
+    <string name="copy_all">すべてコピー</string>
+    <string name="error_no_ai_service_provider">AIサービスプロバイダーがありません</string>
+    <string name="error_no_completion">完了していません</string>
+    <string name="error_http">HTTPエラー: %1$d\n\n%2$s</string>
+    <string name="error_unknown">不明なエラー: %1$s</string>
+    <string name="validate">検証</string>
+    <string name="validate_success">検証に成功しました</string>
+    <string name="validate_failed">検証に失敗しました</string>
+    <string name="open_key_management_page">APIキーの生成と管理ページを開く</string>
+    <string name="permission_microphone_description">ウェブサイトでの音声入力または録音に使用されます</string>
+    <string name="permission_camera_description">ウェブサイトでの写真撮影またはビデオ録画に使用されます</string>
+    <string name="permission_summary">%1$s: %2$s</string>
+    <string name="action_add_favorite">お気に入りに追加</string>
+    <string name="favorite_added">お気に入りに追加しました</string>
+    <string name="message_favorite_added">お気に入りに正常に追加されました</string>
+    <string name="error_ai_service_provider_invalid">AIサービスプロバイダーが無効です</string>
     
     <!-- 設定｜一般｜検索設定｜検索エンジン -->
     <string name="search">検索エンジン</string>
@@ -323,6 +415,10 @@
     
     <!-- 設定｜一般｜終了時にプライベートデータを消去 -->    
     <string name="clear_data_on_exit">終了時にプライベートデータを消去</string>
+
+    <!-- 設定｜一般｜フォント設定 -->    
+    <string name="font">フォント設定</string>
+    <string name="unable_to_add_font">フォントを追加できませんでした。エラーコード: %1$d</string>
     
     <!-- 設定｜一般｜ジェスチャー -->
     <string name="settings_operation">ジェスチャー</string>
@@ -470,6 +566,8 @@
     <string name="bookmark_added">ブックマーク追加済み</string>
     <string name="root_folder">ルートフォルダー</string>
     <string name="sort_order">並び替え</string>
+    <string name="show_details">詳細を表示</string>
+    <string name="hide_details">詳細を非表示</string>
     <string name="new_folder">新しいフォルダ</string>
     <string name="sort_by_oldest_first">登録が古い順</string>
     <string name="sort_by_newest_first">登録が新しい順</string>
@@ -603,6 +701,11 @@
     <string name="duplicate_tab">タブを複製する</string>
     <string name="operation_lasttab">前のタブ</string>
     <string name="operation_nexttab">次のタブ</string>
+    <string name="closed_tab">%1$s を閉じました</string>
+    <plurals name="tabs_closed">
+        <item quantity="zero">タブを 0 個閉じました</item>
+        <item quantity="one">タブを 1 個閉じました</item>
+        <item quantity="other">タブを %d 個閉じました</item>
 
 
     <string name="is_on">%s を有効化しました</string>
@@ -705,7 +808,7 @@
     <string name="no_network">ネットワーク接続がありません</string>
     <string name="title_app_chooser">アプリ選択</string>
     <string name="force_enable_zoom">強制的にズームを有効にする</string>
-    <string name="set_ua_as">UserAgentは %1$s に設定されました</string>
+    <string name="set_ua_as">ユーザーエージェントは %1$s に設定されました</string>
     <string name="action_play_with">&#8230;で再生する</string>
     <string name="open_file_failed">このファイルを開くためのアプリがありません</string>
     <string name="file_does_not_exist">ファイルがありません</string>
