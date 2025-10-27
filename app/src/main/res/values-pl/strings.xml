@@ -457,7 +457,7 @@
     <string name="delete_history_from">Usuń historię</string>
     <string name="save_as_pdf">Zapisz jako PDF</string>
     <string name="export">Eksportuj</string>
-    <string name="export_successfully">Wyeskportowano.</string>
+    <string name="export_successfully">Wyeksportowano.</string>
     <string name="stop_loading_description">Via zapobiegła załadowaniu się poniższej strony:</string>
     <string name="stop_loading_reason">Przez poniższy filtr:</string>
     <string name="continue_loading">Kontynuuj ładowanie</string>
@@ -1053,11 +1053,22 @@
     <string name="passwords_import">Zaimportowane hasła: %1$d</string>
     <string name="export_passwords">Eksportuj hasła</string>
     <string name="export_passwords_description">Usuń plik z hasłami po jego użyciu, aby zapobiec wyciekom danych.</string>
-    <string name="unlock_device_to_export_passwords">Odblokuj urządzenie, aby wyeskportować hasła</string>
+    <string name="unlock_device_to_export_passwords">Odblokuj urządzenie, aby wyeksportować hasła</string>
     <string name="never_for_this_site">Nigdy dla tej strony</string>
-    <string name="unlock_device_to_export_data">Odblokuj urządzenie, aby wyeskportować dane</string>
+    <string name="unlock_device_to_export_data">Odblokuj urządzenie, aby wyeksportować dane</string>
     <string name="enter_password">Wprowadź hasło</string>
-    <string name="enter_password_for_exporting_data">Eskportujesz sekretne dane. Wprowadź hasło, aby je zaszyfrować. Zapamiętaj to hasło, gdyż bez niego nie zaimportujesz zaszyfrowanych danych.</string>
+    <string name="enter_password_for_exporting_data">Eksportujesz sekretne dane. Wprowadź hasło, aby je zaszyfrować. Zapamiętaj to hasło, gdyż bez niego nie zaimportujesz zaszyfrowanych danych.</string>
     <string name="password_required">Wymagane hasło</string>
     <string name="password_required_for_importing_data">Importujesz zaszyfrowane dane. Wprowadź hasło, aby je odszyfrować i zaimportować. Przy nieprawidłowym haśle zostaną zaimportowane tylko niezaszyfrowane dane.</string>
+    <string name="copy_username">Skopiuj nazwę użytkownika</string>
+    <string name="copy_password">Skopiuj hasło</string>
+    <string name="unlock_device_to_copy_password">Odblokuj urządzenie, aby skopiować hasło</string>
+    <string name="unlock_failed_with_message">Odblokowanie nieudane: %1$s</string>
+    <string name="no_passwords">Brak haseł</string>
+    <string name="report_abuse">Zgłoś nadużycie</string>
+    <string name="reason_distracting_content">Zbyt dużo rozpraszających treści</string>
+    <string name="reason_dangerous_website">To niebezpieczna witryna</string>
+    <string name="reason_display_incorrectly">Strona wyświetla się nieprawidłowo</string>
+    <string name="remarks_optional">Uwagi (opcjonalne)</string>
+    <string name="report_submitted">Zgłoszenie przesłano pomyślnie</string>
 </resources>
