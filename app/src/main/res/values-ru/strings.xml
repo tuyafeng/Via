@@ -812,7 +812,7 @@
     <string name="tabs">Вкладки</string>
     <string name="tab_settings">Настройки вкладки</string>
     <string name="show_toast_to_undo_closing_tab">Возможность отмены закрытия вкладки</string>
-    <string name="show_toast_to_undo_closing_tab_description">При включённом режиме \"инкогнито\" всплывающее уведомление для отмены закрытия не отображается.</string>
+    <string name="show_toast_to_undo_closing_tab_description">При включённом режиме \"инкогнито\" всплывающее уведомление для отмены закрытия не отображается</string>
     <string name="open_all">Открыть все</string>
     <string name="expand_web_content_automatically">Раскрывать содержимое сайта</string>
     <string name="expand_web_content_automatically_description">Автоматически разворачивать свёрнутое содержимое при открытии сайта</string>
