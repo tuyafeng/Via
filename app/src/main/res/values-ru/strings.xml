@@ -278,7 +278,7 @@
     <string name="unblock_hint">Разблокировано: %1$s\nОбновите для применения.</string>
     <string name="block_3rd_party_cookies">Блокировать сторонние cookie-файлы</string>
     <string name="enable_site_conf">Свои настройки сайта %1$s</string>
-    <string name="site_conf">Настройки сайтов</string>
+    <string name="site_conf">Настройки сайта</string>
     <string name="ui_simple_top">Всё вверху</string>
     <string name="ui_simple_bottom">Всё внизу</string>
     <string name="file_does_not_exist">Файл не существует</string>
