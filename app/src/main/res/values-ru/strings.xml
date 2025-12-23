@@ -277,7 +277,7 @@
     <string name="block_hint">Заблокировано: %1$s\nОбновите для применения.</string>
     <string name="unblock_hint">Разблокировано: %1$s\nОбновите для применения.</string>
     <string name="block_3rd_party_cookies">Блокировать сторонние cookie-файлы</string>
-    <string name="enable_site_conf">Свои настройки для сайта \"%1$s\"</string>
+    <string name="enable_site_conf">Свои настройки сайта %1$s</string>
     <string name="site_conf">Настройки сайта</string>
     <string name="ui_simple_top">Всё вверху</string>
     <string name="ui_simple_bottom">Всё внизу</string>
@@ -367,10 +367,10 @@
     <string name="corner_radius">Радиус скругления</string>
     <string name="adaptive">Адаптивно</string>
     <string name="action_favorites">Избранное</string>
-    <string name="skin_search_bar">Панель поиска</string>
+    <string name="skin_search_bar">Поиск</string>
     <string name="stroke_width">Ширина рамки</string>
-    <string name="stroke_opacity">Непрозрачность рамки</string>
-    <string name="opacity">Непрозрачность</string>
+    <string name="stroke_opacity">Затенение рамки</string>
+    <string name="opacity">Затенение</string>
     <string name="font_style">Стиль шрифта</string>
     <string name="bold">Жирный</string>
     <string name="italics">Курсив</string>
@@ -692,7 +692,7 @@
     <string name="javascript_add_site_exception_allow">Разрешать JavaScript на определённом сайте.</string>
     <string name="javascript_add_site_exception_block">Запрещать JavaScript на определённом сайте.</string>
     <string name="cookies">Cookies</string>
-    <string name="cookies_allowed_description">Разрешать сайтам сохранять и считывать данные cookie-файлов</string>
+    <string name="cookies_allowed_description">Разрешать сайтам сохранять и читать данные cookie-файлов</string>
     <string name="cookies_allowed_except_third_party_description_short">Разрешено, за исключением сторонних</string>
     <string name="popups">Всплывающие окна</string>
     <string name="popups_ask_first_description">Запрашивать разрешение на отображение сайтами всплывающих окон</string>
@@ -736,7 +736,7 @@
     <string name="sync">Синхронизация</string>
     <string name="sync_webdav">WebDAV</string>
     <string name="sync_webdav_user">%1$s (WebDAV)</string>
-    <string name="webdav_configuration">Настройка WebDAV</string>
+    <string name="webdav_configuration">Настройки</string>
     <string name="webdav_digest_access_authentication">Использовать цифровую аутентификацию</string>
     <string name="no_configuration">Нет настроек</string>
     <string name="has_never_been_synced">Не синхронизировано</string>
@@ -787,7 +787,7 @@
     <string name="message_close_all_tabs">Закрыть все вкладки?</string>
     <string name="search_in_via">Поиск в Via</string>
     <string name="following_filters_invalid_message">Следующие фильтры имеют неправильный формат:</string>
-    <string name="customize_menu">Настройка меню</string>
+    <string name="customize_menu">Панель меню</string>
     <string name="hold_and_drag_to_rearrange_items">Перетаскивайте зажатым для изменения порядка</string>
     <string name="hold_and_drag_or_tap_to_add_item">Перетаскивайте зажатым или нажмите для добавления</string>
     <string name="enable_tab_bar">Панель вкладок</string>
@@ -812,7 +812,7 @@
     <string name="tabs">Вкладки</string>
     <string name="tab_settings">Настройки вкладки</string>
     <string name="show_toast_to_undo_closing_tab">Возможность отмены закрытия вкладки</string>
-    <string name="show_toast_to_undo_closing_tab_description">При включённом режиме \"инкогнито\" всплывающее уведомление для отмены закрытия не отображается.</string>
+    <string name="show_toast_to_undo_closing_tab_description">При включённом режиме \"инкогнито\" всплывающее уведомление для отмены закрытия не отображается</string>
     <string name="open_all">Открыть все</string>
     <string name="expand_web_content_automatically">Раскрывать содержимое сайта</string>
     <string name="expand_web_content_automatically_description">Автоматически разворачивать свёрнутое содержимое при открытии сайта</string>
@@ -877,7 +877,7 @@
     <string name="exclude_domain_from_script_toast">Скрипт %1$s не будет выполняться на %2$s.</string>
     <string name="search_history">История поиска</string>
     <string name="metaso_url">Metaso</string>
-    <string name="search_settings">Настройки поиска</string>
+    <string name="search_settings">Поиск</string>
     <string name="search_engines">Поисковые системы</string>
     <string name="search_toolbar">Панель поиска</string>
     <string name="enable_search_toobar">Показывать панель поиска</string>
@@ -938,7 +938,7 @@
     <string name="blur_effect_description">Использовать эффект размытия в приложении. Некоторые устройства могут его не поддерживать.</string>
     <string name="show_background_in_settings">Показывать фон в настройках</string>
     <string name="show_background_in_settings_toast">Изменение вступит в силу при следующем входе в настройки</string>
-    <string name="toolbars_settings">Настройки панелей инструментов</string>
+    <string name="toolbars_settings">Панели инструментов</string>
     <string name="user_agent_in_desktop_mode">UserAgent для полной версии страницы</string>
     <string name="user_agent_reduction">Сокращать UserAgent</string>
     <string name="user_agent_reduction_description">Убирать информацию об устройстве и второстепенную версию из UserAgent</string>
@@ -958,7 +958,7 @@
     <string name="assistant">Помощник</string>
     <string name="send">Отправить</string>
     <string name="stop">Остановить</string>
-    <string name="ai_settings">Настройки ИИ</string>
+    <string name="ai_settings">Искусственный интеллект</string>
     <string name="ai_service_provider">Поставщик ИИ</string>
     <string name="api_key">Ключ API</string>
     <string name="model_id">ID модели</string>
@@ -999,7 +999,7 @@
     <string name="favorite_added">Добавлено в избранное</string>
     <string name="message_favorite_added">Успешно добавлено в избранное</string>
     <string name="error_ai_service_provider_invalid">Неправильный поставщик ИИ</string>
-    <string name="customize_context_menu">Настройка контекстного меню</string>
+    <string name="customize_context_menu">Контекстное меню</string>
     <string name="font">Шрифт</string>
     <string name="unable_to_add_font">Невозможно добавить шрифт, код ошибки: %1$d</string>
     <string name="export_thread">Экспорт потоков</string>
@@ -1038,10 +1038,11 @@
     <string name="unlock_device_to_copy_password">Разблокируйте устройство для копирования пароля</string>
     <string name="unlock_failed_with_message">Заблокировано: %1$s</string>
     <string name="no_passwords">Нет паролей</string>
-    <string name="report_abuse">Пожаловаться</string>
+    <string name="report_abuse">Жалоба</string>
     <string name="reason_distracting_content">Много отвлекающего</string>
     <string name="reason_dangerous_website">Опасный сайт</string>
     <string name="reason_display_incorrectly">Неправильное отображение</string>
     <string name="remarks_optional">Комментарий (необязательно)</string>
     <string name="report_submitted">Жалоба отправлена</string>
+    <string name="unknown_website">Неизвестный сайт</string>
 </resources>
