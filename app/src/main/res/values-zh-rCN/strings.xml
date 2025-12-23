@@ -1035,4 +1035,8 @@
     <string name="remarks_optional">备注（可不填）</string>
     <string name="report_submitted">举报成功</string>
     <string name="unknown_website">未知网站</string>
+    <string name="toast_install_script_failed_parse_error">解析脚本失败！</string>
+    <string name="fullscreen_0">总是显示</string>
+    <string name="open_in_via">在 Via 中打开</string>
+    <string name="oops">糟糕</string>
 </resources>

@@ -1050,4 +1050,8 @@
     <string name="remarks_optional">Remarks (optional)</string>
     <string name="report_submitted">Report submitted successfully</string>
     <string name="unknown_website">Unknown website</string>
+    <string name="toast_install_script_failed_parse_error">Failed to parse the script!</string>
+    <string name="fullscreen_0">Always show</string>
+    <string name="open_in_via">Open in Via</string>
+    <string name="oops">Oops</string>
 </resources>
