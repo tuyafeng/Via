@@ -1071,4 +1071,9 @@
     <string name="reason_display_incorrectly">Strona wyświetla się nieprawidłowo</string>
     <string name="remarks_optional">Uwagi (opcjonalne)</string>
     <string name="report_submitted">Zgłoszenie przesłano pomyślnie</string>
+    <string name="unknown_website">Nieznana strona internetowa</string>
+    <string name="toast_install_script_failed_parse_error">Nie udało się przeanalizować skryptu!</string>
+    <string name="fullscreen_0">Zawsze pokazuj</string>
+    <string name="open_in_via">Otwórz w Via</string>
+    <string name="oops">Ups</string>
 </resources>
