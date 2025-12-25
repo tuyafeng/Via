@@ -1045,4 +1045,8 @@
     <string name="remarks_optional">Комментарий (необязательно)</string>
     <string name="report_submitted">Жалоба отправлена</string>
     <string name="unknown_website">Неизвестный сайт</string>
+    <string name="toast_install_script_failed_parse_error">Невозможно разобрать скрипт!</string>
+    <string name="fullscreen_0">Всегда показывать</string>
+    <string name="open_in_via">Открыть в Via</string>
+    <string name="oops">Ой</string>
 </resources>
