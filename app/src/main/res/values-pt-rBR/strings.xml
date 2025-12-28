@@ -669,7 +669,7 @@
     <string name="action_close_tabs_to_the_bottom">Fechar abas de baixo</string>
     <string name="action_close_tabs_to_the_top">Fechar abas de cima</string>
     <string name="title_permission_request">Solicitação de permissão</string>
-    <string name="message_permission_request">%1$s gostaria de usar:</string>
+    <string name="message_permission_request">%1$s gostaria de usar</string>
     <string name="list_item_dash">- %1$s</string>
     <string name="permission_microphone">Microfone</string>
     <string name="permission_camera">Câmera</string>

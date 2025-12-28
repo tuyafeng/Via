@@ -669,7 +669,7 @@
     <string name="action_close_tabs_to_the_bottom">Đóng các tab xuống dưới cùng</string>
     <string name="action_close_tabs_to_the_top">Đóng các tab lên đầu</string>
     <string name="title_permission_request">Yêu cầu cấp quyền</string>
-    <string name="message_permission_request">%1$s muốn sử dụng:</string>
+    <string name="message_permission_request">%1$s muốn sử dụng</string>
     <string name="list_item_dash">- %1$s</string>
     <string name="permission_microphone">Micrô</string>
     <string name="permission_camera">Máy ảnh</string>

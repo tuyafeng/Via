@@ -626,7 +626,7 @@
     <string name="message_search_suggestions">使用地址栏时，从下列内容获取建议</string>
     <string name="title_open_tabs">标签页</string>
     <string name="desc_fill_in_text">填入文本</string>
-    <string name="directory_name">目录名称</string>
+    <string name="directory_name">目录名称（留空则使用默认）</string>
     <string name="action_default_location">默认目录</string>
     <string name="action_choose_folder">选择一个目录…</string>
     <string name="title_permission_denied">没有权限</string>
@@ -661,7 +661,7 @@
     <string name="action_close_tabs_to_the_bottom">关闭下方标签页</string>
     <string name="action_close_tabs_to_the_top">关闭上方标签页</string>
     <string name="title_permission_request">权限请求</string>
-    <string name="message_permission_request">%1$s 请求使用：</string>
+    <string name="message_permission_request">%1$s 请求使用</string>
     <string name="list_item_dash">- %1$s</string>
     <string name="permission_microphone">麦克风</string>
     <string name="permission_camera">摄像头</string>
@@ -802,7 +802,7 @@
     <string name="camera_add_site_exception_allow">允许特定网站使用摄像头。</string>
     <string name="camera_add_site_exception_block">禁止特定网站使用摄像头。</string>
     <string name="tab_is_closed">标签页已关闭</string>
-    <string name="recently_closed_tabs">最近关闭的标签页</string>
+    <string name="recently_closed_tabs">关闭的标签页</string>
     <string name="tabs">标签页</string>
     <string name="tab_settings">标签页设置</string>
     <string name="show_toast_to_undo_closing_tab">显示撤销关闭标签的提示</string>
@@ -1023,4 +1023,20 @@
     <string name="enter_password_for_exporting_data">你正在导出隐私数据，请输入密码以加密数据。请牢记密码，如果密码丢失，你将无法导入其中加密的数据。</string>
     <string name="password_required">验证密码</string>
     <string name="password_required_for_importing_data">你导入的数据包含加密内容，请输入密码用以解密数据。如果密码错误，将只导入其中未加密的数据。</string>
+    <string name="copy_username">复制用户名</string>
+    <string name="copy_password">复制密码</string>
+    <string name="unlock_device_to_copy_password">解锁设备来复制密码</string>
+    <string name="unlock_failed_with_message">解锁失败：%1$s</string>
+    <string name="no_passwords">没有密码</string>
+    <string name="report_abuse">举报网站</string>
+    <string name="reason_distracting_content">干扰内容太多</string>
+    <string name="reason_dangerous_website">这是危险网站</string>
+    <string name="reason_display_incorrectly">页面显示不正确</string>
+    <string name="remarks_optional">备注（可不填）</string>
+    <string name="report_submitted">举报成功</string>
+    <string name="unknown_website">未知网站</string>
+    <string name="toast_install_script_failed_parse_error">解析脚本失败！</string>
+    <string name="fullscreen_0">总是显示</string>
+    <string name="open_in_via">在 Via 中打开</string>
+    <string name="oops">糟糕</string>
 </resources>

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources tools:ignore="MissingTranslation" xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name">Via</string>
-    
     <string name="action_new_tab">新分頁</string>
     <string name="action_open_in_new">開啟新視窗</string>
     <string name="action_save_img">儲存圖片</string>
@@ -9,7 +8,7 @@
     <string name="action_history">歷史記錄</string>
     <string name="action_bookmarks">書籤</string>
     <string name="action_add_bookmark">新增書籤</string>
-    <string name="action_night">深色模式</string>
+    <string name="action_night">夜晚模式</string>
     <string name="action_copy">複製連結</string>
     <string name="action_block_domain">封鎖網域</string>
     <string name="action_unblock_domain">解封網域</string>
@@ -22,7 +21,7 @@
     <string name="location">位置存取</string>
     <string name="password">儲存密碼</string>
     <string name="donate">捐贈</string>
-    <string name="donate_details">我們利用有限的業餘時間設計了 Via，雖然它並不那麼完美，但正努力前行。\n目前 Via 沒有任何廣告推廣，因此也沒有收入。如果你喜歡我們的作品，可以捐贈以支持我們。\n\n所有的捐贈都將用來提升我們的環境配置以及積極性。\n\n支付寶：2376688759@qq.com\nPayPal：wiar1824@gmail.com</string>
+    <string name="donate_details">我們利用有限的業餘時間設計了 Via，雖然它並不那麼美好，但正努力前行。\n目前 Via 沒有任何廣告推廣，因此也沒有收入。如果你喜歡我們的作品，可以捐贈以支持我們。\n\n所有的捐贈都將用來：提升我們的環境配置以及積極性。\n\n支付寶：2376688759@qq.com\nPayPal：wiar1824@gmail.com</string>
     <string name="orientation">螢幕方向</string>
     <string name="follow_system">系統預設值</string>
     <string name="orientation_auto">自動</string>
@@ -42,7 +41,7 @@
     <string name="agent_chrome">Chrome (PC)</string>
     <string name="agent_ie">IE 11 (PC)</string>
     <string name="agent_iphone">iPhone</string>
-    <string name="agent_symbian">賽班 (Symbian)</string>
+    <string name="agent_symbian">Symbian</string>
     <string name="agent_custom">自訂</string>
     <string name="dialog_download">你想要下載此檔案嗎？</string>
     <string name="title_warning">警告</string>
@@ -55,8 +54,8 @@
     <string name="action_edit">編輯</string>
     <string name="action_incognito">無痕模式</string>
     <string name="action_find">在網頁內尋找</string>
-    <string name="download_pending">正在開始下載……</string>
-    <string name="cannot_download">只支援下載「http」或「https」開頭的網址</string>
+    <string name="download_pending">正在開始下載…</string>
+    <string name="cannot_download">僅支援下載 \"http\" 或 \"https\" 開頭的網址</string>
     <string name="bookmarks_imported">%1$d 個書籤已匯入</string>
     <string name="custom_url">自訂網址</string>
     <string name="baidu_url">百度</string>
@@ -71,7 +70,7 @@
     <string name="sougou_url">搜狗</string>
     <string name="block_ads">封鎖廣告</string>
     <string name="title_form_resubmission">重新送出表單</string>
-    <string name="message_form_resubmission">你確定要重新傳送資料嗎？</string>
+    <string name="message_form_resubmission">你確定重新傳送資料嗎？</string>
     <string name="message_location">\n想使用你的位置資訊</string>
     <string name="action_allow">允許</string>
     <string name="action_dont_allow">拒絕</string>
@@ -79,7 +78,7 @@
     <string name="hint_username">使用者名稱</string>
     <string name="hint_password">密碼</string>
     <string name="untitled">無標題</string>
-    <string name="image_auto">只在 Wi-Fi 連線時顯示圖片</string>
+    <string name="image_auto">僅 Wi-Fi 連線時顯示圖片</string>
     <string name="image_off">封鎖圖片</string>
     <string name="image_on">顯示圖片</string>
     <string name="title_file_chooser">檔案選擇</string>
@@ -98,8 +97,8 @@
     <string name="toast_clear_defaults">請清除預設設定</string>
     <string name="toast_copy_url_successful">成功複製連結</string>
     <string name="toast_copy_text_successful">成功複製文字</string>
-    <string name="incognito_on">已開啟無痕模式</string>
-    <string name="incognito_off">已退出無痕模式</string>
+    <string name="incognito_on">已進入無痕</string>
+    <string name="incognito_off">已關閉無痕</string>
     <string name="operation_none">無操作</string>
     <string name="operation_reload">重新載入</string>
     <string name="operation_top">捲動至頂端</string>
@@ -110,8 +109,8 @@
     <string name="operation_closetab">關閉分頁</string>
     <string name="operation_lasttab">上一個分頁</string>
     <string name="operation_nexttab">下一個分頁</string>
-    <string name="operation_goback">上一頁</string>
-    <string name="operation_goforward">下一頁</string>
+    <string name="operation_goback">返回</string>
+    <string name="operation_goforward">向前</string>
     <string name="settings_operation">手勢</string>
     <string name="settings_privacy">隱私</string>
     <string name="settings_advanced">進階</string>
@@ -127,7 +126,7 @@
     <string name="desc_home">首頁</string>
     <string name="desc_menu">選單</string>
     <string name="action_mark">標記為廣告</string>
-    <string name="dialog_confirm_mark">你想要標記其為廣告嗎？</string>
+    <string name="dialog_confirm_mark">你想標記其為廣告嗎？</string>
     <string name="do_not_track">不要追蹤</string>
     <string name="color_mode">色彩模式</string>
     <string name="dialog_sure">你確定繼續嗎？</string>
@@ -147,8 +146,8 @@
     <string name="upload_completed">上傳已完成</string>
     <string name="ui_mode">工具列介面模式</string>
     <string name="addon_download">下載管理</string>
-    <string name="quick_back">返回上一頁不重新載入</string>
-    <string name="open_with">其它應用程式開啟</string>
+    <string name="quick_back">返回不重載</string>
+    <string name="open_with">其它應用開啟</string>
     <string name="download_completed">下載已完成</string>
     <string name="toast_fullscreen_off">關閉全螢幕模式</string>
     <string name="clear_data">清除資料</string>
@@ -167,17 +166,17 @@
     <string name="block_popup">封鎖彈出式視窗</string>
     <string name="action_save_web_page">儲存網頁</string>
     <string name="action_saved_pages">已儲存網頁</string>
-    <string name="saved_page_successfully">網頁已儲存到「書籤 > 儲存網頁」中</string>
+    <string name="saved_page_successfully">網頁已儲存到 \"書籤 > 儲存網頁\" 中</string>
     <string name="deleted_failed">刪除失敗，此檔案位於下載路徑：</string>
     <string name="empty_hint">空空如也&#8230;</string>
     <string name="network_log">網路記錄檔</string>
     <string name="conn_timeout">連線逾時</string>
     <string name="already_default">已設為預設瀏覽器</string>
-    <string name="set_to_default">開啟連結(%1$s)後將被設為預設瀏覽器，請選擇以 Via 開啟此連結。</string>
-    <string name="sync_prompt">這將取代你目前的本機書籤與設定，繼續嗎？</string>
+    <string name="set_to_default">開啟連結 (%1$s) 後將被設為預設瀏覽器，請選擇以 Via 開啟此連結。</string>
+    <string name="sync_prompt">這將覆蓋你目前的本機書籤與設定，繼續嗎？</string>
     <string name="upload_prompt">這將上傳你目前的本機書籤與設定，繼續嗎？</string>
     <string name="none">無</string>
-    <string name="check_permission">無權限。你想要立即去設定嗎？</string>
+    <string name="check_permission">無權限。立即設定嗎？</string>
     <string name="restore_tabs_hint">你想要還原上次工作階段未關閉的分頁嗎？</string>
     <string name="restore_tabs">啟動時還原上次未關閉的分頁</string>
     <string name="log_page_hint">封鎖清單位於 %1$s\n你可以編輯這個清單，或長按下列項目以選擇是否封鎖。</string>
@@ -190,7 +189,7 @@
     <string name="confirm_to_leave">確定離開</string>
     <string name="leave">離開此網頁</string>
     <string name="stay">留在此網頁</string>
-    <string name="skin_logo">標誌</string>
+    <string name="skin_logo">Logo</string>
     <string name="skin_bg">背景</string>
     <string name="set_it_as_homepage">你想要將它設定為首頁嗎？</string>
     <string name="missing_webview">Android System WebView 未正確安裝。立即去安裝？</string>
@@ -203,13 +202,13 @@
     <string name="find_next">尋找下一個</string>
     <string name="find_pre">尋找上一個</string>
     <string name="action_open_in_background">背景開啟</string>
-    <string name="cannot_work">只支援「http」或「https」開頭的網址</string>
+    <string name="cannot_work">僅支援 \"http\" 或 \"https\" 開頭的網址</string>
     <string name="action_fullscreen">全螢幕</string>
     <string name="settings_general">一般</string>
     <string name="no_bookmark">無書籤~</string>
     <string name="import_or_export_bookmarks">匯入/匯出書籤</string>
     <string name="export_bookmarks">匯出書籤</string>
-    <string name="back_forward_gesture">網頁翻頁手勢</string>
+    <string name="back_forward_gesture">後退前進手勢</string>
     <string name="toolbar_settings_hint">按下下方按鈕以設定它的長按動作，或者長按以檢查設定的動作。</string>
     <string name="action_modify">修改</string>
     <string name="operation_hint">手勢、捷徑、功能鍵</string>
@@ -236,7 +235,7 @@
     <string name="page_info_link">連結網址：</string>
     <string name="no_network">無網路連線</string>
     <string name="title_app_chooser">選擇應用程式</string>
-    <string name="clear_data_on_exit">關閉程式時清除資料</string>
+    <string name="clear_data_on_exit">關閉時清除資料</string>
     <string name="action_add_to_homepage">新增至首頁</string>
     <string name="added_favorite_hint">成功新增至首頁</string>
     <string name="title_edit_favorite">編輯最愛</string>
@@ -253,9 +252,9 @@
     <string name="disable_restore">停用還原</string>
     <string name="data_file">資料匯出</string>
     <string name="bookmarks_data_to_long">書籤資料達到了伺服器上限，但其他資料可以正常上傳，繼續上傳嗎？</string>
-    <string name="restore_tabs_hint_settings">開啟「無痕模式」時不會復原未關閉的分頁。</string>
+    <string name="restore_tabs_hint_settings">開啟 \"無痕模式\" 時不會復原未關閉的分頁。</string>
     <string name="web_page_debug">啟用網頁偵錯</string>
-    <string name="web_page_debug_info">現在你可以將手機連上電腦，然後在 Chrome 電腦版上透過「chrome://inspect」偵錯網頁。別忘了先進入手機設定裡的「開發人員選項」並開啟「USB 偵錯」。</string>
+    <string name="web_page_debug_info">現在你可以將手機連上電腦，然後在 Chrome 電腦版上透過 \"chrome://inspect\" 偵錯網頁。別忘了先進入手機設定裡的「開發人員選項」並開啟「USB 偵錯」。</string>
     <string name="action_re_download">重新下載</string>
     <string name="action_copy_download_link">複製下載連結</string>
     <string name="download_failed">下載失敗</string>
@@ -264,7 +263,7 @@
     <string name="message_delete_downloaded_task">刪除這個下載工作嗎？</string>
     <string name="message_delete_downloaded_file">同時刪除已下載的檔案</string>
     <string name="block_popup_message">已封鎖彈出式視窗</string>
-    <string name="allow_popup">允許一次</string>
+    <string name="allow_popup">僅限一次</string>
     <string name="system_download_manager">系統下載管理員</string>
     <string name="action_play_with">透過應用程式播放&#8230;</string>
     <string name="show_sniffer_btn_automatically">自動顯示監聽按鈕</string>
@@ -278,7 +277,7 @@
     <string name="block_hint">封鎖了：%1$s\n重新整理網頁生效。</string>
     <string name="unblock_hint">解封了：%1$s\n重新整理網頁生效。</string>
     <string name="block_3rd_party_cookies">封鎖第三方 Cookie</string>
-    <string name="enable_site_conf">啟用「%1$s」網站設定</string>
+    <string name="enable_site_conf">啟用 \"%1$s\" 網站設定</string>
     <string name="site_conf">網站設定</string>
     <string name="ui_simple_top">工具列在上</string>
     <string name="ui_simple_bottom">工具列在下</string>
@@ -314,7 +313,7 @@
     <string name="updated_">%1$s 已更新</string>
     <string name="filter_subscription_info">%1$s，%2$s</string>
     <string name="enable_built_in_filters">啟用內建篩選條件</string>
-    <string name="enable_built_in_filters_description">內建篩選條件只封鎖常見廣告</string>
+    <string name="enable_built_in_filters_description">內建篩選條件僅封鎖常見廣告</string>
     <string name="update">更新</string>
     <string name="bookmarks_exported_successfully">書籤匯出成功</string>
     <string name="data_exported_successfully">資料匯出成功</string>
@@ -328,20 +327,20 @@
     <string name="delete_account">登出帳號</string>
     <string name="delete_account_hint">從伺服器刪除帳號</string>
     <string name="delete_account_request_submitted">帳號刪除申請已送出。</string>
-    <string name="delete_account_message">送出刪除申請後，帳號將登出並進入 15 天的刪除等待期，登出期間如果你再次登入帳號並上傳了資料，將導致刪除申請被撤銷。等待期滿後，該帳號及相關資料將從伺服器完全刪除。\n請輸入密碼繼續。</string>
+    <string name="delete_account_message">送出刪除申請後，帳號將登出並進入 15 天的刪除等待期，登出期間如你再次登入帳號並上傳了資料，將導致刪除申請被撤回。等待期滿後，該帳號及相關資料將從伺服器完全刪除。\n請輸入密碼繼續。</string>
     <string name="confirm_to_delete">確定刪除</string>
     <string name="select_all">全選</string>
     <string name="open_source_licenses">開源許可協議</string>
     <string name="debugging_info">除錯資訊</string>
     <string name="join_qq_group">加入 QQ 群組</string>
     <string name="join_telegram_group">加入 Telegram 群組</string>
-    <string name="follow_me_on_twitter">在 X 上關注我</string>
+    <string name="follow_me_on_twitter">在 Twitter 上關注我</string>
     <string name="follow_me_on_weibo">在微博上關注我</string>
     <string name="paste_and_go">貼上並前往</string>
     <string name="night_filter_for_web_contents">網頁遮色片濾鏡</string>
     <string name="force_dark_mode_for_web_contents">強制網頁深色</string>
     <string name="force_dark_mode_for_web_contents_description">為網頁啟用強制深色，這可能會導致部分網頁表現異常</string>
-    <string name="require_javascript_enabled">這將只在啟用 JavaScript 時生效。</string>
+    <string name="require_javascript_enabled">這將僅在啟用 JavaScript 時生效。</string>
     <string name="keyboard_shortcuts">鍵盤快捷鍵</string>
     <string name="export_data_description">匯出書籤、設定、指令碼和廣告篩選條件</string>
     <string name="language">語言</string>
@@ -352,11 +351,11 @@
     <string name="sort_by_newest_first">最新的優先</string>
     <string name="sort_by_alphabetical_order">名稱順序</string>
     <string name="select_folder">選擇資料夾</string>
-    <string name="move">剪下</string>
+    <string name="move">移動</string>
     <string name="done">完成</string>
-    <string name="root_folder">根目錄</string>
+    <string name="root_folder">根路徑</string>
     <string name="delete_item_message">你確定刪除 %1$s 嗎？</string>
-    <string name="item_has_been_deleted">\"%1$s」已刪除</string>
+    <string name="item_has_been_deleted">\"%1$s\" 已刪除</string>
     <string name="undo">復原</string>
     <string name="can_not_sort_list_when_sorting_alphabetically">名稱順序時無法排序列表</string>
     <string name="opened_in_background_message">已在背景開啟</string>
@@ -368,8 +367,8 @@
     <string name="adaptive">自動調整</string>
     <string name="action_favorites">最愛</string>
     <string name="skin_search_bar">搜尋框</string>
-    <string name="stroke_width">邊框粗細</string>
-    <string name="stroke_opacity">邊框不透明度</string>
+    <string name="stroke_width">描邊粗細</string>
+    <string name="stroke_opacity">描邊不透明度</string>
     <string name="opacity">不透明度</string>
     <string name="font_style">字型樣式</string>
     <string name="bold">粗體</string>
@@ -388,10 +387,10 @@
     <string name="new_version_available">新版本可用</string>
     <string name="action_download_file">下載</string>
     <string name="delete_hint">刪除(%1$d)</string>
-    <string name="follow_system_dark_mode_on">系統預設值暗色模式已啟用</string>
+    <string name="follow_system_dark_mode_on">系統預設值暗模式已啟用</string>
     <string name="scoped_search">搜尋 %1$s</string>
     <string name="add_shortcut">新增桌面捷徑</string>
-    <string name="need_shortcut_permission">權限被拒絕。請前往系統設定為此應用程式開啟「新增桌面捷徑」權限。</string>
+    <string name="need_shortcut_permission">權限被拒絕。請前往系統設定為此應用程式開啟 \"新增桌面捷徑\" 權限。</string>
     <string name="create_shortcut_successfully">已為 %1$s 新增桌面捷徑</string>
     <string name="update_shortcut_successfully">已為 %1$s 更新桌面捷徑</string>
     <string name="today">今天</string>
@@ -425,12 +424,12 @@
     <string name="do_not_sell_or_share">不出售或分享資料</string>
     <string name="do_not_sell_or_share_description">請求網站不出售或分享我的資料以保護隱私 (實驗性)</string>
     <string name="email_me">透過郵件聯絡我</string>
-    <string name="scan_qr_code">掃描二維條碼</string>
-    <string name="scan_qr_code_from_image">掃描圖片中的二維條碼</string>
+    <string name="scan_qr_code">掃描二維碼</string>
+    <string name="scan_qr_code_from_image">掃描圖片中的二維碼</string>
     <string name="switch_flash">開關閃光燈</string>
-    <string name="qr_code_scan_result">二維條碼掃描結果</string>
-    <string name="qr_code_not_detected">未檢測到二維條碼</string>
-    <string name="save_qr_code_successfully">二維條碼已儲存到相簿</string>
+    <string name="qr_code_scan_result">二維碼掃描結果</string>
+    <string name="qr_code_not_detected">未檢測到二維碼</string>
+    <string name="save_qr_code_successfully">二維碼已儲存到相簿</string>
     <string name="description_with_number">%1$s (%2$d)</string>
     <string name="last_hour">過去一小時</string>
     <string name="today_and_yesterday">今天和昨天</string>
@@ -483,7 +482,7 @@
     <string name="download_action_pause">暫停</string>
     <string name="download_action_resume">復原</string>
     <string name="app_downloading_files">Via 正在下載檔案</string>
-    <string name="app_downloading_files_subtitle">點選即可檢視下載內容</string>
+    <string name="app_downloading_files_subtitle">點按即可檢視下載內容</string>
     <string name="built_in_download_manager">內建下載器</string>
     <string name="cancel_all">取消全選</string>
     <string name="message_delete_selected_download_tasks">你確定刪除這些下載任務嗎 (總共 %1$d 個任務)？</string>
@@ -496,7 +495,7 @@
     <string name="ssl_warning_certificate_untrusted">證書不受信任</string>
     <string name="ssl_warning_certificate_date_invalid">證書日期無效</string>
     <string name="ssl_warning_certificate_expired">證書已過期</string>
-    <string name="ssl_warning_certificate_domain_mismatch">證書域名與網站域名不同</string>
+    <string name="ssl_warning_certificate_domain_mismatch">證書域名與網站域名不匹配</string>
     <string name="ssl_warning_certificate_invalid">證書無效</string>
     <string name="ssl_warning_certificate_not_yet_valid">證書尚未生效</string>
     <string name="the_site">該網站</string>
@@ -505,7 +504,7 @@
     <plurals name="open_tabs">
         <item quantity="other">%d 個開啟的分頁</item>
     </plurals>
-    <string name="qr_code">二維條碼</string>
+    <string name="qr_code">二維碼</string>
     <string name="download_progress_speed">%1$s • %2$s</string>
     <string name="download_progress_speed_eta">%1$s • %2$s • %3$s</string>
     <string name="download_speed_unknown">N/A</string>
@@ -517,15 +516,15 @@
         <item quantity="other">剩餘 %d 分鐘</item>
     </plurals>
     <plurals name="secs_left">
-        <item quantity="other">剩餘 %d 秒鐘</item>
+        <item quantity="other">剩餘 %d 秒</item>
     </plurals>
     <string name="translation_engine_google">Google 翻譯</string>
     <string name="translation_engine_baidu">百度翻譯</string>
     <string name="ignore_site_message_for_a_minute">忽略此網站訊息一分鐘</string>
     <string name="download_status_waiting_for_network">等待網路連線</string>
     <string name="download_failed_with_message">下載失敗：%1$s</string>
-    <string name="remove_identifying_headers">移除代理標頭</string>
-    <string name="remove_identifying_headers_description">啟用後將清空 X-Requested-With 和 X-Wap-Profile 標頭資訊，這可能會導致部分網頁顯示異常</string>
+    <string name="remove_identifying_headers">移除代理頭</string>
+    <string name="remove_identifying_headers_description">啟用後將置空 X-Requested-With 和 X-Wap-Profile 頭資訊，這可能會導致部分頁面表現異常</string>
     <string name="agent_windows_chrome">Windows (Chrome)</string>
     <string name="agent_windows_ie11">Windows (IE 11)</string>
     <string name="agent_android_phone">Android (手機)</string>
@@ -533,8 +532,8 @@
     <string name="agent_ipad">iPad</string>
     <string name="agent_osx">macOS</string>
     <string name="toutiao_url">頭條</string>
-    <string name="title_can_not_be_empty">標題不能為空白</string>
-    <string name="user_agent_can_not_be_empty">使用者代理不能為空白</string>
+    <string name="title_can_not_be_empty">標題不能為空</string>
+    <string name="user_agent_can_not_be_empty">使用者代理不能為空</string>
     <string name="download_filter_all">全部</string>
     <string name="download_filter_others">其它</string>
     <string name="download_filter_documents">文件</string>
@@ -554,7 +553,7 @@
         <br /><br />
         <b><tt>@name</tt></b>：指令碼名稱。
         <br /><br />
-        <b><tt>@namespace</tt></b>：<tt>@namespace</tt> 和 <tt>@name</tt> 是指令碼的唯一識別碼。
+        <b><tt>@namespace</tt></b>：<tt>@namespace</tt> 和 <tt>@name</tt> 是指令碼的唯一 ID。
         <br /><br />
         <b><tt>@match/@exclude-match</tt></b>：定義了指令碼的作用域。推薦使用 <tt>@match</tt> 而不是 <tt>@include</tt>。
         <br /><br />
@@ -568,7 +567,7 @@
         <br /><br />
         <b><tt>@require</tt></b>：指令碼的前置依賴，例如： <br /><tt>// @require https://my.cdn.com/jquery.js</tt>。
         <br /><br />
-        <b><tt>@run-at</tt></b>：指令碼的執行時機。 <tt>document-start</tt> 用於在網頁 DOM 載入前注入指令碼， <tt>document-end</tt> 用於在網頁 DOM 載入完成後注入指令碼， <tt>document-idle</tt> 用於在網頁空閒後注入指令碼。
+        <b><tt>@run-at</tt></b>：指令碼的執行時機。 <tt>document-start</tt> 用於在頁面 DOM 載入前注入指令碼， <tt>document-end</tt> 用於在頁面 DOM 載入完成後注入指令碼， <tt>document-idle</tt> 用於在頁面空閒後注入指令碼。
         <br /><br />
         <b><tt>@grant</tt></b>：定義指令碼所使用和應被授權的特殊 GM_* API。<br />
         <br /><br />
@@ -583,7 +582,7 @@
         <tt>GM_getValue/GM_setValue/GM_deleteValue/GM_listValues/GM_getResourceText/GM_getResourceURL/GM_addElement/GM_addStyle/GM_setClipboard/GM_xmlhttpRequest/GM_download/GM_registerMenuCommand/GM_unregisterMenuCommand</tt>.
         <br /><br />
         <b>匹配</b><br />
-        <tt>@match</tt> 定義了指令碼生效的作用域。 <tt>@exclude-match</tt> 定義了指令碼不會生效的作用域，類似 <tt>@exclude</tt>。
+        <tt>@match</tt> 定義了指令碼生效的作用域。 <tt>@exclude-match</tt> 定義了指令碼不應生效的作用域，類似 <tt>@exclude</tt>。
         <br /><br />
         例如:<br />
         <tt>
@@ -593,18 +592,18 @@
         </tt>
         <br /><br />
     ]]></string>
-    <string name="toast_install_script_successfully">安裝「%1$s」成功！</string>
-    <string name="toast_install_script_failed_unknown">安裝「%1$s」失敗！</string>
-    <string name="toast_install_script_failed_dependency_error">下載「%1$s」依賴失敗！</string>
+    <string name="toast_install_script_successfully">安裝 \"%1$s\" 成功！</string>
+    <string name="toast_install_script_failed_unknown">安裝 \"%1$s\" 失敗！</string>
+    <string name="toast_install_script_failed_dependency_error">下載 \"%1$s\" 依賴失敗！</string>
     <string name="title_install_script">安裝指令碼</string>
-    <string name="message_install_script">你確定安裝「%1$s\"(%2$s) 嗎？</string>
+    <string name="message_install_script">你確定安裝 \"%1$s\"(%2$s) 嗎？</string>
     <string name="title_reinstall_script">重新安裝指令碼</string>
-    <string name="message_reinstall_script">你確定重新安裝「%1$s\"(%2$s) 嗎？</string>
+    <string name="message_reinstall_script">你確定重新安裝 \"%1$s\"(%2$s) 嗎？</string>
     <string name="title_update_script">更新指令碼</string>
-    <string name="message_update_script">你確定更新指令碼「%1$s\"(%2$s -> %3$s) 嗎？</string>
+    <string name="message_update_script">你確定更新指令碼 \"%1$s\"(%2$s -> %3$s) 嗎？</string>
     <string name="toast_parsing_script">解析指令碼中…</string>
-    <string name="title_add_metadata_block">新增中繼資料</string>
-    <string name="message_add_metadata_block">此指令碼沒有中繼資料所以無法儲存。您想要為其新增一個預設的中繼資料嗎？</string>
+    <string name="title_add_metadata_block">新增 Metadata 塊</string>
+    <string name="message_add_metadata_block">此指令碼沒有 Metadata 塊所以無法儲存。您想要為其新增一個預設的 Metadata 塊嗎？</string>
     <string name="title_disable_safe_browsing">停用安全瀏覽</string>
     <string name="title_close_all_tabs">關閉所有分頁</string>
     <string name="message_close_all_tabs_before_disabling_incognito_mode">你想要在退出無痕模式前，關閉所有分頁嗎？</string>
@@ -612,18 +611,18 @@
     <string name="action_keep">保留</string>
     <string name="desc_bookmark_folder">%1$s 資料夾</string>
     <string name="message_splash_agreement">在使用 Via 前，你需要認真閱讀並同意我們的 %1$s 和 %2$s。</string>
-    <string name="translation_engine_google_in_page">Google 網頁翻譯</string>
+    <string name="translation_engine_google_in_page">Google頁內翻譯</string>
     <string name="title_feedback">意見回饋</string>
     <string name="action_view_cookies">檢視 Cookies</string>
     <string name="title_cookies_for_site">%1$s 的 Cookies</string>
     <string name="message_no_cookies">無 Cookies。</string>
-    <string name="toast_cookies_for_site_cleared">已清除 %1$s 的 Cookies</string>
+    <string name="toast_cookies_for_site_cleared">已置空 %1$s 的 Cookies</string>
     <string name="toast_site_does_not_support_resource_sniffing">該網站不支援資源監聽</string>
     <string name="desc_expand_text">展開文字</string>
     <string name="desc_collapse_text">摺疊文字</string>
     <string name="desc_clear_text">清除文字</string>
     <string name="title_search_suggestions">搜尋建議</string>
-    <string name="message_search_suggestions">使用網址列時，從下列內容擷取建議</string>
+    <string name="message_search_suggestions">使用位址列時，從下列內容獲取建議</string>
     <string name="title_open_tabs">分頁</string>
     <string name="desc_fill_in_text">填入文字</string>
     <string name="directory_name">路徑名稱</string>
@@ -632,7 +631,7 @@
     <string name="title_permission_denied">沒有權限</string>
     <string name="message_reselect_download_location">下載路徑的儲存權限已被移除。請重新選擇下載路徑。</string>
     <string name="detect_language">檢測語言</string>
-    <string name="title_source_language">來源語言</string>
+    <string name="title_source_language">源語言</string>
     <string name="title_target_language">目標語言</string>
     <string name="desc_swap_language">交換語言</string>
     <string name="desc_paste_text">貼上文字</string>
@@ -655,13 +654,13 @@
     <string name="title_ignore_ssl_warnings_description">請小心，忽略 SSL 證書警告可能會使網站的連線不安全</string>
     <string name="message_ignore_ssl_warnings">SSL 證書用於驗證網站身份和加密連線。這就像是把信放在信封中再寄出，只有你和網站可以拆開這封信。\n\n一旦你忽略 SSL 警告，則與網站的連線可能不安全，這意味著與網站傳輸的資料可能被人竊取。這就像把信放在一個破損的信封上然後寄出它，偽造證書的人可以拆開它。</string>
     <string name="title_ignore_ssl_warnings_confirmation">我瞭解這可能導致連線不安全</string>
-    <string name="title_disable_safe_browsing_description">安全瀏覽允許 Android System WebView 透過驗證連結來防止惡意軟體和網路釣魚攻擊</string>
+    <string name="title_disable_safe_browsing_description">安全瀏覽允許 WebView 透過驗證連結來防止惡意軟體和網路釣魚攻擊</string>
     <string name="action_close_all_tabs">關閉所有分頁</string>
     <string name="action_close_other_tabs">關閉其它分頁</string>
     <string name="action_close_tabs_to_the_bottom">關閉下方分頁</string>
     <string name="action_close_tabs_to_the_top">關閉上方分頁</string>
     <string name="title_permission_request">權限請求</string>
-    <string name="message_permission_request">%1$s 請求使用：</string>
+    <string name="message_permission_request">%1$s 請求使用</string>
     <string name="list_item_dash">- %1$s</string>
     <string name="permission_microphone">麥克風</string>
     <string name="permission_camera">攝影機</string>
@@ -678,8 +677,8 @@
     <string name="agent_add_site_exception">為特定網站設定使用者代理。</string>
     <string name="images">影像</string>
     <string name="images_allowed_description">允許網站顯示影像</string>
-    <string name="images_allowed_via_wifi_description">只在 Wi-Fi 連線時允許網頁顯示影像</string>
-    <string name="images_allowed_via_wifi_description_short">只在 Wi-Fi 連線時允許</string>
+    <string name="images_allowed_via_wifi_description">僅在 Wi-Fi 連線時允許網頁顯示影像</string>
+    <string name="images_allowed_via_wifi_description_short">僅在 Wi-Fi 連線時允許</string>
     <string name="images_add_site_exception_allow">允許特定網站顯示影像。</string>
     <string name="images_add_site_exception_block">禁止特定網站載入影像。</string>
     <string name="javascript">JavaScript</string>
@@ -754,36 +753,36 @@
     <string name="request_to_download_full_script">該指令碼不完整且無法執行，你想要下載完整指令碼嗎？</string>
     <string name="data_app_cache">程式快取</string>
     <string name="sync_manually">手動同步</string>
-    <string name="sync_push_description">使用雲端資料取代本機</string>
-    <string name="sync_push_confirm">你確認使用雲端資料來取代本機資料嗎？</string>
-    <string name="sync_pull_description">上傳本機資料取代雲端</string>
-    <string name="sync_pull_confirm">你確認上傳本機資料來取代雲端資料嗎？</string>
+    <string name="sync_push_description">使用雲端資料覆蓋本機</string>
+    <string name="sync_push_confirm">你確認使用雲端資料來覆蓋本機資料嗎？</string>
+    <string name="sync_pull_description">上傳本機資料覆蓋雲端</string>
+    <string name="sync_pull_confirm">你確認上傳本機資料來覆蓋雲端資料嗎？</string>
     <string name="sync_merge_description">合併雲端和本機的資料</string>
     <string name="mark_as_ad_expand">擴大</string>
     <string name="mark_as_ad_shrink">縮小</string>
-    <string name="page_redirection">網頁重新導向</string>
-    <string name="page_redirection_allowed_description">允許網頁重新導向到任何網頁</string>
-    <string name="page_redirection_ask_first_description">當網頁重新導向到非相同來源網頁前先詢問</string>
-    <string name="page_redirection_ask_first_description_short">重新導向到非相同來源網頁前先詢問</string>
-    <string name="page_redirection_add_site_exception_allow">允許特定網站重新導向到任何網頁。</string>
-    <string name="page_redirection_add_site_exception_ask_first">在特定網站重新導向到非相同來源網頁前先詢問。</string>
-    <string name="allow_page_redirection_to_msg">允許網頁重新導向到 %1$s 嗎？</string>
-    <string name="allow_page_redirection_msg">允許網頁重新導向嗎？</string>
+    <string name="page_redirection">頁面重定向</string>
+    <string name="page_redirection_allowed_description">允許頁面重定向到任何頁面</string>
+    <string name="page_redirection_ask_first_description">當頁面重定向到非同源頁面前先詢問</string>
+    <string name="page_redirection_ask_first_description_short">重定向到非同源頁面前先詢問</string>
+    <string name="page_redirection_add_site_exception_allow">允許特定網站重定向到任何頁面。</string>
+    <string name="page_redirection_add_site_exception_ask_first">在特定網站重定向到非同源頁面前先詢問。</string>
+    <string name="allow_page_redirection_to_msg">允許頁面重定向到 %1$s 嗎？</string>
+    <string name="allow_page_redirection_msg">允許頁面重定向嗎？</string>
     <string name="sort">排序</string>
     <string name="new_folder">新增資料夾</string>
     <string name="page_up">向上翻頁</string>
     <string name="page_down">向下翻頁</string>
     <string name="select_action">選擇行為</string>
     <string name="tab_actions">分頁行為</string>
-    <string name="feature_actions">功能行為</string>
+    <string name="feature_actions">特性行為</string>
     <string name="address_bar_actions">位址列行為</string>
     <string name="webpage_actions">網頁行為</string>
     <string name="message_close_all_tabs">你確定關閉所有分頁嗎？</string>
     <string name="search_in_via">在 Via 中搜尋</string>
     <string name="following_filters_invalid_message">下列篩選條件格式不正確：</string>
     <string name="customize_menu">自訂選單</string>
-    <string name="hold_and_drag_to_rearrange_items">按住並拖動即可重新排列項目</string>
-    <string name="hold_and_drag_or_tap_to_add_item">按住並拖動或按下來新增項目</string>
+    <string name="hold_and_drag_to_rearrange_items">按住並拖動即可重新排列條目</string>
+    <string name="hold_and_drag_or_tap_to_add_item">按住並拖動或按下來新增條目</string>
     <string name="enable_tab_bar">啟用分頁欄</string>
     <string name="enable_scripts">啟用指令碼</string>
     <string name="scripts_enabled">指令碼已啟用</string>
@@ -792,7 +791,7 @@
     <string name="is_on">%s 已開啟</string>
     <string name="is_off">%s 已關閉</string>
     <string name="is_set">%s 已設定</string>
-    <string name="is_required">%s 為必填項目</string>
+    <string name="is_required">%s 為必填項</string>
     <string name="close_tab_description">關閉 %s 分頁</string>
     <string name="toast_enable_tab_bar">請選擇另一種工具列介面模式以啟用分頁欄</string>
     <string name="import_data_failed_file_too_large">檔案太大，無法匯入</string>
@@ -833,11 +832,11 @@
     <string name="reader_mode">閱讀模式</string>
     <string name="the_page_has_not_fully_loaded">該網頁未完全載入</string>
     <string name="more_options">更多選項</string>
-    <string name="link_too_long_to_generate_qr_code">連結太長，無法生成二維條碼</string>
+    <string name="link_too_long_to_generate_qr_code">連結太長，無法生成二維碼</string>
     <string name="view_scripts">檢視指令碼</string>
     <string name="exit_message_if_incognito_mode_is_on">所有未關閉的分頁都將被刪除且無法被恢復，你確認退出程式嗎？</string>
     <string name="dont_remind_me_again">不再提醒</string>
-    <string name="cannot_work_javascript_is_blocked">只在允許 JavaScript 執行時支援</string>
+    <string name="cannot_work_javascript_is_blocked">僅在允許 JavaScript 執行時支援</string>
     <string name="cannot_work_on_this_site">不支援該網站</string>
     <string name="one_filter_per_line">一個篩選條件一行。</string>
     <string name="modified_content_has_not_been_saved_message">修改的內容未儲存，是否儲存？</string>
@@ -876,20 +875,20 @@
     <string name="search_toolbar">搜尋工具列</string>
     <string name="enable_search_toobar">啟用搜尋工具列</string>
     <string name="invalid_url">無效連結</string>
-    <string name="grant_camera_permission_hint">螢幕點選授予相機權限以掃碼</string>
+    <string name="grant_camera_permission_hint">點按螢幕授予相機權限以掃碼</string>
     <string name="location_add_site_exception_allow">允許特定網站使用位置資訊。</string>
     <string name="location_add_site_exception_block">禁止特定網站使用位置資訊。</string>
     <string name="site_request_location_permission">%1$s 想要使用你的位置資訊。</string>
     <string name="site_is_using_your_location">%1$s 正在使用你的位置資訊</string>
     <string name="text_size_site_exception_add">為特定網站設定字型大小。</string>
-    <string name="only_take_effect_for_current_site">只對目前網站生效</string>
+    <string name="only_take_effect_for_current_site">僅對目前網站生效</string>
     <string name="disable_webrtc">停用 WebRTC</string>
     <string name="lock">鎖定</string>
     <string name="unlock">解鎖</string>
     <string name="delete_items_message">你確定刪除 %1$d 個條目嗎？</string>
     <string name="pip">畫中畫</string>
     <string name="game_mode">遊戲模式</string>
-    <string name="game_mode_is_on">遊戲模式已開啟，按兩次返回鍵可退出遊戲模式</string>
+    <string name="game_mode_is_on">遊戲模式已開啟，按兩次返回鍵可退出</string>
     <string name="game_mode_exit">再按一次返回鍵退出遊戲模式</string>
     <string name="show_details">顯示細節</string>
     <string name="hide_details">隱藏細節</string>
@@ -902,8 +901,8 @@
     <string name="update_item_failed">更新 %1$s 失敗</string>
     <string name="update_scripts_completed">指令碼更新完成。</string>
     <string name="request_item_update">你確認更新 %1$s 嗎？</string>
-    <string name="vibrate">震動</string>
-    <string name="vibrate_allowed_description">允許網頁震動</string>
+    <string name="vibrate">振動</string>
+    <string name="vibrate_allowed_description">允許網頁振動</string>
     <string name="requires">依賴</string>
     <string name="resources">資源</string>
     <string name="info_name">名稱</string>
@@ -919,15 +918,15 @@
     <string name="resource_does_not_exist_message">資源不存在，指令碼可能無法正常執行。你想要下載此資源嗎？</string>
     <string name="script_info">指令碼資訊</string>
     <string name="resource_info">資源資訊</string>
-    <string name="quick_back_add_site_exception_on">為特定網站開啟返回不重新載入。</string>
-    <string name="quick_back_add_site_exception_off">為特定網站關閉返回不重新載入。</string>
+    <string name="quick_back_add_site_exception_on">為特定網站開啟返回不重載。</string>
+    <string name="quick_back_add_site_exception_off">為特定網站關閉返回不重載。</string>
     <string name="desktop_mode_add_site_exception_on">為特定網站開啟桌面網站。</string>
     <string name="desktop_mode_add_site_exception_off">為特定網站關閉桌面網站。</string>
     <string name="no_camera">無相機</string>
     <string name="two_row_toolbar">雙行工具列</string>
     <string name="experimental">實驗</string>
     <string name="blur_effect">模糊效果</string>
-    <string name="blur_effect_description">為了套用模糊效果，部分裝置可能不支援</string>
+    <string name="blur_effect_description">為應用啟用模糊效果，部分裝置可能不支援</string>
     <string name="show_background_in_settings">在設定中顯示背景</string>
     <string name="show_background_in_settings_toast">將在下次開啟設定時生效</string>
     <string name="toolbars_settings">工具列設定</string>
@@ -957,41 +956,41 @@
     <string name="plain_text">純文字</string>
     <string name="resend">重新傳送</string>
     <string name="operation_ai_pannel">開啟 AI 面板</string>
-    <string name="clear_messages">清除消息</string>
-    <string name="confirm_to_clear">確認清除？</string>
+    <string name="clear_messages">清除訊息</string>
+    <string name="confirm_to_clear">確認清除</string>
     <string name="no_messages">無訊息</string>
     <string name="select_model">選擇模型</string>
     <string name="add_model">新增模型</string>
     <string name="ai_prompt">AI 提示詞</string>
     <string name="system_prompt">系統提示詞</string>
     <string name="message_template">訊息模板</string>
-    <string name="available_variables">可用變量</string>
+    <string name="available_variables">可用變數</string>
     <string name="var_webpage_url_description">目前網頁的連結。</string>
     <string name="var_webpage_title_description">目前網頁的標題。</string>
     <string name="var_webpage_content_description">目前網頁的純文字內容。</string>
-    <string name="var_input_description">輸入框内容。</string>
+    <string name="var_input_description">輸入框內容。</string>
     <string name="var_time_description">目前時間 yyyy-MM-dd HH:mm:ss EEEE (ZZZZ)。</string>
-    <string name="content">内容</string>
+    <string name="content">內容</string>
     <string name="casual_chat">尬聊</string>
-    <string name="copy_all">複製全部文字</string>
+    <string name="copy_all">複製全文</string>
     <string name="error_no_ai_service_provider">未配置 AI 供應提供商</string>
     <string name="error_no_completion">請求未完成</string>
     <string name="error_http">HTTP 錯誤：%1$d\n\n%2$s</string>
     <string name="error_unknown">未知錯誤：%1$s</string>
     <string name="validate">驗證</string>
     <string name="validate_success">驗證成功</string>
-    <string name="validate_failed">驗證失败</string>
+    <string name="validate_failed">驗證失敗</string>
     <string name="open_key_management_page">開啟 API 密鑰建立和管理網頁</string>
     <string name="permission_microphone_description">用於提供網頁需要的語音輸入或音訊錄製等功能</string>
-    <string name="permission_camera_description">用於提供網站所需要的拍照或錄製等功能</string>
+    <string name="permission_camera_description">用於提供網站需要的拍照或錄製等功能</string>
     <string name="permission_summary">%1$s：%2$s</string>
     <string name="action_add_favorite">新增首頁收藏</string>
     <string name="favorite_added">已新增</string>
     <string name="message_favorite_added">已新增首頁收藏</string>
     <string name="error_ai_service_provider_invalid">AI 服務供應商未正確配置</string>
     <string name="customize_context_menu">客製化長按選單</string>
-    <string name="font">字體</string>
-    <string name="unable_to_add_font">新增字體失敗，錯誤代碼：%1$d</string>
+    <string name="font">字型</string>
+    <string name="unable_to_add_font">新增字型失敗，錯誤碼：%1$d</string>
     <string name="export_thread">匯出聊天</string>
     <string name="password_manager">密碼管理器</string>
     <string name="offer_to_save_passwords">提示儲存密碼</string>
@@ -1015,12 +1014,23 @@
     <string name="failed_to_import_passwords">匯入密碼失敗</string>
     <string name="passwords_import">%1$d 條密碼已匯入</string>
     <string name="export_passwords">匯出密碼</string>
-    <string name="export_passwords_description">使用完密碼檔案後，請將其刪除以避免任何的資料洩漏</string>
+    <string name="export_passwords_description">使用完密碼檔案後，請將其刪除以避免可能的資料洩漏</string>
     <string name="unlock_device_to_export_passwords">解鎖裝置來匯出密碼</string>
     <string name="never_for_this_site">此網站一律不提示</string>
     <string name="unlock_device_to_export_data">解鎖裝置來匯出資料</string>
     <string name="enter_password">輸入密碼</string>
-    <string name="enter_password_for_exporting_data">你正在匯出隱私資料，請輸入密碼以加密資料。請牢記密碼，如果密碼遺失，將無法匯入其中加密的資料。</string>
+    <string name="enter_password_for_exporting_data">你正在匯出隱私資料，請輸入密碼以加密資料。請牢記密碼，如果密碼丟失，將無法匯入其中加密的資料。</string>
     <string name="password_required">驗證密碼</string>
-    <string name="password_required_for_importing_data">你正在匯入包含加密資料的内容，請輸入密碼解密資料。如果密碼錯誤，將只會匯入其中未加密的資料。</string>
+    <string name="password_required_for_importing_data">你匯入的資料包含加密內容，請輸入密碼解密資料。如果密碼錯誤，將只匯入其中未加密的資料。</string>
+    <string name="copy_username">複製使用者名稱</string>
+    <string name="copy_password">複製密碼</string>
+    <string name="unlock_device_to_copy_password">解鎖裝置來複制密碼</string>
+    <string name="unlock_failed_with_message">解鎖失敗：%1$s</string>
+    <string name="no_passwords">沒有密碼</string>
+    <string name="report_abuse">舉報網站</string>
+    <string name="reason_distracting_content">干擾內容太多</string>
+    <string name="reason_dangerous_website">這是危險網站</string>
+    <string name="reason_display_incorrectly">網頁顯示不正確</string>
+    <string name="remarks_optional">備註（可不填）</string>
+    <string name="report_submitted">舉報成功</string>
 </resources>

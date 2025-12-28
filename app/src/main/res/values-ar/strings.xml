@@ -684,7 +684,7 @@
     <string name="action_close_tabs_to_the_bottom">إغلاق علامات التبويب للأسفل</string>
     <string name="action_close_tabs_to_the_top">إغلاق علامات التبويب للأعلى</string>
     <string name="title_permission_request">طلب إذن</string>
-    <string name="message_permission_request">%1$s يود استخدام:</string>
+    <string name="message_permission_request">%1$s يود استخدام</string>
     <string name="list_item_dash">- %1$s</string>
     <string name="permission_microphone">الميكروفون</string>
     <string name="permission_camera">الكاميرا</string>
