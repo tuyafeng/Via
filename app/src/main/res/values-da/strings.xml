@@ -671,7 +671,7 @@
     <string name="action_close_tabs_to_the_bottom">Luk faner til bunden</string>
     <string name="action_close_tabs_to_the_top">Luk faner til toppen</string>
     <string name="title_permission_request">Anmodning om tilladelse</string>
-    <string name="message_permission_request">%1$s vil gerne bruge:</string>
+    <string name="message_permission_request">%1$s vil gerne bruge</string>
     <string name="list_item_dash">- %1$s</string>
     <string name="permission_microphone">Mikrofon</string>
     <string name="permission_camera">Kamera</string>
