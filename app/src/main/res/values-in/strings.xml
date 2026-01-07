@@ -816,8 +816,8 @@
     <string name="recently_closed_tabs">Tab yang baru saja ditutup</string>
     <string name="tabs">Tab</string>
     <string name="tab_settings">Pengaturan tab</string>
-    <string name="show_toast_to_undo_closing_tab">Tampilkan toast untuk membatalkan penutupan tab</string>
-    <string name="show_toast_to_undo_closing_tab_description">Toast tidak akan ditampilkan jika mode penyamaran aktif</string>
+    <string name="show_toast_to_undo_closing_tab">Tampilkan pesan singkat untuk membatalkan penutupan tab</string>
+    <string name="show_toast_to_undo_closing_tab_description">Pesan singkat tidak akan ditampilkan jika mode penyamaran aktif</string>
     <string name="open_all">Buka semua</string>
     <string name="expand_web_content_automatically">Perluas konten halaman web secara otomatis</string>
     <string name="expand_web_content_automatically_description">Perluas konten yang diciutkan secara otomatis saat membuka halaman web</string>
