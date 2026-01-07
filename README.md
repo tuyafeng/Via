@@ -2,7 +2,7 @@
 
 <div align="center"><img src="http://viayoo.com/en/images/logo.png" alt="Via Logo" height="100"/></div>
 
-English | [简体中文](./README_zh_CN.md) | [繁體中文](./README_zh_TW.md) | [Português](./README_pt_BR.md) | [Español](./README_es_ES.md) | [Türkçe](./README_tr_TR.md) | [日本語](./README_ja_JP.md) | [Русский](./README_ru_RU.md) | [العربية](./README_ar_AR.md)
+English | [简体中文](./README_zh_CN.md) | [繁體中文](./README_zh_TW.md) | [Português](./README_pt_BR.md) | [Español](./README_es_ES.md) | [Türkçe](./README_tr_TR.md) | [日本語](./README_ja_JP.md) | [Русский](./README_ru_RU.md) | [العربية](./README_ar_AR.md) | [বাংলা](./README_bn_IN.md) | [한국어](./README_ko_KR.md)
 
 ### Introduction
 
@@ -63,4 +63,3 @@ You can contact me on [Twitter](https://twitter.com/Yafeng78600505) and I will r
 You can also [open an issue](https://github.com/tuyafeng/Via/issues/new) on GitHub, and I will check and reply to issues about once a week.
 
 You can email me [here](mailto:yafengtu@gmail.com) if must, but I'm sorry I may not respond.
-

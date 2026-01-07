@@ -2,7 +2,7 @@
 
 <div align="center"><img src="http://viayoo.com/en/images/logo.png" alt="Via Logo" height="100"/></div>
 
-[English](./README.md) | 简体中文 | [繁體中文](./README_zh_TW.md) | [Português](./README_pt_BR.md) | [Español](./README_es_ES.md) | [Türkçe](./README_tr_TR.md) | [日本語](./README_ja_JP.md) | [Русский](./README_ru_RU.md)
+[English](./README.md) | 简体中文 | [繁體中文](./README_zh_TW.md) | [Português](./README_pt_BR.md) | [Español](./README_es_ES.md) | [Türkçe](./README_tr_TR.md) | [日本語](./README_ja_JP.md) | [Русский](./README_ru_RU.md) | [العربية](./README_ar_AR.md) | [বাংলা](./README_bn_IN.md) | [한국어](./README_ko_KR.md)
 
 ### 简介
 
@@ -63,4 +63,3 @@ Via 使用的是 Android 内建的 WebView 渲染网页。在 Android5.0 及以�
 你也可以在 Github 上[提 issue](https://github.com/tuyafeng/Via/issues/new)，我通常每周会查看并回复一次 issues。
 
 实在必要的话，你也可以[发邮件](mailto:yafengtu@gmail.com)，但很抱歉，我可能不会回复。
-

@@ -2,7 +2,7 @@
 
 <div align="center"><img src="http://viayoo.com/en/images/logo.png" alt="Via Logo" height="100"/></div>
 
-[English](./README.md) | [简体中文](./README_zh_CN.md) | [繁體中文](./README_zh_TW.md) | [Português](./README_pt_BR.md) | Español | [Türkçe](./README_tr_TR.md) | [日本語](./README_ja_JP.md) | [Русский](./README_ru_RU.md)
+[English](./README.md) | [简体中文](./README_zh_CN.md) | [繁體中文](./README_zh_TW.md) | [Português](./README_pt_BR.md) | Español | [Türkçe](./README_tr_TR.md) | [日本語](./README_ja_JP.md) | [Русский](./README_ru_RU.md) | [العربية](./README_ar_AR.md) | [বাংলা](./README_bn_IN.md) | [한국어](./README_ko_KR.md)
 
 ### Introducción
 
@@ -38,27 +38,28 @@ Via utiliza el procesador WebView integrado en la plataforma Android. En disposi
 
 **¿Cómo se desactiva el JavaScript o se ajusta un agente de usuario para un sitio en específico?**
 
-Abre el sitio, presiona la lupa/ícono de escudo a la izquierda de la barra del navegador y en "Configuración del sitio" puedes hacer los ajustes para la página.
+Abre el sitio, presiona la lupa o el ícono de escudo a la izquierda de la barra del navegador y en "Configuración del sitio" puedes hacer los ajustes para la página.
 
 O abre "Ajustes - General - Configuración del sitio" para realizar la configuración manualmente.
 
 **No quiero bloquear publicidad en un sitio específico.**
 
-Por favor dirigirse a la pregunta anterior. Puedes desactivar el adblock para el sitio en "Configuración del sitio".
+Por favor, consulta la pregunta anterior. Puedes desactivar el bloqueador de anuncios para el sitio en "Configuración del sitio".
 
-**¿Por qué Via no guardar contraseñas?**
+**¿Por qué Via no puede guardar contraseñas?**
 
 Desafortunadamente, Google removió esta función de WebView en particular. Puedes intentar utilizar aplicaciones con auto-rellenado (Bitwarden, KeePass, etc.) si la versión de Android de tu dispositivo es mayor o igual a 8.0.
 
-**¿Por qué Via no escanea códigos QR?**
+**¿Por qué Via no puede escanear códigos QR?**
 
-Hay muchas aplicaciones que escanean códigos QR y no quiero agregar una función tan repetitiva. Puedes escanear el código QR con la aplicación de cámara de tu teléfono.
+~~Hay muchas aplicaciones que escanean códigos QR y no quiero agregar una función tan repetitiva. Puedes escanear el código QR con la aplicación de cámara de tu teléfono.~~
+
+A partir de la versión 4.3.4, Via incluye un escáner de códigos QR integrado.
 
 **¿Cómo puedo contactarte?**
 
 Puedes contactarme en [Twitter](https://twitter.com/Yafeng78600505) y responderé tan pronto como sea posible.
 
-También puedes [abrir una issue](https://github.com/tuyafeng/Via/issues/new) en GitHub, chequearé y responderé a las issues más o menos una vez a la semana.
+También puedes [abrir una issue](https://github.com/tuyafeng/Via/issues/new) en GitHub. Revisaré y responderé a las issues aproximadamente una vez a la semana.
 
 Puedes escribirme un correo [aquí](mailto:yafengtu@gmail.com) si lo amerita, pero lamentablemente puede que no responda.
-
