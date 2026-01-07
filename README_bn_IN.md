@@ -2,7 +2,8 @@
 
  <div align="center"><img src="https://viayoo.com/en/images/logo.png" alt="Via Logo" height="100"/></div>
 
-English | [简体中文](./README_zh_CN.md) | [繁體中文](./README_zh_TW.md) | [Português](./README_pt_BR.md) | [Español](./README_es_ES.md) | [Türkçe](./README_tr_TR.md) | [日本語](./README_ja_JP.md) | [Русский](./README_ru_RU.md) | [العربية](./README_ar_AR.md)
+[English](./README.md) | [简体中文](./README_zh_CN.md) | [繁體中文](./README_zh_TW.md) | [Português](./README_pt_BR.md) | [Español](./README_es_ES.md) | [Türkçe](./README_tr_TR.md) | [日本語](./README_ja_JP.md) | [Русский](./README_ru_RU.md) | [العربية](./README_ar_AR.md) | বাংলা | [한국어](./README_ko_KR.md)
+
 ## ভূমিকা
 
 Via ব্রাউজার হল একটি শক্তিশালী ব্রাউজার যার নিম্নলিখিত বৈশিষ্ট্য রয়েছে:
@@ -27,6 +28,7 @@ Via ব্রাউজার হল একটি শক্তিশালী ব
 ১. এই সংগ্রহস্থলটি ফোর্ক করুন
 ২.`app/src/main/res/values/strings.xml` কে `app/src/main/res/values-%(lang)/` এর মতো পাথে কপি করুন, `%(lang)` কে [*the ISO 639-1 language code*](http://www.loc.gov/standards/iso639-2/php/code_list.php) দিয়ে প্রতিস্থাপন করুন
 ৩. `app/src/main/res/values-%(lang)/strings.xml` অনুবাদ করুন
+৪. একটি পুল রিকোয়েস্ট করুন
 
 ## FAQ
 
