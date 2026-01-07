@@ -4,7 +4,7 @@
 
 [English](./README.md) | [简体中文](./README_zh_CN.md) | [繁體中文](./README_zh_TW.md) | [Português](./README_pt_BR.md) | [Español](./README_es_ES.md) | [Türkçe](./README_tr_TR.md) | 日本語 | [Русский](./README_ru_RU.md) | [العربية](./README_ar_AR.md) | [বাংলা](./README_bn_IN.md) | [한국어](./README_ko_KR.md)
 
-### 紹介
+## 紹介
 
 Via Browser は、以下の機能を備えた強力なブラウザです。
 
