@@ -1035,4 +1035,5 @@
     <string name="enter_password_for_exporting_data">Bạn đang xuất dữ liệu bí mật, vui lòng nhập mật khẩu để mã hóa dữ liệu. Vui lòng nhớ mật khẩu. Khi mật khẩu bị mất, bạn sẽ không thể nhập dữ liệu được mã hóa.</string>
     <string name="password_required">Yêu cầu mật khẩu</string>
     <string name="password_required_for_importing_data">Bạn đang nhập dữ liệu được mã hóa. Vui lòng nhập mật khẩu để giải mã dữ liệu và nhập dữ liệu. Nếu mật khẩu không chính xác, chỉ có dữ liệu không được mã hóa sẽ được nhập.</string>
+    <string name="open_in_via">Mở trong Via</string>
 </resources>
