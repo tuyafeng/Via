@@ -1039,4 +1039,6 @@
     <string name="fullscreen_0">总是显示</string>
     <string name="open_in_via">在 Via 中打开</string>
     <string name="oops">糟糕</string>
+    <string name="disable_custom_tabs">禁用 Custom Tabs</string>
+    <string name="disable_custom_tabs_description">跳过第三方应用通过 Custom Tabs 打开链接时的中转页</string>
 </resources>

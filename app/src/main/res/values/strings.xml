@@ -1054,4 +1054,6 @@
     <string name="fullscreen_0">Always show</string>
     <string name="open_in_via">Open in Via</string>
     <string name="oops">Oops</string>
+    <string name="disable_custom_tabs">Disable Custom Tabs</string>
+    <string name="disable_custom_tabs_description">Skip redirect page when third-party apps open links via Custom Tabs</string>
 </resources>
