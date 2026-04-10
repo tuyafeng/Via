@@ -1076,4 +1076,6 @@
     <string name="fullscreen_0">Zawsze pokazuj</string>
     <string name="open_in_via">Otwórz w Via</string>
     <string name="oops">Ups</string>
+    <string name="disable_custom_tabs">Wyłącz karty niestandardowe</string>
+    <string name="disable_custom_tabs_description">Pomijaj stronę przekierowania, gdy aplikacje firm trzecich otwierają linki poprzez karty niestandardowe</string>
 </resources>
