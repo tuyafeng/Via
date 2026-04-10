@@ -1078,4 +1078,7 @@
     <string name="oops">Ups</string>
     <string name="disable_custom_tabs">Wyłącz karty niestandardowe</string>
     <string name="disable_custom_tabs_description">Pomijaj stronę przekierowania, gdy aplikacje firm trzecich otwierają linki poprzez karty niestandardowe</string>
+    <string name="open_file_no_available_options">Brak dostępnych sposobów otwarcia tego pliku.</string>
+    <string name="open_option_pdf_preview">Podgląd PDF</string>
+    <string name="image_saved_to_gallery">Obraz zapisano w galerii</string>
 </resources>
