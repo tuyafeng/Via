@@ -1051,4 +1051,7 @@
     <string name="oops">Ой</string>
     <string name="disable_custom_tabs">Отключить пользовательские вкладки</string>
     <string name="disable_custom_tabs_description">Пропускать страницу перенаправления, когда сторонние приложения открывают ссылки через пользовательские вкладки</string>
+    <string name="open_file_no_available_options">Невозможно открыть файл.</string>
+    <string name="open_option_pdf_preview">Просмотр PDF</string>
+    <string name="image_saved_to_gallery">Изображение сохранено в галерее</string>
 </resources>
