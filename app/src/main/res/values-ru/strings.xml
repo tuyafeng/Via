@@ -1049,4 +1049,6 @@
     <string name="fullscreen_0">Всегда показывать</string>
     <string name="open_in_via">Открыть в Via</string>
     <string name="oops">Ой</string>
+    <string name="disable_custom_tabs">Отключить пользовательские вкладки</string>
+    <string name="disable_custom_tabs_description">Пропускать страницу перенаправления, когда сторонние приложения открывают ссылки через пользовательские вкладки</string>
 </resources>
