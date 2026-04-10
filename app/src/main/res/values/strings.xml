@@ -1056,4 +1056,7 @@
     <string name="oops">Oops</string>
     <string name="disable_custom_tabs">Disable Custom Tabs</string>
     <string name="disable_custom_tabs_description">Skip redirect page when third-party apps open links via Custom Tabs</string>
+    <string name="open_file_no_available_options">No available ways to open this file.</string>
+    <string name="open_option_pdf_preview">Preview PDF</string>
+    <string name="image_saved_to_gallery">Image saved to gallery</string>
 </resources>
