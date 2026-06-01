@@ -1036,4 +1036,10 @@
     <string name="password_required">Yêu cầu mật khẩu</string>
     <string name="password_required_for_importing_data">Bạn đang nhập dữ liệu được mã hóa. Vui lòng nhập mật khẩu để giải mã dữ liệu và nhập dữ liệu. Nếu mật khẩu không chính xác, chỉ có dữ liệu không được mã hóa sẽ được nhập.</string>
     <string name="open_in_via">Mở trong Via</string>
+    <string name="copy_username">Sao chép tên người dùng</string>
+    <string name="copy_password">Sao chép mật khẩu</string>
+    <string name="no_passwords">Không có mật khẩu</string>
+    <string name="open_file_no_available_options">Không có cách nào để mở tệp này.</string>
+    <string name="open_option_pdf_preview">Xem trước tệp PDF</string>
+    <string name="image_saved_to_gallery">Hình ảnh đã được lưu vào thư viện.</string>
 </resources>
