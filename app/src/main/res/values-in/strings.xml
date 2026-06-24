@@ -1054,4 +1054,6 @@
     <string name="fullscreen_0">Selalu tampilkan</string>
     <string name="open_in_via">Buka di Via</string>
     <string name="oops">Ups</string>
+    <string name="disable_custom_tabs">Nonaktifkan Tab Kustom</string>
+    <string name="disable_custom_tabs_description">Lewati halaman pengalihan saat aplikasi pihak ketiga membuka tautan melalui Tab Kustom</string>
 </resources>
