@@ -659,6 +659,8 @@
     <string name="action_close_other_tabs">關閉其它分頁</string>
     <string name="action_close_tabs_to_the_bottom">關閉下方分頁</string>
     <string name="action_close_tabs_to_the_top">關閉上方分頁</string>
+    <string name="action_close_tabs_to_the_left">關閉左側分頁</string>
+    <string name="action_close_tabs_to_the_right">關閉右側分頁</string>
     <string name="title_permission_request">權限請求</string>
     <string name="message_permission_request">%1$s 請求使用</string>
     <string name="list_item_dash">- %1$s</string>
@@ -994,6 +996,7 @@
     <string name="export_thread">匯出聊天</string>
     <string name="password_manager">密碼管理器</string>
     <string name="offer_to_save_passwords">提示儲存密碼</string>
+    <string name="sites_that_never_save_passwords">不儲存密碼的網站</string>
     <string name="passwords">儲存的密碼</string>
     <string name="save_password">儲存密碼</string>
     <string name="password_saved">密碼已儲存</string>

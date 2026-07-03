@@ -19,7 +19,7 @@
     <string name="action_copy_link_text">复制链接文本</string>
     <string name="action_tools">工具箱</string>
     <string name="settings">设置</string>
-    <string name="location">允许站点访问地理位置</string>
+    <string name="location">允许网站访问地理位置</string>
     <string name="password">保存密码</string>
     <string name="donate">捐助我们</string>
     <string name="donate_details">我们利用有限的业余时间设计了 Via，虽然它并不那么美好，但正努力前行。\n如果你喜欢我们的作品，可以捐赠来支持我们。\n\n所有的捐赠都将用来：提升我们的环境配置以及积极性。\n\n支付宝：2376688759@qq.com\nPayPal：wiar1824@gmail.com</string>
@@ -93,7 +93,7 @@
     <string name="toast_operation_failed">操作失败</string>
     <string name="toast_operation_done">操作完成</string>
     <string name="volume">使用音量键翻页</string>
-    <string name="msg_intent">该站点请求打开你的应用，是否继续？</string>
+    <string name="msg_intent">该网站请求打开你的应用，是否继续？</string>
     <string name="setting_default">设置默认浏览器</string>
     <string name="toast_clear_defaults">请清除原先默认设置</string>
     <string name="toast_copy_url_successful">已复制链接</string>
@@ -420,7 +420,7 @@
         %7$s
         <br />
     ]]></string>
-    <string name="no_certificate">该站点无证书。</string>
+    <string name="no_certificate">该网站无证书。</string>
     <string name="site_conf_enabled">网站设定 (已启用)</string>
     <string name="do_not_sell_or_share">不出售或分享数据</string>
     <string name="do_not_sell_or_share_description">请求网站不出售或分享我的数据以保护隐私 (实验性)</string>
@@ -496,10 +496,10 @@
     <string name="ssl_warning_certificate_untrusted">证书不受信任</string>
     <string name="ssl_warning_certificate_date_invalid">证书日期无效</string>
     <string name="ssl_warning_certificate_expired">证书已过期</string>
-    <string name="ssl_warning_certificate_domain_mismatch">证书域名与站点域名不匹配</string>
+    <string name="ssl_warning_certificate_domain_mismatch">证书域名与网站域名不匹配</string>
     <string name="ssl_warning_certificate_invalid">证书无效</string>
     <string name="ssl_warning_certificate_not_yet_valid">证书尚未生效</string>
-    <string name="the_site">该站点</string>
+    <string name="the_site">该网站</string>
     <string name="navigation_up">向上导航</string>
     <string name="hide_popup_window">隐藏弹出式窗口</string>
     <plurals name="open_tabs">
@@ -521,7 +521,7 @@
     </plurals>
     <string name="translation_engine_google">谷歌翻译</string>
     <string name="translation_engine_baidu">百度翻译</string>
-    <string name="ignore_site_message_for_a_minute">忽略此站点消息一分钟</string>
+    <string name="ignore_site_message_for_a_minute">忽略此网站消息一分钟</string>
     <string name="download_status_waiting_for_network">等待网络连接</string>
     <string name="download_failed_with_message">下载失败：%1$s</string>
     <string name="remove_identifying_headers">移除标识头</string>
@@ -618,7 +618,7 @@
     <string name="title_cookies_for_site">%1$s 的 Cookies</string>
     <string name="message_no_cookies">无 Cookies。</string>
     <string name="toast_cookies_for_site_cleared">已置空 %1$s 的 Cookies</string>
-    <string name="toast_site_does_not_support_resource_sniffing">该站点不支持资源嗅探</string>
+    <string name="toast_site_does_not_support_resource_sniffing">该网站不支持资源嗅探</string>
     <string name="desc_expand_text">展开文本</string>
     <string name="desc_collapse_text">折叠文本</string>
     <string name="desc_clear_text">清除文本</string>
@@ -649,8 +649,8 @@
     <string name="message_delete_following_items">你确定删除下列条目吗？</string>
     <string name="list_item">• %1$s</string>
     <string name="action_reset">重置</string>
-    <string name="title_reset_site_conf">重置站点设定</string>
-    <string name="message_reset_site_conf">你确定重置 %1$s 的站点设定吗？</string>
+    <string name="title_reset_site_conf">重置网站设定</string>
+    <string name="message_reset_site_conf">你确定重置 %1$s 的网站设定吗？</string>
     <string name="title_ignore_ssl_warnings">忽略 SSL 证书警告</string>
     <string name="title_ignore_ssl_warnings_description">请小心，忽略 SSL 证书警告可能会使网站的连接不安全</string>
     <string name="message_ignore_ssl_warnings">SSL 证书用于验证网站身份和加密连接。这就像是把信放在信封中再寄出，只有你和网站可以拆开这封信。\n\n一旦你忽略 SSL 警告，则与网站的连接可能不安全，这意味着与网站传输的数据可能被人窃取。这就像把信放在一个破损的信封上然后寄出它，伪造证书的人可以拆开它。</string>
@@ -660,6 +660,8 @@
     <string name="action_close_other_tabs">关闭其它标签页</string>
     <string name="action_close_tabs_to_the_bottom">关闭下方标签页</string>
     <string name="action_close_tabs_to_the_top">关闭上方标签页</string>
+    <string name="action_close_tabs_to_the_left">关闭左侧标签页</string>
+    <string name="action_close_tabs_to_the_right">关闭右侧标签页</string>
     <string name="title_permission_request">权限请求</string>
     <string name="message_permission_request">%1$s 请求使用</string>
     <string name="list_item_dash">- %1$s</string>
@@ -765,8 +767,8 @@
     <string name="page_redirection_allowed_description">允许页面重定向到任何页面</string>
     <string name="page_redirection_ask_first_description">当页面重定向到非同源页面前先询问</string>
     <string name="page_redirection_ask_first_description_short">重定向到非同源页面前先询问</string>
-    <string name="page_redirection_add_site_exception_allow">允许特定站点重定向到任何页面。</string>
-    <string name="page_redirection_add_site_exception_ask_first">在特定站点重定向到非同源页面前先询问。</string>
+    <string name="page_redirection_add_site_exception_allow">允许特定网站重定向到任何页面。</string>
+    <string name="page_redirection_add_site_exception_ask_first">在特定网站重定向到非同源页面前先询问。</string>
     <string name="allow_page_redirection_to_msg">允许页面重定向到 %1$s 吗？</string>
     <string name="allow_page_redirection_msg">允许页面重定向吗？</string>
     <string name="sort">排序</string>
@@ -788,7 +790,7 @@
     <string name="enable_scripts">启用脚本</string>
     <string name="scripts_enabled">脚本已启用</string>
     <string name="print_or_pdf">打印/PDF</string>
-    <string name="site_info">站点信息</string>
+    <string name="site_info">网站信息</string>
     <string name="is_on">%s 已开启</string>
     <string name="is_off">%s 已关闭</string>
     <string name="is_set">%s 已设置</string>
@@ -882,7 +884,7 @@
     <string name="site_request_location_permission">%1$s 想要使用你的位置信息。</string>
     <string name="site_is_using_your_location">%1$s 正在使用你的位置信息</string>
     <string name="text_size_site_exception_add">为特定网站设置字体大小。</string>
-    <string name="only_take_effect_for_current_site">仅对当前站点生效</string>
+    <string name="only_take_effect_for_current_site">仅对当前网站生效</string>
     <string name="disable_webrtc">禁用 WebRTC</string>
     <string name="lock">锁定</string>
     <string name="unlock">解锁</string>
@@ -995,6 +997,7 @@
     <string name="export_thread">导出聊天</string>
     <string name="password_manager">密码管理器</string>
     <string name="offer_to_save_passwords">提示保存密码</string>
+    <string name="sites_that_never_save_passwords">不保存密码的网站</string>
     <string name="passwords">保存的密码</string>
     <string name="save_password">保存密码</string>
     <string name="password_saved">密码已保存</string>
@@ -1044,4 +1047,5 @@
     <string name="open_file_no_available_options">无可用打开方式查看此文件</string>
     <string name="open_option_pdf_preview">预览 PDF</string>
     <string name="image_saved_to_gallery">图片已保存到图库</string>
+    <string name="action_download_image">下载图片</string>
 </resources>
