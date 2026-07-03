@@ -59,7 +59,7 @@
     <string name="bookmarks_imported">%1$d نشانک ها وارد شد</string>
     <string name="custom_url">نشانی اینترنتی شخصی سازی شده</string>
     <string name="baidu_url">بایدو</string>
-    <string name="shenma_url">ShenMa</string>
+    <string name="shenma_url">شین‌ماء</string>
     <string name="bing_url">بینگ</string>
     <string name="haosou_url">جستجو 360</string>
     <string name="duckduckgo_url">داک‌داک‌گو</string>
@@ -139,7 +139,7 @@
     <string name="code_500">سرویس در دسترس نیست.</string>
     <string name="syns_success">همگام سازی انجام شد</string>
     <string name="upload_success">آپلود انجام شد</string>
-    <string name="log_out">خارج میشوید؟</string>
+    <string name="log_out">خارج می‌شوید؟</string>
     <string name="crash_info">مشکلی پیش آمده. :(</string>
     <string name="crash_restart">شروع مجدد</string>
     <string name="crash_close">بستن</string>
@@ -161,7 +161,7 @@
     <string name="default_set">پیش فرض</string>
     <string name="picture">تصویر</string>
     <string name="text">متن</string>
-    <string name="html_code">کد HTML</string>
+    <string name="html_code">کد اچ‌تی‌ام‌ال</string>
     <string name="action_view_image">نمایش تصویر</string>
     <string name="block_popup">مسدود کردن پاپ آپ</string>
     <string name="action_save_web_page">ذخیره صفحه وب</string>
@@ -175,7 +175,7 @@
     <string name="set_to_default">بعد از با کردن لینک %1$s به عنوان یش فرض تنظیم میشود. لطفا ویا را برای بازکردن لیک انتخاب کنید.</string>
     <string name="sync_prompt">تنظیمات و نشانک های فعلی شما جایگزین میشوند. ادامه میدهید؟</string>
     <string name="upload_prompt">تنظیمات و نشانک های فعلی شما ارسال میشود. ادامه میدهید؟</string>
-    <string name="none">هیچ کدام</string>
+    <string name="none">هیچکدام</string>
     <string name="check_permission">دسترسی رد شد. آیا میخواهید از تنظیمات فعال کنید؟</string>
     <string name="restore_tabs_hint">آیا می خواهید برگه های بسته نشده را از جلسه گذشته بازیابی کنید؟</string>
     <string name="restore_tabs">برگه ها را هنگام راه اندازی مجدد بازیابی کنید</string>
@@ -446,7 +446,7 @@
     <string name="allow_webpage_access_to_clipboard">اجازه دسترسی صفحه وب به بریده‌دان</string>
     <string name="ask_to_allow_webpage_to_copy_text">آیا مطمئن هستید که می‌خواهید متن را از %DOMAIN% کپی کنید؟</string>
     <string name="option_allow">اجازه</string>
-    <string name="option_deny">رد کردن</string>
+    <string name="option_deny">رد‌کردن</string>
     <string name="search_bar_style">سبک نوار</string>
     <string name="search_bar_style_line">خطی</string>
     <string name="search_bar_style_rectangle">مستطیل</string>
@@ -485,7 +485,7 @@
     <string name="app_downloading_files">ویا در حال دانلود فایل‌هاست</string>
     <string name="app_downloading_files_subtitle">برای مشاهده دانلودها ضربه بزنید</string>
     <string name="built_in_download_manager">مدیر بارگیری داخلی</string>
-    <string name="cancel_all">لغو همه</string>
+    <string name="cancel_all">لغو‌همه</string>
     <string name="message_delete_selected_download_tasks">آیا می‌خواهید این وظایف بارگیری (%1$d در مجموع) را حذف کنید؟</string>
     <string name="file_name">نام پرونده</string>
     <string name="rename">تغییرنام</string>
@@ -612,7 +612,7 @@
     <string name="title_close_all_tabs">بستن همه زبانه‌ها</string>
     <string name="message_close_all_tabs_before_disabling_incognito_mode">آیا می‌خواهید تمام تب‌ها را قبل از غیرفعال کردن حالت ناشناس ببندید؟</string>
     <string name="action_close">بستن</string>
-    <string name="action_keep">نگه‌دار</string>
+    <string name="action_keep">نگه‌داشتن</string>
     <string name="desc_bookmark_folder">%1$s پوشه</string>
     <string name="message_splash_agreement">با استفاده از ویا، با %1$s و %2$s ما موافقت می کنید.</string>
     <string name="translation_engine_google_in_page">ترجمه درون صفحه گوگل</string>
@@ -1029,4 +1029,25 @@
     <string name="enter_password_for_exporting_data">شما در‌حال صادر‌کردن داده‌های رمزگذاری شده هستید، لطفاً برای رمزگذاری داده‌ها، گذرواژه را وارد کنید. لطفاً آن را به خاطر بسپارید. پس از فراموش کردن گذرواژه، نمی‌توانید داده‌های رمزگذاری شده را وارد کنید.</string>
     <string name="password_required">گذرواژه لازم است</string>
     <string name="password_required_for_importing_data">شما در حال وارد کردن داده‌های رمزگذاری شده هستید. لطفاً گذرواژه را برای رمزگشایی داده‌ها و وارد کردن آنها وارد کنید. اگر گذرواژه نادرست باشد، فقط داده‌های رمزگذاری نشده وارد می‌شوند.</string>
+<string name="copy_username">رونوشت نام‌کاربری</string>
+    <string name="copy_password">رونوشت رمز‌عبور</string>
+    <string name="unlock_device_to_copy_password">باز‌کردن قفل دستگاه برای رونوشت رمز‌عبور</string>
+    <string name="unlock_failed_with_message">باز کردن قفل ناموفق بود: %1$s</string>
+    <string name="no_passwords">بدون رمز‌عبور</string>
+    <string name="report_abuse">گزارش تخلف</string>
+    <string name="reason_distracting_content">محتوای حواس‌پرت‌کننده‌ی بیش از حد</string>
+    <string name="reason_dangerous_website">این یک وب‌سایت خطرناک است</string>
+    <string name="reason_display_incorrectly">صفحه به درستی نمایش داده نمی‌شود</string>
+    <string name="remarks_optional">توضیحات (اختیاری)</string>
+    <string name="report_submitted">گزارش با موفقیت ارسال شد</string>
+    <string name="unknown_website">وب‌سایت ناشناخته</string>
+    <string name="toast_install_script_failed_parse_error">تجزیه اسکریپت ناموفق بود!</string>
+    <string name="fullscreen_0">همیشه نشان بده</string>
+    <string name="open_in_via">باز‌کردن در ویا</string>
+    <string name="oops">اوخ</string>
+    <string name="disable_custom_tabs">غیرفعال کردن برگ‌های سفارشی</string>
+    <string name="disable_custom_tabs_description">وقتی برنامه‌های شخص ثالث از طریق برگ‌های سفارشی، لینک‌ها را باز می‌کنند، از تغییر مسیر صرف‌نظر کنید</string>
+    <string name="open_file_no_available_options">راهی برای باز کردن این فایل وجود ندارد.</string>
+    <string name="open_option_pdf_preview">پیش‌نمایش پی‌دی‌اف</string>
+    <string name="image_saved_to_gallery">تصویر در گالری ذخیره شد</string>
 </resources>
