@@ -670,6 +670,8 @@
     <string name="action_close_other_tabs">Close other tabs</string>
     <string name="action_close_tabs_to_the_bottom">Close tabs to the bottom</string>
     <string name="action_close_tabs_to_the_top">Close tabs to the top</string>
+    <string name="action_close_tabs_to_the_left">Close tabs to the left</string>
+    <string name="action_close_tabs_to_the_right">Close tabs to the right</string>
     <string name="title_permission_request">Permission request</string>
     <string name="message_permission_request">%1$s would like to use</string>
     <string name="list_item_dash">- %1$s</string>
@@ -1010,6 +1012,7 @@
     <string name="export_thread">Export thread</string>
     <string name="password_manager">Password manager</string>
     <string name="offer_to_save_passwords">Offer to save passwords</string>
+    <string name="sites_that_never_save_passwords">Sites that never save passwords</string>
     <string name="passwords">Passwords</string>
     <string name="save_password">Save password</string>
     <string name="save_password_message">Save password on %1$s?</string>
@@ -1059,4 +1062,5 @@
     <string name="open_file_no_available_options">No available ways to open this file.</string>
     <string name="open_option_pdf_preview">Preview PDF</string>
     <string name="image_saved_to_gallery">Image saved to gallery</string>
+    <string name="action_download_image">Download image</string>
 </resources>
