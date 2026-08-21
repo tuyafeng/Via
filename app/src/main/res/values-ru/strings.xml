@@ -105,6 +105,7 @@
     <string name="operation_bottom">Перейти в конец</string>
     <string name="operation_input">Ввести адрес</string>
     <string name="operation_openbookmark">Открыть закладки</string>
+    <string name="operation_open_bookmarks_dialog">Открыть диалог закладок</string>
     <string name="operation_openhistory">Открыть историю</string>
     <string name="operation_closetab">Закрыть вкладку</string>
     <string name="operation_lasttab">Предыдущая вкладка</string>
@@ -261,7 +262,7 @@
     <string name="view_downloads">Просмотр</string>
     <string name="message_delete_downloading_task">Загруженный файл также будет удалён. Вы уверены?</string>
     <string name="message_delete_downloaded_task">Удалить загрузку?</string>
-    <string name="message_delete_downloaded_file">…также удалить загруженный файл</string>
+    <string name="message_delete_downloaded_file">Также удалить загруженный файл</string>
     <string name="block_popup_message">Заблокировано всплывающее окно</string>
     <string name="allow_popup">Разрешить сейчас</string>
     <string name="system_download_manager">Системный</string>
@@ -324,7 +325,7 @@
     <string name="agreement_message_short">Вы должны принять все условия, прежде чем начать пользоваться нашим сервисом.</string>
     <string name="agree_and_continue">Принять</string>
     <string name="disagree">Отклонить</string>
-    <string name="exit">Выход</string>
+    <string name="exit">Выйти</string>
     <string name="delete_account">Удалить учётную запись</string>
     <string name="delete_account_request_submitted">Запрос на удаление учётной записи отправлен</string>
     <string name="delete_account_hint">Удаление учётной записи с сервера</string>
@@ -471,7 +472,7 @@
     <string name="theme_color">Цвет темы</string>
     <string name="theme_color_dark">Тёмный</string>
     <string name="theme_color_light">Светлый</string>
-    <string name="processing_blob_data">Обработка больших двоичных объектов данных…</string>
+    <string name="processing_blob_data">Обработка двоичных объектов данных…</string>
     <string name="tineye_url">TinEye</string>
     <string name="login_username">Пользователь (создание при отсутствии)</string>
     <string name="read_and_agree">Необходимо прочитать и принять %1$s и %2$s</string>
@@ -1058,4 +1059,16 @@
     <string name="open_option_pdf_preview">Просмотр PDF</string>
     <string name="image_saved_to_gallery">Изображение сохранено в галерее</string>
     <string name="action_download_image">Загрузить изображение</string>
+    <string name="save_and_exit">Сохранить и выйти</string>
+    <string name="playback_speed_description">Скорость воспроизведения ×%1$s раз(а)</string>
+    <string name="tab_position_description">Вкладка %1$d из %2$d</string>
+    <string name="accessibility_selected">Выбрано</string>
+    <string name="accessibility_not_selected">Не выбрано</string>
+    <string name="move_tab_previous">Переместить вкладку выше</string>
+    <string name="move_tab_next">Переместить вкладку ниже</string>
+    <string name="key_is_set_as_value">%1$s установлен как %2$s</string>
+    <string name="search_shortcut">Ярлык поиска</string>
+    <string name="search_shortcut_description">Введите \"ярлык + пробел + запрос\" для поиска с помощью указанной системы, например: \"g Via\". Используйте не более 16 символов без пробелов или оставьте поле пустым, чтобы отключить функцию ярлыка.</string>
+    <string name="search_shortcut_invalid">Неправильный ярлык</string>
+    <string name="search_shortcut_duplicate">Этот ярлык уже используется</string>
 </resources>
