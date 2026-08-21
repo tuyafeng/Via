@@ -1052,4 +1052,16 @@
     <string name="open_option_pdf_preview">پیش‌نمایش پی‌دی‌اف</string>
     <string name="image_saved_to_gallery">تصویر در گالری ذخیره شد</string>
     <string name="action_download_image">بارگیری تصویر</string>
+    <string name="save_and_exit">ذخیره و خروج</string>
+    <string name="playback_speed_description">سرعت پخش، %1$s بار</string>
+    <string name="tab_position_description">برگه %1$d از %2$d</string>
+    <string name="accessibility_selected">انتخابی</string>
+    <string name="accessibility_not_selected">انتخاب نشده</string>
+    <string name="move_tab_previous">انتقال برگه به قبل</string>
+    <string name="move_tab_next">انتقال برگه به بعد</string>
+    <string name="key_is_set_as_value">%1$s به عنوان %2$s تنظیم شده</string>
+    <string name="search_shortcut">میانبر جستجو</string>
+    <string name="search_shortcut_description">برای جستجو با این موتور، "shortcut + space + query" را وارد کنید، برای مثال "g Via". از حداکثر 16 کاراکتر بدون فاصله استفاده کنید یا برای غیرفعال کردن میانبر آن را خالی بگذارید.</string>
+    <string name="search_shortcut_invalid">میانبر نامعتبر است</string>
+    <string name="search_shortcut_duplicate">این میانبر در‌حال استفاده است</string>
 </resources>
