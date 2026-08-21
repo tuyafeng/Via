@@ -105,6 +105,7 @@
     <string name="operation_bottom">پیمایش به پایین</string>
     <string name="operation_input">نشانی اینترنتی وارد شده</string>
     <string name="operation_openbookmark">بازکردن نشانک</string>
+    <string name="operation_open_bookmarks_dialog">بازکردن بخش نشانک‌ها</string>
     <string name="operation_openhistory">بازکردن تاریخچه</string>
     <string name="operation_closetab">بستن زبانه</string>
     <string name="operation_lasttab">اخرین زبانه</string>
