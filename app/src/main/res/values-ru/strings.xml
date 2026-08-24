@@ -1071,4 +1071,6 @@
     <string name="search_shortcut_description">Введите \"ярлык + пробел + запрос\" для поиска с помощью указанной системы, например: \"g Via\". Используйте не более 16 символов без пробелов или оставьте поле пустым, чтобы отключить функцию ярлыка.</string>
     <string name="search_shortcut_invalid">Неправильный ярлык</string>
     <string name="search_shortcut_duplicate">Этот ярлык уже используется</string>
+    <string name="site_conf_exists">Настройки сайта %1$s уже существуют</string>
+    <string name="disable_predictive_back_gesture">Отключить жест возврата назад</string>
 </resources>
