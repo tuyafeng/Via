@@ -97,6 +97,7 @@
     <string name="toast_clear_defaults">Wyczyść domyślne</string>
     <string name="toast_copy_url_successful">Skopiowano adres.</string>
     <string name="toast_copy_text_successful">Skopiowano tekst.</string>
+    <string name="toast_copy_image_successful">Skopiowano obraz.</string>
     <string name="incognito_on">Włączono tryb prywatny.</string>
     <string name="incognito_off">Wyłączono tryb prywatny.</string>
     <string name="operation_none">Brak operacji</string>
@@ -223,7 +224,7 @@
     <string name="import_or_export_bookmarks">Importuj / eksportuj zakładki</string>
     <string name="export_bookmarks">Eksportuj</string>
     <string name="back_forward_gesture">Gest przechodzenia wstecz / dalej</string>
-    <string name="toolbar_settings_hint">Kliknij (przeciągnij) poniższe przyciski, aby ustawić działanie po ich przytrzymaniu (przeciągnięciu). Przytrzymaj, aby zobaczyć ich obecne ustawienie.</string>
+    <string name="toolbar_settings_hint">Stuknij, aby ustawić czynność dla długiego naciśnięcia; wykonaj długie naciśnięcie, aby ją wyświetlić; albo przesuń palcem, aby ustawić czynność dla gestu przesunięcia.</string>
     <string name="action_modify">Modyfikuj</string>
     <string name="operation_hint">Operacje, gesty, itp.</string>
     <string name="adblock_info">Zablokowane reklamy: %1$d, zaoszczędzony transfer: %2$s.</string>
@@ -264,6 +265,7 @@
     <string name="import_data">Importuj dane</string>
     <string name="import_data_failed">Nie zaimportowano danych.</string>
     <string name="import_data_succeed">Zaimportowano dane.</string>
+    <string name="import_data_encrypted_skipped_wrong_password">Nieprawidłowe hasło. Import zaszyfrowanych danych został pominięty.</string>
     <string name="export_data">Eksportuj dane</string>
     <string name="export_data_to">Wyeksportowano dane do pliku\n%1$s.</string>
     <string name="always_restore">Zawsze przywracaj</string>
@@ -489,6 +491,15 @@
     <string name="theme_color_dark">Ciemny</string>
     <string name="theme_color_light">Jasny</string>
     <string name="processing_blob_data">Przetwarzanie blobów…</string>
+    <string name="blob_download_error">%1$s (B%2$02d)</string>
+    <string name="blob_error_unknown">Pobieranie obiektu Blob nie powiodło się</string>
+    <string name="blob_error_source">Nie można pobrać ze strony źródłowej</string>
+    <string name="blob_error_fetch">Nie można pobrać danych obiektu Blob</string>
+    <string name="blob_error_read">Nie można odczytać danych obiektu Blob</string>
+    <string name="blob_error_timeout">Upłynął limit czasu transferu danych obiektu Blob</string>
+    <string name="blob_error_interrupted">Strona zmieniona; pobieranie obiektu Blob zostało przerwane</string>
+    <string name="blob_error_cache">Nie można przetworzyć pliku pamięci podręcznej obiektu Blob</string>
+    <string name="blob_error_data">Nieprawidłowe dane transferu obiektu Blob</string>
     <string name="tineye_url">TinEye</string>
     <string name="login_username">Nazwa użytkownika (jeśli konto nie istnieje, zostanie utworzone)</string>
     <string name="read_and_agree">%1$s i %2$s - akceptuję</string>
@@ -510,6 +521,7 @@
     <string name="rename">Zmień nazwę</string>
     <string name="message_re_download">Usunąć pobrany plik i pobrać ponownie %1$s?</string>
     <string name="share_image">Udostępnij obraz</string>
+    <string name="action_copy_image">Skopiuj obraz</string>
     <string name="ssl_warning_insecure_connection_message">Połączenie z %1$s nie jest bezpieczne:\n%2$s\nKontynuować?</string>
     <string name="ssl_warning_dont_ask_again">Nie pytaj ponownie w tej sesji</string>
     <string name="ssl_warning_certificate_untrusted">Certyfikat nie jest zaufany</string>
@@ -590,6 +602,8 @@
         <b><tt>@match/@exclude-match</tt></b>: Określ czy skrypt powinien być wykonywany. Zalecane jest korzystanie z klucza <tt>@match</tt> zamiast <tt>@include</tt>.
         <br /><br />
         <b><tt>@include/@exclude</tt></b>: Stary sposób na określenie czy skrypt powinien być wykonywany.
+        <br /><br />
+        <b><tt>@noframes</tt></b>: Uruchamiaj skrypt tylko na stronie najwyższego poziomu, a nie w ramkach czy ramkach iframe. Ten znacznik nie przyjmuje żadnej wartości.
         <br /><br />
         <b><tt>@version</tt></b>: Wersja skryptu.
         <br /><br />
@@ -962,6 +976,7 @@
     <string name="show_background_in_settings">Pokazuj tło w ustawieniach</string>
     <string name="show_background_in_settings_toast">Zmiany zajdą przy następnym otwarciu ustawień.</string>
     <string name="toolbars_settings">Ustawienia pasków narzędzi</string>
+    <string name="toolbar">Pasek narzędzi</string>
     <string name="user_agent_in_desktop_mode">Agent użytkownika w pełnej wersji stron</string>
     <string name="user_agent_reduction">Ograniczenie agenta użytkownika</string>
     <string name="user_agent_reduction_description">Usuń informacje o urządzeniu i pomniejszy numer wersji z agenta użytkownika.</string>
@@ -1093,4 +1108,26 @@
     <string name="search_shortcut_duplicate">Ten skrót jest już używany</string>
     <string name="site_conf_exists">Konfiguracja strony dla %1$s już istnieje.</string>
     <string name="disable_predictive_back_gesture">Wyłącz predykcyjny gest powrotu</string>
+    <string name="fab_settings_title">Pływający przycisk</string>
+    <string name="fab_actions_summary">W górę: %1$s\nW dół: %2$s\nW lewo: %3$s\nW prawo: %4$s</string>
+    <string name="fab_preview_hint">Przeciągnij pływający przycisk w górę, w dół, w lewo lub w prawo, aby przypisać do niego działanie</string>
+    <string name="operation_show_tabs_panel">Pokaż panel kart</string>
+    <string name="action_select_text">Zaznacz tekst</string>
+    <string name="translate_panel_title">Tłumacz stronę internetową</string>
+    <string name="translate_provider">Dostawca tłumaczeń</string>
+    <string name="auto_translate_site">Automatycznie tłumacz tę stronę</string>
+    <string name="restore_original">Przywróć oryginał</string>
+    <string name="translation_start_failed">Nie można rozpocząć tłumaczenia. Spróbuj ponownie.</string>
+    <string name="translation_failed">Tłumaczenie nie powiodło się. Spróbuj ponownie później.</string>
+    <string name="translation_paused">Tłumaczenie wstrzymane po 5 kolejnych nieudanych żądaniach HTTP. Zadania zostały zachowane; kliknij „Przetłumacz”, aby kontynuować.</string>
+    <string name="open_translation_settings">Otwórz ustawienia tłumaczenia</string>
+    <string name="translation_settings">Ustawienia tłumaczenia</string>
+    <string name="translation_provider_test_idle">Testuj połączenie z dostawcą tłumaczeń</string>
+    <string name="translation_provider_test_testing">Testowanie połączenia z dostawcą tłumaczeń</string>
+    <string name="translation_provider_test_success">Dostawca tłumaczeń jest dostępny; kliknij, aby przetestować ponownie</string>
+    <string name="translation_provider_test_error">Dostawca tłumaczeń jest niedostępny; kliknij, aby przetestować ponownie</string>
+    <string name="desc_expand_folder">Rozwiń %1$s</string>
+    <string name="desc_collapse_folder">Zwiń %1$s</string>
+    <string name="settings_search">Szukaj</string>
+    <string name="fill_password_for_site">Wypełnij hasło dla %1$s</string>
 </resources>
