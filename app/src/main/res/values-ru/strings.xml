@@ -97,6 +97,7 @@
     <string name="toast_clear_defaults">Очистите значения по умолчанию</string>
     <string name="toast_copy_url_successful">Адрес скопирован</string>
     <string name="toast_copy_text_successful">Текст скопирован</string>
+    <string name="toast_copy_image_successful">Изображение скопировано</string>
     <string name="incognito_on">Режим \"инкогнито\" включён</string>
     <string name="incognito_off">Режим \"инкогнито\" отключён</string>
     <string name="operation_none">Нет</string>
@@ -210,7 +211,7 @@
     <string name="import_or_export_bookmarks">Импорт/экспорт закладок</string>
     <string name="export_bookmarks">Экспорт закладок</string>
     <string name="back_forward_gesture">Жест \"назад–вперёд\"</string>
-    <string name="toolbar_settings_hint">Нажмите кнопку ниже для установки своего действия при длительном нажатии, удерживайте для просмотра установленного действия.</string>
+    <string name="toolbar_settings_hint">Нажмите кнопку для установки своего действия при длительном нажатии, удерживайте нажатие для просмотра установленного действия или используйте жест для установки своего действия жестом.</string>
     <string name="action_modify">Изменить</string>
     <string name="operation_hint">Управление жестами, кнопками и т.д.</string>
     <string name="adblock_info">Включено: %1$d рекламных объявлений заблокировано, %2$s сэкономлено</string>
@@ -246,6 +247,7 @@
     <string name="import_data">Импорт данных</string>
     <string name="import_data_failed">Ошибка при импортировании данных!</string>
     <string name="import_data_succeed">Импорт данных выполнен успешно</string>
+    <string name="import_data_encrypted_skipped_wrong_password">Неправильный пароль. Зашифрованные данные не импортированы.</string>
     <string name="export_data">Экспорт данных</string>
     <string name="export_data_to">Экспорт данных в: %1$s</string>
     <string name="always_restore">Восстанавливать</string>
@@ -472,7 +474,16 @@
     <string name="theme_color">Цвет темы</string>
     <string name="theme_color_dark">Тёмный</string>
     <string name="theme_color_light">Светлый</string>
-    <string name="processing_blob_data">Обработка двоичных объектов данных…</string>
+    <string name="processing_blob_data">Обработка данных двоичного объекта…</string>
+    <string name="blob_download_error">%1$s (B%2$02d)</string>
+    <string name="blob_error_unknown">Ошибка при загрузке двоичного объекта</string>
+    <string name="blob_error_source">Загрузка с исходной страницы невозможна</string>
+    <string name="blob_error_fetch">Невозможно получить данные двоичного объекта</string>
+    <string name="blob_error_read">Невозможно прочитать данные двоичного объекта</string>
+    <string name="blob_error_timeout">Время ожидания передачи данных двоичного объекта истекло</string>
+    <string name="blob_error_interrupted">Страница изменилась, загрузка двоичного объекта прервана</string>
+    <string name="blob_error_cache">Невозможно обработать файл кеша двоичного объекта</string>
+    <string name="blob_error_data">Неправильные данные передачи двоичного объекта</string>
     <string name="tineye_url">TinEye</string>
     <string name="login_username">Пользователь (создание при отсутствии)</string>
     <string name="read_and_agree">Необходимо прочитать и принять %1$s и %2$s</string>
@@ -494,6 +505,7 @@
     <string name="rename">Переименовать</string>
     <string name="message_re_download">Удалить загруженный файл и повторно загрузить %1$s?</string>
     <string name="share_image">Поделиться изображением</string>
+    <string name="action_copy_image">Копировать изображение</string>
     <string name="ssl_warning_insecure_connection_message">Подключение к %1$s небезопасно:\n%2$s\nПродолжить?</string>
     <string name="ssl_warning_dont_ask_again">Больше не спрашивать об этом в данном сеансе</string>
     <string name="ssl_warning_certificate_untrusted">Сертификат не является доверенным</string>
@@ -565,6 +577,8 @@
         <b><tt>@match/@exclude-match</tt></b>: правила, определяющие, следует ли выполнять скрипт. Рекомендуется использовать <tt>@match</tt> вместо <tt>@include</tt>.
         <br /><br />
         <b><tt>@include/@exclude</tt></b>: старый способ определения необходимости выполнения скрипта.
+        <br /><br />
+        <b><tt>@noframes</tt></b>: выполнять скрипт только на верхнем уровне страницы, но не в frames или iframes. Не имеет параметров.
         <br /><br />
         <b><tt>@version</tt></b>: версия пользовательского скрипта.
         <br /><br />
@@ -785,8 +799,8 @@
     <string name="search_in_via">Поиск в Via</string>
     <string name="following_filters_invalid_message">Следующие фильтры имеют неправильный формат:</string>
     <string name="customize_menu">Панель меню</string>
-    <string name="hold_and_drag_to_rearrange_items">Перетаскивайте зажатым для изменения порядка</string>
-    <string name="hold_and_drag_or_tap_to_add_item">Перетаскивайте зажатым или нажмите для добавления</string>
+    <string name="hold_and_drag_to_rearrange_items">Перетаскивайте зажатием для изменения порядка</string>
+    <string name="hold_and_drag_or_tap_to_add_item">Перетаскивайте зажатием или нажмите для добавления</string>
     <string name="enable_tab_bar">Панель вкладок</string>
     <string name="enable_scripts">Использовать скрипты</string>
     <string name="scripts_enabled">Скрипты включены</string>
@@ -841,7 +855,7 @@
     <string name="exit_message_if_incognito_mode_is_on">Все открытые вкладки будут закрыты без возможности восстановления. Вы уверены, что хотите выйти из приложения?</string>
     <string name="dont_remind_me_again">Больше не напоминать</string>
     <string name="cannot_work_javascript_is_blocked">Выполнение возможно только при включённом JavaScript</string>
-    <string name="cannot_work_on_this_site">На данном сайте выполнение невозможно</string>
+    <string name="cannot_work_on_this_site">На этом сайте выполнение невозможно</string>
     <string name="one_filter_per_line">По одному фильтру на строку</string>
     <string name="modified_content_has_not_been_saved_message">Изменённое содержимое не сохранено. Сохранить?</string>
     <string name="operation_opensettings">Открыть настройки</string>
@@ -936,6 +950,7 @@
     <string name="show_background_in_settings">Показывать фон в настройках</string>
     <string name="show_background_in_settings_toast">Изменение вступит в силу при следующем входе в настройки</string>
     <string name="toolbars_settings">Панели инструментов</string>
+    <string name="toolbar">Панель инструментов</string>
     <string name="user_agent_in_desktop_mode">UserAgent для полной версии страницы</string>
     <string name="user_agent_reduction">Сокращать UserAgent</string>
     <string name="user_agent_reduction_description">Убирать информацию об устройстве и второстепенную версию из UserAgent</string>
@@ -1066,4 +1081,26 @@
     <string name="search_shortcut_duplicate">Этот ярлык уже используется</string>
     <string name="site_conf_exists">Настройки сайта %1$s уже существуют</string>
     <string name="disable_predictive_back_gesture">Отключить жест возврата назад</string>
+    <string name="fab_settings_title">Плавающая кнопка</string>
+    <string name="fab_actions_summary">Вверх: %1$s\nВниз: %2$s\nВлево: %3$s\nВправо: %4$s</string>
+    <string name="fab_preview_hint">Перетащите плавающую кнопку вверх, вниз, влево или вправо, чтобы назначить соответствующее действие</string>
+    <string name="operation_show_tabs_panel">Показать панель вкладок</string>
+    <string name="action_select_text">Выбрать текст</string>
+    <string name="translate_panel_title">Перевод страницы</string>
+    <string name="translate_provider">Система перевода</string>
+    <string name="auto_translate_site">Автоперевод этого сайта</string>
+    <string name="restore_original">Показать оригинал</string>
+    <string name="translation_start_failed">Невозможно начать перевод. Повторите попытку.</string>
+    <string name="translation_failed">Ошибка перевода. Повторите попытку позже.</string>
+    <string name="translation_paused">Перевод приостановлен после 5 последовательных ошибок HTTP-запросов. Задача сохранена; нажмите \"Перевод\" для продолжения.</string>
+    <string name="open_translation_settings">Открыть настройки перевода</string>
+    <string name="translation_settings">Настройки перевода</string>
+    <string name="translation_provider_test_idle">Проверить подключение системы перевода</string>
+    <string name="translation_provider_test_testing">Проверка подключения системы перевода</string>
+    <string name="translation_provider_test_success">Система перевода доступна; нажмите для повторной проверки</string>
+    <string name="translation_provider_test_error">Система перевода недоступна; нажмите для повторной проверки</string>
+    <string name="desc_expand_folder">Развернуть %1$s</string>
+    <string name="desc_collapse_folder">Свернуть %1$s</string>
+    <string name="settings_search">Поиск</string>
+    <string name="fill_password_for_site">Заполнить пароль для %1$s</string>
 </resources>
