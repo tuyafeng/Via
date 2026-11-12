@@ -384,7 +384,6 @@
   <string name="threads">Теми</string>
   <string name="toast_enable_tab_bar">Будь ласка, виберіть інший режим інтерфейсу панелі інструментів, щоб увімкнути панель вкладок</string>
   <string name="toolbars_settings">Налаштування панелей</string>
-  <string name="translation_engine_microsoft">перекладач Microsoft</string>
   <string name="two_row_toolbar">Дворядкова панель інструментів</string>
   <string name="unable_to_add_font">Не вдалося додати шрифт, код помилки: %1$d</string>
   <string name="unlock">Розблокувати</string>
@@ -791,7 +790,6 @@
     <string name="action_keep">Залишити</string>
     <string name="desc_bookmark_folder">Тека %1$s</string>
     <string name="message_splash_agreement">Використовуючи Via, ви погоджуєтесь з нашими: %1$s та %2$s.</string>
-    <string name="translation_engine_google_in_page">Перекладач сторінок Google</string>
     <string name="title_feedback">Зворотній зв\'язок</string>
     <string name="action_view_cookies">Перегляд Cookies</string>
     <string name="title_cookies_for_site">Cookies для %1$s</string>
@@ -810,12 +808,7 @@
     <string name="action_choose_folder">Вибір теки…</string>
     <string name="title_permission_denied">Відмовлено в дозволі</string>
     <string name="message_reselect_download_location">Дозвіл до сховища для завантаження відкликано. Ще раз виберіть розташування папки для завантаження.</string>
-    <string name="detect_language">Визначити мову</string>
-    <string name="title_source_language">Мова оригіналу</string>
     <string name="title_target_language">Мова перекладу</string>
-    <string name="desc_swap_language">Змінити мови</string>
-    <string name="desc_paste_text">Вставити текст</string>
-    <string name="translation_engine_google_text">Перекладач тексту Google</string>
     <string name="title_scripts_for_site">Скрипти для %1$s</string>
     <string name="disabled">Вимкнено</string>
     <string name="enabled">Увімкнено</string>

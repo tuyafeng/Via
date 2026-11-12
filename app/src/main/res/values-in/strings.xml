@@ -622,7 +622,6 @@
     <string name="action_keep">Simpan</string> 
     <string name="desc_bookmark_folder">folder %1$s</string> 
     <string name="message_splash_agreement">Dengan menggunakan Via, Anda menyetujui %1$s dan %2$s kami.</string> 
-    <string name="translation_engine_google_in_page">Terjemahan dalam halaman Google</string> 
     <string name="title_feedback">Masukan</string> 
     <string name="action_view_cookies">Lihat Cookie</string> 
     <string name="title_cookies_for_site">Cookie untuk %1$s</string> 
@@ -641,12 +640,7 @@
     <string name="action_choose_folder">Pilih folder…</string> 
     <string name="title_permission_denied">Izin ditolak</string> 
     <string name="message_reselect_download_location">Izin penyimpanan untuk lokasi unduhan telah dicabut. Silakan pilih kembali lokasi folder unduhan.</string> 
-    <string name="detect_language">Deteksi bahasa</string> 
-    <string name="title_source_language">Bahasa sumber</string> 
     <string name="title_target_language">Bahasa sasaran</string> 
-    <string name="desc_swap_language">Tukar bahasa</string> 
-    <string name="desc_paste_text">Tempel teks</string> 
-    <string name="translation_engine_google_text">Penerjemah teks Google</string> 
     <string name="saucenao_url">SauceNAO</string>
     <string name="iqdb_url">IQDB</string> 
     <string name="iqdb_3d_url">3D IQDB</string> 
@@ -956,7 +950,6 @@
     </plurals>
     <string name="find">Cari</string>
     <string name="google_lens_url">Google Lens</string>
-    <string name="translation_engine_microsoft">Penerjemah Microsoft</string>
     <string name="ai">AI</string>
     <string name="threads">Thread</string>
     <string name="new_thread">Thread baru</string>

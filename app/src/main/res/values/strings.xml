@@ -97,6 +97,7 @@
     <string name="toast_clear_defaults">Please clear defaults</string>
     <string name="toast_copy_url_successful">Link copied successfully</string>
     <string name="toast_copy_text_successful">Text copied successfully</string>
+    <string name="toast_copy_image_successful">Image copied successfully</string>
     <string name="incognito_on">You\'ve gone incognito</string>
     <string name="incognito_off">Incognito is off</string>
     <string name="operation_none">None</string>
@@ -210,7 +211,7 @@
     <string name="import_or_export_bookmarks">Import/export bookmarks</string>
     <string name="export_bookmarks">Export bookmarks</string>
     <string name="back_forward_gesture">Back/Forward gesture</string>
-    <string name="toolbar_settings_hint">Press a selected button below to set its long-press action, or long-press it to check what action has been set. You can also slide the toolbar to set the slide action.</string>
+    <string name="toolbar_settings_hint">Tap to set a long-press action, long-press to view it, or swipe to set a swipe action</string>
     <string name="action_modify">Modify</string>
     <string name="operation_hint">Gestures, shortcuts, function keys</string>
     <string name="adblock_info">Enabled: %1$d ads blocked, %2$s saved</string>
@@ -246,6 +247,7 @@
     <string name="import_data">Import data</string>
     <string name="import_data_failed">Failed to import data!</string>
     <string name="import_data_succeed">Data imported successfully!</string>
+    <string name="import_data_encrypted_skipped_wrong_password">Incorrect password. Encrypted data import skipped.</string>
     <string name="export_data">Export data</string>
     <string name="export_data_to">Export data to: %1$s</string>
     <string name="always_restore">Always restore</string>
@@ -473,6 +475,15 @@
     <string name="theme_color_dark">Dark</string>
     <string name="theme_color_light">Light</string>
     <string name="processing_blob_data">Processing blob data…</string>
+    <string name="blob_download_error">%1$s (B%2$02d)</string>
+    <string name="blob_error_unknown">Blob download failed</string>
+    <string name="blob_error_source">Cannot download from the source page</string>
+    <string name="blob_error_fetch">Cannot retrieve Blob data</string>
+    <string name="blob_error_read">Cannot read Blob data</string>
+    <string name="blob_error_timeout">Blob data transfer timed out</string>
+    <string name="blob_error_interrupted">Page changed; Blob download interrupted</string>
+    <string name="blob_error_cache">Cannot process the Blob cache file</string>
+    <string name="blob_error_data">Invalid Blob transfer data</string>
     <string name="tineye_url">TinEye</string>
     <string name="login_username">Username (the account will be created if not exist)</string>
     <string name="read_and_agree">Please read and agree to %1$s and %2$s</string>
@@ -494,6 +505,7 @@
     <string name="rename">Rename</string>
     <string name="message_re_download">Are you sure you want to delete the downloaded file and re-download %1$s?</string>
     <string name="share_image">Share image</string>
+    <string name="action_copy_image">Copy image</string>
     <string name="ssl_warning_insecure_connection_message">Connection to %1$s is not secure:\n%2$s\nProceed anyway?</string>
     <string name="ssl_warning_dont_ask_again">Don\'t ask again for this browsing session</string>
     <string name="ssl_warning_certificate_untrusted">Certificate is not trusted</string>
@@ -571,6 +583,8 @@
         <br /><br />
         <b><tt>@include/@exclude</tt></b>: The old way to decide whether a script should be executed.
         <br /><br />
+        <b><tt>@noframes</tt></b>: Run the script only in the top-level page, not in frames or iframes. This tag takes no value.
+        <br /><br />
         <b><tt>@version</tt></b>: The version of the userscript.
         <br /><br />
         <b><tt>@description</tt></b>: The description of the userscript.
@@ -623,7 +637,6 @@
     <string name="action_keep">Keep</string>
     <string name="desc_bookmark_folder">%1$s folder</string>
     <string name="message_splash_agreement">By using Via, you agree to our %1$s and %2$s.</string>
-    <string name="translation_engine_google_in_page">Google in-page translate</string>
     <string name="title_feedback">Feedback</string>
     <string name="action_view_cookies">View Cookies</string>
     <string name="title_cookies_for_site">Cookies for %1$s</string>
@@ -642,12 +655,7 @@
     <string name="action_choose_folder">Choose a folder…</string>
     <string name="title_permission_denied">Permission denied</string>
     <string name="message_reselect_download_location">The storage permission for the download location has been revoked. Please re-select the download folder location.</string>
-    <string name="detect_language">Detect language</string>
-    <string name="title_source_language">Source language</string>
     <string name="title_target_language">Target language</string>
-    <string name="desc_swap_language">Swap language</string>
-    <string name="desc_paste_text">Paste text</string>
-    <string name="translation_engine_google_text">Google text translate</string>
     <string name="saucenao_url">SauceNAO</string>
     <string name="iqdb_url">IQDB</string>
     <string name="iqdb_3d_url">3D IQDB</string>
@@ -947,6 +955,7 @@
     <string name="show_background_in_settings">Show background in settings</string>
     <string name="show_background_in_settings_toast">It will take effect the next time you open Settings</string>
     <string name="toolbars_settings">Toolbars settings</string>
+    <string name="toolbar">Toolbar</string>
     <string name="user_agent_in_desktop_mode">User-agent in desktop mode</string>
     <string name="user_agent_reduction">User-agent reduction</string>
     <string name="user_agent_reduction_description">Remove device information and minor version information from User-agent</string>
@@ -959,7 +968,6 @@
     </plurals>
     <string name="find">Find</string>
     <string name="google_lens_url">Google Lens</string>
-    <string name="translation_engine_microsoft">Microsoft translate</string>
     <string name="ai">AI</string>
     <string name="threads">Threads</string>
     <string name="new_thread">New thread</string>
@@ -1078,4 +1086,26 @@
     <string name="search_shortcut_duplicate">This shortcut is already in use</string>
     <string name="site_conf_exists">A site configuration for %1$s already exists.</string>
     <string name="disable_predictive_back_gesture">Disable predictive back gesture</string>
+    <string name="fab_settings_title">Floating button</string>
+    <string name="fab_actions_summary">Up: %1$s\nDown: %2$s\nLeft: %3$s\nRight: %4$s</string>
+    <string name="fab_preview_hint">Drag the floating button up, down, left or right to set an action</string>
+    <string name="operation_show_tabs_panel">Show tabs panel</string>
+    <string name="action_select_text">Select text</string>
+    <string name="translate_panel_title">Translate web page</string>
+    <string name="translate_provider">Translation provider</string>
+    <string name="auto_translate_site">Automatically translate this site</string>
+    <string name="restore_original">Restore original</string>
+    <string name="translation_start_failed">Unable to start translation. Please try again.</string>
+    <string name="translation_failed">Translation failed. Please try again later.</string>
+    <string name="translation_paused">Translation paused after 5 consecutive HTTP request failures. Tasks retained; click \"Translate\" to continue.</string>
+    <string name="open_translation_settings">Open translation settings</string>
+    <string name="translation_settings">Translation settings</string>
+    <string name="translation_provider_test_idle">Test translation provider connectivity</string>
+    <string name="translation_provider_test_testing">Testing translation provider connectivity</string>
+    <string name="translation_provider_test_success">Translation provider is available; click to test again</string>
+    <string name="translation_provider_test_error">Translation provider is unavailable; click to test again</string>
+    <string name="desc_expand_folder">Expand %1$s</string>
+    <string name="desc_collapse_folder">Collapse %1$s</string>
+    <string name="settings_search">Search</string>
+    <string name="fill_password_for_site">Fill password for %1$s</string>
 </resources>

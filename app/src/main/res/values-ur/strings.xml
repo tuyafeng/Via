@@ -574,7 +574,6 @@
     <string name="action_keep">برقرار رکھیں</string>
     <string name="desc_bookmark_folder">%1$s فولڈر</string>
     <string name="message_splash_agreement">Via استعمال کر کے، آپ ہماری %1$s اور %2$s سے اتفاق کرتے ہیں۔</string>
-    <string name="translation_engine_google_in_page">گوگل اِن پیج ٹرانسلیٹ</string>
     <string name="title_feedback">فیڈ بیک</string>
     <string name="action_view_cookies">کوکیز دیکھیں</string>
     <string name="title_cookies_for_site">%1$s کے لیے کوکیز</string>
@@ -593,12 +592,7 @@
     <string name="action_choose_folder">فولڈر چنیں…</string>
     <string name="title_permission_denied">اجازت دینے سے انکار کر دیا گیا</string>
     <string name="message_reselect_download_location">ڈاؤن لوڈ لوکیشن کے لیے اسٹوریج کی اجازت منسوخ کر دی گئی ہے۔ براہ کرم ڈاؤن لوڈ فولڈر کی لوکیشن دوبارہ منتخب کریں۔</string>
-    <string name="detect_language">زبان کی شناخت کریں</string>
-    <string name="title_source_language">سورس زبان</string>
     <string name="title_target_language">ٹارگٹ زبان</string>
-    <string name="desc_swap_language">زبانیں تبدیل کریں</string>
-    <string name="desc_paste_text">ٹیکسٹ پیسٹ کریں</string>
-    <string name="translation_engine_google_text">گوگل ٹیکسٹ ٹرانسلیٹ</string>
     <string name="saucenao_url">SauceNAO</string>
     <string name="iqdb_url">IQDB</string>
     <string name="iqdb_3d_url">3D IQDB</string>
@@ -908,7 +902,6 @@
     </plurals>
     <string name="find">تلاش کریں</string>
     <string name="google_lens_url">گوگل لینز (Google Lens)</string>
-    <string name="translation_engine_microsoft">مائیکروسافٹ ٹرانسلیٹ</string>
     <string name="ai">اے آئی (AI)</string>
     <string name="threads">تھریڈز (Threads)</string>
     <string name="new_thread">نیا تھریڈ</string>

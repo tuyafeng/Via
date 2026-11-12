@@ -635,7 +635,6 @@
     <string name="action_keep">إبقاء</string>
     <string name="desc_bookmark_folder">مجلد %1$s</string>
     <string name="message_splash_agreement">باستخدام Via، فإنك توافق على %1$s و %2$s.</string>
-    <string name="translation_engine_google_in_page">ترجمة Google داخل الصفحة</string>
     <string name="title_feedback">ملاحظات</string>
     <string name="action_view_cookies">عرض ملفات تعريف الارتباط</string>
     <string name="title_cookies_for_site">ملفات تعريف الارتباط لـ %1$s</string>
@@ -654,12 +653,7 @@
     <string name="action_choose_folder">اختر مجلدًا…</string>
     <string name="title_permission_denied">تم رفض الإذن</string>
     <string name="message_reselect_download_location">تم إلغاء إذن التخزين لموقع التنزيل. يرجى إعادة تحديد موقع مجلد التنزيل.</string>
-    <string name="detect_language">اكتشاف اللغة</string>
-    <string name="title_source_language">اللغة المصدر</string>
     <string name="title_target_language">اللغة الهدف</string>
-    <string name="desc_swap_language">تبديل اللغة</string>
-    <string name="desc_paste_text">لصق النص</string>
-    <string name="translation_engine_google_text">ترجمة نصوص Google</string>
     <string name="saucenao_url">SauceNAO</string>
     <string name="iqdb_url">IQDB</string>
     <string name="iqdb_3d_url">3D IQDB</string>
@@ -975,7 +969,6 @@
     </plurals>
     <string name="find">بحث</string>
     <string name="google_lens_url">عدسة Google</string>
-    <string name="translation_engine_microsoft">ترجمة Microsoft</string>
     <string name="ai">الذكاء الاصطناعي</string>
     <string name="threads">المحادثات</string>
     <string name="new_thread">محادثة جديدة</string>

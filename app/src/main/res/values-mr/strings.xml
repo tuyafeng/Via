@@ -620,7 +620,6 @@
 <string name="action_keep">ठेवा</string>
 <string name="desc_bookmark_folder">%1$s फोल्डर</string>
 <string name="message_splash_agreement">Via वापरण्यासाठी, तुम्ही आमच्या %1$s आणि %2$s सह सहमती दर्शवता.</string>
-<string name="translation_engine_google_in_page">Google इन-पेज भाषांतर</string>
 <string name="title_feedback">अभिप्राय</string>
 <string name="action_view_cookies">कुकीज पहा</string>
 <string name="title_cookies_for_site">%1$s साठी कुकीज</string>
@@ -639,12 +638,7 @@
 <string name="action_choose_folder">फोल्डर निवडा…</string>
 <string name="title_permission_denied">परवानगी नाकारली</string>
 <string name="message_reselect_download_location">डाउनलोड स्थानासाठी स्टोरेज परवानगी रद्द केली गेली आहे. कृपया पुन्हा स्थान निवडा.</string>
-<string name="detect_language">भाषा शोधा</string>
-<string name="title_source_language">स्रोत भाषा</string>
 <string name="title_target_language">लक्ष्य भाषा</string>
-<string name="desc_swap_language">भाषा बदलवा</string>
-<string name="desc_paste_text">मजकूर चिकटवा</string>
-<string name="translation_engine_google_text">Google मजकूर भाषांतर</string>
 <string name="saucenao_url">SauceNAO</string>
 <string name="iqdb_url">IQDB</string>
 <string name="iqdb_3d_url">3D IQDB</string>
@@ -954,7 +948,6 @@
     </plurals>
 <string name="find">शोधा</string>
 <string name="google_lens_url">Google लेन्स</string>
-<string name="translation_engine_microsoft">Microsoft भाषांतर</string>
 <string name="ai">एआय</string>
 <string name="threads">थ्रेड्स</string>
 <string name="new_thread">नवीन थ्रेड</string>

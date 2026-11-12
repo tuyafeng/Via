@@ -643,7 +643,6 @@
     <string name="action_keep">Zachowaj</string>
     <string name="desc_bookmark_folder">%1$s folder</string>
     <string name="message_splash_agreement">Korzystając z aplikacji Via, akceptujesz treść dokumentów: %1$s i %2$s.</string>
-    <string name="translation_engine_google_in_page">Tłumacz Google (strony)</string>
     <string name="title_feedback">Opinia</string>
     <string name="action_view_cookies">Pokaż ciasteczka</string>
     <string name="title_cookies_for_site">Ciasteczka dla strony %1$s</string>
@@ -662,12 +661,7 @@
     <string name="action_choose_folder">Wybierz folder…</string>
     <string name="title_permission_denied">Odmowa uprawnień</string>
     <string name="message_reselect_download_location">Uprawnienie do zapisu w tym miejscu zostało cofnięte. Ustaw ponownie miejsce do pobierania plików.</string>
-    <string name="detect_language">Wykryj język</string>
-    <string name="title_source_language">Język źródłowy</string>
     <string name="title_target_language">Język docelowy</string>
-    <string name="desc_swap_language">Zamień</string>
-    <string name="desc_paste_text">Wklej tekst</string>
-    <string name="translation_engine_google_text">Tłumacz Google (tekst)</string>
     <string name="saucenao_url">SauceNAO</string>
     <string name="iqdb_url">IQDB</string>
     <string name="iqdb_3d_url">3D IQDB</string>
@@ -981,7 +975,6 @@
     </plurals>
     <string name="find">Znajdź</string>
     <string name="google_lens_url">Obiektyw Google</string>
-    <string name="translation_engine_microsoft">Tłumacz Microsoftu</string>
     <string name="ai">Sztuczna inteligencja</string>
     <string name="threads">Wątki</string>
     <string name="new_thread">Nowy wątek</string>

@@ -622,7 +622,6 @@
     <string name="action_keep">유지</string>
     <string name="desc_bookmark_folder">%1$s 폴더</string>
     <string name="message_splash_agreement">Via를 사용함으로써 귀하는 당사의 %1$s 및 %2$s에 동의하는 것입니다.</string>
-    <string name="translation_engine_google_in_page">Google 페이지 내 번역</string>
     <string name="title_feedback">피드백</string>
     <string name="action_view_cookies">쿠키 보기</string>
     <string name="title_cookies_for_site">%1$s 사이트의 쿠키</string>
@@ -641,12 +640,7 @@
     <string name="action_choose_folder">폴더 선택…</string>
     <string name="title_permission_denied">권한 거부됨</string>
     <string name="message_reselect_download_location">다운로드 위치에 대한 저장소 권한이 취소되었습니다. 다운로드 폴더 위치를 다시 선택해주세요.</string>
-    <string name="detect_language">언어 감지</string>
-    <string name="title_source_language">원본 언어</string>
     <string name="title_target_language">대상 언어</string>
-    <string name="desc_swap_language">언어 바꾸기</string>
-    <string name="desc_paste_text">텍스트 붙여넣기</string>
-    <string name="translation_engine_google_text">Google 텍스트 번역</string>
     <string name="saucenao_url">SauceNAO</string>
     <string name="iqdb_url">IQDB</string>
     <string name="iqdb_3d_url">3D IQDB</string>
@@ -956,7 +950,6 @@
     </plurals>
     <string name="find">찾기</string>
     <string name="google_lens_url">Google 렌즈</string>
-    <string name="translation_engine_microsoft">Microsoft 번역</string>
     <string name="ai">AI</string>
     <string name="threads">스레드</string>
     <string name="new_thread">새 스레드</string>

@@ -622,7 +622,6 @@
     <string name="action_keep">Keep</string>
     <string name="desc_bookmark_folder">%1$s folder</string>
     <string name="message_splash_agreement">By using Via, you agree to our %1$s and %2$s.</string>
-    <string name="translation_engine_google_in_page">Google in-page translate</string>
     <string name="title_feedback">Feedback</string>
     <string name="action_view_cookies">View Cookies</string>
     <string name="title_cookies_for_site">Cookies for %1$s</string>
@@ -641,12 +640,7 @@
     <string name="action_choose_folder">Choose a folder…</string>
     <string name="title_permission_denied">Permission denied</string>
     <string name="message_reselect_download_location">The storage permission for the download location has been revoked. Please re-select the download folder location.</string>
-    <string name="detect_language">Detect language</string>
-    <string name="title_source_language">Source language</string>
     <string name="title_target_language">Target language</string>
-    <string name="desc_swap_language">Swap language</string>
-    <string name="desc_paste_text">Paste text</string>
-    <string name="translation_engine_google_text">Google text translate</string>
     <string name="saucenao_url">SauceNAO</string>
     <string name="iqdb_url">IQDB</string>
     <string name="iqdb_3d_url">3D IQDB</string>

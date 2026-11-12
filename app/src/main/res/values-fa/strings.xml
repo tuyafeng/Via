@@ -616,7 +616,6 @@
     <string name="action_keep">نگه‌داشتن</string>
     <string name="desc_bookmark_folder">%1$s پوشه</string>
     <string name="message_splash_agreement">با استفاده از ویا، با %1$s و %2$s ما موافقت می کنید.</string>
-    <string name="translation_engine_google_in_page">ترجمه درون صفحه گوگل</string>
     <string name="title_feedback">ﺑﺎﺯﺧﻮﺭﺩ</string>
     <string name="action_view_cookies">مشاهده کوکی‌ها</string>
     <string name="title_cookies_for_site">کوکی‌ها برای %1$s</string>
@@ -635,12 +634,7 @@
     <string name="action_choose_folder">یک پوشه انتخاب کنید...</string>
     <string name="title_permission_denied">مجوز رد شد</string>
     <string name="message_reselect_download_location">مجوز دسترسی به محل دانلود لغو شده است. لطفاً محل پوشه دانلود را مجدداً انتخاب کنید.</string>
-    <string name="detect_language">تشخیص زبان</string>
-    <string name="title_source_language">زبان مبدا</string>
     <string name="title_target_language">زبان مقصد</string>
-    <string name="desc_swap_language">تغییر زبان</string>
-    <string name="desc_paste_text">چسباندن متن</string>
-    <string name="translation_engine_google_text">ترجمه متن گوگل</string>
     <string name="saucenao_url">SauceNAO</string>
     <string name="iqdb_url">IQDB</string>
     <string name="iqdb_3d_url">IQDB سه بعدی</string>
@@ -948,7 +942,6 @@
     </plurals>
     <string name="find">یافتن</string>
     <string name="google_lens_url">لنز گوگل</string>
-    <string name="translation_engine_microsoft">ترجمه مایکروسافت</string>
     <string name="ai">هوش‌مصنوعی</string>
     <string name="threads">موضوعات</string>
     <string name="new_thread">موضوع جدید</string>

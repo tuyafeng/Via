@@ -622,7 +622,6 @@
     <string name="action_keep">Mantener</string>
     <string name="desc_bookmark_folder">Carpeta %1$s</string>
     <string name="message_splash_agreement">Al utilizar Via, aceptas nuestras %1$s y %2$s.</string>
-    <string name="translation_engine_google_in_page">Traducción integrada de Google</string>
     <string name="title_feedback">Comentarios</string>
     <string name="action_view_cookies">Ver cookies</string>
     <string name="title_cookies_for_site">Cookies de %1$s</string>
@@ -641,12 +640,7 @@
     <string name="action_choose_folder">Seleccionar una carpeta...</string>
     <string name="title_permission_denied">Permiso denegado</string>
     <string name="message_reselect_download_location">El permiso de almacenamiento para la ruta de descarga ha sido revocado. Vuelve a seleccionar la ruta de la carpeta de descarga.</string>
-    <string name="detect_language">Detectar idioma</string>
-    <string name="title_source_language">Idioma original</string>
     <string name="title_target_language">Idioma objetivo</string>
-    <string name="desc_swap_language">Intercambiar idioma</string>
-    <string name="desc_paste_text">Pegar texto</string>
-    <string name="translation_engine_google_text">Traducción de texto de Google</string>
     <string name="saucenao_url">SauceNAO</string>
     <string name="iqdb_url">IQDB</string>
     <string name="iqdb_3d_url">3D IQDB</string>
@@ -956,7 +950,6 @@
     </plurals>
     <string name="find">Encontrar</string>
     <string name="google_lens_url">Google Lens</string>
-    <string name="translation_engine_microsoft">Traductor de Microsoft</string>
     <string name="ai">IA</string>
     <string name="threads">Hilos</string>
     <string name="new_thread">Nuevo hilo</string>

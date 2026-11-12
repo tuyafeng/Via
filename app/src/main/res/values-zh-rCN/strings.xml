@@ -98,6 +98,7 @@
     <string name="toast_clear_defaults">请清除原先默认设置</string>
     <string name="toast_copy_url_successful">已复制链接</string>
     <string name="toast_copy_text_successful">已复制文本</string>
+    <string name="toast_copy_image_successful">已复制图片</string>
     <string name="incognito_on">已进入隐身浏览</string>
     <string name="incognito_off">退出隐身浏览</string>
     <string name="operation_none">无操作</string>
@@ -147,7 +148,7 @@
     <string name="crash_close">关闭应用</string>
     <string name="upload_completed">上传完成</string>
     <string name="ui_mode">应用布局</string>
-    <string name="addon_download">下载管理</string>
+    <string name="addon_download">下载器</string>
     <string name="quick_back">返回不重载</string>
     <string name="open_with">其它应用打开</string>
     <string name="download_completed">下载完成</string>
@@ -211,7 +212,7 @@
     <string name="import_or_export_bookmarks">导入/备份书签</string>
     <string name="export_bookmarks">备份书签</string>
     <string name="back_forward_gesture">滑动屏幕前进后退</string>
-    <string name="toolbar_settings_hint">点击下列按钮来设置它的长按事件，长按查看它的事件。你也可以滑动工具栏来设置滑动事件。</string>
+    <string name="toolbar_settings_hint">点击设置长按动作，长按查看，滑动设置滑动动作</string>
     <string name="action_modify">修改</string>
     <string name="operation_hint">手势，快捷方式，功能键</string>
     <string name="adblock_info">已拦截 %1$d 个广告，共节省 %2$s</string>
@@ -247,6 +248,7 @@
     <string name="import_data">导入数据</string>
     <string name="import_data_failed">导入数据失败！</string>
     <string name="import_data_succeed">导入数据成功！</string>
+    <string name="import_data_encrypted_skipped_wrong_password">密码错误，已跳过加密数据导入</string>
     <string name="export_data">导出数据</string>
     <string name="export_data_to">导出数据到：%1$s</string>
     <string name="always_restore">总是恢复</string>
@@ -471,6 +473,15 @@
     <string name="theme_color_dark">暗色</string>
     <string name="theme_color_light">亮色</string>
     <string name="processing_blob_data">处理 blob 数据中…</string>
+    <string name="blob_download_error">%1$s (B%2$02d)</string>
+    <string name="blob_error_unknown">Blob 下载失败</string>
+    <string name="blob_error_source">无法在来源页面执行下载</string>
+    <string name="blob_error_fetch">无法获取 Blob 数据</string>
+    <string name="blob_error_read">Blob 数据读取失败</string>
+    <string name="blob_error_timeout">Blob 数据传输超时</string>
+    <string name="blob_error_interrupted">页面变化，Blob 下载已中断</string>
+    <string name="blob_error_cache">Blob 缓存文件处理失败</string>
+    <string name="blob_error_data">Blob 传输数据异常</string>
     <string name="tineye_url">TinEye</string>
     <string name="login_username">用户名 (账号不存在将自动创建)</string>
     <string name="read_and_agree">请阅读并同意 %1$s 与 %2$s</string>
@@ -492,6 +503,7 @@
     <string name="rename">重命名</string>
     <string name="message_re_download">你确定删除已下载的文件并重新下载 %1$s 吗？</string>
     <string name="share_image">分享图片</string>
+    <string name="action_copy_image">复制图片</string>
     <string name="ssl_warning_insecure_connection_message">与 %1$s 的连接不安全：\n%2$s\n是否继续？</string>
     <string name="ssl_warning_dont_ask_again">本次浏览过程中不再询问</string>
     <string name="ssl_warning_certificate_untrusted">证书不受信任</string>
@@ -561,6 +573,8 @@
         <br /><br />
         <b><tt>@include/@exclude</tt></b>：旧版本中定义作用域的方式。
         <br /><br />
+        <b><tt>@noframes</tt></b>：仅在顶层页面运行脚本，不在 frame 或 iframe 中运行。此标记无需填写值。
+        <br /><br />
         <b><tt>@version</tt></b>：脚本版本。
         <br /><br />
         <b><tt>@description</tt></b>：脚本描述。
@@ -613,7 +627,6 @@
     <string name="action_keep">保留</string>
     <string name="desc_bookmark_folder">%1$s 文件夹</string>
     <string name="message_splash_agreement">在使用 Via 前，你需要认真阅读并同意我们的 %1$s 和 %2$s。</string>
-    <string name="translation_engine_google_in_page">谷歌页内翻译</string>
     <string name="title_feedback">意见反馈</string>
     <string name="action_view_cookies">查看 Cookies</string>
     <string name="title_cookies_for_site">%1$s 的 Cookies</string>
@@ -632,12 +645,7 @@
     <string name="action_choose_folder">选择一个目录…</string>
     <string name="title_permission_denied">没有权限</string>
     <string name="message_reselect_download_location">下载目录的存储权限已被撤销。请重新选择下载目录。</string>
-    <string name="detect_language">检测语言</string>
-    <string name="title_source_language">源语言</string>
     <string name="title_target_language">目标语言</string>
-    <string name="desc_swap_language">交换语言</string>
-    <string name="desc_paste_text">粘贴文本</string>
-    <string name="translation_engine_google_text">谷歌文本翻译</string>
     <string name="saucenao_url">SauceNAO</string>
     <string name="iqdb_url">IQDB</string>
     <string name="iqdb_3d_url">3D IQDB</string>
@@ -934,6 +942,7 @@
     <string name="show_background_in_settings">在设置中显示背景</string>
     <string name="show_background_in_settings_toast">将在下次打开设置时生效</string>
     <string name="toolbars_settings">工具栏设置</string>
+    <string name="toolbar">工具栏</string>
     <string name="user_agent_in_desktop_mode">电脑模式下的浏览器标识</string>
     <string name="user_agent_reduction">简化浏览器标识</string>
     <string name="user_agent_reduction_description">从浏览器标识中移除设备信息及次要版本信息</string>
@@ -944,7 +953,6 @@
     </plurals>
     <string name="find">查找</string>
     <string name="google_lens_url">谷歌 Lens</string>
-    <string name="translation_engine_microsoft">微软翻译</string>
     <string name="ai">AI</string>
     <string name="threads">所有主题</string>
     <string name="new_thread">新主题</string>
@@ -1063,4 +1071,26 @@
     <string name="search_shortcut_duplicate">该快捷词已被使用</string>
     <string name="site_conf_exists">%1$s 的网站设定已存在。</string>
     <string name="disable_predictive_back_gesture">禁用预测返回手势</string>
+    <string name="fab_settings_title">悬浮球</string>
+    <string name="fab_actions_summary">向上：%1$s\n向下：%2$s\n向左：%3$s\n向右：%4$s</string>
+    <string name="fab_preview_hint">向上、下、左、右拖动悬浮球可设置对应动作</string>
+    <string name="operation_show_tabs_panel">显示标签面板</string>
+    <string name="action_select_text">自由复制</string>
+    <string name="translate_panel_title">翻译网页</string>
+    <string name="translate_provider">翻译源</string>
+    <string name="auto_translate_site">自动翻译该网站</string>
+    <string name="restore_original">恢复原文</string>
+    <string name="translation_start_failed">无法开始翻译，请重试。</string>
+    <string name="translation_failed">翻译失败，请稍后重试。</string>
+    <string name="translation_paused">连续 5 次 HTTP 请求失败，翻译已暂停。任务已保留，点击“翻译”继续。</string>
+    <string name="open_translation_settings">打开翻译设置</string>
+    <string name="translation_settings">翻译设置</string>
+    <string name="translation_provider_test_idle">测试翻译源连通性</string>
+    <string name="translation_provider_test_testing">正在测试翻译源连通性</string>
+    <string name="translation_provider_test_success">翻译源可用，点击重新测试</string>
+    <string name="translation_provider_test_error">翻译源不可用，点击重新测试</string>
+    <string name="desc_expand_folder">展开%1$s</string>
+    <string name="desc_collapse_folder">收起%1$s</string>
+    <string name="settings_search">搜索</string>
+    <string name="fill_password_for_site">为 %1$s 填充密码</string>
 </resources>
