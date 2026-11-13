@@ -2,7 +2,7 @@
 
 <div align="center"><img src="http://viayoo.com/en/images/logo.png" alt="Via Logo" height="100"/></div>
 
-English | [简体中文](./README_zh_CN.md) | [繁體中文](./README_zh_TW.md) | [Português](./README_pt_BR.md) | [Español](./README_es_ES.md) | [Türkçe](./README_tr_TR.md) | [日本語](./README_ja_JP.md) | [Русский](./README_ru_RU.md) | [العربية](./README_ar_AR.md) | [한국어](./README_ko_KR.md)
+[English](./README.md) | [简体中文](./README_zh_CN.md) | [繁體中文](./README_zh_TW.md) | [Português](./README_pt_BR.md) | [Español](./README_es_ES.md) | [Türkçe](./README_tr_TR.md) | [日本語](./README_ja_JP.md) | [Русский](./README_ru_RU.md) | [العربية](./README_ar_AR.md) | [বাংলা](./README_bn_IN.md) | 한국어
 
 ### 소개
 
@@ -63,4 +63,3 @@ Via는 안드로이드 플랫폼에 내장된 WebView 렌더러를 사용합니�
 GitHub에서 [이슈를 등록](https://github.com/tuyafeng/Via/issues/new)할 수도 있습니다. 이슈는 일주일에 한 번 정도 확인하고 답변합니다.
 
 꼭 필요한 경우 [이곳](mailto:yafengtu@gmail.com)으로 이메일을 보낼 수 있지만, 답장을 못 드릴 수도 있는 점 양해 바랍니다.
-
