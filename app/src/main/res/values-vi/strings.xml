@@ -1071,4 +1071,7 @@
     <string name="search_shortcut_duplicate">Phím tắt này đã được sử dụng</string>
     <string name="site_conf_exists">Cấu hình trang cho %1$s đã tồn tại.</string>
     <string name="disable_predictive_back_gesture">Tắt cử chỉ vuốt quay lại xem trước (Predictive back)</string>
+    <string name="settings_search">Tìm kiếm</string>
+    <string name="translation_settings">Cài đặt dịch ngôn ngữ</string>
+    <string name="open_translation_settings">Mở cài đặt dịch ngôn ngữ</string>
 </resources>
