@@ -205,9 +205,6 @@
     <string name="missing_webview">অ্যান্ড্রয়েড সিস্টেম ওয়েবভিউ সঠিকভাবে ইনস্টল করা যায়নি। আপনি কি এখনই এটি ইনস্টল করতে চান?</string>
     <string name="install">ইনস্টল</string>
     <string name="crash_hint">অ্যাপটি ক্র্যাশ করেছে বলে আমরা অত্যন্ত দুঃখিত</string>
-    <string name="glean">গ্লান</string>
-    <string name="contact_us">যোগাযোগ করুন</string>
-    <string name="official_website">অফিসিয়াল ওয়েবসাইট</string>
     <string name="action_pic_mode">চিত্র মোড</string>
     <string name="find_next">পরবর্তী সন্ধান করুন</string>
     <string name="find_pre">শেষ সন্ধান করুন</string>

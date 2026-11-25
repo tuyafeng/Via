@@ -195,9 +195,6 @@
   <string name="missing_webview">Android System WebView не встановлено коректно. Встановити його зараз?</string>
   <string name="install">Встановити</string>
   <string name="crash_hint">Перепрошуємо за збій</string>
-  <string name="glean">Збирати</string>
-  <string name="contact_us">Зворотній зв\'язок</string>
-  <string name="official_website">Офіційний сайт</string>
     <string name="action_pic_mode">Режим зображення</string>
   <string name="find_next">Наступне</string>
   <string name="find_pre">Попереднє</string>

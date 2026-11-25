@@ -195,9 +195,6 @@
     <string name="missing_webview">Android System WebView er ikke installeret korrekt. Vil du installere det nu?</string>
     <string name="install">Installer</string>
     <string name="crash_hint">Vi beklager, at appen gik ned.</string>
-    <string name="glean">Glean</string>
-    <string name="contact_us">Kontakt os</string>
-    <string name="official_website">Officiel hjemmeside</string>
     <string name="action_pic_mode">Billedtilstand</string>
     <string name="find_next">Find næste</string>
     <string name="find_pre">Find sidste</string>

@@ -207,9 +207,6 @@
     <string name="missing_webview">Android System WebView ay hindi na-installed ng maayos. Gusto mo bang i-install ngayon?</string>
     <string name="install">I-install</string>
     <string name="crash_hint">Pasensya na\'t ay app ay nagcrash.</string>
-    <string name="glean">Glean</string>
-    <string name="contact_us">Kontakin kami</string>
-    <string name="official_website">Opisyal na website</string>
     <string name="action_pic_mode">Picture mode</string>
     <string name="find_next">Hanapin ang sunod</string>
     <string name="find_pre">Hanapin ang dulo</string>

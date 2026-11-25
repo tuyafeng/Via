@@ -191,9 +191,6 @@
     <string name="missing_webview">एन्ड्रोइड प्रणाली वेबभ्यु सही तरीकाले स्थापित छैन। के तपाइँ अहिले स्थापना गर्न चाहानुहुन्छ?</string>
     <string name="install">स्थापना गर्नुहोस्</string>
     <string name="crash_hint">हामी दु: खी छौं कि अनुप्रयोग क्र्यास भयो।</string>
-    <string name="glean">ग्लेन</string>
-    <string name="contact_us">हामीलाई सम्पर्क गर्नुहोस</string>
-    <string name="official_website">आधिकारिक वेबसाइट</string>
     <string name="action_pic_mode">तस्वीर मोड</string>
     <string name="find_next">अर्को फेला पार्नुहोस्</string>
     <string name="find_pre">अन्तिम फेला पार्नुहोस्</string>

@@ -196,9 +196,6 @@
     <string name="missing_webview">برنامه وب نما اندروید به درستی نصب نشده است. آیا مایل هستید الان نصب کنید؟</string>
     <string name="install">نصب</string>
     <string name="crash_hint">متأسفیم که برنامه خراب شد.</string>
-    <string name="glean">جمع کن</string>
-    <string name="contact_us">ارتباط با ما</string>
-    <string name="official_website">وبسایت رسمی</string>
     <string name="action_pic_mode">حالت تصویر</string>
     <string name="find_next">یافتن بعدی</string>
     <string name="find_pre">یافتن آخرین</string>
@@ -1048,7 +1045,6 @@
     <string name="action_download_image">بارگیری تصویر</string>
     <string name="save_and_exit">ذخیره و خروج</string>
     <string name="playback_speed_description">سرعت پخش، %1$s بار</string>
-    <string name="tab_position_description">برگه %1$d از %2$d</string>
     <string name="accessibility_selected">انتخابی</string>
     <string name="accessibility_not_selected">انتخاب نشده</string>
     <string name="move_tab_previous">انتقال برگه به قبل</string>

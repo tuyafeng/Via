@@ -195,9 +195,6 @@
     <string name="missing_webview">Android System WebView ni pravilno nameščen. Ga želite namestiti sedaj?</string>
     <string name="install">Namesti</string>
     <string name="crash_hint">Žal nam je, da se je aplikacija sesula.</string>
-    <string name="glean">Razišči</string>
-    <string name="contact_us">Kontaktirajte nas</string>
-    <string name="official_website">Uradno spletno mesto</string>
     <string name="action_pic_mode">Slikovni način</string>
     <string name="find_next">Najdi naslednjo ponovitev</string>
     <string name="find_pre">Najdi prejšnjo ponovitev</string>

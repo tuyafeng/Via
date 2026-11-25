@@ -206,9 +206,6 @@
     <string name="missing_webview">Android सिस्टम WebView को सही ढंग से स्थापित नहीं किया गया है। क्या आप इसे अभी स्थापित करना चाहते हैं?</string>
     <string name="install">इंस्टॉल करें</string>
     <string name="crash_hint">हमें बहुत खेद है कि ऐप क्रैश हो गया</string>
-    <string name="glean">बीनना</string>
-    <string name="contact_us">हमसे संपर्क करें</string>
-    <string name="official_website">सरकारी वेबसाइट</string>
     <string name="action_pic_mode">चित्र विधा</string>
     <string name="find_next">अगला ढूंढो</string>
     <string name="find_pre">अंतिम खोजें</string>

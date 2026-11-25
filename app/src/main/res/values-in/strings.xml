@@ -195,9 +195,6 @@
     <string name="missing_webview">Android System WebView tidak terpasang dengan benar. Apakah anda ingin memasangnya sekarang?</string> 
     <string name="install">Pasang</string> 
     <string name="crash_hint">Kami mohon maaf karena aplikasi mogok.</string> 
-    <string name="glean">Kutipan</string> 
-    <string name="contact_us">Hubungi kami</string> 
-    <string name="official_website">Situs web resmi</string>
     <string name="action_pic_mode">Mode gambar</string>
     <string name="find_next">Cari berikutnya</string> 
     <string name="find_pre">Cari sebelumnya</string> 

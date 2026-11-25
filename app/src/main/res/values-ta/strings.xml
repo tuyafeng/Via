@@ -207,9 +207,6 @@
     <string name="missing_webview">Android System WebView சரியாக நிறுவப்படவில்லை. இப்போது அதை நிறுவ விரும்புகிறீர்களா?</string>
     <string name="install">நிறுவு</string>
     <string name="crash_hint">பயன்பாடு செயலிழந்ததற்கு வருந்துகிறோம்.</string>
-    <string name="glean">Glean</string>
-    <string name="contact_us">எங்களை தொடர்பு கொள்ள</string>
-    <string name="official_website">அதிகாரப்பூர்வ வலைத்தளம்</string>
     <string name="action_pic_mode">பட முறை</string>
     <string name="find_next">அடுத்ததை தேடு</string>
     <string name="find_pre">கடைசியை தேடு</string>

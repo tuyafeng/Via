@@ -205,9 +205,6 @@
     <string name="missing_webview">Android System WebView nije dobro instaliran. Želite li ga instalirati sada?</string>
     <string name="install">Install</string>
     <string name="crash_hint">Žao nam je zbog rušenja aplikacije</string>
-    <string name="glean">Glean</string>
-    <string name="contact_us">Kontaktiraj nas</string>
-    <string name="official_website">Službena stranica</string>
     <string name="action_pic_mode">Način Slike</string>
     <string name="find_next">Pronađi sljedeći</string>
     <string name="find_pre">Pronađi zadnji</string>

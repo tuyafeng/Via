@@ -196,9 +196,6 @@
     <string name="missing_webview">Android System WebView 未正確安裝。立即去安裝？</string>
     <string name="install">安裝</string>
     <string name="crash_hint">十分抱歉，程式發生當機</string>
-    <string name="glean">拾穗</string>
-    <string name="contact_us">聯絡我們</string>
-    <string name="official_website">官方網站</string>
     <string name="action_pic_mode">圖片模式</string>
     <string name="find_next">尋找下一個</string>
     <string name="find_pre">尋找上一個</string>
@@ -457,6 +454,8 @@
     <string name="favorites_icon_color">圖示色彩</string>
     <string name="favorites_icon_color_colorful">繽紛</string>
     <string name="favorites_icon_color_transparent">透明</string>
+    <string name="search_location">搜尋位置</string>
+    <string name="address_bar">網址列</string>
     <string name="search_bar_effect">搜尋框效果</string>
     <string name="search_bar_effect_blur">模糊</string>
     <string name="search_bar_effect_transparent">透明</string>
@@ -903,7 +902,7 @@
     <string name="show_details">顯示細節</string>
     <string name="hide_details">隱藏細節</string>
     <plurals name="items">
-        <item quantity="other">%d 個專案</item>
+        <item quantity="other">%d 項</item>
     </plurals>
     <string name="no_images">無圖片</string>
     <string name="update_pending">開始更新\u2026</string>
@@ -1062,8 +1061,21 @@
     <string name="translation_provider_test_testing">正在測試翻譯來源連線</string>
     <string name="translation_provider_test_success">翻譯來源可用，點擊重新測試</string>
     <string name="translation_provider_test_error">翻譯來源無法使用，點擊重新測試</string>
+    <string name="translation_loading">正在翻譯目前內容</string>
+    <string name="translation_complete">目前內容翻譯完成</string>
+    <string name="translation_display_mode">顯示模式</string>
+    <string name="translation_only">僅譯文</string>
+    <string name="translation_bilingual">雙語</string>
     <string name="desc_expand_folder">展開%1$s</string>
     <string name="desc_collapse_folder">收合%1$s</string>
     <string name="settings_search">搜尋</string>
     <string name="fill_password_for_site">為 %1$s 填入密碼</string>
+    <string name="gestures">手勢</string>
+    <string name="video_gesture_settings">影片播放器手勢</string>
+    <string name="video_gesture_seek">滑動快轉倒轉</string>
+    <string name="video_gesture_speed">長按倍速</string>
+    <string name="video_gesture_volume">音量調整</string>
+    <string name="video_gesture_brightness">亮度調整</string>
+    <string name="hold_playback_speed">倍速播放中</string>
+    <string name="user_agent_for_site">瀏覽器標識（%1$s）</string>
 </resources>

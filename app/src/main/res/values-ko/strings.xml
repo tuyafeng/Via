@@ -195,9 +195,6 @@
     <string name="missing_webview">Android 시스템 WebView가 올바르게 설치되지 않았습니다. 지금 설치하시겠습니까?</string>
     <string name="install">설치</string>
     <string name="crash_hint">앱이 중지되어 죄송합니다.</string>
-    <string name="glean">Glean</string>
-    <string name="contact_us">문의하기</string>
-    <string name="official_website">공식 웹사이트</string>
     <string name="action_pic_mode">이미지 모드</string>
     <string name="find_next">다음 찾기</string>
     <string name="find_pre">이전 찾기</string>

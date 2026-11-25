@@ -207,9 +207,6 @@
     <string name="missing_webview">Android System WebView nu este instalat corect. Doriți să îl instalați acum?</string>
     <string name="install">Instalare</string>
     <string name="crash_hint">Ne cerem scuze că aplicația s-a închis neașteptat.</string>
-    <string name="glean">Glean</string>
-    <string name="contact_us">Contactează-ne</string>
-    <string name="official_website">Site oficial</string>
     <string name="action_pic_mode">Mod imagine</string>
     <string name="find_next">Găsire urm.</string>
     <string name="find_pre">Găsire ant.</string>

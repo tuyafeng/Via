@@ -190,9 +190,6 @@
    <string name="missing_webview">Android сістэма WebView не ўсталявана. Хочаце ўсталяваць яе?</string>
    <string name="install">Усталяваць</string>
    <string name="crash_hint">Нам вельмі шкада з-за краш прыкладання.</string>
-   <string name="glean">Цытата</string>
-   <string name="contact_us">Нашыя кантакты</string>
-   <string name="official_website">Афіцыйны вэб-сайт</string>
     <string name="action_pic_mode">Рэжым відарыса</string>
    <string name="find_next">Наступнае</string>
    <string name="find_pre">Папярэдняе</string>

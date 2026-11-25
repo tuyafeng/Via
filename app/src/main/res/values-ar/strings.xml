@@ -195,9 +195,6 @@
     <string name="missing_webview">لم يتم تثبيت Android System WebView بشكل صحيح. هل تود تثبيته الآن؟</string>
     <string name="install">تثبيت</string>
     <string name="crash_hint">نأسف لتعطل التطبيق.</string>
-    <string name="glean">جمع المعلومات</string>
-    <string name="contact_us">تواصل معنا</string>
-    <string name="official_website">الموقع الرسمي</string>
     <string name="action_pic_mode">وضع الصور</string>
     <string name="find_next">البحث عن التالي</string>
     <string name="find_pre">البحث عن السابق</string>

@@ -198,9 +198,6 @@
     <string name="missing_webview">Android System WebView 未正确安装。现在去安装？</string>
     <string name="install">安装</string>
     <string name="crash_hint">真的非常非常抱歉，应用发生了闪退。</string>
-    <string name="glean">拾穗</string>
-    <string name="contact_us">联系我们</string>
-    <string name="official_website">官方网站</string>
     <string name="action_pic_mode">看图模式</string>
     <string name="find_next">下一个</string>
     <string name="find_pre">上一个</string>
@@ -459,6 +456,8 @@
     <string name="favorites_icon_color">图标色彩</string>
     <string name="favorites_icon_color_colorful">多彩</string>
     <string name="favorites_icon_color_transparent">透明</string>
+    <string name="search_location">搜索位置</string>
+    <string name="address_bar">地址栏</string>
     <string name="search_bar_effect">搜索框效果</string>
     <string name="search_bar_effect_blur">模糊</string>
     <string name="search_bar_effect_transparent">透明</string>
@@ -905,7 +904,7 @@
     <string name="show_details">显示细节</string>
     <string name="hide_details">隐藏细节</string>
     <plurals name="items">
-        <item quantity="other">%d 个项目</item>
+        <item quantity="other">%d 项</item>
     </plurals>
     <string name="no_images">无图片</string>
     <string name="update_pending">开始更新\u2026</string>
@@ -1059,7 +1058,6 @@
     <string name="action_download_image">下载图片</string>
     <string name="save_and_exit">保存并退出</string>
     <string name="playback_speed_description">播放速度，当前 %1$s 倍</string>
-    <string name="tab_position_description">第 %1$d 个标签，共 %2$d 个</string>
     <string name="accessibility_selected">已选择</string>
     <string name="accessibility_not_selected">未选择</string>
     <string name="move_tab_previous">将标签向前移动</string>
@@ -1089,8 +1087,21 @@
     <string name="translation_provider_test_testing">正在测试翻译源连通性</string>
     <string name="translation_provider_test_success">翻译源可用，点击重新测试</string>
     <string name="translation_provider_test_error">翻译源不可用，点击重新测试</string>
+    <string name="translation_loading">正在翻译当前内容</string>
+    <string name="translation_complete">当前内容翻译完成</string>
+    <string name="translation_display_mode">显示模式</string>
+    <string name="translation_only">仅译文</string>
+    <string name="translation_bilingual">双语</string>
     <string name="desc_expand_folder">展开%1$s</string>
     <string name="desc_collapse_folder">收起%1$s</string>
     <string name="settings_search">搜索</string>
     <string name="fill_password_for_site">为 %1$s 填充密码</string>
+    <string name="gestures">手势</string>
+    <string name="video_gesture_settings">视频播放器手势</string>
+    <string name="video_gesture_seek">滑动快进快退</string>
+    <string name="video_gesture_speed">长按倍速</string>
+    <string name="video_gesture_volume">音量调节</string>
+    <string name="video_gesture_brightness">亮度调节</string>
+    <string name="hold_playback_speed">倍速播放中</string>
+    <string name="user_agent_for_site">浏览器标识（%1$s）</string>
 </resources>

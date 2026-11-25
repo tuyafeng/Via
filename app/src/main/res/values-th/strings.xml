@@ -195,9 +195,6 @@
     <string name="missing_webview">Android System WebView ติดตั้งไม่ถูกต้อง ต้องการติดตั้งตอนนี้หรือไม่?</string>
     <string name="install">ติดตั้ง</string>
     <string name="crash_hint">ขออภัยที่แอปเกิดข้อผิดพลาด</string>
-    <string name="glean">Glean</string>
-    <string name="contact_us">ติดต่อเรา</string>
-    <string name="official_website">เว็บไซต์อย่างเป็นทางการ</string>
     <string name="action_pic_mode">โหมดรูปภาพ</string>
     <string name="find_next">ค้นหาถัดไป</string>
     <string name="find_pre">ค้นหาก่อนหน้า</string>

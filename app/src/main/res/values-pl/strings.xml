@@ -210,9 +210,6 @@
     <string name="missing_webview">Systemowy moduł WebView nie jest (poprawnie) zainstalowany. Zainstalować go (ponownie)?</string>
     <string name="install">Instaluj</string>
     <string name="crash_hint">Przepraszamy za incydent.</string>
-    <string name="glean">Przeglądarka Via</string>
-    <string name="contact_us">Skontaktuj się z nami</string>
-    <string name="official_website">Oficjalna strona</string>
     <string name="action_pic_mode">Tryb obrazkowy</string>
     <string name="find_next">Następny</string>
     <string name="find_pre">Poprzedni</string>
@@ -1096,7 +1093,6 @@
     <string name="action_download_image">Pobierz obraz</string>
     <string name="save_and_exit">Zapisz i wyjdź</string>
     <string name="playback_speed_description">Prędkość odtwarzania, %1$s razy</string>
-    <string name="tab_position_description">Karta %1$d z %2$d</string>
     <string name="accessibility_selected">Wybrano</string>
     <string name="accessibility_not_selected">Nie wybrano</string>
     <string name="move_tab_previous">Przenieś kartę wcześniej</string>

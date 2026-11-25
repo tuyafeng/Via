@@ -195,9 +195,6 @@
 <string name="missing_webview">Android System WebView योग्यरित्या स्थापित केलेले नाही. तुम्हाला आता ते स्थापित करायचे आहे का?</string>
 <string name="install">स्थापित करा</string>
 <string name="crash_hint">आम्हाला वाईट वाटते की अ‍ॅप क्रॅश झाला.</string>
-<string name="glean">ग्लीन</string>
-<string name="contact_us">आमच्याशी संपर्क साधा</string>
-<string name="official_website">अधिकृत वेबसाइट</string>
 <string name="action_pic_mode">चित्र मोड</string>
 <string name="find_next">पुढील शोधा</string>
 <string name="find_pre">मागील शोधा</string>

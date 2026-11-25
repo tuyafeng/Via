@@ -206,9 +206,6 @@
     <string name="missing_webview">Android System WebView to‘g‘ri o‘rnatilmagan. Hoziroq o‘rnatishni istaysizmi?</string>
     <string name="install">O‘rnatish</string>
     <string name="crash_hint">Ilova ishdan chiqqanidan afsusdamiz.</string>
-    <string name="glean">To‘plash</string>
-    <string name="contact_us">Biz bilan aloqa</string>
-    <string name="official_website">Rasmiy sayt</string>
     <string name="action_pic_mode">Rasm rejimi</string>
     <string name="find_next">Keyingi</string>
     <string name="find_pre">Oxirgi</string>

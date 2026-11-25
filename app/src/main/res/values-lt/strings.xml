@@ -206,9 +206,6 @@
     <string name="missing_webview">Android WebView yra neteisingai įdiegtas. Ar norite jį įdiegti?</string>
     <string name="install">Įrašyti</string>
     <string name="crash_hint">Labai atsiprašome už šią klaidą</string>
-    <string name="glean">Greita ir Maža</string>
-    <string name="contact_us">Susisiekti su mumis</string>
-    <string name="official_website">Oficialus puslapis</string>
     <string name="action_pic_mode">Paveikslėlio režimas</string>
     <string name="find_next">Surasti sekantį</string>
     <string name="find_pre">Surasti buvusį</string>

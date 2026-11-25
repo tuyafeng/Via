@@ -197,9 +197,6 @@
     <string name="missing_webview">Android System WebView isn\'t installed correctly. Would you like to install it now?</string>
     <string name="install">Install</string>
     <string name="crash_hint">We\'re sorry that the app crashed.</string>
-    <string name="glean">Glean</string>
-    <string name="contact_us">Contact us</string>
-    <string name="official_website">Official website</string>
     <string name="action_pic_mode">Picture mode</string>
     <string name="find_next">Find next</string>
     <string name="find_pre">Find last</string>
@@ -461,6 +458,8 @@
     <string name="favorites_icon_color">Icon color</string>
     <string name="favorites_icon_color_colorful">Colorful</string>
     <string name="favorites_icon_color_transparent">Transparent</string>
+    <string name="search_location">Search location</string>
+    <string name="address_bar">Address bar</string>
     <string name="search_bar_effect">Bar effect</string>
     <string name="search_bar_effect_blur">Blur</string>
     <string name="search_bar_effect_transparent">Transparent</string>
@@ -1074,7 +1073,6 @@
     <string name="action_download_image">Download image</string>
     <string name="save_and_exit">Save &amp; Exit</string>
     <string name="playback_speed_description">Playback speed, %1$s times</string>
-    <string name="tab_position_description">Tab %1$d of %2$d</string>
     <string name="accessibility_selected">Selected</string>
     <string name="accessibility_not_selected">Not selected</string>
     <string name="move_tab_previous">Move tab earlier</string>
@@ -1104,8 +1102,21 @@
     <string name="translation_provider_test_testing">Testing translation provider connectivity</string>
     <string name="translation_provider_test_success">Translation provider is available; click to test again</string>
     <string name="translation_provider_test_error">Translation provider is unavailable; click to test again</string>
+    <string name="translation_loading">Translating current content</string>
+    <string name="translation_complete">Current content translated</string>
+    <string name="translation_display_mode">Display mode</string>
+    <string name="translation_only">Translation only</string>
+    <string name="translation_bilingual">Bilingual</string>
     <string name="desc_expand_folder">Expand %1$s</string>
     <string name="desc_collapse_folder">Collapse %1$s</string>
     <string name="settings_search">Search</string>
     <string name="fill_password_for_site">Fill password for %1$s</string>
+    <string name="gestures">Gestures</string>
+    <string name="video_gesture_settings">Video player gestures</string>
+    <string name="video_gesture_seek">Swipe to seek</string>
+    <string name="video_gesture_speed">Hold to speed up</string>
+    <string name="video_gesture_volume">Adjust volume</string>
+    <string name="video_gesture_brightness">Adjust brightness</string>
+    <string name="hold_playback_speed">Playing at increased speed</string>
+    <string name="user_agent_for_site">User agent (%1$s)</string>
 </resources>

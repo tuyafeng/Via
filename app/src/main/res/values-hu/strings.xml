@@ -202,9 +202,6 @@
     <string name="missing_webview">Az Android System WebView nincs helyesen telepítve. Szeretnéd most telepíteni?</string>
     <string name="install">Telepítés</string>
     <string name="crash_hint">Nagyon-nagyon sajnáljuk az összeomlást.</string>
-    <string name="glean">Glean</string>
-    <string name="contact_us">Kapcsolatfelvétel</string>
-    <string name="official_website">Hivatalos weboldal</string>
     <string name="action_pic_mode">Képnézegető Mód</string>
     <string name="find_next">Következő keresése</string>
     <string name="find_pre">Előző keresése</string>

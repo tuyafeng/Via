@@ -207,9 +207,6 @@
     <string name="missing_webview">Android System WebView ist nicht korrekt installiert. Jetzt installieren?</string>
     <string name="install">Installieren</string>
     <string name="crash_hint">Ups, die App ist abgestürzt.</string>
-    <string name="glean">Erkunden</string>
-    <string name="contact_us">Kontaktiere uns</string>
-    <string name="official_website">Offizielle Webseite</string>
     <string name="action_pic_mode">Bildmodus</string>
     <string name="find_next">Nächsten finden</string>
     <string name="find_pre">Vorherigen finden</string>

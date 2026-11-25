@@ -201,9 +201,6 @@
     <string name="missing_webview">Systém Android System WebView nieje správne nainštalovaný. Chcete ho nainštalovať teraz?</string>
     <string name="install">Inštalovať</string>
     <string name="crash_hint">Velmi velmi sa ospravedlňujeme za pád aplikácie.</string>
-    <string name="glean">Glean</string>
-    <string name="contact_us">Kontaktujte nás</string>
-    <string name="official_website">Oficiálni web</string>
     <string name="action_pic_mode">Režim obrazu</string>
     <string name="find_next">Nájsť další</string>
     <string name="find_pre">Nájsť predchádzajúci</string>
