@@ -474,6 +474,8 @@
     <string name="favorites_icon_color">Przezr.</string>
     <string name="favorites_icon_color_colorful">Wyłącz</string>
     <string name="favorites_icon_color_transparent">Włącz</string>
+    <string name="search_location">Wyszukaj lokalizację</string>
+    <string name="address_bar">Pasek adresu</string>
     <string name="search_bar_effect">Efekt paska</string>
     <string name="search_bar_effect_blur">Rozmycie</string>
     <string name="search_bar_effect_transparent">Przezr.</string>
@@ -1122,8 +1124,21 @@
     <string name="translation_provider_test_testing">Testowanie połączenia z dostawcą tłumaczeń</string>
     <string name="translation_provider_test_success">Dostawca tłumaczeń jest dostępny; kliknij, aby przetestować ponownie</string>
     <string name="translation_provider_test_error">Dostawca tłumaczeń jest niedostępny; kliknij, aby przetestować ponownie</string>
+    <string name="translation_loading">Tłumaczenie bieżącej treści</string>
+    <string name="translation_complete">Przetłumaczono bieżącą treść</string>
+    <string name="translation_display_mode">Tryb wyświetlania</string>
+    <string name="translation_only">Tylko tłumaczenie</string>
+    <string name="translation_bilingual">Dwujęzyczny</string>
     <string name="desc_expand_folder">Rozwiń %1$s</string>
     <string name="desc_collapse_folder">Zwiń %1$s</string>
     <string name="settings_search">Szukaj</string>
     <string name="fill_password_for_site">Wypełnij hasło dla %1$s</string>
+    <string name="gestures">Gesty</string>
+    <string name="video_gesture_settings">Gesty odtwarzacza wideo</string>
+    <string name="video_gesture_seek">Przesuń, aby przewinąć</string>
+    <string name="video_gesture_speed">Przytrzymaj, aby przyspieszyć</string>
+    <string name="video_gesture_volume">Dostosuj głośność</string>
+    <string name="video_gesture_brightness">Dostosuj jasność</string>
+    <string name="hold_playback_speed">Odtwarzanie w przyspieszonym tempie</string>
+    <string name="user_agent_for_site">Agent użytkownika (%1$s)</string>
 </resources>
