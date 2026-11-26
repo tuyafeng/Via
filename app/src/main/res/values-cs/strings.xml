@@ -197,9 +197,6 @@
     <string name="missing_webview">Android System WebView není správně nainstalován. Chcete jej nyní nainstalovat?</string>
     <string name="install">Instalovat</string>
     <string name="crash_hint">Velice se omlouváme za pád aplikace.</string>
-    <string name="glean">Prohlížeč Via</string>
-    <string name="contact_us">Kontaktujte nás</string>
-    <string name="official_website">Oficiální web</string>
     <string name="action_pic_mode">Režim bez obrázků</string>
     <string name="find_next">Najít další</string>
     <string name="find_pre">Najít předchozí</string>
@@ -451,6 +448,8 @@
     <string name="favorites_icon_color">Barva ikon</string>
     <string name="favorites_icon_color_colorful">Barevné</string>
     <string name="favorites_icon_color_transparent">Průhledné</string>
+    <string name="search_location">Umístění vyhledávání</string>
+    <string name="address_bar">Adresní řádek</string>
     <string name="search_bar_effect">Efekt lišty</string>
     <string name="search_bar_effect_blur">Rozostření</string>
     <string name="search_bar_effect_transparent">Průhlednost</string>
@@ -1064,7 +1063,6 @@
     <string name="action_download_image">Stáhnout obrázek</string>
     <string name="save_and_exit">Uložit a ukončit</string>
     <string name="playback_speed_description">Rychlost přehrávání, %1$s×</string>
-    <string name="tab_position_description">Karta %1$d z %2$d</string>
     <string name="accessibility_selected">Vybráno</string>
     <string name="accessibility_not_selected">Nevybráno</string>
     <string name="move_tab_previous">Přesunout kartu doleva</string>
@@ -1094,8 +1092,21 @@
     <string name="translation_provider_test_testing">Testování dostupnosti překladače…</string>
     <string name="translation_provider_test_success">Překladač je dostupný; klepnutím otestujete znovu</string>
     <string name="translation_provider_test_error">Překladač je nedostupný; klepnutím otestujete znovu</string>
+    <string name="translation_loading">Překládá se aktuální obsah</string>
+    <string name="translation_complete">Aktuální obsah byl přeložen</string>
+    <string name="translation_display_mode">Režim zobrazení</string>
+    <string name="translation_only">Pouze překlad</string>
+    <string name="translation_bilingual">Dvojjazyčně</string>
     <string name="desc_expand_folder">Rozbalit %1$s</string>
     <string name="desc_collapse_folder">Sbalit %1$s</string>
     <string name="settings_search">Hledat</string>
     <string name="fill_password_for_site">Vyplnit heslo pro %1$s</string>
+    <string name="gestures">Gesta</string>
+    <string name="video_gesture_settings">Gesta přehrávače videa</string>
+    <string name="video_gesture_seek">Přejetím posunout</string>
+    <string name="video_gesture_speed">Podržením zrychlit</string>
+    <string name="video_gesture_volume">Upravit hlasitost</string>
+    <string name="video_gesture_brightness">Upravit jas</string>
+    <string name="hold_playback_speed">Přehrávání zvýšenou rychlostí</string>
+    <string name="user_agent_for_site">Identifikace prohlížeče (%1$s)</string>
 </resources>
