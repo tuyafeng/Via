@@ -208,7 +208,7 @@
     <string name="import_or_export_bookmarks">Импорт/экспорт закладок</string>
     <string name="export_bookmarks">Экспорт закладок</string>
     <string name="back_forward_gesture">Жест \"назад–вперёд\"</string>
-    <string name="toolbar_settings_hint">Нажмите кнопку для установки своего действия при длительном нажатии, удерживайте нажатие для просмотра установленного действия или используйте жест для установки своего действия жестом.</string>
+    <string name="toolbar_settings_hint">Нажмите кнопку для установки своего действия при длительном нажатии, удерживайте нажатие для просмотра установленного действия или используйте жест скольжения для установки своего действия этим жестом.</string>
     <string name="action_modify">Изменить</string>
     <string name="operation_hint">Управление жестами, кнопками и т.д.</string>
     <string name="adblock_info">Включено: %1$d рекламных объявлений заблокировано, %2$s сэкономлено</string>
@@ -458,6 +458,8 @@
     <string name="favorites_icon_color">Цвет значков</string>
     <string name="favorites_icon_color_colorful">Цветные</string>
     <string name="favorites_icon_color_transparent">Прозрачные</string>
+    <string name="search_location">Местоположение поиска</string>
+    <string name="address_bar">Адресная строка</string>
     <string name="search_bar_effect">Эффект панели</string>
     <string name="search_bar_effect_blur">Размытие</string>
     <string name="search_bar_effect_transparent">Прозрачность</string>
@@ -1095,8 +1097,21 @@
     <string name="translation_provider_test_testing">Проверка подключения системы перевода</string>
     <string name="translation_provider_test_success">Система перевода доступна; нажмите для повторной проверки</string>
     <string name="translation_provider_test_error">Система перевода недоступна; нажмите для повторной проверки</string>
+    <string name="translation_loading">Выполняется перевод</string>
+    <string name="translation_complete">Перерод завершён</string>
+    <string name="translation_display_mode">Режим отображения</string>
+    <string name="translation_only">Только перевод</string>
+    <string name="translation_bilingual">Двуязычный</string>
     <string name="desc_expand_folder">Развернуть %1$s</string>
     <string name="desc_collapse_folder">Свернуть %1$s</string>
     <string name="settings_search">Поиск</string>
     <string name="fill_password_for_site">Заполнить пароль для %1$s</string>
+    <string name="gestures">Жесты</string>
+    <string name="video_gesture_settings">Жесты видеопроигрывателя</string>
+    <string name="video_gesture_seek">Перемотка жестом скольжения</string>
+    <string name="video_gesture_speed">Ускорение длительным нажатием</string>
+    <string name="video_gesture_volume">Регулировка громкости</string>
+    <string name="video_gesture_brightness">Регулировка яркости</string>
+    <string name="hold_playback_speed">Воспроизведение на повышенной скорости</string>
+    <string name="user_agent_for_site">User agent (%1$s)</string>
 </resources>
